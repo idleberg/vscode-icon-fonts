@@ -1,0 +1,966 @@
+{
+  "dashicons-dashboard": {
+    "prefix": "dashicons-dashboard",
+    "body": "content: '\\\\f226';"
+  },
+  "dashicons-image-rotate-right": {
+    "prefix": "dashicons-image-rotate-right",
+    "body": "content: '\\\\f167';"
+  },
+  "dashicons-translation": {
+    "prefix": "dashicons-translation",
+    "body": "content: '\\\\f326';"
+  },
+  "dashicons-shield-alt": {
+    "prefix": "dashicons-shield-alt",
+    "body": "content: '\\\\f334';"
+  },
+  "dashicons-share-alt2": {
+    "prefix": "dashicons-share-alt2",
+    "body": "content: '\\\\f242';"
+  },
+  "dashicons-controls-pause": {
+    "prefix": "dashicons-controls-pause",
+    "body": "content: '\\\\f523';"
+  },
+  "dashicons-plus": {
+    "prefix": "dashicons-plus",
+    "body": "content: '\\\\f132';"
+  },
+  "dashicons-arrow-down": {
+    "prefix": "dashicons-arrow-down",
+    "body": "content: '\\\\f140';"
+  },
+  "dashicons-welcome-comments": {
+    "prefix": "dashicons-welcome-comments",
+    "body": "content: '\\\\f117';"
+  },
+  "dashicons-feedback": {
+    "prefix": "dashicons-feedback",
+    "body": "content: '\\\\f175';"
+  },
+  "dashicons-arrow-down-alt": {
+    "prefix": "dashicons-arrow-down-alt",
+    "body": "content: '\\\\f346';"
+  },
+  "dashicons-admin-settings": {
+    "prefix": "dashicons-admin-settings",
+    "body": "content: '\\\\f108';"
+  },
+  "dashicons-editor-insertmore": {
+    "prefix": "dashicons-editor-insertmore",
+    "body": "content: '\\\\f209';"
+  },
+  "dashicons-image-flip-horizontal": {
+    "prefix": "dashicons-image-flip-horizontal",
+    "body": "content: '\\\\f169';"
+  },
+  "dashicons-star-filled": {
+    "prefix": "dashicons-star-filled",
+    "body": "content: '\\\\f155';"
+  },
+  "dashicons-media-interactive": {
+    "prefix": "dashicons-media-interactive",
+    "body": "content: '\\\\f496';"
+  },
+  "dashicons-slides": {
+    "prefix": "dashicons-slides",
+    "body": "content: '\\\\f181';"
+  },
+  "dashicons-calendar": {
+    "prefix": "dashicons-calendar",
+    "body": "content: '\\\\f145';"
+  },
+  "dashicons-editor-help": {
+    "prefix": "dashicons-editor-help",
+    "body": "content: '\\\\f223';"
+  },
+  "dashicons-playlist-video": {
+    "prefix": "dashicons-playlist-video",
+    "body": "content: '\\\\f493';"
+  },
+  "dashicons-unlock": {
+    "prefix": "dashicons-unlock",
+    "body": "content: '\\\\f528';"
+  },
+  "dashicons-post-status": {
+    "prefix": "dashicons-post-status",
+    "body": "content: '\\\\f173';"
+  },
+  "dashicons-album": {
+    "prefix": "dashicons-album",
+    "body": "content: '\\\\f514';"
+  },
+  "dashicons-image-rotate": {
+    "prefix": "dashicons-image-rotate",
+    "body": "content: '\\\\f531';"
+  },
+  "dashicons-arrow-up": {
+    "prefix": "dashicons-arrow-up",
+    "body": "content: '\\\\f142';"
+  },
+  "dashicons-update": {
+    "prefix": "dashicons-update",
+    "body": "content: '\\\\f463';"
+  },
+  "dashicons-microphone": {
+    "prefix": "dashicons-microphone",
+    "body": "content: '\\\\f482';"
+  },
+  "dashicons-camera": {
+    "prefix": "dashicons-camera",
+    "body": "content: '\\\\f306';"
+  },
+  "dashicons-plus-alt": {
+    "prefix": "dashicons-plus-alt",
+    "body": "content: '\\\\f502';"
+  },
+  "dashicons-image-flip-vertical": {
+    "prefix": "dashicons-image-flip-vertical",
+    "body": "content: '\\\\f168';"
+  },
+  "dashicons-category": {
+    "prefix": "dashicons-category",
+    "body": "content: '\\\\f318';"
+  },
+  "dashicons-welcome-learn-more": {
+    "prefix": "dashicons-welcome-learn-more",
+    "body": "content: '\\\\f118';"
+  },
+  "dashicons-text": {
+    "prefix": "dashicons-text",
+    "body": "content: '\\\\f478';"
+  },
+  "dashicons-editor-rtl": {
+    "prefix": "dashicons-editor-rtl",
+    "body": "content: '\\\\f320';"
+  },
+  "dashicons-email-alt": {
+    "prefix": "dashicons-email-alt",
+    "body": "content: '\\\\f466';"
+  },
+  "dashicons-admin-customizer": {
+    "prefix": "dashicons-admin-customizer",
+    "body": "content: '\\\\f540';"
+  },
+  "dashicons-admin-plugins": {
+    "prefix": "dashicons-admin-plugins",
+    "body": "content: '\\\\f106';"
+  },
+  "dashicons-video-alt3": {
+    "prefix": "dashicons-video-alt3",
+    "body": "content: '\\\\f236';"
+  },
+  "dashicons-rss": {
+    "prefix": "dashicons-rss",
+    "body": "content: '\\\\f303';"
+  },
+  "dashicons-upload": {
+    "prefix": "dashicons-upload",
+    "body": "content: '\\\\f317';"
+  },
+  "dashicons-editor-justify": {
+    "prefix": "dashicons-editor-justify",
+    "body": "content: '\\\\f214';"
+  },
+  "dashicons-editor-unlink": {
+    "prefix": "dashicons-editor-unlink",
+    "body": "content: '\\\\f225';"
+  },
+  "dashicons-marker": {
+    "prefix": "dashicons-marker",
+    "body": "content: '\\\\f159';"
+  },
+  "dashicons-dismiss": {
+    "prefix": "dashicons-dismiss",
+    "body": "content: '\\\\f153';"
+  },
+  "dashicons-chart-area": {
+    "prefix": "dashicons-chart-area",
+    "body": "content: '\\\\f239';"
+  },
+  "dashicons-thumbs-up": {
+    "prefix": "dashicons-thumbs-up",
+    "body": "content: '\\\\f529';"
+  },
+  "dashicons-trash": {
+    "prefix": "dashicons-trash",
+    "body": "content: '\\\\f182';"
+  },
+  "dashicons-admin-home": {
+    "prefix": "dashicons-admin-home",
+    "body": "content: '\\\\f102';"
+  },
+  "dashicons-align-center": {
+    "prefix": "dashicons-align-center",
+    "body": "content: '\\\\f134';"
+  },
+  "dashicons-admin-comments": {
+    "prefix": "dashicons-admin-comments",
+    "body": "content: '\\\\f101';"
+  },
+  "dashicons-cloud": {
+    "prefix": "dashicons-cloud",
+    "body": "content: '\\\\f176';"
+  },
+  "dashicons-nametag": {
+    "prefix": "dashicons-nametag",
+    "body": "content: '\\\\f484';"
+  },
+  "dashicons-store": {
+    "prefix": "dashicons-store",
+    "body": "content: '\\\\f513';"
+  },
+  "dashicons-book": {
+    "prefix": "dashicons-book",
+    "body": "content: '\\\\f330';"
+  },
+  "dashicons-index-card": {
+    "prefix": "dashicons-index-card",
+    "body": "content: '\\\\f510';"
+  },
+  "dashicons-media-document": {
+    "prefix": "dashicons-media-document",
+    "body": "content: '\\\\f497';"
+  },
+  "dashicons-format-status": {
+    "prefix": "dashicons-format-status",
+    "body": "content: '\\\\f130';"
+  },
+  "dashicons-laptop": {
+    "prefix": "dashicons-laptop",
+    "body": "content: '\\\\f547';"
+  },
+  "dashicons-controls-forward": {
+    "prefix": "dashicons-controls-forward",
+    "body": "content: '\\\\f519';"
+  },
+  "dashicons-testimonial": {
+    "prefix": "dashicons-testimonial",
+    "body": "content: '\\\\f473';"
+  },
+  "dashicons-editor-contract": {
+    "prefix": "dashicons-editor-contract",
+    "body": "content: '\\\\f506';"
+  },
+  "dashicons-tickets-alt": {
+    "prefix": "dashicons-tickets-alt",
+    "body": "content: '\\\\f524';"
+  },
+  "dashicons-editor-textcolor": {
+    "prefix": "dashicons-editor-textcolor",
+    "body": "content: '\\\\f215';"
+  },
+  "dashicons-editor-expand": {
+    "prefix": "dashicons-editor-expand",
+    "body": "content: '\\\\f211';"
+  },
+  "dashicons-megaphone": {
+    "prefix": "dashicons-megaphone",
+    "body": "content: '\\\\f488';"
+  },
+  "dashicons-id-alt": {
+    "prefix": "dashicons-id-alt",
+    "body": "content: '\\\\f337';"
+  },
+  "dashicons-arrow-right-alt2": {
+    "prefix": "dashicons-arrow-right-alt2",
+    "body": "content: '\\\\f345';"
+  },
+  "dashicons-smartphone": {
+    "prefix": "dashicons-smartphone",
+    "body": "content: '\\\\f470';"
+  },
+  "dashicons-media-code": {
+    "prefix": "dashicons-media-code",
+    "body": "content: '\\\\f499';"
+  },
+  "dashicons-admin-post": {
+    "prefix": "dashicons-admin-post",
+    "body": "content: '\\\\f109';"
+  },
+  "dashicons-twitter": {
+    "prefix": "dashicons-twitter",
+    "body": "content: '\\\\f301';"
+  },
+  "dashicons-editor-video": {
+    "prefix": "dashicons-editor-video",
+    "body": "content: '\\\\f219';"
+  },
+  "dashicons-editor-removeformatting": {
+    "prefix": "dashicons-editor-removeformatting",
+    "body": "content: '\\\\f218';"
+  },
+  "dashicons-welcome-add-page": {
+    "prefix": "dashicons-welcome-add-page",
+    "body": "content: '\\\\f133';"
+  },
+  "dashicons-facebook-alt": {
+    "prefix": "dashicons-facebook-alt",
+    "body": "content: '\\\\f305';"
+  },
+  "dashicons-align-none": {
+    "prefix": "dashicons-align-none",
+    "body": "content: '\\\\f138';"
+  },
+  "dashicons-format-chat": {
+    "prefix": "dashicons-format-chat",
+    "body": "content: '\\\\f125';"
+  },
+  "dashicons-performance": {
+    "prefix": "dashicons-performance",
+    "body": "content: '\\\\f311';"
+  },
+  "dashicons-clock": {
+    "prefix": "dashicons-clock",
+    "body": "content: '\\\\f469';"
+  },
+  "dashicons-location-alt": {
+    "prefix": "dashicons-location-alt",
+    "body": "content: '\\\\f231';"
+  },
+  "dashicons-media-text": {
+    "prefix": "dashicons-media-text",
+    "body": "content: '\\\\f491';"
+  },
+  "dashicons-yes": {
+    "prefix": "dashicons-yes",
+    "body": "content: '\\\\f147';"
+  },
+  "dashicons-arrow-up-alt2": {
+    "prefix": "dashicons-arrow-up-alt2",
+    "body": "content: '\\\\f343';"
+  },
+  "dashicons-phone": {
+    "prefix": "dashicons-phone",
+    "body": "content: '\\\\f525';"
+  },
+  "dashicons-controls-skipback": {
+    "prefix": "dashicons-controls-skipback",
+    "body": "content: '\\\\f516';"
+  },
+  "dashicons-edit": {
+    "prefix": "dashicons-edit",
+    "body": "content: '\\\\f464';"
+  },
+  "dashicons-visibility": {
+    "prefix": "dashicons-visibility",
+    "body": "content: '\\\\f177';"
+  },
+  "dashicons-admin-site": {
+    "prefix": "dashicons-admin-site",
+    "body": "content: '\\\\f319';"
+  },
+  "dashicons-editor-bold": {
+    "prefix": "dashicons-editor-bold",
+    "body": "content: '\\\\f200';"
+  },
+  "dashicons-chart-bar": {
+    "prefix": "dashicons-chart-bar",
+    "body": "content: '\\\\f185';"
+  },
+  "dashicons-format-image": {
+    "prefix": "dashicons-format-image",
+    "body": "content: '\\\\f128';"
+  },
+  "dashicons-editor-distractionfree": {
+    "prefix": "dashicons-editor-distractionfree",
+    "body": "content: '\\\\f211';"
+  },
+  "dashicons-editor-spellcheck": {
+    "prefix": "dashicons-editor-spellcheck",
+    "body": "content: '\\\\f210';"
+  },
+  "dashicons-layout": {
+    "prefix": "dashicons-layout",
+    "body": "content: '\\\\f538';"
+  },
+  "dashicons-editor-paragraph": {
+    "prefix": "dashicons-editor-paragraph",
+    "body": "content: '\\\\f476';"
+  },
+  "dashicons-lock": {
+    "prefix": "dashicons-lock",
+    "body": "content: '\\\\f160';"
+  },
+  "dashicons-welcome-widgets-menus": {
+    "prefix": "dashicons-welcome-widgets-menus",
+    "body": "content: '\\\\f116';"
+  },
+  "dashicons-media-video": {
+    "prefix": "dashicons-media-video",
+    "body": "content: '\\\\f490';"
+  },
+  "dashicons-wordpress": {
+    "prefix": "dashicons-wordpress",
+    "body": "content: '\\\\f120';"
+  },
+  "dashicons-editor-paste-word": {
+    "prefix": "dashicons-editor-paste-word",
+    "body": "content: '\\\\f216';"
+  },
+  "dashicons-images-alt": {
+    "prefix": "dashicons-images-alt",
+    "body": "content: '\\\\f232';"
+  },
+  "dashicons-businessman": {
+    "prefix": "dashicons-businessman",
+    "body": "content: '\\\\f338';"
+  },
+  "dashicons-pressthis": {
+    "prefix": "dashicons-pressthis",
+    "body": "content: '\\\\f157';"
+  },
+  "dashicons-randomize": {
+    "prefix": "dashicons-randomize",
+    "body": "content: '\\\\f503';"
+  },
+  "dashicons-editor-kitchensink": {
+    "prefix": "dashicons-editor-kitchensink",
+    "body": "content: '\\\\f212';"
+  },
+  "dashicons-format-audio": {
+    "prefix": "dashicons-format-audio",
+    "body": "content: '\\\\f127';"
+  },
+  "dashicons-editor-underline": {
+    "prefix": "dashicons-editor-underline",
+    "body": "content: '\\\\f213';"
+  },
+  "dashicons-share": {
+    "prefix": "dashicons-share",
+    "body": "content: '\\\\f237';"
+  },
+  "dashicons-no-alt": {
+    "prefix": "dashicons-no-alt",
+    "body": "content: '\\\\f335';"
+  },
+  "dashicons-editor-alignleft": {
+    "prefix": "dashicons-editor-alignleft",
+    "body": "content: '\\\\f206';"
+  },
+  "dashicons-editor-paste-text": {
+    "prefix": "dashicons-editor-paste-text",
+    "body": "content: '\\\\f217';"
+  },
+  "dashicons-screenoptions": {
+    "prefix": "dashicons-screenoptions",
+    "body": "content: '\\\\f180';"
+  },
+  "dashicons-tagcloud": {
+    "prefix": "dashicons-tagcloud",
+    "body": "content: '\\\\f479';"
+  },
+  "dashicons-editor-table": {
+    "prefix": "dashicons-editor-table",
+    "body": "content: '\\\\f535';"
+  },
+  "dashicons-forms": {
+    "prefix": "dashicons-forms",
+    "body": "content: '\\\\f314';"
+  },
+  "dashicons-editor-indent": {
+    "prefix": "dashicons-editor-indent",
+    "body": "content: '\\\\f222';"
+  },
+  "dashicons-universal-access-alt": {
+    "prefix": "dashicons-universal-access-alt",
+    "body": "content: '\\\\f507';"
+  },
+  "dashicons-heart": {
+    "prefix": "dashicons-heart",
+    "body": "content: '\\\\f487';"
+  },
+  "dashicons-editor-ol": {
+    "prefix": "dashicons-editor-ol",
+    "body": "content: '\\\\f204';"
+  },
+  "dashicons-controls-volumeon": {
+    "prefix": "dashicons-controls-volumeon",
+    "body": "content: '\\\\f521';"
+  },
+  "dashicons-admin-collapse": {
+    "prefix": "dashicons-admin-collapse",
+    "body": "content: '\\\\f148';"
+  },
+  "dashicons-info": {
+    "prefix": "dashicons-info",
+    "body": "content: '\\\\f348';"
+  },
+  "dashicons-carrot": {
+    "prefix": "dashicons-carrot",
+    "body": "content: '\\\\f511';"
+  },
+  "dashicons-archive": {
+    "prefix": "dashicons-archive",
+    "body": "content: '\\\\f480';"
+  },
+  "dashicons-editor-outdent": {
+    "prefix": "dashicons-editor-outdent",
+    "body": "content: '\\\\f221';"
+  },
+  "dashicons-admin-generic": {
+    "prefix": "dashicons-admin-generic",
+    "body": "content: '\\\\f111';"
+  },
+  "dashicons-list-view": {
+    "prefix": "dashicons-list-view",
+    "body": "content: '\\\\f163';"
+  },
+  "dashicons-format-quote": {
+    "prefix": "dashicons-format-quote",
+    "body": "content: '\\\\f122';"
+  },
+  "dashicons-plus-alt2": {
+    "prefix": "dashicons-plus-alt2",
+    "body": "content: '\\\\f543';"
+  },
+  "dashicons-admin-users": {
+    "prefix": "dashicons-admin-users",
+    "body": "content: '\\\\f110';"
+  },
+  "dashicons-post-trash": {
+    "prefix": "dashicons-post-trash",
+    "body": "content: '\\\\f182';"
+  },
+  "dashicons-book-alt": {
+    "prefix": "dashicons-book-alt",
+    "body": "content: '\\\\f331';"
+  },
+  "dashicons-universal-access": {
+    "prefix": "dashicons-universal-access",
+    "body": "content: '\\\\f483';"
+  },
+  "dashicons-editor-break": {
+    "prefix": "dashicons-editor-break",
+    "body": "content: '\\\\f474';"
+  },
+  "dashicons-format-standard": {
+    "prefix": "dashicons-format-standard",
+    "body": "content: '\\\\f109';"
+  },
+  "dashicons-migrate": {
+    "prefix": "dashicons-migrate",
+    "body": "content: '\\\\f310';"
+  },
+  "dashicons-editor-italic": {
+    "prefix": "dashicons-editor-italic",
+    "body": "content: '\\\\f201';"
+  },
+  "dashicons-shield": {
+    "prefix": "dashicons-shield",
+    "body": "content: '\\\\f332';"
+  },
+  "dashicons-welcome-edit-page": {
+    "prefix": "dashicons-welcome-edit-page",
+    "body": "content: '\\\\f119';"
+  },
+  "dashicons-cart": {
+    "prefix": "dashicons-cart",
+    "body": "content: '\\\\f174';"
+  },
+  "dashicons-editor-alignright": {
+    "prefix": "dashicons-editor-alignright",
+    "body": "content: '\\\\f208';"
+  },
+  "dashicons-thumbs-down": {
+    "prefix": "dashicons-thumbs-down",
+    "body": "content: '\\\\f542';"
+  },
+  "dashicons-hammer": {
+    "prefix": "dashicons-hammer",
+    "body": "content: '\\\\f308';"
+  },
+  "dashicons-admin-tools": {
+    "prefix": "dashicons-admin-tools",
+    "body": "content: '\\\\f107';"
+  },
+  "dashicons-tablet": {
+    "prefix": "dashicons-tablet",
+    "body": "content: '\\\\f471';"
+  },
+  "dashicons-building": {
+    "prefix": "dashicons-building",
+    "body": "content: '\\\\f512';"
+  },
+  "dashicons-format-video": {
+    "prefix": "dashicons-format-video",
+    "body": "content: '\\\\f126';"
+  },
+  "dashicons-media-default": {
+    "prefix": "dashicons-media-default",
+    "body": "content: '\\\\f498';"
+  },
+  "dashicons-groups": {
+    "prefix": "dashicons-groups",
+    "body": "content: '\\\\f307';"
+  },
+  "dashicons-arrow-down-alt2": {
+    "prefix": "dashicons-arrow-down-alt2",
+    "body": "content: '\\\\f347';"
+  },
+  "dashicons-art": {
+    "prefix": "dashicons-art",
+    "body": "content: '\\\\f309';"
+  },
+  "dashicons-media-audio": {
+    "prefix": "dashicons-media-audio",
+    "body": "content: '\\\\f500';"
+  },
+  "dashicons-arrow-left-alt2": {
+    "prefix": "dashicons-arrow-left-alt2",
+    "body": "content: '\\\\f341';"
+  },
+  "dashicons-desktop": {
+    "prefix": "dashicons-desktop",
+    "body": "content: '\\\\f472';"
+  },
+  "dashicons-media-spreadsheet": {
+    "prefix": "dashicons-media-spreadsheet",
+    "body": "content: '\\\\f495';"
+  },
+  "dashicons-star-empty": {
+    "prefix": "dashicons-star-empty",
+    "body": "content: '\\\\f154';"
+  },
+  "dashicons-minus": {
+    "prefix": "dashicons-minus",
+    "body": "content: '\\\\f460';"
+  },
+  "dashicons-sos": {
+    "prefix": "dashicons-sos",
+    "body": "content: '\\\\f468';"
+  },
+  "dashicons-backup": {
+    "prefix": "dashicons-backup",
+    "body": "content: '\\\\f321';"
+  },
+  "dashicons-move": {
+    "prefix": "dashicons-move",
+    "body": "content: '\\\\f545';"
+  },
+  "dashicons-video-alt2": {
+    "prefix": "dashicons-video-alt2",
+    "body": "content: '\\\\f235';"
+  },
+  "dashicons-tickets": {
+    "prefix": "dashicons-tickets",
+    "body": "content: '\\\\f486';"
+  },
+  "dashicons-admin-media": {
+    "prefix": "dashicons-admin-media",
+    "body": "content: '\\\\f104';"
+  },
+  "dashicons-image-filter": {
+    "prefix": "dashicons-image-filter",
+    "body": "content: '\\\\f533';"
+  },
+  "dashicons-editor-ul": {
+    "prefix": "dashicons-editor-ul",
+    "body": "content: '\\\\f203';"
+  },
+  "dashicons-schedule": {
+    "prefix": "dashicons-schedule",
+    "body": "content: '\\\\f489';"
+  },
+  "dashicons-warning": {
+    "prefix": "dashicons-warning",
+    "body": "content: '\\\\f534';"
+  },
+  "dashicons-smiley": {
+    "prefix": "dashicons-smiley",
+    "body": "content: '\\\\f328';"
+  },
+  "dashicons-portfolio": {
+    "prefix": "dashicons-portfolio",
+    "body": "content: '\\\\f322';"
+  },
+  "dashicons-search": {
+    "prefix": "dashicons-search",
+    "body": "content: '\\\\f179';"
+  },
+  "dashicons-calendar-alt": {
+    "prefix": "dashicons-calendar-alt",
+    "body": "content: '\\\\f508';"
+  },
+  "dashicons-images-alt2": {
+    "prefix": "dashicons-images-alt2",
+    "body": "content: '\\\\f233';"
+  },
+  "dashicons-star-half": {
+    "prefix": "dashicons-star-half",
+    "body": "content: '\\\\f459';"
+  },
+  "dashicons-editor-quote": {
+    "prefix": "dashicons-editor-quote",
+    "body": "content: '\\\\f205';"
+  },
+  "dashicons-arrow-left-alt": {
+    "prefix": "dashicons-arrow-left-alt",
+    "body": "content: '\\\\f340';"
+  },
+  "dashicons-flag": {
+    "prefix": "dashicons-flag",
+    "body": "content: '\\\\f227';"
+  },
+  "dashicons-admin-multisite": {
+    "prefix": "dashicons-admin-multisite",
+    "body": "content: '\\\\f541';"
+  },
+  "dashicons-sort": {
+    "prefix": "dashicons-sort",
+    "body": "content: '\\\\f156';"
+  },
+  "dashicons-controls-volumeoff": {
+    "prefix": "dashicons-controls-volumeoff",
+    "body": "content: '\\\\f520';"
+  },
+  "dashicons-clipboard": {
+    "prefix": "dashicons-clipboard",
+    "body": "content: '\\\\f481';"
+  },
+  "dashicons-image-crop": {
+    "prefix": "dashicons-image-crop",
+    "body": "content: '\\\\f165';"
+  },
+  "dashicons-format-links": {
+    "prefix": "dashicons-format-links",
+    "body": "content: '\\\\f103';"
+  },
+  "dashicons-googleplus": {
+    "prefix": "dashicons-googleplus",
+    "body": "content: '\\\\f462';"
+  },
+  "dashicons-arrow-right": {
+    "prefix": "dashicons-arrow-right",
+    "body": "content: '\\\\f139';"
+  },
+  "dashicons-leftright": {
+    "prefix": "dashicons-leftright",
+    "body": "content: '\\\\f229';"
+  },
+  "dashicons-chart-pie": {
+    "prefix": "dashicons-chart-pie",
+    "body": "content: '\\\\f184';"
+  },
+  "dashicons-welcome-view-site": {
+    "prefix": "dashicons-welcome-view-site",
+    "body": "content: '\\\\f115';"
+  },
+  "dashicons-video-alt": {
+    "prefix": "dashicons-video-alt",
+    "body": "content: '\\\\f234';"
+  },
+  "dashicons-arrow-right-alt": {
+    "prefix": "dashicons-arrow-right-alt",
+    "body": "content: '\\\\f344';"
+  },
+  "dashicons-controls-repeat": {
+    "prefix": "dashicons-controls-repeat",
+    "body": "content: '\\\\f515';"
+  },
+  "dashicons-products": {
+    "prefix": "dashicons-products",
+    "body": "content: '\\\\f312';"
+  },
+  "dashicons-redo": {
+    "prefix": "dashicons-redo",
+    "body": "content: '\\\\f172';"
+  },
+  "dashicons-email": {
+    "prefix": "dashicons-email",
+    "body": "content: '\\\\f465';"
+  },
+  "dashicons-playlist-audio": {
+    "prefix": "dashicons-playlist-audio",
+    "body": "content: '\\\\f492';"
+  },
+  "dashicons-editor-strikethrough": {
+    "prefix": "dashicons-editor-strikethrough",
+    "body": "content: '\\\\f224';"
+  },
+  "dashicons-palmtree": {
+    "prefix": "dashicons-palmtree",
+    "body": "content: '\\\\f527';"
+  },
+  "dashicons-admin-network": {
+    "prefix": "dashicons-admin-network",
+    "body": "content: '\\\\f112';"
+  },
+  "dashicons-editor-aligncenter": {
+    "prefix": "dashicons-editor-aligncenter",
+    "body": "content: '\\\\f207';"
+  },
+  "dashicons-location": {
+    "prefix": "dashicons-location",
+    "body": "content: '\\\\f230';"
+  },
+  "dashicons-download": {
+    "prefix": "dashicons-download",
+    "body": "content: '\\\\f316';"
+  },
+  "dashicons-paperclip": {
+    "prefix": "dashicons-paperclip",
+    "body": "content: '\\\\f546';"
+  },
+  "dashicons-grid-view": {
+    "prefix": "dashicons-grid-view",
+    "body": "content: '\\\\f509';"
+  },
+  "dashicons-editor-customchar": {
+    "prefix": "dashicons-editor-customchar",
+    "body": "content: '\\\\f220';"
+  },
+  "dashicons-arrow-left": {
+    "prefix": "dashicons-arrow-left",
+    "body": "content: '\\\\f141';"
+  },
+  "dashicons-tag": {
+    "prefix": "dashicons-tag",
+    "body": "content: '\\\\f323';"
+  },
+  "dashicons-filter": {
+    "prefix": "dashicons-filter",
+    "body": "content: '\\\\f536';"
+  },
+  "dashicons-money": {
+    "prefix": "dashicons-money",
+    "body": "content: '\\\\f526';"
+  },
+  "dashicons-no": {
+    "prefix": "dashicons-no",
+    "body": "content: '\\\\f158';"
+  },
+  "dashicons-controls-skipforward": {
+    "prefix": "dashicons-controls-skipforward",
+    "body": "content: '\\\\f517';"
+  },
+  "dashicons-share1": {
+    "prefix": "dashicons-share1",
+    "body": "content: '\\\\f237';"
+  },
+  "dashicons-format-gallery": {
+    "prefix": "dashicons-format-gallery",
+    "body": "content: '\\\\f161';"
+  },
+  "dashicons-exerpt-view": {
+    "prefix": "dashicons-exerpt-view",
+    "body": "content: '\\\\f164';"
+  },
+  "dashicons-admin-appearance": {
+    "prefix": "dashicons-admin-appearance",
+    "body": "content: '\\\\f100';"
+  },
+  "dashicons-lightbulb": {
+    "prefix": "dashicons-lightbulb",
+    "body": "content: '\\\\f339';"
+  },
+  "dashicons-admin-page": {
+    "prefix": "dashicons-admin-page",
+    "body": "content: '\\\\f105';"
+  },
+  "dashicons-networking": {
+    "prefix": "dashicons-networking",
+    "body": "content: '\\\\f325';"
+  },
+  "dashicons-wordpress-alt": {
+    "prefix": "dashicons-wordpress-alt",
+    "body": "content: '\\\\f324';"
+  },
+  "dashicons-menu": {
+    "prefix": "dashicons-menu",
+    "body": "content: '\\\\f333';"
+  },
+  "dashicons-admin-links": {
+    "prefix": "dashicons-admin-links",
+    "body": "content: '\\\\f103';"
+  },
+  "dashicons-external": {
+    "prefix": "dashicons-external",
+    "body": "content: '\\\\f504';"
+  },
+  "dashicons-vault": {
+    "prefix": "dashicons-vault",
+    "body": "content: '\\\\f178';"
+  },
+  "dashicons-share-alt": {
+    "prefix": "dashicons-share-alt",
+    "body": "content: '\\\\f240';"
+  },
+  "dashicons-excerpt-view": {
+    "prefix": "dashicons-excerpt-view",
+    "body": "content: '\\\\f164';"
+  },
+  "dashicons-image-rotate-left": {
+    "prefix": "dashicons-image-rotate-left",
+    "body": "content: '\\\\f166';"
+  },
+  "dashicons-controls-back": {
+    "prefix": "dashicons-controls-back",
+    "body": "content: '\\\\f518';"
+  },
+  "dashicons-facebook": {
+    "prefix": "dashicons-facebook",
+    "body": "content: '\\\\f304';"
+  },
+  "dashicons-sticky": {
+    "prefix": "dashicons-sticky",
+    "body": "content: '\\\\f537';"
+  },
+  "dashicons-chart-line": {
+    "prefix": "dashicons-chart-line",
+    "body": "content: '\\\\f238';"
+  },
+  "dashicons-welcome-write-blog": {
+    "prefix": "dashicons-welcome-write-blog",
+    "body": "content: '\\\\f119';"
+  },
+  "dashicons-hidden": {
+    "prefix": "dashicons-hidden",
+    "body": "content: '\\\\f530';"
+  },
+  "dashicons-align-left": {
+    "prefix": "dashicons-align-left",
+    "body": "content: '\\\\f135';"
+  },
+  "dashicons-editor-code": {
+    "prefix": "dashicons-editor-code",
+    "body": "content: '\\\\f475';"
+  },
+  "dashicons-analytics": {
+    "prefix": "dashicons-analytics",
+    "body": "content: '\\\\f183';"
+  },
+  "dashicons-media-archive": {
+    "prefix": "dashicons-media-archive",
+    "body": "content: '\\\\f501';"
+  },
+  "dashicons-arrow-up-alt": {
+    "prefix": "dashicons-arrow-up-alt",
+    "body": "content: '\\\\f342';"
+  },
+  "dashicons-awards": {
+    "prefix": "dashicons-awards",
+    "body": "content: '\\\\f313';"
+  },
+  "dashicons-format-aside": {
+    "prefix": "dashicons-format-aside",
+    "body": "content: '\\\\f123';"
+  },
+  "dashicons-undo": {
+    "prefix": "dashicons-undo",
+    "body": "content: '\\\\f171';"
+  },
+  "dashicons-align-right": {
+    "prefix": "dashicons-align-right",
+    "body": "content: '\\\\f136';"
+  },
+  "dashicons-controls-play": {
+    "prefix": "dashicons-controls-play",
+    "body": "content: '\\\\f522';"
+  },
+  "dashicons-id": {
+    "prefix": "dashicons-id",
+    "body": "content: '\\\\f336';"
+  }
+}

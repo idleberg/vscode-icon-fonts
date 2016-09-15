@@ -1,0 +1,894 @@
+{
+  "oi-contrast": {
+    "prefix": "oi-contrast",
+    "body": "content: '\\\\e049';"
+  },
+  "oi-check": {
+    "prefix": "oi-check",
+    "body": "content: '\\\\e033';"
+  },
+  "oi-euro": {
+    "prefix": "oi-euro",
+    "body": "content: '\\\\e05e';"
+  },
+  "oi-fire": {
+    "prefix": "oi-fire",
+    "body": "content: '\\\\e068';"
+  },
+  "oi-share": {
+    "prefix": "oi-share",
+    "body": "content: '\\\\e0bb';"
+  },
+  "oi-microphone": {
+    "prefix": "oi-microphone",
+    "body": "content: '\\\\e09c';"
+  },
+  "oi-bluetooth": {
+    "prefix": "oi-bluetooth",
+    "body": "content: '\\\\e01e';"
+  },
+  "oi-box": {
+    "prefix": "oi-box",
+    "body": "content: '\\\\e023';"
+  },
+  "oi-underline": {
+    "prefix": "oi-underline",
+    "body": "content: '\\\\e0d0';"
+  },
+  "oi-sun": {
+    "prefix": "oi-sun",
+    "body": "content: '\\\\e0c3';"
+  },
+  "oi-circle-check": {
+    "prefix": "oi-circle-check",
+    "body": "content: '\\\\e038';"
+  },
+  "oi-loop-square": {
+    "prefix": "oi-loop-square",
+    "body": "content: '\\\\e08d';"
+  },
+  "oi-move": {
+    "prefix": "oi-move",
+    "body": "content: '\\\\e0a0';"
+  },
+  "oi-yen": {
+    "prefix": "oi-yen",
+    "body": "content: '\\\\e0dc';"
+  },
+  "oi-layers": {
+    "prefix": "oi-layers",
+    "body": "content: '\\\\e083';"
+  },
+  "oi-arrow-thick-left": {
+    "prefix": "oi-arrow-thick-left",
+    "body": "content: '\\\\e010';"
+  },
+  "oi-beaker": {
+    "prefix": "oi-beaker",
+    "body": "content: '\\\\e01c';"
+  },
+  "oi-link-broken": {
+    "prefix": "oi-link-broken",
+    "body": "content: '\\\\e085';"
+  },
+  "oi-timer": {
+    "prefix": "oi-timer",
+    "body": "content: '\\\\e0cd';"
+  },
+  "oi-double-quote-sans-left": {
+    "prefix": "oi-double-quote-sans-left",
+    "body": "content: '\\\\e054';"
+  },
+  "oi-location": {
+    "prefix": "oi-location",
+    "body": "content: '\\\\e089';"
+  },
+  "oi-grid-three-up": {
+    "prefix": "oi-grid-three-up",
+    "body": "content: '\\\\e072';"
+  },
+  "oi-chevron-bottom": {
+    "prefix": "oi-chevron-bottom",
+    "body": "content: '\\\\e034';"
+  },
+  "oi-bold": {
+    "prefix": "oi-bold",
+    "body": "content: '\\\\e01f';"
+  },
+  "oi-arrow-bottom": {
+    "prefix": "oi-arrow-bottom",
+    "body": "content: '\\\\e008';"
+  },
+  "oi-map-marker": {
+    "prefix": "oi-map-marker",
+    "body": "content: '\\\\e090';"
+  },
+  "oi-graph": {
+    "prefix": "oi-graph",
+    "body": "content: '\\\\e070';"
+  },
+  "oi-external-link": {
+    "prefix": "oi-external-link",
+    "body": "content: '\\\\e064';"
+  },
+  "oi-pie-chart": {
+    "prefix": "oi-pie-chart",
+    "body": "content: '\\\\e0a7';"
+  },
+  "oi-bolt": {
+    "prefix": "oi-bolt",
+    "body": "content: '\\\\e020';"
+  },
+  "oi-chat": {
+    "prefix": "oi-chat",
+    "body": "content: '\\\\e032';"
+  },
+  "oi-list": {
+    "prefix": "oi-list",
+    "body": "content: '\\\\e088';"
+  },
+  "oi-arrow-thick-top": {
+    "prefix": "oi-arrow-thick-top",
+    "body": "content: '\\\\e012';"
+  },
+  "oi-audio": {
+    "prefix": "oi-audio",
+    "body": "content: '\\\\e015';"
+  },
+  "oi-project": {
+    "prefix": "oi-project",
+    "body": "content: '\\\\e0ad';"
+  },
+  "oi-minus": {
+    "prefix": "oi-minus",
+    "body": "content: '\\\\e09d';"
+  },
+  "oi-tags": {
+    "prefix": "oi-tags",
+    "body": "content: '\\\\e0c6';"
+  },
+  "oi-justify-right": {
+    "prefix": "oi-justify-right",
+    "body": "content: '\\\\e080';"
+  },
+  "oi-calendar": {
+    "prefix": "oi-calendar",
+    "body": "content: '\\\\e02b';"
+  },
+  "oi-list-rich": {
+    "prefix": "oi-list-rich",
+    "body": "content: '\\\\e087';"
+  },
+  "oi-account-login": {
+    "prefix": "oi-account-login",
+    "body": "content: '\\\\e000';"
+  },
+  "oi-resize-height": {
+    "prefix": "oi-resize-height",
+    "body": "content: '\\\\e0b5';"
+  },
+  "oi-bell": {
+    "prefix": "oi-bell",
+    "body": "content: '\\\\e01d';"
+  },
+  "oi-aperture": {
+    "prefix": "oi-aperture",
+    "body": "content: '\\\\e007';"
+  },
+  "oi-copywriting": {
+    "prefix": "oi-copywriting",
+    "body": "content: '\\\\e04a';"
+  },
+  "oi-excerpt": {
+    "prefix": "oi-excerpt",
+    "body": "content: '\\\\e05f';"
+  },
+  "oi-text": {
+    "prefix": "oi-text",
+    "body": "content: '\\\\e0ca';"
+  },
+  "oi-warning": {
+    "prefix": "oi-warning",
+    "body": "content: '\\\\e0d8';"
+  },
+  "oi-credit-card": {
+    "prefix": "oi-credit-card",
+    "body": "content: '\\\\e04b';"
+  },
+  "oi-crop": {
+    "prefix": "oi-crop",
+    "body": "content: '\\\\e04c';"
+  },
+  "oi-tablet": {
+    "prefix": "oi-tablet",
+    "body": "content: '\\\\e0c4';"
+  },
+  "oi-header": {
+    "prefix": "oi-header",
+    "body": "content: '\\\\e075';"
+  },
+  "oi-volume-high": {
+    "prefix": "oi-volume-high",
+    "body": "content: '\\\\e0d5';"
+  },
+  "oi-eject": {
+    "prefix": "oi-eject",
+    "body": "content: '\\\\e059';"
+  },
+  "oi-code": {
+    "prefix": "oi-code",
+    "body": "content: '\\\\e040';"
+  },
+  "oi-video": {
+    "prefix": "oi-video",
+    "body": "content: '\\\\e0d4';"
+  },
+  "oi-spreadsheet": {
+    "prefix": "oi-spreadsheet",
+    "body": "content: '\\\\e0c1';"
+  },
+  "oi-ellipses": {
+    "prefix": "oi-ellipses",
+    "body": "content: '\\\\e05b';"
+  },
+  "oi-arrow-right": {
+    "prefix": "oi-arrow-right",
+    "body": "content: '\\\\e00e';"
+  },
+  "oi-volume-off": {
+    "prefix": "oi-volume-off",
+    "body": "content: '\\\\e0d7';"
+  },
+  "oi-dial": {
+    "prefix": "oi-dial",
+    "body": "content: '\\\\e051';"
+  },
+  "oi-phone": {
+    "prefix": "oi-phone",
+    "body": "content: '\\\\e0a6';"
+  },
+  "oi-globe": {
+    "prefix": "oi-globe",
+    "body": "content: '\\\\e06f';"
+  },
+  "oi-medical-cross": {
+    "prefix": "oi-medical-cross",
+    "body": "content: '\\\\e09a';"
+  },
+  "oi-people": {
+    "prefix": "oi-people",
+    "body": "content: '\\\\e0a4';"
+  },
+  "oi-resize-width": {
+    "prefix": "oi-resize-width",
+    "body": "content: '\\\\e0b6';"
+  },
+  "oi-audio-spectrum": {
+    "prefix": "oi-audio-spectrum",
+    "body": "content: '\\\\e014';"
+  },
+  "oi-heart": {
+    "prefix": "oi-heart",
+    "body": "content: '\\\\e077';"
+  },
+  "oi-align-right": {
+    "prefix": "oi-align-right",
+    "body": "content: '\\\\e006';"
+  },
+  "oi-bug": {
+    "prefix": "oi-bug",
+    "body": "content: '\\\\e028';"
+  },
+  "oi-link-intact": {
+    "prefix": "oi-link-intact",
+    "body": "content: '\\\\e086';"
+  },
+  "oi-play-circle": {
+    "prefix": "oi-play-circle",
+    "body": "content: '\\\\e0a9';"
+  },
+  "oi-double-quote-serif-right": {
+    "prefix": "oi-double-quote-serif-right",
+    "body": "content: '\\\\e057';"
+  },
+  "oi-clipboard": {
+    "prefix": "oi-clipboard",
+    "body": "content: '\\\\e03a';"
+  },
+  "oi-signal": {
+    "prefix": "oi-signal",
+    "body": "content: '\\\\e0bd';"
+  },
+  "oi-brush": {
+    "prefix": "oi-brush",
+    "body": "content: '\\\\e027';"
+  },
+  "oi-image": {
+    "prefix": "oi-image",
+    "body": "content: '\\\\e079';"
+  },
+  "oi-media-skip-backward": {
+    "prefix": "oi-media-skip-backward",
+    "body": "content: '\\\\e095';"
+  },
+  "oi-target": {
+    "prefix": "oi-target",
+    "body": "content: '\\\\e0c7';"
+  },
+  "oi-command": {
+    "prefix": "oi-command",
+    "body": "content: '\\\\e046';"
+  },
+  "oi-cloudy": {
+    "prefix": "oi-cloudy",
+    "body": "content: '\\\\e03f';"
+  },
+  "oi-resize-both": {
+    "prefix": "oi-resize-both",
+    "body": "content: '\\\\e0b4';"
+  },
+  "oi-media-play": {
+    "prefix": "oi-media-play",
+    "body": "content: '\\\\e093';"
+  },
+  "oi-double-quote-serif-left": {
+    "prefix": "oi-double-quote-serif-left",
+    "body": "content: '\\\\e056';"
+  },
+  "oi-media-pause": {
+    "prefix": "oi-media-pause",
+    "body": "content: '\\\\e092';"
+  },
+  "oi-pulse": {
+    "prefix": "oi-pulse",
+    "body": "content: '\\\\e0ae';"
+  },
+  "oi-tag": {
+    "prefix": "oi-tag",
+    "body": "content: '\\\\e0c5';"
+  },
+  "oi-camera-slr": {
+    "prefix": "oi-camera-slr",
+    "body": "content: '\\\\e02c';"
+  },
+  "oi-home": {
+    "prefix": "oi-home",
+    "body": "content: '\\\\e078';"
+  },
+  "oi-star": {
+    "prefix": "oi-star",
+    "body": "content: '\\\\e0c2';"
+  },
+  "oi-data-transfer-upload": {
+    "prefix": "oi-data-transfer-upload",
+    "body": "content: '\\\\e04f';"
+  },
+  "oi-moon": {
+    "prefix": "oi-moon",
+    "body": "content: '\\\\e09f';"
+  },
+  "oi-document": {
+    "prefix": "oi-document",
+    "body": "content: '\\\\e052';"
+  },
+  "oi-media-skip-forward": {
+    "prefix": "oi-media-skip-forward",
+    "body": "content: '\\\\e096';"
+  },
+  "oi-sort-ascending": {
+    "prefix": "oi-sort-ascending",
+    "body": "content: '\\\\e0bf';"
+  },
+  "oi-magnifying-glass": {
+    "prefix": "oi-magnifying-glass",
+    "body": "content: '\\\\e08f';"
+  },
+  "oi-media-step-forward": {
+    "prefix": "oi-media-step-forward",
+    "body": "content: '\\\\e098';"
+  },
+  "oi-thumb-up": {
+    "prefix": "oi-thumb-up",
+    "body": "content: '\\\\e0cc';"
+  },
+  "oi-caret-right": {
+    "prefix": "oi-caret-right",
+    "body": "content: '\\\\e02f';"
+  },
+  "oi-caret-top": {
+    "prefix": "oi-caret-top",
+    "body": "content: '\\\\e030';"
+  },
+  "oi-menu": {
+    "prefix": "oi-menu",
+    "body": "content: '\\\\e09b';"
+  },
+  "oi-map": {
+    "prefix": "oi-map",
+    "body": "content: '\\\\e091';"
+  },
+  "oi-thumb-down": {
+    "prefix": "oi-thumb-down",
+    "body": "content: '\\\\e0cb';"
+  },
+  "oi-flash": {
+    "prefix": "oi-flash",
+    "body": "content: '\\\\e06a';"
+  },
+  "oi-vertical-align-top": {
+    "prefix": "oi-vertical-align-top",
+    "body": "content: '\\\\e0d3';"
+  },
+  "oi-book": {
+    "prefix": "oi-book",
+    "body": "content: '\\\\e021';"
+  },
+  "oi-key": {
+    "prefix": "oi-key",
+    "body": "content: '\\\\e081';"
+  },
+  "oi-arrow-left": {
+    "prefix": "oi-arrow-left",
+    "body": "content: '\\\\e00d';"
+  },
+  "oi-hard-drive": {
+    "prefix": "oi-hard-drive",
+    "body": "content: '\\\\e074';"
+  },
+  "oi-grid-four-up": {
+    "prefix": "oi-grid-four-up",
+    "body": "content: '\\\\e071';"
+  },
+  "oi-fullscreen-exit": {
+    "prefix": "oi-fullscreen-exit",
+    "body": "content: '\\\\e06e';"
+  },
+  "oi-grid-two-up": {
+    "prefix": "oi-grid-two-up",
+    "body": "content: '\\\\e073';"
+  },
+  "oi-justify-left": {
+    "prefix": "oi-justify-left",
+    "body": "content: '\\\\e07f';"
+  },
+  "oi-media-step-backward": {
+    "prefix": "oi-media-step-backward",
+    "body": "content: '\\\\e097';"
+  },
+  "oi-pin": {
+    "prefix": "oi-pin",
+    "body": "content: '\\\\e0a8';"
+  },
+  "oi-arrow-thick-right": {
+    "prefix": "oi-arrow-thick-right",
+    "body": "content: '\\\\e011';"
+  },
+  "oi-chevron-top": {
+    "prefix": "oi-chevron-top",
+    "body": "content: '\\\\e037';"
+  },
+  "oi-loop": {
+    "prefix": "oi-loop",
+    "body": "content: '\\\\e08e';"
+  },
+  "oi-justify-center": {
+    "prefix": "oi-justify-center",
+    "body": "content: '\\\\e07e';"
+  },
+  "oi-circle-x": {
+    "prefix": "oi-circle-x",
+    "body": "content: '\\\\e039';"
+  },
+  "oi-share-boxed": {
+    "prefix": "oi-share-boxed",
+    "body": "content: '\\\\e0ba';"
+  },
+  "oi-wrench": {
+    "prefix": "oi-wrench",
+    "body": "content: '\\\\e0da';"
+  },
+  "oi-eye": {
+    "prefix": "oi-eye",
+    "body": "content: '\\\\e065';"
+  },
+  "oi-info": {
+    "prefix": "oi-info",
+    "body": "content: '\\\\e07c';"
+  },
+  "oi-collapse-up": {
+    "prefix": "oi-collapse-up",
+    "body": "content: '\\\\e045';"
+  },
+  "oi-arrow-thick-bottom": {
+    "prefix": "oi-arrow-thick-bottom",
+    "body": "content: '\\\\e00f';"
+  },
+  "oi-dollar": {
+    "prefix": "oi-dollar",
+    "body": "content: '\\\\e053';"
+  },
+  "oi-account-logout": {
+    "prefix": "oi-account-logout",
+    "body": "content: '\\\\e001';"
+  },
+  "oi-caret-left": {
+    "prefix": "oi-caret-left",
+    "body": "content: '\\\\e02e';"
+  },
+  "oi-collapse-down": {
+    "prefix": "oi-collapse-down",
+    "body": "content: '\\\\e042';"
+  },
+  "oi-align-center": {
+    "prefix": "oi-align-center",
+    "body": "content: '\\\\e004';"
+  },
+  "oi-lock-unlocked": {
+    "prefix": "oi-lock-unlocked",
+    "body": "content: '\\\\e08b';"
+  },
+  "oi-data-transfer-download": {
+    "prefix": "oi-data-transfer-download",
+    "body": "content: '\\\\e04e';"
+  },
+  "oi-droplet": {
+    "prefix": "oi-droplet",
+    "body": "content: '\\\\e058';"
+  },
+  "oi-arrow-circle-left": {
+    "prefix": "oi-arrow-circle-left",
+    "body": "content: '\\\\e00a';"
+  },
+  "oi-terminal": {
+    "prefix": "oi-terminal",
+    "body": "content: '\\\\e0c9';"
+  },
+  "oi-arrow-circle-top": {
+    "prefix": "oi-arrow-circle-top",
+    "body": "content: '\\\\e00c';"
+  },
+  "oi-collapse-right": {
+    "prefix": "oi-collapse-right",
+    "body": "content: '\\\\e044';"
+  },
+  "oi-rain": {
+    "prefix": "oi-rain",
+    "body": "content: '\\\\e0b1';"
+  },
+  "oi-puzzle-piece": {
+    "prefix": "oi-puzzle-piece",
+    "body": "content: '\\\\e0af';"
+  },
+  "oi-trash": {
+    "prefix": "oi-trash",
+    "body": "content: '\\\\e0cf';"
+  },
+  "oi-action-undo": {
+    "prefix": "oi-action-undo",
+    "body": "content: '\\\\e003';"
+  },
+  "oi-expand-right": {
+    "prefix": "oi-expand-right",
+    "body": "content: '\\\\e062';"
+  },
+  "oi-delete": {
+    "prefix": "oi-delete",
+    "body": "content: '\\\\e050';"
+  },
+  "oi-clock": {
+    "prefix": "oi-clock",
+    "body": "content: '\\\\e03b';"
+  },
+  "oi-flag": {
+    "prefix": "oi-flag",
+    "body": "content: '\\\\e069';"
+  },
+  "oi-cloud-upload": {
+    "prefix": "oi-cloud-upload",
+    "body": "content: '\\\\e03d';"
+  },
+  "oi-print": {
+    "prefix": "oi-print",
+    "body": "content: '\\\\e0ac';"
+  },
+  "oi-musical-note": {
+    "prefix": "oi-musical-note",
+    "body": "content: '\\\\e0a1';"
+  },
+  "oi-compass": {
+    "prefix": "oi-compass",
+    "body": "content: '\\\\e048';"
+  },
+  "oi-x": {
+    "prefix": "oi-x",
+    "body": "content: '\\\\e0db';"
+  },
+  "oi-loop-circular": {
+    "prefix": "oi-loop-circular",
+    "body": "content: '\\\\e08c';"
+  },
+  "oi-expand-left": {
+    "prefix": "oi-expand-left",
+    "body": "content: '\\\\e061';"
+  },
+  "oi-file": {
+    "prefix": "oi-file",
+    "body": "content: '\\\\e067';"
+  },
+  "oi-align-left": {
+    "prefix": "oi-align-left",
+    "body": "content: '\\\\e005';"
+  },
+  "oi-envelope-open": {
+    "prefix": "oi-envelope-open",
+    "body": "content: '\\\\e05d';"
+  },
+  "oi-elevator": {
+    "prefix": "oi-elevator",
+    "body": "content: '\\\\e05a';"
+  },
+  "oi-media-record": {
+    "prefix": "oi-media-record",
+    "body": "content: '\\\\e094';"
+  },
+  "oi-caret-bottom": {
+    "prefix": "oi-caret-bottom",
+    "body": "content: '\\\\e02d';"
+  },
+  "oi-folder": {
+    "prefix": "oi-folder",
+    "body": "content: '\\\\e06b';"
+  },
+  "oi-action-redo": {
+    "prefix": "oi-action-redo",
+    "body": "content: '\\\\e002';"
+  },
+  "oi-chevron-right": {
+    "prefix": "oi-chevron-right",
+    "body": "content: '\\\\e036';"
+  },
+  "oi-volume-low": {
+    "prefix": "oi-volume-low",
+    "body": "content: '\\\\e0d6';"
+  },
+  "oi-collapse-left": {
+    "prefix": "oi-collapse-left",
+    "body": "content: '\\\\e043';"
+  },
+  "oi-transfer": {
+    "prefix": "oi-transfer",
+    "body": "content: '\\\\e0ce';"
+  },
+  "oi-power-standby": {
+    "prefix": "oi-power-standby",
+    "body": "content: '\\\\e0ab';"
+  },
+  "oi-headphones": {
+    "prefix": "oi-headphones",
+    "body": "content: '\\\\e076';"
+  },
+  "oi-monitor": {
+    "prefix": "oi-monitor",
+    "body": "content: '\\\\e09e';"
+  },
+  "oi-cloud-download": {
+    "prefix": "oi-cloud-download",
+    "body": "content: '\\\\e03c';"
+  },
+  "oi-bookmark": {
+    "prefix": "oi-bookmark",
+    "body": "content: '\\\\e022';"
+  },
+  "oi-chevron-left": {
+    "prefix": "oi-chevron-left",
+    "body": "content: '\\\\e035';"
+  },
+  "oi-cart": {
+    "prefix": "oi-cart",
+    "body": "content: '\\\\e031';"
+  },
+  "oi-lock-locked": {
+    "prefix": "oi-lock-locked",
+    "body": "content: '\\\\e08a';"
+  },
+  "oi-rss-alt": {
+    "prefix": "oi-rss-alt",
+    "body": "content: '\\\\e0b7';"
+  },
+  "oi-cog": {
+    "prefix": "oi-cog",
+    "body": "content: '\\\\e041';"
+  },
+  "oi-script": {
+    "prefix": "oi-script",
+    "body": "content: '\\\\e0b9';"
+  },
+  "oi-signpost": {
+    "prefix": "oi-signpost",
+    "body": "content: '\\\\e0be';"
+  },
+  "oi-cloud": {
+    "prefix": "oi-cloud",
+    "body": "content: '\\\\e03e';"
+  },
+  "oi-zoom-out": {
+    "prefix": "oi-zoom-out",
+    "body": "content: '\\\\e0de';"
+  },
+  "oi-infinity": {
+    "prefix": "oi-infinity",
+    "body": "content: '\\\\e07b';"
+  },
+  "oi-dashboard": {
+    "prefix": "oi-dashboard",
+    "body": "content: '\\\\e04d';"
+  },
+  "oi-pencil": {
+    "prefix": "oi-pencil",
+    "body": "content: '\\\\e0a3';"
+  },
+  "oi-laptop": {
+    "prefix": "oi-laptop",
+    "body": "content: '\\\\e082';"
+  },
+  "oi-rss": {
+    "prefix": "oi-rss",
+    "body": "content: '\\\\e0b8';"
+  },
+  "oi-sort-descending": {
+    "prefix": "oi-sort-descending",
+    "body": "content: '\\\\e0c0';"
+  },
+  "oi-expand-down": {
+    "prefix": "oi-expand-down",
+    "body": "content: '\\\\e060';"
+  },
+  "oi-arrow-circle-right": {
+    "prefix": "oi-arrow-circle-right",
+    "body": "content: '\\\\e00b';"
+  },
+  "oi-arrow-top": {
+    "prefix": "oi-arrow-top",
+    "body": "content: '\\\\e013';"
+  },
+  "oi-envelope-closed": {
+    "prefix": "oi-envelope-closed",
+    "body": "content: '\\\\e05c';"
+  },
+  "oi-wifi": {
+    "prefix": "oi-wifi",
+    "body": "content: '\\\\e0d9';"
+  },
+  "oi-media-stop": {
+    "prefix": "oi-media-stop",
+    "body": "content: '\\\\e099';"
+  },
+  "oi-person": {
+    "prefix": "oi-person",
+    "body": "content: '\\\\e0a5';"
+  },
+  "oi-browser": {
+    "prefix": "oi-browser",
+    "body": "content: '\\\\e026';"
+  },
+  "oi-calculator": {
+    "prefix": "oi-calculator",
+    "body": "content: '\\\\e02a';"
+  },
+  "oi-fork": {
+    "prefix": "oi-fork",
+    "body": "content: '\\\\e06c';"
+  },
+  "oi-bar-chart": {
+    "prefix": "oi-bar-chart",
+    "body": "content: '\\\\e018';"
+  },
+  "oi-shield": {
+    "prefix": "oi-shield",
+    "body": "content: '\\\\e0bc';"
+  },
+  "oi-british-pound": {
+    "prefix": "oi-british-pound",
+    "body": "content: '\\\\e025';"
+  },
+  "oi-battery-full": {
+    "prefix": "oi-battery-full",
+    "body": "content: '\\\\e01b';"
+  },
+  "oi-reload": {
+    "prefix": "oi-reload",
+    "body": "content: '\\\\e0b3';"
+  },
+  "oi-inbox": {
+    "prefix": "oi-inbox",
+    "body": "content: '\\\\e07a';"
+  },
+  "oi-expand-up": {
+    "prefix": "oi-expand-up",
+    "body": "content: '\\\\e063';"
+  },
+  "oi-paperclip": {
+    "prefix": "oi-paperclip",
+    "body": "content: '\\\\e0a2';"
+  },
+  "oi-zoom-in": {
+    "prefix": "oi-zoom-in",
+    "body": "content: '\\\\e0dd';"
+  },
+  "oi-comment-square": {
+    "prefix": "oi-comment-square",
+    "body": "content: '\\\\e047';"
+  },
+  "oi-basket": {
+    "prefix": "oi-basket",
+    "body": "content: '\\\\e019';"
+  },
+  "oi-battery-empty": {
+    "prefix": "oi-battery-empty",
+    "body": "content: '\\\\e01a';"
+  },
+  "oi-random": {
+    "prefix": "oi-random",
+    "body": "content: '\\\\e0b2';"
+  },
+  "oi-vertical-align-center": {
+    "prefix": "oi-vertical-align-center",
+    "body": "content: '\\\\e0d2';"
+  },
+  "oi-arrow-circle-bottom": {
+    "prefix": "oi-arrow-circle-bottom",
+    "body": "content: '\\\\e009';"
+  },
+  "oi-badge": {
+    "prefix": "oi-badge",
+    "body": "content: '\\\\e016';"
+  },
+  "oi-briefcase": {
+    "prefix": "oi-briefcase",
+    "body": "content: '\\\\e024';"
+  },
+  "oi-lightbulb": {
+    "prefix": "oi-lightbulb",
+    "body": "content: '\\\\e084';"
+  },
+  "oi-double-quote-sans-right": {
+    "prefix": "oi-double-quote-sans-right",
+    "body": "content: '\\\\e055';"
+  },
+  "oi-vertical-align-bottom": {
+    "prefix": "oi-vertical-align-bottom",
+    "body": "content: '\\\\e0d1';"
+  },
+  "oi-ban": {
+    "prefix": "oi-ban",
+    "body": "content: '\\\\e017';"
+  },
+  "oi-plus": {
+    "prefix": "oi-plus",
+    "body": "content: '\\\\e0aa';"
+  },
+  "oi-task": {
+    "prefix": "oi-task",
+    "body": "content: '\\\\e0c8';"
+  },
+  "oi-bullhorn": {
+    "prefix": "oi-bullhorn",
+    "body": "content: '\\\\e029';"
+  },
+  "oi-italic": {
+    "prefix": "oi-italic",
+    "body": "content: '\\\\e07d';"
+  },
+  "oi-question-mark": {
+    "prefix": "oi-question-mark",
+    "body": "content: '\\\\e0b0';"
+  },
+  "oi-fullscreen-enter": {
+    "prefix": "oi-fullscreen-enter",
+    "body": "content: '\\\\e06d';"
+  },
+  "oi-eyedropper": {
+    "prefix": "oi-eyedropper",
+    "body": "content: '\\\\e066';"
+  }
+}

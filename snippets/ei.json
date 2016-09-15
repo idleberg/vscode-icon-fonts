@@ -1,0 +1,282 @@
+{
+  "ei-comment": {
+    "prefix": "ei-comment",
+    "body": "<div data-icon=\"ei-comment\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-credit-card": {
+    "prefix": "ei-credit-card",
+    "body": "<div data-icon=\"ei-credit-card\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-tag": {
+    "prefix": "ei-tag",
+    "body": "<div data-icon=\"ei-tag\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-gear": {
+    "prefix": "ei-gear",
+    "body": "<div data-icon=\"ei-gear\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-camera": {
+    "prefix": "ei-camera",
+    "body": "<div data-icon=\"ei-camera\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-youtube": {
+    "prefix": "ei-sc-youtube",
+    "body": "<div data-icon=\"ei-sc-youtube\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-arrow-down": {
+    "prefix": "ei-arrow-down",
+    "body": "<div data-icon=\"ei-arrow-down\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-chevron-down": {
+    "prefix": "ei-chevron-down",
+    "body": "<div data-icon=\"ei-chevron-down\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-tumblr": {
+    "prefix": "ei-sc-tumblr",
+    "body": "<div data-icon=\"ei-sc-tumblr\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-pencil": {
+    "prefix": "ei-pencil",
+    "body": "<div data-icon=\"ei-pencil\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-close": {
+    "prefix": "ei-close",
+    "body": "<div data-icon=\"ei-close\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-arrow-up": {
+    "prefix": "ei-arrow-up",
+    "body": "<div data-icon=\"ei-arrow-up\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-cart": {
+    "prefix": "ei-cart",
+    "body": "<div data-icon=\"ei-cart\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-chevron-right": {
+    "prefix": "ei-chevron-right",
+    "body": "<div data-icon=\"ei-chevron-right\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-unlock": {
+    "prefix": "ei-unlock",
+    "body": "<div data-icon=\"ei-unlock\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-linkedin": {
+    "prefix": "ei-sc-linkedin",
+    "body": "<div data-icon=\"ei-sc-linkedin\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-link": {
+    "prefix": "ei-link",
+    "body": "<div data-icon=\"ei-link\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-undo": {
+    "prefix": "ei-undo",
+    "body": "<div data-icon=\"ei-undo\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-spinner-2": {
+    "prefix": "ei-spinner-2",
+    "body": "<div data-icon=\"ei-spinner-2\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-chart": {
+    "prefix": "ei-chart",
+    "body": "<div data-icon=\"ei-chart\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-refresh": {
+    "prefix": "ei-refresh",
+    "body": "<div data-icon=\"ei-refresh\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-envelope": {
+    "prefix": "ei-envelope",
+    "body": "<div data-icon=\"ei-envelope\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-arrow-right": {
+    "prefix": "ei-arrow-right",
+    "body": "<div data-icon=\"ei-arrow-right\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-pinterest": {
+    "prefix": "ei-sc-pinterest",
+    "body": "<div data-icon=\"ei-sc-pinterest\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-heart": {
+    "prefix": "ei-heart",
+    "body": "<div data-icon=\"ei-heart\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-calendar": {
+    "prefix": "ei-calendar",
+    "body": "<div data-icon=\"ei-calendar\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-bell": {
+    "prefix": "ei-bell",
+    "body": "<div data-icon=\"ei-bell\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-vk": {
+    "prefix": "ei-sc-vk",
+    "body": "<div data-icon=\"ei-sc-vk\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-plus": {
+    "prefix": "ei-plus",
+    "body": "<div data-icon=\"ei-plus\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-arrow-left": {
+    "prefix": "ei-arrow-left",
+    "body": "<div data-icon=\"ei-arrow-left\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-soundcloud": {
+    "prefix": "ei-sc-soundcloud",
+    "body": "<div data-icon=\"ei-sc-soundcloud\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-share-apple": {
+    "prefix": "ei-share-apple",
+    "body": "<div data-icon=\"ei-share-apple\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-spinner-3": {
+    "prefix": "ei-spinner-3",
+    "body": "<div data-icon=\"ei-spinner-3\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-skype": {
+    "prefix": "ei-sc-skype",
+    "body": "<div data-icon=\"ei-sc-skype\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-exclamation": {
+    "prefix": "ei-exclamation",
+    "body": "<div data-icon=\"ei-exclamation\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-github": {
+    "prefix": "ei-sc-github",
+    "body": "<div data-icon=\"ei-sc-github\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-eye": {
+    "prefix": "ei-eye",
+    "body": "<div data-icon=\"ei-eye\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-telegram": {
+    "prefix": "ei-sc-telegram",
+    "body": "<div data-icon=\"ei-sc-telegram\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-image": {
+    "prefix": "ei-image",
+    "body": "<div data-icon=\"ei-image\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-share-google": {
+    "prefix": "ei-share-google",
+    "body": "<div data-icon=\"ei-share-google\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-question": {
+    "prefix": "ei-question",
+    "body": "<div data-icon=\"ei-question\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-pointer": {
+    "prefix": "ei-pointer",
+    "body": "<div data-icon=\"ei-pointer\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-retweet": {
+    "prefix": "ei-retweet",
+    "body": "<div data-icon=\"ei-retweet\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-search": {
+    "prefix": "ei-search",
+    "body": "<div data-icon=\"ei-search\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-lock": {
+    "prefix": "ei-lock",
+    "body": "<div data-icon=\"ei-lock\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-facebook": {
+    "prefix": "ei-sc-facebook",
+    "body": "<div data-icon=\"ei-sc-facebook\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-check": {
+    "prefix": "ei-check",
+    "body": "<div data-icon=\"ei-check\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-chevron-up": {
+    "prefix": "ei-chevron-up",
+    "body": "<div data-icon=\"ei-chevron-up\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-paperclip": {
+    "prefix": "ei-paperclip",
+    "body": "<div data-icon=\"ei-paperclip\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-close-o": {
+    "prefix": "ei-close-o",
+    "body": "<div data-icon=\"ei-close-o\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-like": {
+    "prefix": "ei-like",
+    "body": "<div data-icon=\"ei-like\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-twitter": {
+    "prefix": "ei-sc-twitter",
+    "body": "<div data-icon=\"ei-sc-twitter\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-external-link": {
+    "prefix": "ei-external-link",
+    "body": "<div data-icon=\"ei-external-link\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-instagram": {
+    "prefix": "ei-sc-instagram",
+    "body": "<div data-icon=\"ei-sc-instagram\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-redo": {
+    "prefix": "ei-redo",
+    "body": "<div data-icon=\"ei-redo\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-navicon": {
+    "prefix": "ei-navicon",
+    "body": "<div data-icon=\"ei-navicon\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-location": {
+    "prefix": "ei-location",
+    "body": "<div data-icon=\"ei-location\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-archive": {
+    "prefix": "ei-archive",
+    "body": "<div data-icon=\"ei-archive\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-chevron-left": {
+    "prefix": "ei-chevron-left",
+    "body": "<div data-icon=\"ei-chevron-left\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-minus": {
+    "prefix": "ei-minus",
+    "body": "<div data-icon=\"ei-minus\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-clock": {
+    "prefix": "ei-clock",
+    "body": "<div data-icon=\"ei-clock\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-vimeo": {
+    "prefix": "ei-sc-vimeo",
+    "body": "<div data-icon=\"ei-sc-vimeo\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-spinner": {
+    "prefix": "ei-spinner",
+    "body": "<div data-icon=\"ei-spinner\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-user": {
+    "prefix": "ei-user",
+    "body": "<div data-icon=\"ei-user\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-play": {
+    "prefix": "ei-play",
+    "body": "<div data-icon=\"ei-play\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-star": {
+    "prefix": "ei-star",
+    "body": "<div data-icon=\"ei-star\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-odnoklassniki": {
+    "prefix": "ei-sc-odnoklassniki",
+    "body": "<div data-icon=\"ei-sc-odnoklassniki\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-sc-google-plus": {
+    "prefix": "ei-sc-google-plus",
+    "body": "<div data-icon=\"ei-sc-google-plus\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-trash": {
+    "prefix": "ei-trash",
+    "body": "<div data-icon=\"ei-trash\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  },
+  "ei-trophy": {
+    "prefix": "ei-trophy",
+    "body": "<div data-icon=\"ei-trophy\"${1: data-size=\"${2:s|m|l}}\"$3></div>"
+  }
+}

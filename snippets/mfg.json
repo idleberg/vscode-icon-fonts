@@ -1,0 +1,734 @@
+{
+  "mfg-vector": {
+    "prefix": "mfg-vector",
+    "body": "<${1:i} class=\"icon-vector$2\"></${1:i}>$3"
+  },
+  "mfg-anchor": {
+    "prefix": "mfg-anchor",
+    "body": "<${1:i} class=\"icon-anchor$2\"></${1:i}>$3"
+  },
+  "mfg-paperplane": {
+    "prefix": "mfg-paperplane",
+    "body": "<${1:i} class=\"icon-paperplane$2\"></${1:i}>$3"
+  },
+  "mfg-instagram_circle": {
+    "prefix": "mfg-instagram_circle",
+    "body": "<${1:i} class=\"icon-instagram_circle$2\"></${1:i}>$3"
+  },
+  "mfg-cloud_upload": {
+    "prefix": "mfg-cloud_upload",
+    "body": "<${1:i} class=\"icon-cloud_upload$2\"></${1:i}>$3"
+  },
+  "mfg-information_white": {
+    "prefix": "mfg-information_white",
+    "body": "<${1:i} class=\"icon-information_white$2\"></${1:i}>$3"
+  },
+  "mfg-node_size": {
+    "prefix": "mfg-node_size",
+    "body": "<${1:i} class=\"icon-node_size$2\"></${1:i}>$3"
+  },
+  "mfg-unlock": {
+    "prefix": "mfg-unlock",
+    "body": "<${1:i} class=\"icon-unlock$2\"></${1:i}>$3"
+  },
+  "mfg-math": {
+    "prefix": "mfg-math",
+    "body": "<${1:i} class=\"icon-math$2\"></${1:i}>$3"
+  },
+  "mfg-upload": {
+    "prefix": "mfg-upload",
+    "body": "<${1:i} class=\"icon-upload$2\"></${1:i}>$3"
+  },
+  "mfg-node_cluster": {
+    "prefix": "mfg-node_cluster",
+    "body": "<${1:i} class=\"icon-node_cluster$2\"></${1:i}>$3"
+  },
+  "mfg-camera": {
+    "prefix": "mfg-camera",
+    "body": "<${1:i} class=\"icon-camera$2\"></${1:i}>$3"
+  },
+  "mfg-female_sign": {
+    "prefix": "mfg-female_sign",
+    "body": "<${1:i} class=\"icon-female_sign$2\"></${1:i}>$3"
+  },
+  "mfg-star": {
+    "prefix": "mfg-star",
+    "body": "<${1:i} class=\"icon-star$2\"></${1:i}>$3"
+  },
+  "mfg-calendar": {
+    "prefix": "mfg-calendar",
+    "body": "<${1:i} class=\"icon-calendar$2\"></${1:i}>$3"
+  },
+  "mfg-link_loop_nodes": {
+    "prefix": "mfg-link_loop_nodes",
+    "body": "<${1:i} class=\"icon-link_loop_nodes$2\"></${1:i}>$3"
+  },
+  "mfg-new_user": {
+    "prefix": "mfg-new_user",
+    "body": "<${1:i} class=\"icon-new_user$2\"></${1:i}>$3"
+  },
+  "mfg-share": {
+    "prefix": "mfg-share",
+    "body": "<${1:i} class=\"icon-share$2\"></${1:i}>$3"
+  },
+  "mfg-arrow_up": {
+    "prefix": "mfg-arrow_up",
+    "body": "<${1:i} class=\"icon-arrow_up$2\"></${1:i}>$3"
+  },
+  "mfg-plus": {
+    "prefix": "mfg-plus",
+    "body": "<${1:i} class=\"icon-plus$2\"></${1:i}>$3"
+  },
+  "mfg-white_question": {
+    "prefix": "mfg-white_question",
+    "body": "<${1:i} class=\"icon-white_question$2\"></${1:i}>$3"
+  },
+  "mfg-attachment": {
+    "prefix": "mfg-attachment",
+    "body": "<${1:i} class=\"icon-attachment$2\"></${1:i}>$3"
+  },
+  "mfg-google_plus_circle": {
+    "prefix": "mfg-google_plus_circle",
+    "body": "<${1:i} class=\"icon-google_plus_circle$2\"></${1:i}>$3"
+  },
+  "mfg-heart_broken": {
+    "prefix": "mfg-heart_broken",
+    "body": "<${1:i} class=\"icon-heart_broken$2\"></${1:i}>$3"
+  },
+  "mfg-settings": {
+    "prefix": "mfg-settings",
+    "body": "<${1:i} class=\"icon-settings$2\"></${1:i}>$3"
+  },
+  "mfg-connected_object": {
+    "prefix": "mfg-connected_object",
+    "body": "<${1:i} class=\"icon-connected_object$2\"></${1:i}>$3"
+  },
+  "mfg-soundcloud": {
+    "prefix": "mfg-soundcloud",
+    "body": "<${1:i} class=\"icon-soundcloud$2\"></${1:i}>$3"
+  },
+  "mfg-clock": {
+    "prefix": "mfg-clock",
+    "body": "<${1:i} class=\"icon-clock$2\"></${1:i}>$3"
+  },
+  "mfg-google_plus": {
+    "prefix": "mfg-google_plus",
+    "body": "<${1:i} class=\"icon-google_plus$2\"></${1:i}>$3"
+  },
+  "mfg-brush": {
+    "prefix": "mfg-brush",
+    "body": "<${1:i} class=\"icon-brush$2\"></${1:i}>$3"
+  },
+  "mfg-heart": {
+    "prefix": "mfg-heart",
+    "body": "<${1:i} class=\"icon-heart$2\"></${1:i}>$3"
+  },
+  "mfg-user_female": {
+    "prefix": "mfg-user_female",
+    "body": "<${1:i} class=\"icon-user_female$2\"></${1:i}>$3"
+  },
+  "mfg-lock": {
+    "prefix": "mfg-lock",
+    "body": "<${1:i} class=\"icon-lock$2\"></${1:i}>$3"
+  },
+  "mfg-octopus": {
+    "prefix": "mfg-octopus",
+    "body": "<${1:i} class=\"icon-octopus$2\"></${1:i}>$3"
+  },
+  "mfg-dribbble": {
+    "prefix": "mfg-dribbble",
+    "body": "<${1:i} class=\"icon-dribbble$2\"></${1:i}>$3"
+  },
+  "mfg-node_2": {
+    "prefix": "mfg-node_2",
+    "body": "<${1:i} class=\"icon-node_2$2\"></${1:i}>$3"
+  },
+  "mfg-node_3": {
+    "prefix": "mfg-node_3",
+    "body": "<${1:i} class=\"icon-node_3$2\"></${1:i}>$3"
+  },
+  "mfg-reorder_square_line": {
+    "prefix": "mfg-reorder_square_line",
+    "body": "<${1:i} class=\"icon-reorder_square_line$2\"></${1:i}>$3"
+  },
+  "mfg-list": {
+    "prefix": "mfg-list",
+    "body": "<${1:i} class=\"icon-list$2\"></${1:i}>$3"
+  },
+  "mfg-check": {
+    "prefix": "mfg-check",
+    "body": "<${1:i} class=\"icon-check$2\"></${1:i}>$3"
+  },
+  "mfg-facebook": {
+    "prefix": "mfg-facebook",
+    "body": "<${1:i} class=\"icon-facebook$2\"></${1:i}>$3"
+  },
+  "mfg-disconnect": {
+    "prefix": "mfg-disconnect",
+    "body": "<${1:i} class=\"icon-disconnect$2\"></${1:i}>$3"
+  },
+  "mfg-cloud_download": {
+    "prefix": "mfg-cloud_download",
+    "body": "<${1:i} class=\"icon-cloud_download$2\"></${1:i}>$3"
+  },
+  "mfg-git_circle": {
+    "prefix": "mfg-git_circle",
+    "body": "<${1:i} class=\"icon-git_circle$2\"></${1:i}>$3"
+  },
+  "mfg-reply": {
+    "prefix": "mfg-reply",
+    "body": "<${1:i} class=\"icon-reply$2\"></${1:i}>$3"
+  },
+  "mfg-arrow_big_right": {
+    "prefix": "mfg-arrow_big_right",
+    "body": "<${1:i} class=\"icon-arrow_big_right$2\"></${1:i}>$3"
+  },
+  "mfg-link_2_nodes": {
+    "prefix": "mfg-link_2_nodes",
+    "body": "<${1:i} class=\"icon-link_2_nodes$2\"></${1:i}>$3"
+  },
+  "mfg-node_link_direction": {
+    "prefix": "mfg-node_link_direction",
+    "body": "<${1:i} class=\"icon-node_link_direction$2\"></${1:i}>$3"
+  },
+  "mfg-at": {
+    "prefix": "mfg-at",
+    "body": "<${1:i} class=\"icon-at$2\"></${1:i}>$3"
+  },
+  "mfg-arrow_right": {
+    "prefix": "mfg-arrow_right",
+    "body": "<${1:i} class=\"icon-arrow_right$2\"></${1:i}>$3"
+  },
+  "mfg-newspaper": {
+    "prefix": "mfg-newspaper",
+    "body": "<${1:i} class=\"icon-newspaper$2\"></${1:i}>$3"
+  },
+  "mfg-layout_directed": {
+    "prefix": "mfg-layout_directed",
+    "body": "<${1:i} class=\"icon-layout_directed$2\"></${1:i}>$3"
+  },
+  "mfg-node_link_weight": {
+    "prefix": "mfg-node_link_weight",
+    "body": "<${1:i} class=\"icon-node_link_weight$2\"></${1:i}>$3"
+  },
+  "mfg-data_science_black": {
+    "prefix": "mfg-data_science_black",
+    "body": "<${1:i} class=\"icon-data_science_black$2\"></${1:i}>$3"
+  },
+  "mfg-soundcloud_circle": {
+    "prefix": "mfg-soundcloud_circle",
+    "body": "<${1:i} class=\"icon-soundcloud_circle$2\"></${1:i}>$3"
+  },
+  "mfg-retweet": {
+    "prefix": "mfg-retweet",
+    "body": "<${1:i} class=\"icon-retweet$2\"></${1:i}>$3"
+  },
+  "mfg-reload": {
+    "prefix": "mfg-reload",
+    "body": "<${1:i} class=\"icon-reload$2\"></${1:i}>$3"
+  },
+  "mfg-user": {
+    "prefix": "mfg-user",
+    "body": "<${1:i} class=\"icon-user$2\"></${1:i}>$3"
+  },
+  "mfg-magnifying_minus": {
+    "prefix": "mfg-magnifying_minus",
+    "body": "<${1:i} class=\"icon-magnifying_minus$2\"></${1:i}>$3"
+  },
+  "mfg-download": {
+    "prefix": "mfg-download",
+    "body": "<${1:i} class=\"icon-download$2\"></${1:i}>$3"
+  },
+  "mfg-reorder": {
+    "prefix": "mfg-reorder",
+    "body": "<${1:i} class=\"icon-reorder$2\"></${1:i}>$3"
+  },
+  "mfg-pause": {
+    "prefix": "mfg-pause",
+    "body": "<${1:i} class=\"icon-pause$2\"></${1:i}>$3"
+  },
+  "mfg-signin": {
+    "prefix": "mfg-signin",
+    "body": "<${1:i} class=\"icon-signin$2\"></${1:i}>$3"
+  },
+  "mfg-placepin": {
+    "prefix": "mfg-placepin",
+    "body": "<${1:i} class=\"icon-placepin$2\"></${1:i}>$3"
+  },
+  "mfg-link_3_nodes": {
+    "prefix": "mfg-link_3_nodes",
+    "body": "<${1:i} class=\"icon-link_3_nodes$2\"></${1:i}>$3"
+  },
+  "mfg-arrow_doubled_down": {
+    "prefix": "mfg-arrow_doubled_down",
+    "body": "<${1:i} class=\"icon-arrow_doubled_down$2\"></${1:i}>$3"
+  },
+  "mfg-node_text": {
+    "prefix": "mfg-node_text",
+    "body": "<${1:i} class=\"icon-node_text$2\"></${1:i}>$3"
+  },
+  "mfg-arrow_down": {
+    "prefix": "mfg-arrow_down",
+    "body": "<${1:i} class=\"icon-arrow_down$2\"></${1:i}>$3"
+  },
+  "mfg-arrow_doubled_left": {
+    "prefix": "mfg-arrow_doubled_left",
+    "body": "<${1:i} class=\"icon-arrow_doubled_left$2\"></${1:i}>$3"
+  },
+  "mfg-signout": {
+    "prefix": "mfg-signout",
+    "body": "<${1:i} class=\"icon-signout$2\"></${1:i}>$3"
+  },
+  "mfg-ringbell": {
+    "prefix": "mfg-ringbell",
+    "body": "<${1:i} class=\"icon-ringbell$2\"></${1:i}>$3"
+  },
+  "mfg-display_screen": {
+    "prefix": "mfg-display_screen",
+    "body": "<${1:i} class=\"icon-display_screen$2\"></${1:i}>$3"
+  },
+  "mfg-home": {
+    "prefix": "mfg-home",
+    "body": "<${1:i} class=\"icon-home$2\"></${1:i}>$3"
+  },
+  "mfg-node_link_text": {
+    "prefix": "mfg-node_link_text",
+    "body": "<${1:i} class=\"icon-node_link_text$2\"></${1:i}>$3"
+  },
+  "mfg-globe": {
+    "prefix": "mfg-globe",
+    "body": "<${1:i} class=\"icon-globe$2\"></${1:i}>$3"
+  },
+  "mfg-chevron_up": {
+    "prefix": "mfg-chevron_up",
+    "body": "<${1:i} class=\"icon-chevron_up$2\"></${1:i}>$3"
+  },
+  "mfg-trophy": {
+    "prefix": "mfg-trophy",
+    "body": "<${1:i} class=\"icon-trophy$2\"></${1:i}>$3"
+  },
+  "mfg-eye": {
+    "prefix": "mfg-eye",
+    "body": "<${1:i} class=\"icon-eye$2\"></${1:i}>$3"
+  },
+  "mfg-mfg_icon": {
+    "prefix": "mfg-mfg_icon",
+    "body": "<${1:i} class=\"icon-mfg_icon$2\"></${1:i}>$3"
+  },
+  "mfg-unlock_alt": {
+    "prefix": "mfg-unlock_alt",
+    "body": "<${1:i} class=\"icon-unlock_alt$2\"></${1:i}>$3"
+  },
+  "mfg-xing": {
+    "prefix": "mfg-xing",
+    "body": "<${1:i} class=\"icon-xing$2\"></${1:i}>$3"
+  },
+  "mfg-smartphone": {
+    "prefix": "mfg-smartphone",
+    "body": "<${1:i} class=\"icon-smartphone$2\"></${1:i}>$3"
+  },
+  "mfg-cross_mark": {
+    "prefix": "mfg-cross_mark",
+    "body": "<${1:i} class=\"icon-cross_mark$2\"></${1:i}>$3"
+  },
+  "mfg-globe_black": {
+    "prefix": "mfg-globe_black",
+    "body": "<${1:i} class=\"icon-globe_black$2\"></${1:i}>$3"
+  },
+  "mfg-cancel_circle": {
+    "prefix": "mfg-cancel_circle",
+    "body": "<${1:i} class=\"icon-cancel_circle$2\"></${1:i}>$3"
+  },
+  "mfg-arrow_big_down": {
+    "prefix": "mfg-arrow_big_down",
+    "body": "<${1:i} class=\"icon-arrow_big_down$2\"></${1:i}>$3"
+  },
+  "mfg-star_empty": {
+    "prefix": "mfg-star_empty",
+    "body": "<${1:i} class=\"icon-star_empty$2\"></${1:i}>$3"
+  },
+  "mfg-chart_alt": {
+    "prefix": "mfg-chart_alt",
+    "body": "<${1:i} class=\"icon-chart_alt$2\"></${1:i}>$3"
+  },
+  "mfg-facebook_circle": {
+    "prefix": "mfg-facebook_circle",
+    "body": "<${1:i} class=\"icon-facebook_circle$2\"></${1:i}>$3"
+  },
+  "mfg-mail": {
+    "prefix": "mfg-mail",
+    "body": "<${1:i} class=\"icon-mail$2\"></${1:i}>$3"
+  },
+  "mfg-graph": {
+    "prefix": "mfg-graph",
+    "body": "<${1:i} class=\"icon-graph$2\"></${1:i}>$3"
+  },
+  "mfg-play": {
+    "prefix": "mfg-play",
+    "body": "<${1:i} class=\"icon-play$2\"></${1:i}>$3"
+  },
+  "mfg-letter": {
+    "prefix": "mfg-letter",
+    "body": "<${1:i} class=\"icon-letter$2\"></${1:i}>$3"
+  },
+  "mfg-magnifying_plus": {
+    "prefix": "mfg-magnifying_plus",
+    "body": "<${1:i} class=\"icon-magnifying_plus$2\"></${1:i}>$3"
+  },
+  "mfg-arrow_doubled_up": {
+    "prefix": "mfg-arrow_doubled_up",
+    "body": "<${1:i} class=\"icon-arrow_doubled_up$2\"></${1:i}>$3"
+  },
+  "mfg-cloud": {
+    "prefix": "mfg-cloud",
+    "body": "<${1:i} class=\"icon-cloud$2\"></${1:i}>$3"
+  },
+  "mfg-joystick": {
+    "prefix": "mfg-joystick",
+    "body": "<${1:i} class=\"icon-joystick$2\"></${1:i}>$3"
+  },
+  "mfg-user_male": {
+    "prefix": "mfg-user_male",
+    "body": "<${1:i} class=\"icon-user_male$2\"></${1:i}>$3"
+  },
+  "mfg-data_science": {
+    "prefix": "mfg-data_science",
+    "body": "<${1:i} class=\"icon-data_science$2\"></${1:i}>$3"
+  },
+  "mfg-node_color": {
+    "prefix": "mfg-node_color",
+    "body": "<${1:i} class=\"icon-node_color$2\"></${1:i}>$3"
+  },
+  "mfg-link": {
+    "prefix": "mfg-link",
+    "body": "<${1:i} class=\"icon-link$2\"></${1:i}>$3"
+  },
+  "mfg-more_node_links": {
+    "prefix": "mfg-more_node_links",
+    "body": "<${1:i} class=\"icon-more_node_links$2\"></${1:i}>$3"
+  },
+  "mfg-chevron_down": {
+    "prefix": "mfg-chevron_down",
+    "body": "<${1:i} class=\"icon-chevron_down$2\"></${1:i}>$3"
+  },
+  "mfg-sheet": {
+    "prefix": "mfg-sheet",
+    "body": "<${1:i} class=\"icon-sheet$2\"></${1:i}>$3"
+  },
+  "mfg-star_half_empty": {
+    "prefix": "mfg-star_half_empty",
+    "body": "<${1:i} class=\"icon-star_half_empty$2\"></${1:i}>$3"
+  },
+  "mfg-warning": {
+    "prefix": "mfg-warning",
+    "body": "<${1:i} class=\"icon-warning$2\"></${1:i}>$3"
+  },
+  "mfg-information_black": {
+    "prefix": "mfg-information_black",
+    "body": "<${1:i} class=\"icon-information_black$2\"></${1:i}>$3"
+  },
+  "mfg-arrow_big_up": {
+    "prefix": "mfg-arrow_big_up",
+    "body": "<${1:i} class=\"icon-arrow_big_up$2\"></${1:i}>$3"
+  },
+  "mfg-layout_radial": {
+    "prefix": "mfg-layout_radial",
+    "body": "<${1:i} class=\"icon-layout_radial$2\"></${1:i}>$3"
+  },
+  "mfg-node_link_short_path": {
+    "prefix": "mfg-node_link_short_path",
+    "body": "<${1:i} class=\"icon-node_link_short_path$2\"></${1:i}>$3"
+  },
+  "mfg-warning_alt": {
+    "prefix": "mfg-warning_alt",
+    "body": "<${1:i} class=\"icon-warning_alt$2\"></${1:i}>$3"
+  },
+  "mfg-math_black": {
+    "prefix": "mfg-math_black",
+    "body": "<${1:i} class=\"icon-math_black$2\"></${1:i}>$3"
+  },
+  "mfg-file_close_alt": {
+    "prefix": "mfg-file_close_alt",
+    "body": "<${1:i} class=\"icon-file_close_alt$2\"></${1:i}>$3"
+  },
+  "mfg-chevron_left": {
+    "prefix": "mfg-chevron_left",
+    "body": "<${1:i} class=\"icon-chevron_left$2\"></${1:i}>$3"
+  },
+  "mfg-linked_in_circle": {
+    "prefix": "mfg-linked_in_circle",
+    "body": "<${1:i} class=\"icon-linked_in_circle$2\"></${1:i}>$3"
+  },
+  "mfg-mute_on": {
+    "prefix": "mfg-mute_on",
+    "body": "<${1:i} class=\"icon-mute_on$2\"></${1:i}>$3"
+  },
+  "mfg-node_icon": {
+    "prefix": "mfg-node_icon",
+    "body": "<${1:i} class=\"icon-node_icon$2\"></${1:i}>$3"
+  },
+  "mfg-measure": {
+    "prefix": "mfg-measure",
+    "body": "<${1:i} class=\"icon-measure$2\"></${1:i}>$3"
+  },
+  "mfg-git_circle_alt": {
+    "prefix": "mfg-git_circle_alt",
+    "body": "<${1:i} class=\"icon-git_circle_alt$2\"></${1:i}>$3"
+  },
+  "mfg-tablet": {
+    "prefix": "mfg-tablet",
+    "body": "<${1:i} class=\"icon-tablet$2\"></${1:i}>$3"
+  },
+  "mfg-file_close": {
+    "prefix": "mfg-file_close",
+    "body": "<${1:i} class=\"icon-file_close$2\"></${1:i}>$3"
+  },
+  "mfg-video_camera": {
+    "prefix": "mfg-video_camera",
+    "body": "<${1:i} class=\"icon-video_camera$2\"></${1:i}>$3"
+  },
+  "mfg-linked_in": {
+    "prefix": "mfg-linked_in",
+    "body": "<${1:i} class=\"icon-linked_in$2\"></${1:i}>$3"
+  },
+  "mfg-coverflow_line": {
+    "prefix": "mfg-coverflow_line",
+    "body": "<${1:i} class=\"icon-coverflow_line$2\"></${1:i}>$3"
+  },
+  "mfg-discussion": {
+    "prefix": "mfg-discussion",
+    "body": "<${1:i} class=\"icon-discussion$2\"></${1:i}>$3"
+  },
+  "mfg-math_ico": {
+    "prefix": "mfg-math_ico",
+    "body": "<${1:i} class=\"icon-math_ico$2\"></${1:i}>$3"
+  },
+  "mfg-step_backward": {
+    "prefix": "mfg-step_backward",
+    "body": "<${1:i} class=\"icon-step_backward$2\"></${1:i}>$3"
+  },
+  "mfg-hard_drive": {
+    "prefix": "mfg-hard_drive",
+    "body": "<${1:i} class=\"icon-hard_drive$2\"></${1:i}>$3"
+  },
+  "mfg-black_question": {
+    "prefix": "mfg-black_question",
+    "body": "<${1:i} class=\"icon-black_question$2\"></${1:i}>$3"
+  },
+  "mfg-fire": {
+    "prefix": "mfg-fire",
+    "body": "<${1:i} class=\"icon-fire$2\"></${1:i}>$3"
+  },
+  "mfg-star_half": {
+    "prefix": "mfg-star_half",
+    "body": "<${1:i} class=\"icon-star_half$2\"></${1:i}>$3"
+  },
+  "mfg-node_link_color": {
+    "prefix": "mfg-node_link_color",
+    "body": "<${1:i} class=\"icon-node_link_color$2\"></${1:i}>$3"
+  },
+  "mfg-hashtag": {
+    "prefix": "mfg-hashtag",
+    "body": "<${1:i} class=\"icon-hashtag$2\"></${1:i}>$3"
+  },
+  "mfg-display_graph": {
+    "prefix": "mfg-display_graph",
+    "body": "<${1:i} class=\"icon-display_graph$2\"></${1:i}>$3"
+  },
+  "mfg-spread": {
+    "prefix": "mfg-spread",
+    "body": "<${1:i} class=\"icon-spread$2\"></${1:i}>$3"
+  },
+  "mfg-node_link_shape": {
+    "prefix": "mfg-node_link_shape",
+    "body": "<${1:i} class=\"icon-node_link_shape$2\"></${1:i}>$3"
+  },
+  "mfg-users": {
+    "prefix": "mfg-users",
+    "body": "<${1:i} class=\"icon-users$2\"></${1:i}>$3"
+  },
+  "mfg-stopwatch": {
+    "prefix": "mfg-stopwatch",
+    "body": "<${1:i} class=\"icon-stopwatch$2\"></${1:i}>$3"
+  },
+  "mfg-mfg_icon_circle": {
+    "prefix": "mfg-mfg_icon_circle",
+    "body": "<${1:i} class=\"icon-mfg_icon_circle$2\"></${1:i}>$3"
+  },
+  "mfg-minus": {
+    "prefix": "mfg-minus",
+    "body": "<${1:i} class=\"icon-minus$2\"></${1:i}>$3"
+  },
+  "mfg-xing_circle": {
+    "prefix": "mfg-xing_circle",
+    "body": "<${1:i} class=\"icon-xing_circle$2\"></${1:i}>$3"
+  },
+  "mfg-random": {
+    "prefix": "mfg-random",
+    "body": "<${1:i} class=\"icon-random$2\"></${1:i}>$3"
+  },
+  "mfg-paperplane_black": {
+    "prefix": "mfg-paperplane_black",
+    "body": "<${1:i} class=\"icon-paperplane_black$2\"></${1:i}>$3"
+  },
+  "mfg-label": {
+    "prefix": "mfg-label",
+    "body": "<${1:i} class=\"icon-label$2\"></${1:i}>$3"
+  },
+  "mfg-lock_alt": {
+    "prefix": "mfg-lock_alt",
+    "body": "<${1:i} class=\"icon-lock_alt$2\"></${1:i}>$3"
+  },
+  "mfg-step_forward": {
+    "prefix": "mfg-step_forward",
+    "body": "<${1:i} class=\"icon-step_forward$2\"></${1:i}>$3"
+  },
+  "mfg-high_voltage": {
+    "prefix": "mfg-high_voltage",
+    "body": "<${1:i} class=\"icon-high_voltage$2\"></${1:i}>$3"
+  },
+  "mfg-mute_off": {
+    "prefix": "mfg-mute_off",
+    "body": "<${1:i} class=\"icon-mute_off$2\"></${1:i}>$3"
+  },
+  "mfg-arrow_left": {
+    "prefix": "mfg-arrow_left",
+    "body": "<${1:i} class=\"icon-arrow_left$2\"></${1:i}>$3"
+  },
+  "mfg-file_alt": {
+    "prefix": "mfg-file_alt",
+    "body": "<${1:i} class=\"icon-file_alt$2\"></${1:i}>$3"
+  },
+  "mfg-file_open": {
+    "prefix": "mfg-file_open",
+    "body": "<${1:i} class=\"icon-file_open$2\"></${1:i}>$3"
+  },
+  "mfg-node": {
+    "prefix": "mfg-node",
+    "body": "<${1:i} class=\"icon-node$2\"></${1:i}>$3"
+  },
+  "mfg-vector_pen": {
+    "prefix": "mfg-vector_pen",
+    "body": "<${1:i} class=\"icon-vector_pen$2\"></${1:i}>$3"
+  },
+  "mfg-movie": {
+    "prefix": "mfg-movie",
+    "body": "<${1:i} class=\"icon-movie$2\"></${1:i}>$3"
+  },
+  "mfg-chart": {
+    "prefix": "mfg-chart",
+    "body": "<${1:i} class=\"icon-chart$2\"></${1:i}>$3"
+  },
+  "mfg-magnifying": {
+    "prefix": "mfg-magnifying",
+    "body": "<${1:i} class=\"icon-magnifying$2\"></${1:i}>$3"
+  },
+  "mfg-message": {
+    "prefix": "mfg-message",
+    "body": "<${1:i} class=\"icon-message$2\"></${1:i}>$3"
+  },
+  "mfg-hourglass": {
+    "prefix": "mfg-hourglass",
+    "body": "<${1:i} class=\"icon-hourglass$2\"></${1:i}>$3"
+  },
+  "mfg-dribbble_circle": {
+    "prefix": "mfg-dribbble_circle",
+    "body": "<${1:i} class=\"icon-dribbble_circle$2\"></${1:i}>$3"
+  },
+  "mfg-arrow_doubled_right": {
+    "prefix": "mfg-arrow_doubled_right",
+    "body": "<${1:i} class=\"icon-arrow_doubled_right$2\"></${1:i}>$3"
+  },
+  "mfg-spinner_2": {
+    "prefix": "mfg-spinner_2",
+    "body": "<${1:i} class=\"icon-spinner_2$2\"></${1:i}>$3"
+  },
+  "mfg-isight": {
+    "prefix": "mfg-isight",
+    "body": "<${1:i} class=\"icon-isight$2\"></${1:i}>$3"
+  },
+  "mfg-spinner_1": {
+    "prefix": "mfg-spinner_1",
+    "body": "<${1:i} class=\"icon-spinner_1$2\"></${1:i}>$3"
+  },
+  "mfg-paperplane_ico": {
+    "prefix": "mfg-paperplane_ico",
+    "body": "<${1:i} class=\"icon-paperplane_ico$2\"></${1:i}>$3"
+  },
+  "mfg-layout_hierarchical": {
+    "prefix": "mfg-layout_hierarchical",
+    "body": "<${1:i} class=\"icon-layout_hierarchical$2\"></${1:i}>$3"
+  },
+  "mfg-check_circle": {
+    "prefix": "mfg-check_circle",
+    "body": "<${1:i} class=\"icon-check_circle$2\"></${1:i}>$3"
+  },
+  "mfg-twitter": {
+    "prefix": "mfg-twitter",
+    "body": "<${1:i} class=\"icon-twitter$2\"></${1:i}>$3"
+  },
+  "mfg-male_sign": {
+    "prefix": "mfg-male_sign",
+    "body": "<${1:i} class=\"icon-male_sign$2\"></${1:i}>$3"
+  },
+  "mfg-git": {
+    "prefix": "mfg-git",
+    "body": "<${1:i} class=\"icon-git$2\"></${1:i}>$3"
+  },
+  "mfg-instagram": {
+    "prefix": "mfg-instagram",
+    "body": "<${1:i} class=\"icon-instagram$2\"></${1:i}>$3"
+  },
+  "mfg-stop": {
+    "prefix": "mfg-stop",
+    "body": "<${1:i} class=\"icon-stop$2\"></${1:i}>$3"
+  },
+  "mfg-inbox": {
+    "prefix": "mfg-inbox",
+    "body": "<${1:i} class=\"icon-inbox$2\"></${1:i}>$3"
+  },
+  "mfg-twitter_circle": {
+    "prefix": "mfg-twitter_circle",
+    "body": "<${1:i} class=\"icon-twitter_circle$2\"></${1:i}>$3"
+  },
+  "mfg-refresh": {
+    "prefix": "mfg-refresh",
+    "body": "<${1:i} class=\"icon-refresh$2\"></${1:i}>$3"
+  },
+  "mfg-printer": {
+    "prefix": "mfg-printer",
+    "body": "<${1:i} class=\"icon-printer$2\"></${1:i}>$3"
+  },
+  "mfg-coverflow": {
+    "prefix": "mfg-coverflow",
+    "body": "<${1:i} class=\"icon-coverflow$2\"></${1:i}>$3"
+  },
+  "mfg-credit_card": {
+    "prefix": "mfg-credit_card",
+    "body": "<${1:i} class=\"icon-credit_card$2\"></${1:i}>$3"
+  },
+  "mfg-node_shape": {
+    "prefix": "mfg-node_shape",
+    "body": "<${1:i} class=\"icon-node_shape$2\"></${1:i}>$3"
+  },
+  "mfg-reorder_square": {
+    "prefix": "mfg-reorder_square",
+    "body": "<${1:i} class=\"icon-reorder_square$2\"></${1:i}>$3"
+  },
+  "mfg-trash_can": {
+    "prefix": "mfg-trash_can",
+    "body": "<${1:i} class=\"icon-trash_can$2\"></${1:i}>$3"
+  },
+  "mfg-arrow_big_left": {
+    "prefix": "mfg-arrow_big_left",
+    "body": "<${1:i} class=\"icon-arrow_big_left$2\"></${1:i}>$3"
+  },
+  "mfg-chevron_right": {
+    "prefix": "mfg-chevron_right",
+    "body": "<${1:i} class=\"icon-chevron_right$2\"></${1:i}>$3"
+  },
+  "mfg-pen": {
+    "prefix": "mfg-pen",
+    "body": "<${1:i} class=\"icon-pen$2\"></${1:i}>$3"
+  }
+}

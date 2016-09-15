@@ -1,0 +1,1526 @@
+{
+  "ratchicon-list": {
+    "prefix": "ratchicon-list",
+    "body": "content: '\\\\e823';"
+  },
+  "ratchicon-webfinger": {
+    "prefix": "ratchicon-webfinger",
+    "body": "content: '\\\\f08e';"
+  },
+  "ratchicon-3deffects": {
+    "prefix": "ratchicon-3deffects",
+    "body": "content: '\\\\f037';"
+  },
+  "ratchicon-diigo": {
+    "prefix": "ratchicon-diigo",
+    "body": "content: '\\\\f320';"
+  },
+  "ratchicon-dataportability": {
+    "prefix": "ratchicon-dataportability",
+    "body": "content: '\\\\f013';"
+  },
+  "ratchicon-diaspora": {
+    "prefix": "ratchicon-diaspora",
+    "body": "content: '\\\\f05c';"
+  },
+  "ratchicon-video_camera": {
+    "prefix": "ratchicon-video_camera",
+    "body": "content: '\\\\f03a';"
+  },
+  "ratchicon-search": {
+    "prefix": "ratchicon-search",
+    "body": "content: '\\\\e819';"
+  },
+  "ratchicon-osi-colored": {
+    "prefix": "ratchicon-osi-colored",
+    "body": "content: '\\\\f038';"
+  },
+  "ratchicon-webhooks": {
+    "prefix": "ratchicon-webhooks",
+    "body": "content: '\\\\f036';"
+  },
+  "ratchicon-file_open": {
+    "prefix": "ratchicon-file_open",
+    "body": "content: '\\\\F4C2';"
+  },
+  "ratchicon-trash_can": {
+    "prefix": "ratchicon-trash_can",
+    "body": "content: '\\\\f083';"
+  },
+  "ratchicon-anchor": {
+    "prefix": "ratchicon-anchor",
+    "body": "content: '\\\\2693';"
+  },
+  "ratchicon-play": {
+    "prefix": "ratchicon-play",
+    "body": "content: '\\\\f00f';"
+  },
+  "ratchicon-yandex": {
+    "prefix": "ratchicon-yandex",
+    "body": "content: '\\\\f305';"
+  },
+  "ratchicon-camera": {
+    "prefix": "ratchicon-camera",
+    "body": "content: '\\\\F4F7';"
+  },
+  "ratchicon-mail": {
+    "prefix": "ratchicon-mail",
+    "body": "content: '\\\\2709';"
+  },
+  "ratchicon-ostatus-colored": {
+    "prefix": "ratchicon-ostatus-colored",
+    "body": "content: '\\\\f004';"
+  },
+  "ratchicon-cc-nd": {
+    "prefix": "ratchicon-cc-nd",
+    "body": "content: '\\\\f086';"
+  },
+  "ratchicon-owl": {
+    "prefix": "ratchicon-owl",
+    "body": "content: '\\\\f039';"
+  },
+  "ratchicon-sound": {
+    "prefix": "ratchicon-sound",
+    "body": "content: '\\\\e827';"
+  },
+  "ratchicon-bitcoin": {
+    "prefix": "ratchicon-bitcoin",
+    "body": "content: '\\\\f08f';"
+  },
+  "ratchicon-cc-nc": {
+    "prefix": "ratchicon-cc-nc",
+    "body": "content: '\\\\f082';"
+  },
+  "ratchicon-clock": {
+    "prefix": "ratchicon-clock",
+    "body": "content: '\\\\23F2';"
+  },
+  "ratchicon-users": {
+    "prefix": "ratchicon-users",
+    "body": "content: '\\\\f064';"
+  },
+  "ratchicon-unhosted": {
+    "prefix": "ratchicon-unhosted",
+    "body": "content: '\\\\f05b';"
+  },
+  "ratchicon-connected_object": {
+    "prefix": "ratchicon-connected_object",
+    "body": "content: '\\\\f035';"
+  },
+  "ratchicon-settings": {
+    "prefix": "ratchicon-settings",
+    "body": "content: '\\\\9881';"
+  },
+  "ratchicon-microformats-colored": {
+    "prefix": "ratchicon-microformats-colored",
+    "body": "content: '\\\\f00c';"
+  },
+  "ratchicon-compose": {
+    "prefix": "ratchicon-compose",
+    "body": "content: '\\\\e813';"
+  },
+  "ratchicon-star-filled": {
+    "prefix": "ratchicon-star-filled",
+    "body": "content: '\\\\e81b';"
+  },
+  "ratchicon-letter": {
+    "prefix": "ratchicon-letter",
+    "body": "content: '\\\\f088';"
+  },
+  "ratchicon-bitcoin-simple": {
+    "prefix": "ratchicon-bitcoin-simple",
+    "body": "content: '\\\\f090';"
+  },
+  "ratchicon-wordpress": {
+    "prefix": "ratchicon-wordpress",
+    "body": "content: '\\\\f31d';"
+  },
+  "ratchicon-math_ico": {
+    "prefix": "ratchicon-math_ico",
+    "body": "content: '\\\\f01a';"
+  },
+  "ratchicon-up-nav": {
+    "prefix": "ratchicon-up-nav",
+    "body": "content: '\\\\e81f';"
+  },
+  "ratchicon-github": {
+    "prefix": "ratchicon-github",
+    "body": "content: '\\\\f308';"
+  },
+  "ratchicon-calendar": {
+    "prefix": "ratchicon-calendar",
+    "body": "content: '\\\\F4C5';"
+  },
+  "ratchicon-cc-nc-eu": {
+    "prefix": "ratchicon-cc-nc-eu",
+    "body": "content: '\\\\f083';"
+  },
+  "ratchicon-arrow_big_left": {
+    "prefix": "ratchicon-arrow_big_left",
+    "body": "content: '\\\\21C7';"
+  },
+  "ratchicon-node": {
+    "prefix": "ratchicon-node",
+    "body": "content: '\\\\E002';"
+  },
+  "ratchicon-cc": {
+    "prefix": "ratchicon-cc",
+    "body": "content: '\\\\f080';"
+  },
+  "ratchicon-linkedin": {
+    "prefix": "ratchicon-linkedin",
+    "body": "content: '\\\\f31a';"
+  },
+  "ratchicon-chevron_right": {
+    "prefix": "ratchicon-chevron_right",
+    "body": "content: '\\\\f006';"
+  },
+  "ratchicon-known": {
+    "prefix": "ratchicon-known",
+    "body": "content: '\\\\f059';"
+  },
+  "ratchicon-lastfm": {
+    "prefix": "ratchicon-lastfm",
+    "body": "content: '\\\\f318';"
+  },
+  "ratchicon-mute_on": {
+    "prefix": "ratchicon-mute_on",
+    "body": "content: '\\\\f047';"
+  },
+  "ratchicon-upload": {
+    "prefix": "ratchicon-upload",
+    "body": "content: '\\\\f02f';"
+  },
+  "ratchicon-cc-share": {
+    "prefix": "ratchicon-cc-share",
+    "body": "content: '\\\\f089';"
+  },
+  "ratchicon-arrow_left": {
+    "prefix": "ratchicon-arrow_left",
+    "body": "content: '\\\\2190';"
+  },
+  "ratchicon-feed-simple": {
+    "prefix": "ratchicon-feed-simple",
+    "body": "content: '\\\\f00a';"
+  },
+  "ratchicon-smartphone": {
+    "prefix": "ratchicon-smartphone",
+    "body": "content: '\\\\f034';"
+  },
+  "ratchicon-copyleft": {
+    "prefix": "ratchicon-copyleft",
+    "body": "content: '\\\\f051';"
+  },
+  "ratchicon-yandex-rect": {
+    "prefix": "ratchicon-yandex-rect",
+    "body": "content: '\\\\f306';"
+  },
+  "ratchicon-data_science": {
+    "prefix": "ratchicon-data_science",
+    "body": "content: '\\\\f016';"
+  },
+  "ratchicon-star_half": {
+    "prefix": "ratchicon-star_half",
+    "body": "content: '\\\\f022';"
+  },
+  "ratchicon-oauth": {
+    "prefix": "ratchicon-oauth",
+    "body": "content: '\\\\f008';"
+  },
+  "ratchicon-movie": {
+    "prefix": "ratchicon-movie",
+    "body": "content: '\\\\f040';"
+  },
+  "ratchicon-xing": {
+    "prefix": "ratchicon-xing",
+    "body": "content: '\\\\F532';"
+  },
+  "ratchicon-youku": {
+    "prefix": "ratchicon-youku",
+    "body": "content: '\\\\f324';"
+  },
+  "ratchicon-activity-colored": {
+    "prefix": "ratchicon-activity-colored",
+    "body": "content: '\\\\f010';"
+  },
+  "ratchicon-pause": {
+    "prefix": "ratchicon-pause",
+    "body": "content: '\\\\f00e';"
+  },
+  "ratchicon-opendesign": {
+    "prefix": "ratchicon-opendesign",
+    "body": "content: '\\\\f061';"
+  },
+  "ratchicon-coverflow": {
+    "prefix": "ratchicon-coverflow",
+    "body": "content: '\\\\f00c';"
+  },
+  "ratchicon-webplattform": {
+    "prefix": "ratchicon-webplattform",
+    "body": "content: '\\\\f05f';"
+  },
+  "ratchicon-ofl-attribution": {
+    "prefix": "ratchicon-ofl-attribution",
+    "body": "content: '\\\\f081';"
+  },
+  "ratchicon-css3": {
+    "prefix": "ratchicon-css3",
+    "body": "content: '\\\\f017';"
+  },
+  "ratchicon-odnoklassniki": {
+    "prefix": "ratchicon-odnoklassniki",
+    "body": "content: '\\\\f30c';"
+  },
+  "ratchicon-share-simple": {
+    "prefix": "ratchicon-share-simple",
+    "body": "content: '\\\\f007';"
+  },
+  "ratchicon-vector": {
+    "prefix": "ratchicon-vector",
+    "body": "content: '\\\\f045';"
+  },
+  "ratchicon-open-web": {
+    "prefix": "ratchicon-open-web",
+    "body": "content: '\\\\f012';"
+  },
+  "ratchicon-magnifying_plus": {
+    "prefix": "ratchicon-magnifying_plus",
+    "body": "content: '\\\\f07E';"
+  },
+  "ratchicon-math_black": {
+    "prefix": "ratchicon-math_black",
+    "body": "content: '\\\\f01c';"
+  },
+  "ratchicon-code": {
+    "prefix": "ratchicon-code",
+    "body": "content: '\\\\e812';"
+  },
+  "ratchicon-more": {
+    "prefix": "ratchicon-more",
+    "body": "content: '\\\\e82f';"
+  },
+  "ratchicon-globe": {
+    "prefix": "ratchicon-globe",
+    "body": "content: '\\\\f018';"
+  },
+  "ratchicon-star": {
+    "prefix": "ratchicon-star",
+    "body": "content: '\\\\2605';"
+  },
+  "ratchicon-message": {
+    "prefix": "ratchicon-message",
+    "body": "content: '\\\\F4AC';"
+  },
+  "ratchicon-chevron_down": {
+    "prefix": "ratchicon-chevron_down",
+    "body": "content: '\\\\f004';"
+  },
+  "ratchicon-linked_in": {
+    "prefix": "ratchicon-linked_in",
+    "body": "content: '\\\\f05c';"
+  },
+  "ratchicon-opengraph": {
+    "prefix": "ratchicon-opengraph",
+    "body": "content: '\\\\f020';"
+  },
+  "ratchicon-mfg_icon": {
+    "prefix": "ratchicon-mfg_icon",
+    "body": "content: '\\\\f05f';"
+  },
+  "ratchicon-sound3": {
+    "prefix": "ratchicon-sound3",
+    "body": "content: '\\\\e80b';"
+  },
+  "ratchicon-sound2": {
+    "prefix": "ratchicon-sound2",
+    "body": "content: '\\\\e828';"
+  },
+  "ratchicon-hard_drive": {
+    "prefix": "ratchicon-hard_drive",
+    "body": "content: '\\\\f084';"
+  },
+  "ratchicon-sound4": {
+    "prefix": "ratchicon-sound4",
+    "body": "content: '\\\\e80c';"
+  },
+  "ratchicon-stop": {
+    "prefix": "ratchicon-stop",
+    "body": "content: '\\\\f080';"
+  },
+  "ratchicon-coverflow_line": {
+    "prefix": "ratchicon-coverflow_line",
+    "body": "content: '\\\\f00d';"
+  },
+  "ratchicon-label": {
+    "prefix": "ratchicon-label",
+    "body": "content: '\\\\F531';"
+  },
+  "ratchicon-indiewebcamp": {
+    "prefix": "ratchicon-indiewebcamp",
+    "body": "content: '\uf08b\uf08c\uf08d';"
+  },
+  "ratchicon-tablet": {
+    "prefix": "ratchicon-tablet",
+    "body": "content: '\\\\f033';"
+  },
+  "ratchicon-female_sign": {
+    "prefix": "ratchicon-female_sign",
+    "body": "content: '\\\\2640';"
+  },
+  "ratchicon-twitter_circle": {
+    "prefix": "ratchicon-twitter_circle",
+    "body": "content: '\\\\f057';"
+  },
+  "ratchicon-arrow_big_right": {
+    "prefix": "ratchicon-arrow_big_right",
+    "body": "content: '\\\\21C9';"
+  },
+  "ratchicon-share": {
+    "prefix": "ratchicon-share",
+    "body": "content: '\\\\e81a';"
+  },
+  "ratchicon-linkedin-rect": {
+    "prefix": "ratchicon-linkedin-rect",
+    "body": "content: '\\\\f31b';"
+  },
+  "ratchicon-cc-by": {
+    "prefix": "ratchicon-cc-by",
+    "body": "content: '\\\\f081';"
+  },
+  "ratchicon-opensource-colored": {
+    "prefix": "ratchicon-opensource-colored",
+    "body": "content: '\\\\f038';"
+  },
+  "ratchicon-node_icon": {
+    "prefix": "ratchicon-node_icon",
+    "body": "content: '\\\\E00B';"
+  },
+  "ratchicon-git-colored": {
+    "prefix": "ratchicon-git-colored",
+    "body": "content: '\\\\f035';"
+  },
+  "ratchicon-right": {
+    "prefix": "ratchicon-right",
+    "body": "content: '\\\\e826';"
+  },
+  "ratchicon-tumblr": {
+    "prefix": "ratchicon-tumblr",
+    "body": "content: '\\\\f311';"
+  },
+  "ratchicon-person": {
+    "prefix": "ratchicon-person",
+    "body": "content: '\\\\e832';"
+  },
+  "ratchicon-math": {
+    "prefix": "ratchicon-math",
+    "body": "content: '\\\\f01b';"
+  },
+  "ratchicon-printer": {
+    "prefix": "ratchicon-printer",
+    "body": "content: '\\\\f087';"
+  },
+  "ratchicon-facebook_circle": {
+    "prefix": "ratchicon-facebook_circle",
+    "body": "content: '\\\\f051';"
+  },
+  "ratchicon-information_white": {
+    "prefix": "ratchicon-information_white",
+    "body": "content: '\\\\f086';"
+  },
+  "ratchicon-unlock_alt": {
+    "prefix": "ratchicon-unlock_alt",
+    "body": "content: '\\\\F075';"
+  },
+  "ratchicon-step_forward": {
+    "prefix": "ratchicon-step_forward",
+    "body": "content: '\\\\f010';"
+  },
+  "ratchicon-placepin": {
+    "prefix": "ratchicon-placepin",
+    "body": "content: '\\\\f031';"
+  },
+  "ratchicon-magnifying": {
+    "prefix": "ratchicon-magnifying",
+    "body": "content: '\\\\F50D';"
+  },
+  "ratchicon-device-access": {
+    "prefix": "ratchicon-device-access",
+    "body": "content: '\\\\f031';"
+  },
+  "ratchicon-star_half_empty": {
+    "prefix": "ratchicon-star_half_empty",
+    "body": "content: '\\\\f024';"
+  },
+  "ratchicon-high_voltage": {
+    "prefix": "ratchicon-high_voltage",
+    "body": "content: '\\\\26A1';"
+  },
+  "ratchicon-arrow_down": {
+    "prefix": "ratchicon-arrow_down",
+    "body": "content: '\\\\2193';"
+  },
+  "ratchicon-amex": {
+    "prefix": "ratchicon-amex",
+    "body": "content: '\\\\f326';"
+  },
+  "ratchicon-wtfpl": {
+    "prefix": "ratchicon-wtfpl",
+    "body": "content: '\\\\f04f';"
+  },
+  "ratchicon-browserid": {
+    "prefix": "ratchicon-browserid",
+    "body": "content: '\\\\f025';"
+  },
+  "ratchicon-spread": {
+    "prefix": "ratchicon-spread",
+    "body": "content: '\\\\F527';"
+  },
+  "ratchicon-ofl-embedding": {
+    "prefix": "ratchicon-ofl-embedding",
+    "body": "content: '\\\\f04c';"
+  },
+  "ratchicon-pub-colored": {
+    "prefix": "ratchicon-pub-colored",
+    "body": "content: '\\\\f045';"
+  },
+  "ratchicon-disconnect": {
+    "prefix": "ratchicon-disconnect",
+    "body": "content: '\\\\F534';"
+  },
+  "ratchicon-visa": {
+    "prefix": "ratchicon-visa",
+    "body": "content: '\\\\f328';"
+  },
+  "ratchicon-reorder_square_line": {
+    "prefix": "ratchicon-reorder_square_line",
+    "body": "content: '\\\\f00b';"
+  },
+  "ratchicon-instagram-filled": {
+    "prefix": "ratchicon-instagram-filled",
+    "body": "content: '\\\\f31f';"
+  },
+  "ratchicon-owncloud": {
+    "prefix": "ratchicon-owncloud",
+    "body": "content: '\\\\f055';"
+  },
+  "ratchicon-star_empty": {
+    "prefix": "ratchicon-star_empty",
+    "body": "content: '\\\\2606';"
+  },
+  "ratchicon-layout_directed": {
+    "prefix": "ratchicon-layout_directed",
+    "body": "content: '\\\\E010';"
+  },
+  "ratchicon-credit_card": {
+    "prefix": "ratchicon-credit_card",
+    "body": "content: '\\\\F4B3';"
+  },
+  "ratchicon-mute_off": {
+    "prefix": "ratchicon-mute_off",
+    "body": "content: '\\\\f048';"
+  },
+  "ratchicon-feed": {
+    "prefix": "ratchicon-feed",
+    "body": "content: '\\\\f009';"
+  },
+  "ratchicon-paperplane": {
+    "prefix": "ratchicon-paperplane",
+    "body": "content: '\\\\f01e';"
+  },
+  "ratchicon-cloud": {
+    "prefix": "ratchicon-cloud",
+    "body": "content: '\\\\2601';"
+  },
+  "ratchicon-lock_alt": {
+    "prefix": "ratchicon-lock_alt",
+    "body": "content: '\\\\F510';"
+  },
+  "ratchicon-user_male": {
+    "prefix": "ratchicon-user_male",
+    "body": "content: '\\\\f062';"
+  },
+  "ratchicon-box": {
+    "prefix": "ratchicon-box",
+    "body": "content: '\\\\f321';"
+  },
+  "ratchicon-node_3": {
+    "prefix": "ratchicon-node_3",
+    "body": "content: '\\\\E004';"
+  },
+  "ratchicon-node_2": {
+    "prefix": "ratchicon-node_2",
+    "body": "content: '\\\\E003';"
+  },
+  "ratchicon-icq": {
+    "prefix": "ratchicon-icq",
+    "body": "content: '\\\\f304';"
+  },
+  "ratchicon-tosdr": {
+    "prefix": "ratchicon-tosdr",
+    "body": "content: '\\\\f030';"
+  },
+  "ratchicon-file_alt": {
+    "prefix": "ratchicon-file_alt",
+    "body": "content: '\\\\f068';"
+  },
+  "ratchicon-facebook": {
+    "prefix": "ratchicon-facebook",
+    "body": "content: '\\\\f300';"
+  },
+  "ratchicon-cancel_circle": {
+    "prefix": "ratchicon-cancel_circle",
+    "body": "content: '\\\\F06E';"
+  },
+  "ratchicon-hubbub-colored": {
+    "prefix": "ratchicon-hubbub-colored",
+    "body": "content: '\\\\f045';"
+  },
+  "ratchicon-check_circle": {
+    "prefix": "ratchicon-check_circle",
+    "body": "content: '\\\\f06d';"
+  },
+  "ratchicon-github-text": {
+    "prefix": "ratchicon-github-text",
+    "body": "content: '\\\\f307';"
+  },
+  "ratchicon-vimeo": {
+    "prefix": "ratchicon-vimeo",
+    "body": "content: '\\\\f30f';"
+  },
+  "ratchicon-blogger": {
+    "prefix": "ratchicon-blogger",
+    "body": "content: '\\\\f314';"
+  },
+  "ratchicon-houzz": {
+    "prefix": "ratchicon-houzz",
+    "body": "content: '\\\\f32a';"
+  },
+  "ratchicon-opensearch": {
+    "prefix": "ratchicon-opensearch",
+    "body": "content: '\\\\f002';"
+  },
+  "ratchicon-reload": {
+    "prefix": "ratchicon-reload",
+    "body": "content: '\\\\f025';"
+  },
+  "ratchicon-html5-colored": {
+    "prefix": "ratchicon-html5-colored",
+    "body": "content: '\\\\f016';"
+  },
+  "ratchicon-odnoklassniki-rect": {
+    "prefix": "ratchicon-odnoklassniki-rect",
+    "body": "content: '\\\\f30d';"
+  },
+  "ratchicon-layout_radial": {
+    "prefix": "ratchicon-layout_radial",
+    "body": "content: '\\\\E011';"
+  },
+  "ratchicon-arrow_big_down": {
+    "prefix": "ratchicon-arrow_big_down",
+    "body": "content: '\\\\21CA';"
+  },
+  "ratchicon-joystick": {
+    "prefix": "ratchicon-joystick",
+    "body": "content: '\\\\F514';"
+  },
+  "ratchicon-more-vertical": {
+    "prefix": "ratchicon-more-vertical",
+    "body": "content: '\\\\e82e';"
+  },
+  "ratchicon-hcard-add": {
+    "prefix": "ratchicon-hcard-add",
+    "body": "content: '\\\\f043';"
+  },
+  "ratchicon-geo": {
+    "prefix": "ratchicon-geo",
+    "body": "content: '\\\\f00b';"
+  },
+  "ratchicon-vimeo-rect": {
+    "prefix": "ratchicon-vimeo-rect",
+    "body": "content: '\\\\f30e';"
+  },
+  "ratchicon-right-nav": {
+    "prefix": "ratchicon-right-nav",
+    "body": "content: '\\\\e818';"
+  },
+  "ratchicon-twitter": {
+    "prefix": "ratchicon-twitter",
+    "body": "content: '\\\\f302';"
+  },
+  "ratchicon-web-intents": {
+    "prefix": "ratchicon-web-intents",
+    "body": "content: '\\\\f014';"
+  },
+  "ratchicon-open-share": {
+    "prefix": "ratchicon-open-share",
+    "body": "content: '\\\\f00e';"
+  },
+  "ratchicon-hubbub": {
+    "prefix": "ratchicon-hubbub",
+    "body": "content: '\\\\f045';"
+  },
+  "ratchicon-javascript-colored": {
+    "prefix": "ratchicon-javascript-colored",
+    "body": "content: '\\\\f04e';"
+  },
+  "ratchicon-data_science_black": {
+    "prefix": "ratchicon-data_science_black",
+    "body": "content: '\\\\f017';"
+  },
+  "ratchicon-cc-public": {
+    "prefix": "ratchicon-cc-public",
+    "body": "content: '\\\\f087';"
+  },
+  "ratchicon-reorder_square": {
+    "prefix": "ratchicon-reorder_square",
+    "body": "content: '\\\\f00a';"
+  },
+  "ratchicon-semantics": {
+    "prefix": "ratchicon-semantics",
+    "body": "content: '\\\\f019';"
+  },
+  "ratchicon-epub-colored": {
+    "prefix": "ratchicon-epub-colored",
+    "body": "content: '\\\\f021';"
+  },
+  "ratchicon-deviantart": {
+    "prefix": "ratchicon-deviantart",
+    "body": "content: '\\\\f316';"
+  },
+  "ratchicon-inbox": {
+    "prefix": "ratchicon-inbox",
+    "body": "content: '\\\\f070';"
+  },
+  "ratchicon-qr": {
+    "prefix": "ratchicon-qr",
+    "body": "content: '\\\\f022';"
+  },
+  "ratchicon-node_shape": {
+    "prefix": "ratchicon-node_shape",
+    "body": "content: '\\\\E00A';"
+  },
+  "ratchicon-chevron_up": {
+    "prefix": "ratchicon-chevron_up",
+    "body": "content: '\\\\f005';"
+  },
+  "ratchicon-info-card": {
+    "prefix": "ratchicon-info-card",
+    "body": "content: '\\\\f024';"
+  },
+  "ratchicon-arrow_doubled_right": {
+    "prefix": "ratchicon-arrow_doubled_right",
+    "body": "content: '\\\\21D2';"
+  },
+  "ratchicon-pub": {
+    "prefix": "ratchicon-pub",
+    "body": "content: '\\\\f045';"
+  },
+  "ratchicon-link_2_nodes": {
+    "prefix": "ratchicon-link_2_nodes",
+    "body": "content: '\\\\E005';"
+  },
+  "ratchicon-twitter-bird": {
+    "prefix": "ratchicon-twitter-bird",
+    "body": "content: '\\\\f303';"
+  },
+  "ratchicon-node_link_color": {
+    "prefix": "ratchicon-node_link_color",
+    "body": "content: '\\\\E00E';"
+  },
+  "ratchicon-sub": {
+    "prefix": "ratchicon-sub",
+    "body": "content: '\\\\f046';"
+  },
+  "ratchicon-isight": {
+    "prefix": "ratchicon-isight",
+    "body": "content: '\\\\f039';"
+  },
+  "ratchicon-node_size": {
+    "prefix": "ratchicon-node_size",
+    "body": "content: '\\\\E008';"
+  },
+  "ratchicon-lastfm-rect": {
+    "prefix": "ratchicon-lastfm-rect",
+    "body": "content: '\\\\f319';"
+  },
+  "ratchicon-eye": {
+    "prefix": "ratchicon-eye",
+    "body": "content: '\\\\f082';"
+  },
+  "ratchicon-microformats": {
+    "prefix": "ratchicon-microformats",
+    "body": "content: '\\\\f00c';"
+  },
+  "ratchicon-pubsubhubbub": {
+    "prefix": "ratchicon-pubsubhubbub",
+    "body": "content: '\\\\f047';"
+  },
+  "ratchicon-remote-storage": {
+    "prefix": "ratchicon-remote-storage",
+    "body": "content: '\\\\f026';"
+  },
+  "ratchicon-node_cluster": {
+    "prefix": "ratchicon-node_cluster",
+    "body": "content: '\\\\E015';"
+  },
+  "ratchicon-reply": {
+    "prefix": "ratchicon-reply",
+    "body": "content: '\\\\f02a';"
+  },
+  "ratchicon-git_circle": {
+    "prefix": "ratchicon-git_circle",
+    "body": "content: '\\\\f054';"
+  },
+  "ratchicon-node_text": {
+    "prefix": "ratchicon-node_text",
+    "body": "content: '\\\\E00C';"
+  },
+  "ratchicon-at": {
+    "prefix": "ratchicon-at",
+    "body": "content: '\\\\0040';"
+  },
+  "ratchicon-reorder": {
+    "prefix": "ratchicon-reorder",
+    "body": "content: '\\\\f008';"
+  },
+  "ratchicon-friendfeed-rect": {
+    "prefix": "ratchicon-friendfeed-rect",
+    "body": "content: '\\\\f313';"
+  },
+  "ratchicon-back": {
+    "prefix": "ratchicon-back",
+    "body": "content: '\\\\e80a';"
+  },
+  "ratchicon-multimedia": {
+    "prefix": "ratchicon-multimedia",
+    "body": "content: '\\\\f032';"
+  },
+  "ratchicon-indieweb": {
+    "prefix": "ratchicon-indieweb",
+    "body": "content: '\uf08b\uf08c';"
+  },
+  "ratchicon-step_backward": {
+    "prefix": "ratchicon-step_backward",
+    "body": "content: '\\\\f011';"
+  },
+  "ratchicon-discover": {
+    "prefix": "ratchicon-discover",
+    "body": "content: '\\\\f327';"
+  },
+  "ratchicon-dribbble": {
+    "prefix": "ratchicon-dribbble",
+    "body": "content: '\\\\f050';"
+  },
+  "ratchicon-forward": {
+    "prefix": "ratchicon-forward",
+    "body": "content: '\\\\e82a';"
+  },
+  "ratchicon-link_3_nodes": {
+    "prefix": "ratchicon-link_3_nodes",
+    "body": "content: '\\\\E006';"
+  },
+  "ratchicon-gnusocial-colored": {
+    "prefix": "ratchicon-gnusocial-colored",
+    "body": "content: '\\\\f062';"
+  },
+  "ratchicon-win8": {
+    "prefix": "ratchicon-win8",
+    "body": "content: '\\\\f325';"
+  },
+  "ratchicon-newspaper": {
+    "prefix": "ratchicon-newspaper",
+    "body": "content: '\\\\F4F0';"
+  },
+  "ratchicon-vkontakte-rect": {
+    "prefix": "ratchicon-vkontakte-rect",
+    "body": "content: '\\\\f30a';"
+  },
+  "ratchicon-ofl": {
+    "prefix": "ratchicon-ofl",
+    "body": "content: '\\\\f053';"
+  },
+  "ratchicon-instagram": {
+    "prefix": "ratchicon-instagram",
+    "body": "content: '\\\\f05d';"
+  },
+  "ratchicon-ostatus": {
+    "prefix": "ratchicon-ostatus",
+    "body": "content: '\\\\f004';"
+  },
+  "ratchicon-octopus": {
+    "prefix": "ratchicon-octopus",
+    "body": "content: '\\\\f056';"
+  },
+  "ratchicon-git_circle_alt": {
+    "prefix": "ratchicon-git_circle_alt",
+    "body": "content: '\\\\f053';"
+  },
+  "ratchicon-bars": {
+    "prefix": "ratchicon-bars",
+    "body": "content: '\\\\e80e';"
+  },
+  "ratchicon-check": {
+    "prefix": "ratchicon-check",
+    "body": "content: '\\\\e810';"
+  },
+  "ratchicon-discussion": {
+    "prefix": "ratchicon-discussion",
+    "body": "content: '\\\\f03d';"
+  },
+  "ratchicon-indie": {
+    "prefix": "ratchicon-indie",
+    "body": "content: '\\\\f05d';"
+  },
+  "ratchicon-box-rect": {
+    "prefix": "ratchicon-box-rect",
+    "body": "content: '\\\\f322';"
+  },
+  "ratchicon-graph": {
+    "prefix": "ratchicon-graph",
+    "body": "content: '\\\\F535';"
+  },
+  "ratchicon-ofl-share": {
+    "prefix": "ratchicon-ofl-share",
+    "body": "content: '\\\\f085';"
+  },
+  "ratchicon-opensearch-colored": {
+    "prefix": "ratchicon-opensearch-colored",
+    "body": "content: '\\\\f002';"
+  },
+  "ratchicon-edit": {
+    "prefix": "ratchicon-edit",
+    "body": "content: '\\\\e829';"
+  },
+  "ratchicon-trash": {
+    "prefix": "ratchicon-trash",
+    "body": "content: '\\\\e81e';"
+  },
+  "ratchicon-attachment": {
+    "prefix": "ratchicon-attachment",
+    "body": "content: '\\\\f06a';"
+  },
+  "ratchicon-json-ld": {
+    "prefix": "ratchicon-json-ld",
+    "body": "content: '\\\\f048';"
+  },
+  "ratchicon-javascript": {
+    "prefix": "ratchicon-javascript",
+    "body": "content: '\\\\f04e';"
+  },
+  "ratchicon-remote-storage-colored": {
+    "prefix": "ratchicon-remote-storage-colored",
+    "body": "content: '\\\\f026';"
+  },
+  "ratchicon-chart": {
+    "prefix": "ratchicon-chart",
+    "body": "content: '\\\\F526';"
+  },
+  "ratchicon-globe_black": {
+    "prefix": "ratchicon-globe_black",
+    "body": "content: '\\\\f019';"
+  },
+  "ratchicon-node_link_shape": {
+    "prefix": "ratchicon-node_link_shape",
+    "body": "content: '\\\\E00F';"
+  },
+  "ratchicon-federated": {
+    "prefix": "ratchicon-federated",
+    "body": "content: '\\\\f011';"
+  },
+  "ratchicon-fast_backward": {
+    "prefix": "ratchicon-fast_backward",
+    "body": "content: '\\\\f013';"
+  },
+  "ratchicon-heart_broken": {
+    "prefix": "ratchicon-heart_broken",
+    "body": "content: '\\\\f028';"
+  },
+  "ratchicon-gear": {
+    "prefix": "ratchicon-gear",
+    "body": "content: '\\\\e821';"
+  },
+  "ratchicon-cc-zero": {
+    "prefix": "ratchicon-cc-zero",
+    "body": "content: '\\\\f088';"
+  },
+  "ratchicon-minus": {
+    "prefix": "ratchicon-minus",
+    "body": "content: '\\\\2212';"
+  },
+  "ratchicon-left-nav": {
+    "prefix": "ratchicon-left-nav",
+    "body": "content: '\\\\e82d';"
+  },
+  "ratchicon-paperplane_ico": {
+    "prefix": "ratchicon-paperplane_ico",
+    "body": "content: '\\\\f01d';"
+  },
+  "ratchicon-arrow_up": {
+    "prefix": "ratchicon-arrow_up",
+    "body": "content: '\\\\2191';"
+  },
+  "ratchicon-display_screen": {
+    "prefix": "ratchicon-display_screen",
+    "body": "content: '\\\\f032';"
+  },
+  "ratchicon-male_sign": {
+    "prefix": "ratchicon-male_sign",
+    "body": "content: '\\\\2642';"
+  },
+  "ratchicon-home": {
+    "prefix": "ratchicon-home",
+    "body": "content: '\\\\2302';"
+  },
+  "ratchicon-warning_alt": {
+    "prefix": "ratchicon-warning_alt",
+    "body": "content: '\\\\2755';"
+  },
+  "ratchicon-cccs": {
+    "prefix": "ratchicon-cccs",
+    "body": "content: '\\\\f056';"
+  },
+  "ratchicon-info": {
+    "prefix": "ratchicon-info",
+    "body": "content: '\\\\e82c';"
+  },
+  "ratchicon-cc-nc-jp": {
+    "prefix": "ratchicon-cc-nc-jp",
+    "body": "content: '\\\\f084';"
+  },
+  "ratchicon-information_black": {
+    "prefix": "ratchicon-information_black",
+    "body": "content: '\\\\f085';"
+  },
+  "ratchicon-lock": {
+    "prefix": "ratchicon-lock",
+    "body": "content: '\\\\F512';"
+  },
+  "ratchicon-webmention": {
+    "prefix": "ratchicon-webmention",
+    "body": "content: '\\\\f04d';"
+  },
+  "ratchicon-retweet": {
+    "prefix": "ratchicon-retweet",
+    "body": "content: '\\\\f02b';"
+  },
+  "ratchicon-dribbble_circle": {
+    "prefix": "ratchicon-dribbble_circle",
+    "body": "content: '\\\\f04f';"
+  },
+  "ratchicon-cc-remix": {
+    "prefix": "ratchicon-cc-remix",
+    "body": "content: '\\\\f08a';"
+  },
+  "ratchicon-googleplus-rect": {
+    "prefix": "ratchicon-googleplus-rect",
+    "body": "content: '\\\\f309';"
+  },
+  "ratchicon-file_close": {
+    "prefix": "ratchicon-file_close",
+    "body": "content: '\\\\f067';"
+  },
+  "ratchicon-mozilla": {
+    "prefix": "ratchicon-mozilla",
+    "body": "content: '\\\\f05a';"
+  },
+  "ratchicon-ofl-selling": {
+    "prefix": "ratchicon-ofl-selling",
+    "body": "content: '\\\\f04b';"
+  },
+  "ratchicon-geo-colored": {
+    "prefix": "ratchicon-geo-colored",
+    "body": "content: '\\\\f00b';"
+  },
+  "ratchicon-hatom": {
+    "prefix": "ratchicon-hatom",
+    "body": "content: '\\\\f040';"
+  },
+  "ratchicon-google_plus": {
+    "prefix": "ratchicon-google_plus",
+    "body": "content: '\\\\f05a';"
+  },
+  "ratchicon-download": {
+    "prefix": "ratchicon-download",
+    "body": "content: '\\\\e815';"
+  },
+  "ratchicon-cloud_upload": {
+    "prefix": "ratchicon-cloud_upload",
+    "body": "content: '\\\\f014';"
+  },
+  "ratchicon-sub-colored": {
+    "prefix": "ratchicon-sub-colored",
+    "body": "content: '\\\\f046';"
+  },
+  "ratchicon-open-share-simple": {
+    "prefix": "ratchicon-open-share-simple",
+    "body": "content: '\\\\f00f';"
+  },
+  "ratchicon-linked_in_circle": {
+    "prefix": "ratchicon-linked_in_circle",
+    "body": "content: '\\\\f05b';"
+  },
+  "ratchicon-xmpp": {
+    "prefix": "ratchicon-xmpp",
+    "body": "content: '\\\\f015';"
+  },
+  "ratchicon-chart_alt": {
+    "prefix": "ratchicon-chart_alt",
+    "body": "content: '\\\\F530';"
+  },
+  "ratchicon-brush": {
+    "prefix": "ratchicon-brush",
+    "body": "content: '\\\\E000';"
+  },
+  "ratchicon-opml": {
+    "prefix": "ratchicon-opml",
+    "body": "content: '\\\\f003';"
+  },
+  "ratchicon-barcamp": {
+    "prefix": "ratchicon-barcamp",
+    "body": "content: '\\\\f057';"
+  },
+  "ratchicon-caret": {
+    "prefix": "ratchicon-caret",
+    "body": "content: '\\\\e80f';"
+  },
+  "ratchicon-fast_forward": {
+    "prefix": "ratchicon-fast_forward",
+    "body": "content: '\\\\f012';"
+  },
+  "ratchicon-cc-sa": {
+    "prefix": "ratchicon-cc-sa",
+    "body": "content: '\\\\f085';"
+  },
+  "ratchicon-sheet": {
+    "prefix": "ratchicon-sheet",
+    "body": "content: '\\\\f04a';"
+  },
+  "ratchicon-git": {
+    "prefix": "ratchicon-git",
+    "body": "content: '\\\\f055';"
+  },
+  "ratchicon-down-nav": {
+    "prefix": "ratchicon-down-nav",
+    "body": "content: '\\\\e814';"
+  },
+  "ratchicon-google_plus_circle": {
+    "prefix": "ratchicon-google_plus_circle",
+    "body": "content: '\\\\f059';"
+  },
+  "ratchicon-soundcloud_circle": {
+    "prefix": "ratchicon-soundcloud_circle",
+    "body": "content: '\\\\f08A';"
+  },
+  "ratchicon-close": {
+    "prefix": "ratchicon-close",
+    "body": "content: '\\\\e811';"
+  },
+  "ratchicon-arrow_doubled_up": {
+    "prefix": "ratchicon-arrow_doubled_up",
+    "body": "content: '\\\\21D1';"
+  },
+  "ratchicon-ghost": {
+    "prefix": "ratchicon-ghost",
+    "body": "content: '\\\\f05e';"
+  },
+  "ratchicon-pen": {
+    "prefix": "ratchicon-pen",
+    "body": "content: '\\\\270F';"
+  },
+  "ratchicon-facebook-rect": {
+    "prefix": "ratchicon-facebook-rect",
+    "body": "content: '\\\\f301';"
+  },
+  "ratchicon-feed-colored": {
+    "prefix": "ratchicon-feed-colored",
+    "body": "content: '\\\\f009';"
+  },
+  "ratchicon-more_node_links": {
+    "prefix": "ratchicon-more_node_links",
+    "body": "content: '\\\\E018';"
+  },
+  "ratchicon-soundcloud": {
+    "prefix": "ratchicon-soundcloud",
+    "body": "content: '\\\\f089';"
+  },
+  "ratchicon-chevron_left": {
+    "prefix": "ratchicon-chevron_left",
+    "body": "content: '\\\\f007';"
+  },
+  "ratchicon-plus": {
+    "prefix": "ratchicon-plus",
+    "body": "content: '\\\\002B';"
+  },
+  "ratchicon-paperplane_black": {
+    "prefix": "ratchicon-paperplane_black",
+    "body": "content: '\\\\f01f';"
+  },
+  "ratchicon-heart": {
+    "prefix": "ratchicon-heart",
+    "body": "content: '\\\\2665';"
+  },
+  "ratchicon-mastercard": {
+    "prefix": "ratchicon-mastercard",
+    "body": "content: '\\\\f329';"
+  },
+  "ratchicon-semantic-web": {
+    "prefix": "ratchicon-semantic-web",
+    "body": "content: '\\\\f000';"
+  },
+  "ratchicon-info-card-colored": {
+    "prefix": "ratchicon-info-card-colored",
+    "body": "content: '\\\\f024';"
+  },
+  "ratchicon-indiehosters": {
+    "prefix": "ratchicon-indiehosters",
+    "body": "content: '\\\\f058';"
+  },
+  "ratchicon-down": {
+    "prefix": "ratchicon-down",
+    "body": "content: '\\\\e820';"
+  },
+  "ratchicon-svg": {
+    "prefix": "ratchicon-svg",
+    "body": "content: '\\\\f049';"
+  },
+  "ratchicon-node_color": {
+    "prefix": "ratchicon-node_color",
+    "body": "content: '\\\\E009';"
+  },
+  "ratchicon-gnu": {
+    "prefix": "ratchicon-gnu",
+    "body": "content: '\\\\f052';"
+  },
+  "ratchicon-link_loop_nodes": {
+    "prefix": "ratchicon-link_loop_nodes",
+    "body": "content: '\\\\E007';"
+  },
+  "ratchicon-hresume": {
+    "prefix": "ratchicon-hresume",
+    "body": "content: '\\\\f042';"
+  },
+  "ratchicon-stopwatch": {
+    "prefix": "ratchicon-stopwatch",
+    "body": "content: '\\\\23F1';"
+  },
+  "ratchicon-user_female": {
+    "prefix": "ratchicon-user_female",
+    "body": "content: '\\\\f063';"
+  },
+  "ratchicon-open-share-colored": {
+    "prefix": "ratchicon-open-share-colored",
+    "body": "content: '\\\\f00e';"
+  },
+  "ratchicon-blogger-rect": {
+    "prefix": "ratchicon-blogger-rect",
+    "body": "content: '\\\\f315';"
+  },
+  "ratchicon-signin": {
+    "prefix": "ratchicon-signin",
+    "body": "content: '\\\\f02c';"
+  },
+  "ratchicon-tumblr-rect": {
+    "prefix": "ratchicon-tumblr-rect",
+    "body": "content: '\\\\f310';"
+  },
+  "ratchicon-osi": {
+    "prefix": "ratchicon-osi",
+    "body": "content: '\\\\f038';"
+  },
+  "ratchicon-jabber": {
+    "prefix": "ratchicon-jabber",
+    "body": "content: '\\\\f317';"
+  },
+  "ratchicon-up": {
+    "prefix": "ratchicon-up",
+    "body": "content: '\\\\e80d';"
+  },
+  "ratchicon-activity": {
+    "prefix": "ratchicon-activity",
+    "body": "content: '\\\\f010';"
+  },
+  "ratchicon-connectivity": {
+    "prefix": "ratchicon-connectivity",
+    "body": "content: '\\\\f018';"
+  },
+  "ratchicon-perfintegration": {
+    "prefix": "ratchicon-perfintegration",
+    "body": "content: '\\\\f034';"
+  },
+  "ratchicon-fire": {
+    "prefix": "ratchicon-fire",
+    "body": "content: '\\\\F525';"
+  },
+  "ratchicon-html5": {
+    "prefix": "ratchicon-html5",
+    "body": "content: '\\\\f016';"
+  },
+  "ratchicon-spinner_2": {
+    "prefix": "ratchicon-spinner_2",
+    "body": "content: '\\\\F529';"
+  },
+  "ratchicon-spinner_1": {
+    "prefix": "ratchicon-spinner_1",
+    "body": "content: '\\\\F528';"
+  },
+  "ratchicon-skype": {
+    "prefix": "ratchicon-skype",
+    "body": "content: '\\\\f30b';"
+  },
+  "ratchicon-opensource": {
+    "prefix": "ratchicon-opensource",
+    "body": "content: '\\\\f038';"
+  },
+  "ratchicon-node_link_short_path": {
+    "prefix": "ratchicon-node_link_short_path",
+    "body": "content: '\\\\E014';"
+  },
+  "ratchicon-vector_pen": {
+    "prefix": "ratchicon-vector_pen",
+    "body": "content: '\\\\2712';"
+  },
+  "ratchicon-measure": {
+    "prefix": "ratchicon-measure",
+    "body": "content: '\\\\f044';"
+  },
+  "ratchicon-foaf": {
+    "prefix": "ratchicon-foaf",
+    "body": "content: '\\\\f023';"
+  },
+  "ratchicon-trophy": {
+    "prefix": "ratchicon-trophy",
+    "body": "content: '\\\\f074';"
+  },
+  "ratchicon-hcard-download": {
+    "prefix": "ratchicon-hcard-download",
+    "body": "content: '\\\\f044';"
+  },
+  "ratchicon-magnifying_minus": {
+    "prefix": "ratchicon-magnifying_minus",
+    "body": "content: '\\\\f07F';"
+  },
+  "ratchicon-warning": {
+    "prefix": "ratchicon-warning",
+    "body": "content: '\\\\2757';"
+  },
+  "ratchicon-picasa": {
+    "prefix": "ratchicon-picasa",
+    "body": "content: '\\\\f31c';"
+  },
+  "ratchicon-apml-colored": {
+    "prefix": "ratchicon-apml-colored",
+    "body": "content: '\\\\f001';"
+  },
+  "ratchicon-share-colored": {
+    "prefix": "ratchicon-share-colored",
+    "body": "content: '\\\\f006';"
+  },
+  "ratchicon-opensourcedesign": {
+    "prefix": "ratchicon-opensourcedesign",
+    "body": "content: '\\\\f060';"
+  },
+  "ratchicon-ostatus-simple": {
+    "prefix": "ratchicon-ostatus-simple",
+    "body": "content: '\\\\f005';"
+  },
+  "ratchicon-odata-colored": {
+    "prefix": "ratchicon-odata-colored",
+    "body": "content: '\\\\f028';"
+  },
+  "ratchicon-layout_hierarchical": {
+    "prefix": "ratchicon-layout_hierarchical",
+    "body": "content: '\\\\E012';"
+  },
+  "ratchicon-openid": {
+    "prefix": "ratchicon-openid",
+    "body": "content: '\\\\f00d';"
+  },
+  "ratchicon-rdfa": {
+    "prefix": "ratchicon-rdfa",
+    "body": "content: '\\\\f039';"
+  },
+  "ratchicon-arrow_doubled_left": {
+    "prefix": "ratchicon-arrow_doubled_left",
+    "body": "content: '\\\\21D0';"
+  },
+  "ratchicon-epub": {
+    "prefix": "ratchicon-epub",
+    "body": "content: '\\\\f021';"
+  },
+  "ratchicon-color_balance": {
+    "prefix": "ratchicon-color_balance",
+    "body": "content: '\\\\f020';"
+  },
+  "ratchicon-gnusocial-simple": {
+    "prefix": "ratchicon-gnusocial-simple",
+    "body": "content: '\\\\f063';"
+  },
+  "ratchicon-ringbell": {
+    "prefix": "ratchicon-ringbell",
+    "body": "content: '\\\\f03f';"
+  },
+  "ratchicon-file_close_alt": {
+    "prefix": "ratchicon-file_close_alt",
+    "body": "content: '\\\\f069';"
+  },
+  "ratchicon-refresh": {
+    "prefix": "ratchicon-refresh",
+    "body": "content: '\\\\E001';"
+  },
+  "ratchicon-left": {
+    "prefix": "ratchicon-left",
+    "body": "content: '\\\\e822';"
+  },
+  "ratchicon-bandcamp": {
+    "prefix": "ratchicon-bandcamp",
+    "body": "content: '\\\\f32b';"
+  },
+  "ratchicon-cloud_download": {
+    "prefix": "ratchicon-cloud_download",
+    "body": "content: '\\\\f015';"
+  },
+  "ratchicon-black_question": {
+    "prefix": "ratchicon-black_question",
+    "body": "content: '\\\\2753';"
+  },
+  "ratchicon-white_question": {
+    "prefix": "ratchicon-white_question",
+    "body": "content: '\\\\2754';"
+  },
+  "ratchicon-arrow_right": {
+    "prefix": "ratchicon-arrow_right",
+    "body": "content: '\\\\2192';"
+  },
+  "ratchicon-codepen": {
+    "prefix": "ratchicon-codepen",
+    "body": "content: '\\\\f32c';"
+  },
+  "ratchicon-friendfeed": {
+    "prefix": "ratchicon-friendfeed",
+    "body": "content: '\\\\f312';"
+  },
+  "ratchicon-node_link_weight": {
+    "prefix": "ratchicon-node_link_weight",
+    "body": "content: '\\\\E017';"
+  },
+  "ratchicon-tudou": {
+    "prefix": "ratchicon-tudou",
+    "body": "content: '\\\\f323';"
+  },
+  "ratchicon-rdf": {
+    "prefix": "ratchicon-rdf",
+    "body": "content: '\\\\f039';"
+  },
+  "ratchicon-pages": {
+    "prefix": "ratchicon-pages",
+    "body": "content: '\\\\e824';"
+  },
+  "ratchicon-odata": {
+    "prefix": "ratchicon-odata",
+    "body": "content: '\\\\f028';"
+  },
+  "ratchicon-user": {
+    "prefix": "ratchicon-user",
+    "body": "content: '\\\\f061';"
+  },
+  "ratchicon-link": {
+    "prefix": "ratchicon-link",
+    "body": "content: '\\\\f07B';"
+  },
+  "ratchicon-hourglass": {
+    "prefix": "ratchicon-hourglass",
+    "body": "content: '\\\\231B';"
+  },
+  "ratchicon-opml-colored": {
+    "prefix": "ratchicon-opml-colored",
+    "body": "content: '\\\\f003';"
+  },
+  "ratchicon-node_link_text": {
+    "prefix": "ratchicon-node_link_text",
+    "body": "content: '\\\\E00D';"
+  },
+  "ratchicon-instagram_circle": {
+    "prefix": "ratchicon-instagram_circle",
+    "body": "content: '\\\\f05e';"
+  },
+  "ratchicon-activity-simple": {
+    "prefix": "ratchicon-activity-simple",
+    "body": "content: '\\\\f041';"
+  },
+  "ratchicon-new_user": {
+    "prefix": "ratchicon-new_user",
+    "body": "content: '\\\\F536';"
+  },
+  "ratchicon-ofl-renaming": {
+    "prefix": "ratchicon-ofl-renaming",
+    "body": "content: '\\\\f04a';"
+  },
+  "ratchicon-mfg_icon_circle": {
+    "prefix": "ratchicon-mfg_icon_circle",
+    "body": "content: '\\\\f060';"
+  },
+  "ratchicon-display_graph": {
+    "prefix": "ratchicon-display_graph",
+    "body": "content: '\\\\E016';"
+  },
+  "ratchicon-random": {
+    "prefix": "ratchicon-random",
+    "body": "content: '\\\\f03b';"
+  },
+  "ratchicon-arrow_big_up": {
+    "prefix": "ratchicon-arrow_big_up",
+    "body": "content: '\\\\21C8';"
+  },
+  "ratchicon-gnusocial": {
+    "prefix": "ratchicon-gnusocial",
+    "body": "content: '\\\\f062';"
+  },
+  "ratchicon-xing_circle": {
+    "prefix": "ratchicon-xing_circle",
+    "body": "content: '\\\\F533';"
+  },
+  "ratchicon-node_link_direction": {
+    "prefix": "ratchicon-node_link_direction",
+    "body": "content: '\\\\E013';"
+  },
+  "ratchicon-persona": {
+    "prefix": "ratchicon-persona",
+    "body": "content: '\\\\f027';"
+  },
+  "ratchicon-signout": {
+    "prefix": "ratchicon-signout",
+    "body": "content: '\\\\f02d';"
+  },
+  "ratchicon-tent": {
+    "prefix": "ratchicon-tent",
+    "body": "content: '\\\\f050';"
+  },
+  "ratchicon-offline-storage": {
+    "prefix": "ratchicon-offline-storage",
+    "body": "content: '\\\\f033';"
+  },
+  "ratchicon-hashtag": {
+    "prefix": "ratchicon-hashtag",
+    "body": "content: '\\\\f029';"
+  },
+  "ratchicon-apml": {
+    "prefix": "ratchicon-apml",
+    "body": "content: '\\\\f001';"
+  },
+  "ratchicon-unlock": {
+    "prefix": "ratchicon-unlock",
+    "body": "content: '\\\\F513';"
+  },
+  "ratchicon-cross_mark": {
+    "prefix": "ratchicon-cross_mark",
+    "body": "content: '\\\\274C';"
+  },
+  "ratchicon-arrow_doubled_down": {
+    "prefix": "ratchicon-arrow_doubled_down",
+    "body": "content: '\\\\21D3';"
+  },
+  "ratchicon-markdown": {
+    "prefix": "ratchicon-markdown",
+    "body": "content: '\\\\f029';"
+  }
+}

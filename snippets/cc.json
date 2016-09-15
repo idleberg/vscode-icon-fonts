@@ -1,0 +1,54 @@
+{
+  "cc-pd": {
+    "prefix": "cc-pd",
+    "body": "<${1:i} class=\"cc cc-pd$2\"></${1:i}>$3"
+  },
+  "cc-remix": {
+    "prefix": "cc-remix",
+    "body": "<${1:i} class=\"cc cc-remix$2\"></${1:i}>$3"
+  },
+  "cc-share": {
+    "prefix": "cc-share",
+    "body": "<${1:i} class=\"cc cc-share$2\"></${1:i}>$3"
+  },
+  "cc-nc-jp": {
+    "prefix": "cc-nc-jp",
+    "body": "<${1:i} class=\"cc cc-nc-jp$2\"></${1:i}>$3"
+  },
+  "cc-cc": {
+    "prefix": "cc-cc",
+    "body": "<${1:i} class=\"cc cc-cc$2\"></${1:i}>$3"
+  },
+  "cc-nc-eu": {
+    "prefix": "cc-nc-eu",
+    "body": "<${1:i} class=\"cc cc-nc-eu$2\"></${1:i}>$3"
+  },
+  "cc-zero": {
+    "prefix": "cc-zero",
+    "body": "<${1:i} class=\"cc cc-zero$2\"></${1:i}>$3"
+  },
+  "cc-sampling": {
+    "prefix": "cc-sampling",
+    "body": "<${1:i} class=\"cc cc-sampling$2\"></${1:i}>$3"
+  },
+  "cc-by": {
+    "prefix": "cc-by",
+    "body": "<${1:i} class=\"cc cc-by$2\"></${1:i}>$3"
+  },
+  "cc-sa": {
+    "prefix": "cc-sa",
+    "body": "<${1:i} class=\"cc cc-sa$2\"></${1:i}>$3"
+  },
+  "cc-nc": {
+    "prefix": "cc-nc",
+    "body": "<${1:i} class=\"cc cc-nc$2\"></${1:i}>$3"
+  },
+  "cc-pd-alt": {
+    "prefix": "cc-pd-alt",
+    "body": "<${1:i} class=\"cc cc-pd-alt$2\"></${1:i}>$3"
+  },
+  "cc-nd": {
+    "prefix": "cc-nd",
+    "body": "<${1:i} class=\"cc cc-nd$2\"></${1:i}>$3"
+  }
+}

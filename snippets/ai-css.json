@@ -1,0 +1,998 @@
+{
+  "ai-achievement": {
+    "prefix": "ai-achievement",
+    "body": "content: '\\\\e824';"
+  },
+  "ai-alarm": {
+    "prefix": "ai-alarm",
+    "body": "content: '\\\\e8c0';"
+  },
+  "ai-amazon": {
+    "prefix": "ai-amazon",
+    "body": "content: '\\\\e8d2';"
+  },
+  "ai-anchor": {
+    "prefix": "ai-anchor",
+    "body": "content: '\\\\e820';"
+  },
+  "ai-android": {
+    "prefix": "ai-android",
+    "body": "content: '\\\\e818';"
+  },
+  "ai-armchair": {
+    "prefix": "ai-armchair",
+    "body": "content: '\\\\e861';"
+  },
+  "ai-arrow-down": {
+    "prefix": "ai-arrow-down",
+    "body": "content: '\\\\e829';"
+  },
+  "ai-arrow-left": {
+    "prefix": "ai-arrow-left",
+    "body": "content: '\\\\e826';"
+  },
+  "ai-arrow-left-down": {
+    "prefix": "ai-arrow-left-down",
+    "body": "content: '\\\\e82c';"
+  },
+  "ai-arrow-left-up": {
+    "prefix": "ai-arrow-left-up",
+    "body": "content: '\\\\e82b';"
+  },
+  "ai-arrow-right": {
+    "prefix": "ai-arrow-right",
+    "body": "content: '\\\\e825';"
+  },
+  "ai-arrow-right-down": {
+    "prefix": "ai-arrow-right-down",
+    "body": "content: '\\\\e82d';"
+  },
+  "ai-arrow-right-up": {
+    "prefix": "ai-arrow-right-up",
+    "body": "content: '\\\\e82a';"
+  },
+  "ai-arrow-up": {
+    "prefix": "ai-arrow-up",
+    "body": "content: '\\\\e828';"
+  },
+  "ai-attachment": {
+    "prefix": "ai-attachment",
+    "body": "content: '\\\\e845';"
+  },
+  "ai-attachment-2": {
+    "prefix": "ai-attachment-2",
+    "body": "content: '\\\\e846';"
+  },
+  "ai-ball": {
+    "prefix": "ai-ball",
+    "body": "content: '\\\\e835';"
+  },
+  "ai-balloon": {
+    "prefix": "ai-balloon",
+    "body": "content: '\\\\e8bc';"
+  },
+  "ai-barcode": {
+    "prefix": "ai-barcode",
+    "body": "content: '\\\\e8f0';"
+  },
+  "ai-bargraph": {
+    "prefix": "ai-bargraph",
+    "body": "content: '\\\\e867';"
+  },
+  "ai-bars": {
+    "prefix": "ai-bars",
+    "body": "content: '\\\\e8a0';"
+  },
+  "ai-basket": {
+    "prefix": "ai-basket",
+    "body": "content: '\\\\e894';"
+  },
+  "ai-bell": {
+    "prefix": "ai-bell",
+    "body": "content: '\\\\e8ee';"
+  },
+  "ai-bike": {
+    "prefix": "ai-bike",
+    "body": "content: '\\\\e8ab';"
+  },
+  "ai-blob": {
+    "prefix": "ai-blob",
+    "body": "content: '\\\\e876';"
+  },
+  "ai-bluetooth": {
+    "prefix": "ai-bluetooth",
+    "body": "content: '\\\\e896';"
+  },
+  "ai-book": {
+    "prefix": "ai-book",
+    "body": "content: '\\\\e89b';"
+  },
+  "ai-bookmark": {
+    "prefix": "ai-bookmark",
+    "body": "content: '\\\\e830';"
+  },
+  "ai-box": {
+    "prefix": "ai-box",
+    "body": "content: '\\\\e8a7';"
+  },
+  "ai-brush": {
+    "prefix": "ai-brush",
+    "body": "content: '\\\\e864';"
+  },
+  "ai-bug": {
+    "prefix": "ai-bug",
+    "body": "content: '\\\\e865';"
+  },
+  "ai-bulb": {
+    "prefix": "ai-bulb",
+    "body": "content: '\\\\e858';"
+  },
+  "ai-bus": {
+    "prefix": "ai-bus",
+    "body": "content: '\\\\e8ac';"
+  },
+  "ai-business": {
+    "prefix": "ai-business",
+    "body": "content: '\\\\e80d';"
+  },
+  "ai-calculator": {
+    "prefix": "ai-calculator",
+    "body": "content: '\\\\e85b';"
+  },
+  "ai-calendar": {
+    "prefix": "ai-calendar",
+    "body": "content: '\\\\e8eb';"
+  },
+  "ai-camera": {
+    "prefix": "ai-camera",
+    "body": "content: '\\\\e81e';"
+  },
+  "ai-cancel": {
+    "prefix": "ai-cancel",
+    "body": "content: '\\\\e82f';"
+  },
+  "ai-car": {
+    "prefix": "ai-car",
+    "body": "content: '\\\\e8ae';"
+  },
+  "ai-cart": {
+    "prefix": "ai-cart",
+    "body": "content: '\\\\e8a6';"
+  },
+  "ai-clock": {
+    "prefix": "ai-clock",
+    "body": "content: '\\\\e806';"
+  },
+  "ai-cloud": {
+    "prefix": "ai-cloud",
+    "body": "content: '\\\\e8f7';"
+  },
+  "ai-cloudy": {
+    "prefix": "ai-cloudy",
+    "body": "content: '\\\\e800';"
+  },
+  "ai-coffee": {
+    "prefix": "ai-coffee",
+    "body": "content: '\\\\e890';"
+  },
+  "ai-coffee2go": {
+    "prefix": "ai-coffee2go",
+    "body": "content: '\\\\e891';"
+  },
+  "ai-collapse": {
+    "prefix": "ai-collapse",
+    "body": "content: '\\\\e81a';"
+  },
+  "ai-compass": {
+    "prefix": "ai-compass",
+    "body": "content: '\\\\e8aa';"
+  },
+  "ai-contrast": {
+    "prefix": "ai-contrast",
+    "body": "content: '\\\\e821';"
+  },
+  "ai-copy": {
+    "prefix": "ai-copy",
+    "body": "content: '\\\\e86c';"
+  },
+  "ai-creditcard": {
+    "prefix": "ai-creditcard",
+    "body": "content: '\\\\e866';"
+  },
+  "ai-crop": {
+    "prefix": "ai-crop",
+    "body": "content: '\\\\e84a';"
+  },
+  "ai-cut": {
+    "prefix": "ai-cut",
+    "body": "content: '\\\\e86d';"
+  },
+  "ai-database": {
+    "prefix": "ai-database",
+    "body": "content: '\\\\e842';"
+  },
+  "ai-dialer": {
+    "prefix": "ai-dialer",
+    "body": "content: '\\\\e8e5';"
+  },
+  "ai-dialog": {
+    "prefix": "ai-dialog",
+    "body": "content: '\\\\e8f3';"
+  },
+  "ai-dice1": {
+    "prefix": "ai-dice1",
+    "body": "content: '\\\\e8af';"
+  },
+  "ai-dice2": {
+    "prefix": "ai-dice2",
+    "body": "content: '\\\\e8b0';"
+  },
+  "ai-dice3": {
+    "prefix": "ai-dice3",
+    "body": "content: '\\\\e8b1';"
+  },
+  "ai-dice4": {
+    "prefix": "ai-dice4",
+    "body": "content: '\\\\e8b2';"
+  },
+  "ai-dice5": {
+    "prefix": "ai-dice5",
+    "body": "content: '\\\\e8b3';"
+  },
+  "ai-dice6": {
+    "prefix": "ai-dice6",
+    "body": "content: '\\\\e8b4';"
+  },
+  "ai-document": {
+    "prefix": "ai-document",
+    "body": "content: '\\\\e855';"
+  },
+  "ai-dontlike": {
+    "prefix": "ai-dontlike",
+    "body": "content: '\\\\e88c';"
+  },
+  "ai-download": {
+    "prefix": "ai-download",
+    "body": "content: '\\\\e849';"
+  },
+  "ai-drag": {
+    "prefix": "ai-drag",
+    "body": "content: '\\\\e8a5';"
+  },
+  "ai-drop": {
+    "prefix": "ai-drop",
+    "body": "content: '\\\\e84d';"
+  },
+  "ai-dropbox": {
+    "prefix": "ai-dropbox",
+    "body": "content: '\\\\e8d4';"
+  },
+  "ai-edit": {
+    "prefix": "ai-edit",
+    "body": "content: '\\\\e8c4';"
+  },
+  "ai-emo-angry": {
+    "prefix": "ai-emo-angry",
+    "body": "content: '\\\\e8cb';"
+  },
+  "ai-emo-basic": {
+    "prefix": "ai-emo-basic",
+    "body": "content: '\\\\e8c6';"
+  },
+  "ai-emo-cool": {
+    "prefix": "ai-emo-cool",
+    "body": "content: '\\\\e8c7';"
+  },
+  "ai-emo-cry": {
+    "prefix": "ai-emo-cry",
+    "body": "content: '\\\\e8cf';"
+  },
+  "ai-emo-err": {
+    "prefix": "ai-emo-err",
+    "body": "content: '\\\\e8cd';"
+  },
+  "ai-emo-evil": {
+    "prefix": "ai-emo-evil",
+    "body": "content: '\\\\e8d1';"
+  },
+  "ai-emo-kiss": {
+    "prefix": "ai-emo-kiss",
+    "body": "content: '\\\\e8ce';"
+  },
+  "ai-emo-laugh": {
+    "prefix": "ai-emo-laugh",
+    "body": "content: '\\\\e8ca';"
+  },
+  "ai-emo-shame": {
+    "prefix": "ai-emo-shame",
+    "body": "content: '\\\\e8c9';"
+  },
+  "ai-emo-tongue": {
+    "prefix": "ai-emo-tongue",
+    "body": "content: '\\\\e8cc';"
+  },
+  "ai-emo-wink": {
+    "prefix": "ai-emo-wink",
+    "body": "content: '\\\\e8d0';"
+  },
+  "ai-emo-wonder": {
+    "prefix": "ai-emo-wonder",
+    "body": "content: '\\\\e8c8';"
+  },
+  "ai-exit": {
+    "prefix": "ai-exit",
+    "body": "content: '\\\\e862';"
+  },
+  "ai-expand": {
+    "prefix": "ai-expand",
+    "body": "content: '\\\\e819';"
+  },
+  "ai-export": {
+    "prefix": "ai-export",
+    "body": "content: '\\\\e87c';"
+  },
+  "ai-eye-closed": {
+    "prefix": "ai-eye-closed",
+    "body": "content: '\\\\e8c1';"
+  },
+  "ai-eye-open": {
+    "prefix": "ai-eye-open",
+    "body": "content: '\\\\e8a3';"
+  },
+  "ai-facebook": {
+    "prefix": "ai-facebook",
+    "body": "content: '\\\\e8d5';"
+  },
+  "ai-filter": {
+    "prefix": "ai-filter",
+    "body": "content: '\\\\e86f';"
+  },
+  "ai-flag": {
+    "prefix": "ai-flag",
+    "body": "content: '\\\\e802';"
+  },
+  "ai-flags": {
+    "prefix": "ai-flags",
+    "body": "content: '\\\\e88f';"
+  },
+  "ai-flash": {
+    "prefix": "ai-flash",
+    "body": "content: '\\\\e817';"
+  },
+  "ai-folder-closed": {
+    "prefix": "ai-folder-closed",
+    "body": "content: '\\\\e80f';"
+  },
+  "ai-folder-open": {
+    "prefix": "ai-folder-open",
+    "body": "content: '\\\\e80e';"
+  },
+  "ai-folder-tabs": {
+    "prefix": "ai-folder-tabs",
+    "body": "content: '\\\\e810';"
+  },
+  "ai-font-bigger": {
+    "prefix": "ai-font-bigger",
+    "body": "content: '\\\\e8b7';"
+  },
+  "ai-font-bold": {
+    "prefix": "ai-font-bold",
+    "body": "content: '\\\\e8b9';"
+  },
+  "ai-font-faces": {
+    "prefix": "ai-font-faces",
+    "body": "content: '\\\\e8bb';"
+  },
+  "ai-font-italic": {
+    "prefix": "ai-font-italic",
+    "body": "content: '\\\\e8c2';"
+  },
+  "ai-font-smaller": {
+    "prefix": "ai-font-smaller",
+    "body": "content: '\\\\e8b8';"
+  },
+  "ai-font-underline": {
+    "prefix": "ai-font-underline",
+    "body": "content: '\\\\e8ba';"
+  },
+  "ai-foursquare": {
+    "prefix": "ai-foursquare",
+    "body": "content: '\\\\e8de';"
+  },
+  "ai-gcircles": {
+    "prefix": "ai-gcircles",
+    "body": "content: '\\\\e8db';"
+  },
+  "ai-gear": {
+    "prefix": "ai-gear",
+    "body": "content: '\\\\e868';"
+  },
+  "ai-github": {
+    "prefix": "ai-github",
+    "body": "content: '\\\\e8d6';"
+  },
+  "ai-glasses": {
+    "prefix": "ai-glasses",
+    "body": "content: '\\\\e839';"
+  },
+  "ai-globe": {
+    "prefix": "ai-globe",
+    "body": "content: '\\\\e83a';"
+  },
+  "ai-gmail": {
+    "prefix": "ai-gmail",
+    "body": "content: '\\\\e8d7';"
+  },
+  "ai-goleft": {
+    "prefix": "ai-goleft",
+    "body": "content: '\\\\e88a';"
+  },
+  "ai-goright": {
+    "prefix": "ai-goright",
+    "body": "content: '\\\\e889';"
+  },
+  "ai-gplay": {
+    "prefix": "ai-gplay",
+    "body": "content: '\\\\e8d8';"
+  },
+  "ai-gplus": {
+    "prefix": "ai-gplus",
+    "body": "content: '\\\\e8df';"
+  },
+  "ai-grow": {
+    "prefix": "ai-grow",
+    "body": "content: '\\\\e834';"
+  },
+  "ai-guitar": {
+    "prefix": "ai-guitar",
+    "body": "content: '\\\\e892';"
+  },
+  "ai-halt": {
+    "prefix": "ai-halt",
+    "body": "content: '\\\\e874';"
+  },
+  "ai-headphones": {
+    "prefix": "ai-headphones",
+    "body": "content: '\\\\e80a';"
+  },
+  "ai-heart": {
+    "prefix": "ai-heart",
+    "body": "content: '\\\\e8ef';"
+  },
+  "ai-help": {
+    "prefix": "ai-help",
+    "body": "content: '\\\\e84e';"
+  },
+  "ai-home": {
+    "prefix": "ai-home",
+    "body": "content: '\\\\e84b';"
+  },
+  "ai-html5": {
+    "prefix": "ai-html5",
+    "body": "content: '\\\\e8d3';"
+  },
+  "ai-import": {
+    "prefix": "ai-import",
+    "body": "content: '\\\\e87b';"
+  },
+  "ai-inbox": {
+    "prefix": "ai-inbox",
+    "body": "content: '\\\\e84c';"
+  },
+  "ai-info": {
+    "prefix": "ai-info",
+    "body": "content: '\\\\e84f';"
+  },
+  "ai-joypad": {
+    "prefix": "ai-joypad",
+    "body": "content: '\\\\e87a';"
+  },
+  "ai-key": {
+    "prefix": "ai-key",
+    "body": "content: '\\\\e89e';"
+  },
+  "ai-knight": {
+    "prefix": "ai-knight",
+    "body": "content: '\\\\e88e';"
+  },
+  "ai-lab": {
+    "prefix": "ai-lab",
+    "body": "content: '\\\\e831';"
+  },
+  "ai-laptop": {
+    "prefix": "ai-laptop",
+    "body": "content: '\\\\e83e';"
+  },
+  "ai-like": {
+    "prefix": "ai-like",
+    "body": "content: '\\\\e88b';"
+  },
+  "ai-line-chart": {
+    "prefix": "ai-line-chart",
+    "body": "content: '\\\\e85a';"
+  },
+  "ai-link": {
+    "prefix": "ai-link",
+    "body": "content: '\\\\e869';"
+  },
+  "ai-linkedin": {
+    "prefix": "ai-linkedin",
+    "body": "content: '\\\\e8e0';"
+  },
+  "ai-list": {
+    "prefix": "ai-list",
+    "body": "content: '\\\\e8a1';"
+  },
+  "ai-list-2": {
+    "prefix": "ai-list-2",
+    "body": "content: '\\\\e8a2';"
+  },
+  "ai-location": {
+    "prefix": "ai-location",
+    "body": "content: '\\\\e860';"
+  },
+  "ai-location-2": {
+    "prefix": "ai-location-2",
+    "body": "content: '\\\\e8c3';"
+  },
+  "ai-lock-closed": {
+    "prefix": "ai-lock-closed",
+    "body": "content: '\\\\e89c';"
+  },
+  "ai-lock-open": {
+    "prefix": "ai-lock-open",
+    "body": "content: '\\\\e89d';"
+  },
+  "ai-magnet": {
+    "prefix": "ai-magnet",
+    "body": "content: '\\\\e804';"
+  },
+  "ai-mail": {
+    "prefix": "ai-mail",
+    "body": "content: '\\\\e83b';"
+  },
+  "ai-map": {
+    "prefix": "ai-map",
+    "body": "content: '\\\\e85f';"
+  },
+  "ai-mic": {
+    "prefix": "ai-mic",
+    "body": "content: '\\\\e877';"
+  },
+  "ai-micoff": {
+    "prefix": "ai-micoff",
+    "body": "content: '\\\\e878';"
+  },
+  "ai-minus": {
+    "prefix": "ai-minus",
+    "body": "content: '\\\\e81c';"
+  },
+  "ai-mist": {
+    "prefix": "ai-mist",
+    "body": "content: '\\\\e801';"
+  },
+  "ai-monitor": {
+    "prefix": "ai-monitor",
+    "body": "content: '\\\\e83f';"
+  },
+  "ai-monolog": {
+    "prefix": "ai-monolog",
+    "body": "content: '\\\\e8f2';"
+  },
+  "ai-more": {
+    "prefix": "ai-more",
+    "body": "content: '\\\\e888';"
+  },
+  "ai-mouse": {
+    "prefix": "ai-mouse",
+    "body": "content: '\\\\e8a8';"
+  },
+  "ai-movie": {
+    "prefix": "ai-movie",
+    "body": "content: '\\\\e857';"
+  },
+  "ai-music-1": {
+    "prefix": "ai-music-1",
+    "body": "content: '\\\\e808';"
+  },
+  "ai-music-2": {
+    "prefix": "ai-music-2",
+    "body": "content: '\\\\e809';"
+  },
+  "ai-mustache": {
+    "prefix": "ai-mustache",
+    "body": "content: '\\\\e8b6';"
+  },
+  "ai-navigate": {
+    "prefix": "ai-navigate",
+    "body": "content: '\\\\e8ea';"
+  },
+  "ai-news": {
+    "prefix": "ai-news",
+    "body": "content: '\\\\e859';"
+  },
+  "ai-overflow": {
+    "prefix": "ai-overflow",
+    "body": "content: '\\\\e8ec';"
+  },
+  "ai-paste": {
+    "prefix": "ai-paste",
+    "body": "content: '\\\\e86e';"
+  },
+  "ai-paypal": {
+    "prefix": "ai-paypal",
+    "body": "content: '\\\\e8e1';"
+  },
+  "ai-phone": {
+    "prefix": "ai-phone",
+    "body": "content: '\\\\e83d';"
+  },
+  "ai-phone-end": {
+    "prefix": "ai-phone-end",
+    "body": "content: '\\\\e811';"
+  },
+  "ai-phone-incoming": {
+    "prefix": "ai-phone-incoming",
+    "body": "content: '\\\\e813';"
+  },
+  "ai-phone-missed": {
+    "prefix": "ai-phone-missed",
+    "body": "content: '\\\\e815';"
+  },
+  "ai-phone-outgoing": {
+    "prefix": "ai-phone-outgoing",
+    "body": "content: '\\\\e814';"
+  },
+  "ai-phone-start": {
+    "prefix": "ai-phone-start",
+    "body": "content: '\\\\e812';"
+  },
+  "ai-picker": {
+    "prefix": "ai-picker",
+    "body": "content: '\\\\e863';"
+  },
+  "ai-picture": {
+    "prefix": "ai-picture",
+    "body": "content: '\\\\e856';"
+  },
+  "ai-pie-chart": {
+    "prefix": "ai-pie-chart",
+    "body": "content: '\\\\e805';"
+  },
+  "ai-pill": {
+    "prefix": "ai-pill",
+    "body": "content: '\\\\e8b5';"
+  },
+  "ai-pin": {
+    "prefix": "ai-pin",
+    "body": "content: '\\\\e838';"
+  },
+  "ai-pinterest": {
+    "prefix": "ai-pinterest",
+    "body": "content: '\\\\e8d9';"
+  },
+  "ai-plane": {
+    "prefix": "ai-plane",
+    "body": "content: '\\\\e816';"
+  },
+  "ai-planet": {
+    "prefix": "ai-planet",
+    "body": "content: '\\\\e88d';"
+  },
+  "ai-playback-forw": {
+    "prefix": "ai-playback-forw",
+    "body": "content: '\\\\e883';"
+  },
+  "ai-playback-next": {
+    "prefix": "ai-playback-next",
+    "body": "content: '\\\\e884';"
+  },
+  "ai-playback-pause": {
+    "prefix": "ai-playback-pause",
+    "body": "content: '\\\\e87f';"
+  },
+  "ai-playback-play": {
+    "prefix": "ai-playback-play",
+    "body": "content: '\\\\e87e';"
+  },
+  "ai-playback-prev": {
+    "prefix": "ai-playback-prev",
+    "body": "content: '\\\\e882';"
+  },
+  "ai-playback-repeat": {
+    "prefix": "ai-playback-repeat",
+    "body": "content: '\\\\e886';"
+  },
+  "ai-playback-repeat-1": {
+    "prefix": "ai-playback-repeat-1",
+    "body": "content: '\\\\e887';"
+  },
+  "ai-playback-rew": {
+    "prefix": "ai-playback-rew",
+    "body": "content: '\\\\e881';"
+  },
+  "ai-playback-shuffle": {
+    "prefix": "ai-playback-shuffle",
+    "body": "content: '\\\\e885';"
+  },
+  "ai-playback-stop": {
+    "prefix": "ai-playback-stop",
+    "body": "content: '\\\\e880';"
+  },
+  "ai-plug": {
+    "prefix": "ai-plug",
+    "body": "content: '\\\\e8a9';"
+  },
+  "ai-plus": {
+    "prefix": "ai-plus",
+    "body": "content: '\\\\e81b';"
+  },
+  "ai-plusone": {
+    "prefix": "ai-plusone",
+    "body": "content: '\\\\e850';"
+  },
+  "ai-power": {
+    "prefix": "ai-power",
+    "body": "content: '\\\\e875';"
+  },
+  "ai-present": {
+    "prefix": "ai-present",
+    "body": "content: '\\\\e87d';"
+  },
+  "ai-process-end": {
+    "prefix": "ai-process-end",
+    "body": "content: '\\\\e8bd';"
+  },
+  "ai-process-save": {
+    "prefix": "ai-process-save",
+    "body": "content: '\\\\e8be';"
+  },
+  "ai-process-start": {
+    "prefix": "ai-process-start",
+    "body": "content: '\\\\e8bf';"
+  },
+  "ai-puzzle": {
+    "prefix": "ai-puzzle",
+    "body": "content: '\\\\e843';"
+  },
+  "ai-qrcode": {
+    "prefix": "ai-qrcode",
+    "body": "content: '\\\\e8f1';"
+  },
+  "ai-rain": {
+    "prefix": "ai-rain",
+    "body": "content: '\\\\e8f8';"
+  },
+  "ai-record": {
+    "prefix": "ai-record",
+    "body": "content: '\\\\e893';"
+  },
+  "ai-redo": {
+    "prefix": "ai-redo",
+    "body": "content: '\\\\e852';"
+  },
+  "ai-reload": {
+    "prefix": "ai-reload",
+    "body": "content: '\\\\e844';"
+  },
+  "ai-restaurant": {
+    "prefix": "ai-restaurant",
+    "body": "content: '\\\\e897';"
+  },
+  "ai-rocket": {
+    "prefix": "ai-rocket",
+    "body": "content: '\\\\e89a';"
+  },
+  "ai-rss": {
+    "prefix": "ai-rss",
+    "body": "content: '\\\\e8c5';"
+  },
+  "ai-ruler": {
+    "prefix": "ai-ruler",
+    "body": "content: '\\\\e81f';"
+  },
+  "ai-save": {
+    "prefix": "ai-save",
+    "body": "content: '\\\\e8a4';"
+  },
+  "ai-search": {
+    "prefix": "ai-search",
+    "body": "content: '\\\\e827';"
+  },
+  "ai-send": {
+    "prefix": "ai-send",
+    "body": "content: '\\\\e8ed';"
+  },
+  "ai-settings": {
+    "prefix": "ai-settings",
+    "body": "content: '\\\\e807';"
+  },
+  "ai-share": {
+    "prefix": "ai-share",
+    "body": "content: '\\\\e8e6';"
+  },
+  "ai-share-2": {
+    "prefix": "ai-share-2",
+    "body": "content: '\\\\e83c';"
+  },
+  "ai-shield": {
+    "prefix": "ai-shield",
+    "body": "content: '\\\\e823';"
+  },
+  "ai-signal": {
+    "prefix": "ai-signal",
+    "body": "content: '\\\\e837';"
+  },
+  "ai-sms": {
+    "prefix": "ai-sms",
+    "body": "content: '\\\\e895';"
+  },
+  "ai-sort-1": {
+    "prefix": "ai-sort-1",
+    "body": "content: '\\\\e853';"
+  },
+  "ai-sort-2": {
+    "prefix": "ai-sort-2",
+    "body": "content: '\\\\e854';"
+  },
+  "ai-soundcloud": {
+    "prefix": "ai-soundcloud",
+    "body": "content: '\\\\e8da';"
+  },
+  "ai-stamp": {
+    "prefix": "ai-stamp",
+    "body": "content: '\\\\e85c';"
+  },
+  "ai-star-0": {
+    "prefix": "ai-star-0",
+    "body": "content: '\\\\e8e7';"
+  },
+  "ai-star-10": {
+    "prefix": "ai-star-10",
+    "body": "content: '\\\\e8e9';"
+  },
+  "ai-star-5": {
+    "prefix": "ai-star-5",
+    "body": "content: '\\\\e8e8';"
+  },
+  "ai-steering-wheel": {
+    "prefix": "ai-steering-wheel",
+    "body": "content: '\\\\e836';"
+  },
+  "ai-stumbleupon": {
+    "prefix": "ai-stumbleupon",
+    "body": "content: '\\\\e8e2';"
+  },
+  "ai-sun": {
+    "prefix": "ai-sun",
+    "body": "content: '\\\\e8f6';"
+  },
+  "ai-tablet": {
+    "prefix": "ai-tablet",
+    "body": "content: '\\\\e840';"
+  },
+  "ai-tag": {
+    "prefix": "ai-tag",
+    "body": "content: '\\\\e86a';"
+  },
+  "ai-tags": {
+    "prefix": "ai-tags",
+    "body": "content: '\\\\e86b';"
+  },
+  "ai-temperature": {
+    "prefix": "ai-temperature",
+    "body": "content: '\\\\e833';"
+  },
+  "ai-tick": {
+    "prefix": "ai-tick",
+    "body": "content: '\\\\e82e';"
+  },
+  "ai-ticket": {
+    "prefix": "ai-ticket",
+    "body": "content: '\\\\e899';"
+  },
+  "ai-tiles-large": {
+    "prefix": "ai-tiles-large",
+    "body": "content: '\\\\e80b';"
+  },
+  "ai-tiles-small": {
+    "prefix": "ai-tiles-small",
+    "body": "content: '\\\\e80c';"
+  },
+  "ai-train": {
+    "prefix": "ai-train",
+    "body": "content: '\\\\e8ad';"
+  },
+  "ai-trash": {
+    "prefix": "ai-trash",
+    "body": "content: '\\\\e847';"
+  },
+  "ai-tshirt": {
+    "prefix": "ai-tshirt",
+    "body": "content: '\\\\e898';"
+  },
+  "ai-tumblr": {
+    "prefix": "ai-tumblr",
+    "body": "content: '\\\\e8e3';"
+  },
+  "ai-turn-left": {
+    "prefix": "ai-turn-left",
+    "body": "content: '\\\\e85d';"
+  },
+  "ai-turn-right": {
+    "prefix": "ai-turn-right",
+    "body": "content: '\\\\e85e';"
+  },
+  "ai-tv": {
+    "prefix": "ai-tv",
+    "body": "content: '\\\\e841';"
+  },
+  "ai-twitter": {
+    "prefix": "ai-twitter",
+    "body": "content: '\\\\e8e4';"
+  },
+  "ai-umbrella": {
+    "prefix": "ai-umbrella",
+    "body": "content: '\\\\e803';"
+  },
+  "ai-undo": {
+    "prefix": "ai-undo",
+    "body": "content: '\\\\e851';"
+  },
+  "ai-upload": {
+    "prefix": "ai-upload",
+    "body": "content: '\\\\e848';"
+  },
+  "ai-user": {
+    "prefix": "ai-user",
+    "body": "content: '\\\\e8f4';"
+  },
+  "ai-users": {
+    "prefix": "ai-users",
+    "body": "content: '\\\\e8f5';"
+  },
+  "ai-video": {
+    "prefix": "ai-video",
+    "body": "content: '\\\\e81d';"
+  },
+  "ai-vimeo": {
+    "prefix": "ai-vimeo",
+    "body": "content: '\\\\e8dc';"
+  },
+  "ai-volume": {
+    "prefix": "ai-volume",
+    "body": "content: '\\\\e870';"
+  },
+  "ai-volume-down": {
+    "prefix": "ai-volume-down",
+    "body": "content: '\\\\e873';"
+  },
+  "ai-volume-mute": {
+    "prefix": "ai-volume-mute",
+    "body": "content: '\\\\e871';"
+  },
+  "ai-volume-up": {
+    "prefix": "ai-volume-up",
+    "body": "content: '\\\\e872';"
+  },
+  "ai-warning": {
+    "prefix": "ai-warning",
+    "body": "content: '\\\\e879';"
+  },
+  "ai-wifi": {
+    "prefix": "ai-wifi",
+    "body": "content: '\\\\e89f';"
+  },
+  "ai-wizard": {
+    "prefix": "ai-wizard",
+    "body": "content: '\\\\e832';"
+  },
+  "ai-yingyang": {
+    "prefix": "ai-yingyang",
+    "body": "content: '\\\\e822';"
+  },
+  "ai-youtube": {
+    "prefix": "ai-youtube",
+    "body": "content: '\\\\e8dd';"
+  }
+}

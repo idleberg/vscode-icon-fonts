@@ -1,0 +1,6602 @@
+{
+  "mdi-folder-multiple-image": {
+    "prefix": "mdi-folder-multiple-image",
+    "body": "content: '\\\\F254';"
+  },
+  "mdi-arrange-send-to-back": {
+    "prefix": "mdi-arrange-send-to-back",
+    "body": "content: '\\\\F040';"
+  },
+  "mdi-clipboard-alert": {
+    "prefix": "mdi-clipboard-alert",
+    "body": "content: '\\\\F149';"
+  },
+  "mdi-stop": {
+    "prefix": "mdi-stop",
+    "body": "content: '\\\\F4DB';"
+  },
+  "mdi-format-vertical-align-center": {
+    "prefix": "mdi-format-vertical-align-center",
+    "body": "content: '\\\\F622';"
+  },
+  "mdi-face": {
+    "prefix": "mdi-face",
+    "body": "content: '\\\\F643';"
+  },
+  "mdi-comment": {
+    "prefix": "mdi-comment",
+    "body": "content: '\\\\F17A';"
+  },
+  "mdi-cube-unfolded": {
+    "prefix": "mdi-cube-unfolded",
+    "body": "content: '\\\\F1A9';"
+  },
+  "mdi-seat-individual-suite": {
+    "prefix": "mdi-seat-individual-suite",
+    "body": "content: '\\\\F47D';"
+  },
+  "mdi-blinds": {
+    "prefix": "mdi-blinds",
+    "body": "content: '\\\\F0AC';"
+  },
+  "mdi-timer-sand": {
+    "prefix": "mdi-timer-sand",
+    "body": "content: '\\\\F51F';"
+  },
+  "mdi-account-key": {
+    "prefix": "mdi-account-key",
+    "body": "content: '\\\\F00B';"
+  },
+  "mdi-close-octagon-outline": {
+    "prefix": "mdi-close-octagon-outline",
+    "body": "content: '\\\\F15D';"
+  },
+  "mdi-etsy": {
+    "prefix": "mdi-etsy",
+    "body": "content: '\\\\F203';"
+  },
+  "mdi-cash": {
+    "prefix": "mdi-cash",
+    "body": "content: '\\\\F114';"
+  },
+  "mdi-eraser-variant": {
+    "prefix": "mdi-eraser-variant",
+    "body": "content: '\\\\F642';"
+  },
+  "mdi-format-line-style": {
+    "prefix": "mdi-format-line-style",
+    "body": "content: '\\\\F5C8';"
+  },
+  "mdi-square-inc": {
+    "prefix": "mdi-square-inc",
+    "body": "content: '\\\\F4CA';"
+  },
+  "mdi-format-header-equal": {
+    "prefix": "mdi-format-header-equal",
+    "body": "content: '\\\\F272';"
+  },
+  "mdi-format-textdirection-l-to-r": {
+    "prefix": "mdi-format-textdirection-l-to-r",
+    "body": "content: '\\\\F285';"
+  },
+  "mdi-eye": {
+    "prefix": "mdi-eye",
+    "body": "content: '\\\\F208';"
+  },
+  "mdi-pinterest-box": {
+    "prefix": "mdi-pinterest-box",
+    "body": "content: '\\\\F408';"
+  },
+  "mdi-music-box-outline": {
+    "prefix": "mdi-music-box-outline",
+    "body": "content: '\\\\F385';"
+  },
+  "mdi-contrast-circle": {
+    "prefix": "mdi-contrast-circle",
+    "body": "content: '\\\\F197';"
+  },
+  "mdi-star-off": {
+    "prefix": "mdi-star-off",
+    "body": "content: '\\\\F4D1';"
+  },
+  "mdi-nature": {
+    "prefix": "mdi-nature",
+    "body": "content: '\\\\F38E';"
+  },
+  "mdi-account-star-variant": {
+    "prefix": "mdi-account-star-variant",
+    "body": "content: '\\\\F018';"
+  },
+  "mdi-projector": {
+    "prefix": "mdi-projector",
+    "body": "content: '\\\\F42E';"
+  },
+  "mdi-hospital-marker": {
+    "prefix": "mdi-hospital-marker",
+    "body": "content: '\\\\F2E2';"
+  },
+  "mdi-arrow-right-bold-circle-outline": {
+    "prefix": "mdi-arrow-right-bold-circle-outline",
+    "body": "content: '\\\\F057';"
+  },
+  "mdi-invert-colors": {
+    "prefix": "mdi-invert-colors",
+    "body": "content: '\\\\F301';"
+  },
+  "mdi-sticker": {
+    "prefix": "mdi-sticker",
+    "body": "content: '\\\\F5D0';"
+  },
+  "mdi-table-row-plus-before": {
+    "prefix": "mdi-table-row-plus-before",
+    "body": "content: '\\\\F4F4';"
+  },
+  "mdi-language-cpp": {
+    "prefix": "mdi-language-cpp",
+    "body": "content: '\\\\F672';"
+  },
+  "mdi-music-note-half": {
+    "prefix": "mdi-music-note-half",
+    "body": "content: '\\\\F389';"
+  },
+  "mdi-radio-tower": {
+    "prefix": "mdi-radio-tower",
+    "body": "content: '\\\\F43B';"
+  },
+  "mdi-emoticon-happy": {
+    "prefix": "mdi-emoticon-happy",
+    "body": "content: '\\\\F1F5';"
+  },
+  "mdi-message-plus": {
+    "prefix": "mdi-message-plus",
+    "body": "content: '\\\\F653';"
+  },
+  "mdi-guitar-pick": {
+    "prefix": "mdi-guitar-pick",
+    "body": "content: '\\\\F2C5';"
+  },
+  "mdi-repeat-once": {
+    "prefix": "mdi-repeat-once",
+    "body": "content: '\\\\F458';"
+  },
+  "mdi-bell-plus": {
+    "prefix": "mdi-bell-plus",
+    "body": "content: '\\\\F09D';"
+  },
+  "mdi-file-lock": {
+    "prefix": "mdi-file-lock",
+    "body": "content: '\\\\F221';"
+  },
+  "mdi-bullhorn": {
+    "prefix": "mdi-bullhorn",
+    "body": "content: '\\\\F0E6';"
+  },
+  "mdi-responsive": {
+    "prefix": "mdi-responsive",
+    "body": "content: '\\\\F45E';"
+  },
+  "mdi-vector-square": {
+    "prefix": "mdi-vector-square",
+    "body": "content: '\\\\F001';"
+  },
+  "mdi-trending-neutral": {
+    "prefix": "mdi-trending-neutral",
+    "body": "content: '\\\\F534';"
+  },
+  "mdi-arrow-right-bold-hexagon-outline": {
+    "prefix": "mdi-arrow-right-bold-hexagon-outline",
+    "body": "content: '\\\\F058';"
+  },
+  "mdi-alarm-plus": {
+    "prefix": "mdi-alarm-plus",
+    "body": "content: '\\\\F024';"
+  },
+  "mdi-water-pump": {
+    "prefix": "mdi-water-pump",
+    "body": "content: '\\\\F58F';"
+  },
+  "mdi-table-large": {
+    "prefix": "mdi-table-large",
+    "body": "content: '\\\\F4F1';"
+  },
+  "mdi-webcam": {
+    "prefix": "mdi-webcam",
+    "body": "content: '\\\\F5A0';"
+  },
+  "mdi-google-controller": {
+    "prefix": "mdi-google-controller",
+    "body": "content: '\\\\F2B4';"
+  },
+  "mdi-clipboard-arrow-left": {
+    "prefix": "mdi-clipboard-arrow-left",
+    "body": "content: '\\\\F14B';"
+  },
+  "mdi-clock-start": {
+    "prefix": "mdi-clock-start",
+    "body": "content: '\\\\F155';"
+  },
+  "mdi-popcorn": {
+    "prefix": "mdi-popcorn",
+    "body": "content: '\\\\F422';"
+  },
+  "mdi-directions": {
+    "prefix": "mdi-directions",
+    "body": "content: '\\\\F1D0';"
+  },
+  "mdi-image-filter-none": {
+    "prefix": "mdi-image-filter-none",
+    "body": "content: '\\\\F2F6';"
+  },
+  "mdi-drone": {
+    "prefix": "mdi-drone",
+    "body": "content: '\\\\F1E2';"
+  },
+  "mdi-math-compass": {
+    "prefix": "mdi-math-compass",
+    "body": "content: '\\\\F358';"
+  },
+  "mdi-nest-protect": {
+    "prefix": "mdi-nest-protect",
+    "body": "content: '\\\\F392';"
+  },
+  "mdi-account-star": {
+    "prefix": "mdi-account-star",
+    "body": "content: '\\\\F017';"
+  },
+  "mdi-bridge": {
+    "prefix": "mdi-bridge",
+    "body": "content: '\\\\F618';"
+  },
+  "mdi-led-off": {
+    "prefix": "mdi-led-off",
+    "body": "content: '\\\\F32B';"
+  },
+  "mdi-sword": {
+    "prefix": "mdi-sword",
+    "body": "content: '\\\\F4E5';"
+  },
+  "mdi-camera-rear": {
+    "prefix": "mdi-camera-rear",
+    "body": "content: '\\\\F106';"
+  },
+  "mdi-youtube-play": {
+    "prefix": "mdi-youtube-play",
+    "body": "content: '\\\\F5C3';"
+  },
+  "mdi-code-greater-than-or-equal": {
+    "prefix": "mdi-code-greater-than-or-equal",
+    "body": "content: '\\\\F16D';"
+  },
+  "mdi-format-header-increase": {
+    "prefix": "mdi-format-header-increase",
+    "body": "content: '\\\\F273';"
+  },
+  "mdi-saxophone": {
+    "prefix": "mdi-saxophone",
+    "body": "content: '\\\\F609';"
+  },
+  "mdi-language-javascript": {
+    "prefix": "mdi-language-javascript",
+    "body": "content: '\\\\F31E';"
+  },
+  "mdi-chart-scatterplot-hexbin": {
+    "prefix": "mdi-chart-scatterplot-hexbin",
+    "body": "content: '\\\\F66D';"
+  },
+  "mdi-arrow-down-drop-circle": {
+    "prefix": "mdi-arrow-down-drop-circle",
+    "body": "content: '\\\\F04A';"
+  },
+  "mdi-email-outline": {
+    "prefix": "mdi-email-outline",
+    "body": "content: '\\\\F1F0';"
+  },
+  "mdi-cow": {
+    "prefix": "mdi-cow",
+    "body": "content: '\\\\F19A';"
+  },
+  "mdi-hexagon": {
+    "prefix": "mdi-hexagon",
+    "body": "content: '\\\\F2D8';"
+  },
+  "mdi-basket-unfill": {
+    "prefix": "mdi-basket-unfill",
+    "body": "content: '\\\\F078';"
+  },
+  "mdi-view-array": {
+    "prefix": "mdi-view-array",
+    "body": "content: '\\\\F56B';"
+  },
+  "mdi-message-draw": {
+    "prefix": "mdi-message-draw",
+    "body": "content: '\\\\F363';"
+  },
+  "mdi-vk-box": {
+    "prefix": "mdi-vk-box",
+    "body": "content: '\\\\F57A';"
+  },
+  "mdi-step-forward-2": {
+    "prefix": "mdi-step-forward-2",
+    "body": "content: '\\\\F4D8';"
+  },
+  "mdi-numeric-5-box-multiple-outline": {
+    "prefix": "mdi-numeric-5-box-multiple-outline",
+    "body": "content: '\\\\F3B1';"
+  },
+  "mdi-parking": {
+    "prefix": "mdi-parking",
+    "body": "content: '\\\\F3E3';"
+  },
+  "mdi-facebook": {
+    "prefix": "mdi-facebook",
+    "body": "content: '\\\\F20C';"
+  },
+  "mdi-car-battery": {
+    "prefix": "mdi-car-battery",
+    "body": "content: '\\\\F10C';"
+  },
+  "mdi-led-variant-off": {
+    "prefix": "mdi-led-variant-off",
+    "body": "content: '\\\\F32E';"
+  },
+  "mdi-beach": {
+    "prefix": "mdi-beach",
+    "body": "content: '\\\\F092';"
+  },
+  "mdi-unfold-more": {
+    "prefix": "mdi-unfold-more",
+    "body": "content: '\\\\F54F';"
+  },
+  "mdi-gauge": {
+    "prefix": "mdi-gauge",
+    "body": "content: '\\\\F29A';"
+  },
+  "mdi-compass-outline": {
+    "prefix": "mdi-compass-outline",
+    "body": "content: '\\\\F18C';"
+  },
+  "mdi-currency-try": {
+    "prefix": "mdi-currency-try",
+    "body": "content: '\\\\F1B2';"
+  },
+  "mdi-file-excel": {
+    "prefix": "mdi-file-excel",
+    "body": "content: '\\\\F21B';"
+  },
+  "mdi-message-alert": {
+    "prefix": "mdi-message-alert",
+    "body": "content: '\\\\F362';"
+  },
+  "mdi-hospital-building": {
+    "prefix": "mdi-hospital-building",
+    "body": "content: '\\\\F2E1';"
+  },
+  "mdi-terrain": {
+    "prefix": "mdi-terrain",
+    "body": "content: '\\\\F509';"
+  },
+  "mdi-shopping": {
+    "prefix": "mdi-shopping",
+    "body": "content: '\\\\F49A';"
+  },
+  "mdi-gender-transgender": {
+    "prefix": "mdi-gender-transgender",
+    "body": "content: '\\\\F29F';"
+  },
+  "mdi-bank": {
+    "prefix": "mdi-bank",
+    "body": "content: '\\\\F070';"
+  },
+  "mdi-tag-outline": {
+    "prefix": "mdi-tag-outline",
+    "body": "content: '\\\\F4FC';"
+  },
+  "mdi-stethoscope": {
+    "prefix": "mdi-stethoscope",
+    "body": "content: '\\\\F4D9';"
+  },
+  "mdi-transfer": {
+    "prefix": "mdi-transfer",
+    "body": "content: '\\\\F530';"
+  },
+  "mdi-table-column-plus-after": {
+    "prefix": "mdi-table-column-plus-after",
+    "body": "content: '\\\\F4EC';"
+  },
+  "mdi-google-earth": {
+    "prefix": "mdi-google-earth",
+    "body": "content: '\\\\F2B7';"
+  },
+  "mdi-bluetooth-connect": {
+    "prefix": "mdi-bluetooth-connect",
+    "body": "content: '\\\\F0B1';"
+  },
+  "mdi-grease-pencil": {
+    "prefix": "mdi-grease-pencil",
+    "body": "content: '\\\\F648';"
+  },
+  "mdi-lastfm": {
+    "prefix": "mdi-lastfm",
+    "body": "content: '\\\\F326';"
+  },
+  "mdi-filter-remove": {
+    "prefix": "mdi-filter-remove",
+    "body": "content: '\\\\F234';"
+  },
+  "mdi-battery-charging-20": {
+    "prefix": "mdi-battery-charging-20",
+    "body": "content: '\\\\F086';"
+  },
+  "mdi-square-inc-cash": {
+    "prefix": "mdi-square-inc-cash",
+    "body": "content: '\\\\F4CB';"
+  },
+  "mdi-tablet": {
+    "prefix": "mdi-tablet",
+    "body": "content: '\\\\F4F6';"
+  },
+  "mdi-glass-mug": {
+    "prefix": "mdi-glass-mug",
+    "body": "content: '\\\\F2A6';"
+  },
+  "mdi-slack": {
+    "prefix": "mdi-slack",
+    "body": "content: '\\\\F4B1';"
+  },
+  "mdi-code-less-than": {
+    "prefix": "mdi-code-less-than",
+    "body": "content: '\\\\F16E';"
+  },
+  "mdi-foursquare": {
+    "prefix": "mdi-foursquare",
+    "body": "content: '\\\\F28E';"
+  },
+  "mdi-resize-bottom-right": {
+    "prefix": "mdi-resize-bottom-right",
+    "body": "content: '\\\\F45D';"
+  },
+  "mdi-box": {
+    "prefix": "mdi-box",
+    "body": "content: '\\\\F0D4';"
+  },
+  "mdi-notification-clear-all": {
+    "prefix": "mdi-notification-clear-all",
+    "body": "content: '\\\\F39F';"
+  },
+  "mdi-close-circle-outline": {
+    "prefix": "mdi-close-circle-outline",
+    "body": "content: '\\\\F15A';"
+  },
+  "mdi-new-box": {
+    "prefix": "mdi-new-box",
+    "body": "content: '\\\\F394';"
+  },
+  "mdi-arrow-down-bold": {
+    "prefix": "mdi-arrow-down-bold",
+    "body": "content: '\\\\F046';"
+  },
+  "mdi-view-grid": {
+    "prefix": "mdi-view-grid",
+    "body": "content: '\\\\F570';"
+  },
+  "mdi-home-variant": {
+    "prefix": "mdi-home-variant",
+    "body": "content: '\\\\F2DE';"
+  },
+  "mdi-language-php": {
+    "prefix": "mdi-language-php",
+    "body": "content: '\\\\F31F';"
+  },
+  "mdi-comment-alert-outline": {
+    "prefix": "mdi-comment-alert-outline",
+    "body": "content: '\\\\F17E';"
+  },
+  "mdi-apple-keyboard-command": {
+    "prefix": "mdi-apple-keyboard-command",
+    "body": "content: '\\\\F633';"
+  },
+  "mdi-arrow-up-bold-circle-outline": {
+    "prefix": "mdi-arrow-up-bold-circle-outline",
+    "body": "content: '\\\\F060';"
+  },
+  "mdi-cup-off": {
+    "prefix": "mdi-cup-off",
+    "body": "content: '\\\\F5E5';"
+  },
+  "mdi-crop-landscape": {
+    "prefix": "mdi-crop-landscape",
+    "body": "content: '\\\\F1A0';"
+  },
+  "mdi-theme-light-dark": {
+    "prefix": "mdi-theme-light-dark",
+    "body": "content: '\\\\F50E';"
+  },
+  "mdi-format-header-1": {
+    "prefix": "mdi-format-header-1",
+    "body": "content: '\\\\F26B';"
+  },
+  "mdi-format-header-2": {
+    "prefix": "mdi-format-header-2",
+    "body": "content: '\\\\F26C';"
+  },
+  "mdi-chart-arc": {
+    "prefix": "mdi-chart-arc",
+    "body": "content: '\\\\F126';"
+  },
+  "mdi-format-header-4": {
+    "prefix": "mdi-format-header-4",
+    "body": "content: '\\\\F26E';"
+  },
+  "mdi-decimal-increase": {
+    "prefix": "mdi-decimal-increase",
+    "body": "content: '\\\\F1BF';"
+  },
+  "mdi-format-header-6": {
+    "prefix": "mdi-format-header-6",
+    "body": "content: '\\\\F270';"
+  },
+  "mdi-checkbox-multiple-marked-outline": {
+    "prefix": "mdi-checkbox-multiple-marked-outline",
+    "body": "content: '\\\\F139';"
+  },
+  "mdi-sim-alert": {
+    "prefix": "mdi-sim-alert",
+    "body": "content: '\\\\F4A8';"
+  },
+  "mdi-division-box": {
+    "prefix": "mdi-division-box",
+    "body": "content: '\\\\F1D5';"
+  },
+  "mdi-fast-forward": {
+    "prefix": "mdi-fast-forward",
+    "body": "content: '\\\\F211';"
+  },
+  "mdi-camera-off": {
+    "prefix": "mdi-camera-off",
+    "body": "content: '\\\\F5DF';"
+  },
+  "mdi-tune": {
+    "prefix": "mdi-tune",
+    "body": "content: '\\\\F62E';"
+  },
+  "mdi-twitch": {
+    "prefix": "mdi-twitch",
+    "body": "content: '\\\\F543';"
+  },
+  "mdi-clippy": {
+    "prefix": "mdi-clippy",
+    "body": "content: '\\\\F14F';"
+  },
+  "mdi-shuffle-disabled": {
+    "prefix": "mdi-shuffle-disabled",
+    "body": "content: '\\\\F49E';"
+  },
+  "mdi-arrow-right": {
+    "prefix": "mdi-arrow-right",
+    "body": "content: '\\\\F054';"
+  },
+  "mdi-drawing-box": {
+    "prefix": "mdi-drawing-box",
+    "body": "content: '\\\\F1DF';"
+  },
+  "mdi-plus-circle-multiple-outline": {
+    "prefix": "mdi-plus-circle-multiple-outline",
+    "body": "content: '\\\\F418';"
+  },
+  "mdi-alphabetical": {
+    "prefix": "mdi-alphabetical",
+    "body": "content: '\\\\F02C';"
+  },
+  "mdi-arrow-compress": {
+    "prefix": "mdi-arrow-compress",
+    "body": "content: '\\\\F615';"
+  },
+  "mdi-lambda": {
+    "prefix": "mdi-lambda",
+    "body": "content: '\\\\F627';"
+  },
+  "mdi-skip-backward": {
+    "prefix": "mdi-skip-backward",
+    "body": "content: '\\\\F4AB';"
+  },
+  "mdi-boombox": {
+    "prefix": "mdi-boombox",
+    "body": "content: '\\\\F5DC';"
+  },
+  "mdi-read": {
+    "prefix": "mdi-read",
+    "body": "content: '\\\\F447';"
+  },
+  "mdi-edge": {
+    "prefix": "mdi-edge",
+    "body": "content: '\\\\F1E9';"
+  },
+  "mdi-opera": {
+    "prefix": "mdi-opera",
+    "body": "content: '\\\\F3CE';"
+  },
+  "mdi-pill": {
+    "prefix": "mdi-pill",
+    "body": "content: '\\\\F402';"
+  },
+  "mdi-apple-keyboard-control": {
+    "prefix": "mdi-apple-keyboard-control",
+    "body": "content: '\\\\F634';"
+  },
+  "mdi-minus-box": {
+    "prefix": "mdi-minus-box",
+    "body": "content: '\\\\F375';"
+  },
+  "mdi-untappd": {
+    "prefix": "mdi-untappd",
+    "body": "content: '\\\\F551';"
+  },
+  "mdi-key-minus": {
+    "prefix": "mdi-key-minus",
+    "body": "content: '\\\\F308';"
+  },
+  "mdi-apple-ios": {
+    "prefix": "mdi-apple-ios",
+    "body": "content: '\\\\F037';"
+  },
+  "mdi-microphone-off": {
+    "prefix": "mdi-microphone-off",
+    "body": "content: '\\\\F36D';"
+  },
+  "mdi-forward": {
+    "prefix": "mdi-forward",
+    "body": "content: '\\\\F28D';"
+  },
+  "mdi-white-balance-sunny": {
+    "prefix": "mdi-white-balance-sunny",
+    "body": "content: '\\\\F5A8';"
+  },
+  "mdi-calendar-plus": {
+    "prefix": "mdi-calendar-plus",
+    "body": "content: '\\\\F0F3';"
+  },
+  "mdi-google-drive": {
+    "prefix": "mdi-google-drive",
+    "body": "content: '\\\\F2B6';"
+  },
+  "mdi-stackoverflow": {
+    "prefix": "mdi-stackoverflow",
+    "body": "content: '\\\\F4CC';"
+  },
+  "mdi-nfc-tap": {
+    "prefix": "mdi-nfc-tap",
+    "body": "content: '\\\\F397';"
+  },
+  "mdi-sign-caution": {
+    "prefix": "mdi-sign-caution",
+    "body": "content: '\\\\F4A1';"
+  },
+  "mdi-clipboard-arrow-down": {
+    "prefix": "mdi-clipboard-arrow-down",
+    "body": "content: '\\\\F14A';"
+  },
+  "mdi-vector-difference-ab": {
+    "prefix": "mdi-vector-difference-ab",
+    "body": "content: '\\\\F55B';"
+  },
+  "mdi-pot": {
+    "prefix": "mdi-pot",
+    "body": "content: '\\\\F65A';"
+  },
+  "mdi-temperature-kelvin": {
+    "prefix": "mdi-temperature-kelvin",
+    "body": "content: '\\\\F506';"
+  },
+  "mdi-airplane-off": {
+    "prefix": "mdi-airplane-off",
+    "body": "content: '\\\\F01E';"
+  },
+  "mdi-file-tree": {
+    "prefix": "mdi-file-tree",
+    "body": "content: '\\\\F645';"
+  },
+  "mdi-playlist-remove": {
+    "prefix": "mdi-playlist-remove",
+    "body": "content: '\\\\F413';"
+  },
+  "mdi-vector-difference": {
+    "prefix": "mdi-vector-difference",
+    "body": "content: '\\\\F55A';"
+  },
+  "mdi-signal": {
+    "prefix": "mdi-signal",
+    "body": "content: '\\\\F4A2';"
+  },
+  "mdi-image-area": {
+    "prefix": "mdi-image-area",
+    "body": "content: '\\\\F2EB';"
+  },
+  "mdi-guitar-electric": {
+    "prefix": "mdi-guitar-electric",
+    "body": "content: '\\\\F2C4';"
+  },
+  "mdi-water-percent": {
+    "prefix": "mdi-water-percent",
+    "body": "content: '\\\\F58E';"
+  },
+  "mdi-briefcase-check": {
+    "prefix": "mdi-briefcase-check",
+    "body": "content: '\\\\F0D7';"
+  },
+  "mdi-file-multiple": {
+    "prefix": "mdi-file-multiple",
+    "body": "content: '\\\\F222';"
+  },
+  "mdi-phone-hangup": {
+    "prefix": "mdi-phone-hangup",
+    "body": "content: '\\\\F3F5';"
+  },
+  "mdi-paw": {
+    "prefix": "mdi-paw",
+    "body": "content: '\\\\F3E9';"
+  },
+  "mdi-headset-off": {
+    "prefix": "mdi-headset-off",
+    "body": "content: '\\\\F2D0';"
+  },
+  "mdi-sync-off": {
+    "prefix": "mdi-sync-off",
+    "body": "content: '\\\\F4E8';"
+  },
+  "mdi-window-minimize": {
+    "prefix": "mdi-window-minimize",
+    "body": "content: '\\\\F5B0';"
+  },
+  "mdi-information-variant": {
+    "prefix": "mdi-information-variant",
+    "body": "content: '\\\\F64E';"
+  },
+  "mdi-trending-down": {
+    "prefix": "mdi-trending-down",
+    "body": "content: '\\\\F533';"
+  },
+  "mdi-format-float-left": {
+    "prefix": "mdi-format-float-left",
+    "body": "content: '\\\\F268';"
+  },
+  "mdi-menu-left": {
+    "prefix": "mdi-menu-left",
+    "body": "content: '\\\\F35E';"
+  },
+  "mdi-buffer": {
+    "prefix": "mdi-buffer",
+    "body": "content: '\\\\F619';"
+  },
+  "mdi-link": {
+    "prefix": "mdi-link",
+    "body": "content: '\\\\F337';"
+  },
+  "mdi-sort-alphabetical": {
+    "prefix": "mdi-sort-alphabetical",
+    "body": "content: '\\\\F4BB';"
+  },
+  "mdi-account-remove": {
+    "prefix": "mdi-account-remove",
+    "body": "content: '\\\\F015';"
+  },
+  "mdi-toggle-switch": {
+    "prefix": "mdi-toggle-switch",
+    "body": "content: '\\\\F521';"
+  },
+  "mdi-clock-end": {
+    "prefix": "mdi-clock-end",
+    "body": "content: '\\\\F151';"
+  },
+  "mdi-linkedin-box": {
+    "prefix": "mdi-linkedin-box",
+    "body": "content: '\\\\F33C';"
+  },
+  "mdi-image-filter-frames": {
+    "prefix": "mdi-image-filter-frames",
+    "body": "content: '\\\\F2F4';"
+  },
+  "mdi-unfold-less": {
+    "prefix": "mdi-unfold-less",
+    "body": "content: '\\\\F54E';"
+  },
+  "mdi-vector-polygon": {
+    "prefix": "mdi-vector-polygon",
+    "body": "content: '\\\\F560';"
+  },
+  "mdi-voice": {
+    "prefix": "mdi-voice",
+    "body": "content: '\\\\F5CB';"
+  },
+  "mdi-layers-off": {
+    "prefix": "mdi-layers-off",
+    "body": "content: '\\\\F329';"
+  },
+  "mdi-repeat-off": {
+    "prefix": "mdi-repeat-off",
+    "body": "content: '\\\\F457';"
+  },
+  "mdi-folder-google-drive": {
+    "prefix": "mdi-folder-google-drive",
+    "body": "content: '\\\\F24E';"
+  },
+  "mdi-trophy": {
+    "prefix": "mdi-trophy",
+    "body": "content: '\\\\F538';"
+  },
+  "mdi-table-row-remove": {
+    "prefix": "mdi-table-row-remove",
+    "body": "content: '\\\\F4F5';"
+  },
+  "mdi-checkbox-marked-circle": {
+    "prefix": "mdi-checkbox-marked-circle",
+    "body": "content: '\\\\F133';"
+  },
+  "mdi-debug-step-into": {
+    "prefix": "mdi-debug-step-into",
+    "body": "content: '\\\\F1BB';"
+  },
+  "mdi-numeric-4-box": {
+    "prefix": "mdi-numeric-4-box",
+    "body": "content: '\\\\F3AD';"
+  },
+  "mdi-arrow-up-bold": {
+    "prefix": "mdi-arrow-up-bold",
+    "body": "content: '\\\\F05E';"
+  },
+  "mdi-camera-party-mode": {
+    "prefix": "mdi-camera-party-mode",
+    "body": "content: '\\\\F105';"
+  },
+  "mdi-human-female": {
+    "prefix": "mdi-human-female",
+    "body": "content: '\\\\F649';"
+  },
+  "mdi-blackberry": {
+    "prefix": "mdi-blackberry",
+    "body": "content: '\\\\F0AA';"
+  },
+  "mdi-database-plus": {
+    "prefix": "mdi-database-plus",
+    "body": "content: '\\\\F1BA';"
+  },
+  "mdi-compare": {
+    "prefix": "mdi-compare",
+    "body": "content: '\\\\F18A';"
+  },
+  "mdi-vector-arrange-below": {
+    "prefix": "mdi-vector-arrange-below",
+    "body": "content: '\\\\F555';"
+  },
+  "mdi-account-outline": {
+    "prefix": "mdi-account-outline",
+    "body": "content: '\\\\F013';"
+  },
+  "mdi-repeat": {
+    "prefix": "mdi-repeat",
+    "body": "content: '\\\\F456';"
+  },
+  "mdi-battery-charging-90": {
+    "prefix": "mdi-battery-charging-90",
+    "body": "content: '\\\\F08B';"
+  },
+  "mdi-surround-sound": {
+    "prefix": "mdi-surround-sound",
+    "body": "content: '\\\\F5C5';"
+  },
+  "mdi-trophy-variant-outline": {
+    "prefix": "mdi-trophy-variant-outline",
+    "body": "content: '\\\\F53C';"
+  },
+  "mdi-television": {
+    "prefix": "mdi-television",
+    "body": "content: '\\\\F502';"
+  },
+  "mdi-tie": {
+    "prefix": "mdi-tie",
+    "body": "content: '\\\\F519';"
+  },
+  "mdi-cursor-default-outline": {
+    "prefix": "mdi-cursor-default-outline",
+    "body": "content: '\\\\F1B5';"
+  },
+  "mdi-rotate-3d": {
+    "prefix": "mdi-rotate-3d",
+    "body": "content: '\\\\F464';"
+  },
+  "mdi-disqus": {
+    "prefix": "mdi-disqus",
+    "body": "content: '\\\\F1D2';"
+  },
+  "mdi-eyedropper": {
+    "prefix": "mdi-eyedropper",
+    "body": "content: '\\\\F20A';"
+  },
+  "mdi-link-off": {
+    "prefix": "mdi-link-off",
+    "body": "content: '\\\\F338';"
+  },
+  "mdi-arrow-up": {
+    "prefix": "mdi-arrow-up",
+    "body": "content: '\\\\F05D';"
+  },
+  "mdi-google-pages": {
+    "prefix": "mdi-google-pages",
+    "body": "content: '\\\\F2BA';"
+  },
+  "mdi-music-box": {
+    "prefix": "mdi-music-box",
+    "body": "content: '\\\\F384';"
+  },
+  "mdi-linkedin": {
+    "prefix": "mdi-linkedin",
+    "body": "content: '\\\\F33B';"
+  },
+  "mdi-bell-ring-outline": {
+    "prefix": "mdi-bell-ring-outline",
+    "body": "content: '\\\\F09F';"
+  },
+  "mdi-readability": {
+    "prefix": "mdi-readability",
+    "body": "content: '\\\\F448';"
+  },
+  "mdi-numeric-7-box": {
+    "prefix": "mdi-numeric-7-box",
+    "body": "content: '\\\\F3B6';"
+  },
+  "mdi-filter-remove-outline": {
+    "prefix": "mdi-filter-remove-outline",
+    "body": "content: '\\\\F235';"
+  },
+  "mdi-cast-connected": {
+    "prefix": "mdi-cast-connected",
+    "body": "content: '\\\\F119';"
+  },
+  "mdi-code-not-equal": {
+    "prefix": "mdi-code-not-equal",
+    "body": "content: '\\\\F170';"
+  },
+  "mdi-phone-locked": {
+    "prefix": "mdi-phone-locked",
+    "body": "content: '\\\\F3F8';"
+  },
+  "mdi-arrow-up-bold-circle": {
+    "prefix": "mdi-arrow-up-bold-circle",
+    "body": "content: '\\\\F05F';"
+  },
+  "mdi-note-outline": {
+    "prefix": "mdi-note-outline",
+    "body": "content: '\\\\F39B';"
+  },
+  "mdi-wechat": {
+    "prefix": "mdi-wechat",
+    "body": "content: '\\\\F611';"
+  },
+  "mdi-cart-outline": {
+    "prefix": "mdi-cart-outline",
+    "body": "content: '\\\\F111';"
+  },
+  "mdi-view-agenda": {
+    "prefix": "mdi-view-agenda",
+    "body": "content: '\\\\F56A';"
+  },
+  "mdi-flattr": {
+    "prefix": "mdi-flattr",
+    "body": "content: '\\\\F246';"
+  },
+  "mdi-grid": {
+    "prefix": "mdi-grid",
+    "body": "content: '\\\\F2C1';"
+  },
+  "mdi-pin-off": {
+    "prefix": "mdi-pin-off",
+    "body": "content: '\\\\F404';"
+  },
+  "mdi-airballoon": {
+    "prefix": "mdi-airballoon",
+    "body": "content: '\\\\F01C';"
+  },
+  "mdi-gmail": {
+    "prefix": "mdi-gmail",
+    "body": "content: '\\\\F2AB';"
+  },
+  "mdi-transcribe": {
+    "prefix": "mdi-transcribe",
+    "body": "content: '\\\\F52E';"
+  },
+  "mdi-rename-box": {
+    "prefix": "mdi-rename-box",
+    "body": "content: '\\\\F455';"
+  },
+  "mdi-box-cutter": {
+    "prefix": "mdi-box-cutter",
+    "body": "content: '\\\\F0D5';"
+  },
+  "mdi-skip-next-circle": {
+    "prefix": "mdi-skip-next-circle",
+    "body": "content: '\\\\F661';"
+  },
+  "mdi-emoticon-devil": {
+    "prefix": "mdi-emoticon-devil",
+    "body": "content: '\\\\F1F4';"
+  },
+  "mdi-brightness-auto": {
+    "prefix": "mdi-brightness-auto",
+    "body": "content: '\\\\F0E1';"
+  },
+  "mdi-codepen": {
+    "prefix": "mdi-codepen",
+    "body": "content: '\\\\F175';"
+  },
+  "mdi-vector-selection": {
+    "prefix": "mdi-vector-selection",
+    "body": "content: '\\\\F562';"
+  },
+  "mdi-book-multiple-variant": {
+    "prefix": "mdi-book-multiple-variant",
+    "body": "content: '\\\\F0BC';"
+  },
+  "mdi-sort": {
+    "prefix": "mdi-sort",
+    "body": "content: '\\\\F4BA';"
+  },
+  "mdi-panorama-fisheye": {
+    "prefix": "mdi-panorama-fisheye",
+    "body": "content: '\\\\F3DD';"
+  },
+  "mdi-drawing": {
+    "prefix": "mdi-drawing",
+    "body": "content: '\\\\F1DE';"
+  },
+  "mdi-cellphone-link-off": {
+    "prefix": "mdi-cellphone-link-off",
+    "body": "content: '\\\\F122';"
+  },
+  "mdi-vector-difference-ba": {
+    "prefix": "mdi-vector-difference-ba",
+    "body": "content: '\\\\F55C';"
+  },
+  "mdi-textbox": {
+    "prefix": "mdi-textbox",
+    "body": "content: '\\\\F60E';"
+  },
+  "mdi-code-brackets": {
+    "prefix": "mdi-code-brackets",
+    "body": "content: '\\\\F16A';"
+  },
+  "mdi-triangle-outline": {
+    "prefix": "mdi-triangle-outline",
+    "body": "content: '\\\\F537';"
+  },
+  "mdi-weather-night": {
+    "prefix": "mdi-weather-night",
+    "body": "content: '\\\\F594';"
+  },
+  "mdi-toggle-switch-off": {
+    "prefix": "mdi-toggle-switch-off",
+    "body": "content: '\\\\F522';"
+  },
+  "mdi-battery-50": {
+    "prefix": "mdi-battery-50",
+    "body": "content: '\\\\F07E';"
+  },
+  "mdi-marker": {
+    "prefix": "mdi-marker",
+    "body": "content: '\\\\F652';"
+  },
+  "mdi-priority-high": {
+    "prefix": "mdi-priority-high",
+    "body": "content: '\\\\F603';"
+  },
+  "mdi-heart-broken": {
+    "prefix": "mdi-heart-broken",
+    "body": "content: '\\\\F2D4';"
+  },
+  "mdi-color-helper": {
+    "prefix": "mdi-color-helper",
+    "body": "content: '\\\\F179';"
+  },
+  "mdi-comment-text": {
+    "prefix": "mdi-comment-text",
+    "body": "content: '\\\\F188';"
+  },
+  "mdi-gamepad-variant": {
+    "prefix": "mdi-gamepad-variant",
+    "body": "content: '\\\\F297';"
+  },
+  "mdi-matrix": {
+    "prefix": "mdi-matrix",
+    "body": "content: '\\\\F628';"
+  },
+  "mdi-file-import": {
+    "prefix": "mdi-file-import",
+    "body": "content: '\\\\F220';"
+  },
+  "mdi-sort-ascending": {
+    "prefix": "mdi-sort-ascending",
+    "body": "content: '\\\\F4BC';"
+  },
+  "mdi-music-note-eighth": {
+    "prefix": "mdi-music-note-eighth",
+    "body": "content: '\\\\F388';"
+  },
+  "mdi-signal-variant": {
+    "prefix": "mdi-signal-variant",
+    "body": "content: '\\\\F60A';"
+  },
+  "mdi-cloud-check": {
+    "prefix": "mdi-cloud-check",
+    "body": "content: '\\\\F160';"
+  },
+  "mdi-emoticon": {
+    "prefix": "mdi-emoticon",
+    "body": "content: '\\\\F1F2';"
+  },
+  "mdi-filter-outline": {
+    "prefix": "mdi-filter-outline",
+    "body": "content: '\\\\F233';"
+  },
+  "mdi-clipboard-outline": {
+    "prefix": "mdi-clipboard-outline",
+    "body": "content: '\\\\F14D';"
+  },
+  "mdi-undo-variant": {
+    "prefix": "mdi-undo-variant",
+    "body": "content: '\\\\F54D';"
+  },
+  "mdi-account": {
+    "prefix": "mdi-account",
+    "body": "content: '\\\\F004';"
+  },
+  "mdi-google-circles": {
+    "prefix": "mdi-google-circles",
+    "body": "content: '\\\\F2B0';"
+  },
+  "mdi-arrow-right-drop-circle-outline": {
+    "prefix": "mdi-arrow-right-drop-circle-outline",
+    "body": "content: '\\\\F05A';"
+  },
+  "mdi-water": {
+    "prefix": "mdi-water",
+    "body": "content: '\\\\F58C';"
+  },
+  "mdi-firefox": {
+    "prefix": "mdi-firefox",
+    "body": "content: '\\\\F239';"
+  },
+  "mdi-food-off": {
+    "prefix": "mdi-food-off",
+    "body": "content: '\\\\F5F3';"
+  },
+  "mdi-battery-minus": {
+    "prefix": "mdi-battery-minus",
+    "body": "content: '\\\\F08C';"
+  },
+  "mdi-checkbox-blank-circle-outline": {
+    "prefix": "mdi-checkbox-blank-circle-outline",
+    "body": "content: '\\\\F130';"
+  },
+  "mdi-music-note-bluetooth-off": {
+    "prefix": "mdi-music-note-bluetooth-off",
+    "body": "content: '\\\\F5FF';"
+  },
+  "mdi-cellphone-settings": {
+    "prefix": "mdi-cellphone-settings",
+    "body": "content: '\\\\F123';"
+  },
+  "mdi-human-male-female": {
+    "prefix": "mdi-human-male-female",
+    "body": "content: '\\\\F2E8';"
+  },
+  "mdi-numeric-2-box-multiple-outline": {
+    "prefix": "mdi-numeric-2-box-multiple-outline",
+    "body": "content: '\\\\F3A8';"
+  },
+  "mdi-biohazard": {
+    "prefix": "mdi-biohazard",
+    "body": "content: '\\\\F0A7';"
+  },
+  "mdi-bookmark-remove": {
+    "prefix": "mdi-bookmark-remove",
+    "body": "content: '\\\\F0C6';"
+  },
+  "mdi-email-open": {
+    "prefix": "mdi-email-open",
+    "body": "content: '\\\\F1EF';"
+  },
+  "mdi-arrow-right-bold": {
+    "prefix": "mdi-arrow-right-bold",
+    "body": "content: '\\\\F055';"
+  },
+  "mdi-wordpress": {
+    "prefix": "mdi-wordpress",
+    "body": "content: '\\\\F5B4';"
+  },
+  "mdi-radar": {
+    "prefix": "mdi-radar",
+    "body": "content: '\\\\F437';"
+  },
+  "mdi-delete": {
+    "prefix": "mdi-delete",
+    "body": "content: '\\\\F1C0';"
+  },
+  "mdi-home-modern": {
+    "prefix": "mdi-home-modern",
+    "body": "content: '\\\\F2DD';"
+  },
+  "mdi-opacity": {
+    "prefix": "mdi-opacity",
+    "body": "content: '\\\\F5CC';"
+  },
+  "mdi-spellcheck": {
+    "prefix": "mdi-spellcheck",
+    "body": "content: '\\\\F4C6';"
+  },
+  "mdi-phone": {
+    "prefix": "mdi-phone",
+    "body": "content: '\\\\F3F2';"
+  },
+  "mdi-format-title": {
+    "prefix": "mdi-format-title",
+    "body": "content: '\\\\F5F4';"
+  },
+  "mdi-format-strikethrough": {
+    "prefix": "mdi-format-strikethrough",
+    "body": "content: '\\\\F280';"
+  },
+  "mdi-serial-port": {
+    "prefix": "mdi-serial-port",
+    "body": "content: '\\\\F65C';"
+  },
+  "mdi-playstation": {
+    "prefix": "mdi-playstation",
+    "body": "content: '\\\\F414';"
+  },
+  "mdi-meteor": {
+    "prefix": "mdi-meteor",
+    "body": "content: '\\\\F629';"
+  },
+  "mdi-menu": {
+    "prefix": "mdi-menu",
+    "body": "content: '\\\\F35C';"
+  },
+  "mdi-basket": {
+    "prefix": "mdi-basket",
+    "body": "content: '\\\\F076';"
+  },
+  "mdi-file-presentation-box": {
+    "prefix": "mdi-file-presentation-box",
+    "body": "content: '\\\\F229';"
+  },
+  "mdi-microsoft": {
+    "prefix": "mdi-microsoft",
+    "body": "content: '\\\\F372';"
+  },
+  "mdi-rounded-corner": {
+    "prefix": "mdi-rounded-corner",
+    "body": "content: '\\\\F607';"
+  },
+  "mdi-arrow-left-drop-circle": {
+    "prefix": "mdi-arrow-left-drop-circle",
+    "body": "content: '\\\\F052';"
+  },
+  "mdi-video-switch": {
+    "prefix": "mdi-video-switch",
+    "body": "content: '\\\\F569';"
+  },
+  "mdi-crop-square": {
+    "prefix": "mdi-crop-square",
+    "body": "content: '\\\\F1A2';"
+  },
+  "mdi-lan-pending": {
+    "prefix": "mdi-lan-pending",
+    "body": "content: '\\\\F31A';"
+  },
+  "mdi-sort-variant": {
+    "prefix": "mdi-sort-variant",
+    "body": "content: '\\\\F4BF';"
+  },
+  "mdi-google-plus": {
+    "prefix": "mdi-google-plus",
+    "body": "content: '\\\\F2BD';"
+  },
+  "mdi-subdirectory-arrow-right": {
+    "prefix": "mdi-subdirectory-arrow-right",
+    "body": "content: '\\\\F60D';"
+  },
+  "mdi-file-check": {
+    "prefix": "mdi-file-check",
+    "body": "content: '\\\\F216';"
+  },
+  "mdi-drag-horizontal": {
+    "prefix": "mdi-drag-horizontal",
+    "body": "content: '\\\\F1DC';"
+  },
+  "mdi-star-circle": {
+    "prefix": "mdi-star-circle",
+    "body": "content: '\\\\F4CF';"
+  },
+  "mdi-amplifier": {
+    "prefix": "mdi-amplifier",
+    "body": "content: '\\\\F030';"
+  },
+  "mdi-music-note-sixteenth": {
+    "prefix": "mdi-music-note-sixteenth",
+    "body": "content: '\\\\F38C';"
+  },
+  "mdi-movie": {
+    "prefix": "mdi-movie",
+    "body": "content: '\\\\F381';"
+  },
+  "mdi-google-glass": {
+    "prefix": "mdi-google-glass",
+    "body": "content: '\\\\F2B8';"
+  },
+  "mdi-tag-text-outline": {
+    "prefix": "mdi-tag-text-outline",
+    "body": "content: '\\\\F4FD';"
+  },
+  "mdi-skip-next": {
+    "prefix": "mdi-skip-next",
+    "body": "content: '\\\\F4AD';"
+  },
+  "mdi-book-open-variant": {
+    "prefix": "mdi-book-open-variant",
+    "body": "content: '\\\\F0BE';"
+  },
+  "mdi-chart-timeline": {
+    "prefix": "mdi-chart-timeline",
+    "body": "content: '\\\\F66E';"
+  },
+  "mdi-comment-multiple-outline": {
+    "prefix": "mdi-comment-multiple-outline",
+    "body": "content: '\\\\F181';"
+  },
+  "mdi-battery-charging-30": {
+    "prefix": "mdi-battery-charging-30",
+    "body": "content: '\\\\F087';"
+  },
+  "mdi-format-align-right": {
+    "prefix": "mdi-format-align-right",
+    "body": "content: '\\\\F263';"
+  },
+  "mdi-lead-pencil": {
+    "prefix": "mdi-lead-pencil",
+    "body": "content: '\\\\F64F';"
+  },
+  "mdi-google-maps": {
+    "prefix": "mdi-google-maps",
+    "body": "content: '\\\\F5F5';"
+  },
+  "mdi-google-circles-group": {
+    "prefix": "mdi-google-circles-group",
+    "body": "content: '\\\\F2B3';"
+  },
+  "mdi-view-quilt": {
+    "prefix": "mdi-view-quilt",
+    "body": "content: '\\\\F574';"
+  },
+  "mdi-weather-sunny": {
+    "prefix": "mdi-weather-sunny",
+    "body": "content: '\\\\F599';"
+  },
+  "mdi-phone-missed": {
+    "prefix": "mdi-phone-missed",
+    "body": "content: '\\\\F3FA';"
+  },
+  "mdi-earth": {
+    "prefix": "mdi-earth",
+    "body": "content: '\\\\F1E7';"
+  },
+  "mdi-weather-snowy": {
+    "prefix": "mdi-weather-snowy",
+    "body": "content: '\\\\F598';"
+  },
+  "mdi-reproduction": {
+    "prefix": "mdi-reproduction",
+    "body": "content: '\\\\F45C';"
+  },
+  "mdi-alpha": {
+    "prefix": "mdi-alpha",
+    "body": "content: '\\\\F02B';"
+  },
+  "mdi-bible": {
+    "prefix": "mdi-bible",
+    "body": "content: '\\\\F0A2';"
+  },
+  "mdi-file-cloud": {
+    "prefix": "mdi-file-cloud",
+    "body": "content: '\\\\F217';"
+  },
+  "mdi-vk": {
+    "prefix": "mdi-vk",
+    "body": "content: '\\\\F579';"
+  },
+  "mdi-selection": {
+    "prefix": "mdi-selection",
+    "body": "content: '\\\\F489';"
+  },
+  "mdi-folder-download": {
+    "prefix": "mdi-folder-download",
+    "body": "content: '\\\\F24D';"
+  },
+  "mdi-screwdriver": {
+    "prefix": "mdi-screwdriver",
+    "body": "content: '\\\\F477';"
+  },
+  "mdi-git": {
+    "prefix": "mdi-git",
+    "body": "content: '\\\\F2A2';"
+  },
+  "mdi-code-less-than-or-equal": {
+    "prefix": "mdi-code-less-than-or-equal",
+    "body": "content: '\\\\F16F';"
+  },
+  "mdi-comment-account-outline": {
+    "prefix": "mdi-comment-account-outline",
+    "body": "content: '\\\\F17C';"
+  },
+  "mdi-format-line-weight": {
+    "prefix": "mdi-format-line-weight",
+    "body": "content: '\\\\F5C9';"
+  },
+  "mdi-crown": {
+    "prefix": "mdi-crown",
+    "body": "content: '\\\\F1A5';"
+  },
+  "mdi-image-filter-center-focus": {
+    "prefix": "mdi-image-filter-center-focus",
+    "body": "content: '\\\\F2F1';"
+  },
+  "mdi-water-off": {
+    "prefix": "mdi-water-off",
+    "body": "content: '\\\\F58D';"
+  },
+  "mdi-mouse-variant": {
+    "prefix": "mdi-mouse-variant",
+    "body": "content: '\\\\F37F';"
+  },
+  "mdi-pause-octagon": {
+    "prefix": "mdi-pause-octagon",
+    "body": "content: '\\\\F3E7';"
+  },
+  "mdi-silverware-variant": {
+    "prefix": "mdi-silverware-variant",
+    "body": "content: '\\\\F4A6';"
+  },
+  "mdi-alert-box": {
+    "prefix": "mdi-alert-box",
+    "body": "content: '\\\\F027';"
+  },
+  "mdi-dice-3": {
+    "prefix": "mdi-dice-3",
+    "body": "content: '\\\\F1CC';"
+  },
+  "mdi-dice-2": {
+    "prefix": "mdi-dice-2",
+    "body": "content: '\\\\F1CB';"
+  },
+  "mdi-dice-1": {
+    "prefix": "mdi-dice-1",
+    "body": "content: '\\\\F1CA';"
+  },
+  "mdi-candycane": {
+    "prefix": "mdi-candycane",
+    "body": "content: '\\\\F10A';"
+  },
+  "mdi-dice-6": {
+    "prefix": "mdi-dice-6",
+    "body": "content: '\\\\F1CF';"
+  },
+  "mdi-seat-flat-angled": {
+    "prefix": "mdi-seat-flat-angled",
+    "body": "content: '\\\\F47C';"
+  },
+  "mdi-dice-4": {
+    "prefix": "mdi-dice-4",
+    "body": "content: '\\\\F1CD';"
+  },
+  "mdi-cake-variant": {
+    "prefix": "mdi-cake-variant",
+    "body": "content: '\\\\F0EB';"
+  },
+  "mdi-ray-start-end": {
+    "prefix": "mdi-ray-start-end",
+    "body": "content: '\\\\F444';"
+  },
+  "mdi-umbrella-outline": {
+    "prefix": "mdi-umbrella-outline",
+    "body": "content: '\\\\F54B';"
+  },
+  "mdi-mouse-variant-off": {
+    "prefix": "mdi-mouse-variant-off",
+    "body": "content: '\\\\F380';"
+  },
+  "mdi-package-down": {
+    "prefix": "mdi-package-down",
+    "body": "content: '\\\\F3D4';"
+  },
+  "mdi-timer-3": {
+    "prefix": "mdi-timer-3",
+    "body": "content: '\\\\F51D';"
+  },
+  "mdi-reload": {
+    "prefix": "mdi-reload",
+    "body": "content: '\\\\F453';"
+  },
+  "mdi-rowing": {
+    "prefix": "mdi-rowing",
+    "body": "content: '\\\\F608';"
+  },
+  "mdi-emoticon-cool": {
+    "prefix": "mdi-emoticon-cool",
+    "body": "content: '\\\\F1F3';"
+  },
+  "mdi-hops": {
+    "prefix": "mdi-hops",
+    "body": "content: '\\\\F2DF';"
+  },
+  "mdi-qrcode-scan": {
+    "prefix": "mdi-qrcode-scan",
+    "body": "content: '\\\\F433';"
+  },
+  "mdi-server-minus": {
+    "prefix": "mdi-server-minus",
+    "body": "content: '\\\\F48C';"
+  },
+  "mdi-dots-vertical": {
+    "prefix": "mdi-dots-vertical",
+    "body": "content: '\\\\F1D9';"
+  },
+  "mdi-credit-card": {
+    "prefix": "mdi-credit-card",
+    "body": "content: '\\\\F19B';"
+  },
+  "mdi-code-equal": {
+    "prefix": "mdi-code-equal",
+    "body": "content: '\\\\F16B';"
+  },
+  "mdi-blur-radial": {
+    "prefix": "mdi-blur-radial",
+    "body": "content: '\\\\F0B8';"
+  },
+  "mdi-blur-off": {
+    "prefix": "mdi-blur-off",
+    "body": "content: '\\\\F0B7';"
+  },
+  "mdi-cart-plus": {
+    "prefix": "mdi-cart-plus",
+    "body": "content: '\\\\F112';"
+  },
+  "mdi-numeric-3-box": {
+    "prefix": "mdi-numeric-3-box",
+    "body": "content: '\\\\F3AA';"
+  },
+  "mdi-numeric-9-plus-box-multiple-outline": {
+    "prefix": "mdi-numeric-9-plus-box-multiple-outline",
+    "body": "content: '\\\\F3C0';"
+  },
+  "mdi-sigma-lower": {
+    "prefix": "mdi-sigma-lower",
+    "body": "content: '\\\\F62B';"
+  },
+  "mdi-linux": {
+    "prefix": "mdi-linux",
+    "body": "content: '\\\\F33D';"
+  },
+  "mdi-skype-business": {
+    "prefix": "mdi-skype-business",
+    "body": "content: '\\\\F4B0';"
+  },
+  "mdi-watch-import": {
+    "prefix": "mdi-watch-import",
+    "body": "content: '\\\\F58B';"
+  },
+  "mdi-select-all": {
+    "prefix": "mdi-select-all",
+    "body": "content: '\\\\F486';"
+  },
+  "mdi-walk": {
+    "prefix": "mdi-walk",
+    "body": "content: '\\\\F583';"
+  },
+  "mdi-voicemail": {
+    "prefix": "mdi-voicemail",
+    "body": "content: '\\\\F57D';"
+  },
+  "mdi-shape-polygon-plus": {
+    "prefix": "mdi-shape-polygon-plus",
+    "body": "content: '\\\\F65E';"
+  },
+  "mdi-arrow-left-bold-circle": {
+    "prefix": "mdi-arrow-left-bold-circle",
+    "body": "content: '\\\\F04F';"
+  },
+  "mdi-football": {
+    "prefix": "mdi-football",
+    "body": "content: '\\\\F25D';"
+  },
+  "mdi-skip-previous": {
+    "prefix": "mdi-skip-previous",
+    "body": "content: '\\\\F4AE';"
+  },
+  "mdi-border-right": {
+    "prefix": "mdi-border-right",
+    "body": "content: '\\\\F0CF';"
+  },
+  "mdi-arrow-bottom-left": {
+    "prefix": "mdi-arrow-bottom-left",
+    "body": "content: '\\\\F042';"
+  },
+  "mdi-pound": {
+    "prefix": "mdi-pound",
+    "body": "content: '\\\\F423';"
+  },
+  "mdi-thumb-up-outline": {
+    "prefix": "mdi-thumb-up-outline",
+    "body": "content: '\\\\F514';"
+  },
+  "mdi-flask": {
+    "prefix": "mdi-flask",
+    "body": "content: '\\\\F093';"
+  },
+  "mdi-flash": {
+    "prefix": "mdi-flash",
+    "body": "content: '\\\\F241';"
+  },
+  "mdi-information": {
+    "prefix": "mdi-information",
+    "body": "content: '\\\\F2FC';"
+  },
+  "mdi-xing-circle": {
+    "prefix": "mdi-xing-circle",
+    "body": "content: '\\\\F5BF';"
+  },
+  "mdi-pause-octagon-outline": {
+    "prefix": "mdi-pause-octagon-outline",
+    "body": "content: '\\\\F3E8';"
+  },
+  "mdi-heart-outline": {
+    "prefix": "mdi-heart-outline",
+    "body": "content: '\\\\F2D5';"
+  },
+  "mdi-flower": {
+    "prefix": "mdi-flower",
+    "body": "content: '\\\\F24A';"
+  },
+  "mdi-attachment": {
+    "prefix": "mdi-attachment",
+    "body": "content: '\\\\F066';"
+  },
+  "mdi-rotate-left": {
+    "prefix": "mdi-rotate-left",
+    "body": "content: '\\\\F465';"
+  },
+  "mdi-keyboard-backspace": {
+    "prefix": "mdi-keyboard-backspace",
+    "body": "content: '\\\\F30D';"
+  },
+  "mdi-maxcdn": {
+    "prefix": "mdi-maxcdn",
+    "body": "content: '\\\\F359';"
+  },
+  "mdi-numeric-4-box-multiple-outline": {
+    "prefix": "mdi-numeric-4-box-multiple-outline",
+    "body": "content: '\\\\F3AE';"
+  },
+  "mdi-internet-explorer": {
+    "prefix": "mdi-internet-explorer",
+    "body": "content: '\\\\F300';"
+  },
+  "mdi-newspaper": {
+    "prefix": "mdi-newspaper",
+    "body": "content: '\\\\F395';"
+  },
+  "mdi-format-size": {
+    "prefix": "mdi-format-size",
+    "body": "content: '\\\\F27F';"
+  },
+  "mdi-microphone-variant": {
+    "prefix": "mdi-microphone-variant",
+    "body": "content: '\\\\F370';"
+  },
+  "mdi-division": {
+    "prefix": "mdi-division",
+    "body": "content: '\\\\F1D4';"
+  },
+  "mdi-window-open": {
+    "prefix": "mdi-window-open",
+    "body": "content: '\\\\F5B1';"
+  },
+  "mdi-xing": {
+    "prefix": "mdi-xing",
+    "body": "content: '\\\\F5BD';"
+  },
+  "mdi-lan-disconnect": {
+    "prefix": "mdi-lan-disconnect",
+    "body": "content: '\\\\F319';"
+  },
+  "mdi-numeric-5-box-outline": {
+    "prefix": "mdi-numeric-5-box-outline",
+    "body": "content: '\\\\F3B2';"
+  },
+  "mdi-paw-off": {
+    "prefix": "mdi-paw-off",
+    "body": "content: '\\\\F657';"
+  },
+  "mdi-battery-80": {
+    "prefix": "mdi-battery-80",
+    "body": "content: '\\\\F081';"
+  },
+  "mdi-teamviewer": {
+    "prefix": "mdi-teamviewer",
+    "body": "content: '\\\\F500';"
+  },
+  "mdi-mixcloud": {
+    "prefix": "mdi-mixcloud",
+    "body": "content: '\\\\F62A';"
+  },
+  "mdi-power": {
+    "prefix": "mdi-power",
+    "body": "content: '\\\\F425';"
+  },
+  "mdi-checkbox-blank-outline": {
+    "prefix": "mdi-checkbox-blank-outline",
+    "body": "content: '\\\\F131';"
+  },
+  "mdi-undo": {
+    "prefix": "mdi-undo",
+    "body": "content: '\\\\F54C';"
+  },
+  "mdi-shredder": {
+    "prefix": "mdi-shredder",
+    "body": "content: '\\\\F49C';"
+  },
+  "mdi-quality-high": {
+    "prefix": "mdi-quality-high",
+    "body": "content: '\\\\F435';"
+  },
+  "mdi-panorama-horizontal": {
+    "prefix": "mdi-panorama-horizontal",
+    "body": "content: '\\\\F3DE';"
+  },
+  "mdi-thermometer": {
+    "prefix": "mdi-thermometer",
+    "body": "content: '\\\\F50F';"
+  },
+  "mdi-account-off": {
+    "prefix": "mdi-account-off",
+    "body": "content: '\\\\F012';"
+  },
+  "mdi-sort-descending": {
+    "prefix": "mdi-sort-descending",
+    "body": "content: '\\\\F4BD';"
+  },
+  "mdi-led-variant-on": {
+    "prefix": "mdi-led-variant-on",
+    "body": "content: '\\\\F32F';"
+  },
+  "mdi-apple-mobileme": {
+    "prefix": "mdi-apple-mobileme",
+    "body": "content: '\\\\F038';"
+  },
+  "mdi-tooltip-outline": {
+    "prefix": "mdi-tooltip-outline",
+    "body": "content: '\\\\F526';"
+  },
+  "mdi-scale-bathroom": {
+    "prefix": "mdi-scale-bathroom",
+    "body": "content: '\\\\F473';"
+  },
+  "mdi-ticket-confirmation": {
+    "prefix": "mdi-ticket-confirmation",
+    "body": "content: '\\\\F518';"
+  },
+  "mdi-content-cut": {
+    "prefix": "mdi-content-cut",
+    "body": "content: '\\\\F190';"
+  },
+  "mdi-vibrate": {
+    "prefix": "mdi-vibrate",
+    "body": "content: '\\\\F566';"
+  },
+  "mdi-apple-keyboard-caps": {
+    "prefix": "mdi-apple-keyboard-caps",
+    "body": "content: '\\\\F632';"
+  },
+  "mdi-numeric-9-box": {
+    "prefix": "mdi-numeric-9-box",
+    "body": "content: '\\\\F3BC';"
+  },
+  "mdi-account-settings-variant": {
+    "prefix": "mdi-account-settings-variant",
+    "body": "content: '\\\\F631';"
+  },
+  "mdi-radioactive": {
+    "prefix": "mdi-radioactive",
+    "body": "content: '\\\\F43C';"
+  },
+  "mdi-format-textdirection-r-to-l": {
+    "prefix": "mdi-format-textdirection-r-to-l",
+    "body": "content: '\\\\F286';"
+  },
+  "mdi-folder": {
+    "prefix": "mdi-folder",
+    "body": "content: '\\\\F24B';"
+  },
+  "mdi-vector-circle-variant": {
+    "prefix": "mdi-vector-circle-variant",
+    "body": "content: '\\\\F557';"
+  },
+  "mdi-comment-text-outline": {
+    "prefix": "mdi-comment-text-outline",
+    "body": "content: '\\\\F189';"
+  },
+  "mdi-numeric-5-box": {
+    "prefix": "mdi-numeric-5-box",
+    "body": "content: '\\\\F3B0';"
+  },
+  "mdi-human-handsup": {
+    "prefix": "mdi-human-handsup",
+    "body": "content: '\\\\F64C';"
+  },
+  "mdi-fullscreen-exit": {
+    "prefix": "mdi-fullscreen-exit",
+    "body": "content: '\\\\F294';"
+  },
+  "mdi-dictionary": {
+    "prefix": "mdi-dictionary",
+    "body": "content: '\\\\F61D';"
+  },
+  "mdi-vector-triangle": {
+    "prefix": "mdi-vector-triangle",
+    "body": "content: '\\\\F563';"
+  },
+  "mdi-drupal": {
+    "prefix": "mdi-drupal",
+    "body": "content: '\\\\F1E4';"
+  },
+  "mdi-numeric-6-box": {
+    "prefix": "mdi-numeric-6-box",
+    "body": "content: '\\\\F3B3';"
+  },
+  "mdi-file-xml": {
+    "prefix": "mdi-file-xml",
+    "body": "content: '\\\\F22E';"
+  },
+  "mdi-checkerboard": {
+    "prefix": "mdi-checkerboard",
+    "body": "content: '\\\\F13A';"
+  },
+  "mdi-puzzle": {
+    "prefix": "mdi-puzzle",
+    "body": "content: '\\\\F431';"
+  },
+  "mdi-format-header-decrease": {
+    "prefix": "mdi-format-header-decrease",
+    "body": "content: '\\\\F271';"
+  },
+  "mdi-calculator": {
+    "prefix": "mdi-calculator",
+    "body": "content: '\\\\F0EC';"
+  },
+  "mdi-transcribe-close": {
+    "prefix": "mdi-transcribe-close",
+    "body": "content: '\\\\F52F';"
+  },
+  "mdi-alarm-check": {
+    "prefix": "mdi-alarm-check",
+    "body": "content: '\\\\F021';"
+  },
+  "mdi-trello": {
+    "prefix": "mdi-trello",
+    "body": "content: '\\\\F532';"
+  },
+  "mdi-account-plus": {
+    "prefix": "mdi-account-plus",
+    "body": "content: '\\\\F014';"
+  },
+  "mdi-file-word-box": {
+    "prefix": "mdi-file-word-box",
+    "body": "content: '\\\\F22D';"
+  },
+  "mdi-television-guide": {
+    "prefix": "mdi-television-guide",
+    "body": "content: '\\\\F503';"
+  },
+  "mdi-collage": {
+    "prefix": "mdi-collage",
+    "body": "content: '\\\\F640';"
+  },
+  "mdi-border-vertical": {
+    "prefix": "mdi-border-vertical",
+    "body": "content: '\\\\F0D2';"
+  },
+  "mdi-menu-down": {
+    "prefix": "mdi-menu-down",
+    "body": "content: '\\\\F35D';"
+  },
+  "mdi-near-me": {
+    "prefix": "mdi-near-me",
+    "body": "content: '\\\\F5CD';"
+  },
+  "mdi-folder-multiple": {
+    "prefix": "mdi-folder-multiple",
+    "body": "content: '\\\\F253';"
+  },
+  "mdi-format-horizontal-align-left": {
+    "prefix": "mdi-format-horizontal-align-left",
+    "body": "content: '\\\\F61F';"
+  },
+  "mdi-looks": {
+    "prefix": "mdi-looks",
+    "body": "content: '\\\\F344';"
+  },
+  "mdi-move-resize": {
+    "prefix": "mdi-move-resize",
+    "body": "content: '\\\\F655';"
+  },
+  "mdi-keyboard-tab": {
+    "prefix": "mdi-keyboard-tab",
+    "body": "content: '\\\\F312';"
+  },
+  "mdi-deskphone": {
+    "prefix": "mdi-deskphone",
+    "body": "content: '\\\\F1C3';"
+  },
+  "mdi-message-outline": {
+    "prefix": "mdi-message-outline",
+    "body": "content: '\\\\F365';"
+  },
+  "mdi-translate": {
+    "prefix": "mdi-translate",
+    "body": "content: '\\\\F5CA';"
+  },
+  "mdi-emoticon-neutral": {
+    "prefix": "mdi-emoticon-neutral",
+    "body": "content: '\\\\F1F6';"
+  },
+  "mdi-format-wrap-tight": {
+    "prefix": "mdi-format-wrap-tight",
+    "body": "content: '\\\\F28A';"
+  },
+  "mdi-play-protected-content": {
+    "prefix": "mdi-play-protected-content",
+    "body": "content: '\\\\F40F';"
+  },
+  "mdi-battery-60": {
+    "prefix": "mdi-battery-60",
+    "body": "content: '\\\\F07F';"
+  },
+  "mdi-autorenew": {
+    "prefix": "mdi-autorenew",
+    "body": "content: '\\\\F06A';"
+  },
+  "mdi-deviantart": {
+    "prefix": "mdi-deviantart",
+    "body": "content: '\\\\F1C7';"
+  },
+  "mdi-floppy": {
+    "prefix": "mdi-floppy",
+    "body": "content: '\\\\F249';"
+  },
+  "mdi-bell": {
+    "prefix": "mdi-bell",
+    "body": "content: '\\\\F09A';"
+  },
+  "mdi-border-left": {
+    "prefix": "mdi-border-left",
+    "body": "content: '\\\\F0CC';"
+  },
+  "mdi-vector-line": {
+    "prefix": "mdi-vector-line",
+    "body": "content: '\\\\F55E';"
+  },
+  "mdi-volume-off": {
+    "prefix": "mdi-volume-off",
+    "body": "content: '\\\\F581';"
+  },
+  "mdi-rss": {
+    "prefix": "mdi-rss",
+    "body": "content: '\\\\F46B';"
+  },
+  "mdi-checkbox-marked-outline": {
+    "prefix": "mdi-checkbox-marked-outline",
+    "body": "content: '\\\\F135';"
+  },
+  "mdi-exit-to-app": {
+    "prefix": "mdi-exit-to-app",
+    "body": "content: '\\\\F206';"
+  },
+  "mdi-numeric-1-box": {
+    "prefix": "mdi-numeric-1-box",
+    "body": "content: '\\\\F3A4';"
+  },
+  "mdi-numeric-2-box": {
+    "prefix": "mdi-numeric-2-box",
+    "body": "content: '\\\\F3A7';"
+  },
+  "mdi-fridge-filled-top": {
+    "prefix": "mdi-fridge-filled-top",
+    "body": "content: '\\\\F292';"
+  },
+  "mdi-headphones-box": {
+    "prefix": "mdi-headphones-box",
+    "body": "content: '\\\\F2CC';"
+  },
+  "mdi-radio": {
+    "prefix": "mdi-radio",
+    "body": "content: '\\\\F439';"
+  },
+  "mdi-shape-square-plus": {
+    "prefix": "mdi-shape-square-plus",
+    "body": "content: '\\\\F660';"
+  },
+  "mdi-pool": {
+    "prefix": "mdi-pool",
+    "body": "content: '\\\\F606';"
+  },
+  "mdi-food": {
+    "prefix": "mdi-food",
+    "body": "content: '\\\\F25A';"
+  },
+  "mdi-glasses": {
+    "prefix": "mdi-glasses",
+    "body": "content: '\\\\F2AA';"
+  },
+  "mdi-open-in-new": {
+    "prefix": "mdi-open-in-new",
+    "body": "content: '\\\\F3CC';"
+  },
+  "mdi-laptop-chromebook": {
+    "prefix": "mdi-laptop-chromebook",
+    "body": "content: '\\\\F323';"
+  },
+  "mdi-white-balance-auto": {
+    "prefix": "mdi-white-balance-auto",
+    "body": "content: '\\\\F5A5';"
+  },
+  "mdi-apple-finder": {
+    "prefix": "mdi-apple-finder",
+    "body": "content: '\\\\F036';"
+  },
+  "mdi-gender-female": {
+    "prefix": "mdi-gender-female",
+    "body": "content: '\\\\F29C';"
+  },
+  "mdi-format-header-pound": {
+    "prefix": "mdi-format-header-pound",
+    "body": "content: '\\\\F274';"
+  },
+  "mdi-mail-ru": {
+    "prefix": "mdi-mail-ru",
+    "body": "content: '\\\\F34C';"
+  },
+  "mdi-spotlight-beam": {
+    "prefix": "mdi-spotlight-beam",
+    "body": "content: '\\\\F4C9';"
+  },
+  "mdi-battery-10": {
+    "prefix": "mdi-battery-10",
+    "body": "content: '\\\\F07A';"
+  },
+  "mdi-arrow-left-drop-circle-outline": {
+    "prefix": "mdi-arrow-left-drop-circle-outline",
+    "body": "content: '\\\\F053';"
+  },
+  "mdi-snowman": {
+    "prefix": "mdi-snowman",
+    "body": "content: '\\\\F4B7';"
+  },
+  "mdi-barley": {
+    "prefix": "mdi-barley",
+    "body": "content: '\\\\F073';"
+  },
+  "mdi-printer": {
+    "prefix": "mdi-printer",
+    "body": "content: '\\\\F42A';"
+  },
+  "mdi-smoking": {
+    "prefix": "mdi-smoking",
+    "body": "content: '\\\\F4B4';"
+  },
+  "mdi-pizza": {
+    "prefix": "mdi-pizza",
+    "body": "content: '\\\\F409';"
+  },
+  "mdi-google-nearby": {
+    "prefix": "mdi-google-nearby",
+    "body": "content: '\\\\F2B9';"
+  },
+  "mdi-flash-auto": {
+    "prefix": "mdi-flash-auto",
+    "body": "content: '\\\\F242';"
+  },
+  "mdi-ambulance": {
+    "prefix": "mdi-ambulance",
+    "body": "content: '\\\\F02F';"
+  },
+  "mdi-crosshairs-gps": {
+    "prefix": "mdi-crosshairs-gps",
+    "body": "content: '\\\\F1A4';"
+  },
+  "mdi-source-merge": {
+    "prefix": "mdi-source-merge",
+    "body": "content: '\\\\F62D';"
+  },
+  "mdi-brightness-1": {
+    "prefix": "mdi-brightness-1",
+    "body": "content: '\\\\F0DA';"
+  },
+  "mdi-camcorder-box": {
+    "prefix": "mdi-camcorder-box",
+    "body": "content: '\\\\F0FD';"
+  },
+  "mdi-android-studio": {
+    "prefix": "mdi-android-studio",
+    "body": "content: '\\\\F034';"
+  },
+  "mdi-code-array": {
+    "prefix": "mdi-code-array",
+    "body": "content: '\\\\F168';"
+  },
+  "mdi-eraser": {
+    "prefix": "mdi-eraser",
+    "body": "content: '\\\\F1FE';"
+  },
+  "mdi-phone-paused": {
+    "prefix": "mdi-phone-paused",
+    "body": "content: '\\\\F3FC';"
+  },
+  "mdi-format-wrap-inline": {
+    "prefix": "mdi-format-wrap-inline",
+    "body": "content: '\\\\F288';"
+  },
+  "mdi-delta": {
+    "prefix": "mdi-delta",
+    "body": "content: '\\\\F1C2';"
+  },
+  "mdi-arrow-bottom-right": {
+    "prefix": "mdi-arrow-bottom-right",
+    "body": "content: '\\\\F043';"
+  },
+  "mdi-swim": {
+    "prefix": "mdi-swim",
+    "body": "content: '\\\\F4E3';"
+  },
+  "mdi-email": {
+    "prefix": "mdi-email",
+    "body": "content: '\\\\F1EE';"
+  },
+  "mdi-cards-outline": {
+    "prefix": "mdi-cards-outline",
+    "body": "content: '\\\\F639';"
+  },
+  "mdi-omega": {
+    "prefix": "mdi-omega",
+    "body": "content: '\\\\F3C9';"
+  },
+  "mdi-disqus-outline": {
+    "prefix": "mdi-disqus-outline",
+    "body": "content: '\\\\F1D3';"
+  },
+  "mdi-amazon": {
+    "prefix": "mdi-amazon",
+    "body": "content: '\\\\F02D';"
+  },
+  "mdi-tooltip-text": {
+    "prefix": "mdi-tooltip-text",
+    "body": "content: '\\\\F528';"
+  },
+  "mdi-dice-5": {
+    "prefix": "mdi-dice-5",
+    "body": "content: '\\\\F1CE';"
+  },
+  "mdi-multiplication-box": {
+    "prefix": "mdi-multiplication-box",
+    "body": "content: '\\\\F383';"
+  },
+  "mdi-airplane-takeoff": {
+    "prefix": "mdi-airplane-takeoff",
+    "body": "content: '\\\\F5D5';"
+  },
+  "mdi-panorama-vertical": {
+    "prefix": "mdi-panorama-vertical",
+    "body": "content: '\\\\F3DF';"
+  },
+  "mdi-pause": {
+    "prefix": "mdi-pause",
+    "body": "content: '\\\\F3E4';"
+  },
+  "mdi-send": {
+    "prefix": "mdi-send",
+    "body": "content: '\\\\F48A';"
+  },
+  "mdi-battery-charging": {
+    "prefix": "mdi-battery-charging",
+    "body": "content: '\\\\F084';"
+  },
+  "mdi-nest-thermostat": {
+    "prefix": "mdi-nest-thermostat",
+    "body": "content: '\\\\F393';"
+  },
+  "mdi-gamepad": {
+    "prefix": "mdi-gamepad",
+    "body": "content: '\\\\F296';"
+  },
+  "mdi-pi": {
+    "prefix": "mdi-pi",
+    "body": "content: '\\\\F3FF';"
+  },
+  "mdi-phone-plus": {
+    "prefix": "mdi-phone-plus",
+    "body": "content: '\\\\F659';"
+  },
+  "mdi-pencil-lock": {
+    "prefix": "mdi-pencil-lock",
+    "body": "content: '\\\\F3EE';"
+  },
+  "mdi-martini": {
+    "prefix": "mdi-martini",
+    "body": "content: '\\\\F356';"
+  },
+  "mdi-format-italic": {
+    "prefix": "mdi-format-italic",
+    "body": "content: '\\\\F277';"
+  },
+  "mdi-binoculars": {
+    "prefix": "mdi-binoculars",
+    "body": "content: '\\\\F0A5';"
+  },
+  "mdi-altimeter": {
+    "prefix": "mdi-altimeter",
+    "body": "content: '\\\\F5D7';"
+  },
+  "mdi-seat-recline-normal": {
+    "prefix": "mdi-seat-recline-normal",
+    "body": "content: '\\\\F482';"
+  },
+  "mdi-comment-question-outline": {
+    "prefix": "mdi-comment-question-outline",
+    "body": "content: '\\\\F186';"
+  },
+  "mdi-close-circle": {
+    "prefix": "mdi-close-circle",
+    "body": "content: '\\\\F159';"
+  },
+  "mdi-music-note-off": {
+    "prefix": "mdi-music-note-off",
+    "body": "content: '\\\\F38A';"
+  },
+  "mdi-book-plus": {
+    "prefix": "mdi-book-plus",
+    "body": "content: '\\\\F5DB';"
+  },
+  "mdi-coffee": {
+    "prefix": "mdi-coffee",
+    "body": "content: '\\\\F176';"
+  },
+  "mdi-folder-plus": {
+    "prefix": "mdi-folder-plus",
+    "body": "content: '\\\\F257';"
+  },
+  "mdi-server-security": {
+    "prefix": "mdi-server-security",
+    "body": "content: '\\\\F492';"
+  },
+  "mdi-video": {
+    "prefix": "mdi-video",
+    "body": "content: '\\\\F567';"
+  },
+  "mdi-checkbox-multiple-blank-circle-outline": {
+    "prefix": "mdi-checkbox-multiple-blank-circle-outline",
+    "body": "content: '\\\\F63C';"
+  },
+  "mdi-view-list": {
+    "prefix": "mdi-view-list",
+    "body": "content: '\\\\F572';"
+  },
+  "mdi-crop": {
+    "prefix": "mdi-crop",
+    "body": "content: '\\\\F19E';"
+  },
+  "mdi-heart-box-outline": {
+    "prefix": "mdi-heart-box-outline",
+    "body": "content: '\\\\F2D3';"
+  },
+  "mdi-star-half": {
+    "prefix": "mdi-star-half",
+    "body": "content: '\\\\F4D0';"
+  },
+  "mdi-steering": {
+    "prefix": "mdi-steering",
+    "body": "content: '\\\\F4D4';"
+  },
+  "mdi-hotel": {
+    "prefix": "mdi-hotel",
+    "body": "content: '\\\\F2E3';"
+  },
+  "mdi-arrow-up-bold-hexagon-outline": {
+    "prefix": "mdi-arrow-up-bold-hexagon-outline",
+    "body": "content: '\\\\F061';"
+  },
+  "mdi-nfc": {
+    "prefix": "mdi-nfc",
+    "body": "content: '\\\\F396';"
+  },
+  "mdi-watermark": {
+    "prefix": "mdi-watermark",
+    "body": "content: '\\\\F612';"
+  },
+  "mdi-currency-btc": {
+    "prefix": "mdi-currency-btc",
+    "body": "content: '\\\\F1AC';"
+  },
+  "mdi-step-backward": {
+    "prefix": "mdi-step-backward",
+    "body": "content: '\\\\F4D5';"
+  },
+  "mdi-quicktime": {
+    "prefix": "mdi-quicktime",
+    "body": "content: '\\\\F436';"
+  },
+  "mdi-incognito": {
+    "prefix": "mdi-incognito",
+    "body": "content: '\\\\F5F9';"
+  },
+  "mdi-baby": {
+    "prefix": "mdi-baby",
+    "body": "content: '\\\\F06C';"
+  },
+  "mdi-printer-3d": {
+    "prefix": "mdi-printer-3d",
+    "body": "content: '\\\\F42B';"
+  },
+  "mdi-message-reply-text": {
+    "prefix": "mdi-message-reply-text",
+    "body": "content: '\\\\F368';"
+  },
+  "mdi-bookmark-plus-outline": {
+    "prefix": "mdi-bookmark-plus-outline",
+    "body": "content: '\\\\F0C4';"
+  },
+  "mdi-lock-open-outline": {
+    "prefix": "mdi-lock-open-outline",
+    "body": "content: '\\\\F340';"
+  },
+  "mdi-desktop-mac": {
+    "prefix": "mdi-desktop-mac",
+    "body": "content: '\\\\F1C4';"
+  },
+  "mdi-battery": {
+    "prefix": "mdi-battery",
+    "body": "content: '\\\\F079';"
+  },
+  "mdi-code-not-equal-variant": {
+    "prefix": "mdi-code-not-equal-variant",
+    "body": "content: '\\\\F171';"
+  },
+  "mdi-watch": {
+    "prefix": "mdi-watch",
+    "body": "content: '\\\\F589';"
+  },
+  "mdi-cube": {
+    "prefix": "mdi-cube",
+    "body": "content: '\\\\F1A6';"
+  },
+  "mdi-percent": {
+    "prefix": "mdi-percent",
+    "body": "content: '\\\\F3F0';"
+  },
+  "mdi-flag-outline": {
+    "prefix": "mdi-flag-outline",
+    "body": "content: '\\\\F23D';"
+  },
+  "mdi-qrcode": {
+    "prefix": "mdi-qrcode",
+    "body": "content: '\\\\F432';"
+  },
+  "mdi-reddit": {
+    "prefix": "mdi-reddit",
+    "body": "content: '\\\\F44D';"
+  },
+  "mdi-pencil": {
+    "prefix": "mdi-pencil",
+    "body": "content: '\\\\F3EB';"
+  },
+  "mdi-compass": {
+    "prefix": "mdi-compass",
+    "body": "content: '\\\\F18B';"
+  },
+  "mdi-server-off": {
+    "prefix": "mdi-server-off",
+    "body": "content: '\\\\F48F';"
+  },
+  "mdi-format-indent-increase": {
+    "prefix": "mdi-format-indent-increase",
+    "body": "content: '\\\\F276';"
+  },
+  "mdi-poll-box": {
+    "prefix": "mdi-poll-box",
+    "body": "content: '\\\\F420';"
+  },
+  "mdi-application": {
+    "prefix": "mdi-application",
+    "body": "content: '\\\\F614';"
+  },
+  "mdi-umbrella": {
+    "prefix": "mdi-umbrella",
+    "body": "content: '\\\\F54A';"
+  },
+  "mdi-chip": {
+    "prefix": "mdi-chip",
+    "body": "content: '\\\\F61A';"
+  },
+  "mdi-image-multiple": {
+    "prefix": "mdi-image-multiple",
+    "body": "content: '\\\\F2F9';"
+  },
+  "mdi-speaker-off": {
+    "prefix": "mdi-speaker-off",
+    "body": "content: '\\\\F4C4';"
+  },
+  "mdi-image-filter-tilt-shift": {
+    "prefix": "mdi-image-filter-tilt-shift",
+    "body": "content: '\\\\F2F7';"
+  },
+  "mdi-shape-plus": {
+    "prefix": "mdi-shape-plus",
+    "body": "content: '\\\\F495';"
+  },
+  "mdi-tor": {
+    "prefix": "mdi-tor",
+    "body": "content: '\\\\F52A';"
+  },
+  "mdi-lock-plus": {
+    "prefix": "mdi-lock-plus",
+    "body": "content: '\\\\F5FB';"
+  },
+  "mdi-wunderlist": {
+    "prefix": "mdi-wunderlist",
+    "body": "content: '\\\\F5B8';"
+  },
+  "mdi-map": {
+    "prefix": "mdi-map",
+    "body": "content: '\\\\F34D';"
+  },
+  "mdi-group": {
+    "prefix": "mdi-group",
+    "body": "content: '\\\\F2C3';"
+  },
+  "mdi-marker-check": {
+    "prefix": "mdi-marker-check",
+    "body": "content: '\\\\F355';"
+  },
+  "mdi-format-color-fill": {
+    "prefix": "mdi-format-color-fill",
+    "body": "content: '\\\\F266';"
+  },
+  "mdi-battery-alert": {
+    "prefix": "mdi-battery-alert",
+    "body": "content: '\\\\F083';"
+  },
+  "mdi-medium": {
+    "prefix": "mdi-medium",
+    "body": "content: '\\\\F35A';"
+  },
+  "mdi-border-style": {
+    "prefix": "mdi-border-style",
+    "body": "content: '\\\\F0D0';"
+  },
+  "mdi-ethernet-cable": {
+    "prefix": "mdi-ethernet-cable",
+    "body": "content: '\\\\F201';"
+  },
+  "mdi-barrel": {
+    "prefix": "mdi-barrel",
+    "body": "content: '\\\\F074';"
+  },
+  "mdi-email-variant": {
+    "prefix": "mdi-email-variant",
+    "body": "content: '\\\\F5F0';"
+  },
+  "mdi-album": {
+    "prefix": "mdi-album",
+    "body": "content: '\\\\F025';"
+  },
+  "mdi-auto-fix": {
+    "prefix": "mdi-auto-fix",
+    "body": "content: '\\\\F068';"
+  },
+  "mdi-chart-line": {
+    "prefix": "mdi-chart-line",
+    "body": "content: '\\\\F12A';"
+  },
+  "mdi-adjust": {
+    "prefix": "mdi-adjust",
+    "body": "content: '\\\\F01A';"
+  },
+  "mdi-brightness-3": {
+    "prefix": "mdi-brightness-3",
+    "body": "content: '\\\\F0DC';"
+  },
+  "mdi-brightness-2": {
+    "prefix": "mdi-brightness-2",
+    "body": "content: '\\\\F0DB';"
+  },
+  "mdi-brightness-5": {
+    "prefix": "mdi-brightness-5",
+    "body": "content: '\\\\F0DE';"
+  },
+  "mdi-brightness-4": {
+    "prefix": "mdi-brightness-4",
+    "body": "content: '\\\\F0DD';"
+  },
+  "mdi-brightness-7": {
+    "prefix": "mdi-brightness-7",
+    "body": "content: '\\\\F0E0';"
+  },
+  "mdi-brightness-6": {
+    "prefix": "mdi-brightness-6",
+    "body": "content: '\\\\F0DF';"
+  },
+  "mdi-numeric-9-box-multiple-outline": {
+    "prefix": "mdi-numeric-9-box-multiple-outline",
+    "body": "content: '\\\\F3BD';"
+  },
+  "mdi-calendar-clock": {
+    "prefix": "mdi-calendar-clock",
+    "body": "content: '\\\\F0F0';"
+  },
+  "mdi-credit-card-scan": {
+    "prefix": "mdi-credit-card-scan",
+    "body": "content: '\\\\F19D';"
+  },
+  "mdi-keyboard-off": {
+    "prefix": "mdi-keyboard-off",
+    "body": "content: '\\\\F310';"
+  },
+  "mdi-folder-remove": {
+    "prefix": "mdi-folder-remove",
+    "body": "content: '\\\\F258';"
+  },
+  "mdi-cube-outline": {
+    "prefix": "mdi-cube-outline",
+    "body": "content: '\\\\F1A7';"
+  },
+  "mdi-step-forward": {
+    "prefix": "mdi-step-forward",
+    "body": "content: '\\\\F4D7';"
+  },
+  "mdi-web": {
+    "prefix": "mdi-web",
+    "body": "content: '\\\\F59F';"
+  },
+  "mdi-cart": {
+    "prefix": "mdi-cart",
+    "body": "content: '\\\\F110';"
+  },
+  "mdi-run": {
+    "prefix": "mdi-run",
+    "body": "content: '\\\\F46E';"
+  },
+  "mdi-camera-switch": {
+    "prefix": "mdi-camera-switch",
+    "body": "content: '\\\\F108';"
+  },
+  "mdi-format-underline": {
+    "prefix": "mdi-format-underline",
+    "body": "content: '\\\\F287';"
+  },
+  "mdi-calendar": {
+    "prefix": "mdi-calendar",
+    "body": "content: '\\\\F0ED';"
+  },
+  "mdi-skype": {
+    "prefix": "mdi-skype",
+    "body": "content: '\\\\F4AF';"
+  },
+  "mdi-cake": {
+    "prefix": "mdi-cake",
+    "body": "content: '\\\\F0E9';"
+  },
+  "mdi-nodejs": {
+    "prefix": "mdi-nodejs",
+    "body": "content: '\\\\F399';"
+  },
+  "mdi-presentation": {
+    "prefix": "mdi-presentation",
+    "body": "content: '\\\\F428';"
+  },
+  "mdi-screen-rotation-lock": {
+    "prefix": "mdi-screen-rotation-lock",
+    "body": "content: '\\\\F476';"
+  },
+  "mdi-checkbox-blank": {
+    "prefix": "mdi-checkbox-blank",
+    "body": "content: '\\\\F12E';"
+  },
+  "mdi-burst-mode": {
+    "prefix": "mdi-burst-mode",
+    "body": "content: '\\\\F5DE';"
+  },
+  "mdi-view-headline": {
+    "prefix": "mdi-view-headline",
+    "body": "content: '\\\\F571';"
+  },
+  "mdi-airplane-landing": {
+    "prefix": "mdi-airplane-landing",
+    "body": "content: '\\\\F5D4';"
+  },
+  "mdi-chevron-right": {
+    "prefix": "mdi-chevron-right",
+    "body": "content: '\\\\F142';"
+  },
+  "mdi-file-excel-box": {
+    "prefix": "mdi-file-excel-box",
+    "body": "content: '\\\\F21C';"
+  },
+  "mdi-at": {
+    "prefix": "mdi-at",
+    "body": "content: '\\\\F065';"
+  },
+  "mdi-lock-outline": {
+    "prefix": "mdi-lock-outline",
+    "body": "content: '\\\\F341';"
+  },
+  "mdi-clock-fast": {
+    "prefix": "mdi-clock-fast",
+    "body": "content: '\\\\F152';"
+  },
+  "mdi-table-row-height": {
+    "prefix": "mdi-table-row-height",
+    "body": "content: '\\\\F4F2';"
+  },
+  "mdi-vimeo": {
+    "prefix": "mdi-vimeo",
+    "body": "content: '\\\\F577';"
+  },
+  "mdi-content-save-all": {
+    "prefix": "mdi-content-save-all",
+    "body": "content: '\\\\F194';"
+  },
+  "mdi-chart-bubble": {
+    "prefix": "mdi-chart-bubble",
+    "body": "content: '\\\\F5E3';"
+  },
+  "mdi-barcode": {
+    "prefix": "mdi-barcode",
+    "body": "content: '\\\\F071';"
+  },
+  "mdi-format-superscript": {
+    "prefix": "mdi-format-superscript",
+    "body": "content: '\\\\F283';"
+  },
+  "mdi-battery-charging-40": {
+    "prefix": "mdi-battery-charging-40",
+    "body": "content: '\\\\F088';"
+  },
+  "mdi-video-off": {
+    "prefix": "mdi-video-off",
+    "body": "content: '\\\\F568';"
+  },
+  "mdi-radiator": {
+    "prefix": "mdi-radiator",
+    "body": "content: '\\\\F438';"
+  },
+  "mdi-cursor-default": {
+    "prefix": "mdi-cursor-default",
+    "body": "content: '\\\\F1B4';"
+  },
+  "mdi-playlist-play": {
+    "prefix": "mdi-playlist-play",
+    "body": "content: '\\\\F411';"
+  },
+  "mdi-view-module": {
+    "prefix": "mdi-view-module",
+    "body": "content: '\\\\F573';"
+  },
+  "mdi-debug-step-over": {
+    "prefix": "mdi-debug-step-over",
+    "body": "content: '\\\\F1BD';"
+  },
+  "mdi-phone-in-talk": {
+    "prefix": "mdi-phone-in-talk",
+    "body": "content: '\\\\F3F6';"
+  },
+  "mdi-instagram": {
+    "prefix": "mdi-instagram",
+    "body": "content: '\\\\F2FE';"
+  },
+  "mdi-rotate-right": {
+    "prefix": "mdi-rotate-right",
+    "body": "content: '\\\\F467';"
+  },
+  "mdi-weight": {
+    "prefix": "mdi-weight",
+    "body": "content: '\\\\F5A1';"
+  },
+  "mdi-bio": {
+    "prefix": "mdi-bio",
+    "body": "content: '\\\\F0A6';"
+  },
+  "mdi-share": {
+    "prefix": "mdi-share",
+    "body": "content: '\\\\F496';"
+  },
+  "mdi-weather-sunset": {
+    "prefix": "mdi-weather-sunset",
+    "body": "content: '\\\\F59A';"
+  },
+  "mdi-calendar-text": {
+    "prefix": "mdi-calendar-text",
+    "body": "content: '\\\\F0F5';"
+  },
+  "mdi-bookmark-plus": {
+    "prefix": "mdi-bookmark-plus",
+    "body": "content: '\\\\F0C5';"
+  },
+  "mdi-microscope": {
+    "prefix": "mdi-microscope",
+    "body": "content: '\\\\F654';"
+  },
+  "mdi-silverware-spoon": {
+    "prefix": "mdi-silverware-spoon",
+    "body": "content: '\\\\F4A5';"
+  },
+  "mdi-skip-previous-circle-outline": {
+    "prefix": "mdi-skip-previous-circle-outline",
+    "body": "content: '\\\\F664';"
+  },
+  "mdi-pokeball": {
+    "prefix": "mdi-pokeball",
+    "body": "content: '\\\\F41D';"
+  },
+  "mdi-numeric-9-plus-box": {
+    "prefix": "mdi-numeric-9-plus-box",
+    "body": "content: '\\\\F3BF';"
+  },
+  "mdi-currency-inr": {
+    "prefix": "mdi-currency-inr",
+    "body": "content: '\\\\F1AF';"
+  },
+  "mdi-pine-tree-box": {
+    "prefix": "mdi-pine-tree-box",
+    "body": "content: '\\\\F406';"
+  },
+  "mdi-checkbox-multiple-marked-circle": {
+    "prefix": "mdi-checkbox-multiple-marked-circle",
+    "body": "content: '\\\\F63D';"
+  },
+  "mdi-face-profile": {
+    "prefix": "mdi-face-profile",
+    "body": "content: '\\\\F644';"
+  },
+  "mdi-book": {
+    "prefix": "mdi-book",
+    "body": "content: '\\\\F0BA';"
+  },
+  "mdi-play": {
+    "prefix": "mdi-play",
+    "body": "content: '\\\\F40A';"
+  },
+  "mdi-highway": {
+    "prefix": "mdi-highway",
+    "body": "content: '\\\\F5F7';"
+  },
+  "mdi-folder-multiple-outline": {
+    "prefix": "mdi-folder-multiple-outline",
+    "body": "content: '\\\\F255';"
+  },
+  "mdi-border-inside": {
+    "prefix": "mdi-border-inside",
+    "body": "content: '\\\\F0CB';"
+  },
+  "mdi-headset": {
+    "prefix": "mdi-headset",
+    "body": "content: '\\\\F2CE';"
+  },
+  "mdi-thermometer-lines": {
+    "prefix": "mdi-thermometer-lines",
+    "body": "content: '\\\\F510';"
+  },
+  "mdi-key-variant": {
+    "prefix": "mdi-key-variant",
+    "body": "content: '\\\\F30B';"
+  },
+  "mdi-image-filter-vintage": {
+    "prefix": "mdi-image-filter-vintage",
+    "body": "content: '\\\\F2F8';"
+  },
+  "mdi-laptop-windows": {
+    "prefix": "mdi-laptop-windows",
+    "body": "content: '\\\\F325';"
+  },
+  "mdi-arrow-up-drop-circle-outline": {
+    "prefix": "mdi-arrow-up-drop-circle-outline",
+    "body": "content: '\\\\F063';"
+  },
+  "mdi-pine-tree": {
+    "prefix": "mdi-pine-tree",
+    "body": "content: '\\\\F405';"
+  },
+  "mdi-file-document": {
+    "prefix": "mdi-file-document",
+    "body": "content: '\\\\F219';"
+  },
+  "mdi-coffee-to-go": {
+    "prefix": "mdi-coffee-to-go",
+    "body": "content: '\\\\F177';"
+  },
+  "mdi-numeric-9-plus-box-outline": {
+    "prefix": "mdi-numeric-9-plus-box-outline",
+    "body": "content: '\\\\F3C1';"
+  },
+  "mdi-nutrition": {
+    "prefix": "mdi-nutrition",
+    "body": "content: '\\\\F3C2';"
+  },
+  "mdi-equal-box": {
+    "prefix": "mdi-equal-box",
+    "body": "content: '\\\\F1FD';"
+  },
+  "mdi-projector-screen": {
+    "prefix": "mdi-projector-screen",
+    "body": "content: '\\\\F42F';"
+  },
+  "mdi-oil": {
+    "prefix": "mdi-oil",
+    "body": "content: '\\\\F3C7';"
+  },
+  "mdi-credit-card-multiple": {
+    "prefix": "mdi-credit-card-multiple",
+    "body": "content: '\\\\F19C';"
+  },
+  "mdi-android": {
+    "prefix": "mdi-android",
+    "body": "content: '\\\\F032';"
+  },
+  "mdi-visualstudio": {
+    "prefix": "mdi-visualstudio",
+    "body": "content: '\\\\F610';"
+  },
+  "mdi-snapchat": {
+    "prefix": "mdi-snapchat",
+    "body": "content: '\\\\F4B6';"
+  },
+  "mdi-shopping-music": {
+    "prefix": "mdi-shopping-music",
+    "body": "content: '\\\\F49B';"
+  },
+  "mdi-call-missed": {
+    "prefix": "mdi-call-missed",
+    "body": "content: '\\\\F0F9';"
+  },
+  "mdi-lightbulb-outline": {
+    "prefix": "mdi-lightbulb-outline",
+    "body": "content: '\\\\F336';"
+  },
+  "mdi-theater": {
+    "prefix": "mdi-theater",
+    "body": "content: '\\\\F50D';"
+  },
+  "mdi-email-secure": {
+    "prefix": "mdi-email-secure",
+    "body": "content: '\\\\F1F1';"
+  },
+  "mdi-white-balance-iridescent": {
+    "prefix": "mdi-white-balance-iridescent",
+    "body": "content: '\\\\F5A7';"
+  },
+  "mdi-keyboard-variant": {
+    "prefix": "mdi-keyboard-variant",
+    "body": "content: '\\\\F313';"
+  },
+  "mdi-kettle": {
+    "prefix": "mdi-kettle",
+    "body": "content: '\\\\F5FA';"
+  },
+  "mdi-hospital": {
+    "prefix": "mdi-hospital",
+    "body": "content: '\\\\F2E0';"
+  },
+  "mdi-language-python-text": {
+    "prefix": "mdi-language-python-text",
+    "body": "content: '\\\\F321';"
+  },
+  "mdi-flag-checkered": {
+    "prefix": "mdi-flag-checkered",
+    "body": "content: '\\\\F23C';"
+  },
+  "mdi-microphone": {
+    "prefix": "mdi-microphone",
+    "body": "content: '\\\\F36C';"
+  },
+  "mdi-cat": {
+    "prefix": "mdi-cat",
+    "body": "content: '\\\\F11B';"
+  },
+  "mdi-google-circles-communities": {
+    "prefix": "mdi-google-circles-communities",
+    "body": "content: '\\\\F2B1';"
+  },
+  "mdi-call-merge": {
+    "prefix": "mdi-call-merge",
+    "body": "content: '\\\\F0F8';"
+  },
+  "mdi-material-ui": {
+    "prefix": "mdi-material-ui",
+    "body": "content: '\\\\F357';"
+  },
+  "mdi-image-broken": {
+    "prefix": "mdi-image-broken",
+    "body": "content: '\\\\F2ED';"
+  },
+  "mdi-play-pause": {
+    "prefix": "mdi-play-pause",
+    "body": "content: '\\\\F40E';"
+  },
+  "mdi-closed-caption": {
+    "prefix": "mdi-closed-caption",
+    "body": "content: '\\\\F15E';"
+  },
+  "mdi-dns": {
+    "prefix": "mdi-dns",
+    "body": "content: '\\\\F1D6';"
+  },
+  "mdi-human-greeting": {
+    "prefix": "mdi-human-greeting",
+    "body": "content: '\\\\F64A';"
+  },
+  "mdi-power-settings": {
+    "prefix": "mdi-power-settings",
+    "body": "content: '\\\\F426';"
+  },
+  "mdi-dialpad": {
+    "prefix": "mdi-dialpad",
+    "body": "content: '\\\\F61C';"
+  },
+  "mdi-needle": {
+    "prefix": "mdi-needle",
+    "body": "content: '\\\\F391';"
+  },
+  "mdi-plus-one": {
+    "prefix": "mdi-plus-one",
+    "body": "content: '\\\\F41B';"
+  },
+  "mdi-numeric-4-box-outline": {
+    "prefix": "mdi-numeric-4-box-outline",
+    "body": "content: '\\\\F3AF';"
+  },
+  "mdi-office": {
+    "prefix": "mdi-office",
+    "body": "content: '\\\\F3C6';"
+  },
+  "mdi-folder-outline": {
+    "prefix": "mdi-folder-outline",
+    "body": "content: '\\\\F256';"
+  },
+  "mdi-candle": {
+    "prefix": "mdi-candle",
+    "body": "content: '\\\\F5E2';"
+  },
+  "mdi-cash-100": {
+    "prefix": "mdi-cash-100",
+    "body": "content: '\\\\F115';"
+  },
+  "mdi-tag-faces": {
+    "prefix": "mdi-tag-faces",
+    "body": "content: '\\\\F4FA';"
+  },
+  "mdi-alert": {
+    "prefix": "mdi-alert",
+    "body": "content: '\\\\F026';"
+  },
+  "mdi-radiobox-marked": {
+    "prefix": "mdi-radiobox-marked",
+    "body": "content: '\\\\F43E';"
+  },
+  "mdi-chart-areaspline": {
+    "prefix": "mdi-chart-areaspline",
+    "body": "content: '\\\\F127';"
+  },
+  "mdi-label": {
+    "prefix": "mdi-label",
+    "body": "content: '\\\\F315';"
+  },
+  "mdi-eject": {
+    "prefix": "mdi-eject",
+    "body": "content: '\\\\F1EA';"
+  },
+  "mdi-image-area-close": {
+    "prefix": "mdi-image-area-close",
+    "body": "content: '\\\\F2EC';"
+  },
+  "mdi-speaker": {
+    "prefix": "mdi-speaker",
+    "body": "content: '\\\\F4C3';"
+  },
+  "mdi-cookie": {
+    "prefix": "mdi-cookie",
+    "body": "content: '\\\\F198';"
+  },
+  "mdi-human-pregnant": {
+    "prefix": "mdi-human-pregnant",
+    "body": "content: '\\\\F5CF';"
+  },
+  "mdi-forum": {
+    "prefix": "mdi-forum",
+    "body": "content: '\\\\F28C';"
+  },
+  "mdi-text-to-speech": {
+    "prefix": "mdi-text-to-speech",
+    "body": "content: '\\\\F50A';"
+  },
+  "mdi-battery-90": {
+    "prefix": "mdi-battery-90",
+    "body": "content: '\\\\F082';"
+  },
+  "mdi-cloud-circle": {
+    "prefix": "mdi-cloud-circle",
+    "body": "content: '\\\\F161';"
+  },
+  "mdi-auto-upload": {
+    "prefix": "mdi-auto-upload",
+    "body": "content: '\\\\F069';"
+  },
+  "mdi-check-all": {
+    "prefix": "mdi-check-all",
+    "body": "content: '\\\\F12D';"
+  },
+  "mdi-tooltip-edit": {
+    "prefix": "mdi-tooltip-edit",
+    "body": "content: '\\\\F524';"
+  },
+  "mdi-stocking": {
+    "prefix": "mdi-stocking",
+    "body": "content: '\\\\F4DA';"
+  },
+  "mdi-xbox": {
+    "prefix": "mdi-xbox",
+    "body": "content: '\\\\F5B9';"
+  },
+  "mdi-playlist-plus": {
+    "prefix": "mdi-playlist-plus",
+    "body": "content: '\\\\F412';"
+  },
+  "mdi-open-in-app": {
+    "prefix": "mdi-open-in-app",
+    "body": "content: '\\\\F3CB';"
+  },
+  "mdi-pocket": {
+    "prefix": "mdi-pocket",
+    "body": "content: '\\\\F41C';"
+  },
+  "mdi-account-multiple-minus": {
+    "prefix": "mdi-account-multiple-minus",
+    "body": "content: '\\\\F5D3';"
+  },
+  "mdi-format-paint": {
+    "prefix": "mdi-format-paint",
+    "body": "content: '\\\\F27C';"
+  },
+  "mdi-call-received": {
+    "prefix": "mdi-call-received",
+    "body": "content: '\\\\F0FA';"
+  },
+  "mdi-spray": {
+    "prefix": "mdi-spray",
+    "body": "content: '\\\\F665';"
+  },
+  "mdi-paper-cut-vertical": {
+    "prefix": "mdi-paper-cut-vertical",
+    "body": "content: '\\\\F3E1';"
+  },
+  "mdi-rotate-right-variant": {
+    "prefix": "mdi-rotate-right-variant",
+    "body": "content: '\\\\F468';"
+  },
+  "mdi-battery-negative": {
+    "prefix": "mdi-battery-negative",
+    "body": "content: '\\\\F08D';"
+  },
+  "mdi-onedrive": {
+    "prefix": "mdi-onedrive",
+    "body": "content: '\\\\F3CA';"
+  },
+  "mdi-delete-variant": {
+    "prefix": "mdi-delete-variant",
+    "body": "content: '\\\\F1C1';"
+  },
+  "mdi-table-column-width": {
+    "prefix": "mdi-table-column-width",
+    "body": "content: '\\\\F4EF';"
+  },
+  "mdi-rocket": {
+    "prefix": "mdi-rocket",
+    "body": "content: '\\\\F463';"
+  },
+  "mdi-note-text": {
+    "prefix": "mdi-note-text",
+    "body": "content: '\\\\F39E';"
+  },
+  "mdi-format-header-3": {
+    "prefix": "mdi-format-header-3",
+    "body": "content: '\\\\F26D';"
+  },
+  "mdi-wallet-membership": {
+    "prefix": "mdi-wallet-membership",
+    "body": "content: '\\\\F586';"
+  },
+  "mdi-format-align-center": {
+    "prefix": "mdi-format-align-center",
+    "body": "content: '\\\\F260';"
+  },
+  "mdi-book-variant": {
+    "prefix": "mdi-book-variant",
+    "body": "content: '\\\\F0BF';"
+  },
+  "mdi-camera-enhance": {
+    "prefix": "mdi-camera-enhance",
+    "body": "content: '\\\\F101';"
+  },
+  "mdi-file-powerpoint-box": {
+    "prefix": "mdi-file-powerpoint-box",
+    "body": "content: '\\\\F228';"
+  },
+  "mdi-library-plus": {
+    "prefix": "mdi-library-plus",
+    "body": "content: '\\\\F334';"
+  },
+  "mdi-server-remove": {
+    "prefix": "mdi-server-remove",
+    "body": "content: '\\\\F491';"
+  },
+  "mdi-format-header-5": {
+    "prefix": "mdi-format-header-5",
+    "body": "content: '\\\\F26F';"
+  },
+  "mdi-thumb-down": {
+    "prefix": "mdi-thumb-down",
+    "body": "content: '\\\\F511';"
+  },
+  "mdi-case-sensitive-alt": {
+    "prefix": "mdi-case-sensitive-alt",
+    "body": "content: '\\\\F113';"
+  },
+  "mdi-battery-positive": {
+    "prefix": "mdi-battery-positive",
+    "body": "content: '\\\\F090';"
+  },
+  "mdi-filter": {
+    "prefix": "mdi-filter",
+    "body": "content: '\\\\F232';"
+  },
+  "mdi-blogger": {
+    "prefix": "mdi-blogger",
+    "body": "content: '\\\\F0AE';"
+  },
+  "mdi-tab-unselected": {
+    "prefix": "mdi-tab-unselected",
+    "body": "content: '\\\\F4EA';"
+  },
+  "mdi-cursor-text": {
+    "prefix": "mdi-cursor-text",
+    "body": "content: '\\\\F5E7';"
+  },
+  "mdi-wifi": {
+    "prefix": "mdi-wifi",
+    "body": "content: '\\\\F5A9';"
+  },
+  "mdi-houzz": {
+    "prefix": "mdi-houzz",
+    "body": "content: '\\\\F2E4';"
+  },
+  "mdi-bug": {
+    "prefix": "mdi-bug",
+    "body": "content: '\\\\F0E4';"
+  },
+  "mdi-content-save": {
+    "prefix": "mdi-content-save",
+    "body": "content: '\\\\F193';"
+  },
+  "mdi-stop-circle": {
+    "prefix": "mdi-stop-circle",
+    "body": "content: '\\\\F666';"
+  },
+  "mdi-amazon-clouddrive": {
+    "prefix": "mdi-amazon-clouddrive",
+    "body": "content: '\\\\F02E';"
+  },
+  "mdi-cloud": {
+    "prefix": "mdi-cloud",
+    "body": "content: '\\\\F15F';"
+  },
+  "mdi-bus": {
+    "prefix": "mdi-bus",
+    "body": "content: '\\\\F0E7';"
+  },
+  "mdi-battery-charging-80": {
+    "prefix": "mdi-battery-charging-80",
+    "body": "content: '\\\\F08A';"
+  },
+  "mdi-calendar-blank": {
+    "prefix": "mdi-calendar-blank",
+    "body": "content: '\\\\F0EE';"
+  },
+  "mdi-silverware": {
+    "prefix": "mdi-silverware",
+    "body": "content: '\\\\F4A3';"
+  },
+  "mdi-numeric-1-box-multiple-outline": {
+    "prefix": "mdi-numeric-1-box-multiple-outline",
+    "body": "content: '\\\\F3A5';"
+  },
+  "mdi-polaroid": {
+    "prefix": "mdi-polaroid",
+    "body": "content: '\\\\F41E';"
+  },
+  "mdi-backup-restore": {
+    "prefix": "mdi-backup-restore",
+    "body": "content: '\\\\F06F';"
+  },
+  "mdi-border-color": {
+    "prefix": "mdi-border-color",
+    "body": "content: '\\\\F0C9';"
+  },
+  "mdi-briefcase-download": {
+    "prefix": "mdi-briefcase-download",
+    "body": "content: '\\\\F0D8';"
+  },
+  "mdi-fish": {
+    "prefix": "mdi-fish",
+    "body": "content: '\\\\F23A';"
+  },
+  "mdi-account-check": {
+    "prefix": "mdi-account-check",
+    "body": "content: '\\\\F008';"
+  },
+  "mdi-pause-circle": {
+    "prefix": "mdi-pause-circle",
+    "body": "content: '\\\\F3E5';"
+  },
+  "mdi-led-variant-outline": {
+    "prefix": "mdi-led-variant-outline",
+    "body": "content: '\\\\F330';"
+  },
+  "mdi-format-list-bulleted": {
+    "prefix": "mdi-format-list-bulleted",
+    "body": "content: '\\\\F279';"
+  },
+  "mdi-stop-circle-outline": {
+    "prefix": "mdi-stop-circle-outline",
+    "body": "content: '\\\\F667';"
+  },
+  "mdi-magnet-on": {
+    "prefix": "mdi-magnet-on",
+    "body": "content: '\\\\F348';"
+  },
+  "mdi-server-network": {
+    "prefix": "mdi-server-network",
+    "body": "content: '\\\\F48D';"
+  },
+  "mdi-spotify": {
+    "prefix": "mdi-spotify",
+    "body": "content: '\\\\F4C7';"
+  },
+  "mdi-file-hidden": {
+    "prefix": "mdi-file-hidden",
+    "body": "content: '\\\\F613';"
+  },
+  "mdi-wrench": {
+    "prefix": "mdi-wrench",
+    "body": "content: '\\\\F5B7';"
+  },
+  "mdi-cast": {
+    "prefix": "mdi-cast",
+    "body": "content: '\\\\F118';"
+  },
+  "mdi-cursor-pointer": {
+    "prefix": "mdi-cursor-pointer",
+    "body": "content: '\\\\F1B7';"
+  },
+  "mdi-steam": {
+    "prefix": "mdi-steam",
+    "body": "content: '\\\\F4D3';"
+  },
+  "mdi-oil-temperature": {
+    "prefix": "mdi-oil-temperature",
+    "body": "content: '\\\\F3C8';"
+  },
+  "mdi-desktop-tower": {
+    "prefix": "mdi-desktop-tower",
+    "body": "content: '\\\\F1C5';"
+  },
+  "mdi-page-first": {
+    "prefix": "mdi-page-first",
+    "body": "content: '\\\\F600';"
+  },
+  "mdi-replay": {
+    "prefix": "mdi-replay",
+    "body": "content: '\\\\F459';"
+  },
+  "mdi-glassdoor": {
+    "prefix": "mdi-glassdoor",
+    "body": "content: '\\\\F2A9';"
+  },
+  "mdi-logout": {
+    "prefix": "mdi-logout",
+    "body": "content: '\\\\F343';"
+  },
+  "mdi-facebook-messenger": {
+    "prefix": "mdi-facebook-messenger",
+    "body": "content: '\\\\F20E';"
+  },
+  "mdi-arrow-down": {
+    "prefix": "mdi-arrow-down",
+    "body": "content: '\\\\F045';"
+  },
+  "mdi-broom": {
+    "prefix": "mdi-broom",
+    "body": "content: '\\\\F0E2';"
+  },
+  "mdi-call-made": {
+    "prefix": "mdi-call-made",
+    "body": "content: '\\\\F0F7';"
+  },
+  "mdi-format-vertical-align-top": {
+    "prefix": "mdi-format-vertical-align-top",
+    "body": "content: '\\\\F623';"
+  },
+  "mdi-language-html5": {
+    "prefix": "mdi-language-html5",
+    "body": "content: '\\\\F31D';"
+  },
+  "mdi-currency-rub": {
+    "prefix": "mdi-currency-rub",
+    "body": "content: '\\\\F1B1';"
+  },
+  "mdi-view-column": {
+    "prefix": "mdi-view-column",
+    "body": "content: '\\\\F56D';"
+  },
+  "mdi-account-box-outline": {
+    "prefix": "mdi-account-box-outline",
+    "body": "content: '\\\\F007';"
+  },
+  "mdi-wheelchair-accessibility": {
+    "prefix": "mdi-wheelchair-accessibility",
+    "body": "content: '\\\\F5A4';"
+  },
+  "mdi-flask-empty-outline": {
+    "prefix": "mdi-flask-empty-outline",
+    "body": "content: '\\\\F095';"
+  },
+  "mdi-panorama-wide-angle": {
+    "prefix": "mdi-panorama-wide-angle",
+    "body": "content: '\\\\F3E0';"
+  },
+  "mdi-cash-usd": {
+    "prefix": "mdi-cash-usd",
+    "body": "content: '\\\\F117';"
+  },
+  "mdi-taxi": {
+    "prefix": "mdi-taxi",
+    "body": "content: '\\\\F4FF';"
+  },
+  "mdi-source-pull": {
+    "prefix": "mdi-source-pull",
+    "body": "content: '\\\\F4C2';"
+  },
+  "mdi-instapaper": {
+    "prefix": "mdi-instapaper",
+    "body": "content: '\\\\F2FF';"
+  },
+  "mdi-format-subscript": {
+    "prefix": "mdi-format-subscript",
+    "body": "content: '\\\\F282';"
+  },
+  "mdi-air-conditioner": {
+    "prefix": "mdi-air-conditioner",
+    "body": "content: '\\\\F01B';"
+  },
+  "mdi-blender": {
+    "prefix": "mdi-blender",
+    "body": "content: '\\\\F0AB';"
+  },
+  "mdi-phone-classic": {
+    "prefix": "mdi-phone-classic",
+    "body": "content: '\\\\F602';"
+  },
+  "mdi-book-open": {
+    "prefix": "mdi-book-open",
+    "body": "content: '\\\\F0BD';"
+  },
+  "mdi-cached": {
+    "prefix": "mdi-cached",
+    "body": "content: '\\\\F0E8';"
+  },
+  "mdi-select-inverse": {
+    "prefix": "mdi-select-inverse",
+    "body": "content: '\\\\F487';"
+  },
+  "mdi-account-card-details": {
+    "prefix": "mdi-account-card-details",
+    "body": "content: '\\\\F5D2';"
+  },
+  "mdi-temperature-fahrenheit": {
+    "prefix": "mdi-temperature-fahrenheit",
+    "body": "content: '\\\\F505';"
+  },
+  "mdi-server": {
+    "prefix": "mdi-server",
+    "body": "content: '\\\\F48B';"
+  },
+  "mdi-sync-alert": {
+    "prefix": "mdi-sync-alert",
+    "body": "content: '\\\\F4E7';"
+  },
+  "mdi-window-closed": {
+    "prefix": "mdi-window-closed",
+    "body": "content: '\\\\F5AE';"
+  },
+  "mdi-calendar-remove": {
+    "prefix": "mdi-calendar-remove",
+    "body": "content: '\\\\F0F4';"
+  },
+  "mdi-folder-lock": {
+    "prefix": "mdi-folder-lock",
+    "body": "content: '\\\\F250';"
+  },
+  "mdi-elevation-decline": {
+    "prefix": "mdi-elevation-decline",
+    "body": "content: '\\\\F1EB';"
+  },
+  "mdi-chart-histogram": {
+    "prefix": "mdi-chart-histogram",
+    "body": "content: '\\\\F129';"
+  },
+  "mdi-content-duplicate": {
+    "prefix": "mdi-content-duplicate",
+    "body": "content: '\\\\F191';"
+  },
+  "mdi-bing": {
+    "prefix": "mdi-bing",
+    "body": "content: '\\\\F0A4';"
+  },
+  "mdi-basecamp": {
+    "prefix": "mdi-basecamp",
+    "body": "content: '\\\\F075';"
+  },
+  "mdi-truck": {
+    "prefix": "mdi-truck",
+    "body": "content: '\\\\F53D';"
+  },
+  "mdi-seat-legroom-normal": {
+    "prefix": "mdi-seat-legroom-normal",
+    "body": "content: '\\\\F47F';"
+  },
+  "mdi-gate": {
+    "prefix": "mdi-gate",
+    "body": "content: '\\\\F299';"
+  },
+  "mdi-arrow-compress-all": {
+    "prefix": "mdi-arrow-compress-all",
+    "body": "content: '\\\\F044';"
+  },
+  "mdi-bone": {
+    "prefix": "mdi-bone",
+    "body": "content: '\\\\F0B9';"
+  },
+  "mdi-view-day": {
+    "prefix": "mdi-view-day",
+    "body": "content: '\\\\F56F';"
+  },
+  "mdi-food-fork-drink": {
+    "prefix": "mdi-food-fork-drink",
+    "body": "content: '\\\\F5F2';"
+  },
+  "mdi-account-minus": {
+    "prefix": "mdi-account-minus",
+    "body": "content: '\\\\F00D';"
+  },
+  "mdi-settings": {
+    "prefix": "mdi-settings",
+    "body": "content: '\\\\F493';"
+  },
+  "mdi-link-variant-off": {
+    "prefix": "mdi-link-variant-off",
+    "body": "content: '\\\\F33A';"
+  },
+  "mdi-bluetooth-settings": {
+    "prefix": "mdi-bluetooth-settings",
+    "body": "content: '\\\\F0B3';"
+  },
+  "mdi-table-column-remove": {
+    "prefix": "mdi-table-column-remove",
+    "body": "content: '\\\\F4EE';"
+  },
+  "mdi-thumb-down-outline": {
+    "prefix": "mdi-thumb-down-outline",
+    "body": "content: '\\\\F512';"
+  },
+  "mdi-xbox-controller": {
+    "prefix": "mdi-xbox-controller",
+    "body": "content: '\\\\F5BA';"
+  },
+  "mdi-chemical-weapon": {
+    "prefix": "mdi-chemical-weapon",
+    "body": "content: '\\\\F13B';"
+  },
+  "mdi-ubuntu": {
+    "prefix": "mdi-ubuntu",
+    "body": "content: '\\\\F548';"
+  },
+  "mdi-flask-empty": {
+    "prefix": "mdi-flask-empty",
+    "body": "content: '\\\\F094';"
+  },
+  "mdi-note-plus-outline": {
+    "prefix": "mdi-note-plus-outline",
+    "body": "content: '\\\\F39D';"
+  },
+  "mdi-calendar-today": {
+    "prefix": "mdi-calendar-today",
+    "body": "content: '\\\\F0F6';"
+  },
+  "mdi-tshirt-crew": {
+    "prefix": "mdi-tshirt-crew",
+    "body": "content: '\\\\F53F';"
+  },
+  "mdi-flip-to-back": {
+    "prefix": "mdi-flip-to-back",
+    "body": "content: '\\\\F247';"
+  },
+  "mdi-briefcase": {
+    "prefix": "mdi-briefcase",
+    "body": "content: '\\\\F0D6';"
+  },
+  "mdi-weather-pouring": {
+    "prefix": "mdi-weather-pouring",
+    "body": "content: '\\\\F596';"
+  },
+  "mdi-folder-image": {
+    "prefix": "mdi-folder-image",
+    "body": "content: '\\\\F24F';"
+  },
+  "mdi-sim": {
+    "prefix": "mdi-sim",
+    "body": "content: '\\\\F4A7';"
+  },
+  "mdi-vk-circle": {
+    "prefix": "mdi-vk-circle",
+    "body": "content: '\\\\F57B';"
+  },
+  "mdi-church": {
+    "prefix": "mdi-church",
+    "body": "content: '\\\\F144';"
+  },
+  "mdi-headphones": {
+    "prefix": "mdi-headphones",
+    "body": "content: '\\\\F2CB';"
+  },
+  "mdi-radiobox-blank": {
+    "prefix": "mdi-radiobox-blank",
+    "body": "content: '\\\\F43D';"
+  },
+  "mdi-pen": {
+    "prefix": "mdi-pen",
+    "body": "content: '\\\\F3EA';"
+  },
+  "mdi-switch": {
+    "prefix": "mdi-switch",
+    "body": "content: '\\\\F4E4';"
+  },
+  "mdi-cloud-sync": {
+    "prefix": "mdi-cloud-sync",
+    "body": "content: '\\\\F63F';"
+  },
+  "mdi-volume-medium": {
+    "prefix": "mdi-volume-medium",
+    "body": "content: '\\\\F580';"
+  },
+  "mdi-plus-box": {
+    "prefix": "mdi-plus-box",
+    "body": "content: '\\\\F416';"
+  },
+  "mdi-cloud-print-outline": {
+    "prefix": "mdi-cloud-print-outline",
+    "body": "content: '\\\\F166';"
+  },
+  "mdi-google-translate": {
+    "prefix": "mdi-google-translate",
+    "body": "content: '\\\\F2BF';"
+  },
+  "mdi-window-close": {
+    "prefix": "mdi-window-close",
+    "body": "content: '\\\\F5AD';"
+  },
+  "mdi-numeric-1-box-outline": {
+    "prefix": "mdi-numeric-1-box-outline",
+    "body": "content: '\\\\F3A6';"
+  },
+  "mdi-trophy-variant": {
+    "prefix": "mdi-trophy-variant",
+    "body": "content: '\\\\F53B';"
+  },
+  "mdi-file-chart": {
+    "prefix": "mdi-file-chart",
+    "body": "content: '\\\\F215';"
+  },
+  "mdi-vector-curve": {
+    "prefix": "mdi-vector-curve",
+    "body": "content: '\\\\F559';"
+  },
+  "mdi-leaf": {
+    "prefix": "mdi-leaf",
+    "body": "content: '\\\\F32A';"
+  },
+  "mdi-bluetooth-transfer": {
+    "prefix": "mdi-bluetooth-transfer",
+    "body": "content: '\\\\F0B4';"
+  },
+  "mdi-phone-log": {
+    "prefix": "mdi-phone-log",
+    "body": "content: '\\\\F3F9';"
+  },
+  "mdi-map-marker-off": {
+    "prefix": "mdi-map-marker-off",
+    "body": "content: '\\\\F351';"
+  },
+  "mdi-dice-d20": {
+    "prefix": "mdi-dice-d20",
+    "body": "content: '\\\\F5EA';"
+  },
+  "mdi-login": {
+    "prefix": "mdi-login",
+    "body": "content: '\\\\F342';"
+  },
+  "mdi-server-network-off": {
+    "prefix": "mdi-server-network-off",
+    "body": "content: '\\\\F48E';"
+  },
+  "mdi-clipboard-check": {
+    "prefix": "mdi-clipboard-check",
+    "body": "content: '\\\\F14C';"
+  },
+  "mdi-file-outline": {
+    "prefix": "mdi-file-outline",
+    "body": "content: '\\\\F224';"
+  },
+  "mdi-lan-connect": {
+    "prefix": "mdi-lan-connect",
+    "body": "content: '\\\\F318';"
+  },
+  "mdi-cellphone-basic": {
+    "prefix": "mdi-cellphone-basic",
+    "body": "content: '\\\\F11E';"
+  },
+  "mdi-google-physical-web": {
+    "prefix": "mdi-google-physical-web",
+    "body": "content: '\\\\F2BB';"
+  },
+  "mdi-check-circle-outline": {
+    "prefix": "mdi-check-circle-outline",
+    "body": "content: '\\\\F5E1';"
+  },
+  "mdi-audiobook": {
+    "prefix": "mdi-audiobook",
+    "body": "content: '\\\\F067';"
+  },
+  "mdi-numeric-9-box-outline": {
+    "prefix": "mdi-numeric-9-box-outline",
+    "body": "content: '\\\\F3BE';"
+  },
+  "mdi-playlist-check": {
+    "prefix": "mdi-playlist-check",
+    "body": "content: '\\\\F5C7';"
+  },
+  "mdi-chevron-double-right": {
+    "prefix": "mdi-chevron-double-right",
+    "body": "content: '\\\\F13E';"
+  },
+  "mdi-home": {
+    "prefix": "mdi-home",
+    "body": "content: '\\\\F2DC';"
+  },
+  "mdi-vine": {
+    "prefix": "mdi-vine",
+    "body": "content: '\\\\F578';"
+  },
+  "mdi-google-chrome": {
+    "prefix": "mdi-google-chrome",
+    "body": "content: '\\\\F2AF';"
+  },
+  "mdi-camera-rear-variant": {
+    "prefix": "mdi-camera-rear-variant",
+    "body": "content: '\\\\F107';"
+  },
+  "mdi-jira": {
+    "prefix": "mdi-jira",
+    "body": "content: '\\\\F303';"
+  },
+  "mdi-package": {
+    "prefix": "mdi-package",
+    "body": "content: '\\\\F3D3';"
+  },
+  "mdi-alarm": {
+    "prefix": "mdi-alarm",
+    "body": "content: '\\\\F020';"
+  },
+  "mdi-thumbs-up-down": {
+    "prefix": "mdi-thumbs-up-down",
+    "body": "content: '\\\\F515';"
+  },
+  "mdi-owl": {
+    "prefix": "mdi-owl",
+    "body": "content: '\\\\F3D2';"
+  },
+  "mdi-contrast": {
+    "prefix": "mdi-contrast",
+    "body": "content: '\\\\F195';"
+  },
+  "mdi-arrow-down-bold-circle-outline": {
+    "prefix": "mdi-arrow-down-bold-circle-outline",
+    "body": "content: '\\\\F048';"
+  },
+  "mdi-arrange-bring-forward": {
+    "prefix": "mdi-arrange-bring-forward",
+    "body": "content: '\\\\F03D';"
+  },
+  "mdi-led-on": {
+    "prefix": "mdi-led-on",
+    "body": "content: '\\\\F32C';"
+  },
+  "mdi-library-books": {
+    "prefix": "mdi-library-books",
+    "body": "content: '\\\\F332';"
+  },
+  "mdi-backburger": {
+    "prefix": "mdi-backburger",
+    "body": "content: '\\\\F06D';"
+  },
+  "mdi-subway": {
+    "prefix": "mdi-subway",
+    "body": "content: '\\\\F4DF';"
+  },
+  "mdi-trophy-outline": {
+    "prefix": "mdi-trophy-outline",
+    "body": "content: '\\\\F53A';"
+  },
+  "mdi-more": {
+    "prefix": "mdi-more",
+    "body": "content: '\\\\F37B';"
+  },
+  "mdi-format-wrap-top-bottom": {
+    "prefix": "mdi-format-wrap-top-bottom",
+    "body": "content: '\\\\F28B';"
+  },
+  "mdi-smoking-off": {
+    "prefix": "mdi-smoking-off",
+    "body": "content: '\\\\F4B5';"
+  },
+  "mdi-zip-box": {
+    "prefix": "mdi-zip-box",
+    "body": "content: '\\\\F5C4';"
+  },
+  "mdi-facebook-box": {
+    "prefix": "mdi-facebook-box",
+    "body": "content: '\\\\F20D';"
+  },
+  "mdi-account-multiple-outline": {
+    "prefix": "mdi-account-multiple-outline",
+    "body": "content: '\\\\F00F';"
+  },
+  "mdi-account-multiple": {
+    "prefix": "mdi-account-multiple",
+    "body": "content: '\\\\F00E';"
+  },
+  "mdi-jeepney": {
+    "prefix": "mdi-jeepney",
+    "body": "content: '\\\\F302';"
+  },
+  "mdi-xml": {
+    "prefix": "mdi-xml",
+    "body": "content: '\\\\F5C0';"
+  },
+  "mdi-calendar-check": {
+    "prefix": "mdi-calendar-check",
+    "body": "content: '\\\\F0EF';"
+  },
+  "mdi-vector-polyline": {
+    "prefix": "mdi-vector-polyline",
+    "body": "content: '\\\\F561';"
+  },
+  "mdi-glass-stange": {
+    "prefix": "mdi-glass-stange",
+    "body": "content: '\\\\F2A7';"
+  },
+  "mdi-twitter-retweet": {
+    "prefix": "mdi-twitter-retweet",
+    "body": "content: '\\\\F547';"
+  },
+  "mdi-image-filter-black-white": {
+    "prefix": "mdi-image-filter-black-white",
+    "body": "content: '\\\\F2F0';"
+  },
+  "mdi-details": {
+    "prefix": "mdi-details",
+    "body": "content: '\\\\F1C6';"
+  },
+  "mdi-battery-charging-100": {
+    "prefix": "mdi-battery-charging-100",
+    "body": "content: '\\\\F085';"
+  },
+  "mdi-border-none": {
+    "prefix": "mdi-border-none",
+    "body": "content: '\\\\F0CD';"
+  },
+  "mdi-dribbble-box": {
+    "prefix": "mdi-dribbble-box",
+    "body": "content: '\\\\F1E1';"
+  },
+  "mdi-ray-end": {
+    "prefix": "mdi-ray-end",
+    "body": "content: '\\\\F440';"
+  },
+  "mdi-account-switch": {
+    "prefix": "mdi-account-switch",
+    "body": "content: '\\\\F019';"
+  },
+  "mdi-fridge-filled-bottom": {
+    "prefix": "mdi-fridge-filled-bottom",
+    "body": "content: '\\\\F291';"
+  },
+  "mdi-ruler": {
+    "prefix": "mdi-ruler",
+    "body": "content: '\\\\F46D';"
+  },
+  "mdi-glass-flute": {
+    "prefix": "mdi-glass-flute",
+    "body": "content: '\\\\F2A5';"
+  },
+  "mdi-earth-off": {
+    "prefix": "mdi-earth-off",
+    "body": "content: '\\\\F1E8';"
+  },
+  "mdi-ticket": {
+    "prefix": "mdi-ticket",
+    "body": "content: '\\\\F516';"
+  },
+  "mdi-checkbox-multiple-marked-circle-outline": {
+    "prefix": "mdi-checkbox-multiple-marked-circle-outline",
+    "body": "content: '\\\\F63E';"
+  },
+  "mdi-arrow-left-bold": {
+    "prefix": "mdi-arrow-left-bold",
+    "body": "content: '\\\\F04E';"
+  },
+  "mdi-menu-up": {
+    "prefix": "mdi-menu-up",
+    "body": "content: '\\\\F360';"
+  },
+  "mdi-vector-point": {
+    "prefix": "mdi-vector-point",
+    "body": "content: '\\\\F55F';"
+  },
+  "mdi-bluetooth-off": {
+    "prefix": "mdi-bluetooth-off",
+    "body": "content: '\\\\F0B2';"
+  },
+  "mdi-security-network": {
+    "prefix": "mdi-security-network",
+    "body": "content: '\\\\F484';"
+  },
+  "mdi-sim-off": {
+    "prefix": "mdi-sim-off",
+    "body": "content: '\\\\F4A9';"
+  },
+  "mdi-certificate": {
+    "prefix": "mdi-certificate",
+    "body": "content: '\\\\F124';"
+  },
+  "mdi-dice-d4": {
+    "prefix": "mdi-dice-d4",
+    "body": "content: '\\\\F5EB';"
+  },
+  "mdi-book-multiple": {
+    "prefix": "mdi-book-multiple",
+    "body": "content: '\\\\F0BB';"
+  },
+  "mdi-dice-d6": {
+    "prefix": "mdi-dice-d6",
+    "body": "content: '\\\\F5EC';"
+  },
+  "mdi-engine": {
+    "prefix": "mdi-engine",
+    "body": "content: '\\\\F1FA';"
+  },
+  "mdi-soccer": {
+    "prefix": "mdi-soccer",
+    "body": "content: '\\\\F4B8';"
+  },
+  "mdi-soundcloud": {
+    "prefix": "mdi-soundcloud",
+    "body": "content: '\\\\F4C0';"
+  },
+  "mdi-phone-outgoing": {
+    "prefix": "mdi-phone-outgoing",
+    "body": "content: '\\\\F3FB';"
+  },
+  "mdi-chair-school": {
+    "prefix": "mdi-chair-school",
+    "body": "content: '\\\\F125';"
+  },
+  "mdi-dice-d8": {
+    "prefix": "mdi-dice-d8",
+    "body": "content: '\\\\F5ED';"
+  },
+  "mdi-ethernet": {
+    "prefix": "mdi-ethernet",
+    "body": "content: '\\\\F200';"
+  },
+  "mdi-account-alert": {
+    "prefix": "mdi-account-alert",
+    "body": "content: '\\\\F005';"
+  },
+  "mdi-delete-forever": {
+    "prefix": "mdi-delete-forever",
+    "body": "content: '\\\\F5E8';"
+  },
+  "mdi-format-indent-decrease": {
+    "prefix": "mdi-format-indent-decrease",
+    "body": "content: '\\\\F275';"
+  },
+  "mdi-email-open-outline": {
+    "prefix": "mdi-email-open-outline",
+    "body": "content: '\\\\F5EF';"
+  },
+  "mdi-engine-outline": {
+    "prefix": "mdi-engine-outline",
+    "body": "content: '\\\\F1FB';"
+  },
+  "mdi-xda": {
+    "prefix": "mdi-xda",
+    "body": "content: '\\\\F5BC';"
+  },
+  "mdi-cards-playing-outline": {
+    "prefix": "mdi-cards-playing-outline",
+    "body": "content: '\\\\F63A';"
+  },
+  "mdi-fan": {
+    "prefix": "mdi-fan",
+    "body": "content: '\\\\F210';"
+  },
+  "mdi-vector-arrange-above": {
+    "prefix": "mdi-vector-arrange-above",
+    "body": "content: '\\\\F554';"
+  },
+  "mdi-sale": {
+    "prefix": "mdi-sale",
+    "body": "content: '\\\\F46F';"
+  },
+  "mdi-file-image": {
+    "prefix": "mdi-file-image",
+    "body": "content: '\\\\F21F';"
+  },
+  "mdi-file-video": {
+    "prefix": "mdi-file-video",
+    "body": "content: '\\\\F22B';"
+  },
+  "mdi-flashlight-off": {
+    "prefix": "mdi-flashlight-off",
+    "body": "content: '\\\\F245';"
+  },
+  "mdi-coin": {
+    "prefix": "mdi-coin",
+    "body": "content: '\\\\F178';"
+  },
+  "mdi-flag-variant": {
+    "prefix": "mdi-flag-variant",
+    "body": "content: '\\\\F240';"
+  },
+  "mdi-weight-kilogram": {
+    "prefix": "mdi-weight-kilogram",
+    "body": "content: '\\\\F5A2';"
+  },
+  "mdi-comment-outline": {
+    "prefix": "mdi-comment-outline",
+    "body": "content: '\\\\F182';"
+  },
+  "mdi-access-point-network": {
+    "prefix": "mdi-access-point-network",
+    "body": "content: '\\\\F003';"
+  },
+  "mdi-json": {
+    "prefix": "mdi-json",
+    "body": "content: '\\\\F626';"
+  },
+  "mdi-weather-windy-variant": {
+    "prefix": "mdi-weather-windy-variant",
+    "body": "content: '\\\\F59E';"
+  },
+  "mdi-arrow-expand-all": {
+    "prefix": "mdi-arrow-expand-all",
+    "body": "content: '\\\\F04C';"
+  },
+  "mdi-shuffle-variant": {
+    "prefix": "mdi-shuffle-variant",
+    "body": "content: '\\\\F49F';"
+  },
+  "mdi-disk-alert": {
+    "prefix": "mdi-disk-alert",
+    "body": "content: '\\\\F1D1';"
+  },
+  "mdi-led-outline": {
+    "prefix": "mdi-led-outline",
+    "body": "content: '\\\\F32D';"
+  },
+  "mdi-information-outline": {
+    "prefix": "mdi-information-outline",
+    "body": "content: '\\\\F2FD';"
+  },
+  "mdi-weather-rainy": {
+    "prefix": "mdi-weather-rainy",
+    "body": "content: '\\\\F597';"
+  },
+  "mdi-bookmark-outline": {
+    "prefix": "mdi-bookmark-outline",
+    "body": "content: '\\\\F0C3';"
+  },
+  "mdi-magnet": {
+    "prefix": "mdi-magnet",
+    "body": "content: '\\\\F347';"
+  },
+  "mdi-assistant": {
+    "prefix": "mdi-assistant",
+    "body": "content: '\\\\F064';"
+  },
+  "mdi-wallet-travel": {
+    "prefix": "mdi-wallet-travel",
+    "body": "content: '\\\\F587';"
+  },
+  "mdi-language-css3": {
+    "prefix": "mdi-language-css3",
+    "body": "content: '\\\\F31C';"
+  },
+  "mdi-checkbox-marked": {
+    "prefix": "mdi-checkbox-marked",
+    "body": "content: '\\\\F132';"
+  },
+  "mdi-tag-multiple": {
+    "prefix": "mdi-tag-multiple",
+    "body": "content: '\\\\F4FB';"
+  },
+  "mdi-text-to-speech-off": {
+    "prefix": "mdi-text-to-speech-off",
+    "body": "content: '\\\\F50B';"
+  },
+  "mdi-table-row-plus-after": {
+    "prefix": "mdi-table-row-plus-after",
+    "body": "content: '\\\\F4F3';"
+  },
+  "mdi-nature-people": {
+    "prefix": "mdi-nature-people",
+    "body": "content: '\\\\F38F';"
+  },
+  "mdi-filmstrip-off": {
+    "prefix": "mdi-filmstrip-off",
+    "body": "content: '\\\\F231';"
+  },
+  "mdi-folder-upload": {
+    "prefix": "mdi-folder-upload",
+    "body": "content: '\\\\F259';"
+  },
+  "mdi-magnify": {
+    "prefix": "mdi-magnify",
+    "body": "content: '\\\\F349';"
+  },
+  "mdi-battery-charging-60": {
+    "prefix": "mdi-battery-charging-60",
+    "body": "content: '\\\\F089';"
+  },
+  "mdi-file-word": {
+    "prefix": "mdi-file-word",
+    "body": "content: '\\\\F22C';"
+  },
+  "mdi-human-child": {
+    "prefix": "mdi-human-child",
+    "body": "content: '\\\\F2E7';"
+  },
+  "mdi-github-circle": {
+    "prefix": "mdi-github-circle",
+    "body": "content: '\\\\F2A4';"
+  },
+  "mdi-tennis": {
+    "prefix": "mdi-tennis",
+    "body": "content: '\\\\F507';"
+  },
+  "mdi-crop-portrait": {
+    "prefix": "mdi-crop-portrait",
+    "body": "content: '\\\\F1A1';"
+  },
+  "mdi-source-branch": {
+    "prefix": "mdi-source-branch",
+    "body": "content: '\\\\F62C';"
+  },
+  "mdi-road": {
+    "prefix": "mdi-road",
+    "body": "content: '\\\\F461';"
+  },
+  "mdi-behance": {
+    "prefix": "mdi-behance",
+    "body": "content: '\\\\F099';"
+  },
+  "mdi-format-align-left": {
+    "prefix": "mdi-format-align-left",
+    "body": "content: '\\\\F262';"
+  },
+  "mdi-table": {
+    "prefix": "mdi-table",
+    "body": "content: '\\\\F4EB';"
+  },
+  "mdi-code-tags": {
+    "prefix": "mdi-code-tags",
+    "body": "content: '\\\\F174';"
+  },
+  "mdi-cloud-download": {
+    "prefix": "mdi-cloud-download",
+    "body": "content: '\\\\F162';"
+  },
+  "mdi-border-bottom": {
+    "prefix": "mdi-border-bottom",
+    "body": "content: '\\\\F0C8';"
+  },
+  "mdi-plus": {
+    "prefix": "mdi-plus",
+    "body": "content: '\\\\F415';"
+  },
+  "mdi-beer": {
+    "prefix": "mdi-beer",
+    "body": "content: '\\\\F098';"
+  },
+  "mdi-comment-check": {
+    "prefix": "mdi-comment-check",
+    "body": "content: '\\\\F17F';"
+  },
+  "mdi-tag": {
+    "prefix": "mdi-tag",
+    "body": "content: '\\\\F4F9';"
+  },
+  "mdi-file-export": {
+    "prefix": "mdi-file-export",
+    "body": "content: '\\\\F21D';"
+  },
+  "mdi-close": {
+    "prefix": "mdi-close",
+    "body": "content: '\\\\F156';"
+  },
+  "mdi-comment-check-outline": {
+    "prefix": "mdi-comment-check-outline",
+    "body": "content: '\\\\F180';"
+  },
+  "mdi-camera-iris": {
+    "prefix": "mdi-camera-iris",
+    "body": "content: '\\\\F104';"
+  },
+  "mdi-weather-fog": {
+    "prefix": "mdi-weather-fog",
+    "body": "content: '\\\\F591';"
+  },
+  "mdi-bitbucket": {
+    "prefix": "mdi-bitbucket",
+    "body": "content: '\\\\F0A8';"
+  },
+  "mdi-skip-previous-circle": {
+    "prefix": "mdi-skip-previous-circle",
+    "body": "content: '\\\\F663';"
+  },
+  "mdi-bluetooth-audio": {
+    "prefix": "mdi-bluetooth-audio",
+    "body": "content: '\\\\F0B0';"
+  },
+  "mdi-file-music": {
+    "prefix": "mdi-file-music",
+    "body": "content: '\\\\F223';"
+  },
+  "mdi-content-save-settings": {
+    "prefix": "mdi-content-save-settings",
+    "body": "content: '\\\\F61B';"
+  },
+  "mdi-remote": {
+    "prefix": "mdi-remote",
+    "body": "content: '\\\\F454';"
+  },
+  "mdi-human-male": {
+    "prefix": "mdi-human-male",
+    "body": "content: '\\\\F64D';"
+  },
+  "mdi-file-document-box": {
+    "prefix": "mdi-file-document-box",
+    "body": "content: '\\\\F21A';"
+  },
+  "mdi-brush": {
+    "prefix": "mdi-brush",
+    "body": "content: '\\\\F0E3';"
+  },
+  "mdi-security": {
+    "prefix": "mdi-security",
+    "body": "content: '\\\\F483';"
+  },
+  "mdi-chart-bar": {
+    "prefix": "mdi-chart-bar",
+    "body": "content: '\\\\F128';"
+  },
+  "mdi-target": {
+    "prefix": "mdi-target",
+    "body": "content: '\\\\F4FE';"
+  },
+  "mdi-rotate-left-variant": {
+    "prefix": "mdi-rotate-left-variant",
+    "body": "content: '\\\\F466';"
+  },
+  "mdi-format-strikethrough-variant": {
+    "prefix": "mdi-format-strikethrough-variant",
+    "body": "content: '\\\\F281';"
+  },
+  "mdi-magnify-plus": {
+    "prefix": "mdi-magnify-plus",
+    "body": "content: '\\\\F34B';"
+  },
+  "mdi-arrow-down-bold-circle": {
+    "prefix": "mdi-arrow-down-bold-circle",
+    "body": "content: '\\\\F047';"
+  },
+  "mdi-drag-vertical": {
+    "prefix": "mdi-drag-vertical",
+    "body": "content: '\\\\F1DD';"
+  },
+  "mdi-currency-eur": {
+    "prefix": "mdi-currency-eur",
+    "body": "content: '\\\\F1AD';"
+  },
+  "mdi-arrow-left-bold-hexagon-outline": {
+    "prefix": "mdi-arrow-left-bold-hexagon-outline",
+    "body": "content: '\\\\F051';"
+  },
+  "mdi-table-column-plus-before": {
+    "prefix": "mdi-table-column-plus-before",
+    "body": "content: '\\\\F4ED';"
+  },
+  "mdi-airplay": {
+    "prefix": "mdi-airplay",
+    "body": "content: '\\\\F01F';"
+  },
+  "mdi-cart-off": {
+    "prefix": "mdi-cart-off",
+    "body": "content: '\\\\F66B';"
+  },
+  "mdi-hackernews": {
+    "prefix": "mdi-hackernews",
+    "body": "content: '\\\\F624';"
+  },
+  "mdi-apple-keyboard-option": {
+    "prefix": "mdi-apple-keyboard-option",
+    "body": "content: '\\\\F635';"
+  },
+  "mdi-vlc": {
+    "prefix": "mdi-vlc",
+    "body": "content: '\\\\F57C';"
+  },
+  "mdi-drag": {
+    "prefix": "mdi-drag",
+    "body": "content: '\\\\F1DB';"
+  },
+  "mdi-jsfiddle": {
+    "prefix": "mdi-jsfiddle",
+    "body": "content: '\\\\F304';"
+  },
+  "mdi-account-box": {
+    "prefix": "mdi-account-box",
+    "body": "content: '\\\\F006';"
+  },
+  "mdi-weather-lightning": {
+    "prefix": "mdi-weather-lightning",
+    "body": "content: '\\\\F593';"
+  },
+  "mdi-view-carousel": {
+    "prefix": "mdi-view-carousel",
+    "body": "content: '\\\\F56C';"
+  },
+  "mdi-cup-water": {
+    "prefix": "mdi-cup-water",
+    "body": "content: '\\\\F1AB';"
+  },
+  "mdi-plus-circle-outline": {
+    "prefix": "mdi-plus-circle-outline",
+    "body": "content: '\\\\F419';"
+  },
+  "mdi-ray-end-arrow": {
+    "prefix": "mdi-ray-end-arrow",
+    "body": "content: '\\\\F441';"
+  },
+  "mdi-export": {
+    "prefix": "mdi-export",
+    "body": "content: '\\\\F207';"
+  },
+  "mdi-battery-outline": {
+    "prefix": "mdi-battery-outline",
+    "body": "content: '\\\\F08E';"
+  },
+  "mdi-content-paste": {
+    "prefix": "mdi-content-paste",
+    "body": "content: '\\\\F192';"
+  },
+  "mdi-map-marker": {
+    "prefix": "mdi-map-marker",
+    "body": "content: '\\\\F34E';"
+  },
+  "mdi-arrow-right-bold-circle": {
+    "prefix": "mdi-arrow-right-bold-circle",
+    "body": "content: '\\\\F056';"
+  },
+  "mdi-harddisk": {
+    "prefix": "mdi-harddisk",
+    "body": "content: '\\\\F2CA';"
+  },
+  "mdi-sleep": {
+    "prefix": "mdi-sleep",
+    "body": "content: '\\\\F4B2';"
+  },
+  "mdi-recycle": {
+    "prefix": "mdi-recycle",
+    "body": "content: '\\\\F44C';"
+  },
+  "mdi-fridge-filled": {
+    "prefix": "mdi-fridge-filled",
+    "body": "content: '\\\\F290';"
+  },
+  "mdi-escalator": {
+    "prefix": "mdi-escalator",
+    "body": "content: '\\\\F1FF';"
+  },
+  "mdi-help-circle": {
+    "prefix": "mdi-help-circle",
+    "body": "content: '\\\\F2D7';"
+  },
+  "mdi-select": {
+    "prefix": "mdi-select",
+    "body": "content: '\\\\F485';"
+  },
+  "mdi-gavel": {
+    "prefix": "mdi-gavel",
+    "body": "content: '\\\\F29B';"
+  },
+  "mdi-blur": {
+    "prefix": "mdi-blur",
+    "body": "content: '\\\\F0B5';"
+  },
+  "mdi-google-controller-off": {
+    "prefix": "mdi-google-controller-off",
+    "body": "content: '\\\\F2B5';"
+  },
+  "mdi-shield-outline": {
+    "prefix": "mdi-shield-outline",
+    "body": "content: '\\\\F499';"
+  },
+  "mdi-airplane": {
+    "prefix": "mdi-airplane",
+    "body": "content: '\\\\F01D';"
+  },
+  "mdi-keyboard-caps": {
+    "prefix": "mdi-keyboard-caps",
+    "body": "content: '\\\\F30E';"
+  },
+  "mdi-clipboard": {
+    "prefix": "mdi-clipboard",
+    "body": "content: '\\\\F147';"
+  },
+  "mdi-bookmark-check": {
+    "prefix": "mdi-bookmark-check",
+    "body": "content: '\\\\F0C1';"
+  },
+  "mdi-numeric-0-box-outline": {
+    "prefix": "mdi-numeric-0-box-outline",
+    "body": "content: '\\\\F3A3';"
+  },
+  "mdi-cloud-outline": {
+    "prefix": "mdi-cloud-outline",
+    "body": "content: '\\\\F163';"
+  },
+  "mdi-label-outline": {
+    "prefix": "mdi-label-outline",
+    "body": "content: '\\\\F316';"
+  },
+  "mdi-move-resize-variant": {
+    "prefix": "mdi-move-resize-variant",
+    "body": "content: '\\\\F656';"
+  },
+  "mdi-numeric-7-box-outline": {
+    "prefix": "mdi-numeric-7-box-outline",
+    "body": "content: '\\\\F3B8';"
+  },
+  "mdi-map-marker-plus": {
+    "prefix": "mdi-map-marker-plus",
+    "body": "content: '\\\\F651';"
+  },
+  "mdi-arrow-right-drop-circle": {
+    "prefix": "mdi-arrow-right-drop-circle",
+    "body": "content: '\\\\F059';"
+  },
+  "mdi-file-pdf": {
+    "prefix": "mdi-file-pdf",
+    "body": "content: '\\\\F225';"
+  },
+  "mdi-format-quote": {
+    "prefix": "mdi-format-quote",
+    "body": "content: '\\\\F27E';"
+  },
+  "mdi-bulletin-board": {
+    "prefix": "mdi-bulletin-board",
+    "body": "content: '\\\\F0E5';"
+  },
+  "mdi-credit-card-off": {
+    "prefix": "mdi-credit-card-off",
+    "body": "content: '\\\\F5E4';"
+  },
+  "mdi-view-dashboard": {
+    "prefix": "mdi-view-dashboard",
+    "body": "content: '\\\\F56E';"
+  },
+  "mdi-music-note-quarter": {
+    "prefix": "mdi-music-note-quarter",
+    "body": "content: '\\\\F38B';"
+  },
+  "mdi-router-wireless": {
+    "prefix": "mdi-router-wireless",
+    "body": "content: '\\\\F469';"
+  },
+  "mdi-silverware-fork": {
+    "prefix": "mdi-silverware-fork",
+    "body": "content: '\\\\F4A4';"
+  },
+  "mdi-monitor": {
+    "prefix": "mdi-monitor",
+    "body": "content: '\\\\F379';"
+  },
+  "mdi-clock-out": {
+    "prefix": "mdi-clock-out",
+    "body": "content: '\\\\F154';"
+  },
+  "mdi-account-network": {
+    "prefix": "mdi-account-network",
+    "body": "content: '\\\\F011';"
+  },
+  "mdi-minus-circle-outline": {
+    "prefix": "mdi-minus-circle-outline",
+    "body": "content: '\\\\F377';"
+  },
+  "mdi-shield": {
+    "prefix": "mdi-shield",
+    "body": "content: '\\\\F498';"
+  },
+  "mdi-radio-handheld": {
+    "prefix": "mdi-radio-handheld",
+    "body": "content: '\\\\F43A';"
+  },
+  "mdi-comment-plus-outline": {
+    "prefix": "mdi-comment-plus-outline",
+    "body": "content: '\\\\F183';"
+  },
+  "mdi-food-variant": {
+    "prefix": "mdi-food-variant",
+    "body": "content: '\\\\F25C';"
+  },
+  "mdi-factory": {
+    "prefix": "mdi-factory",
+    "body": "content: '\\\\F20F';"
+  },
+  "mdi-phone-voip": {
+    "prefix": "mdi-phone-voip",
+    "body": "content: '\\\\F3FE';"
+  },
+  "mdi-arrow-down-drop-circle-outline": {
+    "prefix": "mdi-arrow-down-drop-circle-outline",
+    "body": "content: '\\\\F04B';"
+  },
+  "mdi-arrange-bring-to-front": {
+    "prefix": "mdi-arrange-bring-to-front",
+    "body": "content: '\\\\F03E';"
+  },
+  "mdi-clipboard-account": {
+    "prefix": "mdi-clipboard-account",
+    "body": "content: '\\\\F148';"
+  },
+  "mdi-numeric-3-box-multiple-outline": {
+    "prefix": "mdi-numeric-3-box-multiple-outline",
+    "body": "content: '\\\\F3AB';"
+  },
+  "mdi-cube-send": {
+    "prefix": "mdi-cube-send",
+    "body": "content: '\\\\F1A8';"
+  },
+  "mdi-umbraco": {
+    "prefix": "mdi-umbraco",
+    "body": "content: '\\\\F549';"
+  },
+  "mdi-microphone-outline": {
+    "prefix": "mdi-microphone-outline",
+    "body": "content: '\\\\F36E';"
+  },
+  "mdi-rdio": {
+    "prefix": "mdi-rdio",
+    "body": "content: '\\\\F446';"
+  },
+  "mdi-key-remove": {
+    "prefix": "mdi-key-remove",
+    "body": "content: '\\\\F30A';"
+  },
+  "mdi-play-box-outline": {
+    "prefix": "mdi-play-box-outline",
+    "body": "content: '\\\\F40B';"
+  },
+  "mdi-gender-male": {
+    "prefix": "mdi-gender-male",
+    "body": "content: '\\\\F29D';"
+  },
+  "mdi-battery-plus": {
+    "prefix": "mdi-battery-plus",
+    "body": "content: '\\\\F08F';"
+  },
+  "mdi-car": {
+    "prefix": "mdi-car",
+    "body": "content: '\\\\F10B';"
+  },
+  "mdi-code-string": {
+    "prefix": "mdi-code-string",
+    "body": "content: '\\\\F173';"
+  },
+  "mdi-message": {
+    "prefix": "mdi-message",
+    "body": "content: '\\\\F361';"
+  },
+  "mdi-phone-forward": {
+    "prefix": "mdi-phone-forward",
+    "body": "content: '\\\\F3F4';"
+  },
+  "mdi-call-split": {
+    "prefix": "mdi-call-split",
+    "body": "content: '\\\\F0FB';"
+  },
+  "mdi-checkbox-multiple-blank-circle": {
+    "prefix": "mdi-checkbox-multiple-blank-circle",
+    "body": "content: '\\\\F63B';"
+  },
+  "mdi-comment-processing": {
+    "prefix": "mdi-comment-processing",
+    "body": "content: '\\\\F184';"
+  },
+  "mdi-google-circles-extended": {
+    "prefix": "mdi-google-circles-extended",
+    "body": "content: '\\\\F2B2';"
+  },
+  "mdi-database-minus": {
+    "prefix": "mdi-database-minus",
+    "body": "content: '\\\\F1B9';"
+  },
+  "mdi-speedometer": {
+    "prefix": "mdi-speedometer",
+    "body": "content: '\\\\F4C5';"
+  },
+  "mdi-timetable": {
+    "prefix": "mdi-timetable",
+    "body": "content: '\\\\F520';"
+  },
+  "mdi-weather-partlycloudy": {
+    "prefix": "mdi-weather-partlycloudy",
+    "body": "content: '\\\\F595';"
+  },
+  "mdi-emoticon-sad": {
+    "prefix": "mdi-emoticon-sad",
+    "body": "content: '\\\\F1F8';"
+  },
+  "mdi-map-marker-minus": {
+    "prefix": "mdi-map-marker-minus",
+    "body": "content: '\\\\F650';"
+  },
+  "mdi-webhook": {
+    "prefix": "mdi-webhook",
+    "body": "content: '\\\\F62F';"
+  },
+  "mdi-alert-octagon": {
+    "prefix": "mdi-alert-octagon",
+    "body": "content: '\\\\F029';"
+  },
+  "mdi-quadcopter": {
+    "prefix": "mdi-quadcopter",
+    "body": "content: '\\\\F434';"
+  },
+  "mdi-calendar-multiple": {
+    "prefix": "mdi-calendar-multiple",
+    "body": "content: '\\\\F0F1';"
+  },
+  "mdi-trending-up": {
+    "prefix": "mdi-trending-up",
+    "body": "content: '\\\\F535';"
+  },
+  "mdi-tent": {
+    "prefix": "mdi-tent",
+    "body": "content: '\\\\F508';"
+  },
+  "mdi-flag": {
+    "prefix": "mdi-flag",
+    "body": "content: '\\\\F23B';"
+  },
+  "mdi-google-cardboard": {
+    "prefix": "mdi-google-cardboard",
+    "body": "content: '\\\\F2AE';"
+  },
+  "mdi-ticket-account": {
+    "prefix": "mdi-ticket-account",
+    "body": "content: '\\\\F517';"
+  },
+  "mdi-food-apple": {
+    "prefix": "mdi-food-apple",
+    "body": "content: '\\\\F25B';"
+  },
+  "mdi-volume-high": {
+    "prefix": "mdi-volume-high",
+    "body": "content: '\\\\F57E';"
+  },
+  "mdi-flash-off": {
+    "prefix": "mdi-flash-off",
+    "body": "content: '\\\\F243';"
+  },
+  "mdi-bell-outline": {
+    "prefix": "mdi-bell-outline",
+    "body": "content: '\\\\F09C';"
+  },
+  "mdi-tooth": {
+    "prefix": "mdi-tooth",
+    "body": "content: '\\\\F529';"
+  },
+  "mdi-cash-multiple": {
+    "prefix": "mdi-cash-multiple",
+    "body": "content: '\\\\F116';"
+  },
+  "mdi-calendar-multiple-check": {
+    "prefix": "mdi-calendar-multiple-check",
+    "body": "content: '\\\\F0F2';"
+  },
+  "mdi-power-socket": {
+    "prefix": "mdi-power-socket",
+    "body": "content: '\\\\F427';"
+  },
+  "mdi-vector-combine": {
+    "prefix": "mdi-vector-combine",
+    "body": "content: '\\\\F558';"
+  },
+  "mdi-music-note-whole": {
+    "prefix": "mdi-music-note-whole",
+    "body": "content: '\\\\F38D';"
+  },
+  "mdi-arrange-send-backward": {
+    "prefix": "mdi-arrange-send-backward",
+    "body": "content: '\\\\F03F';"
+  },
+  "mdi-cellphone-link": {
+    "prefix": "mdi-cellphone-link",
+    "body": "content: '\\\\F121';"
+  },
+  "mdi-briefcase-upload": {
+    "prefix": "mdi-briefcase-upload",
+    "body": "content: '\\\\F0D9';"
+  },
+  "mdi-step-backward-2": {
+    "prefix": "mdi-step-backward-2",
+    "body": "content: '\\\\F4D6';"
+  },
+  "mdi-lock": {
+    "prefix": "mdi-lock",
+    "body": "content: '\\\\F33E';"
+  },
+  "mdi-duck": {
+    "prefix": "mdi-duck",
+    "body": "content: '\\\\F1E5';"
+  },
+  "mdi-tumblr": {
+    "prefix": "mdi-tumblr",
+    "body": "content: '\\\\F541';"
+  },
+  "mdi-account-multiple-plus": {
+    "prefix": "mdi-account-multiple-plus",
+    "body": "content: '\\\\F010';"
+  },
+  "mdi-file": {
+    "prefix": "mdi-file",
+    "body": "content: '\\\\F214';"
+  },
+  "mdi-folder-lock-open": {
+    "prefix": "mdi-folder-lock-open",
+    "body": "content: '\\\\F251';"
+  },
+  "mdi-film": {
+    "prefix": "mdi-film",
+    "body": "content: '\\\\F22F';"
+  },
+  "mdi-block-helper": {
+    "prefix": "mdi-block-helper",
+    "body": "content: '\\\\F0AD';"
+  },
+  "mdi-vector-rectangle": {
+    "prefix": "mdi-vector-rectangle",
+    "body": "content: '\\\\F5C6';"
+  },
+  "mdi-filmstrip": {
+    "prefix": "mdi-filmstrip",
+    "body": "content: '\\\\F230';"
+  },
+  "mdi-directions-fork": {
+    "prefix": "mdi-directions-fork",
+    "body": "content: '\\\\F641';"
+  },
+  "mdi-book-open-page-variant": {
+    "prefix": "mdi-book-open-page-variant",
+    "body": "content: '\\\\F5DA';"
+  },
+  "mdi-phone-settings": {
+    "prefix": "mdi-phone-settings",
+    "body": "content: '\\\\F3FD';"
+  },
+  "mdi-sitemap": {
+    "prefix": "mdi-sitemap",
+    "body": "content: '\\\\F4AA';"
+  },
+  "mdi-checkbox-multiple-marked": {
+    "prefix": "mdi-checkbox-multiple-marked",
+    "body": "content: '\\\\F138';"
+  },
+  "mdi-rss-box": {
+    "prefix": "mdi-rss-box",
+    "body": "content: '\\\\F46C';"
+  },
+  "mdi-apple-safari": {
+    "prefix": "mdi-apple-safari",
+    "body": "content: '\\\\F039';"
+  },
+  "mdi-apple-keyboard-shift": {
+    "prefix": "mdi-apple-keyboard-shift",
+    "body": "content: '\\\\F636';"
+  },
+  "mdi-wii": {
+    "prefix": "mdi-wii",
+    "body": "content: '\\\\F5AB';"
+  },
+  "mdi-border-top": {
+    "prefix": "mdi-border-top",
+    "body": "content: '\\\\F0D1';"
+  },
+  "mdi-numeric-8-box": {
+    "prefix": "mdi-numeric-8-box",
+    "body": "content: '\\\\F3B9';"
+  },
+  "mdi-emoticon-tongue": {
+    "prefix": "mdi-emoticon-tongue",
+    "body": "content: '\\\\F1F9';"
+  },
+  "mdi-inbox": {
+    "prefix": "mdi-inbox",
+    "body": "content: '\\\\F2FB';"
+  },
+  "mdi-hololens": {
+    "prefix": "mdi-hololens",
+    "body": "content: '\\\\F2DB';"
+  },
+  "mdi-car-connected": {
+    "prefix": "mdi-car-connected",
+    "body": "content: '\\\\F10D';"
+  },
+  "mdi-numeric-6-box-multiple-outline": {
+    "prefix": "mdi-numeric-6-box-multiple-outline",
+    "body": "content: '\\\\F3B4';"
+  },
+  "mdi-source-fork": {
+    "prefix": "mdi-source-fork",
+    "body": "content: '\\\\F4C1';"
+  },
+  "mdi-loupe": {
+    "prefix": "mdi-loupe",
+    "body": "content: '\\\\F345';"
+  },
+  "mdi-fire": {
+    "prefix": "mdi-fire",
+    "body": "content: '\\\\F238';"
+  },
+  "mdi-backspace": {
+    "prefix": "mdi-backspace",
+    "body": "content: '\\\\F06E';"
+  },
+  "mdi-volume-low": {
+    "prefix": "mdi-volume-low",
+    "body": "content: '\\\\F57F';"
+  },
+  "mdi-view-week": {
+    "prefix": "mdi-view-week",
+    "body": "content: '\\\\F576';"
+  },
+  "mdi-message-processing": {
+    "prefix": "mdi-message-processing",
+    "body": "content: '\\\\F366';"
+  },
+  "mdi-weather-sunset-up": {
+    "prefix": "mdi-weather-sunset-up",
+    "body": "content: '\\\\F59C';"
+  },
+  "mdi-arrow-left": {
+    "prefix": "mdi-arrow-left",
+    "body": "content: '\\\\F04D';"
+  },
+  "mdi-message-text": {
+    "prefix": "mdi-message-text",
+    "body": "content: '\\\\F369';"
+  },
+  "mdi-pot-mix": {
+    "prefix": "mdi-pot-mix",
+    "body": "content: '\\\\F65B';"
+  },
+  "mdi-library-music": {
+    "prefix": "mdi-library-music",
+    "body": "content: '\\\\F333';"
+  },
+  "mdi-keyboard-close": {
+    "prefix": "mdi-keyboard-close",
+    "body": "content: '\\\\F30F';"
+  },
+  "mdi-chevron-double-up": {
+    "prefix": "mdi-chevron-double-up",
+    "body": "content: '\\\\F13F';"
+  },
+  "mdi-vector-union": {
+    "prefix": "mdi-vector-union",
+    "body": "content: '\\\\F564';"
+  },
+  "mdi-bullseye": {
+    "prefix": "mdi-bullseye",
+    "body": "content: '\\\\F5DD';"
+  },
+  "mdi-battery-20": {
+    "prefix": "mdi-battery-20",
+    "body": "content: '\\\\F07B';"
+  },
+  "mdi-format-wrap-square": {
+    "prefix": "mdi-format-wrap-square",
+    "body": "content: '\\\\F289';"
+  },
+  "mdi-lightbulb": {
+    "prefix": "mdi-lightbulb",
+    "body": "content: '\\\\F335';"
+  },
+  "mdi-image-broken-variant": {
+    "prefix": "mdi-image-broken-variant",
+    "body": "content: '\\\\F2EE';"
+  },
+  "mdi-lumx": {
+    "prefix": "mdi-lumx",
+    "body": "content: '\\\\F346';"
+  },
+  "mdi-tree": {
+    "prefix": "mdi-tree",
+    "body": "content: '\\\\F531';"
+  },
+  "mdi-account-location": {
+    "prefix": "mdi-account-location",
+    "body": "content: '\\\\F00C';"
+  },
+  "mdi-filter-variant": {
+    "prefix": "mdi-filter-variant",
+    "body": "content: '\\\\F236';"
+  },
+  "mdi-cellphone-dock": {
+    "prefix": "mdi-cellphone-dock",
+    "body": "content: '\\\\F11F';"
+  },
+  "mdi-white-balance-incandescent": {
+    "prefix": "mdi-white-balance-incandescent",
+    "body": "content: '\\\\F5A6';"
+  },
+  "mdi-cloud-outline-off": {
+    "prefix": "mdi-cloud-outline-off",
+    "body": "content: '\\\\F164';"
+  },
+  "mdi-nfc-variant": {
+    "prefix": "mdi-nfc-variant",
+    "body": "content: '\\\\F398';"
+  },
+  "mdi-city": {
+    "prefix": "mdi-city",
+    "body": "content: '\\\\F146';"
+  },
+  "mdi-arrow-top-right": {
+    "prefix": "mdi-arrow-top-right",
+    "body": "content: '\\\\F05C';"
+  },
+  "mdi-comment-alert": {
+    "prefix": "mdi-comment-alert",
+    "body": "content: '\\\\F17D';"
+  },
+  "mdi-alarm-multiple": {
+    "prefix": "mdi-alarm-multiple",
+    "body": "content: '\\\\F022';"
+  },
+  "mdi-clipboard-text": {
+    "prefix": "mdi-clipboard-text",
+    "body": "content: '\\\\F14E';"
+  },
+  "mdi-chevron-left": {
+    "prefix": "mdi-chevron-left",
+    "body": "content: '\\\\F141';"
+  },
+  "mdi-hexagon-outline": {
+    "prefix": "mdi-hexagon-outline",
+    "body": "content: '\\\\F2D9';"
+  },
+  "mdi-shape-circle-plus": {
+    "prefix": "mdi-shape-circle-plus",
+    "body": "content: '\\\\F65D';"
+  },
+  "mdi-phone-minus": {
+    "prefix": "mdi-phone-minus",
+    "body": "content: '\\\\F658';"
+  },
+  "mdi-folder-move": {
+    "prefix": "mdi-folder-move",
+    "body": "content: '\\\\F252';"
+  },
+  "mdi-language-python": {
+    "prefix": "mdi-language-python",
+    "body": "content: '\\\\F320';"
+  },
+  "mdi-playlist-minus": {
+    "prefix": "mdi-playlist-minus",
+    "body": "content: '\\\\F410';"
+  },
+  "mdi-format-align-justify": {
+    "prefix": "mdi-format-align-justify",
+    "body": "content: '\\\\F261';"
+  },
+  "mdi-barcode-scan": {
+    "prefix": "mdi-barcode-scan",
+    "body": "content: '\\\\F072';"
+  },
+  "mdi-equal": {
+    "prefix": "mdi-equal",
+    "body": "content: '\\\\F1FC';"
+  },
+  "mdi-numeric-0-box": {
+    "prefix": "mdi-numeric-0-box",
+    "body": "content: '\\\\F3A1';"
+  },
+  "mdi-help": {
+    "prefix": "mdi-help",
+    "body": "content: '\\\\F2D6';"
+  },
+  "mdi-tablet-android": {
+    "prefix": "mdi-tablet-android",
+    "body": "content: '\\\\F4F7';"
+  },
+  "mdi-hangouts": {
+    "prefix": "mdi-hangouts",
+    "body": "content: '\\\\F2C9';"
+  },
+  "mdi-grid-off": {
+    "prefix": "mdi-grid-off",
+    "body": "content: '\\\\F2C2';"
+  },
+  "mdi-bike": {
+    "prefix": "mdi-bike",
+    "body": "content: '\\\\F0A3';"
+  },
+  "mdi-cellphone-android": {
+    "prefix": "mdi-cellphone-android",
+    "body": "content: '\\\\F11D';"
+  },
+  "mdi-diamond": {
+    "prefix": "mdi-diamond",
+    "body": "content: '\\\\F1C8';"
+  },
+  "mdi-octagon": {
+    "prefix": "mdi-octagon",
+    "body": "content: '\\\\F3C3';"
+  },
+  "mdi-code-braces": {
+    "prefix": "mdi-code-braces",
+    "body": "content: '\\\\F169';"
+  },
+  "mdi-flip-to-front": {
+    "prefix": "mdi-flip-to-front",
+    "body": "content: '\\\\F248';"
+  },
+  "mdi-ray-start-arrow": {
+    "prefix": "mdi-ray-start-arrow",
+    "body": "content: '\\\\F443';"
+  },
+  "mdi-keyboard-return": {
+    "prefix": "mdi-keyboard-return",
+    "body": "content: '\\\\F311';"
+  },
+  "mdi-language-c": {
+    "prefix": "mdi-language-c",
+    "body": "content: '\\\\F671';"
+  },
+  "mdi-format-paragraph": {
+    "prefix": "mdi-format-paragraph",
+    "body": "content: '\\\\F27D';"
+  },
+  "mdi-counter": {
+    "prefix": "mdi-counter",
+    "body": "content: '\\\\F199';"
+  },
+  "mdi-appnet": {
+    "prefix": "mdi-appnet",
+    "body": "content: '\\\\F03A';"
+  },
+  "mdi-usb": {
+    "prefix": "mdi-usb",
+    "body": "content: '\\\\F553';"
+  },
+  "mdi-anchor": {
+    "prefix": "mdi-anchor",
+    "body": "content: '\\\\F031';"
+  },
+  "mdi-elevation-rise": {
+    "prefix": "mdi-elevation-rise",
+    "body": "content: '\\\\F1EC';"
+  },
+  "mdi-scale-balance": {
+    "prefix": "mdi-scale-balance",
+    "body": "content: '\\\\F5D1';"
+  },
+  "mdi-tooltip-outline-plus": {
+    "prefix": "mdi-tooltip-outline-plus",
+    "body": "content: '\\\\F527';"
+  },
+  "mdi-github-box": {
+    "prefix": "mdi-github-box",
+    "body": "content: '\\\\F2A3';"
+  },
+  "mdi-professional-hexagon": {
+    "prefix": "mdi-professional-hexagon",
+    "body": "content: '\\\\F42D';"
+  },
+  "mdi-pencil-box-outline": {
+    "prefix": "mdi-pencil-box-outline",
+    "body": "content: '\\\\F3ED';"
+  },
+  "mdi-record-rec": {
+    "prefix": "mdi-record-rec",
+    "body": "content: '\\\\F44B';"
+  },
+  "mdi-hand-pointing-right": {
+    "prefix": "mdi-hand-pointing-right",
+    "body": "content: '\\\\F2C7';"
+  },
+  "mdi-launch": {
+    "prefix": "mdi-launch",
+    "body": "content: '\\\\F327';"
+  },
+  "mdi-ferry": {
+    "prefix": "mdi-ferry",
+    "body": "content: '\\\\F213';"
+  },
+  "mdi-checkbox-multiple-blank-outline": {
+    "prefix": "mdi-checkbox-multiple-blank-outline",
+    "body": "content: '\\\\F137';"
+  },
+  "mdi-comment-remove-outline": {
+    "prefix": "mdi-comment-remove-outline",
+    "body": "content: '\\\\F187';"
+  },
+  "mdi-clock-alert": {
+    "prefix": "mdi-clock-alert",
+    "body": "content: '\\\\F5CE';"
+  },
+  "mdi-code-greater-than": {
+    "prefix": "mdi-code-greater-than",
+    "body": "content: '\\\\F16C';"
+  },
+  "mdi-access-point": {
+    "prefix": "mdi-access-point",
+    "body": "content: '\\\\F002';"
+  },
+  "mdi-weather-cloudy": {
+    "prefix": "mdi-weather-cloudy",
+    "body": "content: '\\\\F590';"
+  },
+  "mdi-cellphone-iphone": {
+    "prefix": "mdi-cellphone-iphone",
+    "body": "content: '\\\\F120';"
+  },
+  "mdi-flag-outline-variant": {
+    "prefix": "mdi-flag-outline-variant",
+    "body": "content: '\\\\F23E';"
+  },
+  "mdi-book-minus": {
+    "prefix": "mdi-book-minus",
+    "body": "content: '\\\\F5D9';"
+  },
+  "mdi-debug-step-out": {
+    "prefix": "mdi-debug-step-out",
+    "body": "content: '\\\\F1BC';"
+  },
+  "mdi-camera-front-variant": {
+    "prefix": "mdi-camera-front-variant",
+    "body": "content: '\\\\F103';"
+  },
+  "mdi-comment-account": {
+    "prefix": "mdi-comment-account",
+    "body": "content: '\\\\F17B';"
+  },
+  "mdi-microphone-variant-off": {
+    "prefix": "mdi-microphone-variant-off",
+    "body": "content: '\\\\F371';"
+  },
+  "mdi-redo-variant": {
+    "prefix": "mdi-redo-variant",
+    "body": "content: '\\\\F44F';"
+  },
+  "mdi-printer-alert": {
+    "prefix": "mdi-printer-alert",
+    "body": "content: '\\\\F42C';"
+  },
+  "mdi-account-settings": {
+    "prefix": "mdi-account-settings",
+    "body": "content: '\\\\F630';"
+  },
+  "mdi-stackexchange": {
+    "prefix": "mdi-stackexchange",
+    "body": "content: '\\\\F60B';"
+  },
+  "mdi-memory": {
+    "prefix": "mdi-memory",
+    "body": "content: '\\\\F35B';"
+  },
+  "mdi-format-float-none": {
+    "prefix": "mdi-format-float-none",
+    "body": "content: '\\\\F269';"
+  },
+  "mdi-crosshairs": {
+    "prefix": "mdi-crosshairs",
+    "body": "content: '\\\\F1A3';"
+  },
+  "mdi-subdirectory-arrow-left": {
+    "prefix": "mdi-subdirectory-arrow-left",
+    "body": "content: '\\\\F60C';"
+  },
+  "mdi-minus-network": {
+    "prefix": "mdi-minus-network",
+    "body": "content: '\\\\F378';"
+  },
+  "mdi-football-australian": {
+    "prefix": "mdi-football-australian",
+    "body": "content: '\\\\F25E';"
+  },
+  "mdi-beats": {
+    "prefix": "mdi-beats",
+    "body": "content: '\\\\F097';"
+  },
+  "mdi-castle": {
+    "prefix": "mdi-castle",
+    "body": "content: '\\\\F11A';"
+  },
+  "mdi-eyedropper-variant": {
+    "prefix": "mdi-eyedropper-variant",
+    "body": "content: '\\\\F20B';"
+  },
+  "mdi-menu-right": {
+    "prefix": "mdi-menu-right",
+    "body": "content: '\\\\F35F';"
+  },
+  "mdi-monitor-multiple": {
+    "prefix": "mdi-monitor-multiple",
+    "body": "content: '\\\\F37A';"
+  },
+  "mdi-skip-forward": {
+    "prefix": "mdi-skip-forward",
+    "body": "content: '\\\\F4AC';"
+  },
+  "mdi-heart-box": {
+    "prefix": "mdi-heart-box",
+    "body": "content: '\\\\F2D2';"
+  },
+  "mdi-palette-advanced": {
+    "prefix": "mdi-palette-advanced",
+    "body": "content: '\\\\F3D9';"
+  },
+  "mdi-store-24-hour": {
+    "prefix": "mdi-store-24-hour",
+    "body": "content: '\\\\F4DD';"
+  },
+  "mdi-ray-start": {
+    "prefix": "mdi-ray-start",
+    "body": "content: '\\\\F442';"
+  },
+  "mdi-clock-in": {
+    "prefix": "mdi-clock-in",
+    "body": "content: '\\\\F153';"
+  },
+  "mdi-pandora": {
+    "prefix": "mdi-pandora",
+    "body": "content: '\\\\F3DB';"
+  },
+  "mdi-camera-timer": {
+    "prefix": "mdi-camera-timer",
+    "body": "content: '\\\\F109';"
+  },
+  "mdi-guitar-pick-outline": {
+    "prefix": "mdi-guitar-pick-outline",
+    "body": "content: '\\\\F2C6';"
+  },
+  "mdi-format-list-bulleted-type": {
+    "prefix": "mdi-format-list-bulleted-type",
+    "body": "content: '\\\\F27A';"
+  },
+  "mdi-view-stream": {
+    "prefix": "mdi-view-stream",
+    "body": "content: '\\\\F575';"
+  },
+  "mdi-music-note-bluetooth": {
+    "prefix": "mdi-music-note-bluetooth",
+    "body": "content: '\\\\F5FE';"
+  },
+  "mdi-file-powerpoint": {
+    "prefix": "mdi-file-powerpoint",
+    "body": "content: '\\\\F227';"
+  },
+  "mdi-bowling": {
+    "prefix": "mdi-bowling",
+    "body": "content: '\\\\F0D3';"
+  },
+  "mdi-dots-horizontal": {
+    "prefix": "mdi-dots-horizontal",
+    "body": "content: '\\\\F1D8';"
+  },
+  "mdi-ethernet-cable-off": {
+    "prefix": "mdi-ethernet-cable-off",
+    "body": "content: '\\\\F202';"
+  },
+  "mdi-alert-circle-outline": {
+    "prefix": "mdi-alert-circle-outline",
+    "body": "content: '\\\\F5D6';"
+  },
+  "mdi-temperature-celsius": {
+    "prefix": "mdi-temperature-celsius",
+    "body": "content: '\\\\F504';"
+  },
+  "mdi-seal": {
+    "prefix": "mdi-seal",
+    "body": "content: '\\\\F47A';"
+  },
+  "mdi-violin": {
+    "prefix": "mdi-violin",
+    "body": "content: '\\\\F60F';"
+  },
+  "mdi-package-up": {
+    "prefix": "mdi-package-up",
+    "body": "content: '\\\\F3D5';"
+  },
+  "mdi-star-outline": {
+    "prefix": "mdi-star-outline",
+    "body": "content: '\\\\F4D2';"
+  },
+  "mdi-format-horizontal-align-center": {
+    "prefix": "mdi-format-horizontal-align-center",
+    "body": "content: '\\\\F61E';"
+  },
+  "mdi-plus-network": {
+    "prefix": "mdi-plus-network",
+    "body": "content: '\\\\F41A';"
+  },
+  "mdi-fullscreen": {
+    "prefix": "mdi-fullscreen",
+    "body": "content: '\\\\F293';"
+  },
+  "mdi-phone-incoming": {
+    "prefix": "mdi-phone-incoming",
+    "body": "content: '\\\\F3F7';"
+  },
+  "mdi-format-list-numbers": {
+    "prefix": "mdi-format-list-numbers",
+    "body": "content: '\\\\F27B';"
+  },
+  "mdi-football-helmet": {
+    "prefix": "mdi-football-helmet",
+    "body": "content: '\\\\F25F';"
+  },
+  "mdi-layers": {
+    "prefix": "mdi-layers",
+    "body": "content: '\\\\F328';"
+  },
+  "mdi-flask-outline": {
+    "prefix": "mdi-flask-outline",
+    "body": "content: '\\\\F096';"
+  },
+  "mdi-timer-10": {
+    "prefix": "mdi-timer-10",
+    "body": "content: '\\\\F51C';"
+  },
+  "mdi-skip-next-circle-outline": {
+    "prefix": "mdi-skip-next-circle-outline",
+    "body": "content: '\\\\F662';"
+  },
+  "mdi-key-plus": {
+    "prefix": "mdi-key-plus",
+    "body": "content: '\\\\F309';"
+  },
+  "mdi-verified": {
+    "prefix": "mdi-verified",
+    "body": "content: '\\\\F565';"
+  },
+  "mdi-ungroup": {
+    "prefix": "mdi-ungroup",
+    "body": "content: '\\\\F550';"
+  },
+  "mdi-wrap": {
+    "prefix": "mdi-wrap",
+    "body": "content: '\\\\F5B6';"
+  },
+  "mdi-settings-box": {
+    "prefix": "mdi-settings-box",
+    "body": "content: '\\\\F494';"
+  },
+  "mdi-arrow-all": {
+    "prefix": "mdi-arrow-all",
+    "body": "content: '\\\\F041';"
+  },
+  "mdi-phone-bluetooth": {
+    "prefix": "mdi-phone-bluetooth",
+    "body": "content: '\\\\F3F3';"
+  },
+  "mdi-poll": {
+    "prefix": "mdi-poll",
+    "body": "content: '\\\\F41F';"
+  },
+  "mdi-yelp": {
+    "prefix": "mdi-yelp",
+    "body": "content: '\\\\F5C2';"
+  },
+  "mdi-sunglasses": {
+    "prefix": "mdi-sunglasses",
+    "body": "content: '\\\\F4E0';"
+  },
+  "mdi-disk": {
+    "prefix": "mdi-disk",
+    "body": "content: '\\\\F5EE';"
+  },
+  "mdi-border-all": {
+    "prefix": "mdi-border-all",
+    "body": "content: '\\\\F0C7';"
+  },
+  "mdi-palette": {
+    "prefix": "mdi-palette",
+    "body": "content: '\\\\F3D8';"
+  },
+  "mdi-image-filter": {
+    "prefix": "mdi-image-filter",
+    "body": "content: '\\\\F2EF';"
+  },
+  "mdi-gnome": {
+    "prefix": "mdi-gnome",
+    "body": "content: '\\\\F2AC';"
+  },
+  "mdi-mouse-off": {
+    "prefix": "mdi-mouse-off",
+    "body": "content: '\\\\F37E';"
+  },
+  "mdi-pulse": {
+    "prefix": "mdi-pulse",
+    "body": "content: '\\\\F430';"
+  },
+  "mdi-dropbox": {
+    "prefix": "mdi-dropbox",
+    "body": "content: '\\\\F1E3';"
+  },
+  "mdi-upload": {
+    "prefix": "mdi-upload",
+    "body": "content: '\\\\F552';"
+  },
+  "mdi-border-horizontal": {
+    "prefix": "mdi-border-horizontal",
+    "body": "content: '\\\\F0CA';"
+  },
+  "mdi-pencil-box": {
+    "prefix": "mdi-pencil-box",
+    "body": "content: '\\\\F3EC';"
+  },
+  "mdi-battery-30": {
+    "prefix": "mdi-battery-30",
+    "body": "content: '\\\\F07C';"
+  },
+  "mdi-beta": {
+    "prefix": "mdi-beta",
+    "body": "content: '\\\\F0A1';"
+  },
+  "mdi-server-plus": {
+    "prefix": "mdi-server-plus",
+    "body": "content: '\\\\F490';"
+  },
+  "mdi-xing-box": {
+    "prefix": "mdi-xing-box",
+    "body": "content: '\\\\F5BE';"
+  },
+  "mdi-link-variant": {
+    "prefix": "mdi-link-variant",
+    "body": "content: '\\\\F339';"
+  },
+  "mdi-camcorder-off": {
+    "prefix": "mdi-camcorder-off",
+    "body": "content: '\\\\F0FF';"
+  },
+  "mdi-image": {
+    "prefix": "mdi-image",
+    "body": "content: '\\\\F2E9';"
+  },
+  "mdi-routes": {
+    "prefix": "mdi-routes",
+    "body": "content: '\\\\F46A';"
+  },
+  "mdi-blur-linear": {
+    "prefix": "mdi-blur-linear",
+    "body": "content: '\\\\F0B6';"
+  },
+  "mdi-cake-layered": {
+    "prefix": "mdi-cake-layered",
+    "body": "content: '\\\\F0EA';"
+  },
+  "mdi-yeast": {
+    "prefix": "mdi-yeast",
+    "body": "content: '\\\\F5C1';"
+  },
+  "mdi-store": {
+    "prefix": "mdi-store",
+    "body": "content: '\\\\F4DC';"
+  },
+  "mdi-receipt": {
+    "prefix": "mdi-receipt",
+    "body": "content: '\\\\F449';"
+  },
+  "mdi-lock-open": {
+    "prefix": "mdi-lock-open",
+    "body": "content: '\\\\F33F';"
+  },
+  "mdi-headphones-settings": {
+    "prefix": "mdi-headphones-settings",
+    "body": "content: '\\\\F2CD';"
+  },
+  "mdi-android-debug-bridge": {
+    "prefix": "mdi-android-debug-bridge",
+    "body": "content: '\\\\F033';"
+  },
+  "mdi-chart-pie": {
+    "prefix": "mdi-chart-pie",
+    "body": "content: '\\\\F12B';"
+  },
+  "mdi-xbox-controller-off": {
+    "prefix": "mdi-xbox-controller-off",
+    "body": "content: '\\\\F5BB';"
+  },
+  "mdi-timer": {
+    "prefix": "mdi-timer",
+    "body": "content: '\\\\F51B';"
+  },
+  "mdi-wan": {
+    "prefix": "mdi-wan",
+    "body": "content: '\\\\F588';"
+  },
+  "mdi-regex": {
+    "prefix": "mdi-regex",
+    "body": "content: '\\\\F451';"
+  },
+  "mdi-currency-usd": {
+    "prefix": "mdi-currency-usd",
+    "body": "content: '\\\\F1B3';"
+  },
+  "mdi-format-float-center": {
+    "prefix": "mdi-format-float-center",
+    "body": "content: '\\\\F267';"
+  },
+  "mdi-border-outside": {
+    "prefix": "mdi-border-outside",
+    "body": "content: '\\\\F0CE';"
+  },
+  "mdi-cursor-move": {
+    "prefix": "mdi-cursor-move",
+    "body": "content: '\\\\F1B6';"
+  },
+  "mdi-gas-cylinder": {
+    "prefix": "mdi-gas-cylinder",
+    "body": "content: '\\\\F647';"
+  },
+  "mdi-laptop-mac": {
+    "prefix": "mdi-laptop-mac",
+    "body": "content: '\\\\F324';"
+  },
+  "mdi-stove": {
+    "prefix": "mdi-stove",
+    "body": "content: '\\\\F4DE';"
+  },
+  "mdi-cellphone": {
+    "prefix": "mdi-cellphone",
+    "body": "content: '\\\\F11C';"
+  },
+  "mdi-paperclip": {
+    "prefix": "mdi-paperclip",
+    "body": "content: '\\\\F3E2';"
+  },
+  "mdi-account-convert": {
+    "prefix": "mdi-account-convert",
+    "body": "content: '\\\\F00A';"
+  },
+  "mdi-tab": {
+    "prefix": "mdi-tab",
+    "body": "content: '\\\\F4E9';"
+  },
+  "mdi-numeric-2-box-outline": {
+    "prefix": "mdi-numeric-2-box-outline",
+    "body": "content: '\\\\F3A9';"
+  },
+  "mdi-wallet": {
+    "prefix": "mdi-wallet",
+    "body": "content: '\\\\F584';"
+  },
+  "mdi-elevator": {
+    "prefix": "mdi-elevator",
+    "body": "content: '\\\\F1ED';"
+  },
+  "mdi-import": {
+    "prefix": "mdi-import",
+    "body": "content: '\\\\F2FA';"
+  },
+  "mdi-crop-free": {
+    "prefix": "mdi-crop-free",
+    "body": "content: '\\\\F19F';"
+  },
+  "mdi-code-parentheses": {
+    "prefix": "mdi-code-parentheses",
+    "body": "content: '\\\\F172';"
+  },
+  "mdi-record": {
+    "prefix": "mdi-record",
+    "body": "content: '\\\\F44A';"
+  },
+  "mdi-ev-station": {
+    "prefix": "mdi-ev-station",
+    "body": "content: '\\\\F5F1';"
+  },
+  "mdi-gender-male-female": {
+    "prefix": "mdi-gender-male-female",
+    "body": "content: '\\\\F29E';"
+  },
+  "mdi-fingerprint": {
+    "prefix": "mdi-fingerprint",
+    "body": "content: '\\\\F237';"
+  },
+  "mdi-file-restore": {
+    "prefix": "mdi-file-restore",
+    "body": "content: '\\\\F670';"
+  },
+  "mdi-domain": {
+    "prefix": "mdi-domain",
+    "body": "content: '\\\\F1D7';"
+  },
+  "mdi-redo": {
+    "prefix": "mdi-redo",
+    "body": "content: '\\\\F44E';"
+  },
+  "mdi-swap-horizontal": {
+    "prefix": "mdi-swap-horizontal",
+    "body": "content: '\\\\F4E1';"
+  },
+  "mdi-dumbbell": {
+    "prefix": "mdi-dumbbell",
+    "body": "content: '\\\\F1E6';"
+  },
+  "mdi-apps": {
+    "prefix": "mdi-apps",
+    "body": "content: '\\\\F03B';"
+  },
+  "mdi-relative-scale": {
+    "prefix": "mdi-relative-scale",
+    "body": "content: '\\\\F452';"
+  },
+  "mdi-fridge": {
+    "prefix": "mdi-fridge",
+    "body": "content: '\\\\F28F';"
+  },
+  "mdi-image-filter-drama": {
+    "prefix": "mdi-image-filter-drama",
+    "body": "content: '\\\\F2F3';"
+  },
+  "mdi-account-search": {
+    "prefix": "mdi-account-search",
+    "body": "content: '\\\\F016';"
+  },
+  "mdi-screen-rotation": {
+    "prefix": "mdi-screen-rotation",
+    "body": "content: '\\\\F475';"
+  },
+  "mdi-arrow-down-bold-hexagon-outline": {
+    "prefix": "mdi-arrow-down-bold-hexagon-outline",
+    "body": "content: '\\\\F049';"
+  },
+  "mdi-chevron-up": {
+    "prefix": "mdi-chevron-up",
+    "body": "content: '\\\\F143';"
+  },
+  "mdi-message-reply": {
+    "prefix": "mdi-message-reply",
+    "body": "content: '\\\\F367';"
+  },
+  "mdi-swap-vertical": {
+    "prefix": "mdi-swap-vertical",
+    "body": "content: '\\\\F4E2';"
+  },
+  "mdi-check-circle": {
+    "prefix": "mdi-check-circle",
+    "body": "content: '\\\\F5E0';"
+  },
+  "mdi-account-circle": {
+    "prefix": "mdi-account-circle",
+    "body": "content: '\\\\F009';"
+  },
+  "mdi-google-plus-box": {
+    "prefix": "mdi-google-plus-box",
+    "body": "content: '\\\\F2BE';"
+  },
+  "mdi-seat-legroom-extra": {
+    "prefix": "mdi-seat-legroom-extra",
+    "body": "content: '\\\\F47E';"
+  },
+  "mdi-houzz-box": {
+    "prefix": "mdi-houzz-box",
+    "body": "content: '\\\\F2E5';"
+  },
+  "mdi-close-octagon": {
+    "prefix": "mdi-close-octagon",
+    "body": "content: '\\\\F15C';"
+  },
+  "mdi-margin": {
+    "prefix": "mdi-margin",
+    "body": "content: '\\\\F353';"
+  },
+  "mdi-carrot": {
+    "prefix": "mdi-carrot",
+    "body": "content: '\\\\F10F';"
+  },
+  "mdi-eye-off": {
+    "prefix": "mdi-eye-off",
+    "body": "content: '\\\\F209';"
+  },
+  "mdi-login-variant": {
+    "prefix": "mdi-login-variant",
+    "body": "content: '\\\\F5FC';"
+  },
+  "mdi-play-circle-outline": {
+    "prefix": "mdi-play-circle-outline",
+    "body": "content: '\\\\F40D';"
+  },
+  "mdi-image-album": {
+    "prefix": "mdi-image-album",
+    "body": "content: '\\\\F2EA';"
+  },
+  "mdi-google-wallet": {
+    "prefix": "mdi-google-wallet",
+    "body": "content: '\\\\F2C0';"
+  },
+  "mdi-folder-account": {
+    "prefix": "mdi-folder-account",
+    "body": "content: '\\\\F24C';"
+  },
+  "mdi-currency-gbp": {
+    "prefix": "mdi-currency-gbp",
+    "body": "content: '\\\\F1AE';"
+  },
+  "mdi-tooltip-image": {
+    "prefix": "mdi-tooltip-image",
+    "body": "content: '\\\\F525';"
+  },
+  "mdi-car-wash": {
+    "prefix": "mdi-car-wash",
+    "body": "content: '\\\\F10E';"
+  },
+  "mdi-package-variant": {
+    "prefix": "mdi-package-variant",
+    "body": "content: '\\\\F3D6';"
+  },
+  "mdi-format-text": {
+    "prefix": "mdi-format-text",
+    "body": "content: '\\\\F284';"
+  },
+  "mdi-pi-box": {
+    "prefix": "mdi-pi-box",
+    "body": "content: '\\\\F400';"
+  },
+  "mdi-seat-recline-extra": {
+    "prefix": "mdi-seat-recline-extra",
+    "body": "content: '\\\\F481';"
+  },
+  "mdi-texture": {
+    "prefix": "mdi-texture",
+    "body": "content: '\\\\F50C';"
+  },
+  "mdi-tooltip": {
+    "prefix": "mdi-tooltip",
+    "body": "content: '\\\\F523';"
+  },
+  "mdi-gift": {
+    "prefix": "mdi-gift",
+    "body": "content: '\\\\F2A1';"
+  },
+  "mdi-battery-70": {
+    "prefix": "mdi-battery-70",
+    "body": "content: '\\\\F080';"
+  },
+  "mdi-wifi-off": {
+    "prefix": "mdi-wifi-off",
+    "body": "content: '\\\\F5AA';"
+  },
+  "mdi-worker": {
+    "prefix": "mdi-worker",
+    "body": "content: '\\\\F5B5';"
+  },
+  "mdi-chevron-double-down": {
+    "prefix": "mdi-chevron-double-down",
+    "body": "content: '\\\\F13C';"
+  },
+  "mdi-navigation": {
+    "prefix": "mdi-navigation",
+    "body": "content: '\\\\F390';"
+  },
+  "mdi-camera": {
+    "prefix": "mdi-camera",
+    "body": "content: '\\\\F100';"
+  },
+  "mdi-shuffle": {
+    "prefix": "mdi-shuffle",
+    "body": "content: '\\\\F49D';"
+  },
+  "mdi-file-find": {
+    "prefix": "mdi-file-find",
+    "body": "content: '\\\\F21E';"
+  },
+  "mdi-emoticon-poop": {
+    "prefix": "mdi-emoticon-poop",
+    "body": "content: '\\\\F1F7';"
+  },
+  "mdi-numeric-6-box-outline": {
+    "prefix": "mdi-numeric-6-box-outline",
+    "body": "content: '\\\\F3B5';"
+  },
+  "mdi-black-mesa": {
+    "prefix": "mdi-black-mesa",
+    "body": "content: '\\\\F0A9';"
+  },
+  "mdi-scale": {
+    "prefix": "mdi-scale",
+    "body": "content: '\\\\F472';"
+  },
+  "mdi-close-box-outline": {
+    "prefix": "mdi-close-box-outline",
+    "body": "content: '\\\\F158';"
+  },
+  "mdi-cloud-print": {
+    "prefix": "mdi-cloud-print",
+    "body": "content: '\\\\F165';"
+  },
+  "mdi-table-edit": {
+    "prefix": "mdi-table-edit",
+    "body": "content: '\\\\F4F0';"
+  },
+  "mdi-trophy-award": {
+    "prefix": "mdi-trophy-award",
+    "body": "content: '\\\\F539';"
+  },
+  "mdi-page-last": {
+    "prefix": "mdi-page-last",
+    "body": "content: '\\\\F601';"
+  },
+  "mdi-ray-vertex": {
+    "prefix": "mdi-ray-vertex",
+    "body": "content: '\\\\F445';"
+  },
+  "mdi-seat-flat": {
+    "prefix": "mdi-seat-flat",
+    "body": "content: '\\\\F47B';"
+  },
+  "mdi-decimal-decrease": {
+    "prefix": "mdi-decimal-decrease",
+    "body": "content: '\\\\F1BE';"
+  },
+  "mdi-heart": {
+    "prefix": "mdi-heart",
+    "body": "content: '\\\\F2D1';"
+  },
+  "mdi-bookmark-music": {
+    "prefix": "mdi-bookmark-music",
+    "body": "content: '\\\\F0C2';"
+  },
+  "mdi-traffic-light": {
+    "prefix": "mdi-traffic-light",
+    "body": "content: '\\\\F52B';"
+  },
+  "mdi-numeric-8-box-outline": {
+    "prefix": "mdi-numeric-8-box-outline",
+    "body": "content: '\\\\F3BB';"
+  },
+  "mdi-cloud-upload": {
+    "prefix": "mdi-cloud-upload",
+    "body": "content: '\\\\F167';"
+  },
+  "mdi-basket-fill": {
+    "prefix": "mdi-basket-fill",
+    "body": "content: '\\\\F077';"
+  },
+  "mdi-weather-hail": {
+    "prefix": "mdi-weather-hail",
+    "body": "content: '\\\\F592';"
+  },
+  "mdi-ribbon": {
+    "prefix": "mdi-ribbon",
+    "body": "content: '\\\\F460';"
+  },
+  "mdi-map-marker-circle": {
+    "prefix": "mdi-map-marker-circle",
+    "body": "content: '\\\\F34F';"
+  },
+  "mdi-chevron-down": {
+    "prefix": "mdi-chevron-down",
+    "body": "content: '\\\\F140';"
+  },
+  "mdi-twitter": {
+    "prefix": "mdi-twitter",
+    "body": "content: '\\\\F544';"
+  },
+  "mdi-checkbox-marked-circle-outline": {
+    "prefix": "mdi-checkbox-marked-circle-outline",
+    "body": "content: '\\\\F134';"
+  },
+  "mdi-cards": {
+    "prefix": "mdi-cards",
+    "body": "content: '\\\\F638';"
+  },
+  "mdi-presentation-play": {
+    "prefix": "mdi-presentation-play",
+    "body": "content: '\\\\F429';"
+  },
+  "mdi-bell-off": {
+    "prefix": "mdi-bell-off",
+    "body": "content: '\\\\F09B';"
+  },
+  "mdi-gas-station": {
+    "prefix": "mdi-gas-station",
+    "body": "content: '\\\\F298';"
+  },
+  "mdi-alert-circle": {
+    "prefix": "mdi-alert-circle",
+    "body": "content: '\\\\F028';"
+  },
+  "mdi-camcorder-box-off": {
+    "prefix": "mdi-camcorder-box-off",
+    "body": "content: '\\\\F0FE';"
+  },
+  "mdi-play-circle": {
+    "prefix": "mdi-play-circle",
+    "body": "content: '\\\\F40C';"
+  },
+  "mdi-bookmark": {
+    "prefix": "mdi-bookmark",
+    "body": "content: '\\\\F0C0';"
+  },
+  "mdi-note-plus": {
+    "prefix": "mdi-note-plus",
+    "body": "content: '\\\\F39C';"
+  },
+  "mdi-weather-sunset-down": {
+    "prefix": "mdi-weather-sunset-down",
+    "body": "content: '\\\\F59B';"
+  },
+  "mdi-magnify-minus": {
+    "prefix": "mdi-magnify-minus",
+    "body": "content: '\\\\F34A';"
+  },
+  "mdi-reply": {
+    "prefix": "mdi-reply",
+    "body": "content: '\\\\F45A';"
+  },
+  "mdi-panda": {
+    "prefix": "mdi-panda",
+    "body": "content: '\\\\F3DA';"
+  },
+  "mdi-vector-intersection": {
+    "prefix": "mdi-vector-intersection",
+    "body": "content: '\\\\F55D';"
+  },
+  "mdi-raspberrypi": {
+    "prefix": "mdi-raspberrypi",
+    "body": "content: '\\\\F43F';"
+  },
+  "mdi-file-send": {
+    "prefix": "mdi-file-send",
+    "body": "content: '\\\\F22A';"
+  },
+  "mdi-lan": {
+    "prefix": "mdi-lan",
+    "body": "content: '\\\\F317';"
+  },
+  "mdi-ghost": {
+    "prefix": "mdi-ghost",
+    "body": "content: '\\\\F2A0';"
+  },
+  "mdi-flag-triangle": {
+    "prefix": "mdi-flag-triangle",
+    "body": "content: '\\\\F23F';"
+  },
+  "mdi-headset-dock": {
+    "prefix": "mdi-headset-dock",
+    "body": "content: '\\\\F2CF';"
+  },
+  "mdi-kodi": {
+    "prefix": "mdi-kodi",
+    "body": "content: '\\\\F314';"
+  },
+  "mdi-download": {
+    "prefix": "mdi-download",
+    "body": "content: '\\\\F1DA';"
+  },
+  "mdi-flashlight": {
+    "prefix": "mdi-flashlight",
+    "body": "content: '\\\\F244';"
+  },
+  "mdi-cup": {
+    "prefix": "mdi-cup",
+    "body": "content: '\\\\F1AA';"
+  },
+  "mdi-library": {
+    "prefix": "mdi-library",
+    "body": "content: '\\\\F331';"
+  },
+  "mdi-glass-tulip": {
+    "prefix": "mdi-glass-tulip",
+    "body": "content: '\\\\F2A8';"
+  },
+  "mdi-evernote": {
+    "prefix": "mdi-evernote",
+    "body": "content: '\\\\F204';"
+  },
+  "mdi-file-pdf-box": {
+    "prefix": "mdi-file-pdf-box",
+    "body": "content: '\\\\F226';"
+  },
+  "mdi-sigma": {
+    "prefix": "mdi-sigma",
+    "body": "content: '\\\\F4A0';"
+  },
+  "mdi-twitter-box": {
+    "prefix": "mdi-twitter-box",
+    "body": "content: '\\\\F545';"
+  },
+  "mdi-window-restore": {
+    "prefix": "mdi-window-restore",
+    "body": "content: '\\\\F5B2';"
+  },
+  "mdi-map-marker-multiple": {
+    "prefix": "mdi-map-marker-multiple",
+    "body": "content: '\\\\F350';"
+  },
+  "mdi-checkbox-multiple-blank": {
+    "prefix": "mdi-checkbox-multiple-blank",
+    "body": "content: '\\\\F136';"
+  },
+  "mdi-file-delimited": {
+    "prefix": "mdi-file-delimited",
+    "body": "content: '\\\\F218';"
+  },
+  "mdi-apple": {
+    "prefix": "mdi-apple",
+    "body": "content: '\\\\F035';"
+  },
+  "mdi-arrow-left-bold-circle-outline": {
+    "prefix": "mdi-arrow-left-bold-circle-outline",
+    "body": "content: '\\\\F050';"
+  },
+  "mdi-timer-off": {
+    "prefix": "mdi-timer-off",
+    "body": "content: '\\\\F51E';"
+  },
+  "mdi-tram": {
+    "prefix": "mdi-tram",
+    "body": "content: '\\\\F52D';"
+  },
+  "mdi-keg": {
+    "prefix": "mdi-keg",
+    "body": "content: '\\\\F305';"
+  },
+  "mdi-discord": {
+    "prefix": "mdi-discord",
+    "body": "content: '\\\\F66F';"
+  },
+  "mdi-close-network": {
+    "prefix": "mdi-close-network",
+    "body": "content: '\\\\F15B';"
+  },
+  "mdi-music-circle": {
+    "prefix": "mdi-music-circle",
+    "body": "content: '\\\\F386';"
+  },
+  "mdi-outbox": {
+    "prefix": "mdi-outbox",
+    "body": "content: '\\\\F3D1';"
+  },
+  "mdi-star": {
+    "prefix": "mdi-star",
+    "body": "content: '\\\\F4CE';"
+  },
+  "mdi-minus": {
+    "prefix": "mdi-minus",
+    "body": "content: '\\\\F374';"
+  },
+  "mdi-format-vertical-align-bottom": {
+    "prefix": "mdi-format-vertical-align-bottom",
+    "body": "content: '\\\\F621';"
+  },
+  "mdi-pause-circle-outline": {
+    "prefix": "mdi-pause-circle-outline",
+    "body": "content: '\\\\F3E6';"
+  },
+  "mdi-home-map-marker": {
+    "prefix": "mdi-home-map-marker",
+    "body": "content: '\\\\F5F8';"
+  },
+  "mdi-twitter-circle": {
+    "prefix": "mdi-twitter-circle",
+    "body": "content: '\\\\F546';"
+  },
+  "mdi-plus-circle": {
+    "prefix": "mdi-plus-circle",
+    "body": "content: '\\\\F417';"
+  },
+  "mdi-key": {
+    "prefix": "mdi-key",
+    "body": "content: '\\\\F306';"
+  },
+  "mdi-google": {
+    "prefix": "mdi-google",
+    "body": "content: '\\\\F2AD';"
+  },
+  "mdi-text-shadow": {
+    "prefix": "mdi-text-shadow",
+    "body": "content: '\\\\F669';"
+  },
+  "mdi-animation": {
+    "prefix": "mdi-animation",
+    "body": "content: '\\\\F5D8';"
+  },
+  "mdi-minus-circle": {
+    "prefix": "mdi-minus-circle",
+    "body": "content: '\\\\F376';"
+  },
+  "mdi-arrow-up-drop-circle": {
+    "prefix": "mdi-arrow-up-drop-circle",
+    "body": "content: '\\\\F062';"
+  },
+  "mdi-tumblr-reblog": {
+    "prefix": "mdi-tumblr-reblog",
+    "body": "content: '\\\\F542';"
+  },
+  "mdi-dribbble": {
+    "prefix": "mdi-dribbble",
+    "body": "content: '\\\\F1E0';"
+  },
+  "mdi-pound-box": {
+    "prefix": "mdi-pound-box",
+    "body": "content: '\\\\F424';"
+  },
+  "mdi-odnoklassniki": {
+    "prefix": "mdi-odnoklassniki",
+    "body": "content: '\\\\F3C5';"
+  },
+  "mdi-map-marker-radius": {
+    "prefix": "mdi-map-marker-radius",
+    "body": "content: '\\\\F352';"
+  },
+  "mdi-select-off": {
+    "prefix": "mdi-select-off",
+    "body": "content: '\\\\F488';"
+  },
+  "mdi-check": {
+    "prefix": "mdi-check",
+    "body": "content: '\\\\F12C';"
+  },
+  "mdi-sort-numeric": {
+    "prefix": "mdi-sort-numeric",
+    "body": "content: '\\\\F4BE';"
+  },
+  "mdi-rewind": {
+    "prefix": "mdi-rewind",
+    "body": "content: '\\\\F45F';"
+  },
+  "mdi-road-variant": {
+    "prefix": "mdi-road-variant",
+    "body": "content: '\\\\F462';"
+  },
+  "mdi-fax": {
+    "prefix": "mdi-fax",
+    "body": "content: '\\\\F212';"
+  },
+  "mdi-octagon-outline": {
+    "prefix": "mdi-octagon-outline",
+    "body": "content: '\\\\F3C4';"
+  },
+  "mdi-stairs": {
+    "prefix": "mdi-stairs",
+    "body": "content: '\\\\F4CD';"
+  },
+  "mdi-format-float-right": {
+    "prefix": "mdi-format-float-right",
+    "body": "content: '\\\\F26A';"
+  },
+  "mdi-spotlight": {
+    "prefix": "mdi-spotlight",
+    "body": "content: '\\\\F4C8';"
+  },
+  "mdi-vector-circle": {
+    "prefix": "mdi-vector-circle",
+    "body": "content: '\\\\F556';"
+  },
+  "mdi-triangle": {
+    "prefix": "mdi-triangle",
+    "body": "content: '\\\\F536';"
+  },
+  "mdi-markdown": {
+    "prefix": "mdi-markdown",
+    "body": "content: '\\\\F354';"
+  },
+  "mdi-format-clear": {
+    "prefix": "mdi-format-clear",
+    "body": "content: '\\\\F265';"
+  },
+  "mdi-numeric-0-box-multiple-outline": {
+    "prefix": "mdi-numeric-0-box-multiple-outline",
+    "body": "content: '\\\\F3A2';"
+  },
+  "mdi-numeric-3-box-outline": {
+    "prefix": "mdi-numeric-3-box-outline",
+    "body": "content: '\\\\F3AC';"
+  },
+  "mdi-share-variant": {
+    "prefix": "mdi-share-variant",
+    "body": "content: '\\\\F497';"
+  },
+  "mdi-logout-variant": {
+    "prefix": "mdi-logout-variant",
+    "body": "content: '\\\\F5FD';"
+  },
+  "mdi-bluetooth": {
+    "prefix": "mdi-bluetooth",
+    "body": "content: '\\\\F0AF';"
+  },
+  "mdi-pharmacy": {
+    "prefix": "mdi-pharmacy",
+    "body": "content: '\\\\F3F1';"
+  },
+  "mdi-mouse": {
+    "prefix": "mdi-mouse",
+    "body": "content: '\\\\F37D';"
+  },
+  "mdi-format-annotation-plus": {
+    "prefix": "mdi-format-annotation-plus",
+    "body": "content: '\\\\F646';"
+  },
+  "mdi-camcorder": {
+    "prefix": "mdi-camcorder",
+    "body": "content: '\\\\F0FC';"
+  },
+  "mdi-contrast-box": {
+    "prefix": "mdi-contrast-box",
+    "body": "content: '\\\\F196';"
+  },
+  "mdi-help-circle-outline": {
+    "prefix": "mdi-help-circle-outline",
+    "body": "content: '\\\\F625';"
+  },
+  "mdi-bowl": {
+    "prefix": "mdi-bowl",
+    "body": "content: '\\\\F617';"
+  },
+  "mdi-message-text-outline": {
+    "prefix": "mdi-message-text-outline",
+    "body": "content: '\\\\F36A';"
+  },
+  "mdi-reply-all": {
+    "prefix": "mdi-reply-all",
+    "body": "content: '\\\\F45B';"
+  },
+  "mdi-copyright": {
+    "prefix": "mdi-copyright",
+    "body": "content: '\\\\F5E6';"
+  },
+  "mdi-qqchat": {
+    "prefix": "mdi-qqchat",
+    "body": "content: '\\\\F605';"
+  },
+  "mdi-camera-front": {
+    "prefix": "mdi-camera-front",
+    "body": "content: '\\\\F102';"
+  },
+  "mdi-chart-gantt": {
+    "prefix": "mdi-chart-gantt",
+    "body": "content: '\\\\F66C';"
+  },
+  "mdi-numeric-7-box-multiple-outline": {
+    "prefix": "mdi-numeric-7-box-multiple-outline",
+    "body": "content: '\\\\F3B7';"
+  },
+  "mdi-priority-low": {
+    "prefix": "mdi-priority-low",
+    "body": "content: '\\\\F604';"
+  },
+  "mdi-keyboard": {
+    "prefix": "mdi-keyboard",
+    "body": "content: '\\\\F30C';"
+  },
+  "mdi-timelapse": {
+    "prefix": "mdi-timelapse",
+    "body": "content: '\\\\F51A';"
+  },
+  "mdi-truck-delivery": {
+    "prefix": "mdi-truck-delivery",
+    "body": "content: '\\\\F53E';"
+  },
+  "mdi-image-filter-hdr": {
+    "prefix": "mdi-image-filter-hdr",
+    "body": "content: '\\\\F2F5';"
+  },
+  "mdi-test-tube": {
+    "prefix": "mdi-test-tube",
+    "body": "content: '\\\\F668';"
+  },
+  "mdi-checkbox-blank-circle": {
+    "prefix": "mdi-checkbox-blank-circle",
+    "body": "content: '\\\\F12F';"
+  },
+  "mdi-message-video": {
+    "prefix": "mdi-message-video",
+    "body": "content: '\\\\F36B';"
+  },
+  "mdi-motorbike": {
+    "prefix": "mdi-motorbike",
+    "body": "content: '\\\\F37C';"
+  },
+  "mdi-wikipedia": {
+    "prefix": "mdi-wikipedia",
+    "body": "content: '\\\\F5AC';"
+  },
+  "mdi-panorama": {
+    "prefix": "mdi-panorama",
+    "body": "content: '\\\\F3DC';"
+  },
+  "mdi-music-note": {
+    "prefix": "mdi-music-note",
+    "body": "content: '\\\\F387';"
+  },
+  "mdi-key-change": {
+    "prefix": "mdi-key-change",
+    "body": "content: '\\\\F307';"
+  },
+  "mdi-function": {
+    "prefix": "mdi-function",
+    "body": "content: '\\\\F295';"
+  },
+  "mdi-currency-ngn": {
+    "prefix": "mdi-currency-ngn",
+    "body": "content: '\\\\F1B0';"
+  },
+  "mdi-clock": {
+    "prefix": "mdi-clock",
+    "body": "content: '\\\\F150';"
+  },
+  "mdi-comment-processing-outline": {
+    "prefix": "mdi-comment-processing-outline",
+    "body": "content: '\\\\F185';"
+  },
+  "mdi-vpn": {
+    "prefix": "mdi-vpn",
+    "body": "content: '\\\\F582';"
+  },
+  "mdi-package-variant-closed": {
+    "prefix": "mdi-package-variant-closed",
+    "body": "content: '\\\\F3D7';"
+  },
+  "mdi-format-bold": {
+    "prefix": "mdi-format-bold",
+    "body": "content: '\\\\F264';"
+  },
+  "mdi-satellite-variant": {
+    "prefix": "mdi-satellite-variant",
+    "body": "content: '\\\\F471';"
+  },
+  "mdi-sofa": {
+    "prefix": "mdi-sofa",
+    "body": "content: '\\\\F4B9';"
+  },
+  "mdi-multiplication": {
+    "prefix": "mdi-multiplication",
+    "body": "content: '\\\\F382';"
+  },
+  "mdi-polymer": {
+    "prefix": "mdi-polymer",
+    "body": "content: '\\\\F421';"
+  },
+  "mdi-format-line-spacing": {
+    "prefix": "mdi-format-line-spacing",
+    "body": "content: '\\\\F278';"
+  },
+  "mdi-alarm-off": {
+    "prefix": "mdi-alarm-off",
+    "body": "content: '\\\\F023';"
+  },
+  "mdi-battery-40": {
+    "prefix": "mdi-battery-40",
+    "body": "content: '\\\\F07D';"
+  },
+  "mdi-delete-sweep": {
+    "prefix": "mdi-delete-sweep",
+    "body": "content: '\\\\F5E9';"
+  },
+  "mdi-format-horizontal-align-right": {
+    "prefix": "mdi-format-horizontal-align-right",
+    "body": "content: '\\\\F620';"
+  },
+  "mdi-script": {
+    "prefix": "mdi-script",
+    "body": "content: '\\\\F478';"
+  },
+  "mdi-database": {
+    "prefix": "mdi-database",
+    "body": "content: '\\\\F1B8';"
+  },
+  "mdi-sync": {
+    "prefix": "mdi-sync",
+    "body": "content: '\\\\F4E6';"
+  },
+  "mdi-telegram": {
+    "prefix": "mdi-telegram",
+    "body": "content: '\\\\F501';"
+  },
+  "mdi-ornament-variant": {
+    "prefix": "mdi-ornament-variant",
+    "body": "content: '\\\\F3D0';"
+  },
+  "mdi-close-box": {
+    "prefix": "mdi-close-box",
+    "body": "content: '\\\\F157';"
+  },
+  "mdi-minecraft": {
+    "prefix": "mdi-minecraft",
+    "body": "content: '\\\\F373';"
+  },
+  "mdi-pencil-off": {
+    "prefix": "mdi-pencil-off",
+    "body": "content: '\\\\F3EF';"
+  },
+  "mdi-content-copy": {
+    "prefix": "mdi-content-copy",
+    "body": "content: '\\\\F18F';"
+  },
+  "mdi-windows": {
+    "prefix": "mdi-windows",
+    "body": "content: '\\\\F5B3';"
+  },
+  "mdi-hanger": {
+    "prefix": "mdi-hanger",
+    "body": "content: '\\\\F2C8';"
+  },
+  "mdi-whatsapp": {
+    "prefix": "mdi-whatsapp",
+    "body": "content: '\\\\F5A3';"
+  },
+  "mdi-school": {
+    "prefix": "mdi-school",
+    "body": "content: '\\\\F474';"
+  },
+  "mdi-tune-vertical": {
+    "prefix": "mdi-tune-vertical",
+    "body": "content: '\\\\F66A';"
+  },
+  "mdi-satellite": {
+    "prefix": "mdi-satellite",
+    "body": "content: '\\\\F470';"
+  },
+  "mdi-av-timer": {
+    "prefix": "mdi-av-timer",
+    "body": "content: '\\\\F06B';"
+  },
+  "mdi-box-shadow": {
+    "prefix": "mdi-box-shadow",
+    "body": "content: '\\\\F637';"
+  },
+  "mdi-window-maximize": {
+    "prefix": "mdi-window-maximize",
+    "body": "content: '\\\\F5AF';"
+  },
+  "mdi-numeric": {
+    "prefix": "mdi-numeric",
+    "body": "content: '\\\\F3A0';"
+  },
+  "mdi-laptop": {
+    "prefix": "mdi-laptop",
+    "body": "content: '\\\\F322';"
+  },
+  "mdi-bell-ring": {
+    "prefix": "mdi-bell-ring",
+    "body": "content: '\\\\F09E';"
+  },
+  "mdi-pinterest": {
+    "prefix": "mdi-pinterest",
+    "body": "content: '\\\\F407';"
+  },
+  "mdi-image-filter-center-focus-weak": {
+    "prefix": "mdi-image-filter-center-focus-weak",
+    "body": "content: '\\\\F2F2';"
+  },
+  "mdi-tshirt-v": {
+    "prefix": "mdi-tshirt-v",
+    "body": "content: '\\\\F540';"
+  },
+  "mdi-weather-windy": {
+    "prefix": "mdi-weather-windy",
+    "body": "content: '\\\\F59D';"
+  },
+  "mdi-message-image": {
+    "prefix": "mdi-message-image",
+    "body": "content: '\\\\F364';"
+  },
+  "mdi-note": {
+    "prefix": "mdi-note",
+    "body": "content: '\\\\F39A';"
+  },
+  "mdi-refresh": {
+    "prefix": "mdi-refresh",
+    "body": "content: '\\\\F450';"
+  },
+  "mdi-google-play": {
+    "prefix": "mdi-google-play",
+    "body": "content: '\\\\F2BC';"
+  },
+  "mdi-tablet-ipad": {
+    "prefix": "mdi-tablet-ipad",
+    "body": "content: '\\\\F4F8';"
+  },
+  "mdi-sd": {
+    "prefix": "mdi-sd",
+    "body": "content: '\\\\F479';"
+  },
+  "mdi-pig": {
+    "prefix": "mdi-pig",
+    "body": "content: '\\\\F401';"
+  },
+  "mdi-alert-outline": {
+    "prefix": "mdi-alert-outline",
+    "body": "content: '\\\\F02A';"
+  },
+  "mdi-watch-export": {
+    "prefix": "mdi-watch-export",
+    "body": "content: '\\\\F58A';"
+  },
+  "mdi-sleep-off": {
+    "prefix": "mdi-sleep-off",
+    "body": "content: '\\\\F4B3';"
+  },
+  "mdi-microphone-settings": {
+    "prefix": "mdi-microphone-settings",
+    "body": "content: '\\\\F36F';"
+  },
+  "mdi-cisco-webex": {
+    "prefix": "mdi-cisco-webex",
+    "body": "content: '\\\\F145';"
+  },
+  "mdi-pin": {
+    "prefix": "mdi-pin",
+    "body": "content: '\\\\F403';"
+  },
+  "mdi-bell-sleep": {
+    "prefix": "mdi-bell-sleep",
+    "body": "content: '\\\\F0A0';"
+  },
+  "mdi-arrow-expand": {
+    "prefix": "mdi-arrow-expand",
+    "body": "content: '\\\\F616';"
+  },
+  "mdi-train": {
+    "prefix": "mdi-train",
+    "body": "content: '\\\\F52C';"
+  },
+  "mdi-chevron-double-left": {
+    "prefix": "mdi-chevron-double-left",
+    "body": "content: '\\\\F13D';"
+  },
+  "mdi-openid": {
+    "prefix": "mdi-openid",
+    "body": "content: '\\\\F3CD';"
+  },
+  "mdi-human-handsdown": {
+    "prefix": "mdi-human-handsdown",
+    "body": "content: '\\\\F64B';"
+  },
+  "mdi-wallet-giftcard": {
+    "prefix": "mdi-wallet-giftcard",
+    "body": "content: '\\\\F585';"
+  },
+  "mdi-history": {
+    "prefix": "mdi-history",
+    "body": "content: '\\\\F2DA';"
+  },
+  "mdi-seat-legroom-reduced": {
+    "prefix": "mdi-seat-legroom-reduced",
+    "body": "content: '\\\\F480';"
+  },
+  "mdi-archive": {
+    "prefix": "mdi-archive",
+    "body": "content: '\\\\F03C';"
+  },
+  "mdi-xaml": {
+    "prefix": "mdi-xaml",
+    "body": "content: '\\\\F673';"
+  },
+  "mdi-thumb-up": {
+    "prefix": "mdi-thumb-up",
+    "body": "content: '\\\\F513';"
+  },
+  "mdi-arrow-top-left": {
+    "prefix": "mdi-arrow-top-left",
+    "body": "content: '\\\\F05B';"
+  },
+  "mdi-numeric-8-box-multiple-outline": {
+    "prefix": "mdi-numeric-8-box-multiple-outline",
+    "body": "content: '\\\\F3BA';"
+  },
+  "mdi-exclamation": {
+    "prefix": "mdi-exclamation",
+    "body": "content: '\\\\F205';"
+  },
+  "mdi-human": {
+    "prefix": "mdi-human",
+    "body": "content: '\\\\F2E6';"
+  },
+  "mdi-contact-mail": {
+    "prefix": "mdi-contact-mail",
+    "body": "content: '\\\\F18E';"
+  },
+  "mdi-console": {
+    "prefix": "mdi-console",
+    "body": "content: '\\\\F18D';"
+  },
+  "mdi-battery-unknown": {
+    "prefix": "mdi-battery-unknown",
+    "body": "content: '\\\\F091';"
+  },
+  "mdi-ornament": {
+    "prefix": "mdi-ornament",
+    "body": "content: '\\\\F3CF';"
+  },
+  "mdi-language-csharp": {
+    "prefix": "mdi-language-csharp",
+    "body": "content: '\\\\F31B';"
+  },
+  "mdi-heart-pulse": {
+    "prefix": "mdi-heart-pulse",
+    "body": "content: '\\\\F5F6';"
+  },
+  "mdi-shape-rectangle-plus": {
+    "prefix": "mdi-shape-rectangle-plus",
+    "body": "content: '\\\\F65F';"
+  }
+}

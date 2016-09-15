@@ -1,0 +1,1118 @@
+{
+  "wi-tsunami": {
+    "prefix": "wi-tsunami",
+    "body": "<${1:i} class=\"wi wi-tsunami$2\"></${1:i}>$3"
+  },
+  "wi-degrees": {
+    "prefix": "wi-degrees",
+    "body": "<${1:i} class=\"wi wi-degrees$2\"></${1:i}>$3"
+  },
+  "wi-night-thunderstorm": {
+    "prefix": "wi-night-thunderstorm",
+    "body": "<${1:i} class=\"wi wi-night-thunderstorm$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-partly-cloudy": {
+    "prefix": "wi-night-alt-partly-cloudy",
+    "body": "<${1:i} class=\"wi wi-night-alt-partly-cloudy$2\"></${1:i}>$3"
+  },
+  "wi-towards-nnw": {
+    "prefix": "wi-towards-nnw",
+    "body": "<${1:i} class=\"wi wi-towards-nnw$2\"></${1:i}>$3"
+  },
+  "wi-moonset": {
+    "prefix": "wi-moonset",
+    "body": "<${1:i} class=\"wi wi-moonset$2\"></${1:i}>$3"
+  },
+  "wi-direction-up": {
+    "prefix": "wi-direction-up",
+    "body": "<${1:i} class=\"wi wi-direction-up$2\"></${1:i}>$3"
+  },
+  "wi-day-cloudy-high": {
+    "prefix": "wi-day-cloudy-high",
+    "body": "<${1:i} class=\"wi wi-day-cloudy-high$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-cloudy-gusts": {
+    "prefix": "wi-night-alt-cloudy-gusts",
+    "body": "<${1:i} class=\"wi wi-night-alt-cloudy-gusts$2\"></${1:i}>$3"
+  },
+  "wi-smoke": {
+    "prefix": "wi-smoke",
+    "body": "<${1:i} class=\"wi wi-smoke$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-11": {
+    "prefix": "wi-wind-beaufort-11",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-11$2\"></${1:i}>$3"
+  },
+  "wi-moon-waxing-gibbous-2": {
+    "prefix": "wi-moon-waxing-gibbous-2",
+    "body": "<${1:i} class=\"wi wi-moon-waxing-gibbous-2$2\"></${1:i}>$3"
+  },
+  "wi-moon-waxing-gibbous-3": {
+    "prefix": "wi-moon-waxing-gibbous-3",
+    "body": "<${1:i} class=\"wi wi-moon-waxing-gibbous-3$2\"></${1:i}>$3"
+  },
+  "wi-day-sleet-storm": {
+    "prefix": "wi-day-sleet-storm",
+    "body": "<${1:i} class=\"wi wi-day-sleet-storm$2\"></${1:i}>$3"
+  },
+  "wi-moon-waxing-gibbous-6": {
+    "prefix": "wi-moon-waxing-gibbous-6",
+    "body": "<${1:i} class=\"wi wi-moon-waxing-gibbous-6$2\"></${1:i}>$3"
+  },
+  "wi-day-cloudy": {
+    "prefix": "wi-day-cloudy",
+    "body": "<${1:i} class=\"wi wi-day-cloudy$2\"></${1:i}>$3"
+  },
+  "wi-moon-waxing-gibbous-4": {
+    "prefix": "wi-moon-waxing-gibbous-4",
+    "body": "<${1:i} class=\"wi wi-moon-waxing-gibbous-4$2\"></${1:i}>$3"
+  },
+  "wi-moon-waxing-gibbous-5": {
+    "prefix": "wi-moon-waxing-gibbous-5",
+    "body": "<${1:i} class=\"wi wi-moon-waxing-gibbous-5$2\"></${1:i}>$3"
+  },
+  "wi-night-fog": {
+    "prefix": "wi-night-fog",
+    "body": "<${1:i} class=\"wi wi-night-fog$2\"></${1:i}>$3"
+  },
+  "wi-day-sprinkle": {
+    "prefix": "wi-day-sprinkle",
+    "body": "<${1:i} class=\"wi wi-day-sprinkle$2\"></${1:i}>$3"
+  },
+  "wi-solar-eclipse": {
+    "prefix": "wi-solar-eclipse",
+    "body": "<${1:i} class=\"wi wi-solar-eclipse$2\"></${1:i}>$3"
+  },
+  "wi-train": {
+    "prefix": "wi-train",
+    "body": "<${1:i} class=\"wi wi-train$2\"></${1:i}>$3"
+  },
+  "wi-day-hail": {
+    "prefix": "wi-day-hail",
+    "body": "<${1:i} class=\"wi wi-day-hail$2\"></${1:i}>$3"
+  },
+  "wi-time-8": {
+    "prefix": "wi-time-8",
+    "body": "<${1:i} class=\"wi wi-time-8$2\"></${1:i}>$3"
+  },
+  "wi-time-9": {
+    "prefix": "wi-time-9",
+    "body": "<${1:i} class=\"wi wi-time-9$2\"></${1:i}>$3"
+  },
+  "wi-from-sw": {
+    "prefix": "wi-from-sw",
+    "body": "<${1:i} class=\"wi wi-from-sw$2\"></${1:i}>$3"
+  },
+  "wi-time-7": {
+    "prefix": "wi-time-7",
+    "body": "<${1:i} class=\"wi wi-time-7$2\"></${1:i}>$3"
+  },
+  "wi-time-4": {
+    "prefix": "wi-time-4",
+    "body": "<${1:i} class=\"wi wi-time-4$2\"></${1:i}>$3"
+  },
+  "wi-time-5": {
+    "prefix": "wi-time-5",
+    "body": "<${1:i} class=\"wi wi-time-5$2\"></${1:i}>$3"
+  },
+  "wi-time-2": {
+    "prefix": "wi-time-2",
+    "body": "<${1:i} class=\"wi wi-time-2$2\"></${1:i}>$3"
+  },
+  "wi-night-partly-cloudy": {
+    "prefix": "wi-night-partly-cloudy",
+    "body": "<${1:i} class=\"wi wi-night-partly-cloudy$2\"></${1:i}>$3"
+  },
+  "wi-day-lightning": {
+    "prefix": "wi-day-lightning",
+    "body": "<${1:i} class=\"wi wi-day-lightning$2\"></${1:i}>$3"
+  },
+  "wi-time-1": {
+    "prefix": "wi-time-1",
+    "body": "<${1:i} class=\"wi wi-time-1$2\"></${1:i}>$3"
+  },
+  "wi-cloudy-windy": {
+    "prefix": "wi-cloudy-windy",
+    "body": "<${1:i} class=\"wi wi-cloudy-windy$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-10": {
+    "prefix": "wi-wind-beaufort-10",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-10$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-showers": {
+    "prefix": "wi-night-alt-showers",
+    "body": "<${1:i} class=\"wi wi-night-alt-showers$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-full": {
+    "prefix": "wi-moon-alt-full",
+    "body": "<${1:i} class=\"wi wi-moon-alt-full$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-4": {
+    "prefix": "wi-wind-beaufort-4",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-4$2\"></${1:i}>$3"
+  },
+  "wi-day-fog": {
+    "prefix": "wi-day-fog",
+    "body": "<${1:i} class=\"wi wi-day-fog$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-6": {
+    "prefix": "wi-wind-beaufort-6",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-6$2\"></${1:i}>$3"
+  },
+  "wi-towards-ne": {
+    "prefix": "wi-towards-ne",
+    "body": "<${1:i} class=\"wi wi-towards-ne$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-hail": {
+    "prefix": "wi-night-alt-hail",
+    "body": "<${1:i} class=\"wi wi-night-alt-hail$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-3": {
+    "prefix": "wi-wind-beaufort-3",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-3$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-cloudy-high": {
+    "prefix": "wi-night-alt-cloudy-high",
+    "body": "<${1:i} class=\"wi wi-night-alt-cloudy-high$2\"></${1:i}>$3"
+  },
+  "wi-night-rain-wind": {
+    "prefix": "wi-night-rain-wind",
+    "body": "<${1:i} class=\"wi wi-night-rain-wind$2\"></${1:i}>$3"
+  },
+  "wi-direction-down-right": {
+    "prefix": "wi-direction-down-right",
+    "body": "<${1:i} class=\"wi wi-direction-down-right$2\"></${1:i}>$3"
+  },
+  "wi-night-cloudy-gusts": {
+    "prefix": "wi-night-cloudy-gusts",
+    "body": "<${1:i} class=\"wi wi-night-cloudy-gusts$2\"></${1:i}>$3"
+  },
+  "wi-rain-mix": {
+    "prefix": "wi-rain-mix",
+    "body": "<${1:i} class=\"wi wi-rain-mix$2\"></${1:i}>$3"
+  },
+  "wi-barometer": {
+    "prefix": "wi-barometer",
+    "body": "<${1:i} class=\"wi wi-barometer$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-rain": {
+    "prefix": "wi-night-alt-rain",
+    "body": "<${1:i} class=\"wi wi-night-alt-rain$2\"></${1:i}>$3"
+  },
+  "wi-day-cloudy-gusts": {
+    "prefix": "wi-day-cloudy-gusts",
+    "body": "<${1:i} class=\"wi wi-day-cloudy-gusts$2\"></${1:i}>$3"
+  },
+  "wi-hot": {
+    "prefix": "wi-hot",
+    "body": "<${1:i} class=\"wi wi-hot$2\"></${1:i}>$3"
+  },
+  "wi-fog": {
+    "prefix": "wi-fog",
+    "body": "<${1:i} class=\"wi wi-fog$2\"></${1:i}>$3"
+  },
+  "wi-time-12": {
+    "prefix": "wi-time-12",
+    "body": "<${1:i} class=\"wi wi-time-12$2\"></${1:i}>$3"
+  },
+  "wi-fahrenheit": {
+    "prefix": "wi-fahrenheit",
+    "body": "<${1:i} class=\"wi wi-fahrenheit$2\"></${1:i}>$3"
+  },
+  "wi-night-sleet-storm": {
+    "prefix": "wi-night-sleet-storm",
+    "body": "<${1:i} class=\"wi wi-night-sleet-storm$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-cloudy-windy": {
+    "prefix": "wi-night-alt-cloudy-windy",
+    "body": "<${1:i} class=\"wi wi-night-alt-cloudy-windy$2\"></${1:i}>$3"
+  },
+  "wi-earthquake": {
+    "prefix": "wi-earthquake",
+    "body": "<${1:i} class=\"wi wi-earthquake$2\"></${1:i}>$3"
+  },
+  "wi-meteor": {
+    "prefix": "wi-meteor",
+    "body": "<${1:i} class=\"wi wi-meteor$2\"></${1:i}>$3"
+  },
+  "wi-sleet": {
+    "prefix": "wi-sleet",
+    "body": "<${1:i} class=\"wi wi-sleet$2\"></${1:i}>$3"
+  },
+  "wi-towards-s": {
+    "prefix": "wi-towards-s",
+    "body": "<${1:i} class=\"wi wi-towards-s$2\"></${1:i}>$3"
+  },
+  "wi-moon-26": {
+    "prefix": "wi-moon-26",
+    "body": "<${1:i} class=\"wi wi-moon-26$2\"></${1:i}>$3"
+  },
+  "wi-towards-w": {
+    "prefix": "wi-towards-w",
+    "body": "<${1:i} class=\"wi wi-towards-w$2\"></${1:i}>$3"
+  },
+  "wi-direction-up-right": {
+    "prefix": "wi-direction-up-right",
+    "body": "<${1:i} class=\"wi wi-direction-up-right$2\"></${1:i}>$3"
+  },
+  "wi-day-windy": {
+    "prefix": "wi-day-windy",
+    "body": "<${1:i} class=\"wi wi-day-windy$2\"></${1:i}>$3"
+  },
+  "wi-day-rain-mix": {
+    "prefix": "wi-day-rain-mix",
+    "body": "<${1:i} class=\"wi wi-day-rain-mix$2\"></${1:i}>$3"
+  },
+  "wi-snow": {
+    "prefix": "wi-snow",
+    "body": "<${1:i} class=\"wi wi-snow$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-12": {
+    "prefix": "wi-wind-beaufort-12",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-12$2\"></${1:i}>$3"
+  },
+  "wi-towards-e": {
+    "prefix": "wi-towards-e",
+    "body": "<${1:i} class=\"wi wi-towards-e$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-third-quarter": {
+    "prefix": "wi-moon-alt-third-quarter",
+    "body": "<${1:i} class=\"wi wi-moon-alt-third-quarter$2\"></${1:i}>$3"
+  },
+  "wi-night-storm-showers": {
+    "prefix": "wi-night-storm-showers",
+    "body": "<${1:i} class=\"wi wi-night-storm-showers$2\"></${1:i}>$3"
+  },
+  "wi-refresh-alt": {
+    "prefix": "wi-refresh-alt",
+    "body": "<${1:i} class=\"wi wi-refresh-alt$2\"></${1:i}>$3"
+  },
+  "wi-moon-third-quarter": {
+    "prefix": "wi-moon-third-quarter",
+    "body": "<${1:i} class=\"wi wi-moon-third-quarter$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-rain-wind": {
+    "prefix": "wi-night-alt-rain-wind",
+    "body": "<${1:i} class=\"wi wi-night-alt-rain-wind$2\"></${1:i}>$3"
+  },
+  "wi-day-haze": {
+    "prefix": "wi-day-haze",
+    "body": "<${1:i} class=\"wi wi-day-haze$2\"></${1:i}>$3"
+  },
+  "wi-night-hail": {
+    "prefix": "wi-night-hail",
+    "body": "<${1:i} class=\"wi wi-night-hail$2\"></${1:i}>$3"
+  },
+  "wi-from-wnw": {
+    "prefix": "wi-from-wnw",
+    "body": "<${1:i} class=\"wi wi-from-wnw$2\"></${1:i}>$3"
+  },
+  "wi-thermometer": {
+    "prefix": "wi-thermometer",
+    "body": "<${1:i} class=\"wi wi-thermometer$2\"></${1:i}>$3"
+  },
+  "wi-moon-waning-gibbous-4": {
+    "prefix": "wi-moon-waning-gibbous-4",
+    "body": "<${1:i} class=\"wi wi-moon-waning-gibbous-4$2\"></${1:i}>$3"
+  },
+  "wi-moon-waning-gibbous-5": {
+    "prefix": "wi-moon-waning-gibbous-5",
+    "body": "<${1:i} class=\"wi wi-moon-waning-gibbous-5$2\"></${1:i}>$3"
+  },
+  "wi-moon-waning-gibbous-6": {
+    "prefix": "wi-moon-waning-gibbous-6",
+    "body": "<${1:i} class=\"wi wi-moon-waning-gibbous-6$2\"></${1:i}>$3"
+  },
+  "wi-moon-waning-gibbous-1": {
+    "prefix": "wi-moon-waning-gibbous-1",
+    "body": "<${1:i} class=\"wi wi-moon-waning-gibbous-1$2\"></${1:i}>$3"
+  },
+  "wi-moon-waning-gibbous-2": {
+    "prefix": "wi-moon-waning-gibbous-2",
+    "body": "<${1:i} class=\"wi wi-moon-waning-gibbous-2$2\"></${1:i}>$3"
+  },
+  "wi-moon-waning-gibbous-3": {
+    "prefix": "wi-moon-waning-gibbous-3",
+    "body": "<${1:i} class=\"wi wi-moon-waning-gibbous-3$2\"></${1:i}>$3"
+  },
+  "wi-night-snow-thunderstorm": {
+    "prefix": "wi-night-snow-thunderstorm",
+    "body": "<${1:i} class=\"wi wi-night-snow-thunderstorm$2\"></${1:i}>$3"
+  },
+  "wi-thunderstorm": {
+    "prefix": "wi-thunderstorm",
+    "body": "<${1:i} class=\"wi wi-thunderstorm$2\"></${1:i}>$3"
+  },
+  "wi-storm-showers": {
+    "prefix": "wi-storm-showers",
+    "body": "<${1:i} class=\"wi wi-storm-showers$2\"></${1:i}>$3"
+  },
+  "wi-towards-ese": {
+    "prefix": "wi-towards-ese",
+    "body": "<${1:i} class=\"wi wi-towards-ese$2\"></${1:i}>$3"
+  },
+  "wi-moon-waxing-gibbous-1": {
+    "prefix": "wi-moon-waxing-gibbous-1",
+    "body": "<${1:i} class=\"wi wi-moon-waxing-gibbous-1$2\"></${1:i}>$3"
+  },
+  "wi-stars": {
+    "prefix": "wi-stars",
+    "body": "<${1:i} class=\"wi wi-stars$2\"></${1:i}>$3"
+  },
+  "wi-direction-up-left": {
+    "prefix": "wi-direction-up-left",
+    "body": "<${1:i} class=\"wi wi-direction-up-left$2\"></${1:i}>$3"
+  },
+  "wi-from-nw": {
+    "prefix": "wi-from-nw",
+    "body": "<${1:i} class=\"wi wi-from-nw$2\"></${1:i}>$3"
+  },
+  "wi-dust": {
+    "prefix": "wi-dust",
+    "body": "<${1:i} class=\"wi wi-dust$2\"></${1:i}>$3"
+  },
+  "wi-day-cloudy-windy": {
+    "prefix": "wi-day-cloudy-windy",
+    "body": "<${1:i} class=\"wi wi-day-cloudy-windy$2\"></${1:i}>$3"
+  },
+  "wi-alien": {
+    "prefix": "wi-alien",
+    "body": "<${1:i} class=\"wi wi-alien$2\"></${1:i}>$3"
+  },
+  "wi-cloud-down": {
+    "prefix": "wi-cloud-down",
+    "body": "<${1:i} class=\"wi wi-cloud-down$2\"></${1:i}>$3"
+  },
+  "wi-raindrop": {
+    "prefix": "wi-raindrop",
+    "body": "<${1:i} class=\"wi wi-raindrop$2\"></${1:i}>$3"
+  },
+  "wi-from-ne": {
+    "prefix": "wi-from-ne",
+    "body": "<${1:i} class=\"wi wi-from-ne$2\"></${1:i}>$3"
+  },
+  "wi-day-storm-showers": {
+    "prefix": "wi-day-storm-showers",
+    "body": "<${1:i} class=\"wi wi-day-storm-showers$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-sleet": {
+    "prefix": "wi-night-alt-sleet",
+    "body": "<${1:i} class=\"wi wi-night-alt-sleet$2\"></${1:i}>$3"
+  },
+  "wi-towards-sse": {
+    "prefix": "wi-towards-sse",
+    "body": "<${1:i} class=\"wi wi-towards-sse$2\"></${1:i}>$3"
+  },
+  "wi-towards-wnw": {
+    "prefix": "wi-towards-wnw",
+    "body": "<${1:i} class=\"wi wi-towards-wnw$2\"></${1:i}>$3"
+  },
+  "wi-umbrella": {
+    "prefix": "wi-umbrella",
+    "body": "<${1:i} class=\"wi wi-umbrella$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-sprinkle": {
+    "prefix": "wi-night-alt-sprinkle",
+    "body": "<${1:i} class=\"wi wi-night-alt-sprinkle$2\"></${1:i}>$3"
+  },
+  "wi-from-w": {
+    "prefix": "wi-from-w",
+    "body": "<${1:i} class=\"wi wi-from-w$2\"></${1:i}>$3"
+  },
+  "wi-from-s": {
+    "prefix": "wi-from-s",
+    "body": "<${1:i} class=\"wi wi-from-s$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waning-crescent-1": {
+    "prefix": "wi-moon-alt-waning-crescent-1",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waning-crescent-1$2\"></${1:i}>$3"
+  },
+  "wi-flood": {
+    "prefix": "wi-flood",
+    "body": "<${1:i} class=\"wi wi-flood$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waning-crescent-3": {
+    "prefix": "wi-moon-alt-waning-crescent-3",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waning-crescent-3$2\"></${1:i}>$3"
+  },
+  "wi-from-n": {
+    "prefix": "wi-from-n",
+    "body": "<${1:i} class=\"wi wi-from-n$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waning-crescent-5": {
+    "prefix": "wi-moon-alt-waning-crescent-5",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waning-crescent-5$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waning-crescent-4": {
+    "prefix": "wi-moon-alt-waning-crescent-4",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waning-crescent-4$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waning-crescent-6": {
+    "prefix": "wi-moon-alt-waning-crescent-6",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waning-crescent-6$2\"></${1:i}>$3"
+  },
+  "wi-from-e": {
+    "prefix": "wi-from-e",
+    "body": "<${1:i} class=\"wi wi-from-e$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-sleet-storm": {
+    "prefix": "wi-night-alt-sleet-storm",
+    "body": "<${1:i} class=\"wi wi-night-alt-sleet-storm$2\"></${1:i}>$3"
+  },
+  "wi-snow-wind": {
+    "prefix": "wi-snow-wind",
+    "body": "<${1:i} class=\"wi wi-snow-wind$2\"></${1:i}>$3"
+  },
+  "wi-wind-direction": {
+    "prefix": "wi-wind-direction",
+    "body": "<${1:i} class=\"wi wi-wind-direction$2\"></${1:i}>$3"
+  },
+  "wi-day-snow-wind": {
+    "prefix": "wi-day-snow-wind",
+    "body": "<${1:i} class=\"wi wi-day-snow-wind$2\"></${1:i}>$3"
+  },
+  "wi-day-rain-wind": {
+    "prefix": "wi-day-rain-wind",
+    "body": "<${1:i} class=\"wi wi-day-rain-wind$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-0": {
+    "prefix": "wi-wind-beaufort-0",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-0$2\"></${1:i}>$3"
+  },
+  "wi-towards-n": {
+    "prefix": "wi-towards-n",
+    "body": "<${1:i} class=\"wi wi-towards-n$2\"></${1:i}>$3"
+  },
+  "wi-from-ese": {
+    "prefix": "wi-from-ese",
+    "body": "<${1:i} class=\"wi wi-from-ese$2\"></${1:i}>$3"
+  },
+  "wi-sunrise": {
+    "prefix": "wi-sunrise",
+    "body": "<${1:i} class=\"wi wi-sunrise$2\"></${1:i}>$3"
+  },
+  "wi-towards-sw": {
+    "prefix": "wi-towards-sw",
+    "body": "<${1:i} class=\"wi wi-towards-sw$2\"></${1:i}>$3"
+  },
+  "wi-sandstorm": {
+    "prefix": "wi-sandstorm",
+    "body": "<${1:i} class=\"wi wi-sandstorm$2\"></${1:i}>$3"
+  },
+  "wi-time-6": {
+    "prefix": "wi-time-6",
+    "body": "<${1:i} class=\"wi wi-time-6$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waning-crescent-2": {
+    "prefix": "wi-moon-alt-waning-crescent-2",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waning-crescent-2$2\"></${1:i}>$3"
+  },
+  "wi-moonrise": {
+    "prefix": "wi-moonrise",
+    "body": "<${1:i} class=\"wi wi-moonrise$2\"></${1:i}>$3"
+  },
+  "wi-raindrops": {
+    "prefix": "wi-raindrops",
+    "body": "<${1:i} class=\"wi wi-raindrops$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-5": {
+    "prefix": "wi-wind-beaufort-5",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-5$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-storm-showers": {
+    "prefix": "wi-night-alt-storm-showers",
+    "body": "<${1:i} class=\"wi wi-night-alt-storm-showers$2\"></${1:i}>$3"
+  },
+  "wi-hail": {
+    "prefix": "wi-hail",
+    "body": "<${1:i} class=\"wi wi-hail$2\"></${1:i}>$3"
+  },
+  "wi-night-sleet": {
+    "prefix": "wi-night-sleet",
+    "body": "<${1:i} class=\"wi wi-night-sleet$2\"></${1:i}>$3"
+  },
+  "wi-from-nnw": {
+    "prefix": "wi-from-nnw",
+    "body": "<${1:i} class=\"wi wi-from-nnw$2\"></${1:i}>$3"
+  },
+  "wi-storm-warning": {
+    "prefix": "wi-storm-warning",
+    "body": "<${1:i} class=\"wi wi-storm-warning$2\"></${1:i}>$3"
+  },
+  "wi-strong-wind": {
+    "prefix": "wi-strong-wind",
+    "body": "<${1:i} class=\"wi wi-strong-wind$2\"></${1:i}>$3"
+  },
+  "wi-cloudy-gusts": {
+    "prefix": "wi-cloudy-gusts",
+    "body": "<${1:i} class=\"wi wi-cloudy-gusts$2\"></${1:i}>$3"
+  },
+  "wi-na": {
+    "prefix": "wi-na",
+    "body": "<${1:i} class=\"wi wi-na$2\"></${1:i}>$3"
+  },
+  "wi-time-10": {
+    "prefix": "wi-time-10",
+    "body": "<${1:i} class=\"wi wi-time-10$2\"></${1:i}>$3"
+  },
+  "wi-time-11": {
+    "prefix": "wi-time-11",
+    "body": "<${1:i} class=\"wi wi-time-11$2\"></${1:i}>$3"
+  },
+  "wi-from-wsw": {
+    "prefix": "wi-from-wsw",
+    "body": "<${1:i} class=\"wi wi-from-wsw$2\"></${1:i}>$3"
+  },
+  "wi-time-3": {
+    "prefix": "wi-time-3",
+    "body": "<${1:i} class=\"wi wi-time-3$2\"></${1:i}>$3"
+  },
+  "wi-day-sunny-overcast": {
+    "prefix": "wi-day-sunny-overcast",
+    "body": "<${1:i} class=\"wi wi-day-sunny-overcast$2\"></${1:i}>$3"
+  },
+  "wi-night-snow": {
+    "prefix": "wi-night-snow",
+    "body": "<${1:i} class=\"wi wi-night-snow$2\"></${1:i}>$3"
+  },
+  "wi-thermometer-exterior": {
+    "prefix": "wi-thermometer-exterior",
+    "body": "<${1:i} class=\"wi wi-thermometer-exterior$2\"></${1:i}>$3"
+  },
+  "wi-towards-nne": {
+    "prefix": "wi-towards-nne",
+    "body": "<${1:i} class=\"wi wi-towards-nne$2\"></${1:i}>$3"
+  },
+  "wi-day-rain": {
+    "prefix": "wi-day-rain",
+    "body": "<${1:i} class=\"wi wi-day-rain$2\"></${1:i}>$3"
+  },
+  "wi-from-nne": {
+    "prefix": "wi-from-nne",
+    "body": "<${1:i} class=\"wi wi-from-nne$2\"></${1:i}>$3"
+  },
+  "wi-day-snow-thunderstorm": {
+    "prefix": "wi-day-snow-thunderstorm",
+    "body": "<${1:i} class=\"wi wi-day-snow-thunderstorm$2\"></${1:i}>$3"
+  },
+  "wi-rain-wind": {
+    "prefix": "wi-rain-wind",
+    "body": "<${1:i} class=\"wi wi-rain-wind$2\"></${1:i}>$3"
+  },
+  "wi-moon-waning-crescent-6": {
+    "prefix": "wi-moon-waning-crescent-6",
+    "body": "<${1:i} class=\"wi wi-moon-waning-crescent-6$2\"></${1:i}>$3"
+  },
+  "wi-moon-waning-crescent-5": {
+    "prefix": "wi-moon-waning-crescent-5",
+    "body": "<${1:i} class=\"wi wi-moon-waning-crescent-5$2\"></${1:i}>$3"
+  },
+  "wi-moon-waning-crescent-4": {
+    "prefix": "wi-moon-waning-crescent-4",
+    "body": "<${1:i} class=\"wi wi-moon-waning-crescent-4$2\"></${1:i}>$3"
+  },
+  "wi-moon-waning-crescent-3": {
+    "prefix": "wi-moon-waning-crescent-3",
+    "body": "<${1:i} class=\"wi wi-moon-waning-crescent-3$2\"></${1:i}>$3"
+  },
+  "wi-moon-waning-crescent-2": {
+    "prefix": "wi-moon-waning-crescent-2",
+    "body": "<${1:i} class=\"wi wi-moon-waning-crescent-2$2\"></${1:i}>$3"
+  },
+  "wi-moon-waning-crescent-1": {
+    "prefix": "wi-moon-waning-crescent-1",
+    "body": "<${1:i} class=\"wi wi-moon-waning-crescent-1$2\"></${1:i}>$3"
+  },
+  "wi-smog": {
+    "prefix": "wi-smog",
+    "body": "<${1:i} class=\"wi wi-smog$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-snow-thunderstorm": {
+    "prefix": "wi-night-alt-snow-thunderstorm",
+    "body": "<${1:i} class=\"wi wi-night-alt-snow-thunderstorm$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-7": {
+    "prefix": "wi-wind-beaufort-7",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-7$2\"></${1:i}>$3"
+  },
+  "wi-volcano": {
+    "prefix": "wi-volcano",
+    "body": "<${1:i} class=\"wi wi-volcano$2\"></${1:i}>$3"
+  },
+  "wi-towards-wsw": {
+    "prefix": "wi-towards-wsw",
+    "body": "<${1:i} class=\"wi wi-towards-wsw$2\"></${1:i}>$3"
+  },
+  "wi-tornado": {
+    "prefix": "wi-tornado",
+    "body": "<${1:i} class=\"wi wi-tornado$2\"></${1:i}>$3"
+  },
+  "wi-night-showers": {
+    "prefix": "wi-night-showers",
+    "body": "<${1:i} class=\"wi wi-night-showers$2\"></${1:i}>$3"
+  },
+  "wi-night-rain": {
+    "prefix": "wi-night-rain",
+    "body": "<${1:i} class=\"wi wi-night-rain$2\"></${1:i}>$3"
+  },
+  "wi-day-light-wind": {
+    "prefix": "wi-day-light-wind",
+    "body": "<${1:i} class=\"wi wi-day-light-wind$2\"></${1:i}>$3"
+  },
+  "wi-hurricane-warning": {
+    "prefix": "wi-hurricane-warning",
+    "body": "<${1:i} class=\"wi wi-hurricane-warning$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-9": {
+    "prefix": "wi-wind-beaufort-9",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-9$2\"></${1:i}>$3"
+  },
+  "wi-direction-left": {
+    "prefix": "wi-direction-left",
+    "body": "<${1:i} class=\"wi wi-direction-left$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-8": {
+    "prefix": "wi-wind-beaufort-8",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-8$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waxing-gibbous-4": {
+    "prefix": "wi-moon-alt-waxing-gibbous-4",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waxing-gibbous-4$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waxing-gibbous-5": {
+    "prefix": "wi-moon-alt-waxing-gibbous-5",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waxing-gibbous-5$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waxing-gibbous-6": {
+    "prefix": "wi-moon-alt-waxing-gibbous-6",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waxing-gibbous-6$2\"></${1:i}>$3"
+  },
+  "wi-from-se": {
+    "prefix": "wi-from-se",
+    "body": "<${1:i} class=\"wi wi-from-se$2\"></${1:i}>$3"
+  },
+  "wi-day-sunny": {
+    "prefix": "wi-day-sunny",
+    "body": "<${1:i} class=\"wi wi-day-sunny$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waxing-gibbous-2": {
+    "prefix": "wi-moon-alt-waxing-gibbous-2",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waxing-gibbous-2$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waxing-gibbous-3": {
+    "prefix": "wi-moon-alt-waxing-gibbous-3",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waxing-gibbous-3$2\"></${1:i}>$3"
+  },
+  "wi-from-ssw": {
+    "prefix": "wi-from-ssw",
+    "body": "<${1:i} class=\"wi wi-from-ssw$2\"></${1:i}>$3"
+  },
+  "wi-humidity": {
+    "prefix": "wi-humidity",
+    "body": "<${1:i} class=\"wi wi-humidity$2\"></${1:i}>$3"
+  },
+  "wi-rain": {
+    "prefix": "wi-rain",
+    "body": "<${1:i} class=\"wi wi-rain$2\"></${1:i}>$3"
+  },
+  "wi-moon-waxing-crescent-1": {
+    "prefix": "wi-moon-waxing-crescent-1",
+    "body": "<${1:i} class=\"wi wi-moon-waxing-crescent-1$2\"></${1:i}>$3"
+  },
+  "wi-sunset": {
+    "prefix": "wi-sunset",
+    "body": "<${1:i} class=\"wi wi-sunset$2\"></${1:i}>$3"
+  },
+  "wi-moon-waxing-crescent-3": {
+    "prefix": "wi-moon-waxing-crescent-3",
+    "body": "<${1:i} class=\"wi wi-moon-waxing-crescent-3$2\"></${1:i}>$3"
+  },
+  "wi-moon-waxing-crescent-2": {
+    "prefix": "wi-moon-waxing-crescent-2",
+    "body": "<${1:i} class=\"wi wi-moon-waxing-crescent-2$2\"></${1:i}>$3"
+  },
+  "wi-moon-waxing-crescent-5": {
+    "prefix": "wi-moon-waxing-crescent-5",
+    "body": "<${1:i} class=\"wi wi-moon-waxing-crescent-5$2\"></${1:i}>$3"
+  },
+  "wi-moon-waxing-crescent-4": {
+    "prefix": "wi-moon-waxing-crescent-4",
+    "body": "<${1:i} class=\"wi wi-moon-waxing-crescent-4$2\"></${1:i}>$3"
+  },
+  "wi-windy": {
+    "prefix": "wi-windy",
+    "body": "<${1:i} class=\"wi wi-windy$2\"></${1:i}>$3"
+  },
+  "wi-moon-waxing-crescent-6": {
+    "prefix": "wi-moon-waxing-crescent-6",
+    "body": "<${1:i} class=\"wi wi-moon-waxing-crescent-6$2\"></${1:i}>$3"
+  },
+  "wi-from-sse": {
+    "prefix": "wi-from-sse",
+    "body": "<${1:i} class=\"wi wi-from-sse$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-first-quarter": {
+    "prefix": "wi-moon-alt-first-quarter",
+    "body": "<${1:i} class=\"wi wi-moon-alt-first-quarter$2\"></${1:i}>$3"
+  },
+  "wi-gale-warning": {
+    "prefix": "wi-gale-warning",
+    "body": "<${1:i} class=\"wi wi-gale-warning$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-cloudy": {
+    "prefix": "wi-night-alt-cloudy",
+    "body": "<${1:i} class=\"wi wi-night-alt-cloudy$2\"></${1:i}>$3"
+  },
+  "wi-day-showers": {
+    "prefix": "wi-day-showers",
+    "body": "<${1:i} class=\"wi wi-day-showers$2\"></${1:i}>$3"
+  },
+  "wi-refresh": {
+    "prefix": "wi-refresh",
+    "body": "<${1:i} class=\"wi wi-refresh$2\"></${1:i}>$3"
+  },
+  "wi-hurricane": {
+    "prefix": "wi-hurricane",
+    "body": "<${1:i} class=\"wi wi-hurricane$2\"></${1:i}>$3"
+  },
+  "wi-moon-0": {
+    "prefix": "wi-moon-0",
+    "body": "<${1:i} class=\"wi wi-moon-0$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-1": {
+    "prefix": "wi-wind-beaufort-1",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-1$2\"></${1:i}>$3"
+  },
+  "wi-direction-down-left": {
+    "prefix": "wi-direction-down-left",
+    "body": "<${1:i} class=\"wi wi-direction-down-left$2\"></${1:i}>$3"
+  },
+  "wi-towards-se": {
+    "prefix": "wi-towards-se",
+    "body": "<${1:i} class=\"wi wi-towards-se$2\"></${1:i}>$3"
+  },
+  "wi-moon-14": {
+    "prefix": "wi-moon-14",
+    "body": "<${1:i} class=\"wi wi-moon-14$2\"></${1:i}>$3"
+  },
+  "wi-moon-15": {
+    "prefix": "wi-moon-15",
+    "body": "<${1:i} class=\"wi wi-moon-15$2\"></${1:i}>$3"
+  },
+  "wi-moon-16": {
+    "prefix": "wi-moon-16",
+    "body": "<${1:i} class=\"wi wi-moon-16$2\"></${1:i}>$3"
+  },
+  "wi-moon-17": {
+    "prefix": "wi-moon-17",
+    "body": "<${1:i} class=\"wi wi-moon-17$2\"></${1:i}>$3"
+  },
+  "wi-moon-10": {
+    "prefix": "wi-moon-10",
+    "body": "<${1:i} class=\"wi wi-moon-10$2\"></${1:i}>$3"
+  },
+  "wi-moon-11": {
+    "prefix": "wi-moon-11",
+    "body": "<${1:i} class=\"wi wi-moon-11$2\"></${1:i}>$3"
+  },
+  "wi-moon-12": {
+    "prefix": "wi-moon-12",
+    "body": "<${1:i} class=\"wi wi-moon-12$2\"></${1:i}>$3"
+  },
+  "wi-moon-13": {
+    "prefix": "wi-moon-13",
+    "body": "<${1:i} class=\"wi wi-moon-13$2\"></${1:i}>$3"
+  },
+  "wi-moon-full": {
+    "prefix": "wi-moon-full",
+    "body": "<${1:i} class=\"wi wi-moon-full$2\"></${1:i}>$3"
+  },
+  "wi-moon-first-quarter": {
+    "prefix": "wi-moon-first-quarter",
+    "body": "<${1:i} class=\"wi wi-moon-first-quarter$2\"></${1:i}>$3"
+  },
+  "wi-moon-18": {
+    "prefix": "wi-moon-18",
+    "body": "<${1:i} class=\"wi wi-moon-18$2\"></${1:i}>$3"
+  },
+  "wi-moon-19": {
+    "prefix": "wi-moon-19",
+    "body": "<${1:i} class=\"wi wi-moon-19$2\"></${1:i}>$3"
+  },
+  "wi-fire": {
+    "prefix": "wi-fire",
+    "body": "<${1:i} class=\"wi wi-fire$2\"></${1:i}>$3"
+  },
+  "wi-night-lightning": {
+    "prefix": "wi-night-lightning",
+    "body": "<${1:i} class=\"wi wi-night-lightning$2\"></${1:i}>$3"
+  },
+  "wi-direction-down": {
+    "prefix": "wi-direction-down",
+    "body": "<${1:i} class=\"wi wi-direction-down$2\"></${1:i}>$3"
+  },
+  "wi-thermometer-internal": {
+    "prefix": "wi-thermometer-internal",
+    "body": "<${1:i} class=\"wi wi-thermometer-internal$2\"></${1:i}>$3"
+  },
+  "wi-small-craft-advisory": {
+    "prefix": "wi-small-craft-advisory",
+    "body": "<${1:i} class=\"wi wi-small-craft-advisory$2\"></${1:i}>$3"
+  },
+  "wi-snowflake-cold": {
+    "prefix": "wi-snowflake-cold",
+    "body": "<${1:i} class=\"wi wi-snowflake-cold$2\"></${1:i}>$3"
+  },
+  "wi-horizon": {
+    "prefix": "wi-horizon",
+    "body": "<${1:i} class=\"wi wi-horizon$2\"></${1:i}>$3"
+  },
+  "wi-celsius": {
+    "prefix": "wi-celsius",
+    "body": "<${1:i} class=\"wi wi-celsius$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waning-gibbous-2": {
+    "prefix": "wi-moon-alt-waning-gibbous-2",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waning-gibbous-2$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waning-gibbous-3": {
+    "prefix": "wi-moon-alt-waning-gibbous-3",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waning-gibbous-3$2\"></${1:i}>$3"
+  },
+  "wi-moon-new": {
+    "prefix": "wi-moon-new",
+    "body": "<${1:i} class=\"wi wi-moon-new$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waning-gibbous-1": {
+    "prefix": "wi-moon-alt-waning-gibbous-1",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waning-gibbous-1$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waning-gibbous-6": {
+    "prefix": "wi-moon-alt-waning-gibbous-6",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waning-gibbous-6$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waning-gibbous-4": {
+    "prefix": "wi-moon-alt-waning-gibbous-4",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waning-gibbous-4$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waxing-gibbous-1": {
+    "prefix": "wi-moon-alt-waxing-gibbous-1",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waxing-gibbous-1$2\"></${1:i}>$3"
+  },
+  "wi-day-sleet": {
+    "prefix": "wi-day-sleet",
+    "body": "<${1:i} class=\"wi wi-day-sleet$2\"></${1:i}>$3"
+  },
+  "wi-cloudy": {
+    "prefix": "wi-cloudy",
+    "body": "<${1:i} class=\"wi wi-cloudy$2\"></${1:i}>$3"
+  },
+  "wi-direction-right": {
+    "prefix": "wi-direction-right",
+    "body": "<${1:i} class=\"wi wi-direction-right$2\"></${1:i}>$3"
+  },
+  "wi-night-rain-mix": {
+    "prefix": "wi-night-rain-mix",
+    "body": "<${1:i} class=\"wi wi-night-rain-mix$2\"></${1:i}>$3"
+  },
+  "wi-cloud-up": {
+    "prefix": "wi-cloud-up",
+    "body": "<${1:i} class=\"wi wi-cloud-up$2\"></${1:i}>$3"
+  },
+  "wi-day-snow": {
+    "prefix": "wi-day-snow",
+    "body": "<${1:i} class=\"wi wi-day-snow$2\"></${1:i}>$3"
+  },
+  "wi-lightning": {
+    "prefix": "wi-lightning",
+    "body": "<${1:i} class=\"wi wi-lightning$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-snow-wind": {
+    "prefix": "wi-night-alt-snow-wind",
+    "body": "<${1:i} class=\"wi wi-night-alt-snow-wind$2\"></${1:i}>$3"
+  },
+  "wi-night-snow-wind": {
+    "prefix": "wi-night-snow-wind",
+    "body": "<${1:i} class=\"wi wi-night-snow-wind$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-rain-mix": {
+    "prefix": "wi-night-alt-rain-mix",
+    "body": "<${1:i} class=\"wi wi-night-alt-rain-mix$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-thunderstorm": {
+    "prefix": "wi-night-alt-thunderstorm",
+    "body": "<${1:i} class=\"wi wi-night-alt-thunderstorm$2\"></${1:i}>$3"
+  },
+  "wi-towards-ene": {
+    "prefix": "wi-towards-ene",
+    "body": "<${1:i} class=\"wi wi-towards-ene$2\"></${1:i}>$3"
+  },
+  "wi-night-cloudy-windy": {
+    "prefix": "wi-night-cloudy-windy",
+    "body": "<${1:i} class=\"wi wi-night-cloudy-windy$2\"></${1:i}>$3"
+  },
+  "wi-moon-25": {
+    "prefix": "wi-moon-25",
+    "body": "<${1:i} class=\"wi wi-moon-25$2\"></${1:i}>$3"
+  },
+  "wi-moon-24": {
+    "prefix": "wi-moon-24",
+    "body": "<${1:i} class=\"wi wi-moon-24$2\"></${1:i}>$3"
+  },
+  "wi-moon-27": {
+    "prefix": "wi-moon-27",
+    "body": "<${1:i} class=\"wi wi-moon-27$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waning-gibbous-5": {
+    "prefix": "wi-moon-alt-waning-gibbous-5",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waning-gibbous-5$2\"></${1:i}>$3"
+  },
+  "wi-moon-21": {
+    "prefix": "wi-moon-21",
+    "body": "<${1:i} class=\"wi wi-moon-21$2\"></${1:i}>$3"
+  },
+  "wi-moon-20": {
+    "prefix": "wi-moon-20",
+    "body": "<${1:i} class=\"wi wi-moon-20$2\"></${1:i}>$3"
+  },
+  "wi-moon-23": {
+    "prefix": "wi-moon-23",
+    "body": "<${1:i} class=\"wi wi-moon-23$2\"></${1:i}>$3"
+  },
+  "wi-moon-22": {
+    "prefix": "wi-moon-22",
+    "body": "<${1:i} class=\"wi wi-moon-22$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-lightning": {
+    "prefix": "wi-night-alt-lightning",
+    "body": "<${1:i} class=\"wi wi-night-alt-lightning$2\"></${1:i}>$3"
+  },
+  "wi-cloud-refresh": {
+    "prefix": "wi-cloud-refresh",
+    "body": "<${1:i} class=\"wi wi-cloud-refresh$2\"></${1:i}>$3"
+  },
+  "wi-towards-nw": {
+    "prefix": "wi-towards-nw",
+    "body": "<${1:i} class=\"wi wi-towards-nw$2\"></${1:i}>$3"
+  },
+  "wi-horizon-alt": {
+    "prefix": "wi-horizon-alt",
+    "body": "<${1:i} class=\"wi wi-horizon-alt$2\"></${1:i}>$3"
+  },
+  "wi-night-alt-snow": {
+    "prefix": "wi-night-alt-snow",
+    "body": "<${1:i} class=\"wi wi-night-alt-snow$2\"></${1:i}>$3"
+  },
+  "wi-cloud": {
+    "prefix": "wi-cloud",
+    "body": "<${1:i} class=\"wi wi-cloud$2\"></${1:i}>$3"
+  },
+  "wi-night-sprinkle": {
+    "prefix": "wi-night-sprinkle",
+    "body": "<${1:i} class=\"wi wi-night-sprinkle$2\"></${1:i}>$3"
+  },
+  "wi-from-ene": {
+    "prefix": "wi-from-ene",
+    "body": "<${1:i} class=\"wi wi-from-ene$2\"></${1:i}>$3"
+  },
+  "wi-towards-ssw": {
+    "prefix": "wi-towards-ssw",
+    "body": "<${1:i} class=\"wi wi-towards-ssw$2\"></${1:i}>$3"
+  },
+  "wi-lunar-eclipse": {
+    "prefix": "wi-lunar-eclipse",
+    "body": "<${1:i} class=\"wi wi-lunar-eclipse$2\"></${1:i}>$3"
+  },
+  "wi-moon-6": {
+    "prefix": "wi-moon-6",
+    "body": "<${1:i} class=\"wi wi-moon-6$2\"></${1:i}>$3"
+  },
+  "wi-moon-7": {
+    "prefix": "wi-moon-7",
+    "body": "<${1:i} class=\"wi wi-moon-7$2\"></${1:i}>$3"
+  },
+  "wi-moon-4": {
+    "prefix": "wi-moon-4",
+    "body": "<${1:i} class=\"wi wi-moon-4$2\"></${1:i}>$3"
+  },
+  "wi-moon-5": {
+    "prefix": "wi-moon-5",
+    "body": "<${1:i} class=\"wi wi-moon-5$2\"></${1:i}>$3"
+  },
+  "wi-moon-2": {
+    "prefix": "wi-moon-2",
+    "body": "<${1:i} class=\"wi wi-moon-2$2\"></${1:i}>$3"
+  },
+  "wi-moon-3": {
+    "prefix": "wi-moon-3",
+    "body": "<${1:i} class=\"wi wi-moon-3$2\"></${1:i}>$3"
+  },
+  "wi-day-thunderstorm": {
+    "prefix": "wi-day-thunderstorm",
+    "body": "<${1:i} class=\"wi wi-day-thunderstorm$2\"></${1:i}>$3"
+  },
+  "wi-moon-1": {
+    "prefix": "wi-moon-1",
+    "body": "<${1:i} class=\"wi wi-moon-1$2\"></${1:i}>$3"
+  },
+  "wi-sprinkle": {
+    "prefix": "wi-sprinkle",
+    "body": "<${1:i} class=\"wi wi-sprinkle$2\"></${1:i}>$3"
+  },
+  "wi-moon-8": {
+    "prefix": "wi-moon-8",
+    "body": "<${1:i} class=\"wi wi-moon-8$2\"></${1:i}>$3"
+  },
+  "wi-moon-9": {
+    "prefix": "wi-moon-9",
+    "body": "<${1:i} class=\"wi wi-moon-9$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-new": {
+    "prefix": "wi-moon-alt-new",
+    "body": "<${1:i} class=\"wi wi-moon-alt-new$2\"></${1:i}>$3"
+  },
+  "wi-night-cloudy-high": {
+    "prefix": "wi-night-cloudy-high",
+    "body": "<${1:i} class=\"wi wi-night-cloudy-high$2\"></${1:i}>$3"
+  },
+  "wi-showers": {
+    "prefix": "wi-showers",
+    "body": "<${1:i} class=\"wi wi-showers$2\"></${1:i}>$3"
+  },
+  "wi-night-cloudy": {
+    "prefix": "wi-night-cloudy",
+    "body": "<${1:i} class=\"wi wi-night-cloudy$2\"></${1:i}>$3"
+  },
+  "wi-wind-beaufort-2": {
+    "prefix": "wi-wind-beaufort-2",
+    "body": "<${1:i} class=\"wi wi-wind-beaufort-2$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waxing-crescent-6": {
+    "prefix": "wi-moon-alt-waxing-crescent-6",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waxing-crescent-6$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waxing-crescent-5": {
+    "prefix": "wi-moon-alt-waxing-crescent-5",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waxing-crescent-5$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waxing-crescent-4": {
+    "prefix": "wi-moon-alt-waxing-crescent-4",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waxing-crescent-4$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waxing-crescent-3": {
+    "prefix": "wi-moon-alt-waxing-crescent-3",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waxing-crescent-3$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waxing-crescent-2": {
+    "prefix": "wi-moon-alt-waxing-crescent-2",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waxing-crescent-2$2\"></${1:i}>$3"
+  },
+  "wi-moon-alt-waxing-crescent-1": {
+    "prefix": "wi-moon-alt-waxing-crescent-1",
+    "body": "<${1:i} class=\"wi wi-moon-alt-waxing-crescent-1$2\"></${1:i}>$3"
+  },
+  "wi-night-clear": {
+    "prefix": "wi-night-clear",
+    "body": "<${1:i} class=\"wi wi-night-clear$2\"></${1:i}>$3"
+  }
+}

@@ -1,0 +1,1054 @@
+{
+  "glyphicon-ruble": {
+    "prefix": "glyphicon-ruble",
+    "body": "<${1:span} class=\"glyphicon glyphicon-ruble$2\"></${1:span}>$3"
+  },
+  "glyphicon-inbox": {
+    "prefix": "glyphicon-inbox",
+    "body": "<${1:span} class=\"glyphicon glyphicon-inbox$2\"></${1:span}>$3"
+  },
+  "glyphicon-trash": {
+    "prefix": "glyphicon-trash",
+    "body": "<${1:span} class=\"glyphicon glyphicon-trash$2\"></${1:span}>$3"
+  },
+  "glyphicon-minus": {
+    "prefix": "glyphicon-minus",
+    "body": "<${1:span} class=\"glyphicon glyphicon-minus$2\"></${1:span}>$3"
+  },
+  "glyphicon-play": {
+    "prefix": "glyphicon-play",
+    "body": "<${1:span} class=\"glyphicon glyphicon-play$2\"></${1:span}>$3"
+  },
+  "glyphicon-usd": {
+    "prefix": "glyphicon-usd",
+    "body": "<${1:span} class=\"glyphicon glyphicon-usd$2\"></${1:span}>$3"
+  },
+  "glyphicon-sort-by-attributes-alt": {
+    "prefix": "glyphicon-sort-by-attributes-alt",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sort-by-attributes-alt$2\"></${1:span}>$3"
+  },
+  "glyphicon-info-sign": {
+    "prefix": "glyphicon-info-sign",
+    "body": "<${1:span} class=\"glyphicon glyphicon-info-sign$2\"></${1:span}>$3"
+  },
+  "glyphicon-italic": {
+    "prefix": "glyphicon-italic",
+    "body": "<${1:span} class=\"glyphicon glyphicon-italic$2\"></${1:span}>$3"
+  },
+  "glyphicon-chevron-up": {
+    "prefix": "glyphicon-chevron-up",
+    "body": "<${1:span} class=\"glyphicon glyphicon-chevron-up$2\"></${1:span}>$3"
+  },
+  "glyphicon-menu-left": {
+    "prefix": "glyphicon-menu-left",
+    "body": "<${1:span} class=\"glyphicon glyphicon-menu-left$2\"></${1:span}>$3"
+  },
+  "glyphicon-envelope": {
+    "prefix": "glyphicon-envelope",
+    "body": "<${1:span} class=\"glyphicon glyphicon-envelope$2\"></${1:span}>$3"
+  },
+  "glyphicon-registration-mark": {
+    "prefix": "glyphicon-registration-mark",
+    "body": "<${1:span} class=\"glyphicon glyphicon-registration-mark$2\"></${1:span}>$3"
+  },
+  "glyphicon-tasks": {
+    "prefix": "glyphicon-tasks",
+    "body": "<${1:span} class=\"glyphicon glyphicon-tasks$2\"></${1:span}>$3"
+  },
+  "glyphicon-sound-dolby": {
+    "prefix": "glyphicon-sound-dolby",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sound-dolby$2\"></${1:span}>$3"
+  },
+  "glyphicon-dashboard": {
+    "prefix": "glyphicon-dashboard",
+    "body": "<${1:span} class=\"glyphicon glyphicon-dashboard$2\"></${1:span}>$3"
+  },
+  "glyphicon-leaf": {
+    "prefix": "glyphicon-leaf",
+    "body": "<${1:span} class=\"glyphicon glyphicon-leaf$2\"></${1:span}>$3"
+  },
+  "glyphicon-align-center": {
+    "prefix": "glyphicon-align-center",
+    "body": "<${1:span} class=\"glyphicon glyphicon-align-center$2\"></${1:span}>$3"
+  },
+  "glyphicon-object-align-horizontal": {
+    "prefix": "glyphicon-object-align-horizontal",
+    "body": "<${1:span} class=\"glyphicon glyphicon-object-align-horizontal$2\"></${1:span}>$3"
+  },
+  "glyphicon-circle-arrow-right": {
+    "prefix": "glyphicon-circle-arrow-right",
+    "body": "<${1:span} class=\"glyphicon glyphicon-circle-arrow-right$2\"></${1:span}>$3"
+  },
+  "glyphicon-log-in": {
+    "prefix": "glyphicon-log-in",
+    "body": "<${1:span} class=\"glyphicon glyphicon-log-in$2\"></${1:span}>$3"
+  },
+  "glyphicon-chevron-down": {
+    "prefix": "glyphicon-chevron-down",
+    "body": "<${1:span} class=\"glyphicon glyphicon-chevron-down$2\"></${1:span}>$3"
+  },
+  "glyphicon-qrcode": {
+    "prefix": "glyphicon-qrcode",
+    "body": "<${1:span} class=\"glyphicon glyphicon-qrcode$2\"></${1:span}>$3"
+  },
+  "glyphicon-text-background": {
+    "prefix": "glyphicon-text-background",
+    "body": "<${1:span} class=\"glyphicon glyphicon-text-background$2\"></${1:span}>$3"
+  },
+  "glyphicon-jpy": {
+    "prefix": "glyphicon-jpy",
+    "body": "<${1:span} class=\"glyphicon glyphicon-jpy$2\"></${1:span}>$3"
+  },
+  "glyphicon-oil": {
+    "prefix": "glyphicon-oil",
+    "body": "<${1:span} class=\"glyphicon glyphicon-oil$2\"></${1:span}>$3"
+  },
+  "glyphicon-calendar": {
+    "prefix": "glyphicon-calendar",
+    "body": "<${1:span} class=\"glyphicon glyphicon-calendar$2\"></${1:span}>$3"
+  },
+  "glyphicon-sort-by-order": {
+    "prefix": "glyphicon-sort-by-order",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sort-by-order$2\"></${1:span}>$3"
+  },
+  "glyphicon-eye-close": {
+    "prefix": "glyphicon-eye-close",
+    "body": "<${1:span} class=\"glyphicon glyphicon-eye-close$2\"></${1:span}>$3"
+  },
+  "glyphicon-hdd": {
+    "prefix": "glyphicon-hdd",
+    "body": "<${1:span} class=\"glyphicon glyphicon-hdd$2\"></${1:span}>$3"
+  },
+  "glyphicon-filter": {
+    "prefix": "glyphicon-filter",
+    "body": "<${1:span} class=\"glyphicon glyphicon-filter$2\"></${1:span}>$3"
+  },
+  "glyphicon-yen": {
+    "prefix": "glyphicon-yen",
+    "body": "<${1:span} class=\"glyphicon glyphicon-yen$2\"></${1:span}>$3"
+  },
+  "glyphicon-tent": {
+    "prefix": "glyphicon-tent",
+    "body": "<${1:span} class=\"glyphicon glyphicon-tent$2\"></${1:span}>$3"
+  },
+  "glyphicon-pawn": {
+    "prefix": "glyphicon-pawn",
+    "body": "<${1:span} class=\"glyphicon glyphicon-pawn$2\"></${1:span}>$3"
+  },
+  "glyphicon-comment": {
+    "prefix": "glyphicon-comment",
+    "body": "<${1:span} class=\"glyphicon glyphicon-comment$2\"></${1:span}>$3"
+  },
+  "glyphicon-camera": {
+    "prefix": "glyphicon-camera",
+    "body": "<${1:span} class=\"glyphicon glyphicon-camera$2\"></${1:span}>$3"
+  },
+  "glyphicon-indent-left": {
+    "prefix": "glyphicon-indent-left",
+    "body": "<${1:span} class=\"glyphicon glyphicon-indent-left$2\"></${1:span}>$3"
+  },
+  "glyphicon-refresh": {
+    "prefix": "glyphicon-refresh",
+    "body": "<${1:span} class=\"glyphicon glyphicon-refresh$2\"></${1:span}>$3"
+  },
+  "glyphicon-menu-hamburger": {
+    "prefix": "glyphicon-menu-hamburger",
+    "body": "<${1:span} class=\"glyphicon glyphicon-menu-hamburger$2\"></${1:span}>$3"
+  },
+  "glyphicon-sound-stereo": {
+    "prefix": "glyphicon-sound-stereo",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sound-stereo$2\"></${1:span}>$3"
+  },
+  "glyphicon-hand-up": {
+    "prefix": "glyphicon-hand-up",
+    "body": "<${1:span} class=\"glyphicon glyphicon-hand-up$2\"></${1:span}>$3"
+  },
+  "glyphicon-bold": {
+    "prefix": "glyphicon-bold",
+    "body": "<${1:span} class=\"glyphicon glyphicon-bold$2\"></${1:span}>$3"
+  },
+  "glyphicon-adjust": {
+    "prefix": "glyphicon-adjust",
+    "body": "<${1:span} class=\"glyphicon glyphicon-adjust$2\"></${1:span}>$3"
+  },
+  "glyphicon-asterisk": {
+    "prefix": "glyphicon-asterisk",
+    "body": "<${1:span} class=\"glyphicon glyphicon-asterisk$2\"></${1:span}>$3"
+  },
+  "glyphicon-shopping-cart": {
+    "prefix": "glyphicon-shopping-cart",
+    "body": "<${1:span} class=\"glyphicon glyphicon-shopping-cart$2\"></${1:span}>$3"
+  },
+  "glyphicon-sort-by-alphabet-alt": {
+    "prefix": "glyphicon-sort-by-alphabet-alt",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sort-by-alphabet-alt$2\"></${1:span}>$3"
+  },
+  "glyphicon-zoom-out": {
+    "prefix": "glyphicon-zoom-out",
+    "body": "<${1:span} class=\"glyphicon glyphicon-zoom-out$2\"></${1:span}>$3"
+  },
+  "glyphicon-save-file": {
+    "prefix": "glyphicon-save-file",
+    "body": "<${1:span} class=\"glyphicon glyphicon-save-file$2\"></${1:span}>$3"
+  },
+  "glyphicon-object-align-bottom": {
+    "prefix": "glyphicon-object-align-bottom",
+    "body": "<${1:span} class=\"glyphicon glyphicon-object-align-bottom$2\"></${1:span}>$3"
+  },
+  "glyphicon-arrow-right": {
+    "prefix": "glyphicon-arrow-right",
+    "body": "<${1:span} class=\"glyphicon glyphicon-arrow-right$2\"></${1:span}>$3"
+  },
+  "glyphicon-indent-right": {
+    "prefix": "glyphicon-indent-right",
+    "body": "<${1:span} class=\"glyphicon glyphicon-indent-right$2\"></${1:span}>$3"
+  },
+  "glyphicon-backward": {
+    "prefix": "glyphicon-backward",
+    "body": "<${1:span} class=\"glyphicon glyphicon-backward$2\"></${1:span}>$3"
+  },
+  "glyphicon-triangle-top": {
+    "prefix": "glyphicon-triangle-top",
+    "body": "<${1:span} class=\"glyphicon glyphicon-triangle-top$2\"></${1:span}>$3"
+  },
+  "glyphicon-eur": {
+    "prefix": "glyphicon-eur",
+    "body": "<${1:span} class=\"glyphicon glyphicon-eur$2\"></${1:span}>$3"
+  },
+  "glyphicon-flag": {
+    "prefix": "glyphicon-flag",
+    "body": "<${1:span} class=\"glyphicon glyphicon-flag$2\"></${1:span}>$3"
+  },
+  "glyphicon-heart-empty": {
+    "prefix": "glyphicon-heart-empty",
+    "body": "<${1:span} class=\"glyphicon glyphicon-heart-empty$2\"></${1:span}>$3"
+  },
+  "glyphicon-picture": {
+    "prefix": "glyphicon-picture",
+    "body": "<${1:span} class=\"glyphicon glyphicon-picture$2\"></${1:span}>$3"
+  },
+  "glyphicon-menu-down": {
+    "prefix": "glyphicon-menu-down",
+    "body": "<${1:span} class=\"glyphicon glyphicon-menu-down$2\"></${1:span}>$3"
+  },
+  "glyphicon-move": {
+    "prefix": "glyphicon-move",
+    "body": "<${1:span} class=\"glyphicon glyphicon-move$2\"></${1:span}>$3"
+  },
+  "glyphicon-floppy-open": {
+    "prefix": "glyphicon-floppy-open",
+    "body": "<${1:span} class=\"glyphicon glyphicon-floppy-open$2\"></${1:span}>$3"
+  },
+  "glyphicon-step-backward": {
+    "prefix": "glyphicon-step-backward",
+    "body": "<${1:span} class=\"glyphicon glyphicon-step-backward$2\"></${1:span}>$3"
+  },
+  "glyphicon-list": {
+    "prefix": "glyphicon-list",
+    "body": "<${1:span} class=\"glyphicon glyphicon-list$2\"></${1:span}>$3"
+  },
+  "glyphicon-bitcoin": {
+    "prefix": "glyphicon-bitcoin",
+    "body": "<${1:span} class=\"glyphicon glyphicon-bitcoin$2\"></${1:span}>$3"
+  },
+  "glyphicon-pushpin": {
+    "prefix": "glyphicon-pushpin",
+    "body": "<${1:span} class=\"glyphicon glyphicon-pushpin$2\"></${1:span}>$3"
+  },
+  "glyphicon-book": {
+    "prefix": "glyphicon-book",
+    "body": "<${1:span} class=\"glyphicon glyphicon-book$2\"></${1:span}>$3"
+  },
+  "glyphicon-print": {
+    "prefix": "glyphicon-print",
+    "body": "<${1:span} class=\"glyphicon glyphicon-print$2\"></${1:span}>$3"
+  },
+  "glyphicon-ok": {
+    "prefix": "glyphicon-ok",
+    "body": "<${1:span} class=\"glyphicon glyphicon-ok$2\"></${1:span}>$3"
+  },
+  "glyphicon-floppy-remove": {
+    "prefix": "glyphicon-floppy-remove",
+    "body": "<${1:span} class=\"glyphicon glyphicon-floppy-remove$2\"></${1:span}>$3"
+  },
+  "glyphicon-file": {
+    "prefix": "glyphicon-file",
+    "body": "<${1:span} class=\"glyphicon glyphicon-file$2\"></${1:span}>$3"
+  },
+  "glyphicon-save": {
+    "prefix": "glyphicon-save",
+    "body": "<${1:span} class=\"glyphicon glyphicon-save$2\"></${1:span}>$3"
+  },
+  "glyphicon-arrow-down": {
+    "prefix": "glyphicon-arrow-down",
+    "body": "<${1:span} class=\"glyphicon glyphicon-arrow-down$2\"></${1:span}>$3"
+  },
+  "glyphicon-barcode": {
+    "prefix": "glyphicon-barcode",
+    "body": "<${1:span} class=\"glyphicon glyphicon-barcode$2\"></${1:span}>$3"
+  },
+  "glyphicon-sd-video": {
+    "prefix": "glyphicon-sd-video",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sd-video$2\"></${1:span}>$3"
+  },
+  "glyphicon-film": {
+    "prefix": "glyphicon-film",
+    "body": "<${1:span} class=\"glyphicon glyphicon-film$2\"></${1:span}>$3"
+  },
+  "glyphicon-plane": {
+    "prefix": "glyphicon-plane",
+    "body": "<${1:span} class=\"glyphicon glyphicon-plane$2\"></${1:span}>$3"
+  },
+  "glyphicon-hand-right": {
+    "prefix": "glyphicon-hand-right",
+    "body": "<${1:span} class=\"glyphicon glyphicon-hand-right$2\"></${1:span}>$3"
+  },
+  "glyphicon-xbt": {
+    "prefix": "glyphicon-xbt",
+    "body": "<${1:span} class=\"glyphicon glyphicon-xbt$2\"></${1:span}>$3"
+  },
+  "glyphicon-cloud-upload": {
+    "prefix": "glyphicon-cloud-upload",
+    "body": "<${1:span} class=\"glyphicon glyphicon-cloud-upload$2\"></${1:span}>$3"
+  },
+  "glyphicon-certificate": {
+    "prefix": "glyphicon-certificate",
+    "body": "<${1:span} class=\"glyphicon glyphicon-certificate$2\"></${1:span}>$3"
+  },
+  "glyphicon-collapse-up": {
+    "prefix": "glyphicon-collapse-up",
+    "body": "<${1:span} class=\"glyphicon glyphicon-collapse-up$2\"></${1:span}>$3"
+  },
+  "glyphicon-retweet": {
+    "prefix": "glyphicon-retweet",
+    "body": "<${1:span} class=\"glyphicon glyphicon-retweet$2\"></${1:span}>$3"
+  },
+  "glyphicon-align-right": {
+    "prefix": "glyphicon-align-right",
+    "body": "<${1:span} class=\"glyphicon glyphicon-align-right$2\"></${1:span}>$3"
+  },
+  "glyphicon-object-align-right": {
+    "prefix": "glyphicon-object-align-right",
+    "body": "<${1:span} class=\"glyphicon glyphicon-object-align-right$2\"></${1:span}>$3"
+  },
+  "glyphicon-map-marker": {
+    "prefix": "glyphicon-map-marker",
+    "body": "<${1:span} class=\"glyphicon glyphicon-map-marker$2\"></${1:span}>$3"
+  },
+  "glyphicon-erase": {
+    "prefix": "glyphicon-erase",
+    "body": "<${1:span} class=\"glyphicon glyphicon-erase$2\"></${1:span}>$3"
+  },
+  "glyphicon-collapse-down": {
+    "prefix": "glyphicon-collapse-down",
+    "body": "<${1:span} class=\"glyphicon glyphicon-collapse-down$2\"></${1:span}>$3"
+  },
+  "glyphicon-volume-down": {
+    "prefix": "glyphicon-volume-down",
+    "body": "<${1:span} class=\"glyphicon glyphicon-volume-down$2\"></${1:span}>$3"
+  },
+  "glyphicon-header": {
+    "prefix": "glyphicon-header",
+    "body": "<${1:span} class=\"glyphicon glyphicon-header$2\"></${1:span}>$3"
+  },
+  "glyphicon-cog": {
+    "prefix": "glyphicon-cog",
+    "body": "<${1:span} class=\"glyphicon glyphicon-cog$2\"></${1:span}>$3"
+  },
+  "glyphicon-tree-conifer": {
+    "prefix": "glyphicon-tree-conifer",
+    "body": "<${1:span} class=\"glyphicon glyphicon-tree-conifer$2\"></${1:span}>$3"
+  },
+  "glyphicon-saved": {
+    "prefix": "glyphicon-saved",
+    "body": "<${1:span} class=\"glyphicon glyphicon-saved$2\"></${1:span}>$3"
+  },
+  "glyphicon-arrow-up": {
+    "prefix": "glyphicon-arrow-up",
+    "body": "<${1:span} class=\"glyphicon glyphicon-arrow-up$2\"></${1:span}>$3"
+  },
+  "glyphicon-globe": {
+    "prefix": "glyphicon-globe",
+    "body": "<${1:span} class=\"glyphicon glyphicon-globe$2\"></${1:span}>$3"
+  },
+  "glyphicon-copyright-mark": {
+    "prefix": "glyphicon-copyright-mark",
+    "body": "<${1:span} class=\"glyphicon glyphicon-copyright-mark$2\"></${1:span}>$3"
+  },
+  "glyphicon-circle-arrow-left": {
+    "prefix": "glyphicon-circle-arrow-left",
+    "body": "<${1:span} class=\"glyphicon glyphicon-circle-arrow-left$2\"></${1:span}>$3"
+  },
+  "glyphicon-resize-vertical": {
+    "prefix": "glyphicon-resize-vertical",
+    "body": "<${1:span} class=\"glyphicon glyphicon-resize-vertical$2\"></${1:span}>$3"
+  },
+  "glyphicon-resize-full": {
+    "prefix": "glyphicon-resize-full",
+    "body": "<${1:span} class=\"glyphicon glyphicon-resize-full$2\"></${1:span}>$3"
+  },
+  "glyphicon-bullhorn": {
+    "prefix": "glyphicon-bullhorn",
+    "body": "<${1:span} class=\"glyphicon glyphicon-bullhorn$2\"></${1:span}>$3"
+  },
+  "glyphicon-send": {
+    "prefix": "glyphicon-send",
+    "body": "<${1:span} class=\"glyphicon glyphicon-send$2\"></${1:span}>$3"
+  },
+  "glyphicon-warning-sign": {
+    "prefix": "glyphicon-warning-sign",
+    "body": "<${1:span} class=\"glyphicon glyphicon-warning-sign$2\"></${1:span}>$3"
+  },
+  "glyphicon-magnet": {
+    "prefix": "glyphicon-magnet",
+    "body": "<${1:span} class=\"glyphicon glyphicon-magnet$2\"></${1:span}>$3"
+  },
+  "glyphicon-chevron-left": {
+    "prefix": "glyphicon-chevron-left",
+    "body": "<${1:span} class=\"glyphicon glyphicon-chevron-left$2\"></${1:span}>$3"
+  },
+  "glyphicon-subscript": {
+    "prefix": "glyphicon-subscript",
+    "body": "<${1:span} class=\"glyphicon glyphicon-subscript$2\"></${1:span}>$3"
+  },
+  "glyphicon-lock": {
+    "prefix": "glyphicon-lock",
+    "body": "<${1:span} class=\"glyphicon glyphicon-lock$2\"></${1:span}>$3"
+  },
+  "glyphicon-folder-close": {
+    "prefix": "glyphicon-folder-close",
+    "body": "<${1:span} class=\"glyphicon glyphicon-folder-close$2\"></${1:span}>$3"
+  },
+  "glyphicon-fire": {
+    "prefix": "glyphicon-fire",
+    "body": "<${1:span} class=\"glyphicon glyphicon-fire$2\"></${1:span}>$3"
+  },
+  "glyphicon-repeat": {
+    "prefix": "glyphicon-repeat",
+    "body": "<${1:span} class=\"glyphicon glyphicon-repeat$2\"></${1:span}>$3"
+  },
+  "glyphicon-eject": {
+    "prefix": "glyphicon-eject",
+    "body": "<${1:span} class=\"glyphicon glyphicon-eject$2\"></${1:span}>$3"
+  },
+  "glyphicon-credit-card": {
+    "prefix": "glyphicon-credit-card",
+    "body": "<${1:span} class=\"glyphicon glyphicon-credit-card$2\"></${1:span}>$3"
+  },
+  "glyphicon-text-size": {
+    "prefix": "glyphicon-text-size",
+    "body": "<${1:span} class=\"glyphicon glyphicon-text-size$2\"></${1:span}>$3"
+  },
+  "glyphicon-triangle-bottom": {
+    "prefix": "glyphicon-triangle-bottom",
+    "body": "<${1:span} class=\"glyphicon glyphicon-triangle-bottom$2\"></${1:span}>$3"
+  },
+  "glyphicon-sound-6-1": {
+    "prefix": "glyphicon-sound-6-1",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sound-6-1$2\"></${1:span}>$3"
+  },
+  "glyphicon-log-out": {
+    "prefix": "glyphicon-log-out",
+    "body": "<${1:span} class=\"glyphicon glyphicon-log-out$2\"></${1:span}>$3"
+  },
+  "glyphicon-fullscreen": {
+    "prefix": "glyphicon-fullscreen",
+    "body": "<${1:span} class=\"glyphicon glyphicon-fullscreen$2\"></${1:span}>$3"
+  },
+  "glyphicon-search": {
+    "prefix": "glyphicon-search",
+    "body": "<${1:span} class=\"glyphicon glyphicon-search$2\"></${1:span}>$3"
+  },
+  "glyphicon-stats": {
+    "prefix": "glyphicon-stats",
+    "body": "<${1:span} class=\"glyphicon glyphicon-stats$2\"></${1:span}>$3"
+  },
+  "glyphicon-sort-by-order-alt": {
+    "prefix": "glyphicon-sort-by-order-alt",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sort-by-order-alt$2\"></${1:span}>$3"
+  },
+  "glyphicon-knight": {
+    "prefix": "glyphicon-knight",
+    "body": "<${1:span} class=\"glyphicon glyphicon-knight$2\"></${1:span}>$3"
+  },
+  "glyphicon-superscript": {
+    "prefix": "glyphicon-superscript",
+    "body": "<${1:span} class=\"glyphicon glyphicon-superscript$2\"></${1:span}>$3"
+  },
+  "glyphicon-level-up": {
+    "prefix": "glyphicon-level-up",
+    "body": "<${1:span} class=\"glyphicon glyphicon-level-up$2\"></${1:span}>$3"
+  },
+  "glyphicon-resize-horizontal": {
+    "prefix": "glyphicon-resize-horizontal",
+    "body": "<${1:span} class=\"glyphicon glyphicon-resize-horizontal$2\"></${1:span}>$3"
+  },
+  "glyphicon-glass": {
+    "prefix": "glyphicon-glass",
+    "body": "<${1:span} class=\"glyphicon glyphicon-glass$2\"></${1:span}>$3"
+  },
+  "glyphicon-stop": {
+    "prefix": "glyphicon-stop",
+    "body": "<${1:span} class=\"glyphicon glyphicon-stop$2\"></${1:span}>$3"
+  },
+  "glyphicon-record": {
+    "prefix": "glyphicon-record",
+    "body": "<${1:span} class=\"glyphicon glyphicon-record$2\"></${1:span}>$3"
+  },
+  "glyphicon-ok-circle": {
+    "prefix": "glyphicon-ok-circle",
+    "body": "<${1:span} class=\"glyphicon glyphicon-ok-circle$2\"></${1:span}>$3"
+  },
+  "glyphicon-paperclip": {
+    "prefix": "glyphicon-paperclip",
+    "body": "<${1:span} class=\"glyphicon glyphicon-paperclip$2\"></${1:span}>$3"
+  },
+  "glyphicon-step-forward": {
+    "prefix": "glyphicon-step-forward",
+    "body": "<${1:span} class=\"glyphicon glyphicon-step-forward$2\"></${1:span}>$3"
+  },
+  "glyphicon-copy": {
+    "prefix": "glyphicon-copy",
+    "body": "<${1:span} class=\"glyphicon glyphicon-copy$2\"></${1:span}>$3"
+  },
+  "glyphicon-scale": {
+    "prefix": "glyphicon-scale",
+    "body": "<${1:span} class=\"glyphicon glyphicon-scale$2\"></${1:span}>$3"
+  },
+  "glyphicon-triangle-right": {
+    "prefix": "glyphicon-triangle-right",
+    "body": "<${1:span} class=\"glyphicon glyphicon-triangle-right$2\"></${1:span}>$3"
+  },
+  "glyphicon-star": {
+    "prefix": "glyphicon-star",
+    "body": "<${1:span} class=\"glyphicon glyphicon-star$2\"></${1:span}>$3"
+  },
+  "glyphicon-hand-down": {
+    "prefix": "glyphicon-hand-down",
+    "body": "<${1:span} class=\"glyphicon glyphicon-hand-down$2\"></${1:span}>$3"
+  },
+  "glyphicon-menu-up": {
+    "prefix": "glyphicon-menu-up",
+    "body": "<${1:span} class=\"glyphicon glyphicon-menu-up$2\"></${1:span}>$3"
+  },
+  "glyphicon-time": {
+    "prefix": "glyphicon-time",
+    "body": "<${1:span} class=\"glyphicon glyphicon-time$2\"></${1:span}>$3"
+  },
+  "glyphicon-text-width": {
+    "prefix": "glyphicon-text-width",
+    "body": "<${1:span} class=\"glyphicon glyphicon-text-width$2\"></${1:span}>$3"
+  },
+  "glyphicon-cloud-download": {
+    "prefix": "glyphicon-cloud-download",
+    "body": "<${1:span} class=\"glyphicon glyphicon-cloud-download$2\"></${1:span}>$3"
+  },
+  "glyphicon-rub": {
+    "prefix": "glyphicon-rub",
+    "body": "<${1:span} class=\"glyphicon glyphicon-rub$2\"></${1:span}>$3"
+  },
+  "glyphicon-resize-small": {
+    "prefix": "glyphicon-resize-small",
+    "body": "<${1:span} class=\"glyphicon glyphicon-resize-small$2\"></${1:span}>$3"
+  },
+  "glyphicon-remove-circle": {
+    "prefix": "glyphicon-remove-circle",
+    "body": "<${1:span} class=\"glyphicon glyphicon-remove-circle$2\"></${1:span}>$3"
+  },
+  "glyphicon-scissors": {
+    "prefix": "glyphicon-scissors",
+    "body": "<${1:span} class=\"glyphicon glyphicon-scissors$2\"></${1:span}>$3"
+  },
+  "glyphicon-ok-sign": {
+    "prefix": "glyphicon-ok-sign",
+    "body": "<${1:span} class=\"glyphicon glyphicon-ok-sign$2\"></${1:span}>$3"
+  },
+  "glyphicon-phone-alt": {
+    "prefix": "glyphicon-phone-alt",
+    "body": "<${1:span} class=\"glyphicon glyphicon-phone-alt$2\"></${1:span}>$3"
+  },
+  "glyphicon-road": {
+    "prefix": "glyphicon-road",
+    "body": "<${1:span} class=\"glyphicon glyphicon-road$2\"></${1:span}>$3"
+  },
+  "glyphicon-option-vertical": {
+    "prefix": "glyphicon-option-vertical",
+    "body": "<${1:span} class=\"glyphicon glyphicon-option-vertical$2\"></${1:span}>$3"
+  },
+  "glyphicon-open-file": {
+    "prefix": "glyphicon-open-file",
+    "body": "<${1:span} class=\"glyphicon glyphicon-open-file$2\"></${1:span}>$3"
+  },
+  "glyphicon-fast-forward": {
+    "prefix": "glyphicon-fast-forward",
+    "body": "<${1:span} class=\"glyphicon glyphicon-fast-forward$2\"></${1:span}>$3"
+  },
+  "glyphicon-off": {
+    "prefix": "glyphicon-off",
+    "body": "<${1:span} class=\"glyphicon glyphicon-off$2\"></${1:span}>$3"
+  },
+  "glyphicon-king": {
+    "prefix": "glyphicon-king",
+    "body": "<${1:span} class=\"glyphicon glyphicon-king$2\"></${1:span}>$3"
+  },
+  "glyphicon-baby-formula": {
+    "prefix": "glyphicon-baby-formula",
+    "body": "<${1:span} class=\"glyphicon glyphicon-baby-formula$2\"></${1:span}>$3"
+  },
+  "glyphicon-headphones": {
+    "prefix": "glyphicon-headphones",
+    "body": "<${1:span} class=\"glyphicon glyphicon-headphones$2\"></${1:span}>$3"
+  },
+  "glyphicon-forward": {
+    "prefix": "glyphicon-forward",
+    "body": "<${1:span} class=\"glyphicon glyphicon-forward$2\"></${1:span}>$3"
+  },
+  "glyphicon-object-align-vertical": {
+    "prefix": "glyphicon-object-align-vertical",
+    "body": "<${1:span} class=\"glyphicon glyphicon-object-align-vertical$2\"></${1:span}>$3"
+  },
+  "glyphicon-remove": {
+    "prefix": "glyphicon-remove",
+    "body": "<${1:span} class=\"glyphicon glyphicon-remove$2\"></${1:span}>$3"
+  },
+  "glyphicon-floppy-disk": {
+    "prefix": "glyphicon-floppy-disk",
+    "body": "<${1:span} class=\"glyphicon glyphicon-floppy-disk$2\"></${1:span}>$3"
+  },
+  "glyphicon-text-height": {
+    "prefix": "glyphicon-text-height",
+    "body": "<${1:span} class=\"glyphicon glyphicon-text-height$2\"></${1:span}>$3"
+  },
+  "glyphicon-fast-backward": {
+    "prefix": "glyphicon-fast-backward",
+    "body": "<${1:span} class=\"glyphicon glyphicon-fast-backward$2\"></${1:span}>$3"
+  },
+  "glyphicon-subtitles": {
+    "prefix": "glyphicon-subtitles",
+    "body": "<${1:span} class=\"glyphicon glyphicon-subtitles$2\"></${1:span}>$3"
+  },
+  "glyphicon-ice-lolly-tasted": {
+    "prefix": "glyphicon-ice-lolly-tasted",
+    "body": "<${1:span} class=\"glyphicon glyphicon-ice-lolly-tasted$2\"></${1:span}>$3"
+  },
+  "glyphicon-lamp": {
+    "prefix": "glyphicon-lamp",
+    "body": "<${1:span} class=\"glyphicon glyphicon-lamp$2\"></${1:span}>$3"
+  },
+  "glyphicon-open": {
+    "prefix": "glyphicon-open",
+    "body": "<${1:span} class=\"glyphicon glyphicon-open$2\"></${1:span}>$3"
+  },
+  "glyphicon-volume-up": {
+    "prefix": "glyphicon-volume-up",
+    "body": "<${1:span} class=\"glyphicon glyphicon-volume-up$2\"></${1:span}>$3"
+  },
+  "glyphicon-music": {
+    "prefix": "glyphicon-music",
+    "body": "<${1:span} class=\"glyphicon glyphicon-music$2\"></${1:span}>$3"
+  },
+  "glyphicon-import": {
+    "prefix": "glyphicon-import",
+    "body": "<${1:span} class=\"glyphicon glyphicon-import$2\"></${1:span}>$3"
+  },
+  "glyphicon-hand-left": {
+    "prefix": "glyphicon-hand-left",
+    "body": "<${1:span} class=\"glyphicon glyphicon-hand-left$2\"></${1:span}>$3"
+  },
+  "glyphicon-paste": {
+    "prefix": "glyphicon-paste",
+    "body": "<${1:span} class=\"glyphicon glyphicon-paste$2\"></${1:span}>$3"
+  },
+  "glyphicon-sort-by-attributes": {
+    "prefix": "glyphicon-sort-by-attributes",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sort-by-attributes$2\"></${1:span}>$3"
+  },
+  "glyphicon-floppy-save": {
+    "prefix": "glyphicon-floppy-save",
+    "body": "<${1:span} class=\"glyphicon glyphicon-floppy-save$2\"></${1:span}>$3"
+  },
+  "glyphicon-download-alt": {
+    "prefix": "glyphicon-download-alt",
+    "body": "<${1:span} class=\"glyphicon glyphicon-download-alt$2\"></${1:span}>$3"
+  },
+  "glyphicon-sunglasses": {
+    "prefix": "glyphicon-sunglasses",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sunglasses$2\"></${1:span}>$3"
+  },
+  "glyphicon-bookmark": {
+    "prefix": "glyphicon-bookmark",
+    "body": "<${1:span} class=\"glyphicon glyphicon-bookmark$2\"></${1:span}>$3"
+  },
+  "glyphicon-heart": {
+    "prefix": "glyphicon-heart",
+    "body": "<${1:span} class=\"glyphicon glyphicon-heart$2\"></${1:span}>$3"
+  },
+  "glyphicon-sound-7-1": {
+    "prefix": "glyphicon-sound-7-1",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sound-7-1$2\"></${1:span}>$3"
+  },
+  "glyphicon-gift": {
+    "prefix": "glyphicon-gift",
+    "body": "<${1:span} class=\"glyphicon glyphicon-gift$2\"></${1:span}>$3"
+  },
+  "glyphicon-hd-video": {
+    "prefix": "glyphicon-hd-video",
+    "body": "<${1:span} class=\"glyphicon glyphicon-hd-video$2\"></${1:span}>$3"
+  },
+  "glyphicon-remove-sign": {
+    "prefix": "glyphicon-remove-sign",
+    "body": "<${1:span} class=\"glyphicon glyphicon-remove-sign$2\"></${1:span}>$3"
+  },
+  "glyphicon-tag": {
+    "prefix": "glyphicon-tag",
+    "body": "<${1:span} class=\"glyphicon glyphicon-tag$2\"></${1:span}>$3"
+  },
+  "glyphicon-zoom-in": {
+    "prefix": "glyphicon-zoom-in",
+    "body": "<${1:span} class=\"glyphicon glyphicon-zoom-in$2\"></${1:span}>$3"
+  },
+  "glyphicon-briefcase": {
+    "prefix": "glyphicon-briefcase",
+    "body": "<${1:span} class=\"glyphicon glyphicon-briefcase$2\"></${1:span}>$3"
+  },
+  "glyphicon-edit": {
+    "prefix": "glyphicon-edit",
+    "body": "<${1:span} class=\"glyphicon glyphicon-edit$2\"></${1:span}>$3"
+  },
+  "glyphicon-earphone": {
+    "prefix": "glyphicon-earphone",
+    "body": "<${1:span} class=\"glyphicon glyphicon-earphone$2\"></${1:span}>$3"
+  },
+  "glyphicon-circle-arrow-up": {
+    "prefix": "glyphicon-circle-arrow-up",
+    "body": "<${1:span} class=\"glyphicon glyphicon-circle-arrow-up$2\"></${1:span}>$3"
+  },
+  "glyphicon-export": {
+    "prefix": "glyphicon-export",
+    "body": "<${1:span} class=\"glyphicon glyphicon-export$2\"></${1:span}>$3"
+  },
+  "glyphicon-cloud": {
+    "prefix": "glyphicon-cloud",
+    "body": "<${1:span} class=\"glyphicon glyphicon-cloud$2\"></${1:span}>$3"
+  },
+  "glyphicon-th-large": {
+    "prefix": "glyphicon-th-large",
+    "body": "<${1:span} class=\"glyphicon glyphicon-th-large$2\"></${1:span}>$3"
+  },
+  "glyphicon-signal": {
+    "prefix": "glyphicon-signal",
+    "body": "<${1:span} class=\"glyphicon glyphicon-signal$2\"></${1:span}>$3"
+  },
+  "glyphicon-object-align-left": {
+    "prefix": "glyphicon-object-align-left",
+    "body": "<${1:span} class=\"glyphicon glyphicon-object-align-left$2\"></${1:span}>$3"
+  },
+  "glyphicon-expand": {
+    "prefix": "glyphicon-expand",
+    "body": "<${1:span} class=\"glyphicon glyphicon-expand$2\"></${1:span}>$3"
+  },
+  "glyphicon-question-sign": {
+    "prefix": "glyphicon-question-sign",
+    "body": "<${1:span} class=\"glyphicon glyphicon-question-sign$2\"></${1:span}>$3"
+  },
+  "glyphicon-equalizer": {
+    "prefix": "glyphicon-equalizer",
+    "body": "<${1:span} class=\"glyphicon glyphicon-equalizer$2\"></${1:span}>$3"
+  },
+  "glyphicon-th": {
+    "prefix": "glyphicon-th",
+    "body": "<${1:span} class=\"glyphicon glyphicon-th$2\"></${1:span}>$3"
+  },
+  "glyphicon-exclamation-sign": {
+    "prefix": "glyphicon-exclamation-sign",
+    "body": "<${1:span} class=\"glyphicon glyphicon-exclamation-sign$2\"></${1:span}>$3"
+  },
+  "glyphicon-blackboard": {
+    "prefix": "glyphicon-blackboard",
+    "body": "<${1:span} class=\"glyphicon glyphicon-blackboard$2\"></${1:span}>$3"
+  },
+  "glyphicon-tower": {
+    "prefix": "glyphicon-tower",
+    "body": "<${1:span} class=\"glyphicon glyphicon-tower$2\"></${1:span}>$3"
+  },
+  "glyphicon-sound-5-1": {
+    "prefix": "glyphicon-sound-5-1",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sound-5-1$2\"></${1:span}>$3"
+  },
+  "glyphicon-thumbs-up": {
+    "prefix": "glyphicon-thumbs-up",
+    "body": "<${1:span} class=\"glyphicon glyphicon-thumbs-up$2\"></${1:span}>$3"
+  },
+  "glyphicon-chevron-right": {
+    "prefix": "glyphicon-chevron-right",
+    "body": "<${1:span} class=\"glyphicon glyphicon-chevron-right$2\"></${1:span}>$3"
+  },
+  "glyphicon-triangle-left": {
+    "prefix": "glyphicon-triangle-left",
+    "body": "<${1:span} class=\"glyphicon glyphicon-triangle-left$2\"></${1:span}>$3"
+  },
+  "glyphicon-plus": {
+    "prefix": "glyphicon-plus",
+    "body": "<${1:span} class=\"glyphicon glyphicon-plus$2\"></${1:span}>$3"
+  },
+  "glyphicon-list-alt": {
+    "prefix": "glyphicon-list-alt",
+    "body": "<${1:span} class=\"glyphicon glyphicon-list-alt$2\"></${1:span}>$3"
+  },
+  "glyphicon-phone": {
+    "prefix": "glyphicon-phone",
+    "body": "<${1:span} class=\"glyphicon glyphicon-phone$2\"></${1:span}>$3"
+  },
+  "glyphicon-folder-open": {
+    "prefix": "glyphicon-folder-open",
+    "body": "<${1:span} class=\"glyphicon glyphicon-folder-open$2\"></${1:span}>$3"
+  },
+  "glyphicon-hourglass": {
+    "prefix": "glyphicon-hourglass",
+    "body": "<${1:span} class=\"glyphicon glyphicon-hourglass$2\"></${1:span}>$3"
+  },
+  "glyphicon-education": {
+    "prefix": "glyphicon-education",
+    "body": "<${1:span} class=\"glyphicon glyphicon-education$2\"></${1:span}>$3"
+  },
+  "glyphicon-screenshot": {
+    "prefix": "glyphicon-screenshot",
+    "body": "<${1:span} class=\"glyphicon glyphicon-screenshot$2\"></${1:span}>$3"
+  },
+  "glyphicon-flash": {
+    "prefix": "glyphicon-flash",
+    "body": "<${1:span} class=\"glyphicon glyphicon-flash$2\"></${1:span}>$3"
+  },
+  "glyphicon-share": {
+    "prefix": "glyphicon-share",
+    "body": "<${1:span} class=\"glyphicon glyphicon-share$2\"></${1:span}>$3"
+  },
+  "glyphicon-arrow-left": {
+    "prefix": "glyphicon-arrow-left",
+    "body": "<${1:span} class=\"glyphicon glyphicon-arrow-left$2\"></${1:span}>$3"
+  },
+  "glyphicon-thumbs-down": {
+    "prefix": "glyphicon-thumbs-down",
+    "body": "<${1:span} class=\"glyphicon glyphicon-thumbs-down$2\"></${1:span}>$3"
+  },
+  "glyphicon-piggy-bank": {
+    "prefix": "glyphicon-piggy-bank",
+    "body": "<${1:span} class=\"glyphicon glyphicon-piggy-bank$2\"></${1:span}>$3"
+  },
+  "glyphicon-new-window": {
+    "prefix": "glyphicon-new-window",
+    "body": "<${1:span} class=\"glyphicon glyphicon-new-window$2\"></${1:span}>$3"
+  },
+  "glyphicon-bell": {
+    "prefix": "glyphicon-bell",
+    "body": "<${1:span} class=\"glyphicon glyphicon-bell$2\"></${1:span}>$3"
+  },
+  "glyphicon-facetime-video": {
+    "prefix": "glyphicon-facetime-video",
+    "body": "<${1:span} class=\"glyphicon glyphicon-facetime-video$2\"></${1:span}>$3"
+  },
+  "glyphicon-compressed": {
+    "prefix": "glyphicon-compressed",
+    "body": "<${1:span} class=\"glyphicon glyphicon-compressed$2\"></${1:span}>$3"
+  },
+  "glyphicon-pause": {
+    "prefix": "glyphicon-pause",
+    "body": "<${1:span} class=\"glyphicon glyphicon-pause$2\"></${1:span}>$3"
+  },
+  "glyphicon-check": {
+    "prefix": "glyphicon-check",
+    "body": "<${1:span} class=\"glyphicon glyphicon-check$2\"></${1:span}>$3"
+  },
+  "glyphicon-star-empty": {
+    "prefix": "glyphicon-star-empty",
+    "body": "<${1:span} class=\"glyphicon glyphicon-star-empty$2\"></${1:span}>$3"
+  },
+  "glyphicon-tags": {
+    "prefix": "glyphicon-tags",
+    "body": "<${1:span} class=\"glyphicon glyphicon-tags$2\"></${1:span}>$3"
+  },
+  "glyphicon-queen": {
+    "prefix": "glyphicon-queen",
+    "body": "<${1:span} class=\"glyphicon glyphicon-queen$2\"></${1:span}>$3"
+  },
+  "glyphicon-apple": {
+    "prefix": "glyphicon-apple",
+    "body": "<${1:span} class=\"glyphicon glyphicon-apple$2\"></${1:span}>$3"
+  },
+  "glyphicon-bed": {
+    "prefix": "glyphicon-bed",
+    "body": "<${1:span} class=\"glyphicon glyphicon-bed$2\"></${1:span}>$3"
+  },
+  "glyphicon-font": {
+    "prefix": "glyphicon-font",
+    "body": "<${1:span} class=\"glyphicon glyphicon-font$2\"></${1:span}>$3"
+  },
+  "glyphicon-align-justify": {
+    "prefix": "glyphicon-align-justify",
+    "body": "<${1:span} class=\"glyphicon glyphicon-align-justify$2\"></${1:span}>$3"
+  },
+  "glyphicon-th-list": {
+    "prefix": "glyphicon-th-list",
+    "body": "<${1:span} class=\"glyphicon glyphicon-th-list$2\"></${1:span}>$3"
+  },
+  "glyphicon-eye-open": {
+    "prefix": "glyphicon-eye-open",
+    "body": "<${1:span} class=\"glyphicon glyphicon-eye-open$2\"></${1:span}>$3"
+  },
+  "glyphicon-btc": {
+    "prefix": "glyphicon-btc",
+    "body": "<${1:span} class=\"glyphicon glyphicon-btc$2\"></${1:span}>$3"
+  },
+  "glyphicon-object-align-top": {
+    "prefix": "glyphicon-object-align-top",
+    "body": "<${1:span} class=\"glyphicon glyphicon-object-align-top$2\"></${1:span}>$3"
+  },
+  "glyphicon-minus-sign": {
+    "prefix": "glyphicon-minus-sign",
+    "body": "<${1:span} class=\"glyphicon glyphicon-minus-sign$2\"></${1:span}>$3"
+  },
+  "glyphicon-text-color": {
+    "prefix": "glyphicon-text-color",
+    "body": "<${1:span} class=\"glyphicon glyphicon-text-color$2\"></${1:span}>$3"
+  },
+  "glyphicon-sort": {
+    "prefix": "glyphicon-sort",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sort$2\"></${1:span}>$3"
+  },
+  "glyphicon-transfer": {
+    "prefix": "glyphicon-transfer",
+    "body": "<${1:span} class=\"glyphicon glyphicon-transfer$2\"></${1:span}>$3"
+  },
+  "glyphicon-share-alt": {
+    "prefix": "glyphicon-share-alt",
+    "body": "<${1:span} class=\"glyphicon glyphicon-share-alt$2\"></${1:span}>$3"
+  },
+  "glyphicon-duplicate": {
+    "prefix": "glyphicon-duplicate",
+    "body": "<${1:span} class=\"glyphicon glyphicon-duplicate$2\"></${1:span}>$3"
+  },
+  "glyphicon-tree-deciduous": {
+    "prefix": "glyphicon-tree-deciduous",
+    "body": "<${1:span} class=\"glyphicon glyphicon-tree-deciduous$2\"></${1:span}>$3"
+  },
+  "glyphicon-play-circle": {
+    "prefix": "glyphicon-play-circle",
+    "body": "<${1:span} class=\"glyphicon glyphicon-play-circle$2\"></${1:span}>$3"
+  },
+  "glyphicon-euro": {
+    "prefix": "glyphicon-euro",
+    "body": "<${1:span} class=\"glyphicon glyphicon-euro$2\"></${1:span}>$3"
+  },
+  "glyphicon-floppy-saved": {
+    "prefix": "glyphicon-floppy-saved",
+    "body": "<${1:span} class=\"glyphicon glyphicon-floppy-saved$2\"></${1:span}>$3"
+  },
+  "glyphicon-bishop": {
+    "prefix": "glyphicon-bishop",
+    "body": "<${1:span} class=\"glyphicon glyphicon-bishop$2\"></${1:span}>$3"
+  },
+  "glyphicon-alert": {
+    "prefix": "glyphicon-alert",
+    "body": "<${1:span} class=\"glyphicon glyphicon-alert$2\"></${1:span}>$3"
+  },
+  "glyphicon-menu-right": {
+    "prefix": "glyphicon-menu-right",
+    "body": "<${1:span} class=\"glyphicon glyphicon-menu-right$2\"></${1:span}>$3"
+  },
+  "glyphicon-wrench": {
+    "prefix": "glyphicon-wrench",
+    "body": "<${1:span} class=\"glyphicon glyphicon-wrench$2\"></${1:span}>$3"
+  },
+  "glyphicon-ice-lolly": {
+    "prefix": "glyphicon-ice-lolly",
+    "body": "<${1:span} class=\"glyphicon glyphicon-ice-lolly$2\"></${1:span}>$3"
+  },
+  "glyphicon-download": {
+    "prefix": "glyphicon-download",
+    "body": "<${1:span} class=\"glyphicon glyphicon-download$2\"></${1:span}>$3"
+  },
+  "glyphicon-cd": {
+    "prefix": "glyphicon-cd",
+    "body": "<${1:span} class=\"glyphicon glyphicon-cd$2\"></${1:span}>$3"
+  },
+  "glyphicon-circle-arrow-down": {
+    "prefix": "glyphicon-circle-arrow-down",
+    "body": "<${1:span} class=\"glyphicon glyphicon-circle-arrow-down$2\"></${1:span}>$3"
+  },
+  "glyphicon-unchecked": {
+    "prefix": "glyphicon-unchecked",
+    "body": "<${1:span} class=\"glyphicon glyphicon-unchecked$2\"></${1:span}>$3"
+  },
+  "glyphicon-sort-by-alphabet": {
+    "prefix": "glyphicon-sort-by-alphabet",
+    "body": "<${1:span} class=\"glyphicon glyphicon-sort-by-alphabet$2\"></${1:span}>$3"
+  },
+  "glyphicon-tint": {
+    "prefix": "glyphicon-tint",
+    "body": "<${1:span} class=\"glyphicon glyphicon-tint$2\"></${1:span}>$3"
+  },
+  "glyphicon-volume-off": {
+    "prefix": "glyphicon-volume-off",
+    "body": "<${1:span} class=\"glyphicon glyphicon-volume-off$2\"></${1:span}>$3"
+  },
+  "glyphicon-user": {
+    "prefix": "glyphicon-user",
+    "body": "<${1:span} class=\"glyphicon glyphicon-user$2\"></${1:span}>$3"
+  },
+  "glyphicon-gbp": {
+    "prefix": "glyphicon-gbp",
+    "body": "<${1:span} class=\"glyphicon glyphicon-gbp$2\"></${1:span}>$3"
+  },
+  "glyphicon-plus-sign": {
+    "prefix": "glyphicon-plus-sign",
+    "body": "<${1:span} class=\"glyphicon glyphicon-plus-sign$2\"></${1:span}>$3"
+  },
+  "glyphicon-grain": {
+    "prefix": "glyphicon-grain",
+    "body": "<${1:span} class=\"glyphicon glyphicon-grain$2\"></${1:span}>$3"
+  },
+  "glyphicon-align-left": {
+    "prefix": "glyphicon-align-left",
+    "body": "<${1:span} class=\"glyphicon glyphicon-align-left$2\"></${1:span}>$3"
+  },
+  "glyphicon-ban-circle": {
+    "prefix": "glyphicon-ban-circle",
+    "body": "<${1:span} class=\"glyphicon glyphicon-ban-circle$2\"></${1:span}>$3"
+  },
+  "glyphicon-modal-window": {
+    "prefix": "glyphicon-modal-window",
+    "body": "<${1:span} class=\"glyphicon glyphicon-modal-window$2\"></${1:span}>$3"
+  },
+  "glyphicon-cutlery": {
+    "prefix": "glyphicon-cutlery",
+    "body": "<${1:span} class=\"glyphicon glyphicon-cutlery$2\"></${1:span}>$3"
+  },
+  "glyphicon-console": {
+    "prefix": "glyphicon-console",
+    "body": "<${1:span} class=\"glyphicon glyphicon-console$2\"></${1:span}>$3"
+  },
+  "glyphicon-option-horizontal": {
+    "prefix": "glyphicon-option-horizontal",
+    "body": "<${1:span} class=\"glyphicon glyphicon-option-horizontal$2\"></${1:span}>$3"
+  },
+  "glyphicon-random": {
+    "prefix": "glyphicon-random",
+    "body": "<${1:span} class=\"glyphicon glyphicon-random$2\"></${1:span}>$3"
+  },
+  "glyphicon-home": {
+    "prefix": "glyphicon-home",
+    "body": "<${1:span} class=\"glyphicon glyphicon-home$2\"></${1:span}>$3"
+  },
+  "glyphicon-upload": {
+    "prefix": "glyphicon-upload",
+    "body": "<${1:span} class=\"glyphicon glyphicon-upload$2\"></${1:span}>$3"
+  },
+  "glyphicon-link": {
+    "prefix": "glyphicon-link",
+    "body": "<${1:span} class=\"glyphicon glyphicon-link$2\"></${1:span}>$3"
+  },
+  "glyphicon-pencil": {
+    "prefix": "glyphicon-pencil",
+    "body": "<${1:span} class=\"glyphicon glyphicon-pencil$2\"></${1:span}>$3"
+  }
+}

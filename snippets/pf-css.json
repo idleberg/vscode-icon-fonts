@@ -1,0 +1,386 @@
+{
+  "pf-payu": {
+    "prefix": "pf-payu",
+    "body": "content: '\\\\f057';"
+  },
+  "pf-cb": {
+    "prefix": "pf-cb",
+    "body": "content: '\\\\f00e';"
+  },
+  "pf-bitcoin": {
+    "prefix": "pf-bitcoin",
+    "body": "content: '\\\\f006';"
+  },
+  "pf-verified-by-visa": {
+    "prefix": "pf-verified-by-visa",
+    "body": "content: '\\\\f043';"
+  },
+  "pf-ogone": {
+    "prefix": "pf-ogone",
+    "body": "content: '\\\\f030';"
+  },
+  "pf-google-wallet": {
+    "prefix": "pf-google-wallet",
+    "body": "content: '\\\\f01d';"
+  },
+  "pf-truste": {
+    "prefix": "pf-truste",
+    "body": "content: '\\\\f03f';"
+  },
+  "pf-visa-electron": {
+    "prefix": "pf-visa-electron",
+    "body": "content: '\\\\f046';"
+  },
+  "pf-elo": {
+    "prefix": "pf-elo",
+    "body": "content: '\\\\f055';"
+  },
+  "pf-facture": {
+    "prefix": "pf-facture",
+    "body": "content: '\\\\f018';"
+  },
+  "pf-sepa": {
+    "prefix": "pf-sepa",
+    "body": "content: '\\\\f04a';"
+  },
+  "pf-clickandbuy": {
+    "prefix": "pf-clickandbuy",
+    "body": "content: '\\\\f011';"
+  },
+  "pf-paysafecard": {
+    "prefix": "pf-paysafecard",
+    "body": "content: '\\\\f035';"
+  },
+  "pf-cirrus": {
+    "prefix": "pf-cirrus",
+    "body": "content: '\\\\f00f';"
+  },
+  "pf-bancontact-mister-cash": {
+    "prefix": "pf-bancontact-mister-cash",
+    "body": "content: '\\\\f050';"
+  },
+  "pf-mastercard-alt": {
+    "prefix": "pf-mastercard-alt",
+    "body": "content: '\\\\f02e';"
+  },
+  "pf-ec": {
+    "prefix": "pf-ec",
+    "body": "content: '\\\\f015';"
+  },
+  "pf-paypal-alt": {
+    "prefix": "pf-paypal-alt",
+    "body": "content: '\\\\f034';"
+  },
+  "pf-jcb": {
+    "prefix": "pf-jcb",
+    "body": "content: '\\\\f028';"
+  },
+  "pf-cashcloud": {
+    "prefix": "pf-cashcloud",
+    "body": "content: '\\\\f05e';"
+  },
+  "pf-apple-pay": {
+    "prefix": "pf-apple-pay",
+    "body": "content: '\\\\f04c';"
+  },
+  "pf-invoice": {
+    "prefix": "pf-invoice",
+    "body": "content: '\\\\f023';"
+  },
+  "pf-cash-on-delivery": {
+    "prefix": "pf-cash-on-delivery",
+    "body": "content: '\\\\f00d';"
+  },
+  "pf-btc": {
+    "prefix": "pf-btc",
+    "body": "content: '\\\\f009';"
+  },
+  "pf-bank-transfer": {
+    "prefix": "pf-bank-transfer",
+    "body": "content: '\\\\f005';"
+  },
+  "pf-braintree": {
+    "prefix": "pf-braintree",
+    "body": "content: '\\\\f008';"
+  },
+  "pf-unionpay": {
+    "prefix": "pf-unionpay",
+    "body": "content: '\\\\f041';"
+  },
+  "pf-visa": {
+    "prefix": "pf-visa",
+    "body": "content: '\\\\f045';"
+  },
+  "pf-eps": {
+    "prefix": "pf-eps",
+    "body": "content: '\\\\f016';"
+  },
+  "pf-flattr": {
+    "prefix": "pf-flattr",
+    "body": "content: '\\\\f01a';"
+  },
+  "pf-pagseguro": {
+    "prefix": "pf-pagseguro",
+    "body": "content: '\\\\f052';"
+  },
+  "pf-credit-card": {
+    "prefix": "pf-credit-card",
+    "body": "content: '\\\\f012';"
+  },
+  "pf-atm": {
+    "prefix": "pf-atm",
+    "body": "content: '\\\\f003';"
+  },
+  "pf-wirecard": {
+    "prefix": "pf-wirecard",
+    "body": "content: '\\\\f049';"
+  },
+  "pf-card": {
+    "prefix": "pf-card",
+    "body": "content: '\\\\f00a';"
+  },
+  "pf-moip": {
+    "prefix": "pf-moip",
+    "body": "content: '\\\\f051';"
+  },
+  "pf-dankort": {
+    "prefix": "pf-dankort",
+    "body": "content: '\\\\f04f';"
+  },
+  "pf-ils": {
+    "prefix": "pf-ils",
+    "body": "content: '\\\\f021';"
+  },
+  "pf-mastercard": {
+    "prefix": "pf-mastercard",
+    "body": "content: '\\\\f02d';"
+  },
+  "pf-discover": {
+    "prefix": "pf-discover",
+    "body": "content: '\\\\f014';"
+  },
+  "pf-six": {
+    "prefix": "pf-six",
+    "body": "content: '\\\\f05d';"
+  },
+  "pf-eur": {
+    "prefix": "pf-eur",
+    "body": "content: '\\\\f017';"
+  },
+  "pf-krw": {
+    "prefix": "pf-krw",
+    "body": "content: '\\\\f02a';"
+  },
+  "pf-diners": {
+    "prefix": "pf-diners",
+    "body": "content: '\\\\f013';"
+  },
+  "pf-ideal": {
+    "prefix": "pf-ideal",
+    "body": "content: '\\\\f020';"
+  },
+  "pf-quick": {
+    "prefix": "pf-quick",
+    "body": "content: '\\\\f037';"
+  },
+  "pf-usd": {
+    "prefix": "pf-usd",
+    "body": "content: '\\\\f042';"
+  },
+  "pf-bankomat": {
+    "prefix": "pf-bankomat",
+    "body": "content: '\\\\f004';"
+  },
+  "pf-giropay": {
+    "prefix": "pf-giropay",
+    "body": "content: '\\\\f01b';"
+  },
+  "pf-postepay": {
+    "prefix": "pf-postepay",
+    "body": "content: '\\\\f036';"
+  },
+  "pf-maestro": {
+    "prefix": "pf-maestro",
+    "body": "content: '\\\\f02b';"
+  },
+  "pf-paypal": {
+    "prefix": "pf-paypal",
+    "body": "content: '\\\\f033';"
+  },
+  "pf-rechnung": {
+    "prefix": "pf-rechnung",
+    "body": "content: '\\\\f038';"
+  },
+  "pf-american-express": {
+    "prefix": "pf-american-express",
+    "body": "content: '\\\\f001';"
+  },
+  "pf-square": {
+    "prefix": "pf-square",
+    "body": "content: '\\\\f03d';"
+  },
+  "pf-cash": {
+    "prefix": "pf-cash",
+    "body": "content: '\\\\f00c';"
+  },
+  "pf-multibanco": {
+    "prefix": "pf-multibanco",
+    "body": "content: '\\\\f05b';"
+  },
+  "pf-try": {
+    "prefix": "pf-try",
+    "body": "content: '\\\\f040';"
+  },
+  "pf-western-union-alt": {
+    "prefix": "pf-western-union-alt",
+    "body": "content: '\\\\f048';"
+  },
+  "pf-gittip": {
+    "prefix": "pf-gittip",
+    "body": "content: '\\\\f01c';"
+  },
+  "pf-invoice-sign": {
+    "prefix": "pf-invoice-sign",
+    "body": "content: '\\\\f024';"
+  },
+  "pf-maestro-alt": {
+    "prefix": "pf-maestro-alt",
+    "body": "content: '\\\\f02c';"
+  },
+  "pf-rub": {
+    "prefix": "pf-rub",
+    "body": "content: '\\\\f03a';"
+  },
+  "pf-paylife": {
+    "prefix": "pf-paylife",
+    "body": "content: '\\\\f032';"
+  },
+  "pf-western-union": {
+    "prefix": "pf-western-union",
+    "body": "content: '\\\\f047';"
+  },
+  "pf-sofort": {
+    "prefix": "pf-sofort",
+    "body": "content: '\\\\f03c';"
+  },
+  "pf-cash-on-pickup": {
+    "prefix": "pf-cash-on-pickup",
+    "body": "content: '\\\\f053';"
+  },
+  "pf-stripe": {
+    "prefix": "pf-stripe",
+    "body": "content: '\\\\f03e';"
+  },
+  "pf-invoice-sign-o": {
+    "prefix": "pf-invoice-sign-o",
+    "body": "content: '\\\\f027';"
+  },
+  "pf-mercado-pago": {
+    "prefix": "pf-mercado-pago",
+    "body": "content: '\\\\f058';"
+  },
+  "pf-ripple": {
+    "prefix": "pf-ripple",
+    "body": "content: '\\\\f039';"
+  },
+  "pf-inr": {
+    "prefix": "pf-inr",
+    "body": "content: '\\\\f022';"
+  },
+  "pf-american-express-alt": {
+    "prefix": "pf-american-express-alt",
+    "body": "content: '\\\\f002';"
+  },
+  "pf-elo-alt": {
+    "prefix": "pf-elo-alt",
+    "body": "content: '\\\\f056';"
+  },
+  "pf-verisign": {
+    "prefix": "pf-verisign",
+    "body": "content: '\\\\f044';"
+  },
+  "pf-jpy": {
+    "prefix": "pf-jpy",
+    "body": "content: '\\\\f029';"
+  },
+  "pf-invoice-sign-alt-o": {
+    "prefix": "pf-invoice-sign-alt-o",
+    "body": "content: '\\\\f026';"
+  },
+  "pf-sage": {
+    "prefix": "pf-sage",
+    "body": "content: '\\\\f054';"
+  },
+  "pf-payshop": {
+    "prefix": "pf-payshop",
+    "body": "content: '\\\\f05a';"
+  },
+  "pf-amazon": {
+    "prefix": "pf-amazon",
+    "body": "content: '\\\\f000';"
+  },
+  "pf-sepa-alt": {
+    "prefix": "pf-sepa-alt",
+    "body": "content: '\\\\f04b';"
+  },
+  "pf-gratipay-sign": {
+    "prefix": "pf-gratipay-sign",
+    "body": "content: '\\\\f05c';"
+  },
+  "pf-gratipay": {
+    "prefix": "pf-gratipay",
+    "body": "content: '\\\\f01c';"
+  },
+  "pf-google-wallet-alt": {
+    "prefix": "pf-google-wallet-alt",
+    "body": "content: '\\\\f01e';"
+  },
+  "pf-paybox": {
+    "prefix": "pf-paybox",
+    "body": "content: '\\\\f031';"
+  },
+  "pf-carta-si": {
+    "prefix": "pf-carta-si",
+    "body": "content: '\\\\f00b';"
+  },
+  "pf-interac": {
+    "prefix": "pf-interac",
+    "body": "content: '\\\\f04d';"
+  },
+  "pf-invoice-sign-alt": {
+    "prefix": "pf-invoice-sign-alt",
+    "body": "content: '\\\\f025';"
+  },
+  "pf-mercado-pago-sign": {
+    "prefix": "pf-mercado-pago-sign",
+    "body": "content: '\\\\f059';"
+  },
+  "pf-bitcoin-sign": {
+    "prefix": "pf-bitcoin-sign",
+    "body": "content: '\\\\f007';"
+  },
+  "pf-fattura": {
+    "prefix": "pf-fattura",
+    "body": "content: '\\\\f019';"
+  },
+  "pf-gbp": {
+    "prefix": "pf-gbp",
+    "body": "content: '\\\\f01f';"
+  },
+  "pf-mastercard-securecode": {
+    "prefix": "pf-mastercard-securecode",
+    "body": "content: '\\\\f02f';"
+  },
+  "pf-skrill": {
+    "prefix": "pf-skrill",
+    "body": "content: '\\\\f03b';"
+  },
+  "pf-paymill": {
+    "prefix": "pf-paymill",
+    "body": "content: '\\\\f04e';"
+  },
+  "pf-cirrus-alt": {
+    "prefix": "pf-cirrus-alt",
+    "body": "content: '\\\\f010';"
+  }
+}

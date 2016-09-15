@@ -2,7 +2,7 @@
     "name": "icon-fonts",
     "displayName": "Icon Fonts",
     "description": "Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
@@ -39,7 +39,8 @@
             {
                 "language": "html",
                 "path": "./snippets/__jsdelivr.json"
-            },{
+            },
+            {
                 "language": "html",
                 "path": "./snippets/ai.json"
             },
@@ -424,7 +425,7 @@
                 "path": "./snippets/zmdi-css.json"
             }
         ]
-   },
+    },
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "gulp lint"

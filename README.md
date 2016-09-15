@@ -72,6 +72,8 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `wi`           | [Weather Icons][wi]                 | 2.0.10  | ✅    | 🚫
 `zmdi`         | [Material Design Iconic Font][zmdi] | 2.2.0   | ✅    | 🚫
 
+Several previously supported fonts have been removed and are now available in a [separate package](https://github.com/idleberg/vscode-icon-fonts-legacy).
+
 Examples:
 
 * `fa-check`+<kbd>Tab</kbd> completes to `<i class="fa fa-check"></i>`

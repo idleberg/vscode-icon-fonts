@@ -12,8 +12,6 @@ This package is also available for [Atom](https://github.com/idleberg/atom-icon-
 
 ## Installation
 
-Make sure you already got the [basis NSIS extension](https://github.com/idleberg/vscode-nsis) installed before proceeding.
-
 ### Extension Marketplace
 
 Launch Quick Open, paste the following command, and press <kbd>Enter</kbd>
@@ -40,7 +38,7 @@ $ git clone https://github.com/idleberg/vscode-icon-fonts icon-fonts
 
 ### Usage
 
-Snippets are limited to the `.text.html` scope. Typing the class name of an icon using the designated prefix will complete to a tag containing the icon class. Exceptions are `fa-stack` (`<span>`) and `fa-ul` (`<ul>`).
+Snippets are limited to the `html` scope. Typing the class name of an icon using the designated prefix will complete to a tag containing the icon class. Exceptions are `fa-stack` (`<span>`) and `fa-ul` (`<ul>`).
 
 ### Prefixes
 

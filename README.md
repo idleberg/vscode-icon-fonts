@@ -98,3 +98,32 @@ This work is licensed under the [The MIT License](LICENSE.md).
 ## Donate
 
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/vscode-icon-fonts) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+
+[ai]: http://www.androidicons.com
+[brandico]: https://github.com/fontello/brandico.font
+[cc]: https://github.com/cc-icons/cc-icons
+[dashicons]: https://github.com/WordPress/dashicons
+[devicons]: https://github.com/vorillaz/devicons
+[ei]: https://github.com/outpunk/evil-icons
+[el]: https://github.com/reduxframework/Elusive-Icons
+[fa]: https://github.com/FortAwesome/Font-Awesome
+[fi]: http://zurb.com/playground/foundation-icons
+[fl]: https://github.com/Lukas-W/font-linux
+[geomicon]: https://github.com/jxnblk/geomicons-open
+[glyphicon]: https://getbootstrap.com/components/#glyphicons
+[icono]: https://github.com/saeedalipoor/icono
+[ion]: https://github.com/driftyco/ionicons
+[line]: http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website
+[mdi]: https://github.com/Templarian/MaterialDesign-Webfont
+[mfg]: https://github.com/MfgLabs/mfglabs-iconset
+[mfizz]: https://github.com/fizzed/font-mfizz
+[octicon]: https://github.com/github/octicons
+[oi]: https://github.com/iconic/open-iconic
+[openwebicons]: https://github.com/pfefferle/openwebicons
+[pf]: https://github.com/vendocrat/PaymentFont
+[ratchicon]: http://goratchet.com/components/#ratchicons
+[st]: https://github.com/parkerbennett/stackicons
+[typcn]: https://github.com/stephenhutchings/typicons.font
+[ui]: http://semantic-ui.com/elements/icon.html
+[wi]: https://github.com/erikflowers/weather-icons
+[zmdi]: https://github.com/zavoloklom/material-design-iconic-font

@@ -1,78 +1,98 @@
 {
-  "fl-centos": {
-    "prefix": "fl-centos",
-    "body": "content: '\\\\f101';"
-  },
-  "fl-ubuntu-inverse": {
-    "prefix": "fl-ubuntu-inverse",
-    "body": "content: '\\\\f10e';"
-  },
-  "fl-debian": {
-    "prefix": "fl-debian",
-    "body": "content: '\\\\f102';"
-  },
-  "fl-linuxmint-inverse": {
-    "prefix": "fl-linuxmint-inverse",
-    "body": "content: '\\\\f106';"
-  },
-  "fl-gentoo": {
-    "prefix": "fl-gentoo",
-    "body": "content: '\\\\f111';"
-  },
-  "fl-opensuse": {
-    "prefix": "fl-opensuse",
-    "body": "content: '\\\\f109';"
-  },
-  "fl-mageia": {
-    "prefix": "fl-mageia",
-    "body": "content: '\\\\f107';"
-  },
-  "fl-slackware-inverse": {
-    "prefix": "fl-slackware-inverse",
-    "body": "content: '\\\\f10c';"
-  },
-  "fl-slackware": {
-    "prefix": "fl-slackware",
-    "body": "content: '\\\\f10b';"
-  },
-  "fl-mandriva": {
-    "prefix": "fl-mandriva",
-    "body": "content: '\\\\f108';"
-  },
-  "fl-fedora-inverse": {
-    "prefix": "fl-fedora-inverse",
-    "body": "content: '\\\\f114';"
-  },
-  "fl-linuxmint": {
-    "prefix": "fl-linuxmint",
-    "body": "content: '\\\\f105';"
-  },
-  "fl-elementary": {
-    "prefix": "fl-elementary",
-    "body": "content: '\\\\f113';"
-  },
-  "fl-fedora": {
-    "prefix": "fl-fedora",
-    "body": "content: '\\\\f103';"
-  },
-  "fl-redhat": {
-    "prefix": "fl-redhat",
-    "body": "content: '\\\\f10a';"
-  },
-  "fl-coreos": {
-    "prefix": "fl-coreos",
-    "body": "content: '\\\\f110';"
-  },
-  "fl-freebsd": {
-    "prefix": "fl-freebsd",
-    "body": "content: '\\\\f10f';"
+  "fl-aosc": {
+    "body": "content: '\\f116';$1",
+    "prefix": "fl-aosc"
   },
   "fl-archlinux": {
-    "prefix": "fl-archlinux",
-    "body": "content: '\\\\f100';"
+    "body": "content: '\\f100';$1",
+    "prefix": "fl-archlinux"
+  },
+  "fl-centos": {
+    "body": "content: '\\f101';$1",
+    "prefix": "fl-centos"
+  },
+  "fl-coreos": {
+    "body": "content: '\\f110';$1",
+    "prefix": "fl-coreos"
+  },
+  "fl-debian": {
+    "body": "content: '\\f102';$1",
+    "prefix": "fl-debian"
+  },
+  "fl-elementary": {
+    "body": "content: '\\f113';$1",
+    "prefix": "fl-elementary"
+  },
+  "fl-fedora": {
+    "body": "content: '\\f103';$1",
+    "prefix": "fl-fedora"
+  },
+  "fl-fedora-inverse": {
+    "body": "content: '\\f114';$1",
+    "prefix": "fl-fedora-inverse"
+  },
+  "fl-freebsd": {
+    "body": "content: '\\f10f';$1",
+    "prefix": "fl-freebsd"
+  },
+  "fl-gentoo": {
+    "body": "content: '\\f111';$1",
+    "prefix": "fl-gentoo"
+  },
+  "fl-linuxmint": {
+    "body": "content: '\\f105';$1",
+    "prefix": "fl-linuxmint"
+  },
+  "fl-linuxmint-inverse": {
+    "body": "content: '\\f106';$1",
+    "prefix": "fl-linuxmint-inverse"
+  },
+  "fl-mageia": {
+    "body": "content: '\\f107';$1",
+    "prefix": "fl-mageia"
+  },
+  "fl-mandriva": {
+    "body": "content: '\\f108';$1",
+    "prefix": "fl-mandriva"
+  },
+  "fl-nixos": {
+    "body": "content: '\\f117';$1",
+    "prefix": "fl-nixos"
+  },
+  "fl-opensuse": {
+    "body": "content: '\\f109';$1",
+    "prefix": "fl-opensuse"
+  },
+  "fl-raspberry-pi": {
+    "body": "content: '\\f11a';$1",
+    "prefix": "fl-raspberry-pi"
+  },
+  "fl-redhat": {
+    "body": "content: '\\f10a';$1",
+    "prefix": "fl-redhat"
+  },
+  "fl-sabayon": {
+    "body": "content: '\\f115';$1",
+    "prefix": "fl-sabayon"
+  },
+  "fl-slackware": {
+    "body": "content: '\\f10b';$1",
+    "prefix": "fl-slackware"
+  },
+  "fl-slackware-inverse": {
+    "body": "content: '\\f10c';$1",
+    "prefix": "fl-slackware-inverse"
+  },
+  "fl-tux": {
+    "body": "content: '\\f118';$1",
+    "prefix": "fl-tux"
   },
   "fl-ubuntu": {
-    "prefix": "fl-ubuntu",
-    "body": "content: '\\\\f10d';"
+    "body": "content: '\\f10d';$1",
+    "prefix": "fl-ubuntu"
+  },
+  "fl-ubuntu-inverse": {
+    "body": "content: '\\f10e';$1",
+    "prefix": "fl-ubuntu-inverse"
   }
 }

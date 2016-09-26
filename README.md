@@ -17,7 +17,7 @@ Launch Quick Open, paste the following command, and press <kbd>Enter</kbd>
 
 `ext install icon-fonts`
 
-### Install a Packaged Extension
+### Packaged Extension
 
 Download the package extension from the the [release page](https://github.com/idleberg/vscode-icon-fonts/releases) and install it from the command-line:
 

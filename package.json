@@ -26,7 +26,7 @@
     },
     "icon": "images/logo.svg",
     "galleryBanner": {
-        "color": "#231f20",
+        "color": "#232323",
         "theme": "dark"
     },
     "engines": {
@@ -441,6 +441,6 @@
         "gulp-json-lint": "^0.1.0",
         "gulp-xml-validator": "^0.1.2",
         "gulp-yaml-validate": "^1.0.2",
-        "vscode": "^0.11.18"
+        "vscode": "^1.0.0"
     }
 }

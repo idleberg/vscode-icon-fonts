@@ -25,6 +25,10 @@
         "url": "https://github.com/idleberg/vscode-icon-fonts/issues"
     },
     "icon": "images/logo.svg",
+    "galleryBanner": {
+      "color": "#231f20",
+      "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.0.0"
     },

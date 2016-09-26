@@ -2,7 +2,7 @@
     "name": "icon-fonts",
     "displayName": "Icon Fonts",
     "description": "Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
@@ -26,8 +26,8 @@
     },
     "icon": "images/logo.svg",
     "galleryBanner": {
-      "color": "#231f20",
-      "theme": "dark"
+        "color": "#231f20",
+        "theme": "dark"
     },
     "engines": {
         "vscode": "^1.0.0"

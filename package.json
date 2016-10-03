@@ -1,446 +1,446 @@
 {
-  "name": "icon-fonts",
-  "displayName": "Icon Fonts",
-  "description": "Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!",
-  "version": "1.0.6",
-  "publisher": "idleberg",
-  "license": "MIT",
-  "author": {
-    "name": "Jan T. Sott",
-    "url": "http://github.com/idleberg"
-  },
-  "keywords": [
-    "icon font",
-    "icon fonts",
-    "font awesome",
-    "octicons",
-    "ionicons"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/idleberg/vscode-icon-fonts.git"
-  },
-  "homepage": "https://github.com/idleberg/vscode-icon-fonts",
-  "bugs": {
-    "url": "https://github.com/idleberg/vscode-icon-fonts/issues"
-  },
-  "icon": "images/logo.svg",
-  "galleryBanner": {
-    "color": "#232323",
-    "theme": "dark"
-  },
-  "engines": {
-    "vscode": "^1.0.0"
-  },
-  "categories": [
-    "Snippets"
-  ],
-  "contributes": {
-    "snippets": [
-      {
-        "language": "html",
-        "path": "./snippets/__cdnjs.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/__jsdelivr.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/ai.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/brandico.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/cc.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/dashicons.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/devicons.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/el.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/fa.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/fi.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/fl.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/glyphicon.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/ion.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/mdi.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/mfg.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/mfizz.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/octicon.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/oi.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/openwebicons.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/pf.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/ratchicon.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/st.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/typcn.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/ui.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/wi.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/zmdi.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/ai-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/brandico-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/cc-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/dashicons-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/devicons-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/el-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/fa-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/fi-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/fl-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/glyphicon-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/ion-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/mdi-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/mfg-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/mfizz-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/octicon-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/oi-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/openwebicons-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/pf-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/ratchicon-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/st-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/typcn-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/ui-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/wi-css.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/zmdi-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/ai-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/brandico-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/cc-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/dashicons-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/devicons-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/el-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/fa-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/fi-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/fl-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/glyphicon-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/ion-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/mdi-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/mfg-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/mfizz-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/octicon-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/oi-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/openwebicons-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/pf-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/ratchicon-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/st-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/typcn-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/ui-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/wi-css.json"
-      },
-      {
-        "language": "less",
-        "path": "./snippets/zmdi-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/ai-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/brandico-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/cc-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/dashicons-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/devicons-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/el-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/fa-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/fi-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/fl-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/glyphicon-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/ion-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/mdi-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/mfg-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/mfizz-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/octicon-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/oi-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/openwebicons-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/pf-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/ratchicon-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/st-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/typcn-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/ui-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/wi-css.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/zmdi-css.json"
-      }
-    ]
-  },
-  "scripts": {
-    "postinstall": "node ./node_modules/vscode/bin/install",
-    "test": "gulp lint"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-debug": "^2.1.2",
-    "gulp-eslint": "^3.0.1",
-    "gulp-json-lint": "^0.1.0",
-    "gulp-xml-validator": "^0.1.2",
-    "vscode": "^1.0.0"
-  }
+    "name": "icon-fonts",
+    "displayName": "Icon Fonts",
+    "description": "Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!",
+    "version": "1.0.7",
+    "publisher": "idleberg",
+    "license": "MIT",
+    "author": {
+        "name": "Jan T. Sott",
+        "url": "http://github.com/idleberg"
+    },
+    "keywords": [
+        "icon font",
+        "icon fonts",
+        "font awesome",
+        "octicons",
+        "ionicons"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/idleberg/vscode-icon-fonts.git"
+    },
+    "homepage": "https://github.com/idleberg/vscode-icon-fonts",
+    "bugs": {
+        "url": "https://github.com/idleberg/vscode-icon-fonts/issues"
+    },
+    "icon": "images/logo.svg",
+    "galleryBanner": {
+        "color": "#232323",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/__cdnjs.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/__jsdelivr.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/ai.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/brandico.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/cc.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/dashicons.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/devicons.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/el.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/fa.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/fi.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/fl.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/glyphicon.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/ion.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/mdi.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/mfg.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/mfizz.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/octicon.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/oi.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/openwebicons.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/pf.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/ratchicon.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/st.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/typcn.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/ui.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/wi.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/zmdi.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/ai-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/brandico-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/cc-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/dashicons-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/devicons-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/el-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/fa-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/fi-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/fl-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/glyphicon-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/ion-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/mdi-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/mfg-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/mfizz-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/octicon-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/oi-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/openwebicons-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/pf-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/ratchicon-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/st-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/typcn-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/ui-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/wi-css.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/zmdi-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/ai-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/brandico-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/cc-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/dashicons-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/devicons-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/el-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/fa-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/fi-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/fl-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/glyphicon-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/ion-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/mdi-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/mfg-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/mfizz-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/octicon-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/oi-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/openwebicons-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/pf-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/ratchicon-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/st-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/typcn-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/ui-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/wi-css.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/zmdi-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/ai-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/brandico-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/cc-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/dashicons-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/devicons-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/el-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/fa-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/fi-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/fl-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/glyphicon-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/ion-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/mdi-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/mfg-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/mfizz-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/octicon-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/oi-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/openwebicons-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/pf-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/ratchicon-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/st-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/typcn-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/ui-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/wi-css.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/zmdi-css.json"
+            }
+        ]
+    },
+    "scripts": {
+        "postinstall": "node ./node_modules/vscode/bin/install",
+        "test": "gulp lint"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-debug": "^2.1.2",
+        "gulp-eslint": "^3.0.1",
+        "gulp-json-lint": "^0.1.0",
+        "gulp-xml-validator": "^0.1.2",
+        "vscode": "^1.0.0"
+    }
 }

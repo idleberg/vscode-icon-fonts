@@ -3,6 +3,10 @@
     "body": "<${1:i} class=\"fl-aosc\"></${1:i}>$2",
     "prefix": "fl-aosc"
   },
+  "fl-apple": {
+    "body": "<${1:i} class=\"fl-apple\"></${1:i}>$2",
+    "prefix": "fl-apple"
+  },
   "fl-archlinux": {
     "body": "<${1:i} class=\"fl-archlinux\"></${1:i}>$2",
     "prefix": "fl-archlinux"
@@ -54,6 +58,10 @@
   "fl-mandriva": {
     "body": "<${1:i} class=\"fl-mandriva\"></${1:i}>$2",
     "prefix": "fl-mandriva"
+  },
+  "fl-manjaro": {
+    "body": "<${1:i} class=\"fl-manjaro\"></${1:i}>$2",
+    "prefix": "fl-manjaro"
   },
   "fl-nixos": {
     "body": "<${1:i} class=\"fl-nixos\"></${1:i}>$2",

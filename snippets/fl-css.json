@@ -3,6 +3,10 @@
     "body": "content: '\\f116';$1",
     "prefix": "fl-aosc"
   },
+  "fl-apple": {
+    "body": "content: '\\f11c';$1",
+    "prefix": "fl-apple"
+  },
   "fl-archlinux": {
     "body": "content: '\\f100';$1",
     "prefix": "fl-archlinux"
@@ -54,6 +58,10 @@
   "fl-mandriva": {
     "body": "content: '\\f108';$1",
     "prefix": "fl-mandriva"
+  },
+  "fl-manjaro": {
+    "body": "content: '\\f11b';$1",
+    "prefix": "fl-manjaro"
   },
   "fl-nixos": {
     "body": "content: '\\f117';$1",

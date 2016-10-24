@@ -17,7 +17,7 @@
   },
   "jsdelivr-fa": {
     "prefix": "jsdelivr-fa",
-    "body": "<link href=\"https://cdn.jsdelivr.net/fontawesome/${1:4.6.3}/css/font-awesome${2:.min}.css\" rel=\"stylesheet\">$3"
+    "body": "<link href=\"https://cdn.jsdelivr.net/fontawesome/${1:4.7.0}/css/font-awesome${2:.min}.css\" rel=\"stylesheet\">$3"
   },
   "jsdelivr-fi": {
     "prefix": "jsdelivr-fi",

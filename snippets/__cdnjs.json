@@ -16,7 +16,7 @@
     "prefix": "cdnjs-ei.js"
   },
   "cdnjs-fa": {
-    "body": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/${1:4.6.3}/css/font-awesome${2:.min}.css\" rel=\"stylesheet\">$3",
+    "body": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/${1:4.7.0}/css/font-awesome${2:.min}.css\" rel=\"stylesheet\">$3",
     "prefix": "cdnjs-fa"
   },
   "cdnjs-fi": {

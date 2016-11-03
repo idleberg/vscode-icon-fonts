@@ -1,162 +1,202 @@
 {
-  "ratchicon-list": {
-    "prefix": "ratchicon-list",
-    "body": "<${1:span} class=\"icon icon-list$2\"></${1:span}>$3"
-  },
-  "ratchicon-compose": {
-    "prefix": "ratchicon-compose",
-    "body": "<${1:span} class=\"icon icon-compose$2\"></${1:span}>$3"
-  },
-  "ratchicon-close": {
-    "prefix": "ratchicon-close",
-    "body": "<${1:span} class=\"icon icon-close$2\"></${1:span}>$3"
-  },
-  "ratchicon-pages": {
-    "prefix": "ratchicon-pages",
-    "body": "<${1:span} class=\"icon icon-pages$2\"></${1:span}>$3"
-  },
-  "ratchicon-forward": {
-    "prefix": "ratchicon-forward",
-    "body": "<${1:span} class=\"icon icon-forward$2\"></${1:span}>$3"
-  },
-  "ratchicon-info": {
-    "prefix": "ratchicon-info",
-    "body": "<${1:span} class=\"icon icon-info$2\"></${1:span}>$3"
-  },
-  "ratchicon-sound3": {
-    "prefix": "ratchicon-sound3",
-    "body": "<${1:span} class=\"icon icon-sound3$2\"></${1:span}>$3"
-  },
-  "ratchicon-more-vertical": {
-    "prefix": "ratchicon-more-vertical",
-    "body": "<${1:span} class=\"icon icon-more-vertical$2\"></${1:span}>$3"
-  },
-  "ratchicon-stop": {
-    "prefix": "ratchicon-stop",
-    "body": "<${1:span} class=\"icon icon-stop$2\"></${1:span}>$3"
-  },
-  "ratchicon-sound4": {
-    "prefix": "ratchicon-sound4",
-    "body": "<${1:span} class=\"icon icon-sound4$2\"></${1:span}>$3"
-  },
-  "ratchicon-home": {
-    "prefix": "ratchicon-home",
-    "body": "<${1:span} class=\"icon icon-home$2\"></${1:span}>$3"
-  },
-  "ratchicon-down-nav": {
-    "prefix": "ratchicon-down-nav",
-    "body": "<${1:span} class=\"icon icon-down-nav$2\"></${1:span}>$3"
-  },
-  "ratchicon-up-nav": {
-    "prefix": "ratchicon-up-nav",
-    "body": "<${1:span} class=\"icon icon-up-nav$2\"></${1:span}>$3"
-  },
-  "ratchicon-search": {
-    "prefix": "ratchicon-search",
-    "body": "<${1:span} class=\"icon icon-search$2\"></${1:span}>$3"
-  },
-  "ratchicon-download": {
-    "prefix": "ratchicon-download",
-    "body": "<${1:span} class=\"icon icon-download$2\"></${1:span}>$3"
-  },
-  "ratchicon-plus": {
-    "prefix": "ratchicon-plus",
-    "body": "<${1:span} class=\"icon icon-plus$2\"></${1:span}>$3"
-  },
-  "ratchicon-pause": {
-    "prefix": "ratchicon-pause",
-    "body": "<${1:span} class=\"icon icon-pause$2\"></${1:span}>$3"
-  },
-  "ratchicon-right-nav": {
-    "prefix": "ratchicon-right-nav",
-    "body": "<${1:span} class=\"icon icon-right-nav$2\"></${1:span}>$3"
-  },
-  "ratchicon-right": {
-    "prefix": "ratchicon-right",
-    "body": "<${1:span} class=\"icon icon-right$2\"></${1:span}>$3"
+  "ratchicon-back": {
+    "body": "<${1:span} class=\"icon icon-back$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-back"
   },
   "ratchicon-bars": {
-    "prefix": "ratchicon-bars",
-    "body": "<${1:span} class=\"icon icon-bars$2\"></${1:span}>$3"
-  },
-  "ratchicon-left-nav": {
-    "prefix": "ratchicon-left-nav",
-    "body": "<${1:span} class=\"icon icon-left-nav$2\"></${1:span}>$3"
-  },
-  "ratchicon-share": {
-    "prefix": "ratchicon-share",
-    "body": "<${1:span} class=\"icon icon-share$2\"></${1:span}>$3"
-  },
-  "ratchicon-check": {
-    "prefix": "ratchicon-check",
-    "body": "<${1:span} class=\"icon icon-check$2\"></${1:span}>$3"
-  },
-  "ratchicon-up": {
-    "prefix": "ratchicon-up",
-    "body": "<${1:span} class=\"icon icon-up$2\"></${1:span}>$3"
-  },
-  "ratchicon-left": {
-    "prefix": "ratchicon-left",
-    "body": "<${1:span} class=\"icon icon-left$2\"></${1:span}>$3"
-  },
-  "ratchicon-down": {
-    "prefix": "ratchicon-down",
-    "body": "<${1:span} class=\"icon icon-down$2\"></${1:span}>$3"
-  },
-  "ratchicon-person": {
-    "prefix": "ratchicon-person",
-    "body": "<${1:span} class=\"icon icon-person$2\"></${1:span}>$3"
-  },
-  "ratchicon-trash": {
-    "prefix": "ratchicon-trash",
-    "body": "<${1:span} class=\"icon icon-trash$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"icon icon-bars$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-bars"
   },
   "ratchicon-caret": {
-    "prefix": "ratchicon-caret",
-    "body": "<${1:span} class=\"icon icon-caret$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"icon icon-caret$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-caret"
+  },
+  "ratchicon-check": {
+    "body": "<${1:span} class=\"icon icon-check$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-check"
+  },
+  "ratchicon-close": {
+    "body": "<${1:span} class=\"icon icon-close$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-close"
   },
   "ratchicon-code": {
-    "prefix": "ratchicon-code",
-    "body": "<${1:span} class=\"icon icon-code$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"icon icon-code$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-code"
   },
-  "ratchicon-star-filled": {
-    "prefix": "ratchicon-star-filled",
-    "body": "<${1:span} class=\"icon icon-star-filled$2\"></${1:span}>$3"
+  "ratchicon-compose": {
+    "body": "<${1:span} class=\"icon icon-compose$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-compose"
   },
-  "ratchicon-back": {
-    "prefix": "ratchicon-back",
-    "body": "<${1:span} class=\"icon icon-back$2\"></${1:span}>$3"
+  "ratchicon-down-nav": {
+    "body": "<${1:span} class=\"icon icon-down-nav$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-down-nav"
   },
-  "ratchicon-more": {
-    "prefix": "ratchicon-more",
-    "body": "<${1:span} class=\"icon icon-more$2\"></${1:span}>$3"
+  "ratchicon-down": {
+    "body": "<${1:span} class=\"icon icon-down$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-down"
+  },
+  "ratchicon-download": {
+    "body": "<${1:span} class=\"icon icon-download$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-download"
   },
   "ratchicon-edit": {
-    "prefix": "ratchicon-edit",
-    "body": "<${1:span} class=\"icon icon-edit$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"icon icon-edit$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-edit"
   },
-  "ratchicon-play": {
-    "prefix": "ratchicon-play",
-    "body": "<${1:span} class=\"icon icon-play$2\"></${1:span}>$3"
-  },
-  "ratchicon-sound2": {
-    "prefix": "ratchicon-sound2",
-    "body": "<${1:span} class=\"icon icon-sound2$2\"></${1:span}>$3"
-  },
-  "ratchicon-sound": {
-    "prefix": "ratchicon-sound",
-    "body": "<${1:span} class=\"icon icon-sound$2\"></${1:span}>$3"
-  },
-  "ratchicon-star": {
-    "prefix": "ratchicon-star",
-    "body": "<${1:span} class=\"icon icon-star$2\"></${1:span}>$3"
+  "ratchicon-forward": {
+    "body": "<${1:span} class=\"icon icon-forward$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-forward"
   },
   "ratchicon-gear": {
-    "prefix": "ratchicon-gear",
-    "body": "<${1:span} class=\"icon icon-gear$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"icon icon-gear$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-gear"
+  },
+  "ratchicon-home": {
+    "body": "<${1:span} class=\"icon icon-home$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-home"
+  },
+  "ratchicon-info": {
+    "body": "<${1:span} class=\"icon icon-info$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-info"
+  },
+  "ratchicon-left-nav": {
+    "body": "<${1:span} class=\"icon icon-left-nav$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-left-nav"
+  },
+  "ratchicon-left": {
+    "body": "<${1:span} class=\"icon icon-left$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-left"
+  },
+  "ratchicon-list": {
+    "body": "<${1:span} class=\"icon icon-list$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-list"
+  },
+  "ratchicon-more-vertical": {
+    "body": "<${1:span} class=\"icon icon-more-vertical$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-more-vertical"
+  },
+  "ratchicon-more": {
+    "body": "<${1:span} class=\"icon icon-more$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-more"
+  },
+  "ratchicon-pages": {
+    "body": "<${1:span} class=\"icon icon-pages$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-pages"
+  },
+  "ratchicon-pause": {
+    "body": "<${1:span} class=\"icon icon-pause$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-pause"
+  },
+  "ratchicon-person": {
+    "body": "<${1:span} class=\"icon icon-person$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-person"
+  },
+  "ratchicon-play": {
+    "body": "<${1:span} class=\"icon icon-play$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-play"
+  },
+  "ratchicon-plus": {
+    "body": "<${1:span} class=\"icon icon-plus$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-plus"
   },
   "ratchicon-refresh": {
-    "prefix": "ratchicon-refresh",
-    "body": "<${1:span} class=\"icon icon-refresh$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"icon icon-refresh$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-refresh"
+  },
+  "ratchicon-right-nav": {
+    "body": "<${1:span} class=\"icon icon-right-nav$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-right-nav"
+  },
+  "ratchicon-right": {
+    "body": "<${1:span} class=\"icon icon-right$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-right"
+  },
+  "ratchicon-search": {
+    "body": "<${1:span} class=\"icon icon-search$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-search"
+  },
+  "ratchicon-share": {
+    "body": "<${1:span} class=\"icon icon-share$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-share"
+  },
+  "ratchicon-sound": {
+    "body": "<${1:span} class=\"icon icon-sound$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-sound"
+  },
+  "ratchicon-sound2": {
+    "body": "<${1:span} class=\"icon icon-sound2$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-sound2"
+  },
+  "ratchicon-sound3": {
+    "body": "<${1:span} class=\"icon icon-sound3$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-sound3"
+  },
+  "ratchicon-sound4": {
+    "body": "<${1:span} class=\"icon icon-sound4$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-sound4"
+  },
+  "ratchicon-star-filled": {
+    "body": "<${1:span} class=\"icon icon-star-filled$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-star-filled"
+  },
+  "ratchicon-star": {
+    "body": "<${1:span} class=\"icon icon-star$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-star"
+  },
+  "ratchicon-stop": {
+    "body": "<${1:span} class=\"icon icon-stop$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-stop"
+  },
+  "ratchicon-trash": {
+    "body": "<${1:span} class=\"icon icon-trash$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-trash"
+  },
+  "ratchicon-up-nav": {
+    "body": "<${1:span} class=\"icon icon-up-nav$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-up-nav"
+  },
+  "ratchicon-up": {
+    "body": "<${1:span} class=\"icon icon-up$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "ratchicon-up"
   }
 }

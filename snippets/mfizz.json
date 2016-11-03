@@ -1,614 +1,767 @@
 {
-  "mfizz-line-graph": {
-    "prefix": "mfizz-line-graph",
-    "body": "<${1:i} class=\"mfizz-line-graph$2\"></${1:i}>$3"
-  },
-  "mfizz-database-alt2": {
-    "prefix": "mfizz-database-alt2",
-    "body": "<${1:i} class=\"mfizz-database-alt2$2\"></${1:i}>$3"
-  },
-  "mfizz-phone-gap": {
-    "prefix": "mfizz-phone-gap",
-    "body": "<${1:i} class=\"mfizz-phone-gap$2\"></${1:i}>$3"
-  },
-  "mfizz-oracle-alt": {
-    "prefix": "mfizz-oracle-alt",
-    "body": "<${1:i} class=\"mfizz-oracle-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-java": {
-    "prefix": "mfizz-java",
-    "body": "<${1:i} class=\"mfizz-java$2\"></${1:i}>$3"
-  },
-  "mfizz-mysql-alt": {
-    "prefix": "mfizz-mysql-alt",
-    "body": "<${1:i} class=\"mfizz-mysql-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-freebsd": {
-    "prefix": "mfizz-freebsd",
-    "body": "<${1:i} class=\"mfizz-freebsd$2\"></${1:i}>$3"
-  },
-  "mfizz-archlinux": {
-    "prefix": "mfizz-archlinux",
-    "body": "<${1:i} class=\"mfizz-archlinux$2\"></${1:i}>$3"
-  },
-  "mfizz-apache": {
-    "prefix": "mfizz-apache",
-    "body": "<${1:i} class=\"mfizz-apache$2\"></${1:i}>$3"
-  },
-  "mfizz-linkedin": {
-    "prefix": "mfizz-linkedin",
-    "body": "<${1:i} class=\"mfizz-linkedin$2\"></${1:i}>$3"
-  },
-  "mfizz-instagram": {
-    "prefix": "mfizz-instagram",
-    "body": "<${1:i} class=\"mfizz-instagram$2\"></${1:i}>$3"
-  },
-  "mfizz-script-alt": {
-    "prefix": "mfizz-script-alt",
-    "body": "<${1:i} class=\"mfizz-script-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-vimeo": {
-    "prefix": "mfizz-vimeo",
-    "body": "<${1:i} class=\"mfizz-vimeo$2\"></${1:i}>$3"
-  },
-  "mfizz-friendfeed": {
-    "prefix": "mfizz-friendfeed",
-    "body": "<${1:i} class=\"mfizz-friendfeed$2\"></${1:i}>$3"
-  },
-  "mfizz-java-duke": {
-    "prefix": "mfizz-java-duke",
-    "body": "<${1:i} class=\"mfizz-java-duke$2\"></${1:i}>$3"
-  },
-  "mfizz-coffee-bean": {
-    "prefix": "mfizz-coffee-bean",
-    "body": "<${1:i} class=\"mfizz-coffee-bean$2\"></${1:i}>$3"
-  },
-  "mfizz-git": {
-    "prefix": "mfizz-git",
-    "body": "<${1:i} class=\"mfizz-git$2\"></${1:i}>$3"
-  },
-  "mfizz-lastfm": {
-    "prefix": "mfizz-lastfm",
-    "body": "<${1:i} class=\"mfizz-lastfm$2\"></${1:i}>$3"
-  },
-  "mfizz-objc": {
-    "prefix": "mfizz-objc",
-    "body": "<${1:i} class=\"mfizz-objc$2\"></${1:i}>$3"
-  },
-  "mfizz-cplusplus": {
-    "prefix": "mfizz-cplusplus",
-    "body": "<${1:i} class=\"mfizz-cplusplus$2\"></${1:i}>$3"
-  },
-  "mfizz-discover": {
-    "prefix": "mfizz-discover",
-    "body": "<${1:i} class=\"mfizz-discover$2\"></${1:i}>$3"
-  },
-  "mfizz-google-developers": {
-    "prefix": "mfizz-google-developers",
-    "body": "<${1:i} class=\"mfizz-google-developers$2\"></${1:i}>$3"
-  },
-  "mfizz-postgres-alt": {
-    "prefix": "mfizz-postgres-alt",
-    "body": "<${1:i} class=\"mfizz-postgres-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-diigo": {
-    "prefix": "mfizz-diigo",
-    "body": "<${1:i} class=\"mfizz-diigo$2\"></${1:i}>$3"
-  },
-  "mfizz-haskell": {
-    "prefix": "mfizz-haskell",
-    "body": "<${1:i} class=\"mfizz-haskell$2\"></${1:i}>$3"
-  },
-  "mfizz-tudou": {
-    "prefix": "mfizz-tudou",
-    "body": "<${1:i} class=\"mfizz-tudou$2\"></${1:i}>$3"
-  },
-  "mfizz-nginx-alt": {
-    "prefix": "mfizz-nginx-alt",
-    "body": "<${1:i} class=\"mfizz-nginx-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-linkedin-rect": {
-    "prefix": "mfizz-linkedin-rect",
-    "body": "<${1:i} class=\"mfizz-linkedin-rect$2\"></${1:i}>$3"
-  },
-  "mfizz-picasa": {
-    "prefix": "mfizz-picasa",
-    "body": "<${1:i} class=\"mfizz-picasa$2\"></${1:i}>$3"
-  },
-  "mfizz-facebook-rect": {
-    "prefix": "mfizz-facebook-rect",
-    "body": "<${1:i} class=\"mfizz-facebook-rect$2\"></${1:i}>$3"
-  },
-  "mfizz-twitter-bird": {
-    "prefix": "mfizz-twitter-bird",
-    "body": "<${1:i} class=\"mfizz-twitter-bird$2\"></${1:i}>$3"
-  },
-  "mfizz-box-rect": {
-    "prefix": "mfizz-box-rect",
-    "body": "<${1:i} class=\"mfizz-box-rect$2\"></${1:i}>$3"
-  },
-  "mfizz-html": {
-    "prefix": "mfizz-html",
-    "body": "<${1:i} class=\"mfizz-html$2\"></${1:i}>$3"
-  },
-  "mfizz-javascript": {
-    "prefix": "mfizz-javascript",
-    "body": "<${1:i} class=\"mfizz-javascript$2\"></${1:i}>$3"
-  },
-  "mfizz-phone-alt": {
-    "prefix": "mfizz-phone-alt",
-    "body": "<${1:i} class=\"mfizz-phone-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-github": {
-    "prefix": "mfizz-github",
-    "body": "<${1:i} class=\"mfizz-github$2\"></${1:i}>$3"
-  },
-  "mfizz-tomcat": {
-    "prefix": "mfizz-tomcat",
-    "body": "<${1:i} class=\"mfizz-tomcat$2\"></${1:i}>$3"
-  },
-  "mfizz-jabber": {
-    "prefix": "mfizz-jabber",
-    "body": "<${1:i} class=\"mfizz-jabber$2\"></${1:i}>$3"
-  },
-  "mfizz-netbsd": {
-    "prefix": "mfizz-netbsd",
-    "body": "<${1:i} class=\"mfizz-netbsd$2\"></${1:i}>$3"
-  },
-  "mfizz-grails-alt": {
-    "prefix": "mfizz-grails-alt",
-    "body": "<${1:i} class=\"mfizz-grails-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-jetty": {
-    "prefix": "mfizz-jetty",
-    "body": "<${1:i} class=\"mfizz-jetty$2\"></${1:i}>$3"
-  },
-  "mfizz-codepen": {
-    "prefix": "mfizz-codepen",
-    "body": "<${1:i} class=\"mfizz-codepen$2\"></${1:i}>$3"
-  },
-  "mfizz-playframework-alt": {
-    "prefix": "mfizz-playframework-alt",
-    "body": "<${1:i} class=\"mfizz-playframework-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-debian": {
-    "prefix": "mfizz-debian",
-    "body": "<${1:i} class=\"mfizz-debian$2\"></${1:i}>$3"
-  },
-  "mfizz-suse": {
-    "prefix": "mfizz-suse",
-    "body": "<${1:i} class=\"mfizz-suse$2\"></${1:i}>$3"
-  },
-  "mfizz-mssql": {
-    "prefix": "mfizz-mssql",
-    "body": "<${1:i} class=\"mfizz-mssql$2\"></${1:i}>$3"
-  },
-  "mfizz-osx": {
-    "prefix": "mfizz-osx",
-    "body": "<${1:i} class=\"mfizz-osx$2\"></${1:i}>$3"
-  },
-  "mfizz-playframework": {
-    "prefix": "mfizz-playframework",
-    "body": "<${1:i} class=\"mfizz-playframework$2\"></${1:i}>$3"
-  },
-  "mfizz-oracle": {
-    "prefix": "mfizz-oracle",
-    "body": "<${1:i} class=\"mfizz-oracle$2\"></${1:i}>$3"
-  },
-  "mfizz-yandex-rect": {
-    "prefix": "mfizz-yandex-rect",
-    "body": "<${1:i} class=\"mfizz-yandex-rect$2\"></${1:i}>$3"
-  },
-  "mfizz-iphone": {
-    "prefix": "mfizz-iphone",
-    "body": "<${1:i} class=\"mfizz-iphone$2\"></${1:i}>$3"
-  },
-  "mfizz-spring": {
-    "prefix": "mfizz-spring",
-    "body": "<${1:i} class=\"mfizz-spring$2\"></${1:i}>$3"
-  },
-  "mfizz-ghost": {
-    "prefix": "mfizz-ghost",
-    "body": "<${1:i} class=\"mfizz-ghost$2\"></${1:i}>$3"
-  },
-  "mfizz-twitter": {
-    "prefix": "mfizz-twitter",
-    "body": "<${1:i} class=\"mfizz-twitter$2\"></${1:i}>$3"
-  },
-  "mfizz-ruby-on-rails-alt": {
-    "prefix": "mfizz-ruby-on-rails-alt",
-    "body": "<${1:i} class=\"mfizz-ruby-on-rails-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-tumblr": {
-    "prefix": "mfizz-tumblr",
-    "body": "<${1:i} class=\"mfizz-tumblr$2\"></${1:i}>$3"
-  },
-  "mfizz-phone-retro": {
-    "prefix": "mfizz-phone-retro",
-    "body": "<${1:i} class=\"mfizz-phone-retro$2\"></${1:i}>$3"
-  },
-  "mfizz-javascript-alt": {
-    "prefix": "mfizz-javascript-alt",
-    "body": "<${1:i} class=\"mfizz-javascript-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-antenna": {
-    "prefix": "mfizz-antenna",
-    "body": "<${1:i} class=\"mfizz-antenna$2\"></${1:i}>$3"
-  },
-  "mfizz-deviantart": {
-    "prefix": "mfizz-deviantart",
-    "body": "<${1:i} class=\"mfizz-deviantart$2\"></${1:i}>$3"
-  },
-  "mfizz-skype": {
-    "prefix": "mfizz-skype",
-    "body": "<${1:i} class=\"mfizz-skype$2\"></${1:i}>$3"
-  },
-  "mfizz-shell": {
-    "prefix": "mfizz-shell",
-    "body": "<${1:i} class=\"mfizz-shell$2\"></${1:i}>$3"
-  },
-  "mfizz-plone": {
-    "prefix": "mfizz-plone",
-    "body": "<${1:i} class=\"mfizz-plone$2\"></${1:i}>$3"
-  },
-  "mfizz-database": {
-    "prefix": "mfizz-database",
-    "body": "<${1:i} class=\"mfizz-database$2\"></${1:i}>$3"
-  },
-  "mfizz-instagram-filled": {
-    "prefix": "mfizz-instagram-filled",
-    "body": "<${1:i} class=\"mfizz-instagram-filled$2\"></${1:i}>$3"
-  },
-  "mfizz-svg": {
-    "prefix": "mfizz-svg",
-    "body": "<${1:i} class=\"mfizz-svg$2\"></${1:i}>$3"
-  },
-  "mfizz-script": {
-    "prefix": "mfizz-script",
-    "body": "<${1:i} class=\"mfizz-script$2\"></${1:i}>$3"
-  },
-  "mfizz-postgres": {
-    "prefix": "mfizz-postgres",
-    "body": "<${1:i} class=\"mfizz-postgres$2\"></${1:i}>$3"
+  "mfizz-3dprint": {
+    "body": "<${1:i} class=\"mfizz-3dprint$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-3dprint"
   },
   "mfizz-amex": {
-    "prefix": "mfizz-amex",
-    "body": "<${1:i} class=\"mfizz-amex$2\"></${1:i}>$3"
-  },
-  "mfizz-dreamhost": {
-    "prefix": "mfizz-dreamhost",
-    "body": "<${1:i} class=\"mfizz-dreamhost$2\"></${1:i}>$3"
-  },
-  "mfizz-mobile-phone-alt": {
-    "prefix": "mfizz-mobile-phone-alt",
-    "body": "<${1:i} class=\"mfizz-mobile-phone-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-redis": {
-    "prefix": "mfizz-redis",
-    "body": "<${1:i} class=\"mfizz-redis$2\"></${1:i}>$3"
-  },
-  "mfizz-blackberry": {
-    "prefix": "mfizz-blackberry",
-    "body": "<${1:i} class=\"mfizz-blackberry$2\"></${1:i}>$3"
-  },
-  "mfizz-mastercard": {
-    "prefix": "mfizz-mastercard",
-    "body": "<${1:i} class=\"mfizz-mastercard$2\"></${1:i}>$3"
-  },
-  "mfizz-ubuntu": {
-    "prefix": "mfizz-ubuntu",
-    "body": "<${1:i} class=\"mfizz-ubuntu$2\"></${1:i}>$3"
-  },
-  "mfizz-wordpress": {
-    "prefix": "mfizz-wordpress",
-    "body": "<${1:i} class=\"mfizz-wordpress$2\"></${1:i}>$3"
-  },
-  "mfizz-fire-alt": {
-    "prefix": "mfizz-fire-alt",
-    "body": "<${1:i} class=\"mfizz-fire-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-csharp": {
-    "prefix": "mfizz-csharp",
-    "body": "<${1:i} class=\"mfizz-csharp$2\"></${1:i}>$3"
-  },
-  "mfizz-github-text": {
-    "prefix": "mfizz-github-text",
-    "body": "<${1:i} class=\"mfizz-github-text$2\"></${1:i}>$3"
-  },
-  "mfizz-blogger-rect": {
-    "prefix": "mfizz-blogger-rect",
-    "body": "<${1:i} class=\"mfizz-blogger-rect$2\"></${1:i}>$3"
-  },
-  "mfizz-c": {
-    "prefix": "mfizz-c",
-    "body": "<${1:i} class=\"mfizz-c$2\"></${1:i}>$3"
-  },
-  "mfizz-kde": {
-    "prefix": "mfizz-kde",
-    "body": "<${1:i} class=\"mfizz-kde$2\"></${1:i}>$3"
-  },
-  "mfizz-redhat": {
-    "prefix": "mfizz-redhat",
-    "body": "<${1:i} class=\"mfizz-redhat$2\"></${1:i}>$3"
-  },
-  "mfizz-nginx-alt2": {
-    "prefix": "mfizz-nginx-alt2",
-    "body": "<${1:i} class=\"mfizz-nginx-alt2$2\"></${1:i}>$3"
-  },
-  "mfizz-cassandra": {
-    "prefix": "mfizz-cassandra",
-    "body": "<${1:i} class=\"mfizz-cassandra$2\"></${1:i}>$3"
-  },
-  "mfizz-tumblr-rect": {
-    "prefix": "mfizz-tumblr-rect",
-    "body": "<${1:i} class=\"mfizz-tumblr-rect$2\"></${1:i}>$3"
-  },
-  "mfizz-friendfeed-rect": {
-    "prefix": "mfizz-friendfeed-rect",
-    "body": "<${1:i} class=\"mfizz-friendfeed-rect$2\"></${1:i}>$3"
-  },
-  "mfizz-mobile-device": {
-    "prefix": "mfizz-mobile-device",
-    "body": "<${1:i} class=\"mfizz-mobile-device$2\"></${1:i}>$3"
-  },
-  "mfizz-docker": {
-    "prefix": "mfizz-docker",
-    "body": "<${1:i} class=\"mfizz-docker$2\"></${1:i}>$3"
-  },
-  "mfizz-vimeo-rect": {
-    "prefix": "mfizz-vimeo-rect",
-    "body": "<${1:i} class=\"mfizz-vimeo-rect$2\"></${1:i}>$3"
-  },
-  "mfizz-mongodb": {
-    "prefix": "mfizz-mongodb",
-    "body": "<${1:i} class=\"mfizz-mongodb$2\"></${1:i}>$3"
-  },
-  "mfizz-nginx": {
-    "prefix": "mfizz-nginx",
-    "body": "<${1:i} class=\"mfizz-nginx$2\"></${1:i}>$3"
-  },
-  "mfizz-python": {
-    "prefix": "mfizz-python",
-    "body": "<${1:i} class=\"mfizz-python$2\"></${1:i}>$3"
-  },
-  "mfizz-clojure": {
-    "prefix": "mfizz-clojure",
-    "body": "<${1:i} class=\"mfizz-clojure$2\"></${1:i}>$3"
-  },
-  "mfizz-bandcamp": {
-    "prefix": "mfizz-bandcamp",
-    "body": "<${1:i} class=\"mfizz-bandcamp$2\"></${1:i}>$3"
-  },
-  "mfizz-grunt": {
-    "prefix": "mfizz-grunt",
-    "body": "<${1:i} class=\"mfizz-grunt$2\"></${1:i}>$3"
-  },
-  "mfizz-yandex": {
-    "prefix": "mfizz-yandex",
-    "body": "<${1:i} class=\"mfizz-yandex$2\"></${1:i}>$3"
-  },
-  "mfizz-php": {
-    "prefix": "mfizz-php",
-    "body": "<${1:i} class=\"mfizz-php$2\"></${1:i}>$3"
-  },
-  "mfizz-icq": {
-    "prefix": "mfizz-icq",
-    "body": "<${1:i} class=\"mfizz-icq$2\"></${1:i}>$3"
-  },
-  "mfizz-blogger": {
-    "prefix": "mfizz-blogger",
-    "body": "<${1:i} class=\"mfizz-blogger$2\"></${1:i}>$3"
-  },
-  "mfizz-google-code": {
-    "prefix": "mfizz-google-code",
-    "body": "<${1:i} class=\"mfizz-google-code$2\"></${1:i}>$3"
-  },
-  "mfizz-java-bold": {
-    "prefix": "mfizz-java-bold",
-    "body": "<${1:i} class=\"mfizz-java-bold$2\"></${1:i}>$3"
-  },
-  "mfizz-box": {
-    "prefix": "mfizz-box",
-    "body": "<${1:i} class=\"mfizz-box$2\"></${1:i}>$3"
-  },
-  "mfizz-splatter": {
-    "prefix": "mfizz-splatter",
-    "body": "<${1:i} class=\"mfizz-splatter$2\"></${1:i}>$3"
-  },
-  "mfizz-heroku": {
-    "prefix": "mfizz-heroku",
-    "body": "<${1:i} class=\"mfizz-heroku$2\"></${1:i}>$3"
-  },
-  "mfizz-elixir": {
-    "prefix": "mfizz-elixir",
-    "body": "<${1:i} class=\"mfizz-elixir$2\"></${1:i}>$3"
-  },
-  "mfizz-looking": {
-    "prefix": "mfizz-looking",
-    "body": "<${1:i} class=\"mfizz-looking$2\"></${1:i}>$3"
-  },
-  "mfizz-youku": {
-    "prefix": "mfizz-youku",
-    "body": "<${1:i} class=\"mfizz-youku$2\"></${1:i}>$3"
-  },
-  "mfizz-gnome": {
-    "prefix": "mfizz-gnome",
-    "body": "<${1:i} class=\"mfizz-gnome$2\"></${1:i}>$3"
-  },
-  "mfizz-mariadb": {
-    "prefix": "mfizz-mariadb",
-    "body": "<${1:i} class=\"mfizz-mariadb$2\"></${1:i}>$3"
-  },
-  "mfizz-ruby-on-rails": {
-    "prefix": "mfizz-ruby-on-rails",
-    "body": "<${1:i} class=\"mfizz-ruby-on-rails$2\"></${1:i}>$3"
-  },
-  "mfizz-exherbo": {
-    "prefix": "mfizz-exherbo",
-    "body": "<${1:i} class=\"mfizz-exherbo$2\"></${1:i}>$3"
-  },
-  "mfizz-scala-alt": {
-    "prefix": "mfizz-scala-alt",
-    "body": "<${1:i} class=\"mfizz-scala-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-bomb": {
-    "prefix": "mfizz-bomb",
-    "body": "<${1:i} class=\"mfizz-bomb$2\"></${1:i}>$3"
-  },
-  "mfizz-houzz": {
-    "prefix": "mfizz-houzz",
-    "body": "<${1:i} class=\"mfizz-houzz$2\"></${1:i}>$3"
-  },
-  "mfizz-gentoo": {
-    "prefix": "mfizz-gentoo",
-    "body": "<${1:i} class=\"mfizz-gentoo$2\"></${1:i}>$3"
-  },
-  "mfizz-symfony": {
-    "prefix": "mfizz-symfony",
-    "body": "<${1:i} class=\"mfizz-symfony$2\"></${1:i}>$3"
-  },
-  "mfizz-facebook": {
-    "prefix": "mfizz-facebook",
-    "body": "<${1:i} class=\"mfizz-facebook$2\"></${1:i}>$3"
-  },
-  "mfizz-laravel": {
-    "prefix": "mfizz-laravel",
-    "body": "<${1:i} class=\"mfizz-laravel$2\"></${1:i}>$3"
-  },
-  "mfizz-mobile-phone-broadcast": {
-    "prefix": "mfizz-mobile-phone-broadcast",
-    "body": "<${1:i} class=\"mfizz-mobile-phone-broadcast$2\"></${1:i}>$3"
-  },
-  "mfizz-hadoop": {
-    "prefix": "mfizz-hadoop",
-    "body": "<${1:i} class=\"mfizz-hadoop$2\"></${1:i}>$3"
-  },
-  "mfizz-raspberrypi": {
-    "prefix": "mfizz-raspberrypi",
-    "body": "<${1:i} class=\"mfizz-raspberrypi$2\"></${1:i}>$3"
-  },
-  "mfizz-satellite": {
-    "prefix": "mfizz-satellite",
-    "body": "<${1:i} class=\"mfizz-satellite$2\"></${1:i}>$3"
-  },
-  "mfizz-fedora": {
-    "prefix": "mfizz-fedora",
-    "body": "<${1:i} class=\"mfizz-fedora$2\"></${1:i}>$3"
-  },
-  "mfizz-wireless": {
-    "prefix": "mfizz-wireless",
-    "body": "<${1:i} class=\"mfizz-wireless$2\"></${1:i}>$3"
-  },
-  "mfizz-erlang": {
-    "prefix": "mfizz-erlang",
-    "body": "<${1:i} class=\"mfizz-erlang$2\"></${1:i}>$3"
-  },
-  "mfizz-perl": {
-    "prefix": "mfizz-perl",
-    "body": "<${1:i} class=\"mfizz-perl$2\"></${1:i}>$3"
-  },
-  "mfizz-centos": {
-    "prefix": "mfizz-centos",
-    "body": "<${1:i} class=\"mfizz-centos$2\"></${1:i}>$3"
-  },
-  "mfizz-solaris": {
-    "prefix": "mfizz-solaris",
-    "body": "<${1:i} class=\"mfizz-solaris$2\"></${1:i}>$3"
-  },
-  "mfizz-php-alt": {
-    "prefix": "mfizz-php-alt",
-    "body": "<${1:i} class=\"mfizz-php-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-odnoklassniki-rect": {
-    "prefix": "mfizz-odnoklassniki-rect",
-    "body": "<${1:i} class=\"mfizz-odnoklassniki-rect$2\"></${1:i}>$3"
-  },
-  "mfizz-win8": {
-    "prefix": "mfizz-win8",
-    "body": "<${1:i} class=\"mfizz-win8$2\"></${1:i}>$3"
-  },
-  "mfizz-visa": {
-    "prefix": "mfizz-visa",
-    "body": "<${1:i} class=\"mfizz-visa$2\"></${1:i}>$3"
-  },
-  "mfizz-maven": {
-    "prefix": "mfizz-maven",
-    "body": "<${1:i} class=\"mfizz-maven$2\"></${1:i}>$3"
-  },
-  "mfizz-google-alt": {
-    "prefix": "mfizz-google-alt",
-    "body": "<${1:i} class=\"mfizz-google-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-google": {
-    "prefix": "mfizz-google",
-    "body": "<${1:i} class=\"mfizz-google$2\"></${1:i}>$3"
-  },
-  "mfizz-scala": {
-    "prefix": "mfizz-scala",
-    "body": "<${1:i} class=\"mfizz-scala$2\"></${1:i}>$3"
-  },
-  "mfizz-database-alt": {
-    "prefix": "mfizz-database-alt",
-    "body": "<${1:i} class=\"mfizz-database-alt$2\"></${1:i}>$3"
-  },
-  "mfizz-grails": {
-    "prefix": "mfizz-grails",
-    "body": "<${1:i} class=\"mfizz-grails$2\"></${1:i}>$3"
-  },
-  "mfizz-3dprint": {
-    "prefix": "mfizz-3dprint",
-    "body": "<${1:i} class=\"mfizz-3dprint$2\"></${1:i}>$3"
-  },
-  "mfizz-linux-mint": {
-    "prefix": "mfizz-linux-mint",
-    "body": "<${1:i} class=\"mfizz-linux-mint$2\"></${1:i}>$3"
-  },
-  "mfizz-css": {
-    "prefix": "mfizz-css",
-    "body": "<${1:i} class=\"mfizz-css$2\"></${1:i}>$3"
-  },
-  "mfizz-gradle": {
-    "prefix": "mfizz-gradle",
-    "body": "<${1:i} class=\"mfizz-gradle$2\"></${1:i}>$3"
-  },
-  "mfizz-ruby": {
-    "prefix": "mfizz-ruby",
-    "body": "<${1:i} class=\"mfizz-ruby$2\"></${1:i}>$3"
-  },
-  "mfizz-lastfm-rect": {
-    "prefix": "mfizz-lastfm-rect",
-    "body": "<${1:i} class=\"mfizz-lastfm-rect$2\"></${1:i}>$3"
-  },
-  "mfizz-microscope": {
-    "prefix": "mfizz-microscope",
-    "body": "<${1:i} class=\"mfizz-microscope$2\"></${1:i}>$3"
-  },
-  "mfizz-aws": {
-    "prefix": "mfizz-aws",
-    "body": "<${1:i} class=\"mfizz-aws$2\"></${1:i}>$3"
-  },
-  "mfizz-nodejs": {
-    "prefix": "mfizz-nodejs",
-    "body": "<${1:i} class=\"mfizz-nodejs$2\"></${1:i}>$3"
-  },
-  "mfizz-googleplus-rect": {
-    "prefix": "mfizz-googleplus-rect",
-    "body": "<${1:i} class=\"mfizz-googleplus-rect$2\"></${1:i}>$3"
-  },
-  "mfizz-vkontakte-rect": {
-    "prefix": "mfizz-vkontakte-rect",
-    "body": "<${1:i} class=\"mfizz-vkontakte-rect$2\"></${1:i}>$3"
+    "body": "<${1:i} class=\"mfizz-amex$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-amex"
   },
   "mfizz-angular": {
-    "prefix": "mfizz-angular",
-    "body": "<${1:i} class=\"mfizz-angular$2\"></${1:i}>$3"
+    "body": "<${1:i} class=\"mfizz-angular$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-angular"
+  },
+  "mfizz-antenna": {
+    "body": "<${1:i} class=\"mfizz-antenna$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-antenna"
+  },
+  "mfizz-apache": {
+    "body": "<${1:i} class=\"mfizz-apache$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-apache"
+  },
+  "mfizz-archlinux": {
+    "body": "<${1:i} class=\"mfizz-archlinux$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-archlinux"
+  },
+  "mfizz-aws": {
+    "body": "<${1:i} class=\"mfizz-aws$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-aws"
+  },
+  "mfizz-bandcamp": {
+    "body": "<${1:i} class=\"mfizz-bandcamp$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-bandcamp"
+  },
+  "mfizz-blackberry": {
+    "body": "<${1:i} class=\"mfizz-blackberry$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-blackberry"
+  },
+  "mfizz-blogger": {
+    "body": "<${1:i} class=\"mfizz-blogger$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-blogger"
+  },
+  "mfizz-blogger-rect": {
+    "body": "<${1:i} class=\"mfizz-blogger-rect$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-blogger-rect"
+  },
+  "mfizz-bomb": {
+    "body": "<${1:i} class=\"mfizz-bomb$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-bomb"
+  },
+  "mfizz-box": {
+    "body": "<${1:i} class=\"mfizz-box$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-box"
+  },
+  "mfizz-box-rect": {
+    "body": "<${1:i} class=\"mfizz-box-rect$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-box-rect"
+  },
+  "mfizz-c": {
+    "body": "<${1:i} class=\"mfizz-c$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-c"
+  },
+  "mfizz-cassandra": {
+    "body": "<${1:i} class=\"mfizz-cassandra$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-cassandra"
+  },
+  "mfizz-centos": {
+    "body": "<${1:i} class=\"mfizz-centos$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-centos"
+  },
+  "mfizz-clojure": {
+    "body": "<${1:i} class=\"mfizz-clojure$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-clojure"
+  },
+  "mfizz-codepen": {
+    "body": "<${1:i} class=\"mfizz-codepen$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-codepen"
+  },
+  "mfizz-coffee-bean": {
+    "body": "<${1:i} class=\"mfizz-coffee-bean$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-coffee-bean"
+  },
+  "mfizz-cplusplus": {
+    "body": "<${1:i} class=\"mfizz-cplusplus$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-cplusplus"
+  },
+  "mfizz-csharp": {
+    "body": "<${1:i} class=\"mfizz-csharp$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-csharp"
+  },
+  "mfizz-css": {
+    "body": "<${1:i} class=\"mfizz-css$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-css"
+  },
+  "mfizz-database": {
+    "body": "<${1:i} class=\"mfizz-database$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-database"
+  },
+  "mfizz-database-alt": {
+    "body": "<${1:i} class=\"mfizz-database-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-database-alt"
+  },
+  "mfizz-database-alt2": {
+    "body": "<${1:i} class=\"mfizz-database-alt2$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-database-alt2"
+  },
+  "mfizz-debian": {
+    "body": "<${1:i} class=\"mfizz-debian$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-debian"
+  },
+  "mfizz-deviantart": {
+    "body": "<${1:i} class=\"mfizz-deviantart$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-deviantart"
+  },
+  "mfizz-diigo": {
+    "body": "<${1:i} class=\"mfizz-diigo$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-diigo"
+  },
+  "mfizz-discover": {
+    "body": "<${1:i} class=\"mfizz-discover$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-discover"
+  },
+  "mfizz-docker": {
+    "body": "<${1:i} class=\"mfizz-docker$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-docker"
+  },
+  "mfizz-dreamhost": {
+    "body": "<${1:i} class=\"mfizz-dreamhost$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-dreamhost"
+  },
+  "mfizz-elixir": {
+    "body": "<${1:i} class=\"mfizz-elixir$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-elixir"
+  },
+  "mfizz-erlang": {
+    "body": "<${1:i} class=\"mfizz-erlang$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-erlang"
+  },
+  "mfizz-exherbo": {
+    "body": "<${1:i} class=\"mfizz-exherbo$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-exherbo"
+  },
+  "mfizz-facebook": {
+    "body": "<${1:i} class=\"mfizz-facebook$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-facebook"
+  },
+  "mfizz-facebook-rect": {
+    "body": "<${1:i} class=\"mfizz-facebook-rect$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-facebook-rect"
+  },
+  "mfizz-fedora": {
+    "body": "<${1:i} class=\"mfizz-fedora$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-fedora"
+  },
+  "mfizz-fire-alt": {
+    "body": "<${1:i} class=\"mfizz-fire-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-fire-alt"
+  },
+  "mfizz-freebsd": {
+    "body": "<${1:i} class=\"mfizz-freebsd$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-freebsd"
+  },
+  "mfizz-friendfeed": {
+    "body": "<${1:i} class=\"mfizz-friendfeed$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-friendfeed"
+  },
+  "mfizz-friendfeed-rect": {
+    "body": "<${1:i} class=\"mfizz-friendfeed-rect$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-friendfeed-rect"
+  },
+  "mfizz-gentoo": {
+    "body": "<${1:i} class=\"mfizz-gentoo$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-gentoo"
+  },
+  "mfizz-ghost": {
+    "body": "<${1:i} class=\"mfizz-ghost$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-ghost"
+  },
+  "mfizz-git": {
+    "body": "<${1:i} class=\"mfizz-git$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-git"
+  },
+  "mfizz-github": {
+    "body": "<${1:i} class=\"mfizz-github$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-github"
+  },
+  "mfizz-github-text": {
+    "body": "<${1:i} class=\"mfizz-github-text$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-github-text"
+  },
+  "mfizz-gnome": {
+    "body": "<${1:i} class=\"mfizz-gnome$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-gnome"
+  },
+  "mfizz-google": {
+    "body": "<${1:i} class=\"mfizz-google$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-google"
+  },
+  "mfizz-google-alt": {
+    "body": "<${1:i} class=\"mfizz-google-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-google-alt"
+  },
+  "mfizz-google-code": {
+    "body": "<${1:i} class=\"mfizz-google-code$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-google-code"
+  },
+  "mfizz-google-developers": {
+    "body": "<${1:i} class=\"mfizz-google-developers$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-google-developers"
+  },
+  "mfizz-googleplus-rect": {
+    "body": "<${1:i} class=\"mfizz-googleplus-rect$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-googleplus-rect"
+  },
+  "mfizz-gradle": {
+    "body": "<${1:i} class=\"mfizz-gradle$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-gradle"
+  },
+  "mfizz-grails": {
+    "body": "<${1:i} class=\"mfizz-grails$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-grails"
+  },
+  "mfizz-grails-alt": {
+    "body": "<${1:i} class=\"mfizz-grails-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-grails-alt"
+  },
+  "mfizz-grunt": {
+    "body": "<${1:i} class=\"mfizz-grunt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-grunt"
+  },
+  "mfizz-hadoop": {
+    "body": "<${1:i} class=\"mfizz-hadoop$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-hadoop"
+  },
+  "mfizz-haskell": {
+    "body": "<${1:i} class=\"mfizz-haskell$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-haskell"
+  },
+  "mfizz-heroku": {
+    "body": "<${1:i} class=\"mfizz-heroku$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-heroku"
+  },
+  "mfizz-houzz": {
+    "body": "<${1:i} class=\"mfizz-houzz$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-houzz"
+  },
+  "mfizz-html": {
+    "body": "<${1:i} class=\"mfizz-html$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-html"
+  },
+  "mfizz-icq": {
+    "body": "<${1:i} class=\"mfizz-icq$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-icq"
+  },
+  "mfizz-instagram": {
+    "body": "<${1:i} class=\"mfizz-instagram$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-instagram"
+  },
+  "mfizz-instagram-filled": {
+    "body": "<${1:i} class=\"mfizz-instagram-filled$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-instagram-filled"
+  },
+  "mfizz-iphone": {
+    "body": "<${1:i} class=\"mfizz-iphone$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-iphone"
+  },
+  "mfizz-jabber": {
+    "body": "<${1:i} class=\"mfizz-jabber$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-jabber"
+  },
+  "mfizz-java": {
+    "body": "<${1:i} class=\"mfizz-java$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-java"
+  },
+  "mfizz-java-bold": {
+    "body": "<${1:i} class=\"mfizz-java-bold$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-java-bold"
+  },
+  "mfizz-java-duke": {
+    "body": "<${1:i} class=\"mfizz-java-duke$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-java-duke"
+  },
+  "mfizz-javascript": {
+    "body": "<${1:i} class=\"mfizz-javascript$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-javascript"
+  },
+  "mfizz-javascript-alt": {
+    "body": "<${1:i} class=\"mfizz-javascript-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-javascript-alt"
+  },
+  "mfizz-jetty": {
+    "body": "<${1:i} class=\"mfizz-jetty$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-jetty"
+  },
+  "mfizz-kde": {
+    "body": "<${1:i} class=\"mfizz-kde$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-kde"
+  },
+  "mfizz-laravel": {
+    "body": "<${1:i} class=\"mfizz-laravel$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-laravel"
+  },
+  "mfizz-lastfm": {
+    "body": "<${1:i} class=\"mfizz-lastfm$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-lastfm"
+  },
+  "mfizz-lastfm-rect": {
+    "body": "<${1:i} class=\"mfizz-lastfm-rect$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-lastfm-rect"
+  },
+  "mfizz-line-graph": {
+    "body": "<${1:i} class=\"mfizz-line-graph$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-line-graph"
+  },
+  "mfizz-linkedin": {
+    "body": "<${1:i} class=\"mfizz-linkedin$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-linkedin"
+  },
+  "mfizz-linkedin-rect": {
+    "body": "<${1:i} class=\"mfizz-linkedin-rect$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-linkedin-rect"
+  },
+  "mfizz-linux-mint": {
+    "body": "<${1:i} class=\"mfizz-linux-mint$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-linux-mint"
+  },
+  "mfizz-looking": {
+    "body": "<${1:i} class=\"mfizz-looking$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-looking"
+  },
+  "mfizz-mariadb": {
+    "body": "<${1:i} class=\"mfizz-mariadb$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-mariadb"
+  },
+  "mfizz-mastercard": {
+    "body": "<${1:i} class=\"mfizz-mastercard$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-mastercard"
+  },
+  "mfizz-maven": {
+    "body": "<${1:i} class=\"mfizz-maven$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-maven"
+  },
+  "mfizz-microscope": {
+    "body": "<${1:i} class=\"mfizz-microscope$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-microscope"
+  },
+  "mfizz-mobile-device": {
+    "body": "<${1:i} class=\"mfizz-mobile-device$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-mobile-device"
+  },
+  "mfizz-mobile-phone-alt": {
+    "body": "<${1:i} class=\"mfizz-mobile-phone-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-mobile-phone-alt"
+  },
+  "mfizz-mobile-phone-broadcast": {
+    "body": "<${1:i} class=\"mfizz-mobile-phone-broadcast$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-mobile-phone-broadcast"
+  },
+  "mfizz-mongodb": {
+    "body": "<${1:i} class=\"mfizz-mongodb$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-mongodb"
+  },
+  "mfizz-mssql": {
+    "body": "<${1:i} class=\"mfizz-mssql$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-mssql"
   },
   "mfizz-mysql": {
-    "prefix": "mfizz-mysql",
-    "body": "<${1:i} class=\"mfizz-mysql$2\"></${1:i}>$3"
+    "body": "<${1:i} class=\"mfizz-mysql$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-mysql"
+  },
+  "mfizz-mysql-alt": {
+    "body": "<${1:i} class=\"mfizz-mysql-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-mysql-alt"
+  },
+  "mfizz-netbsd": {
+    "body": "<${1:i} class=\"mfizz-netbsd$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-netbsd"
+  },
+  "mfizz-nginx": {
+    "body": "<${1:i} class=\"mfizz-nginx$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-nginx"
+  },
+  "mfizz-nginx-alt": {
+    "body": "<${1:i} class=\"mfizz-nginx-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-nginx-alt"
+  },
+  "mfizz-nginx-alt2": {
+    "body": "<${1:i} class=\"mfizz-nginx-alt2$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-nginx-alt2"
+  },
+  "mfizz-nodejs": {
+    "body": "<${1:i} class=\"mfizz-nodejs$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-nodejs"
+  },
+  "mfizz-objc": {
+    "body": "<${1:i} class=\"mfizz-objc$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-objc"
   },
   "mfizz-odnoklassniki": {
-    "prefix": "mfizz-odnoklassniki",
-    "body": "<${1:i} class=\"mfizz-odnoklassniki$2\"></${1:i}>$3"
+    "body": "<${1:i} class=\"mfizz-odnoklassniki$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-odnoklassniki"
+  },
+  "mfizz-odnoklassniki-rect": {
+    "body": "<${1:i} class=\"mfizz-odnoklassniki-rect$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-odnoklassniki-rect"
+  },
+  "mfizz-oracle": {
+    "body": "<${1:i} class=\"mfizz-oracle$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-oracle"
+  },
+  "mfizz-oracle-alt": {
+    "body": "<${1:i} class=\"mfizz-oracle-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-oracle-alt"
+  },
+  "mfizz-osx": {
+    "body": "<${1:i} class=\"mfizz-osx$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-osx"
+  },
+  "mfizz-perl": {
+    "body": "<${1:i} class=\"mfizz-perl$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-perl"
+  },
+  "mfizz-phone-alt": {
+    "body": "<${1:i} class=\"mfizz-phone-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-phone-alt"
+  },
+  "mfizz-phone-gap": {
+    "body": "<${1:i} class=\"mfizz-phone-gap$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-phone-gap"
+  },
+  "mfizz-phone-retro": {
+    "body": "<${1:i} class=\"mfizz-phone-retro$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-phone-retro"
+  },
+  "mfizz-php": {
+    "body": "<${1:i} class=\"mfizz-php$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-php"
+  },
+  "mfizz-php-alt": {
+    "body": "<${1:i} class=\"mfizz-php-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-php-alt"
+  },
+  "mfizz-picasa": {
+    "body": "<${1:i} class=\"mfizz-picasa$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-picasa"
+  },
+  "mfizz-playframework": {
+    "body": "<${1:i} class=\"mfizz-playframework$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-playframework"
+  },
+  "mfizz-playframework-alt": {
+    "body": "<${1:i} class=\"mfizz-playframework-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-playframework-alt"
+  },
+  "mfizz-plone": {
+    "body": "<${1:i} class=\"mfizz-plone$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-plone"
+  },
+  "mfizz-postgres": {
+    "body": "<${1:i} class=\"mfizz-postgres$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-postgres"
+  },
+  "mfizz-postgres-alt": {
+    "body": "<${1:i} class=\"mfizz-postgres-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-postgres-alt"
+  },
+  "mfizz-python": {
+    "body": "<${1:i} class=\"mfizz-python$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-python"
+  },
+  "mfizz-raspberrypi": {
+    "body": "<${1:i} class=\"mfizz-raspberrypi$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-raspberrypi"
+  },
+  "mfizz-redhat": {
+    "body": "<${1:i} class=\"mfizz-redhat$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-redhat"
+  },
+  "mfizz-redis": {
+    "body": "<${1:i} class=\"mfizz-redis$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-redis"
+  },
+  "mfizz-ruby": {
+    "body": "<${1:i} class=\"mfizz-ruby$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-ruby"
+  },
+  "mfizz-ruby-on-rails": {
+    "body": "<${1:i} class=\"mfizz-ruby-on-rails$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-ruby-on-rails"
+  },
+  "mfizz-ruby-on-rails-alt": {
+    "body": "<${1:i} class=\"mfizz-ruby-on-rails-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-ruby-on-rails-alt"
+  },
+  "mfizz-satellite": {
+    "body": "<${1:i} class=\"mfizz-satellite$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-satellite"
+  },
+  "mfizz-scala": {
+    "body": "<${1:i} class=\"mfizz-scala$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-scala"
+  },
+  "mfizz-scala-alt": {
+    "body": "<${1:i} class=\"mfizz-scala-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-scala-alt"
+  },
+  "mfizz-script": {
+    "body": "<${1:i} class=\"mfizz-script$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-script"
+  },
+  "mfizz-script-alt": {
+    "body": "<${1:i} class=\"mfizz-script-alt$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-script-alt"
+  },
+  "mfizz-shell": {
+    "body": "<${1:i} class=\"mfizz-shell$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-shell"
+  },
+  "mfizz-skype": {
+    "body": "<${1:i} class=\"mfizz-skype$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-skype"
+  },
+  "mfizz-solaris": {
+    "body": "<${1:i} class=\"mfizz-solaris$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-solaris"
+  },
+  "mfizz-splatter": {
+    "body": "<${1:i} class=\"mfizz-splatter$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-splatter"
+  },
+  "mfizz-spring": {
+    "body": "<${1:i} class=\"mfizz-spring$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-spring"
+  },
+  "mfizz-suse": {
+    "body": "<${1:i} class=\"mfizz-suse$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-suse"
+  },
+  "mfizz-svg": {
+    "body": "<${1:i} class=\"mfizz-svg$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-svg"
+  },
+  "mfizz-symfony": {
+    "body": "<${1:i} class=\"mfizz-symfony$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-symfony"
+  },
+  "mfizz-tomcat": {
+    "body": "<${1:i} class=\"mfizz-tomcat$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-tomcat"
+  },
+  "mfizz-tudou": {
+    "body": "<${1:i} class=\"mfizz-tudou$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-tudou"
+  },
+  "mfizz-tumblr": {
+    "body": "<${1:i} class=\"mfizz-tumblr$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-tumblr"
+  },
+  "mfizz-tumblr-rect": {
+    "body": "<${1:i} class=\"mfizz-tumblr-rect$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-tumblr-rect"
+  },
+  "mfizz-twitter": {
+    "body": "<${1:i} class=\"mfizz-twitter$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-twitter"
+  },
+  "mfizz-twitter-bird": {
+    "body": "<${1:i} class=\"mfizz-twitter-bird$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-twitter-bird"
+  },
+  "mfizz-ubuntu": {
+    "body": "<${1:i} class=\"mfizz-ubuntu$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-ubuntu"
+  },
+  "mfizz-vimeo": {
+    "body": "<${1:i} class=\"mfizz-vimeo$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-vimeo"
+  },
+  "mfizz-vimeo-rect": {
+    "body": "<${1:i} class=\"mfizz-vimeo-rect$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-vimeo-rect"
+  },
+  "mfizz-visa": {
+    "body": "<${1:i} class=\"mfizz-visa$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-visa"
+  },
+  "mfizz-vkontakte-rect": {
+    "body": "<${1:i} class=\"mfizz-vkontakte-rect$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-vkontakte-rect"
+  },
+  "mfizz-win8": {
+    "body": "<${1:i} class=\"mfizz-win8$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-win8"
+  },
+  "mfizz-wireless": {
+    "body": "<${1:i} class=\"mfizz-wireless$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-wireless"
+  },
+  "mfizz-wordpress": {
+    "body": "<${1:i} class=\"mfizz-wordpress$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-wordpress"
+  },
+  "mfizz-yandex": {
+    "body": "<${1:i} class=\"mfizz-yandex$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-yandex"
+  },
+  "mfizz-yandex-rect": {
+    "body": "<${1:i} class=\"mfizz-yandex-rect$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-yandex-rect"
+  },
+  "mfizz-youku": {
+    "body": "<${1:i} class=\"mfizz-youku$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "mfizz-youku"
   }
 }

@@ -1,506 +1,632 @@
 {
-  "openwebicons-sub": {
-    "prefix": "openwebicons-sub",
-    "body": "<${1:i} class=\"openwebicons-sub$2\"></${1:i}>$3"
-  },
-  "openwebicons-ofl-renaming": {
-    "prefix": "openwebicons-ofl-renaming",
-    "body": "<${1:i} class=\"openwebicons-ofl-renaming$2\"></${1:i}>$3"
-  },
-  "openwebicons-opensourcedesign": {
-    "prefix": "openwebicons-opensourcedesign",
-    "body": "<${1:i} class=\"openwebicons-opensourcedesign$2\"></${1:i}>$3"
-  },
-  "openwebicons-rdf": {
-    "prefix": "openwebicons-rdf",
-    "body": "<${1:i} class=\"openwebicons-rdf$2\"></${1:i}>$3"
+  "openwebicons-3deffects": {
+    "body": "<${1:i} class=\"openwebicons-3deffects$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-3deffects"
   },
   "openwebicons-activity-colored": {
-    "prefix": "openwebicons-activity-colored",
-    "body": "<${1:i} class=\"openwebicons-activity-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-opensearch-colored": {
-    "prefix": "openwebicons-opensearch-colored",
-    "body": "<${1:i} class=\"openwebicons-opensearch-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-odata-colored": {
-    "prefix": "openwebicons-odata-colored",
-    "body": "<${1:i} class=\"openwebicons-odata-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-copyleft": {
-    "prefix": "openwebicons-copyleft",
-    "body": "<${1:i} class=\"openwebicons-copyleft$2\"></${1:i}>$3"
-  },
-  "openwebicons-share-colored": {
-    "prefix": "openwebicons-share-colored",
-    "body": "<${1:i} class=\"openwebicons-share-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-hubbub": {
-    "prefix": "openwebicons-hubbub",
-    "body": "<${1:i} class=\"openwebicons-hubbub$2\"></${1:i}>$3"
-  },
-  "openwebicons-feed": {
-    "prefix": "openwebicons-feed",
-    "body": "<${1:i} class=\"openwebicons-feed$2\"></${1:i}>$3"
-  },
-  "openwebicons-openid": {
-    "prefix": "openwebicons-openid",
-    "body": "<${1:i} class=\"openwebicons-openid$2\"></${1:i}>$3"
-  },
-  "openwebicons-xmpp": {
-    "prefix": "openwebicons-xmpp",
-    "body": "<${1:i} class=\"openwebicons-xmpp$2\"></${1:i}>$3"
-  },
-  "openwebicons-open-share-simple": {
-    "prefix": "openwebicons-open-share-simple",
-    "body": "<${1:i} class=\"openwebicons-open-share-simple$2\"></${1:i}>$3"
-  },
-  "openwebicons-federated": {
-    "prefix": "openwebicons-federated",
-    "body": "<${1:i} class=\"openwebicons-federated$2\"></${1:i}>$3"
-  },
-  "openwebicons-cc-zero": {
-    "prefix": "openwebicons-cc-zero",
-    "body": "<${1:i} class=\"openwebicons-cc-zero$2\"></${1:i}>$3"
-  },
-  "openwebicons-css3": {
-    "prefix": "openwebicons-css3",
-    "body": "<${1:i} class=\"openwebicons-css3$2\"></${1:i}>$3"
-  },
-  "openwebicons-hubbub-colored": {
-    "prefix": "openwebicons-hubbub-colored",
-    "body": "<${1:i} class=\"openwebicons-hubbub-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-bitcoin": {
-    "prefix": "openwebicons-bitcoin",
-    "body": "<${1:i} class=\"openwebicons-bitcoin$2\"></${1:i}>$3"
-  },
-  "openwebicons-ostatus-simple": {
-    "prefix": "openwebicons-ostatus-simple",
-    "body": "<${1:i} class=\"openwebicons-ostatus-simple$2\"></${1:i}>$3"
-  },
-  "openwebicons-microformats": {
-    "prefix": "openwebicons-microformats",
-    "body": "<${1:i} class=\"openwebicons-microformats$2\"></${1:i}>$3"
-  },
-  "openwebicons-opensource": {
-    "prefix": "openwebicons-opensource",
-    "body": "<${1:i} class=\"openwebicons-opensource$2\"></${1:i}>$3"
-  },
-  "openwebicons-javascript": {
-    "prefix": "openwebicons-javascript",
-    "body": "<${1:i} class=\"openwebicons-javascript$2\"></${1:i}>$3"
-  },
-  "openwebicons-cc-sa": {
-    "prefix": "openwebicons-cc-sa",
-    "body": "<${1:i} class=\"openwebicons-cc-sa$2\"></${1:i}>$3"
-  },
-  "openwebicons-owncloud": {
-    "prefix": "openwebicons-owncloud",
-    "body": "<${1:i} class=\"openwebicons-owncloud$2\"></${1:i}>$3"
-  },
-  "openwebicons-pubsubhubbub": {
-    "prefix": "openwebicons-pubsubhubbub",
-    "body": "<${1:i} class=\"openwebicons-pubsubhubbub$2\"></${1:i}>$3"
-  },
-  "openwebicons-cc-share": {
-    "prefix": "openwebicons-cc-share",
-    "body": "<${1:i} class=\"openwebicons-cc-share$2\"></${1:i}>$3"
-  },
-  "openwebicons-browserid": {
-    "prefix": "openwebicons-browserid",
-    "body": "<${1:i} class=\"openwebicons-browserid$2\"></${1:i}>$3"
-  },
-  "openwebicons-cc-nc-jp": {
-    "prefix": "openwebicons-cc-nc-jp",
-    "body": "<${1:i} class=\"openwebicons-cc-nc-jp$2\"></${1:i}>$3"
-  },
-  "openwebicons-info-card-colored": {
-    "prefix": "openwebicons-info-card-colored",
-    "body": "<${1:i} class=\"openwebicons-info-card-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-opml-colored": {
-    "prefix": "openwebicons-opml-colored",
-    "body": "<${1:i} class=\"openwebicons-opml-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-ofl": {
-    "prefix": "openwebicons-ofl",
-    "body": "<${1:i} class=\"openwebicons-ofl$2\"></${1:i}>$3"
-  },
-  "openwebicons-ghost": {
-    "prefix": "openwebicons-ghost",
-    "body": "<${1:i} class=\"openwebicons-ghost$2\"></${1:i}>$3"
-  },
-  "openwebicons-ofl-embedding": {
-    "prefix": "openwebicons-ofl-embedding",
-    "body": "<${1:i} class=\"openwebicons-ofl-embedding$2\"></${1:i}>$3"
-  },
-  "openwebicons-microformats-colored": {
-    "prefix": "openwebicons-microformats-colored",
-    "body": "<${1:i} class=\"openwebicons-microformats-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-hresume": {
-    "prefix": "openwebicons-hresume",
-    "body": "<${1:i} class=\"openwebicons-hresume$2\"></${1:i}>$3"
-  },
-  "openwebicons-oauth": {
-    "prefix": "openwebicons-oauth",
-    "body": "<${1:i} class=\"openwebicons-oauth$2\"></${1:i}>$3"
-  },
-  "openwebicons-ostatus-colored": {
-    "prefix": "openwebicons-ostatus-colored",
-    "body": "<${1:i} class=\"openwebicons-ostatus-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-cc-nd": {
-    "prefix": "openwebicons-cc-nd",
-    "body": "<${1:i} class=\"openwebicons-cc-nd$2\"></${1:i}>$3"
-  },
-  "openwebicons-gnusocial-simple": {
-    "prefix": "openwebicons-gnusocial-simple",
-    "body": "<${1:i} class=\"openwebicons-gnusocial-simple$2\"></${1:i}>$3"
-  },
-  "openwebicons-activity": {
-    "prefix": "openwebicons-activity",
-    "body": "<${1:i} class=\"openwebicons-activity$2\"></${1:i}>$3"
-  },
-  "openwebicons-semantics": {
-    "prefix": "openwebicons-semantics",
-    "body": "<${1:i} class=\"openwebicons-semantics$2\"></${1:i}>$3"
-  },
-  "openwebicons-mozilla": {
-    "prefix": "openwebicons-mozilla",
-    "body": "<${1:i} class=\"openwebicons-mozilla$2\"></${1:i}>$3"
-  },
-  "openwebicons-wordpress": {
-    "prefix": "openwebicons-wordpress",
-    "body": "<${1:i} class=\"openwebicons-wordpress$2\"></${1:i}>$3"
-  },
-  "openwebicons-svg": {
-    "prefix": "openwebicons-svg",
-    "body": "<${1:i} class=\"openwebicons-svg$2\"></${1:i}>$3"
-  },
-  "openwebicons-sub-colored": {
-    "prefix": "openwebicons-sub-colored",
-    "body": "<${1:i} class=\"openwebicons-sub-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-ostatus": {
-    "prefix": "openwebicons-ostatus",
-    "body": "<${1:i} class=\"openwebicons-ostatus$2\"></${1:i}>$3"
-  },
-  "openwebicons-offline-storage": {
-    "prefix": "openwebicons-offline-storage",
-    "body": "<${1:i} class=\"openwebicons-offline-storage$2\"></${1:i}>$3"
-  },
-  "openwebicons-feed-simple": {
-    "prefix": "openwebicons-feed-simple",
-    "body": "<${1:i} class=\"openwebicons-feed-simple$2\"></${1:i}>$3"
-  },
-  "openwebicons-rdfa": {
-    "prefix": "openwebicons-rdfa",
-    "body": "<${1:i} class=\"openwebicons-rdfa$2\"></${1:i}>$3"
-  },
-  "openwebicons-remote-storage-colored": {
-    "prefix": "openwebicons-remote-storage-colored",
-    "body": "<${1:i} class=\"openwebicons-remote-storage-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-git-colored": {
-    "prefix": "openwebicons-git-colored",
-    "body": "<${1:i} class=\"openwebicons-git-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-diaspora": {
-    "prefix": "openwebicons-diaspora",
-    "body": "<${1:i} class=\"openwebicons-diaspora$2\"></${1:i}>$3"
-  },
-  "openwebicons-pub": {
-    "prefix": "openwebicons-pub",
-    "body": "<${1:i} class=\"openwebicons-pub$2\"></${1:i}>$3"
-  },
-  "openwebicons-javascript-colored": {
-    "prefix": "openwebicons-javascript-colored",
-    "body": "<${1:i} class=\"openwebicons-javascript-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-feed-colored": {
-    "prefix": "openwebicons-feed-colored",
-    "body": "<${1:i} class=\"openwebicons-feed-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-semantic-web": {
-    "prefix": "openwebicons-semantic-web",
-    "body": "<${1:i} class=\"openwebicons-semantic-web$2\"></${1:i}>$3"
-  },
-  "openwebicons-epub": {
-    "prefix": "openwebicons-epub",
-    "body": "<${1:i} class=\"openwebicons-epub$2\"></${1:i}>$3"
-  },
-  "openwebicons-persona": {
-    "prefix": "openwebicons-persona",
-    "body": "<${1:i} class=\"openwebicons-persona$2\"></${1:i}>$3"
-  },
-  "openwebicons-ofl-share": {
-    "prefix": "openwebicons-ofl-share",
-    "body": "<${1:i} class=\"openwebicons-ofl-share$2\"></${1:i}>$3"
-  },
-  "openwebicons-pub-colored": {
-    "prefix": "openwebicons-pub-colored",
-    "body": "<${1:i} class=\"openwebicons-pub-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-markdown": {
-    "prefix": "openwebicons-markdown",
-    "body": "<${1:i} class=\"openwebicons-markdown$2\"></${1:i}>$3"
-  },
-  "openwebicons-multimedia": {
-    "prefix": "openwebicons-multimedia",
-    "body": "<${1:i} class=\"openwebicons-multimedia$2\"></${1:i}>$3"
-  },
-  "openwebicons-cccs": {
-    "prefix": "openwebicons-cccs",
-    "body": "<${1:i} class=\"openwebicons-cccs$2\"></${1:i}>$3"
-  },
-  "openwebicons-open-web": {
-    "prefix": "openwebicons-open-web",
-    "body": "<${1:i} class=\"openwebicons-open-web$2\"></${1:i}>$3"
-  },
-  "openwebicons-opendesign": {
-    "prefix": "openwebicons-opendesign",
-    "body": "<${1:i} class=\"openwebicons-opendesign$2\"></${1:i}>$3"
-  },
-  "openwebicons-device-access": {
-    "prefix": "openwebicons-device-access",
-    "body": "<${1:i} class=\"openwebicons-device-access$2\"></${1:i}>$3"
-  },
-  "openwebicons-cc-public": {
-    "prefix": "openwebicons-cc-public",
-    "body": "<${1:i} class=\"openwebicons-cc-public$2\"></${1:i}>$3"
-  },
-  "openwebicons-html5-colored": {
-    "prefix": "openwebicons-html5-colored",
-    "body": "<${1:i} class=\"openwebicons-html5-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-tosdr": {
-    "prefix": "openwebicons-tosdr",
-    "body": "<${1:i} class=\"openwebicons-tosdr$2\"></${1:i}>$3"
-  },
-  "openwebicons-webhooks": {
-    "prefix": "openwebicons-webhooks",
-    "body": "<${1:i} class=\"openwebicons-webhooks$2\"></${1:i}>$3"
-  },
-  "openwebicons-remote-storage": {
-    "prefix": "openwebicons-remote-storage",
-    "body": "<${1:i} class=\"openwebicons-remote-storage$2\"></${1:i}>$3"
-  },
-  "openwebicons-cc": {
-    "prefix": "openwebicons-cc",
-    "body": "<${1:i} class=\"openwebicons-cc$2\"></${1:i}>$3"
-  },
-  "openwebicons-hcard-add": {
-    "prefix": "openwebicons-hcard-add",
-    "body": "<${1:i} class=\"openwebicons-hcard-add$2\"></${1:i}>$3"
-  },
-  "openwebicons-ofl-attribution": {
-    "prefix": "openwebicons-ofl-attribution",
-    "body": "<${1:i} class=\"openwebicons-ofl-attribution$2\"></${1:i}>$3"
-  },
-  "openwebicons-indie": {
-    "prefix": "openwebicons-indie",
-    "body": "<${1:i} class=\"openwebicons-indie$2\"></${1:i}>$3"
-  },
-  "openwebicons-cc-nc-eu": {
-    "prefix": "openwebicons-cc-nc-eu",
-    "body": "<${1:i} class=\"openwebicons-cc-nc-eu$2\"></${1:i}>$3"
-  },
-  "openwebicons-cc-by": {
-    "prefix": "openwebicons-cc-by",
-    "body": "<${1:i} class=\"openwebicons-cc-by$2\"></${1:i}>$3"
-  },
-  "openwebicons-indiewebcamp": {
-    "prefix": "openwebicons-indiewebcamp",
-    "body": "<${1:i} class=\"openwebicons-indiewebcamp$2\"></${1:i}>$3"
-  },
-  "openwebicons-webmention": {
-    "prefix": "openwebicons-webmention",
-    "body": "<${1:i} class=\"openwebicons-webmention$2\"></${1:i}>$3"
-  },
-  "openwebicons-webfinger": {
-    "prefix": "openwebicons-webfinger",
-    "body": "<${1:i} class=\"openwebicons-webfinger$2\"></${1:i}>$3"
-  },
-  "openwebicons-geo-colored": {
-    "prefix": "openwebicons-geo-colored",
-    "body": "<${1:i} class=\"openwebicons-geo-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-epub-colored": {
-    "prefix": "openwebicons-epub-colored",
-    "body": "<${1:i} class=\"openwebicons-epub-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-share-simple": {
-    "prefix": "openwebicons-share-simple",
-    "body": "<${1:i} class=\"openwebicons-share-simple$2\"></${1:i}>$3"
-  },
-  "openwebicons-apml": {
-    "prefix": "openwebicons-apml",
-    "body": "<${1:i} class=\"openwebicons-apml$2\"></${1:i}>$3"
-  },
-  "openwebicons-opml": {
-    "prefix": "openwebicons-opml",
-    "body": "<${1:i} class=\"openwebicons-opml$2\"></${1:i}>$3"
-  },
-  "openwebicons-open-share-colored": {
-    "prefix": "openwebicons-open-share-colored",
-    "body": "<${1:i} class=\"openwebicons-open-share-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-dataportability": {
-    "prefix": "openwebicons-dataportability",
-    "body": "<${1:i} class=\"openwebicons-dataportability$2\"></${1:i}>$3"
-  },
-  "openwebicons-git": {
-    "prefix": "openwebicons-git",
-    "body": "<${1:i} class=\"openwebicons-git$2\"></${1:i}>$3"
-  },
-  "openwebicons-open-share": {
-    "prefix": "openwebicons-open-share",
-    "body": "<${1:i} class=\"openwebicons-open-share$2\"></${1:i}>$3"
-  },
-  "openwebicons-geo": {
-    "prefix": "openwebicons-geo",
-    "body": "<${1:i} class=\"openwebicons-geo$2\"></${1:i}>$3"
-  },
-  "openwebicons-apml-colored": {
-    "prefix": "openwebicons-apml-colored",
-    "body": "<${1:i} class=\"openwebicons-apml-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-unhosted": {
-    "prefix": "openwebicons-unhosted",
-    "body": "<${1:i} class=\"openwebicons-unhosted$2\"></${1:i}>$3"
-  },
-  "openwebicons-qr": {
-    "prefix": "openwebicons-qr",
-    "body": "<${1:i} class=\"openwebicons-qr$2\"></${1:i}>$3"
-  },
-  "openwebicons-osi": {
-    "prefix": "openwebicons-osi",
-    "body": "<${1:i} class=\"openwebicons-osi$2\"></${1:i}>$3"
-  },
-  "openwebicons-indieweb": {
-    "prefix": "openwebicons-indieweb",
-    "body": "<${1:i} class=\"openwebicons-indieweb$2\"></${1:i}>$3"
-  },
-  "openwebicons-opengraph": {
-    "prefix": "openwebicons-opengraph",
-    "body": "<${1:i} class=\"openwebicons-opengraph$2\"></${1:i}>$3"
-  },
-  "openwebicons-odata": {
-    "prefix": "openwebicons-odata",
-    "body": "<${1:i} class=\"openwebicons-odata$2\"></${1:i}>$3"
-  },
-  "openwebicons-foaf": {
-    "prefix": "openwebicons-foaf",
-    "body": "<${1:i} class=\"openwebicons-foaf$2\"></${1:i}>$3"
-  },
-  "openwebicons-connectivity": {
-    "prefix": "openwebicons-connectivity",
-    "body": "<${1:i} class=\"openwebicons-connectivity$2\"></${1:i}>$3"
-  },
-  "openwebicons-opensource-colored": {
-    "prefix": "openwebicons-opensource-colored",
-    "body": "<${1:i} class=\"openwebicons-opensource-colored$2\"></${1:i}>$3"
-  },
-  "openwebicons-indiehosters": {
-    "prefix": "openwebicons-indiehosters",
-    "body": "<${1:i} class=\"openwebicons-indiehosters$2\"></${1:i}>$3"
-  },
-  "openwebicons-barcamp": {
-    "prefix": "openwebicons-barcamp",
-    "body": "<${1:i} class=\"openwebicons-barcamp$2\"></${1:i}>$3"
-  },
-  "openwebicons-tent": {
-    "prefix": "openwebicons-tent",
-    "body": "<${1:i} class=\"openwebicons-tent$2\"></${1:i}>$3"
-  },
-  "openwebicons-html5": {
-    "prefix": "openwebicons-html5",
-    "body": "<${1:i} class=\"openwebicons-html5$2\"></${1:i}>$3"
-  },
-  "openwebicons-hatom": {
-    "prefix": "openwebicons-hatom",
-    "body": "<${1:i} class=\"openwebicons-hatom$2\"></${1:i}>$3"
-  },
-  "openwebicons-gnusocial": {
-    "prefix": "openwebicons-gnusocial",
-    "body": "<${1:i} class=\"openwebicons-gnusocial$2\"></${1:i}>$3"
-  },
-  "openwebicons-info-card": {
-    "prefix": "openwebicons-info-card",
-    "body": "<${1:i} class=\"openwebicons-info-card$2\"></${1:i}>$3"
-  },
-  "openwebicons-wtfpl": {
-    "prefix": "openwebicons-wtfpl",
-    "body": "<${1:i} class=\"openwebicons-wtfpl$2\"></${1:i}>$3"
+    "body": "<${1:i} class=\"openwebicons-activity-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-activity-colored"
   },
   "openwebicons-activity-simple": {
-    "prefix": "openwebicons-activity-simple",
-    "body": "<${1:i} class=\"openwebicons-activity-simple$2\"></${1:i}>$3"
+    "body": "<${1:i} class=\"openwebicons-activity-simple$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-activity-simple"
   },
-  "openwebicons-owl": {
-    "prefix": "openwebicons-owl",
-    "body": "<${1:i} class=\"openwebicons-owl$2\"></${1:i}>$3"
+  "openwebicons-activity": {
+    "body": "<${1:i} class=\"openwebicons-activity$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-activity"
   },
-  "openwebicons-perfintegration": {
-    "prefix": "openwebicons-perfintegration",
-    "body": "<${1:i} class=\"openwebicons-perfintegration$2\"></${1:i}>$3"
+  "openwebicons-apml-colored": {
+    "body": "<${1:i} class=\"openwebicons-apml-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-apml-colored"
+  },
+  "openwebicons-apml": {
+    "body": "<${1:i} class=\"openwebicons-apml$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-apml"
+  },
+  "openwebicons-barcamp": {
+    "body": "<${1:i} class=\"openwebicons-barcamp$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-barcamp"
   },
   "openwebicons-bitcoin-simple": {
-    "prefix": "openwebicons-bitcoin-simple",
-    "body": "<${1:i} class=\"openwebicons-bitcoin-simple$2\"></${1:i}>$3"
+    "body": "<${1:i} class=\"openwebicons-bitcoin-simple$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-bitcoin-simple"
   },
-  "openwebicons-hcard-download": {
-    "prefix": "openwebicons-hcard-download",
-    "body": "<${1:i} class=\"openwebicons-hcard-download$2\"></${1:i}>$3"
+  "openwebicons-bitcoin": {
+    "body": "<${1:i} class=\"openwebicons-bitcoin$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-bitcoin"
   },
-  "openwebicons-opensearch": {
-    "prefix": "openwebicons-opensearch",
-    "body": "<${1:i} class=\"openwebicons-opensearch$2\"></${1:i}>$3"
+  "openwebicons-browserid": {
+    "body": "<${1:i} class=\"openwebicons-browserid$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-browserid"
   },
-  "openwebicons-share": {
-    "prefix": "openwebicons-share",
-    "body": "<${1:i} class=\"openwebicons-share$2\"></${1:i}>$3"
+  "openwebicons-cc-by": {
+    "body": "<${1:i} class=\"openwebicons-cc-by$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-cc-by"
   },
-  "openwebicons-3deffects": {
-    "prefix": "openwebicons-3deffects",
-    "body": "<${1:i} class=\"openwebicons-3deffects$2\"></${1:i}>$3"
+  "openwebicons-cc-nc-eu": {
+    "body": "<${1:i} class=\"openwebicons-cc-nc-eu$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-cc-nc-eu"
   },
-  "openwebicons-web-intents": {
-    "prefix": "openwebicons-web-intents",
-    "body": "<${1:i} class=\"openwebicons-web-intents$2\"></${1:i}>$3"
-  },
-  "openwebicons-webplattform": {
-    "prefix": "openwebicons-webplattform",
-    "body": "<${1:i} class=\"openwebicons-webplattform$2\"></${1:i}>$3"
-  },
-  "openwebicons-known": {
-    "prefix": "openwebicons-known",
-    "body": "<${1:i} class=\"openwebicons-known$2\"></${1:i}>$3"
-  },
-  "openwebicons-ofl-selling": {
-    "prefix": "openwebicons-ofl-selling",
-    "body": "<${1:i} class=\"openwebicons-ofl-selling$2\"></${1:i}>$3"
-  },
-  "openwebicons-json-ld": {
-    "prefix": "openwebicons-json-ld",
-    "body": "<${1:i} class=\"openwebicons-json-ld$2\"></${1:i}>$3"
+  "openwebicons-cc-nc-jp": {
+    "body": "<${1:i} class=\"openwebicons-cc-nc-jp$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-cc-nc-jp"
   },
   "openwebicons-cc-nc": {
-    "prefix": "openwebicons-cc-nc",
-    "body": "<${1:i} class=\"openwebicons-cc-nc$2\"></${1:i}>$3"
+    "body": "<${1:i} class=\"openwebicons-cc-nc$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-cc-nc"
+  },
+  "openwebicons-cc-nd": {
+    "body": "<${1:i} class=\"openwebicons-cc-nd$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-cc-nd"
+  },
+  "openwebicons-cc-public": {
+    "body": "<${1:i} class=\"openwebicons-cc-public$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-cc-public"
   },
   "openwebicons-cc-remix": {
-    "prefix": "openwebicons-cc-remix",
-    "body": "<${1:i} class=\"openwebicons-cc-remix$2\"></${1:i}>$3"
+    "body": "<${1:i} class=\"openwebicons-cc-remix$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-cc-remix"
   },
-  "openwebicons-osi-colored": {
-    "prefix": "openwebicons-osi-colored",
-    "body": "<${1:i} class=\"openwebicons-osi-colored$2\"></${1:i}>$3"
+  "openwebicons-cc-sa": {
+    "body": "<${1:i} class=\"openwebicons-cc-sa$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-cc-sa"
+  },
+  "openwebicons-cc-share": {
+    "body": "<${1:i} class=\"openwebicons-cc-share$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-cc-share"
+  },
+  "openwebicons-cc-zero": {
+    "body": "<${1:i} class=\"openwebicons-cc-zero$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-cc-zero"
+  },
+  "openwebicons-cc": {
+    "body": "<${1:i} class=\"openwebicons-cc$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-cc"
+  },
+  "openwebicons-cccs": {
+    "body": "<${1:i} class=\"openwebicons-cccs$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-cccs"
+  },
+  "openwebicons-connectivity": {
+    "body": "<${1:i} class=\"openwebicons-connectivity$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-connectivity"
+  },
+  "openwebicons-copyleft": {
+    "body": "<${1:i} class=\"openwebicons-copyleft$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-copyleft"
+  },
+  "openwebicons-css3": {
+    "body": "<${1:i} class=\"openwebicons-css3$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-css3"
+  },
+  "openwebicons-dataportability": {
+    "body": "<${1:i} class=\"openwebicons-dataportability$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-dataportability"
+  },
+  "openwebicons-device-access": {
+    "body": "<${1:i} class=\"openwebicons-device-access$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-device-access"
+  },
+  "openwebicons-diaspora": {
+    "body": "<${1:i} class=\"openwebicons-diaspora$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-diaspora"
+  },
+  "openwebicons-epub-colored": {
+    "body": "<${1:i} class=\"openwebicons-epub-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-epub-colored"
+  },
+  "openwebicons-epub": {
+    "body": "<${1:i} class=\"openwebicons-epub$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-epub"
+  },
+  "openwebicons-federated": {
+    "body": "<${1:i} class=\"openwebicons-federated$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-federated"
+  },
+  "openwebicons-feed-colored": {
+    "body": "<${1:i} class=\"openwebicons-feed-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-feed-colored"
+  },
+  "openwebicons-feed-simple": {
+    "body": "<${1:i} class=\"openwebicons-feed-simple$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-feed-simple"
+  },
+  "openwebicons-feed": {
+    "body": "<${1:i} class=\"openwebicons-feed$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-feed"
+  },
+  "openwebicons-foaf": {
+    "body": "<${1:i} class=\"openwebicons-foaf$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-foaf"
+  },
+  "openwebicons-geo-colored": {
+    "body": "<${1:i} class=\"openwebicons-geo-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-geo-colored"
+  },
+  "openwebicons-geo": {
+    "body": "<${1:i} class=\"openwebicons-geo$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-geo"
+  },
+  "openwebicons-ghost": {
+    "body": "<${1:i} class=\"openwebicons-ghost$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-ghost"
+  },
+  "openwebicons-git-colored": {
+    "body": "<${1:i} class=\"openwebicons-git-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-git-colored"
+  },
+  "openwebicons-git": {
+    "body": "<${1:i} class=\"openwebicons-git$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-git"
   },
   "openwebicons-gnu": {
-    "prefix": "openwebicons-gnu",
-    "body": "<${1:i} class=\"openwebicons-gnu$2\"></${1:i}>$3"
+    "body": "<${1:i} class=\"openwebicons-gnu$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-gnu"
+  },
+  "openwebicons-gnusocial": {
+    "body": "<${1:i} class=\"openwebicons-gnusocial$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-gnusocial"
+  },
+  "openwebicons-gnusocial-simple": {
+    "body": "<${1:i} class=\"openwebicons-gnusocial-simple$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-gnusocial-simple"
+  },
+  "openwebicons-hatom": {
+    "body": "<${1:i} class=\"openwebicons-hatom$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-hatom"
+  },
+  "openwebicons-hcard-add": {
+    "body": "<${1:i} class=\"openwebicons-hcard-add$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-hcard-add"
+  },
+  "openwebicons-hcard-download": {
+    "body": "<${1:i} class=\"openwebicons-hcard-download$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-hcard-download"
+  },
+  "openwebicons-hresume": {
+    "body": "<${1:i} class=\"openwebicons-hresume$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-hresume"
+  },
+  "openwebicons-html5-colored": {
+    "body": "<${1:i} class=\"openwebicons-html5-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-html5-colored"
+  },
+  "openwebicons-html5": {
+    "body": "<${1:i} class=\"openwebicons-html5$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-html5"
+  },
+  "openwebicons-hubbub-colored": {
+    "body": "<${1:i} class=\"openwebicons-hubbub-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-hubbub-colored"
+  },
+  "openwebicons-hubbub": {
+    "body": "<${1:i} class=\"openwebicons-hubbub$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-hubbub"
+  },
+  "openwebicons-indie": {
+    "body": "<${1:i} class=\"openwebicons-indie$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-indie"
+  },
+  "openwebicons-indiehosters": {
+    "body": "<${1:i} class=\"openwebicons-indiehosters$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-indiehosters"
+  },
+  "openwebicons-indieweb": {
+    "body": "<${1:i} class=\"openwebicons-indieweb$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-indieweb"
+  },
+  "openwebicons-indiewebcamp": {
+    "body": "<${1:i} class=\"openwebicons-indiewebcamp$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-indiewebcamp"
+  },
+  "openwebicons-info-card-colored": {
+    "body": "<${1:i} class=\"openwebicons-info-card-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-info-card-colored"
+  },
+  "openwebicons-info-card": {
+    "body": "<${1:i} class=\"openwebicons-info-card$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-info-card"
+  },
+  "openwebicons-javascript-colored": {
+    "body": "<${1:i} class=\"openwebicons-javascript-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-javascript-colored"
+  },
+  "openwebicons-javascript": {
+    "body": "<${1:i} class=\"openwebicons-javascript$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-javascript"
+  },
+  "openwebicons-json-ld": {
+    "body": "<${1:i} class=\"openwebicons-json-ld$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-json-ld"
+  },
+  "openwebicons-known": {
+    "body": "<${1:i} class=\"openwebicons-known$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-known"
+  },
+  "openwebicons-markdown": {
+    "body": "<${1:i} class=\"openwebicons-markdown$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-markdown"
+  },
+  "openwebicons-microformats-colored": {
+    "body": "<${1:i} class=\"openwebicons-microformats-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-microformats-colored"
+  },
+  "openwebicons-microformats": {
+    "body": "<${1:i} class=\"openwebicons-microformats$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-microformats"
+  },
+  "openwebicons-mozilla": {
+    "body": "<${1:i} class=\"openwebicons-mozilla$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-mozilla"
+  },
+  "openwebicons-multimedia": {
+    "body": "<${1:i} class=\"openwebicons-multimedia$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-multimedia"
+  },
+  "openwebicons-oauth": {
+    "body": "<${1:i} class=\"openwebicons-oauth$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-oauth"
+  },
+  "openwebicons-odata-colored": {
+    "body": "<${1:i} class=\"openwebicons-odata-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-odata-colored"
+  },
+  "openwebicons-odata": {
+    "body": "<${1:i} class=\"openwebicons-odata$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-odata"
+  },
+  "openwebicons-offline-storage": {
+    "body": "<${1:i} class=\"openwebicons-offline-storage$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-offline-storage"
+  },
+  "openwebicons-ofl-attribution": {
+    "body": "<${1:i} class=\"openwebicons-ofl-attribution$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-ofl-attribution"
+  },
+  "openwebicons-ofl-embedding": {
+    "body": "<${1:i} class=\"openwebicons-ofl-embedding$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-ofl-embedding"
+  },
+  "openwebicons-ofl-renaming": {
+    "body": "<${1:i} class=\"openwebicons-ofl-renaming$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-ofl-renaming"
+  },
+  "openwebicons-ofl-selling": {
+    "body": "<${1:i} class=\"openwebicons-ofl-selling$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-ofl-selling"
+  },
+  "openwebicons-ofl-share": {
+    "body": "<${1:i} class=\"openwebicons-ofl-share$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-ofl-share"
+  },
+  "openwebicons-ofl": {
+    "body": "<${1:i} class=\"openwebicons-ofl$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-ofl"
+  },
+  "openwebicons-open-share-colored": {
+    "body": "<${1:i} class=\"openwebicons-open-share-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-open-share-colored"
+  },
+  "openwebicons-open-share-simple": {
+    "body": "<${1:i} class=\"openwebicons-open-share-simple$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-open-share-simple"
+  },
+  "openwebicons-open-share": {
+    "body": "<${1:i} class=\"openwebicons-open-share$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-open-share"
+  },
+  "openwebicons-open-web": {
+    "body": "<${1:i} class=\"openwebicons-open-web$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-open-web"
+  },
+  "openwebicons-opendesign": {
+    "body": "<${1:i} class=\"openwebicons-opendesign$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-opendesign"
+  },
+  "openwebicons-opengraph": {
+    "body": "<${1:i} class=\"openwebicons-opengraph$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-opengraph"
+  },
+  "openwebicons-openid": {
+    "body": "<${1:i} class=\"openwebicons-openid$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-openid"
+  },
+  "openwebicons-opensearch-colored": {
+    "body": "<${1:i} class=\"openwebicons-opensearch-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-opensearch-colored"
+  },
+  "openwebicons-opensearch": {
+    "body": "<${1:i} class=\"openwebicons-opensearch$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-opensearch"
+  },
+  "openwebicons-opensource-colored": {
+    "body": "<${1:i} class=\"openwebicons-opensource-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-opensource-colored"
+  },
+  "openwebicons-opensource": {
+    "body": "<${1:i} class=\"openwebicons-opensource$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-opensource"
+  },
+  "openwebicons-opensourcedesign": {
+    "body": "<${1:i} class=\"openwebicons-opensourcedesign$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-opensourcedesign"
+  },
+  "openwebicons-opml-colored": {
+    "body": "<${1:i} class=\"openwebicons-opml-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-opml-colored"
+  },
+  "openwebicons-opml": {
+    "body": "<${1:i} class=\"openwebicons-opml$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-opml"
+  },
+  "openwebicons-osi-colored": {
+    "body": "<${1:i} class=\"openwebicons-osi-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-osi-colored"
+  },
+  "openwebicons-osi": {
+    "body": "<${1:i} class=\"openwebicons-osi$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-osi"
+  },
+  "openwebicons-ostatus-colored": {
+    "body": "<${1:i} class=\"openwebicons-ostatus-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-ostatus-colored"
+  },
+  "openwebicons-ostatus-simple": {
+    "body": "<${1:i} class=\"openwebicons-ostatus-simple$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-ostatus-simple"
+  },
+  "openwebicons-ostatus": {
+    "body": "<${1:i} class=\"openwebicons-ostatus$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-ostatus"
+  },
+  "openwebicons-owl": {
+    "body": "<${1:i} class=\"openwebicons-owl$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-owl"
+  },
+  "openwebicons-owncloud": {
+    "body": "<${1:i} class=\"openwebicons-owncloud$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-owncloud"
+  },
+  "openwebicons-perfintegration": {
+    "body": "<${1:i} class=\"openwebicons-perfintegration$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-perfintegration"
+  },
+  "openwebicons-persona": {
+    "body": "<${1:i} class=\"openwebicons-persona$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-persona"
+  },
+  "openwebicons-pub-colored": {
+    "body": "<${1:i} class=\"openwebicons-pub-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-pub-colored"
+  },
+  "openwebicons-pub": {
+    "body": "<${1:i} class=\"openwebicons-pub$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-pub"
+  },
+  "openwebicons-pubsubhubbub": {
+    "body": "<${1:i} class=\"openwebicons-pubsubhubbub$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-pubsubhubbub"
+  },
+  "openwebicons-qr": {
+    "body": "<${1:i} class=\"openwebicons-qr$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-qr"
+  },
+  "openwebicons-rdf": {
+    "body": "<${1:i} class=\"openwebicons-rdf$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-rdf"
+  },
+  "openwebicons-rdfa": {
+    "body": "<${1:i} class=\"openwebicons-rdfa$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-rdfa"
+  },
+  "openwebicons-remote-storage-colored": {
+    "body": "<${1:i} class=\"openwebicons-remote-storage-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-remote-storage-colored"
+  },
+  "openwebicons-remote-storage": {
+    "body": "<${1:i} class=\"openwebicons-remote-storage$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-remote-storage"
+  },
+  "openwebicons-semantic-web": {
+    "body": "<${1:i} class=\"openwebicons-semantic-web$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-semantic-web"
+  },
+  "openwebicons-semantics": {
+    "body": "<${1:i} class=\"openwebicons-semantics$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-semantics"
+  },
+  "openwebicons-share-colored": {
+    "body": "<${1:i} class=\"openwebicons-share-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-share-colored"
+  },
+  "openwebicons-share-simple": {
+    "body": "<${1:i} class=\"openwebicons-share-simple$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-share-simple"
+  },
+  "openwebicons-share": {
+    "body": "<${1:i} class=\"openwebicons-share$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-share"
+  },
+  "openwebicons-sub-colored": {
+    "body": "<${1:i} class=\"openwebicons-sub-colored$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-sub-colored"
+  },
+  "openwebicons-sub": {
+    "body": "<${1:i} class=\"openwebicons-sub$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-sub"
+  },
+  "openwebicons-svg": {
+    "body": "<${1:i} class=\"openwebicons-svg$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-svg"
+  },
+  "openwebicons-tent": {
+    "body": "<${1:i} class=\"openwebicons-tent$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-tent"
+  },
+  "openwebicons-tosdr": {
+    "body": "<${1:i} class=\"openwebicons-tosdr$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-tosdr"
+  },
+  "openwebicons-unhosted": {
+    "body": "<${1:i} class=\"openwebicons-unhosted$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-unhosted"
+  },
+  "openwebicons-web-intents": {
+    "body": "<${1:i} class=\"openwebicons-web-intents$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-web-intents"
+  },
+  "openwebicons-webfinger": {
+    "body": "<${1:i} class=\"openwebicons-webfinger$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-webfinger"
+  },
+  "openwebicons-webhooks": {
+    "body": "<${1:i} class=\"openwebicons-webhooks$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-webhooks"
+  },
+  "openwebicons-webmention": {
+    "body": "<${1:i} class=\"openwebicons-webmention$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-webmention"
+  },
+  "openwebicons-webplattform": {
+    "body": "<${1:i} class=\"openwebicons-webplattform$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-webplattform"
+  },
+  "openwebicons-wordpress": {
+    "body": "<${1:i} class=\"openwebicons-wordpress$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-wordpress"
+  },
+  "openwebicons-wtfpl": {
+    "body": "<${1:i} class=\"openwebicons-wtfpl$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-wtfpl"
+  },
+  "openwebicons-xmpp": {
+    "body": "<${1:i} class=\"openwebicons-xmpp$2\"></${1:i}>$3",
+    "description": "<i>",
+    "prefix": "openwebicons-xmpp"
   }
 }

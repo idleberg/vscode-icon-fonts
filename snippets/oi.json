@@ -1,894 +1,1117 @@
 {
-  "oi-contrast": {
-    "prefix": "oi-contrast",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"contrast\" title=\"contrast\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-check": {
-    "prefix": "oi-check",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"check\" title=\"check\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-euro": {
-    "prefix": "oi-euro",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"euro\" title=\"euro\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-fire": {
-    "prefix": "oi-fire",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"fire\" title=\"fire\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-share": {
-    "prefix": "oi-share",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"share\" title=\"share\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-microphone": {
-    "prefix": "oi-microphone",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"microphone\" title=\"microphone\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-bluetooth": {
-    "prefix": "oi-bluetooth",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"bluetooth\" title=\"bluetooth\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-box": {
-    "prefix": "oi-box",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"box\" title=\"box\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-underline": {
-    "prefix": "oi-underline",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"underline\" title=\"underline\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-sun": {
-    "prefix": "oi-sun",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"sun\" title=\"sun\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-circle-check": {
-    "prefix": "oi-circle-check",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"circle-check\" title=\"circle-check\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-loop-square": {
-    "prefix": "oi-loop-square",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"loop-square\" title=\"loop-square\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-move": {
-    "prefix": "oi-move",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"move\" title=\"move\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-yen": {
-    "prefix": "oi-yen",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"yen\" title=\"yen\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-layers": {
-    "prefix": "oi-layers",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"layers\" title=\"layers\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-arrow-thick-left": {
-    "prefix": "oi-arrow-thick-left",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-thick-left\" title=\"arrow-thick-left\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-beaker": {
-    "prefix": "oi-beaker",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"beaker\" title=\"beaker\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-link-broken": {
-    "prefix": "oi-link-broken",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"link-broken\" title=\"link-broken\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-timer": {
-    "prefix": "oi-timer",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"timer\" title=\"timer\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-double-quote-sans-left": {
-    "prefix": "oi-double-quote-sans-left",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"double-quote-sans-left\" title=\"double-quote-sans-left\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-location": {
-    "prefix": "oi-location",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"location\" title=\"location\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-grid-three-up": {
-    "prefix": "oi-grid-three-up",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"grid-three-up\" title=\"grid-three-up\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-chevron-bottom": {
-    "prefix": "oi-chevron-bottom",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"chevron-bottom\" title=\"chevron-bottom\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-bold": {
-    "prefix": "oi-bold",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"bold\" title=\"bold\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-arrow-bottom": {
-    "prefix": "oi-arrow-bottom",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-bottom\" title=\"arrow-bottom\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-map-marker": {
-    "prefix": "oi-map-marker",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"map-marker\" title=\"map-marker\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-graph": {
-    "prefix": "oi-graph",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"graph\" title=\"graph\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-external-link": {
-    "prefix": "oi-external-link",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"external-link\" title=\"external-link\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-pie-chart": {
-    "prefix": "oi-pie-chart",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"pie-chart\" title=\"pie-chart\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-bolt": {
-    "prefix": "oi-bolt",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"bolt\" title=\"bolt\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-chat": {
-    "prefix": "oi-chat",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"chat\" title=\"chat\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-list": {
-    "prefix": "oi-list",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"list\" title=\"list\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-arrow-thick-top": {
-    "prefix": "oi-arrow-thick-top",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-thick-top\" title=\"arrow-thick-top\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-audio": {
-    "prefix": "oi-audio",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"audio\" title=\"audio\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-project": {
-    "prefix": "oi-project",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"project\" title=\"project\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-minus": {
-    "prefix": "oi-minus",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"minus\" title=\"minus\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-tags": {
-    "prefix": "oi-tags",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"tags\" title=\"tags\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-justify-right": {
-    "prefix": "oi-justify-right",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"justify-right\" title=\"justify-right\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-calendar": {
-    "prefix": "oi-calendar",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"calendar\" title=\"calendar\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-list-rich": {
-    "prefix": "oi-list-rich",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"list-rich\" title=\"list-rich\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
   "oi-account-login": {
-    "prefix": "oi-account-login",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"account-login\" title=\"account-login\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-resize-height": {
-    "prefix": "oi-resize-height",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"resize-height\" title=\"resize-height\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-bell": {
-    "prefix": "oi-bell",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"bell\" title=\"bell\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-aperture": {
-    "prefix": "oi-aperture",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"aperture\" title=\"aperture\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-copywriting": {
-    "prefix": "oi-copywriting",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"copywriting\" title=\"copywriting\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-excerpt": {
-    "prefix": "oi-excerpt",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"excerpt\" title=\"excerpt\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-text": {
-    "prefix": "oi-text",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"text\" title=\"text\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-warning": {
-    "prefix": "oi-warning",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"warning\" title=\"warning\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-credit-card": {
-    "prefix": "oi-credit-card",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"credit-card\" title=\"credit-card\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-crop": {
-    "prefix": "oi-crop",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"crop\" title=\"crop\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-tablet": {
-    "prefix": "oi-tablet",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"tablet\" title=\"tablet\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-header": {
-    "prefix": "oi-header",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"header\" title=\"header\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-volume-high": {
-    "prefix": "oi-volume-high",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"volume-high\" title=\"volume-high\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-eject": {
-    "prefix": "oi-eject",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"eject\" title=\"eject\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-code": {
-    "prefix": "oi-code",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"code\" title=\"code\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-video": {
-    "prefix": "oi-video",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"video\" title=\"video\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-spreadsheet": {
-    "prefix": "oi-spreadsheet",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"spreadsheet\" title=\"spreadsheet\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-ellipses": {
-    "prefix": "oi-ellipses",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"ellipses\" title=\"ellipses\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-arrow-right": {
-    "prefix": "oi-arrow-right",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-right\" title=\"arrow-right\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-volume-off": {
-    "prefix": "oi-volume-off",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"volume-off\" title=\"volume-off\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-dial": {
-    "prefix": "oi-dial",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"dial\" title=\"dial\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-phone": {
-    "prefix": "oi-phone",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"phone\" title=\"phone\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-globe": {
-    "prefix": "oi-globe",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"globe\" title=\"globe\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-medical-cross": {
-    "prefix": "oi-medical-cross",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"medical-cross\" title=\"medical-cross\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-people": {
-    "prefix": "oi-people",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"people\" title=\"people\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-resize-width": {
-    "prefix": "oi-resize-width",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"resize-width\" title=\"resize-width\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-audio-spectrum": {
-    "prefix": "oi-audio-spectrum",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"audio-spectrum\" title=\"audio-spectrum\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-heart": {
-    "prefix": "oi-heart",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"heart\" title=\"heart\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-align-right": {
-    "prefix": "oi-align-right",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"align-right\" title=\"align-right\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-bug": {
-    "prefix": "oi-bug",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"bug\" title=\"bug\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-link-intact": {
-    "prefix": "oi-link-intact",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"link-intact\" title=\"link-intact\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-play-circle": {
-    "prefix": "oi-play-circle",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"play-circle\" title=\"play-circle\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-double-quote-serif-right": {
-    "prefix": "oi-double-quote-serif-right",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"double-quote-serif-right\" title=\"double-quote-serif-right\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-clipboard": {
-    "prefix": "oi-clipboard",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"clipboard\" title=\"clipboard\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-signal": {
-    "prefix": "oi-signal",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"signal\" title=\"signal\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-brush": {
-    "prefix": "oi-brush",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"brush\" title=\"brush\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-image": {
-    "prefix": "oi-image",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"image\" title=\"image\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-media-skip-backward": {
-    "prefix": "oi-media-skip-backward",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"media-skip-backward\" title=\"media-skip-backward\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-target": {
-    "prefix": "oi-target",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"target\" title=\"target\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-command": {
-    "prefix": "oi-command",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"command\" title=\"command\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-cloudy": {
-    "prefix": "oi-cloudy",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"cloudy\" title=\"cloudy\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-resize-both": {
-    "prefix": "oi-resize-both",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"resize-both\" title=\"resize-both\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-media-play": {
-    "prefix": "oi-media-play",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"media-play\" title=\"media-play\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-double-quote-serif-left": {
-    "prefix": "oi-double-quote-serif-left",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"double-quote-serif-left\" title=\"double-quote-serif-left\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-media-pause": {
-    "prefix": "oi-media-pause",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"media-pause\" title=\"media-pause\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-pulse": {
-    "prefix": "oi-pulse",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"pulse\" title=\"pulse\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-tag": {
-    "prefix": "oi-tag",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"tag\" title=\"tag\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-camera-slr": {
-    "prefix": "oi-camera-slr",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"camera-slr\" title=\"camera-slr\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-home": {
-    "prefix": "oi-home",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"home\" title=\"home\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-star": {
-    "prefix": "oi-star",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"star\" title=\"star\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-data-transfer-upload": {
-    "prefix": "oi-data-transfer-upload",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"data-transfer-upload\" title=\"data-transfer-upload\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-moon": {
-    "prefix": "oi-moon",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"moon\" title=\"moon\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-document": {
-    "prefix": "oi-document",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"document\" title=\"document\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-media-skip-forward": {
-    "prefix": "oi-media-skip-forward",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"media-skip-forward\" title=\"media-skip-forward\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-sort-ascending": {
-    "prefix": "oi-sort-ascending",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"sort-ascending\" title=\"sort-ascending\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-magnifying-glass": {
-    "prefix": "oi-magnifying-glass",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"magnifying-glass\" title=\"magnifying-glass\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-media-step-forward": {
-    "prefix": "oi-media-step-forward",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"media-step-forward\" title=\"media-step-forward\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-thumb-up": {
-    "prefix": "oi-thumb-up",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"thumb-up\" title=\"thumb-up\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-caret-right": {
-    "prefix": "oi-caret-right",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"caret-right\" title=\"caret-right\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-caret-top": {
-    "prefix": "oi-caret-top",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"caret-top\" title=\"caret-top\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-menu": {
-    "prefix": "oi-menu",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"menu\" title=\"menu\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-map": {
-    "prefix": "oi-map",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"map\" title=\"map\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-thumb-down": {
-    "prefix": "oi-thumb-down",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"thumb-down\" title=\"thumb-down\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-flash": {
-    "prefix": "oi-flash",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"flash\" title=\"flash\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-vertical-align-top": {
-    "prefix": "oi-vertical-align-top",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"vertical-align-top\" title=\"vertical-align-top\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-book": {
-    "prefix": "oi-book",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"book\" title=\"book\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-key": {
-    "prefix": "oi-key",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"key\" title=\"key\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-arrow-left": {
-    "prefix": "oi-arrow-left",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-left\" title=\"arrow-left\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-hard-drive": {
-    "prefix": "oi-hard-drive",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"hard-drive\" title=\"hard-drive\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-grid-four-up": {
-    "prefix": "oi-grid-four-up",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"grid-four-up\" title=\"grid-four-up\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-fullscreen-exit": {
-    "prefix": "oi-fullscreen-exit",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"fullscreen-exit\" title=\"fullscreen-exit\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-grid-two-up": {
-    "prefix": "oi-grid-two-up",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"grid-two-up\" title=\"grid-two-up\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-justify-left": {
-    "prefix": "oi-justify-left",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"justify-left\" title=\"justify-left\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-media-step-backward": {
-    "prefix": "oi-media-step-backward",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"media-step-backward\" title=\"media-step-backward\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-pin": {
-    "prefix": "oi-pin",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"pin\" title=\"pin\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-arrow-thick-right": {
-    "prefix": "oi-arrow-thick-right",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-thick-right\" title=\"arrow-thick-right\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-chevron-top": {
-    "prefix": "oi-chevron-top",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"chevron-top\" title=\"chevron-top\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-loop": {
-    "prefix": "oi-loop",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"loop\" title=\"loop\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-justify-center": {
-    "prefix": "oi-justify-center",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"justify-center\" title=\"justify-center\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-circle-x": {
-    "prefix": "oi-circle-x",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"circle-x\" title=\"circle-x\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-share-boxed": {
-    "prefix": "oi-share-boxed",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"share-boxed\" title=\"share-boxed\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-wrench": {
-    "prefix": "oi-wrench",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"wrench\" title=\"wrench\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-eye": {
-    "prefix": "oi-eye",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"eye\" title=\"eye\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-info": {
-    "prefix": "oi-info",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"info\" title=\"info\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-collapse-up": {
-    "prefix": "oi-collapse-up",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"collapse-up\" title=\"collapse-up\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-arrow-thick-bottom": {
-    "prefix": "oi-arrow-thick-bottom",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-thick-bottom\" title=\"arrow-thick-bottom\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-dollar": {
-    "prefix": "oi-dollar",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"dollar\" title=\"dollar\" aria-hidden=\"true$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"oi\" data-glyph=\"account-login\" title=\"account-login\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-account-login"
   },
   "oi-account-logout": {
-    "prefix": "oi-account-logout",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"account-logout\" title=\"account-logout\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-caret-left": {
-    "prefix": "oi-caret-left",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"caret-left\" title=\"caret-left\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-collapse-down": {
-    "prefix": "oi-collapse-down",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"collapse-down\" title=\"collapse-down\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-align-center": {
-    "prefix": "oi-align-center",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"align-center\" title=\"align-center\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-lock-unlocked": {
-    "prefix": "oi-lock-unlocked",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"lock-unlocked\" title=\"lock-unlocked\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-data-transfer-download": {
-    "prefix": "oi-data-transfer-download",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"data-transfer-download\" title=\"data-transfer-download\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-droplet": {
-    "prefix": "oi-droplet",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"droplet\" title=\"droplet\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-arrow-circle-left": {
-    "prefix": "oi-arrow-circle-left",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-circle-left\" title=\"arrow-circle-left\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-terminal": {
-    "prefix": "oi-terminal",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"terminal\" title=\"terminal\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-arrow-circle-top": {
-    "prefix": "oi-arrow-circle-top",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-circle-top\" title=\"arrow-circle-top\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-collapse-right": {
-    "prefix": "oi-collapse-right",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"collapse-right\" title=\"collapse-right\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-rain": {
-    "prefix": "oi-rain",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"rain\" title=\"rain\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-puzzle-piece": {
-    "prefix": "oi-puzzle-piece",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"puzzle-piece\" title=\"puzzle-piece\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-trash": {
-    "prefix": "oi-trash",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"trash\" title=\"trash\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-action-undo": {
-    "prefix": "oi-action-undo",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"action-undo\" title=\"action-undo\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-expand-right": {
-    "prefix": "oi-expand-right",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"expand-right\" title=\"expand-right\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-delete": {
-    "prefix": "oi-delete",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"delete\" title=\"delete\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-clock": {
-    "prefix": "oi-clock",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"clock\" title=\"clock\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-flag": {
-    "prefix": "oi-flag",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"flag\" title=\"flag\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-cloud-upload": {
-    "prefix": "oi-cloud-upload",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"cloud-upload\" title=\"cloud-upload\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-print": {
-    "prefix": "oi-print",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"print\" title=\"print\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-musical-note": {
-    "prefix": "oi-musical-note",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"musical-note\" title=\"musical-note\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-compass": {
-    "prefix": "oi-compass",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"compass\" title=\"compass\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-x": {
-    "prefix": "oi-x",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"x\" title=\"x\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-loop-circular": {
-    "prefix": "oi-loop-circular",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"loop-circular\" title=\"loop-circular\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-expand-left": {
-    "prefix": "oi-expand-left",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"expand-left\" title=\"expand-left\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-file": {
-    "prefix": "oi-file",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"file\" title=\"file\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-align-left": {
-    "prefix": "oi-align-left",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"align-left\" title=\"align-left\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-envelope-open": {
-    "prefix": "oi-envelope-open",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"envelope-open\" title=\"envelope-open\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-elevator": {
-    "prefix": "oi-elevator",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"elevator\" title=\"elevator\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-media-record": {
-    "prefix": "oi-media-record",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"media-record\" title=\"media-record\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-caret-bottom": {
-    "prefix": "oi-caret-bottom",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"caret-bottom\" title=\"caret-bottom\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-folder": {
-    "prefix": "oi-folder",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"folder\" title=\"folder\" aria-hidden=\"true$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"oi\" data-glyph=\"account-logout\" title=\"account-logout\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-account-logout"
   },
   "oi-action-redo": {
-    "prefix": "oi-action-redo",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"action-redo\" title=\"action-redo\" aria-hidden=\"true$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"oi\" data-glyph=\"action-redo\" title=\"action-redo\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-action-redo"
   },
-  "oi-chevron-right": {
-    "prefix": "oi-chevron-right",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"chevron-right\" title=\"chevron-right\" aria-hidden=\"true$2\"></${1:span}>$3"
+  "oi-action-undo": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"action-undo\" title=\"action-undo\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-action-undo"
   },
-  "oi-volume-low": {
-    "prefix": "oi-volume-low",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"volume-low\" title=\"volume-low\" aria-hidden=\"true$2\"></${1:span}>$3"
+  "oi-align-center": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"align-center\" title=\"align-center\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-align-center"
   },
-  "oi-collapse-left": {
-    "prefix": "oi-collapse-left",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"collapse-left\" title=\"collapse-left\" aria-hidden=\"true$2\"></${1:span}>$3"
+  "oi-align-left": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"align-left\" title=\"align-left\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-align-left"
   },
-  "oi-transfer": {
-    "prefix": "oi-transfer",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"transfer\" title=\"transfer\" aria-hidden=\"true$2\"></${1:span}>$3"
+  "oi-align-right": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"align-right\" title=\"align-right\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-align-right"
   },
-  "oi-power-standby": {
-    "prefix": "oi-power-standby",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"power-standby\" title=\"power-standby\" aria-hidden=\"true$2\"></${1:span}>$3"
+  "oi-aperture": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"aperture\" title=\"aperture\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-aperture"
   },
-  "oi-headphones": {
-    "prefix": "oi-headphones",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"headphones\" title=\"headphones\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-monitor": {
-    "prefix": "oi-monitor",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"monitor\" title=\"monitor\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-cloud-download": {
-    "prefix": "oi-cloud-download",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"cloud-download\" title=\"cloud-download\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-bookmark": {
-    "prefix": "oi-bookmark",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"bookmark\" title=\"bookmark\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-chevron-left": {
-    "prefix": "oi-chevron-left",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"chevron-left\" title=\"chevron-left\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-cart": {
-    "prefix": "oi-cart",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"cart\" title=\"cart\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-lock-locked": {
-    "prefix": "oi-lock-locked",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"lock-locked\" title=\"lock-locked\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-rss-alt": {
-    "prefix": "oi-rss-alt",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"rss-alt\" title=\"rss-alt\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-cog": {
-    "prefix": "oi-cog",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"cog\" title=\"cog\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-script": {
-    "prefix": "oi-script",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"script\" title=\"script\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-signpost": {
-    "prefix": "oi-signpost",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"signpost\" title=\"signpost\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-cloud": {
-    "prefix": "oi-cloud",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"cloud\" title=\"cloud\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-zoom-out": {
-    "prefix": "oi-zoom-out",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"zoom-out\" title=\"zoom-out\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-infinity": {
-    "prefix": "oi-infinity",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"infinity\" title=\"infinity\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-dashboard": {
-    "prefix": "oi-dashboard",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"dashboard\" title=\"dashboard\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-pencil": {
-    "prefix": "oi-pencil",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"pencil\" title=\"pencil\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-laptop": {
-    "prefix": "oi-laptop",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"laptop\" title=\"laptop\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-rss": {
-    "prefix": "oi-rss",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"rss\" title=\"rss\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-sort-descending": {
-    "prefix": "oi-sort-descending",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"sort-descending\" title=\"sort-descending\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-expand-down": {
-    "prefix": "oi-expand-down",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"expand-down\" title=\"expand-down\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-arrow-circle-right": {
-    "prefix": "oi-arrow-circle-right",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-circle-right\" title=\"arrow-circle-right\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-arrow-top": {
-    "prefix": "oi-arrow-top",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-top\" title=\"arrow-top\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-envelope-closed": {
-    "prefix": "oi-envelope-closed",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"envelope-closed\" title=\"envelope-closed\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-wifi": {
-    "prefix": "oi-wifi",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"wifi\" title=\"wifi\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-media-stop": {
-    "prefix": "oi-media-stop",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"media-stop\" title=\"media-stop\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-person": {
-    "prefix": "oi-person",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"person\" title=\"person\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-browser": {
-    "prefix": "oi-browser",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"browser\" title=\"browser\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-calculator": {
-    "prefix": "oi-calculator",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"calculator\" title=\"calculator\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-fork": {
-    "prefix": "oi-fork",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"fork\" title=\"fork\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-bar-chart": {
-    "prefix": "oi-bar-chart",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"bar-chart\" title=\"bar-chart\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-shield": {
-    "prefix": "oi-shield",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"shield\" title=\"shield\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-british-pound": {
-    "prefix": "oi-british-pound",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"british-pound\" title=\"british-pound\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-battery-full": {
-    "prefix": "oi-battery-full",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"battery-full\" title=\"battery-full\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-reload": {
-    "prefix": "oi-reload",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"reload\" title=\"reload\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-inbox": {
-    "prefix": "oi-inbox",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"inbox\" title=\"inbox\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-expand-up": {
-    "prefix": "oi-expand-up",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"expand-up\" title=\"expand-up\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-paperclip": {
-    "prefix": "oi-paperclip",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"paperclip\" title=\"paperclip\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-zoom-in": {
-    "prefix": "oi-zoom-in",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"zoom-in\" title=\"zoom-in\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-comment-square": {
-    "prefix": "oi-comment-square",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"comment-square\" title=\"comment-square\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-basket": {
-    "prefix": "oi-basket",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"basket\" title=\"basket\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-battery-empty": {
-    "prefix": "oi-battery-empty",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"battery-empty\" title=\"battery-empty\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-random": {
-    "prefix": "oi-random",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"random\" title=\"random\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-vertical-align-center": {
-    "prefix": "oi-vertical-align-center",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"vertical-align-center\" title=\"vertical-align-center\" aria-hidden=\"true$2\"></${1:span}>$3"
+  "oi-arrow-bottom": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-bottom\" title=\"arrow-bottom\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-arrow-bottom"
   },
   "oi-arrow-circle-bottom": {
-    "prefix": "oi-arrow-circle-bottom",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-circle-bottom\" title=\"arrow-circle-bottom\" aria-hidden=\"true$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-circle-bottom\" title=\"arrow-circle-bottom\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-arrow-circle-bottom"
+  },
+  "oi-arrow-circle-left": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-circle-left\" title=\"arrow-circle-left\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-arrow-circle-left"
+  },
+  "oi-arrow-circle-right": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-circle-right\" title=\"arrow-circle-right\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-arrow-circle-right"
+  },
+  "oi-arrow-circle-top": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-circle-top\" title=\"arrow-circle-top\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-arrow-circle-top"
+  },
+  "oi-arrow-left": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-left\" title=\"arrow-left\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-arrow-left"
+  },
+  "oi-arrow-right": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-right\" title=\"arrow-right\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-arrow-right"
+  },
+  "oi-arrow-thick-bottom": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-thick-bottom\" title=\"arrow-thick-bottom\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-arrow-thick-bottom"
+  },
+  "oi-arrow-thick-left": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-thick-left\" title=\"arrow-thick-left\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-arrow-thick-left"
+  },
+  "oi-arrow-thick-right": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-thick-right\" title=\"arrow-thick-right\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-arrow-thick-right"
+  },
+  "oi-arrow-thick-top": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-thick-top\" title=\"arrow-thick-top\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-arrow-thick-top"
+  },
+  "oi-arrow-top": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"arrow-top\" title=\"arrow-top\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-arrow-top"
+  },
+  "oi-audio-spectrum": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"audio-spectrum\" title=\"audio-spectrum\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-audio-spectrum"
+  },
+  "oi-audio": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"audio\" title=\"audio\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-audio"
   },
   "oi-badge": {
-    "prefix": "oi-badge",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"badge\" title=\"badge\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-briefcase": {
-    "prefix": "oi-briefcase",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"briefcase\" title=\"briefcase\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-lightbulb": {
-    "prefix": "oi-lightbulb",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"lightbulb\" title=\"lightbulb\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-double-quote-sans-right": {
-    "prefix": "oi-double-quote-sans-right",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"double-quote-sans-right\" title=\"double-quote-sans-right\" aria-hidden=\"true$2\"></${1:span}>$3"
-  },
-  "oi-vertical-align-bottom": {
-    "prefix": "oi-vertical-align-bottom",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"vertical-align-bottom\" title=\"vertical-align-bottom\" aria-hidden=\"true$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"oi\" data-glyph=\"badge\" title=\"badge\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-badge"
   },
   "oi-ban": {
-    "prefix": "oi-ban",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"ban\" title=\"ban\" aria-hidden=\"true$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"oi\" data-glyph=\"ban\" title=\"ban\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-ban"
   },
-  "oi-plus": {
-    "prefix": "oi-plus",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"plus\" title=\"plus\" aria-hidden=\"true$2\"></${1:span}>$3"
+  "oi-bar-chart": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"bar-chart\" title=\"bar-chart\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-bar-chart"
   },
-  "oi-task": {
-    "prefix": "oi-task",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"task\" title=\"task\" aria-hidden=\"true$2\"></${1:span}>$3"
+  "oi-basket": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"basket\" title=\"basket\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-basket"
+  },
+  "oi-battery-empty": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"battery-empty\" title=\"battery-empty\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-battery-empty"
+  },
+  "oi-battery-full": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"battery-full\" title=\"battery-full\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-battery-full"
+  },
+  "oi-beaker": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"beaker\" title=\"beaker\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-beaker"
+  },
+  "oi-bell": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"bell\" title=\"bell\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-bell"
+  },
+  "oi-bluetooth": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"bluetooth\" title=\"bluetooth\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-bluetooth"
+  },
+  "oi-bold": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"bold\" title=\"bold\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-bold"
+  },
+  "oi-bolt": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"bolt\" title=\"bolt\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-bolt"
+  },
+  "oi-book": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"book\" title=\"book\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-book"
+  },
+  "oi-bookmark": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"bookmark\" title=\"bookmark\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-bookmark"
+  },
+  "oi-box": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"box\" title=\"box\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-box"
+  },
+  "oi-briefcase": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"briefcase\" title=\"briefcase\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-briefcase"
+  },
+  "oi-british-pound": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"british-pound\" title=\"british-pound\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-british-pound"
+  },
+  "oi-browser": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"browser\" title=\"browser\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-browser"
+  },
+  "oi-brush": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"brush\" title=\"brush\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-brush"
+  },
+  "oi-bug": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"bug\" title=\"bug\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-bug"
   },
   "oi-bullhorn": {
-    "prefix": "oi-bullhorn",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"bullhorn\" title=\"bullhorn\" aria-hidden=\"true$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"oi\" data-glyph=\"bullhorn\" title=\"bullhorn\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-bullhorn"
   },
-  "oi-italic": {
-    "prefix": "oi-italic",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"italic\" title=\"italic\" aria-hidden=\"true$2\"></${1:span}>$3"
+  "oi-calculator": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"calculator\" title=\"calculator\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-calculator"
   },
-  "oi-question-mark": {
-    "prefix": "oi-question-mark",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"question-mark\" title=\"question-mark\" aria-hidden=\"true$2\"></${1:span}>$3"
+  "oi-calendar": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"calendar\" title=\"calendar\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-calendar"
   },
-  "oi-fullscreen-enter": {
-    "prefix": "oi-fullscreen-enter",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"fullscreen-enter\" title=\"fullscreen-enter\" aria-hidden=\"true$2\"></${1:span}>$3"
+  "oi-camera-slr": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"camera-slr\" title=\"camera-slr\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-camera-slr"
+  },
+  "oi-caret-bottom": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"caret-bottom\" title=\"caret-bottom\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-caret-bottom"
+  },
+  "oi-caret-left": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"caret-left\" title=\"caret-left\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-caret-left"
+  },
+  "oi-caret-right": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"caret-right\" title=\"caret-right\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-caret-right"
+  },
+  "oi-caret-top": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"caret-top\" title=\"caret-top\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-caret-top"
+  },
+  "oi-cart": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"cart\" title=\"cart\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-cart"
+  },
+  "oi-chat": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"chat\" title=\"chat\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-chat"
+  },
+  "oi-check": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"check\" title=\"check\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-check"
+  },
+  "oi-chevron-bottom": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"chevron-bottom\" title=\"chevron-bottom\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-chevron-bottom"
+  },
+  "oi-chevron-left": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"chevron-left\" title=\"chevron-left\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-chevron-left"
+  },
+  "oi-chevron-right": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"chevron-right\" title=\"chevron-right\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-chevron-right"
+  },
+  "oi-chevron-top": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"chevron-top\" title=\"chevron-top\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-chevron-top"
+  },
+  "oi-circle-check": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"circle-check\" title=\"circle-check\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-circle-check"
+  },
+  "oi-circle-x": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"circle-x\" title=\"circle-x\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-circle-x"
+  },
+  "oi-clipboard": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"clipboard\" title=\"clipboard\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-clipboard"
+  },
+  "oi-clock": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"clock\" title=\"clock\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-clock"
+  },
+  "oi-cloud-download": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"cloud-download\" title=\"cloud-download\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-cloud-download"
+  },
+  "oi-cloud-upload": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"cloud-upload\" title=\"cloud-upload\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-cloud-upload"
+  },
+  "oi-cloud": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"cloud\" title=\"cloud\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-cloud"
+  },
+  "oi-cloudy": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"cloudy\" title=\"cloudy\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-cloudy"
+  },
+  "oi-code": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"code\" title=\"code\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-code"
+  },
+  "oi-cog": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"cog\" title=\"cog\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-cog"
+  },
+  "oi-collapse-down": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"collapse-down\" title=\"collapse-down\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-collapse-down"
+  },
+  "oi-collapse-left": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"collapse-left\" title=\"collapse-left\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-collapse-left"
+  },
+  "oi-collapse-right": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"collapse-right\" title=\"collapse-right\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-collapse-right"
+  },
+  "oi-collapse-up": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"collapse-up\" title=\"collapse-up\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-collapse-up"
+  },
+  "oi-command": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"command\" title=\"command\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-command"
+  },
+  "oi-comment-square": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"comment-square\" title=\"comment-square\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-comment-square"
+  },
+  "oi-compass": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"compass\" title=\"compass\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-compass"
+  },
+  "oi-contrast": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"contrast\" title=\"contrast\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-contrast"
+  },
+  "oi-copywriting": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"copywriting\" title=\"copywriting\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-copywriting"
+  },
+  "oi-credit-card": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"credit-card\" title=\"credit-card\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-credit-card"
+  },
+  "oi-crop": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"crop\" title=\"crop\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-crop"
+  },
+  "oi-dashboard": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"dashboard\" title=\"dashboard\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-dashboard"
+  },
+  "oi-data-transfer-download": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"data-transfer-download\" title=\"data-transfer-download\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-data-transfer-download"
+  },
+  "oi-data-transfer-upload": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"data-transfer-upload\" title=\"data-transfer-upload\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-data-transfer-upload"
+  },
+  "oi-delete": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"delete\" title=\"delete\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-delete"
+  },
+  "oi-dial": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"dial\" title=\"dial\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-dial"
+  },
+  "oi-document": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"document\" title=\"document\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-document"
+  },
+  "oi-dollar": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"dollar\" title=\"dollar\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-dollar"
+  },
+  "oi-double-quote-sans-left": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"double-quote-sans-left\" title=\"double-quote-sans-left\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-double-quote-sans-left"
+  },
+  "oi-double-quote-sans-right": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"double-quote-sans-right\" title=\"double-quote-sans-right\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-double-quote-sans-right"
+  },
+  "oi-double-quote-serif-left": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"double-quote-serif-left\" title=\"double-quote-serif-left\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-double-quote-serif-left"
+  },
+  "oi-double-quote-serif-right": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"double-quote-serif-right\" title=\"double-quote-serif-right\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-double-quote-serif-right"
+  },
+  "oi-droplet": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"droplet\" title=\"droplet\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-droplet"
+  },
+  "oi-eject": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"eject\" title=\"eject\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-eject"
+  },
+  "oi-elevator": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"elevator\" title=\"elevator\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-elevator"
+  },
+  "oi-ellipses": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"ellipses\" title=\"ellipses\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-ellipses"
+  },
+  "oi-envelope-closed": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"envelope-closed\" title=\"envelope-closed\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-envelope-closed"
+  },
+  "oi-envelope-open": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"envelope-open\" title=\"envelope-open\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-envelope-open"
+  },
+  "oi-euro": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"euro\" title=\"euro\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-euro"
+  },
+  "oi-excerpt": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"excerpt\" title=\"excerpt\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-excerpt"
+  },
+  "oi-expand-down": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"expand-down\" title=\"expand-down\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-expand-down"
+  },
+  "oi-expand-left": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"expand-left\" title=\"expand-left\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-expand-left"
+  },
+  "oi-expand-right": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"expand-right\" title=\"expand-right\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-expand-right"
+  },
+  "oi-expand-up": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"expand-up\" title=\"expand-up\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-expand-up"
+  },
+  "oi-external-link": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"external-link\" title=\"external-link\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-external-link"
+  },
+  "oi-eye": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"eye\" title=\"eye\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-eye"
   },
   "oi-eyedropper": {
-    "prefix": "oi-eyedropper",
-    "body": "<${1:span} class=\"oi\" data-glyph=\"eyedropper\" title=\"eyedropper\" aria-hidden=\"true$2\"></${1:span}>$3"
+    "body": "<${1:span} class=\"oi\" data-glyph=\"eyedropper\" title=\"eyedropper\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-eyedropper"
+  },
+  "oi-file": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"file\" title=\"file\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-file"
+  },
+  "oi-fire": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"fire\" title=\"fire\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-fire"
+  },
+  "oi-flag": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"flag\" title=\"flag\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-flag"
+  },
+  "oi-flash": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"flash\" title=\"flash\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-flash"
+  },
+  "oi-folder": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"folder\" title=\"folder\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-folder"
+  },
+  "oi-fork": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"fork\" title=\"fork\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-fork"
+  },
+  "oi-fullscreen-enter": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"fullscreen-enter\" title=\"fullscreen-enter\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-fullscreen-enter"
+  },
+  "oi-fullscreen-exit": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"fullscreen-exit\" title=\"fullscreen-exit\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-fullscreen-exit"
+  },
+  "oi-globe": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"globe\" title=\"globe\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-globe"
+  },
+  "oi-graph": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"graph\" title=\"graph\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-graph"
+  },
+  "oi-grid-four-up": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"grid-four-up\" title=\"grid-four-up\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-grid-four-up"
+  },
+  "oi-grid-three-up": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"grid-three-up\" title=\"grid-three-up\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-grid-three-up"
+  },
+  "oi-grid-two-up": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"grid-two-up\" title=\"grid-two-up\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-grid-two-up"
+  },
+  "oi-hard-drive": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"hard-drive\" title=\"hard-drive\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-hard-drive"
+  },
+  "oi-header": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"header\" title=\"header\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-header"
+  },
+  "oi-headphones": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"headphones\" title=\"headphones\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-headphones"
+  },
+  "oi-heart": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"heart\" title=\"heart\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-heart"
+  },
+  "oi-home": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"home\" title=\"home\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-home"
+  },
+  "oi-image": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"image\" title=\"image\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-image"
+  },
+  "oi-inbox": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"inbox\" title=\"inbox\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-inbox"
+  },
+  "oi-infinity": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"infinity\" title=\"infinity\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-infinity"
+  },
+  "oi-info": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"info\" title=\"info\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-info"
+  },
+  "oi-italic": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"italic\" title=\"italic\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-italic"
+  },
+  "oi-justify-center": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"justify-center\" title=\"justify-center\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-justify-center"
+  },
+  "oi-justify-left": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"justify-left\" title=\"justify-left\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-justify-left"
+  },
+  "oi-justify-right": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"justify-right\" title=\"justify-right\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-justify-right"
+  },
+  "oi-key": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"key\" title=\"key\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-key"
+  },
+  "oi-laptop": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"laptop\" title=\"laptop\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-laptop"
+  },
+  "oi-layers": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"layers\" title=\"layers\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-layers"
+  },
+  "oi-lightbulb": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"lightbulb\" title=\"lightbulb\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-lightbulb"
+  },
+  "oi-link-broken": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"link-broken\" title=\"link-broken\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-link-broken"
+  },
+  "oi-link-intact": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"link-intact\" title=\"link-intact\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-link-intact"
+  },
+  "oi-list-rich": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"list-rich\" title=\"list-rich\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-list-rich"
+  },
+  "oi-list": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"list\" title=\"list\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-list"
+  },
+  "oi-location": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"location\" title=\"location\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-location"
+  },
+  "oi-lock-locked": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"lock-locked\" title=\"lock-locked\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-lock-locked"
+  },
+  "oi-lock-unlocked": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"lock-unlocked\" title=\"lock-unlocked\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-lock-unlocked"
+  },
+  "oi-loop-circular": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"loop-circular\" title=\"loop-circular\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-loop-circular"
+  },
+  "oi-loop-square": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"loop-square\" title=\"loop-square\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-loop-square"
+  },
+  "oi-loop": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"loop\" title=\"loop\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-loop"
+  },
+  "oi-magnifying-glass": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"magnifying-glass\" title=\"magnifying-glass\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-magnifying-glass"
+  },
+  "oi-map-marker": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"map-marker\" title=\"map-marker\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-map-marker"
+  },
+  "oi-map": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"map\" title=\"map\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-map"
+  },
+  "oi-media-pause": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"media-pause\" title=\"media-pause\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-media-pause"
+  },
+  "oi-media-play": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"media-play\" title=\"media-play\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-media-play"
+  },
+  "oi-media-record": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"media-record\" title=\"media-record\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-media-record"
+  },
+  "oi-media-skip-backward": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"media-skip-backward\" title=\"media-skip-backward\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-media-skip-backward"
+  },
+  "oi-media-skip-forward": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"media-skip-forward\" title=\"media-skip-forward\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-media-skip-forward"
+  },
+  "oi-media-step-backward": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"media-step-backward\" title=\"media-step-backward\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-media-step-backward"
+  },
+  "oi-media-step-forward": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"media-step-forward\" title=\"media-step-forward\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-media-step-forward"
+  },
+  "oi-media-stop": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"media-stop\" title=\"media-stop\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-media-stop"
+  },
+  "oi-medical-cross": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"medical-cross\" title=\"medical-cross\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-medical-cross"
+  },
+  "oi-menu": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"menu\" title=\"menu\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-menu"
+  },
+  "oi-microphone": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"microphone\" title=\"microphone\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-microphone"
+  },
+  "oi-minus": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"minus\" title=\"minus\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-minus"
+  },
+  "oi-monitor": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"monitor\" title=\"monitor\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-monitor"
+  },
+  "oi-moon": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"moon\" title=\"moon\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-moon"
+  },
+  "oi-move": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"move\" title=\"move\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-move"
+  },
+  "oi-musical-note": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"musical-note\" title=\"musical-note\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-musical-note"
+  },
+  "oi-paperclip": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"paperclip\" title=\"paperclip\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-paperclip"
+  },
+  "oi-pencil": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"pencil\" title=\"pencil\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-pencil"
+  },
+  "oi-people": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"people\" title=\"people\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-people"
+  },
+  "oi-person": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"person\" title=\"person\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-person"
+  },
+  "oi-phone": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"phone\" title=\"phone\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-phone"
+  },
+  "oi-pie-chart": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"pie-chart\" title=\"pie-chart\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-pie-chart"
+  },
+  "oi-pin": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"pin\" title=\"pin\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-pin"
+  },
+  "oi-play-circle": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"play-circle\" title=\"play-circle\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-play-circle"
+  },
+  "oi-plus": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"plus\" title=\"plus\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-plus"
+  },
+  "oi-power-standby": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"power-standby\" title=\"power-standby\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-power-standby"
+  },
+  "oi-print": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"print\" title=\"print\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-print"
+  },
+  "oi-project": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"project\" title=\"project\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-project"
+  },
+  "oi-pulse": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"pulse\" title=\"pulse\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-pulse"
+  },
+  "oi-puzzle-piece": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"puzzle-piece\" title=\"puzzle-piece\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-puzzle-piece"
+  },
+  "oi-question-mark": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"question-mark\" title=\"question-mark\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-question-mark"
+  },
+  "oi-rain": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"rain\" title=\"rain\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-rain"
+  },
+  "oi-random": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"random\" title=\"random\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-random"
+  },
+  "oi-reload": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"reload\" title=\"reload\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-reload"
+  },
+  "oi-resize-both": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"resize-both\" title=\"resize-both\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-resize-both"
+  },
+  "oi-resize-height": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"resize-height\" title=\"resize-height\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-resize-height"
+  },
+  "oi-resize-width": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"resize-width\" title=\"resize-width\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-resize-width"
+  },
+  "oi-rss-alt": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"rss-alt\" title=\"rss-alt\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-rss-alt"
+  },
+  "oi-rss": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"rss\" title=\"rss\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-rss"
+  },
+  "oi-script": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"script\" title=\"script\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-script"
+  },
+  "oi-share-boxed": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"share-boxed\" title=\"share-boxed\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-share-boxed"
+  },
+  "oi-share": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"share\" title=\"share\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-share"
+  },
+  "oi-shield": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"shield\" title=\"shield\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-shield"
+  },
+  "oi-signal": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"signal\" title=\"signal\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-signal"
+  },
+  "oi-signpost": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"signpost\" title=\"signpost\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-signpost"
+  },
+  "oi-sort-ascending": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"sort-ascending\" title=\"sort-ascending\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-sort-ascending"
+  },
+  "oi-sort-descending": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"sort-descending\" title=\"sort-descending\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-sort-descending"
+  },
+  "oi-spreadsheet": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"spreadsheet\" title=\"spreadsheet\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-spreadsheet"
+  },
+  "oi-star": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"star\" title=\"star\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-star"
+  },
+  "oi-sun": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"sun\" title=\"sun\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-sun"
+  },
+  "oi-tablet": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"tablet\" title=\"tablet\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-tablet"
+  },
+  "oi-tag": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"tag\" title=\"tag\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-tag"
+  },
+  "oi-tags": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"tags\" title=\"tags\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-tags"
+  },
+  "oi-target": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"target\" title=\"target\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-target"
+  },
+  "oi-task": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"task\" title=\"task\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-task"
+  },
+  "oi-terminal": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"terminal\" title=\"terminal\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-terminal"
+  },
+  "oi-text": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"text\" title=\"text\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-text"
+  },
+  "oi-thumb-down": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"thumb-down\" title=\"thumb-down\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-thumb-down"
+  },
+  "oi-thumb-up": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"thumb-up\" title=\"thumb-up\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-thumb-up"
+  },
+  "oi-timer": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"timer\" title=\"timer\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-timer"
+  },
+  "oi-transfer": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"transfer\" title=\"transfer\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-transfer"
+  },
+  "oi-trash": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"trash\" title=\"trash\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-trash"
+  },
+  "oi-underline": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"underline\" title=\"underline\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-underline"
+  },
+  "oi-vertical-align-bottom": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"vertical-align-bottom\" title=\"vertical-align-bottom\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-vertical-align-bottom"
+  },
+  "oi-vertical-align-center": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"vertical-align-center\" title=\"vertical-align-center\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-vertical-align-center"
+  },
+  "oi-vertical-align-top": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"vertical-align-top\" title=\"vertical-align-top\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-vertical-align-top"
+  },
+  "oi-video": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"video\" title=\"video\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-video"
+  },
+  "oi-volume-high": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"volume-high\" title=\"volume-high\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-volume-high"
+  },
+  "oi-volume-low": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"volume-low\" title=\"volume-low\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-volume-low"
+  },
+  "oi-volume-off": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"volume-off\" title=\"volume-off\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-volume-off"
+  },
+  "oi-warning": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"warning\" title=\"warning\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-warning"
+  },
+  "oi-wifi": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"wifi\" title=\"wifi\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-wifi"
+  },
+  "oi-wrench": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"wrench\" title=\"wrench\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-wrench"
+  },
+  "oi-x": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"x\" title=\"x\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-x"
+  },
+  "oi-yen": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"yen\" title=\"yen\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-yen"
+  },
+  "oi-zoom-in": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"zoom-in\" title=\"zoom-in\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-zoom-in"
+  },
+  "oi-zoom-out": {
+    "body": "<${1:span} class=\"oi\" data-glyph=\"zoom-out\" title=\"zoom-out\" aria-hidden=\"true$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "oi-zoom-out"
   }
 }

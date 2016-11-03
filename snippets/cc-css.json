@@ -1,166 +1,166 @@
 {
-  "cc-pd": {
-    "prefix": "cc-pd",
-    "body": "content: '\\\\0070';"
-  },
-  "cc-zero-public": {
-    "prefix": "cc-zero-public",
-    "body": "content: '\\\\0030';"
-  },
-  "cc-remix": {
-    "prefix": "cc-remix",
-    "body": "content: '\\\\0072';"
-  },
-  "cc-by-sa-nd": {
-    "prefix": "cc-by-sa-nd",
-    "body": "content: '\\\\0034';"
-  },
-  "cc-by-nc-nd-eu": {
-    "prefix": "cc-by-nc-nd-eu",
-    "body": "content: '\\\\0046';"
-  },
-  "cc-logo": {
-    "prefix": "cc-logo",
-    "body": "content: '\\\\0043';"
-  },
-  "cc-by-nc": {
-    "prefix": "cc-by-nc",
-    "body": "content: '\\\\004E';"
-  },
-  "cc-one": {
-    "prefix": "cc-one",
-    "body": "content: '\\\\0031';"
-  },
-  "cc-by-nd": {
-    "prefix": "cc-by-nd",
-    "body": "content: '\\\\0044';"
-  },
-  "cc-nc-eu": {
-    "prefix": "cc-nc-eu",
-    "body": "content: '\\\\0065';"
-  },
-  "cc-by-nc-sa-eu": {
-    "prefix": "cc-by-nc-sa-eu",
-    "body": "content: '\\\\0047';"
-  },
-  "cc-zero": {
-    "prefix": "cc-zero",
-    "body": "content: '\\\\0030';"
-  },
-  "cc-publicdomain": {
-    "prefix": "cc-publicdomain",
-    "body": "content: '\\\\004F';"
-  },
-  "cc-eight": {
-    "prefix": "cc-eight",
-    "body": "content: '\\\\0038';"
-  },
-  "cc-public": {
-    "prefix": "cc-public",
-    "body": "content: '\\\\0039';"
-  },
-  "cc-by-nc-sa-jp": {
-    "prefix": "cc-by-nc-sa-jp",
-    "body": "content: '\\\\004C';"
-  },
-  "cc-nc": {
-    "prefix": "cc-nc",
-    "body": "content: '\\\\006E';"
-  },
-  "cc-pd-alt": {
-    "prefix": "cc-pd-alt",
-    "body": "content: '\\\\0071';"
-  },
-  "cc-by-nc-eu": {
-    "prefix": "cc-by-nc-eu",
-    "body": "content: '\\\\0045';"
-  },
-  "cc-by-nc-nd": {
-    "prefix": "cc-by-nc-nd",
-    "body": "content: '\\\\0052';"
-  },
-  "cc-nd": {
-    "prefix": "cc-nd",
-    "body": "content: '\\\\0064';"
-  },
-  "cc-small-by": {
-    "prefix": "cc-small-by",
-    "body": "content: '\\\\0032';"
-  },
-  "cc-six": {
-    "prefix": "cc-six",
-    "body": "content: '\\\\0036';"
-  },
-  "cc-by-nc-jp": {
-    "prefix": "cc-by-nc-jp",
-    "body": "content: '\\\\004A';"
-  },
-  "cc-nc-jp": {
-    "prefix": "cc-nc-jp",
-    "body": "content: '\\\\006A';"
-  },
-  "cc-seven": {
-    "prefix": "cc-seven",
-    "body": "content: '\\\\0037';"
-  },
-  "cc-by-nc-nd-jp": {
-    "prefix": "cc-by-nc-nd-jp",
-    "body": "content: '\\\\004B';"
-  },
   "cc-blank": {
-    "prefix": "cc-blank",
-    "body": "content: '\\\\0038';"
-  },
-  "cc-nine": {
-    "prefix": "cc-nine",
-    "body": "content: '\\\\0039';"
-  },
-  "cc-by-sa": {
-    "prefix": "cc-by-sa",
-    "body": "content: '\\\\0053';"
-  },
-  "cc-share": {
-    "prefix": "cc-share",
-    "body": "content: '\\\\0073';"
-  },
-  "cc-five": {
-    "prefix": "cc-five",
-    "body": "content: '\\\\0035';"
-  },
-  "cc-three": {
-    "prefix": "cc-three",
-    "body": "content: '\\\\0033';"
+    "body": "content: '\\\\0038';",
+    "prefix": "cc-blank"
   },
   "cc-by": {
-    "prefix": "cc-by",
-    "body": "content: '\\\\0062';"
+    "body": "content: '\\\\0062';",
+    "prefix": "cc-by"
   },
-  "cc-sa": {
-    "prefix": "cc-sa",
-    "body": "content: '\\\\0061';"
+  "cc-by-nc": {
+    "body": "content: '\\\\004E';",
+    "prefix": "cc-by-nc"
   },
-  "cc-srr": {
-    "prefix": "cc-srr",
-    "body": "content: '\\\\0031';"
+  "cc-by-nc-eu": {
+    "body": "content: '\\\\0045';",
+    "prefix": "cc-by-nc-eu"
   },
-  "cc-two": {
-    "prefix": "cc-two",
-    "body": "content: '\\\\0032';"
+  "cc-by-nc-jp": {
+    "body": "content: '\\\\004A';",
+    "prefix": "cc-by-nc-jp"
+  },
+  "cc-by-nc-nd": {
+    "body": "content: '\\\\0052';",
+    "prefix": "cc-by-nc-nd"
+  },
+  "cc-by-nc-nd-eu": {
+    "body": "content: '\\\\0046';",
+    "prefix": "cc-by-nc-nd-eu"
+  },
+  "cc-by-nc-nd-jp": {
+    "body": "content: '\\\\004B';",
+    "prefix": "cc-by-nc-nd-jp"
   },
   "cc-by-nc-sa": {
-    "prefix": "cc-by-nc-sa",
-    "body": "content: '\\\\0036';"
+    "body": "content: '\\\\0036';",
+    "prefix": "cc-by-nc-sa"
+  },
+  "cc-by-nc-sa-eu": {
+    "body": "content: '\\\\0047';",
+    "prefix": "cc-by-nc-sa-eu"
+  },
+  "cc-by-nc-sa-jp": {
+    "body": "content: '\\\\004C';",
+    "prefix": "cc-by-nc-sa-jp"
+  },
+  "cc-by-nd": {
+    "body": "content: '\\\\0044';",
+    "prefix": "cc-by-nd"
+  },
+  "cc-by-sa": {
+    "body": "content: '\\\\0053';",
+    "prefix": "cc-by-sa"
+  },
+  "cc-by-sa-nd": {
+    "body": "content: '\\\\0034';",
+    "prefix": "cc-by-sa-nd"
   },
   "cc-cc": {
-    "prefix": "cc-cc",
-    "body": "content: '\\\\0063';"
+    "body": "content: '\\\\0063';",
+    "prefix": "cc-cc"
+  },
+  "cc-eight": {
+    "body": "content: '\\\\0038';",
+    "prefix": "cc-eight"
+  },
+  "cc-five": {
+    "body": "content: '\\\\0035';",
+    "prefix": "cc-five"
   },
   "cc-four": {
-    "prefix": "cc-four",
-    "body": "content: '\\\\0034';"
+    "body": "content: '\\\\0034';",
+    "prefix": "cc-four"
+  },
+  "cc-logo": {
+    "body": "content: '\\\\0043';",
+    "prefix": "cc-logo"
+  },
+  "cc-nc": {
+    "body": "content: '\\\\006E';",
+    "prefix": "cc-nc"
+  },
+  "cc-nc-eu": {
+    "body": "content: '\\\\0065';",
+    "prefix": "cc-nc-eu"
+  },
+  "cc-nc-jp": {
+    "body": "content: '\\\\006A';",
+    "prefix": "cc-nc-jp"
+  },
+  "cc-nd": {
+    "body": "content: '\\\\0064';",
+    "prefix": "cc-nd"
+  },
+  "cc-nine": {
+    "body": "content: '\\\\0039';",
+    "prefix": "cc-nine"
+  },
+  "cc-one": {
+    "body": "content: '\\\\0031';",
+    "prefix": "cc-one"
+  },
+  "cc-pd": {
+    "body": "content: '\\\\0070';",
+    "prefix": "cc-pd"
+  },
+  "cc-pd-alt": {
+    "body": "content: '\\\\0071';",
+    "prefix": "cc-pd-alt"
+  },
+  "cc-public": {
+    "body": "content: '\\\\0039';",
+    "prefix": "cc-public"
+  },
+  "cc-publicdomain": {
+    "body": "content: '\\\\004F';",
+    "prefix": "cc-publicdomain"
+  },
+  "cc-remix": {
+    "body": "content: '\\\\0072';",
+    "prefix": "cc-remix"
+  },
+  "cc-sa": {
+    "body": "content: '\\\\0061';",
+    "prefix": "cc-sa"
   },
   "cc-sampling": {
-    "prefix": "cc-sampling",
-    "body": "content: '\\\\006D';"
+    "body": "content: '\\\\006D';",
+    "prefix": "cc-sampling"
+  },
+  "cc-seven": {
+    "body": "content: '\\\\0037';",
+    "prefix": "cc-seven"
+  },
+  "cc-share": {
+    "body": "content: '\\\\0073';",
+    "prefix": "cc-share"
+  },
+  "cc-six": {
+    "body": "content: '\\\\0036';",
+    "prefix": "cc-six"
+  },
+  "cc-small-by": {
+    "body": "content: '\\\\0032';",
+    "prefix": "cc-small-by"
+  },
+  "cc-srr": {
+    "body": "content: '\\\\0031';",
+    "prefix": "cc-srr"
+  },
+  "cc-three": {
+    "body": "content: '\\\\0033';",
+    "prefix": "cc-three"
+  },
+  "cc-two": {
+    "body": "content: '\\\\0032';",
+    "prefix": "cc-two"
+  },
+  "cc-zero": {
+    "body": "content: '\\\\0030';",
+    "prefix": "cc-zero"
+  },
+  "cc-zero-public": {
+    "body": "content: '\\\\0030';",
+    "prefix": "cc-zero-public"
   }
 }

@@ -41,7 +41,7 @@
   },
   "jsdelivr-openwebicons": {
     "prefix": "jsdelivr-openwebicons",
-    "body": "<link href=\"https://cdn.jsdelivr.net/openwebicons/${1:1.4.1}/css/openwebicons${2:.min}.css\" rel=\"stylesheet\">$3"
+    "body": "<link href=\"https://cdn.jsdelivr.net/openwebicons/${1:1.4.2}/css/openwebicons${2:.min}.css\" rel=\"stylesheet\">$3"
   },
   "jsdelivr-ratchicon": {
     "prefix": "jsdelivr-ratchicon",

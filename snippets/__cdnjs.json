@@ -48,7 +48,7 @@
     "prefix": "cdnjs-octicon"
   },
   "cdnjs-openwebicons": {
-    "body": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/openwebicons/${1:1.4.1}/css/openwebicons${2:.min}.css\" rel=\"stylesheet\">$3",
+    "body": "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/openwebicons/${1:1.4.2}/css/openwebicons${2:.min}.css\" rel=\"stylesheet\">$3",
     "prefix": "cdnjs-openwebicons"
   },
   "cdnjs-payment": {

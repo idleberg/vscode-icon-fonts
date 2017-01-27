@@ -1,4 +1,9 @@
 {
+  "fl-alpine": {
+    "body": "<${1:i} class=\"fl-alpine\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-alpine"
+  },
   "fl-aosc": {
     "body": "<${1:i} class=\"fl-aosc\"></${1:i}>$2",
     "description": "<i>",
@@ -28,6 +33,11 @@
     "body": "<${1:i} class=\"fl-debian\"></${1:i}>$2",
     "description": "<i>",
     "prefix": "fl-debian"
+  },
+  "fl-docker": {
+    "body": "<${1:i} class=\"fl-docker\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-docker"
   },
   "fl-elementary": {
     "body": "<${1:i} class=\"fl-elementary\"></${1:i}>$2",

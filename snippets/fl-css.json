@@ -1,4 +1,8 @@
 {
+  "fl-alpine": {
+    "body": "content: '\\f11f';$1",
+    "prefix": "fl-alpine"
+  },
   "fl-aosc": {
     "body": "content: '\\f116';$1",
     "prefix": "fl-aosc"
@@ -22,6 +26,10 @@
   "fl-debian": {
     "body": "content: '\\f102';$1",
     "prefix": "fl-debian"
+  },
+  "fl-docker": {
+    "body": "content: '\\f11e';$1",
+    "prefix": "fl-docker"
   },
   "fl-elementary": {
     "body": "content: '\\f113';$1",

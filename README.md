@@ -56,7 +56,6 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `cc`           | [Creative Commons Icon Font][cc]    | 1.2.1   | ✅    | ✅
 `dashicons`    | [WordPress Dashicons][dashicons]    | –       | 🚫    | 🚫
 `devicons`     | [Devicons][devicons]                | 1.8.0   | ✅    | ✅
-`ei`           | [Evil Icons][ei]                    | 1.8.0   | 🚫    | 🚫
 `el`           | [Elusive Icons][el]                 | 2.0.0   | 🚫    | 🚫
 `fa`           | [Font Awesome][fa]                  | 4.7.0   | ✅    | ✅
 `fi`           | [Foundation Icons][fi]              | 3.0     | ✅    | ✅
@@ -68,7 +67,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `mdi`          | [Material Design Icons][mdi]        | 1.7.22  | ✅    | 🚫
 `mfg`          | [MFG Labs Iconset][mfg]             | –       | 🚫    | 🚫
 `mfizz`        | [Font Mfizz][mfizz]                 | 2.3.0   | ✅    | 🚫
-`octicon`      | [GitHub Octicons][octicon]          | 5.0.0   | 🚫    | 🚫
+`octicon`      | [GitHub Octicons][octicon]          | 4.1.0   | 🚫    | 🚫
 `oi`           | [Open Iconic][oi]                   | 1.1.0   | 🚫    | ✅
 `openwebicons` | [OpenWeb Icons][openwebicons]       | 1.4.2   | ✅    | ✅
 `pf`           | [PaymentFont][pf]                   | 1.1.2   | ✅    | 🚫
@@ -79,7 +78,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `wi`           | [Weather Icons][wi]                 | 2.0.10  | ✅    | 🚫
 `zmdi`         | [Material Design Iconic Font][zmdi] | 2.2.0   | ✅    | 🚫
 
-Several previously supported fonts have been removed and are now available in a [separate package](https://github.com/idleberg/vscode-icon-fonts-legacy).
+Several previously supported fonts have been removed and are now available in the [SVG icons](https://github.com/idleberg/vscode-svg-icons) package or the icon fonts [legacy package](https://github.com/idleberg/vscode-icon-fonts-legacy).
 
 Examples:
 
@@ -110,7 +109,6 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [cc]: https://github.com/cc-icons/cc-icons
 [dashicons]: https://github.com/WordPress/dashicons
 [devicons]: https://github.com/vorillaz/devicons
-[ei]: https://github.com/outpunk/evil-icons
 [el]: https://github.com/reduxframework/Elusive-Icons
 [fa]: https://github.com/FortAwesome/Font-Awesome
 [fi]: http://zurb.com/playground/foundation-icons
@@ -123,7 +121,7 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [mdi]: https://github.com/Templarian/MaterialDesign-Webfont
 [mfg]: https://github.com/MfgLabs/mfglabs-iconset
 [mfizz]: https://github.com/fizzed/font-mfizz
-[octicon]: https://github.com/github/octicons
+[octicon]: https://github.com/primer/octicons/tree/v4.1.0
 [oi]: https://github.com/iconic/open-iconic
 [openwebicons]: https://github.com/pfefferle/openwebicons
 [pf]: https://github.com/vendocrat/PaymentFont

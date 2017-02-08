@@ -1,882 +1,1092 @@
 {
   "octicon-alert": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-alert\" aria-hidden=\"true\"><use xlink:href=\"#alert\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-alert$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-alert"
   },
+  "octicon-alignment-align": {
+    "body": "<${1:span} class=\"octicon octicon-alignment-align$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-alignment-align"
+  },
+  "octicon-alignment-aligned-to": {
+    "body": "<${1:span} class=\"octicon octicon-alignment-aligned-to$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-alignment-aligned-to"
+  },
+  "octicon-alignment-unalign": {
+    "body": "<${1:span} class=\"octicon octicon-alignment-unalign$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-alignment-unalign"
+  },
   "octicon-arrow-down": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-arrow-down\" aria-hidden=\"true\"><use xlink:href=\"#arrow-down\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-arrow-down$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-arrow-down"
   },
   "octicon-arrow-left": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-arrow-left\" aria-hidden=\"true\"><use xlink:href=\"#arrow-left\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-arrow-left$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-arrow-left"
   },
   "octicon-arrow-right": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-arrow-right\" aria-hidden=\"true\"><use xlink:href=\"#arrow-right\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-arrow-right$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-arrow-right"
   },
   "octicon-arrow-small-down": {
-    "body": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-arrow-small-down\" aria-hidden=\"true\"><use xlink:href=\"#arrow-small-down\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-arrow-small-down$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-arrow-small-down"
   },
   "octicon-arrow-small-left": {
-    "body": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-arrow-small-left\" aria-hidden=\"true\"><use xlink:href=\"#arrow-small-left\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-arrow-small-left$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-arrow-small-left"
   },
   "octicon-arrow-small-right": {
-    "body": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-arrow-small-right\" aria-hidden=\"true\"><use xlink:href=\"#arrow-small-right\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-arrow-small-right$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-arrow-small-right"
   },
   "octicon-arrow-small-up": {
-    "body": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-arrow-small-up\" aria-hidden=\"true\"><use xlink:href=\"#arrow-small-up\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-arrow-small-up$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-arrow-small-up"
   },
   "octicon-arrow-up": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-arrow-up\" aria-hidden=\"true\"><use xlink:href=\"#arrow-up\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-arrow-up$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-arrow-up"
   },
   "octicon-beaker": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-beaker\" aria-hidden=\"true\"><use xlink:href=\"#beaker\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-beaker$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-beaker"
   },
+  "octicon-beer": {
+    "body": "<${1:span} class=\"octicon octicon-beer$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-beer"
+  },
   "octicon-bell": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-bell\" aria-hidden=\"true\"><use xlink:href=\"#bell\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-bell$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-bell"
   },
   "octicon-bold": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-bold\" aria-hidden=\"true\"><use xlink:href=\"#bold\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-bold$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-bold"
   },
   "octicon-book": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-book\" aria-hidden=\"true\"><use xlink:href=\"#book\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-book$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-book"
   },
   "octicon-bookmark": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-bookmark\" aria-hidden=\"true\"><use xlink:href=\"#bookmark\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-bookmark$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-bookmark"
   },
   "octicon-briefcase": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-briefcase\" aria-hidden=\"true\"><use xlink:href=\"#briefcase\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-briefcase$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-briefcase"
   },
   "octicon-broadcast": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-broadcast\" aria-hidden=\"true\"><use xlink:href=\"#broadcast\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-broadcast$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-broadcast"
   },
   "octicon-browser": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-browser\" aria-hidden=\"true\"><use xlink:href=\"#browser\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-browser$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-browser"
   },
   "octicon-bug": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-bug\" aria-hidden=\"true\"><use xlink:href=\"#bug\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-bug$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-bug"
   },
   "octicon-calendar": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-calendar\" aria-hidden=\"true\"><use xlink:href=\"#calendar\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-calendar$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-calendar"
   },
   "octicon-check": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-check\" aria-hidden=\"true\"><use xlink:href=\"#check\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-check$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-check"
   },
   "octicon-checklist": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-checklist\" aria-hidden=\"true\"><use xlink:href=\"#checklist\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-checklist$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-checklist"
   },
   "octicon-chevron-down": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-chevron-down\" aria-hidden=\"true\"><use xlink:href=\"#chevron-down\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-chevron-down$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-chevron-down"
   },
   "octicon-chevron-left": {
-    "body": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-chevron-left\" aria-hidden=\"true\"><use xlink:href=\"#chevron-left\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-chevron-left$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-chevron-left"
   },
   "octicon-chevron-right": {
-    "body": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-chevron-right\" aria-hidden=\"true\"><use xlink:href=\"#chevron-right\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-chevron-right$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-chevron-right"
   },
   "octicon-chevron-up": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-chevron-up\" aria-hidden=\"true\"><use xlink:href=\"#chevron-up\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-chevron-up$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-chevron-up"
   },
   "octicon-circle-slash": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-circle-slash\" aria-hidden=\"true\"><use xlink:href=\"#circle-slash\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-circle-slash$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-circle-slash"
   },
   "octicon-circuit-board": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-circuit-board\" aria-hidden=\"true\"><use xlink:href=\"#circuit-board\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-circuit-board$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-circuit-board"
   },
   "octicon-clippy": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-clippy\" aria-hidden=\"true\"><use xlink:href=\"#clippy\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-clippy$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-clippy"
   },
   "octicon-clock": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-clock\" aria-hidden=\"true\"><use xlink:href=\"#clock\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-clock$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-clock"
   },
   "octicon-cloud-download": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-cloud-download\" aria-hidden=\"true\"><use xlink:href=\"#cloud-download\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-cloud-download$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-cloud-download"
   },
   "octicon-cloud-upload": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-cloud-upload\" aria-hidden=\"true\"><use xlink:href=\"#cloud-upload\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-cloud-upload$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-cloud-upload"
   },
   "octicon-code": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-code\" aria-hidden=\"true\"><use xlink:href=\"#code\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-code$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-code"
   },
-  "octicon-comment": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-comment\" aria-hidden=\"true\"><use xlink:href=\"#comment\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-comment"
+  "octicon-comment-add": {
+    "body": "<${1:span} class=\"octicon octicon-comment-add$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-comment-add"
   },
   "octicon-comment-discussion": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-comment-discussion\" aria-hidden=\"true\"><use xlink:href=\"#comment-discussion\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-comment-discussion$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-comment-discussion"
   },
+  "octicon-comment": {
+    "body": "<${1:span} class=\"octicon octicon-comment$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-comment"
+  },
   "octicon-credit-card": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-credit-card\" aria-hidden=\"true\"><use xlink:href=\"#credit-card\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-credit-card$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-credit-card"
   },
   "octicon-dash": {
-    "body": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-dash\" aria-hidden=\"true\"><use xlink:href=\"#dash\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-dash$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-dash"
   },
   "octicon-dashboard": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-dashboard\" aria-hidden=\"true\"><use xlink:href=\"#dashboard\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-dashboard$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-dashboard"
   },
   "octicon-database": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-database\" aria-hidden=\"true\"><use xlink:href=\"#database\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-database$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-database"
   },
   "octicon-desktop-download": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-desktop-download\" aria-hidden=\"true\"><use xlink:href=\"#desktop-download\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-desktop-download$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-desktop-download"
   },
-  "octicon-device-camera": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-device-camera\" aria-hidden=\"true\"><use xlink:href=\"#device-camera\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-device-camera"
-  },
   "octicon-device-camera-video": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-device-camera-video\" aria-hidden=\"true\"><use xlink:href=\"#device-camera-video\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-device-camera-video$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-device-camera-video"
   },
+  "octicon-device-camera": {
+    "body": "<${1:span} class=\"octicon octicon-device-camera$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-device-camera"
+  },
   "octicon-device-desktop": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-device-desktop\" aria-hidden=\"true\"><use xlink:href=\"#device-desktop\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-device-desktop$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-device-desktop"
   },
   "octicon-device-mobile": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-device-mobile\" aria-hidden=\"true\"><use xlink:href=\"#device-mobile\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-device-mobile$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-device-mobile"
   },
-  "octicon-diff": {
-    "body": "<svg version=\"1.1\" width=\"26\" height=\"32\" viewBox=\"0 0 13 16\" class=\"octicon octicon-diff\" aria-hidden=\"true\"><use xlink:href=\"#diff\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-diff"
-  },
   "octicon-diff-added": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-added\" aria-hidden=\"true\"><use xlink:href=\"#diff-added\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-diff-added$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-diff-added"
   },
   "octicon-diff-ignored": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-ignored\" aria-hidden=\"true\"><use xlink:href=\"#diff-ignored\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-diff-ignored$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-diff-ignored"
   },
   "octicon-diff-modified": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-modified\" aria-hidden=\"true\"><use xlink:href=\"#diff-modified\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-diff-modified$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-diff-modified"
   },
   "octicon-diff-removed": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-removed\" aria-hidden=\"true\"><use xlink:href=\"#diff-removed\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-diff-removed$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-diff-removed"
   },
   "octicon-diff-renamed": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-renamed\" aria-hidden=\"true\"><use xlink:href=\"#diff-renamed\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-diff-renamed$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-diff-renamed"
   },
-  "octicon-ellipses": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-ellipses\" aria-hidden=\"true\"><use xlink:href=\"#ellipses\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-ellipses"
+  "octicon-diff": {
+    "body": "<${1:span} class=\"octicon octicon-diff$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-diff"
   },
   "octicon-ellipsis": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-ellipsis\" aria-hidden=\"true\"><use xlink:href=\"#ellipsis\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-ellipsis$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-ellipsis"
   },
+  "octicon-eye-unwatch": {
+    "body": "<${1:span} class=\"octicon octicon-eye-unwatch$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-eye-unwatch"
+  },
+  "octicon-eye-watch": {
+    "body": "<${1:span} class=\"octicon octicon-eye-watch$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-eye-watch"
+  },
   "octicon-eye": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-eye\" aria-hidden=\"true\"><use xlink:href=\"#eye\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-eye$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-eye"
   },
-  "octicon-file": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file\" aria-hidden=\"true\"><use xlink:href=\"#file\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-file"
+  "octicon-file-add": {
+    "body": "<${1:span} class=\"octicon octicon-file-add$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-file-add"
   },
   "octicon-file-binary": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-binary\" aria-hidden=\"true\"><use xlink:href=\"#file-binary\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-file-binary$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-file-binary"
   },
   "octicon-file-code": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-code\" aria-hidden=\"true\"><use xlink:href=\"#file-code\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-file-code$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-file-code"
   },
+  "octicon-file-directory-create": {
+    "body": "<${1:span} class=\"octicon octicon-file-directory-create$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-file-directory-create"
+  },
   "octicon-file-directory": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-file-directory\" aria-hidden=\"true\"><use xlink:href=\"#file-directory\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-file-directory$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-file-directory"
   },
   "octicon-file-media": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-media\" aria-hidden=\"true\"><use xlink:href=\"#file-media\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-file-media$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-file-media"
   },
   "octicon-file-pdf": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-pdf\" aria-hidden=\"true\"><use xlink:href=\"#file-pdf\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-file-pdf$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-file-pdf"
   },
   "octicon-file-submodule": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-file-submodule\" aria-hidden=\"true\"><use xlink:href=\"#file-submodule\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-file-submodule$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-file-submodule"
   },
   "octicon-file-symlink-directory": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-file-symlink-directory\" aria-hidden=\"true\"><use xlink:href=\"#file-symlink-directory\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-file-symlink-directory$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-file-symlink-directory"
   },
   "octicon-file-symlink-file": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-symlink-file\" aria-hidden=\"true\"><use xlink:href=\"#file-symlink-file\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-file-symlink-file$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-file-symlink-file"
   },
   "octicon-file-text": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-text\" aria-hidden=\"true\"><use xlink:href=\"#file-text\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-file-text$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-file-text"
   },
   "octicon-file-zip": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-zip\" aria-hidden=\"true\"><use xlink:href=\"#file-zip\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-file-zip$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-file-zip"
   },
   "octicon-flame": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-flame\" aria-hidden=\"true\"><use xlink:href=\"#flame\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-flame$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-flame"
   },
   "octicon-fold": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-fold\" aria-hidden=\"true\"><use xlink:href=\"#fold\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-fold$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-fold"
   },
   "octicon-gear": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-gear\" aria-hidden=\"true\"><use xlink:href=\"#gear\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-gear$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-gear"
   },
   "octicon-gift": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-gift\" aria-hidden=\"true\"><use xlink:href=\"#gift\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-gift$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-gift"
   },
-  "octicon-gist": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-gist\" aria-hidden=\"true\"><use xlink:href=\"#gist\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-gist"
+  "octicon-gist-fork": {
+    "body": "<${1:span} class=\"octicon octicon-gist-fork$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-gist-fork"
+  },
+  "octicon-gist-new": {
+    "body": "<${1:span} class=\"octicon octicon-gist-new$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-gist-new"
+  },
+  "octicon-gist-private": {
+    "body": "<${1:span} class=\"octicon octicon-gist-private$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-gist-private"
   },
   "octicon-gist-secret": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-gist-secret\" aria-hidden=\"true\"><use xlink:href=\"#gist-secret\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-gist-secret$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-gist-secret"
   },
+  "octicon-gist": {
+    "body": "<${1:span} class=\"octicon octicon-gist$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-gist"
+  },
+  "octicon-git-branch-create": {
+    "body": "<${1:span} class=\"octicon octicon-git-branch-create$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-git-branch-create"
+  },
+  "octicon-git-branch-delete": {
+    "body": "<${1:span} class=\"octicon octicon-git-branch-delete$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-git-branch-delete"
+  },
   "octicon-git-branch": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-git-branch\" aria-hidden=\"true\"><use xlink:href=\"#git-branch\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-git-branch$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-git-branch"
   },
   "octicon-git-commit": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-git-commit\" aria-hidden=\"true\"><use xlink:href=\"#git-commit\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-git-commit$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-git-commit"
   },
   "octicon-git-compare": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-git-compare\" aria-hidden=\"true\"><use xlink:href=\"#git-compare\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-git-compare$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-git-compare"
   },
+  "octicon-git-fork-private": {
+    "body": "<${1:span} class=\"octicon octicon-git-fork-private$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-git-fork-private"
+  },
   "octicon-git-merge": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-git-merge\" aria-hidden=\"true\"><use xlink:href=\"#git-merge\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-git-merge$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-git-merge"
   },
+  "octicon-git-pull-request-abandoned": {
+    "body": "<${1:span} class=\"octicon octicon-git-pull-request-abandoned$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-git-pull-request-abandoned"
+  },
   "octicon-git-pull-request": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-git-pull-request\" aria-hidden=\"true\"><use xlink:href=\"#git-pull-request\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-git-pull-request$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-git-pull-request"
   },
   "octicon-globe": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-globe\" aria-hidden=\"true\"><use xlink:href=\"#globe\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-globe$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-globe"
   },
   "octicon-grabber": {
-    "body": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-grabber\" aria-hidden=\"true\"><use xlink:href=\"#grabber\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-grabber$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-grabber"
   },
   "octicon-graph": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-graph\" aria-hidden=\"true\"><use xlink:href=\"#graph\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-graph$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-graph"
   },
   "octicon-heart": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-heart\" aria-hidden=\"true\"><use xlink:href=\"#heart\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-heart$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-heart"
   },
   "octicon-history": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-history\" aria-hidden=\"true\"><use xlink:href=\"#history\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-history$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-history"
   },
   "octicon-home": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-home\" aria-hidden=\"true\"><use xlink:href=\"#home\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-home$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-home"
   },
   "octicon-horizontal-rule": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-horizontal-rule\" aria-hidden=\"true\"><use xlink:href=\"#horizontal-rule\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-horizontal-rule$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-horizontal-rule"
   },
+  "octicon-hourglass": {
+    "body": "<${1:span} class=\"octicon octicon-hourglass$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-hourglass"
+  },
   "octicon-hubot": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-hubot\" aria-hidden=\"true\"><use xlink:href=\"#hubot\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-hubot$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-hubot"
   },
   "octicon-inbox": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-inbox\" aria-hidden=\"true\"><use xlink:href=\"#inbox\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-inbox$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-inbox"
   },
   "octicon-info": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-info\" aria-hidden=\"true\"><use xlink:href=\"#info\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-info$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-info"
   },
   "octicon-issue-closed": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-issue-closed\" aria-hidden=\"true\"><use xlink:href=\"#issue-closed\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-issue-closed$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-issue-closed"
   },
   "octicon-issue-opened": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-issue-opened\" aria-hidden=\"true\"><use xlink:href=\"#issue-opened\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-issue-opened$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-issue-opened"
   },
   "octicon-issue-reopened": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-issue-reopened\" aria-hidden=\"true\"><use xlink:href=\"#issue-reopened\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-issue-reopened$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-issue-reopened"
   },
   "octicon-italic": {
-    "body": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-italic\" aria-hidden=\"true\"><use xlink:href=\"#italic\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-italic$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-italic"
   },
   "octicon-jersey": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-jersey\" aria-hidden=\"true\"><use xlink:href=\"#jersey\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-jersey$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-jersey"
   },
+  "octicon-jump-down": {
+    "body": "<${1:span} class=\"octicon octicon-jump-down$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-jump-down"
+  },
+  "octicon-jump-left": {
+    "body": "<${1:span} class=\"octicon octicon-jump-left$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-jump-left"
+  },
+  "octicon-jump-right": {
+    "body": "<${1:span} class=\"octicon octicon-jump-right$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-jump-right"
+  },
+  "octicon-jump-up": {
+    "body": "<${1:span} class=\"octicon octicon-jump-up$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-jump-up"
+  },
   "octicon-key": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-key\" aria-hidden=\"true\"><use xlink:href=\"#key\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-key$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-key"
   },
   "octicon-keyboard": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-keyboard\" aria-hidden=\"true\"><use xlink:href=\"#keyboard\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-keyboard$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-keyboard"
   },
   "octicon-law": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-law\" aria-hidden=\"true\"><use xlink:href=\"#law\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-law$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-law"
   },
   "octicon-light-bulb": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-light-bulb\" aria-hidden=\"true\"><use xlink:href=\"#light-bulb\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-light-bulb$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-light-bulb"
   },
-  "octicon-link": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-link\" aria-hidden=\"true\"><use xlink:href=\"#link\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-link"
-  },
   "octicon-link-external": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-link-external\" aria-hidden=\"true\"><use xlink:href=\"#link-external\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-link-external$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-link-external"
   },
+  "octicon-link": {
+    "body": "<${1:span} class=\"octicon octicon-link$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-link"
+  },
   "octicon-list-ordered": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-list-ordered\" aria-hidden=\"true\"><use xlink:href=\"#list-ordered\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-list-ordered$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-list-ordered"
   },
   "octicon-list-unordered": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-list-unordered\" aria-hidden=\"true\"><use xlink:href=\"#list-unordered\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-list-unordered$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-list-unordered"
   },
   "octicon-location": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-location\" aria-hidden=\"true\"><use xlink:href=\"#location\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-location$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-location"
   },
   "octicon-lock": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-lock\" aria-hidden=\"true\"><use xlink:href=\"#lock\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-lock$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-lock"
   },
+  "octicon-log-in": {
+    "body": "<${1:span} class=\"octicon octicon-log-in$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-log-in"
+  },
+  "octicon-log-out": {
+    "body": "<${1:span} class=\"octicon octicon-log-out$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-log-out"
+  },
   "octicon-logo-gist": {
-    "body": "<svg version=\"1.1\" width=\"50\" height=\"32\" viewBox=\"0 0 25 16\" class=\"octicon octicon-logo-gist\" aria-hidden=\"true\"><use xlink:href=\"#logo-gist\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-logo-gist$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-logo-gist"
   },
   "octicon-logo-github": {
-    "body": "<svg version=\"1.1\" width=\"90\" height=\"32\" viewBox=\"0 0 45 16\" class=\"octicon octicon-logo-github\" aria-hidden=\"true\"><use xlink:href=\"#logo-github\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-logo-github$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-logo-github"
   },
-  "octicon-mail": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-mail\" aria-hidden=\"true\"><use xlink:href=\"#mail\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-mail"
-  },
   "octicon-mail-read": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-mail-read\" aria-hidden=\"true\"><use xlink:href=\"#mail-read\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-mail-read$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-mail-read"
   },
   "octicon-mail-reply": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-mail-reply\" aria-hidden=\"true\"><use xlink:href=\"#mail-reply\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-mail-reply$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-mail-reply"
   },
+  "octicon-mail": {
+    "body": "<${1:span} class=\"octicon octicon-mail$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-mail"
+  },
   "octicon-mark-github": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-mark-github\" aria-hidden=\"true\"><use xlink:href=\"#mark-github\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-mark-github$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-mark-github"
   },
   "octicon-markdown": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-markdown\" aria-hidden=\"true\"><use xlink:href=\"#markdown\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-markdown$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-markdown"
   },
   "octicon-megaphone": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-megaphone\" aria-hidden=\"true\"><use xlink:href=\"#megaphone\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-megaphone$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-megaphone"
   },
   "octicon-mention": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-mention\" aria-hidden=\"true\"><use xlink:href=\"#mention\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-mention$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-mention"
   },
+  "octicon-microscope": {
+    "body": "<${1:span} class=\"octicon octicon-microscope$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-microscope"
+  },
   "octicon-milestone": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-milestone\" aria-hidden=\"true\"><use xlink:href=\"#milestone\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-milestone$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-milestone"
   },
+  "octicon-mirror-private": {
+    "body": "<${1:span} class=\"octicon octicon-mirror-private$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-mirror-private"
+  },
+  "octicon-mirror-public": {
+    "body": "<${1:span} class=\"octicon octicon-mirror-public$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-mirror-public"
+  },
   "octicon-mirror": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-mirror\" aria-hidden=\"true\"><use xlink:href=\"#mirror\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-mirror$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-mirror"
   },
   "octicon-mortar-board": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-mortar-board\" aria-hidden=\"true\"><use xlink:href=\"#mortar-board\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-mortar-board$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-mortar-board"
   },
+  "octicon-move-down": {
+    "body": "<${1:span} class=\"octicon octicon-move-down$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-move-down"
+  },
+  "octicon-move-left": {
+    "body": "<${1:span} class=\"octicon octicon-move-left$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-move-left"
+  },
+  "octicon-move-right": {
+    "body": "<${1:span} class=\"octicon octicon-move-right$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-move-right"
+  },
+  "octicon-move-up": {
+    "body": "<${1:span} class=\"octicon octicon-move-up$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-move-up"
+  },
   "octicon-mute": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-mute\" aria-hidden=\"true\"><use xlink:href=\"#mute\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-mute$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-mute"
   },
   "octicon-no-newline": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-no-newline\" aria-hidden=\"true\"><use xlink:href=\"#no-newline\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-no-newline$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-no-newline"
   },
-  "octicon-note": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-note\" aria-hidden=\"true\"><use xlink:href=\"#note\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-note"
-  },
   "octicon-octoface": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-octoface\" aria-hidden=\"true\"><use xlink:href=\"#octoface\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-octoface$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-octoface"
   },
   "octicon-organization": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-organization\" aria-hidden=\"true\"><use xlink:href=\"#organization\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-organization$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-organization"
   },
   "octicon-package": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-package\" aria-hidden=\"true\"><use xlink:href=\"#package\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-package$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-package"
   },
   "octicon-paintcan": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-paintcan\" aria-hidden=\"true\"><use xlink:href=\"#paintcan\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-paintcan$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-paintcan"
   },
   "octicon-pencil": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-pencil\" aria-hidden=\"true\"><use xlink:href=\"#pencil\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-pencil$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-pencil"
   },
+  "octicon-person-add": {
+    "body": "<${1:span} class=\"octicon octicon-person-add$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-person-add"
+  },
+  "octicon-person-follow": {
+    "body": "<${1:span} class=\"octicon octicon-person-follow$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-person-follow"
+  },
   "octicon-person": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-person\" aria-hidden=\"true\"><use xlink:href=\"#person\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-person$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-person"
   },
   "octicon-pin": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-pin\" aria-hidden=\"true\"><use xlink:href=\"#pin\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-pin$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-pin"
   },
+  "octicon-playback-fast-forward": {
+    "body": "<${1:span} class=\"octicon octicon-playback-fast-forward$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-playback-fast-forward"
+  },
+  "octicon-playback-pause": {
+    "body": "<${1:span} class=\"octicon octicon-playback-pause$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-playback-pause"
+  },
+  "octicon-playback-play": {
+    "body": "<${1:span} class=\"octicon octicon-playback-play$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-playback-play"
+  },
+  "octicon-playback-rewind": {
+    "body": "<${1:span} class=\"octicon octicon-playback-rewind$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-playback-rewind"
+  },
   "octicon-plug": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-plug\" aria-hidden=\"true\"><use xlink:href=\"#plug\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-plug$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-plug"
   },
   "octicon-plus": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-plus\" aria-hidden=\"true\"><use xlink:href=\"#plus\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-plus$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-plus"
   },
   "octicon-plus-small": {
-    "body": "<svg version=\"1.1\" width=\"14\" height=\"32\" viewBox=\"0 0 7 16\" class=\"octicon octicon-plus-small\" aria-hidden=\"true\"><use xlink:href=\"#plus-small\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-plus-small$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-plus-small"
   },
+  "octicon-podium": {
+    "body": "<${1:span} class=\"octicon octicon-podium$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-podium"
+  },
   "octicon-primitive-dot": {
-    "body": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-primitive-dot\" aria-hidden=\"true\"><use xlink:href=\"#primitive-dot\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-primitive-dot$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-primitive-dot"
   },
   "octicon-primitive-square": {
-    "body": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-primitive-square\" aria-hidden=\"true\"><use xlink:href=\"#primitive-square\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-primitive-square$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-primitive-square"
   },
-  "octicon-project": {
-    "body": "<svg version=\"1.1\" width=\"30\" height=\"32\" viewBox=\"0 0 15 16\" class=\"octicon octicon-project\" aria-hidden=\"true\"><use xlink:href=\"#project\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-project"
-  },
   "octicon-pulse": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-pulse\" aria-hidden=\"true\"><use xlink:href=\"#pulse\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-pulse$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-pulse"
   },
+  "octicon-puzzle": {
+    "body": "<${1:span} class=\"octicon octicon-puzzle$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-puzzle"
+  },
   "octicon-question": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-question\" aria-hidden=\"true\"><use xlink:href=\"#question\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-question$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-question"
   },
   "octicon-quote": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-quote\" aria-hidden=\"true\"><use xlink:href=\"#quote\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-quote$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-quote"
   },
   "octicon-radio-tower": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-radio-tower\" aria-hidden=\"true\"><use xlink:href=\"#radio-tower\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-radio-tower$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-radio-tower"
   },
-  "octicon-reply": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-reply\" aria-hidden=\"true\"><use xlink:href=\"#reply\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-reply"
-  },
-  "octicon-repo": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-repo\" aria-hidden=\"true\"><use xlink:href=\"#repo\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-repo"
+  "octicon-remove-close": {
+    "body": "<${1:span} class=\"octicon octicon-remove-close$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-remove-close"
   },
   "octicon-repo-clone": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-repo-clone\" aria-hidden=\"true\"><use xlink:href=\"#repo-clone\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-repo-clone$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-repo-clone"
   },
+  "octicon-repo-create": {
+    "body": "<${1:span} class=\"octicon octicon-repo-create$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-repo-create"
+  },
+  "octicon-repo-delete": {
+    "body": "<${1:span} class=\"octicon octicon-repo-delete$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-repo-delete"
+  },
   "octicon-repo-force-push": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-repo-force-push\" aria-hidden=\"true\"><use xlink:href=\"#repo-force-push\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-repo-force-push$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-repo-force-push"
   },
   "octicon-repo-forked": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-repo-forked\" aria-hidden=\"true\"><use xlink:href=\"#repo-forked\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-repo-forked$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-repo-forked"
   },
   "octicon-repo-pull": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-repo-pull\" aria-hidden=\"true\"><use xlink:href=\"#repo-pull\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-repo-pull$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-repo-pull"
   },
   "octicon-repo-push": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-repo-push\" aria-hidden=\"true\"><use xlink:href=\"#repo-push\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-repo-push$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-repo-push"
   },
+  "octicon-repo-sync": {
+    "body": "<${1:span} class=\"octicon octicon-repo-sync$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-repo-sync"
+  },
+  "octicon-repo": {
+    "body": "<${1:span} class=\"octicon octicon-repo$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-repo"
+  },
   "octicon-rocket": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-rocket\" aria-hidden=\"true\"><use xlink:href=\"#rocket\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-rocket$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-rocket"
   },
   "octicon-rss": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-rss\" aria-hidden=\"true\"><use xlink:href=\"#rss\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-rss$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-rss"
   },
   "octicon-ruby": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-ruby\" aria-hidden=\"true\"><use xlink:href=\"#ruby\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-ruby$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-ruby"
   },
-  "octicon-screen-full": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-screen-full\" aria-hidden=\"true\"><use xlink:href=\"#screen-full\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-screen-full"
-  },
-  "octicon-screen-normal": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-screen-normal\" aria-hidden=\"true\"><use xlink:href=\"#screen-normal\" /></svg>$0",
-    "description": "<svg>",
-    "prefix": "octicon-screen-normal"
+  "octicon-search-save": {
+    "body": "<${1:span} class=\"octicon octicon-search-save$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-search-save"
   },
   "octicon-search": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-search\" aria-hidden=\"true\"><use xlink:href=\"#search\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-search$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-search"
   },
   "octicon-server": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-server\" aria-hidden=\"true\"><use xlink:href=\"#server\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-server$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-server"
   },
   "octicon-settings": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-settings\" aria-hidden=\"true\"><use xlink:href=\"#settings\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-settings$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-settings"
   },
   "octicon-shield": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-shield\" aria-hidden=\"true\"><use xlink:href=\"#shield\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-shield$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-shield"
   },
   "octicon-sign-in": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-sign-in\" aria-hidden=\"true\"><use xlink:href=\"#sign-in\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-sign-in$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-sign-in"
   },
   "octicon-sign-out": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-sign-out\" aria-hidden=\"true\"><use xlink:href=\"#sign-out\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-sign-out$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-sign-out"
   },
   "octicon-smiley": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-smiley\" aria-hidden=\"true\"><use xlink:href=\"#smiley\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-smiley$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-smiley"
   },
+  "octicon-split": {
+    "body": "<${1:span} class=\"octicon octicon-split$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-split"
+  },
   "octicon-squirrel": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-squirrel\" aria-hidden=\"true\"><use xlink:href=\"#squirrel\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-squirrel$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-squirrel"
   },
+  "octicon-star-add": {
+    "body": "<${1:span} class=\"octicon octicon-star-add$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-star-add"
+  },
+  "octicon-star-delete": {
+    "body": "<${1:span} class=\"octicon octicon-star-delete$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-star-delete"
+  },
   "octicon-star": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-star\" aria-hidden=\"true\"><use xlink:href=\"#star\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-star$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-star"
   },
+  "octicon-steps": {
+    "body": "<${1:span} class=\"octicon octicon-steps$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-steps"
+  },
   "octicon-stop": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-stop\" aria-hidden=\"true\"><use xlink:href=\"#stop\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-stop$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-stop"
   },
   "octicon-sync": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-sync\" aria-hidden=\"true\"><use xlink:href=\"#sync\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-sync$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-sync"
   },
+  "octicon-tag-add": {
+    "body": "<${1:span} class=\"octicon octicon-tag-add$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-tag-add"
+  },
+  "octicon-tag-remove": {
+    "body": "<${1:span} class=\"octicon octicon-tag-remove$2\"></${1:span}>$3",
+    "description": "<span>",
+    "prefix": "octicon-tag-remove"
+  },
   "octicon-tag": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-tag\" aria-hidden=\"true\"><use xlink:href=\"#tag\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-tag$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-tag"
   },
   "octicon-tasklist": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-tasklist\" aria-hidden=\"true\"><use xlink:href=\"#tasklist\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-tasklist$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-tasklist"
   },
   "octicon-telescope": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-telescope\" aria-hidden=\"true\"><use xlink:href=\"#telescope\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-telescope$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-telescope"
   },
   "octicon-terminal": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-terminal\" aria-hidden=\"true\"><use xlink:href=\"#terminal\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-terminal$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-terminal"
   },
   "octicon-text-size": {
-    "body": "<svg version=\"1.1\" width=\"36\" height=\"32\" viewBox=\"0 0 18 16\" class=\"octicon octicon-text-size\" aria-hidden=\"true\"><use xlink:href=\"#text-size\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-text-size$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-text-size"
   },
   "octicon-three-bars": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-three-bars\" aria-hidden=\"true\"><use xlink:href=\"#three-bars\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-three-bars$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-three-bars"
   },
   "octicon-thumbsdown": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-thumbsdown\" aria-hidden=\"true\"><use xlink:href=\"#thumbsdown\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-thumbsdown$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-thumbsdown"
   },
   "octicon-thumbsup": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-thumbsup\" aria-hidden=\"true\"><use xlink:href=\"#thumbsup\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-thumbsup$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-thumbsup"
   },
   "octicon-tools": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-tools\" aria-hidden=\"true\"><use xlink:href=\"#tools\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-tools$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-tools"
   },
   "octicon-trashcan": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-trashcan\" aria-hidden=\"true\"><use xlink:href=\"#trashcan\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-trashcan$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-trashcan"
   },
   "octicon-triangle-down": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-triangle-down\" aria-hidden=\"true\"><use xlink:href=\"#triangle-down\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-triangle-down$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-triangle-down"
   },
   "octicon-triangle-left": {
-    "body": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-triangle-left\" aria-hidden=\"true\"><use xlink:href=\"#triangle-left\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-triangle-left$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-triangle-left"
   },
   "octicon-triangle-right": {
-    "body": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-triangle-right\" aria-hidden=\"true\"><use xlink:href=\"#triangle-right\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-triangle-right$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-triangle-right"
   },
   "octicon-triangle-up": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-triangle-up\" aria-hidden=\"true\"><use xlink:href=\"#triangle-up\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-triangle-up$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-triangle-up"
   },
   "octicon-unfold": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-unfold\" aria-hidden=\"true\"><use xlink:href=\"#unfold\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-unfold$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-unfold"
   },
   "octicon-unmute": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-unmute\" aria-hidden=\"true\"><use xlink:href=\"#unmute\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-unmute$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-unmute"
   },
   "octicon-unverified": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-unverified\" aria-hidden=\"true\"><use xlink:href=\"#unverified\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-unverified$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-unverified"
   },
   "octicon-verified": {
-    "body": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-verified\" aria-hidden=\"true\"><use xlink:href=\"#verified\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-verified$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-verified"
   },
   "octicon-versions": {
-    "body": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-versions\" aria-hidden=\"true\"><use xlink:href=\"#versions\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-versions$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-versions"
   },
   "octicon-watch": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-watch\" aria-hidden=\"true\"><use xlink:href=\"#watch\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-watch$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-watch"
   },
   "octicon-x": {
-    "body": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-x\" aria-hidden=\"true\"><use xlink:href=\"#x\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-x$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-x"
   },
   "octicon-zap": {
-    "body": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-zap\" aria-hidden=\"true\"><use xlink:href=\"#zap\" /></svg>$0",
-    "description": "<svg>",
+    "body": "<${1:span} class=\"octicon octicon-zap$2\"></${1:span}>$3",
+    "description": "<span>",
     "prefix": "octicon-zap"
   }
 }

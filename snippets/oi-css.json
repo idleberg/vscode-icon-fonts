@@ -1,893 +1,1116 @@
 {
   "oi-account-login": {
     "body": "content: '\\\\e000';",
+    "description": "content",
     "prefix": "oi-account-login"
   },
   "oi-account-logout": {
+    "description": "content",
     "prefix": "oi-account-logout",
     "body": "content: '\\\\e001';"
   },
   "oi-action-redo": {
+    "description": "content",
     "prefix": "oi-action-redo",
     "body": "content: '\\\\e002';"
   },
   "oi-action-undo": {
+    "description": "content",
     "prefix": "oi-action-undo",
     "body": "content: '\\\\e003';"
   },
   "oi-align-center": {
+    "description": "content",
     "prefix": "oi-align-center",
     "body": "content: '\\\\e004';"
   },
   "oi-align-left": {
+    "description": "content",
     "prefix": "oi-align-left",
     "body": "content: '\\\\e005';"
   },
   "oi-align-right": {
+    "description": "content",
     "prefix": "oi-align-right",
     "body": "content: '\\\\e006';"
   },
   "oi-aperture": {
+    "description": "content",
     "prefix": "oi-aperture",
     "body": "content: '\\\\e007';"
   },
   "oi-arrow-bottom": {
+    "description": "content",
     "prefix": "oi-arrow-bottom",
     "body": "content: '\\\\e008';"
   },
   "oi-arrow-circle-bottom": {
+    "description": "content",
     "prefix": "oi-arrow-circle-bottom",
     "body": "content: '\\\\e009';"
   },
   "oi-arrow-circle-left": {
+    "description": "content",
     "prefix": "oi-arrow-circle-left",
     "body": "content: '\\\\e00a';"
   },
   "oi-arrow-circle-right": {
+    "description": "content",
     "prefix": "oi-arrow-circle-right",
     "body": "content: '\\\\e00b';"
   },
   "oi-arrow-circle-top": {
+    "description": "content",
     "prefix": "oi-arrow-circle-top",
     "body": "content: '\\\\e00c';"
   },
   "oi-arrow-left": {
+    "description": "content",
     "prefix": "oi-arrow-left",
     "body": "content: '\\\\e00d';"
   },
   "oi-arrow-right": {
+    "description": "content",
     "prefix": "oi-arrow-right",
     "body": "content: '\\\\e00e';"
   },
   "oi-arrow-thick-bottom": {
+    "description": "content",
     "prefix": "oi-arrow-thick-bottom",
     "body": "content: '\\\\e00f';"
   },
   "oi-arrow-thick-left": {
+    "description": "content",
     "prefix": "oi-arrow-thick-left",
     "body": "content: '\\\\e010';"
   },
   "oi-arrow-thick-right": {
+    "description": "content",
     "prefix": "oi-arrow-thick-right",
     "body": "content: '\\\\e011';"
   },
   "oi-arrow-thick-top": {
+    "description": "content",
     "prefix": "oi-arrow-thick-top",
     "body": "content: '\\\\e012';"
   },
   "oi-arrow-top": {
+    "description": "content",
     "prefix": "oi-arrow-top",
     "body": "content: '\\\\e013';"
   },
   "oi-audio": {
+    "description": "content",
     "prefix": "oi-audio",
     "body": "content: '\\\\e015';"
   },
   "oi-audio-spectrum": {
+    "description": "content",
     "prefix": "oi-audio-spectrum",
     "body": "content: '\\\\e014';"
   },
   "oi-badge": {
+    "description": "content",
     "prefix": "oi-badge",
     "body": "content: '\\\\e016';"
   },
   "oi-ban": {
+    "description": "content",
     "prefix": "oi-ban",
     "body": "content: '\\\\e017';"
   },
   "oi-bar-chart": {
+    "description": "content",
     "prefix": "oi-bar-chart",
     "body": "content: '\\\\e018';"
   },
   "oi-basket": {
+    "description": "content",
     "prefix": "oi-basket",
     "body": "content: '\\\\e019';"
   },
   "oi-battery-empty": {
+    "description": "content",
     "prefix": "oi-battery-empty",
     "body": "content: '\\\\e01a';"
   },
   "oi-battery-full": {
+    "description": "content",
     "prefix": "oi-battery-full",
     "body": "content: '\\\\e01b';"
   },
   "oi-beaker": {
+    "description": "content",
     "prefix": "oi-beaker",
     "body": "content: '\\\\e01c';"
   },
   "oi-bell": {
+    "description": "content",
     "prefix": "oi-bell",
     "body": "content: '\\\\e01d';"
   },
   "oi-bluetooth": {
+    "description": "content",
     "prefix": "oi-bluetooth",
     "body": "content: '\\\\e01e';"
   },
   "oi-bold": {
+    "description": "content",
     "prefix": "oi-bold",
     "body": "content: '\\\\e01f';"
   },
   "oi-bolt": {
+    "description": "content",
     "prefix": "oi-bolt",
     "body": "content: '\\\\e020';"
   },
   "oi-book": {
+    "description": "content",
     "prefix": "oi-book",
     "body": "content: '\\\\e021';"
   },
   "oi-bookmark": {
+    "description": "content",
     "prefix": "oi-bookmark",
     "body": "content: '\\\\e022';"
   },
   "oi-box": {
+    "description": "content",
     "prefix": "oi-box",
     "body": "content: '\\\\e023';"
   },
   "oi-briefcase": {
+    "description": "content",
     "prefix": "oi-briefcase",
     "body": "content: '\\\\e024';"
   },
   "oi-british-pound": {
+    "description": "content",
     "prefix": "oi-british-pound",
     "body": "content: '\\\\e025';"
   },
   "oi-browser": {
+    "description": "content",
     "prefix": "oi-browser",
     "body": "content: '\\\\e026';"
   },
   "oi-brush": {
+    "description": "content",
     "prefix": "oi-brush",
     "body": "content: '\\\\e027';"
   },
   "oi-bug": {
+    "description": "content",
     "prefix": "oi-bug",
     "body": "content: '\\\\e028';"
   },
   "oi-bullhorn": {
+    "description": "content",
     "prefix": "oi-bullhorn",
     "body": "content: '\\\\e029';"
   },
   "oi-calculator": {
+    "description": "content",
     "prefix": "oi-calculator",
     "body": "content: '\\\\e02a';"
   },
   "oi-calendar": {
+    "description": "content",
     "prefix": "oi-calendar",
     "body": "content: '\\\\e02b';"
   },
   "oi-camera-slr": {
+    "description": "content",
     "prefix": "oi-camera-slr",
     "body": "content: '\\\\e02c';"
   },
   "oi-caret-bottom": {
+    "description": "content",
     "prefix": "oi-caret-bottom",
     "body": "content: '\\\\e02d';"
   },
   "oi-caret-left": {
+    "description": "content",
     "prefix": "oi-caret-left",
     "body": "content: '\\\\e02e';"
   },
   "oi-caret-right": {
+    "description": "content",
     "prefix": "oi-caret-right",
     "body": "content: '\\\\e02f';"
   },
   "oi-caret-top": {
+    "description": "content",
     "prefix": "oi-caret-top",
     "body": "content: '\\\\e030';"
   },
   "oi-cart": {
+    "description": "content",
     "prefix": "oi-cart",
     "body": "content: '\\\\e031';"
   },
   "oi-chat": {
+    "description": "content",
     "prefix": "oi-chat",
     "body": "content: '\\\\e032';"
   },
   "oi-check": {
+    "description": "content",
     "prefix": "oi-check",
     "body": "content: '\\\\e033';"
   },
   "oi-chevron-bottom": {
+    "description": "content",
     "prefix": "oi-chevron-bottom",
     "body": "content: '\\\\e034';"
   },
   "oi-chevron-left": {
+    "description": "content",
     "prefix": "oi-chevron-left",
     "body": "content: '\\\\e035';"
   },
   "oi-chevron-right": {
+    "description": "content",
     "prefix": "oi-chevron-right",
     "body": "content: '\\\\e036';"
   },
   "oi-chevron-top": {
+    "description": "content",
     "prefix": "oi-chevron-top",
     "body": "content: '\\\\e037';"
   },
   "oi-circle-check": {
+    "description": "content",
     "prefix": "oi-circle-check",
     "body": "content: '\\\\e038';"
   },
   "oi-circle-x": {
+    "description": "content",
     "prefix": "oi-circle-x",
     "body": "content: '\\\\e039';"
   },
   "oi-clipboard": {
+    "description": "content",
     "prefix": "oi-clipboard",
     "body": "content: '\\\\e03a';"
   },
   "oi-clock": {
+    "description": "content",
     "prefix": "oi-clock",
     "body": "content: '\\\\e03b';"
   },
   "oi-cloud": {
+    "description": "content",
     "prefix": "oi-cloud",
     "body": "content: '\\\\e03e';"
   },
   "oi-cloud-download": {
+    "description": "content",
     "prefix": "oi-cloud-download",
     "body": "content: '\\\\e03c';"
   },
   "oi-cloud-upload": {
+    "description": "content",
     "prefix": "oi-cloud-upload",
     "body": "content: '\\\\e03d';"
   },
   "oi-cloudy": {
+    "description": "content",
     "prefix": "oi-cloudy",
     "body": "content: '\\\\e03f';"
   },
   "oi-code": {
+    "description": "content",
     "prefix": "oi-code",
     "body": "content: '\\\\e040';"
   },
   "oi-cog": {
+    "description": "content",
     "prefix": "oi-cog",
     "body": "content: '\\\\e041';"
   },
   "oi-collapse-down": {
+    "description": "content",
     "prefix": "oi-collapse-down",
     "body": "content: '\\\\e042';"
   },
   "oi-collapse-left": {
+    "description": "content",
     "prefix": "oi-collapse-left",
     "body": "content: '\\\\e043';"
   },
   "oi-collapse-right": {
+    "description": "content",
     "prefix": "oi-collapse-right",
     "body": "content: '\\\\e044';"
   },
   "oi-collapse-up": {
+    "description": "content",
     "prefix": "oi-collapse-up",
     "body": "content: '\\\\e045';"
   },
   "oi-command": {
+    "description": "content",
     "prefix": "oi-command",
     "body": "content: '\\\\e046';"
   },
   "oi-comment-square": {
+    "description": "content",
     "prefix": "oi-comment-square",
     "body": "content: '\\\\e047';"
   },
   "oi-compass": {
+    "description": "content",
     "prefix": "oi-compass",
     "body": "content: '\\\\e048';"
   },
   "oi-contrast": {
+    "description": "content",
     "prefix": "oi-contrast",
     "body": "content: '\\\\e049';"
   },
   "oi-copywriting": {
+    "description": "content",
     "prefix": "oi-copywriting",
     "body": "content: '\\\\e04a';"
   },
   "oi-credit-card": {
+    "description": "content",
     "prefix": "oi-credit-card",
     "body": "content: '\\\\e04b';"
   },
   "oi-crop": {
+    "description": "content",
     "prefix": "oi-crop",
     "body": "content: '\\\\e04c';"
   },
   "oi-dashboard": {
+    "description": "content",
     "prefix": "oi-dashboard",
     "body": "content: '\\\\e04d';"
   },
   "oi-data-transfer-download": {
+    "description": "content",
     "prefix": "oi-data-transfer-download",
     "body": "content: '\\\\e04e';"
   },
   "oi-data-transfer-upload": {
+    "description": "content",
     "prefix": "oi-data-transfer-upload",
     "body": "content: '\\\\e04f';"
   },
   "oi-delete": {
+    "description": "content",
     "prefix": "oi-delete",
     "body": "content: '\\\\e050';"
   },
   "oi-dial": {
+    "description": "content",
     "prefix": "oi-dial",
     "body": "content: '\\\\e051';"
   },
   "oi-document": {
+    "description": "content",
     "prefix": "oi-document",
     "body": "content: '\\\\e052';"
   },
   "oi-dollar": {
+    "description": "content",
     "prefix": "oi-dollar",
     "body": "content: '\\\\e053';"
   },
   "oi-double-quote-sans-left": {
+    "description": "content",
     "prefix": "oi-double-quote-sans-left",
     "body": "content: '\\\\e054';"
   },
   "oi-double-quote-sans-right": {
+    "description": "content",
     "prefix": "oi-double-quote-sans-right",
     "body": "content: '\\\\e055';"
   },
   "oi-double-quote-serif-left": {
+    "description": "content",
     "prefix": "oi-double-quote-serif-left",
     "body": "content: '\\\\e056';"
   },
   "oi-double-quote-serif-right": {
+    "description": "content",
     "prefix": "oi-double-quote-serif-right",
     "body": "content: '\\\\e057';"
   },
   "oi-droplet": {
+    "description": "content",
     "prefix": "oi-droplet",
     "body": "content: '\\\\e058';"
   },
   "oi-eject": {
+    "description": "content",
     "prefix": "oi-eject",
     "body": "content: '\\\\e059';"
   },
   "oi-elevator": {
+    "description": "content",
     "prefix": "oi-elevator",
     "body": "content: '\\\\e05a';"
   },
   "oi-ellipses": {
+    "description": "content",
     "prefix": "oi-ellipses",
     "body": "content: '\\\\e05b';"
   },
   "oi-envelope-closed": {
+    "description": "content",
     "prefix": "oi-envelope-closed",
     "body": "content: '\\\\e05c';"
   },
   "oi-envelope-open": {
+    "description": "content",
     "prefix": "oi-envelope-open",
     "body": "content: '\\\\e05d';"
   },
   "oi-euro": {
+    "description": "content",
     "prefix": "oi-euro",
     "body": "content: '\\\\e05e';"
   },
   "oi-excerpt": {
+    "description": "content",
     "prefix": "oi-excerpt",
     "body": "content: '\\\\e05f';"
   },
   "oi-expand-down": {
+    "description": "content",
     "prefix": "oi-expand-down",
     "body": "content: '\\\\e060';"
   },
   "oi-expand-left": {
+    "description": "content",
     "prefix": "oi-expand-left",
     "body": "content: '\\\\e061';"
   },
   "oi-expand-right": {
+    "description": "content",
     "prefix": "oi-expand-right",
     "body": "content: '\\\\e062';"
   },
   "oi-expand-up": {
+    "description": "content",
     "prefix": "oi-expand-up",
     "body": "content: '\\\\e063';"
   },
   "oi-external-link": {
+    "description": "content",
     "prefix": "oi-external-link",
     "body": "content: '\\\\e064';"
   },
   "oi-eye": {
+    "description": "content",
     "prefix": "oi-eye",
     "body": "content: '\\\\e065';"
   },
   "oi-eyedropper": {
+    "description": "content",
     "prefix": "oi-eyedropper",
     "body": "content: '\\\\e066';"
   },
   "oi-file": {
+    "description": "content",
     "prefix": "oi-file",
     "body": "content: '\\\\e067';"
   },
   "oi-fire": {
+    "description": "content",
     "prefix": "oi-fire",
     "body": "content: '\\\\e068';"
   },
   "oi-flag": {
+    "description": "content",
     "prefix": "oi-flag",
     "body": "content: '\\\\e069';"
   },
   "oi-flash": {
+    "description": "content",
     "prefix": "oi-flash",
     "body": "content: '\\\\e06a';"
   },
   "oi-folder": {
+    "description": "content",
     "prefix": "oi-folder",
     "body": "content: '\\\\e06b';"
   },
   "oi-fork": {
+    "description": "content",
     "prefix": "oi-fork",
     "body": "content: '\\\\e06c';"
   },
   "oi-fullscreen-enter": {
+    "description": "content",
     "prefix": "oi-fullscreen-enter",
     "body": "content: '\\\\e06d';"
   },
   "oi-fullscreen-exit": {
+    "description": "content",
     "prefix": "oi-fullscreen-exit",
     "body": "content: '\\\\e06e';"
   },
   "oi-globe": {
+    "description": "content",
     "prefix": "oi-globe",
     "body": "content: '\\\\e06f';"
   },
   "oi-graph": {
+    "description": "content",
     "prefix": "oi-graph",
     "body": "content: '\\\\e070';"
   },
   "oi-grid-four-up": {
+    "description": "content",
     "prefix": "oi-grid-four-up",
     "body": "content: '\\\\e071';"
   },
   "oi-grid-three-up": {
+    "description": "content",
     "prefix": "oi-grid-three-up",
     "body": "content: '\\\\e072';"
   },
   "oi-grid-two-up": {
+    "description": "content",
     "prefix": "oi-grid-two-up",
     "body": "content: '\\\\e073';"
   },
   "oi-hard-drive": {
+    "description": "content",
     "prefix": "oi-hard-drive",
     "body": "content: '\\\\e074';"
   },
   "oi-header": {
+    "description": "content",
     "prefix": "oi-header",
     "body": "content: '\\\\e075';"
   },
   "oi-headphones": {
+    "description": "content",
     "prefix": "oi-headphones",
     "body": "content: '\\\\e076';"
   },
   "oi-heart": {
+    "description": "content",
     "prefix": "oi-heart",
     "body": "content: '\\\\e077';"
   },
   "oi-home": {
+    "description": "content",
     "prefix": "oi-home",
     "body": "content: '\\\\e078';"
   },
   "oi-image": {
+    "description": "content",
     "prefix": "oi-image",
     "body": "content: '\\\\e079';"
   },
   "oi-inbox": {
+    "description": "content",
     "prefix": "oi-inbox",
     "body": "content: '\\\\e07a';"
   },
   "oi-infinity": {
+    "description": "content",
     "prefix": "oi-infinity",
     "body": "content: '\\\\e07b';"
   },
   "oi-info": {
+    "description": "content",
     "prefix": "oi-info",
     "body": "content: '\\\\e07c';"
   },
   "oi-italic": {
+    "description": "content",
     "prefix": "oi-italic",
     "body": "content: '\\\\e07d';"
   },
   "oi-justify-center": {
+    "description": "content",
     "prefix": "oi-justify-center",
     "body": "content: '\\\\e07e';"
   },
   "oi-justify-left": {
+    "description": "content",
     "prefix": "oi-justify-left",
     "body": "content: '\\\\e07f';"
   },
   "oi-justify-right": {
+    "description": "content",
     "prefix": "oi-justify-right",
     "body": "content: '\\\\e080';"
   },
   "oi-key": {
+    "description": "content",
     "prefix": "oi-key",
     "body": "content: '\\\\e081';"
   },
   "oi-laptop": {
+    "description": "content",
     "prefix": "oi-laptop",
     "body": "content: '\\\\e082';"
   },
   "oi-layers": {
+    "description": "content",
     "prefix": "oi-layers",
     "body": "content: '\\\\e083';"
   },
   "oi-lightbulb": {
+    "description": "content",
     "prefix": "oi-lightbulb",
     "body": "content: '\\\\e084';"
   },
   "oi-link-broken": {
+    "description": "content",
     "prefix": "oi-link-broken",
     "body": "content: '\\\\e085';"
   },
   "oi-link-intact": {
+    "description": "content",
     "prefix": "oi-link-intact",
     "body": "content: '\\\\e086';"
   },
   "oi-list": {
+    "description": "content",
     "prefix": "oi-list",
     "body": "content: '\\\\e088';"
   },
   "oi-list-rich": {
+    "description": "content",
     "prefix": "oi-list-rich",
     "body": "content: '\\\\e087';"
   },
   "oi-location": {
+    "description": "content",
     "prefix": "oi-location",
     "body": "content: '\\\\e089';"
   },
   "oi-lock-locked": {
+    "description": "content",
     "prefix": "oi-lock-locked",
     "body": "content: '\\\\e08a';"
   },
   "oi-lock-unlocked": {
+    "description": "content",
     "prefix": "oi-lock-unlocked",
     "body": "content: '\\\\e08b';"
   },
   "oi-loop": {
+    "description": "content",
     "prefix": "oi-loop",
     "body": "content: '\\\\e08e';"
   },
   "oi-loop-circular": {
+    "description": "content",
     "prefix": "oi-loop-circular",
     "body": "content: '\\\\e08c';"
   },
   "oi-loop-square": {
+    "description": "content",
     "prefix": "oi-loop-square",
     "body": "content: '\\\\e08d';"
   },
   "oi-magnifying-glass": {
+    "description": "content",
     "prefix": "oi-magnifying-glass",
     "body": "content: '\\\\e08f';"
   },
   "oi-map": {
+    "description": "content",
     "prefix": "oi-map",
     "body": "content: '\\\\e091';"
   },
   "oi-map-marker": {
+    "description": "content",
     "prefix": "oi-map-marker",
     "body": "content: '\\\\e090';"
   },
   "oi-media-pause": {
+    "description": "content",
     "prefix": "oi-media-pause",
     "body": "content: '\\\\e092';"
   },
   "oi-media-play": {
+    "description": "content",
     "prefix": "oi-media-play",
     "body": "content: '\\\\e093';"
   },
   "oi-media-record": {
+    "description": "content",
     "prefix": "oi-media-record",
     "body": "content: '\\\\e094';"
   },
   "oi-media-skip-backward": {
+    "description": "content",
     "prefix": "oi-media-skip-backward",
     "body": "content: '\\\\e095';"
   },
   "oi-media-skip-forward": {
+    "description": "content",
     "prefix": "oi-media-skip-forward",
     "body": "content: '\\\\e096';"
   },
   "oi-media-step-backward": {
+    "description": "content",
     "prefix": "oi-media-step-backward",
     "body": "content: '\\\\e097';"
   },
   "oi-media-step-forward": {
+    "description": "content",
     "prefix": "oi-media-step-forward",
     "body": "content: '\\\\e098';"
   },
   "oi-media-stop": {
+    "description": "content",
     "prefix": "oi-media-stop",
     "body": "content: '\\\\e099';"
   },
   "oi-medical-cross": {
+    "description": "content",
     "prefix": "oi-medical-cross",
     "body": "content: '\\\\e09a';"
   },
   "oi-menu": {
+    "description": "content",
     "prefix": "oi-menu",
     "body": "content: '\\\\e09b';"
   },
   "oi-microphone": {
+    "description": "content",
     "prefix": "oi-microphone",
     "body": "content: '\\\\e09c';"
   },
   "oi-minus": {
+    "description": "content",
     "prefix": "oi-minus",
     "body": "content: '\\\\e09d';"
   },
   "oi-monitor": {
+    "description": "content",
     "prefix": "oi-monitor",
     "body": "content: '\\\\e09e';"
   },
   "oi-moon": {
+    "description": "content",
     "prefix": "oi-moon",
     "body": "content: '\\\\e09f';"
   },
   "oi-move": {
+    "description": "content",
     "prefix": "oi-move",
     "body": "content: '\\\\e0a0';"
   },
   "oi-musical-note": {
+    "description": "content",
     "prefix": "oi-musical-note",
     "body": "content: '\\\\e0a1';"
   },
   "oi-paperclip": {
+    "description": "content",
     "prefix": "oi-paperclip",
     "body": "content: '\\\\e0a2';"
   },
   "oi-pencil": {
+    "description": "content",
     "prefix": "oi-pencil",
     "body": "content: '\\\\e0a3';"
   },
   "oi-people": {
+    "description": "content",
     "prefix": "oi-people",
     "body": "content: '\\\\e0a4';"
   },
   "oi-person": {
+    "description": "content",
     "prefix": "oi-person",
     "body": "content: '\\\\e0a5';"
   },
   "oi-phone": {
+    "description": "content",
     "prefix": "oi-phone",
     "body": "content: '\\\\e0a6';"
   },
   "oi-pie-chart": {
+    "description": "content",
     "prefix": "oi-pie-chart",
     "body": "content: '\\\\e0a7';"
   },
   "oi-pin": {
+    "description": "content",
     "prefix": "oi-pin",
     "body": "content: '\\\\e0a8';"
   },
   "oi-play-circle": {
+    "description": "content",
     "prefix": "oi-play-circle",
     "body": "content: '\\\\e0a9';"
   },
   "oi-plus": {
+    "description": "content",
     "prefix": "oi-plus",
     "body": "content: '\\\\e0aa';"
   },
   "oi-power-standby": {
+    "description": "content",
     "prefix": "oi-power-standby",
     "body": "content: '\\\\e0ab';"
   },
   "oi-print": {
+    "description": "content",
     "prefix": "oi-print",
     "body": "content: '\\\\e0ac';"
   },
   "oi-project": {
+    "description": "content",
     "prefix": "oi-project",
     "body": "content: '\\\\e0ad';"
   },
   "oi-pulse": {
+    "description": "content",
     "prefix": "oi-pulse",
     "body": "content: '\\\\e0ae';"
   },
   "oi-puzzle-piece": {
+    "description": "content",
     "prefix": "oi-puzzle-piece",
     "body": "content: '\\\\e0af';"
   },
   "oi-question-mark": {
+    "description": "content",
     "prefix": "oi-question-mark",
     "body": "content: '\\\\e0b0';"
   },
   "oi-rain": {
+    "description": "content",
     "prefix": "oi-rain",
     "body": "content: '\\\\e0b1';"
   },
   "oi-random": {
+    "description": "content",
     "prefix": "oi-random",
     "body": "content: '\\\\e0b2';"
   },
   "oi-reload": {
+    "description": "content",
     "prefix": "oi-reload",
     "body": "content: '\\\\e0b3';"
   },
   "oi-resize-both": {
+    "description": "content",
     "prefix": "oi-resize-both",
     "body": "content: '\\\\e0b4';"
   },
   "oi-resize-height": {
+    "description": "content",
     "prefix": "oi-resize-height",
     "body": "content: '\\\\e0b5';"
   },
   "oi-resize-width": {
+    "description": "content",
     "prefix": "oi-resize-width",
     "body": "content: '\\\\e0b6';"
   },
   "oi-rss": {
+    "description": "content",
     "prefix": "oi-rss",
     "body": "content: '\\\\e0b8';"
   },
   "oi-rss-alt": {
+    "description": "content",
     "prefix": "oi-rss-alt",
     "body": "content: '\\\\e0b7';"
   },
   "oi-script": {
+    "description": "content",
     "prefix": "oi-script",
     "body": "content: '\\\\e0b9';"
   },
   "oi-share": {
+    "description": "content",
     "prefix": "oi-share",
     "body": "content: '\\\\e0bb';"
   },
   "oi-share-boxed": {
+    "description": "content",
     "prefix": "oi-share-boxed",
     "body": "content: '\\\\e0ba';"
   },
   "oi-shield": {
+    "description": "content",
     "prefix": "oi-shield",
     "body": "content: '\\\\e0bc';"
   },
   "oi-signal": {
+    "description": "content",
     "prefix": "oi-signal",
     "body": "content: '\\\\e0bd';"
   },
   "oi-signpost": {
+    "description": "content",
     "prefix": "oi-signpost",
     "body": "content: '\\\\e0be';"
   },
   "oi-sort-ascending": {
+    "description": "content",
     "prefix": "oi-sort-ascending",
     "body": "content: '\\\\e0bf';"
   },
   "oi-sort-descending": {
+    "description": "content",
     "prefix": "oi-sort-descending",
     "body": "content: '\\\\e0c0';"
   },
   "oi-spreadsheet": {
+    "description": "content",
     "prefix": "oi-spreadsheet",
     "body": "content: '\\\\e0c1';"
   },
   "oi-star": {
+    "description": "content",
     "prefix": "oi-star",
     "body": "content: '\\\\e0c2';"
   },
   "oi-sun": {
+    "description": "content",
     "prefix": "oi-sun",
     "body": "content: '\\\\e0c3';"
   },
   "oi-tablet": {
+    "description": "content",
     "prefix": "oi-tablet",
     "body": "content: '\\\\e0c4';"
   },
   "oi-tag": {
+    "description": "content",
     "prefix": "oi-tag",
     "body": "content: '\\\\e0c5';"
   },
   "oi-tags": {
+    "description": "content",
     "prefix": "oi-tags",
     "body": "content: '\\\\e0c6';"
   },
   "oi-target": {
+    "description": "content",
     "prefix": "oi-target",
     "body": "content: '\\\\e0c7';"
   },
   "oi-task": {
+    "description": "content",
     "prefix": "oi-task",
     "body": "content: '\\\\e0c8';"
   },
   "oi-terminal": {
+    "description": "content",
     "prefix": "oi-terminal",
     "body": "content: '\\\\e0c9';"
   },
   "oi-text": {
+    "description": "content",
     "prefix": "oi-text",
     "body": "content: '\\\\e0ca';"
   },
   "oi-thumb-down": {
+    "description": "content",
     "prefix": "oi-thumb-down",
     "body": "content: '\\\\e0cb';"
   },
   "oi-thumb-up": {
+    "description": "content",
     "prefix": "oi-thumb-up",
     "body": "content: '\\\\e0cc';"
   },
   "oi-timer": {
+    "description": "content",
     "prefix": "oi-timer",
     "body": "content: '\\\\e0cd';"
   },
   "oi-transfer": {
+    "description": "content",
     "prefix": "oi-transfer",
     "body": "content: '\\\\e0ce';"
   },
   "oi-trash": {
+    "description": "content",
     "prefix": "oi-trash",
     "body": "content: '\\\\e0cf';"
   },
   "oi-underline": {
+    "description": "content",
     "prefix": "oi-underline",
     "body": "content: '\\\\e0d0';"
   },
   "oi-vertical-align-bottom": {
+    "description": "content",
     "prefix": "oi-vertical-align-bottom",
     "body": "content: '\\\\e0d1';"
   },
   "oi-vertical-align-center": {
+    "description": "content",
     "prefix": "oi-vertical-align-center",
     "body": "content: '\\\\e0d2';"
   },
   "oi-vertical-align-top": {
+    "description": "content",
     "prefix": "oi-vertical-align-top",
     "body": "content: '\\\\e0d3';"
   },
   "oi-video": {
+    "description": "content",
     "prefix": "oi-video",
     "body": "content: '\\\\e0d4';"
   },
   "oi-volume-high": {
+    "description": "content",
     "prefix": "oi-volume-high",
     "body": "content: '\\\\e0d5';"
   },
   "oi-volume-low": {
+    "description": "content",
     "prefix": "oi-volume-low",
     "body": "content: '\\\\e0d6';"
   },
   "oi-volume-off": {
+    "description": "content",
     "prefix": "oi-volume-off",
     "body": "content: '\\\\e0d7';"
   },
   "oi-warning": {
+    "description": "content",
     "prefix": "oi-warning",
     "body": "content: '\\\\e0d8';"
   },
   "oi-wifi": {
+    "description": "content",
     "prefix": "oi-wifi",
     "body": "content: '\\\\e0d9';"
   },
   "oi-wrench": {
+    "description": "content",
     "prefix": "oi-wrench",
     "body": "content: '\\\\e0da';"
   },
   "oi-x": {
+    "description": "content",
     "prefix": "oi-x",
     "body": "content: '\\\\e0db';"
   },
   "oi-yen": {
+    "description": "content",
     "prefix": "oi-yen",
     "body": "content: '\\\\e0dc';"
   },
   "oi-zoom-in": {
+    "description": "content",
     "prefix": "oi-zoom-in",
     "body": "content: '\\\\e0dd';"
   },
   "oi-zoom-out": {
+    "description": "content",
     "prefix": "oi-zoom-out",
     "body": "content: '\\\\e0de';"
   }

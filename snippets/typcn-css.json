@@ -1,1345 +1,1681 @@
 {
   "typcn-adjust-brightness": {
     "body": "content: '\\\\e000';",
+    "description": "content",
     "prefix": "typcn-adjust-brightness"
   },
   "typcn-adjust-contrast": {
+    "description": "content",
     "prefix": "typcn-adjust-contrast",
     "body": "content: '\\\\e001';"
   },
   "typcn-anchor": {
+    "description": "content",
     "prefix": "typcn-anchor",
     "body": "content: '\\\\e003';"
   },
   "typcn-anchor-outline": {
+    "description": "content",
     "prefix": "typcn-anchor-outline",
     "body": "content: '\\\\e002';"
   },
   "typcn-archive": {
+    "description": "content",
     "prefix": "typcn-archive",
     "body": "content: '\\\\e004';"
   },
   "typcn-arrow-back": {
+    "description": "content",
     "prefix": "typcn-arrow-back",
     "body": "content: '\\\\e006';"
   },
   "typcn-arrow-back-outline": {
+    "description": "content",
     "prefix": "typcn-arrow-back-outline",
     "body": "content: '\\\\e005';"
   },
   "typcn-arrow-down": {
+    "description": "content",
     "prefix": "typcn-arrow-down",
     "body": "content: '\\\\e009';"
   },
   "typcn-arrow-down-outline": {
+    "description": "content",
     "prefix": "typcn-arrow-down-outline",
     "body": "content: '\\\\e007';"
   },
   "typcn-arrow-down-thick": {
+    "description": "content",
     "prefix": "typcn-arrow-down-thick",
     "body": "content: '\\\\e008';"
   },
   "typcn-arrow-forward": {
+    "description": "content",
     "prefix": "typcn-arrow-forward",
     "body": "content: '\\\\e00b';"
   },
   "typcn-arrow-forward-outline": {
+    "description": "content",
     "prefix": "typcn-arrow-forward-outline",
     "body": "content: '\\\\e00a';"
   },
   "typcn-arrow-left": {
+    "description": "content",
     "prefix": "typcn-arrow-left",
     "body": "content: '\\\\e00e';"
   },
   "typcn-arrow-left-outline": {
+    "description": "content",
     "prefix": "typcn-arrow-left-outline",
     "body": "content: '\\\\e00c';"
   },
   "typcn-arrow-left-thick": {
+    "description": "content",
     "prefix": "typcn-arrow-left-thick",
     "body": "content: '\\\\e00d';"
   },
   "typcn-arrow-loop": {
+    "description": "content",
     "prefix": "typcn-arrow-loop",
     "body": "content: '\\\\e010';"
   },
   "typcn-arrow-loop-outline": {
+    "description": "content",
     "prefix": "typcn-arrow-loop-outline",
     "body": "content: '\\\\e00f';"
   },
   "typcn-arrow-maximise": {
+    "description": "content",
     "prefix": "typcn-arrow-maximise",
     "body": "content: '\\\\e012';"
   },
   "typcn-arrow-maximise-outline": {
+    "description": "content",
     "prefix": "typcn-arrow-maximise-outline",
     "body": "content: '\\\\e011';"
   },
   "typcn-arrow-minimise": {
+    "description": "content",
     "prefix": "typcn-arrow-minimise",
     "body": "content: '\\\\e014';"
   },
   "typcn-arrow-minimise-outline": {
+    "description": "content",
     "prefix": "typcn-arrow-minimise-outline",
     "body": "content: '\\\\e013';"
   },
   "typcn-arrow-move": {
+    "description": "content",
     "prefix": "typcn-arrow-move",
     "body": "content: '\\\\e016';"
   },
   "typcn-arrow-move-outline": {
+    "description": "content",
     "prefix": "typcn-arrow-move-outline",
     "body": "content: '\\\\e015';"
   },
   "typcn-arrow-repeat": {
+    "description": "content",
     "prefix": "typcn-arrow-repeat",
     "body": "content: '\\\\e018';"
   },
   "typcn-arrow-repeat-outline": {
+    "description": "content",
     "prefix": "typcn-arrow-repeat-outline",
     "body": "content: '\\\\e017';"
   },
   "typcn-arrow-right": {
+    "description": "content",
     "prefix": "typcn-arrow-right",
     "body": "content: '\\\\e01b';"
   },
   "typcn-arrow-right-outline": {
+    "description": "content",
     "prefix": "typcn-arrow-right-outline",
     "body": "content: '\\\\e019';"
   },
   "typcn-arrow-right-thick": {
+    "description": "content",
     "prefix": "typcn-arrow-right-thick",
     "body": "content: '\\\\e01a';"
   },
   "typcn-arrow-shuffle": {
+    "description": "content",
     "prefix": "typcn-arrow-shuffle",
     "body": "content: '\\\\e01c';"
   },
   "typcn-arrow-sorted-down": {
+    "description": "content",
     "prefix": "typcn-arrow-sorted-down",
     "body": "content: '\\\\e01d';"
   },
   "typcn-arrow-sorted-up": {
+    "description": "content",
     "prefix": "typcn-arrow-sorted-up",
     "body": "content: '\\\\e01e';"
   },
   "typcn-arrow-sync": {
+    "description": "content",
     "prefix": "typcn-arrow-sync",
     "body": "content: '\\\\e020';"
   },
   "typcn-arrow-sync-outline": {
+    "description": "content",
     "prefix": "typcn-arrow-sync-outline",
     "body": "content: '\\\\e01f';"
   },
   "typcn-arrow-unsorted": {
+    "description": "content",
     "prefix": "typcn-arrow-unsorted",
     "body": "content: '\\\\e021';"
   },
   "typcn-arrow-up": {
+    "description": "content",
     "prefix": "typcn-arrow-up",
     "body": "content: '\\\\e024';"
   },
   "typcn-arrow-up-outline": {
+    "description": "content",
     "prefix": "typcn-arrow-up-outline",
     "body": "content: '\\\\e022';"
   },
   "typcn-arrow-up-thick": {
+    "description": "content",
     "prefix": "typcn-arrow-up-thick",
     "body": "content: '\\\\e023';"
   },
   "typcn-at": {
+    "description": "content",
     "prefix": "typcn-at",
     "body": "content: '\\\\e025';"
   },
   "typcn-attachment": {
+    "description": "content",
     "prefix": "typcn-attachment",
     "body": "content: '\\\\e027';"
   },
   "typcn-attachment-outline": {
+    "description": "content",
     "prefix": "typcn-attachment-outline",
     "body": "content: '\\\\e026';"
   },
   "typcn-backspace": {
+    "description": "content",
     "prefix": "typcn-backspace",
     "body": "content: '\\\\e029';"
   },
   "typcn-backspace-outline": {
+    "description": "content",
     "prefix": "typcn-backspace-outline",
     "body": "content: '\\\\e028';"
   },
   "typcn-battery-charge": {
+    "description": "content",
     "prefix": "typcn-battery-charge",
     "body": "content: '\\\\e02a';"
   },
   "typcn-battery-full": {
+    "description": "content",
     "prefix": "typcn-battery-full",
     "body": "content: '\\\\e02b';"
   },
   "typcn-battery-high": {
+    "description": "content",
     "prefix": "typcn-battery-high",
     "body": "content: '\\\\e02c';"
   },
   "typcn-battery-low": {
+    "description": "content",
     "prefix": "typcn-battery-low",
     "body": "content: '\\\\e02d';"
   },
   "typcn-battery-mid": {
+    "description": "content",
     "prefix": "typcn-battery-mid",
     "body": "content: '\\\\e02e';"
   },
   "typcn-beaker": {
+    "description": "content",
     "prefix": "typcn-beaker",
     "body": "content: '\\\\e02f';"
   },
   "typcn-beer": {
+    "description": "content",
     "prefix": "typcn-beer",
     "body": "content: '\\\\e030';"
   },
   "typcn-bell": {
+    "description": "content",
     "prefix": "typcn-bell",
     "body": "content: '\\\\e031';"
   },
   "typcn-book": {
+    "description": "content",
     "prefix": "typcn-book",
     "body": "content: '\\\\e032';"
   },
   "typcn-bookmark": {
+    "description": "content",
     "prefix": "typcn-bookmark",
     "body": "content: '\\\\e033';"
   },
   "typcn-briefcase": {
+    "description": "content",
     "prefix": "typcn-briefcase",
     "body": "content: '\\\\e034';"
   },
   "typcn-brush": {
+    "description": "content",
     "prefix": "typcn-brush",
     "body": "content: '\\\\e035';"
   },
   "typcn-business-card": {
+    "description": "content",
     "prefix": "typcn-business-card",
     "body": "content: '\\\\e036';"
   },
   "typcn-calculator": {
+    "description": "content",
     "prefix": "typcn-calculator",
     "body": "content: '\\\\e037';"
   },
   "typcn-calendar": {
+    "description": "content",
     "prefix": "typcn-calendar",
     "body": "content: '\\\\e039';"
   },
   "typcn-calendar-outline": {
+    "description": "content",
     "prefix": "typcn-calendar-outline",
     "body": "content: '\\\\e038';"
   },
   "typcn-camera": {
+    "description": "content",
     "prefix": "typcn-camera",
     "body": "content: '\\\\e03b';"
   },
   "typcn-camera-outline": {
+    "description": "content",
     "prefix": "typcn-camera-outline",
     "body": "content: '\\\\e03a';"
   },
   "typcn-cancel": {
+    "description": "content",
     "prefix": "typcn-cancel",
     "body": "content: '\\\\e03d';"
   },
   "typcn-cancel-outline": {
+    "description": "content",
     "prefix": "typcn-cancel-outline",
     "body": "content: '\\\\e03c';"
   },
   "typcn-chart-area": {
+    "description": "content",
     "prefix": "typcn-chart-area",
     "body": "content: '\\\\e03f';"
   },
   "typcn-chart-area-outline": {
+    "description": "content",
     "prefix": "typcn-chart-area-outline",
     "body": "content: '\\\\e03e';"
   },
   "typcn-chart-bar": {
+    "description": "content",
     "prefix": "typcn-chart-bar",
     "body": "content: '\\\\e041';"
   },
   "typcn-chart-bar-outline": {
+    "description": "content",
     "prefix": "typcn-chart-bar-outline",
     "body": "content: '\\\\e040';"
   },
   "typcn-chart-line": {
+    "description": "content",
     "prefix": "typcn-chart-line",
     "body": "content: '\\\\e043';"
   },
   "typcn-chart-line-outline": {
+    "description": "content",
     "prefix": "typcn-chart-line-outline",
     "body": "content: '\\\\e042';"
   },
   "typcn-chart-pie": {
+    "description": "content",
     "prefix": "typcn-chart-pie",
     "body": "content: '\\\\e045';"
   },
   "typcn-chart-pie-outline": {
+    "description": "content",
     "prefix": "typcn-chart-pie-outline",
     "body": "content: '\\\\e044';"
   },
   "typcn-chevron-left": {
+    "description": "content",
     "prefix": "typcn-chevron-left",
     "body": "content: '\\\\e047';"
   },
   "typcn-chevron-left-outline": {
+    "description": "content",
     "prefix": "typcn-chevron-left-outline",
     "body": "content: '\\\\e046';"
   },
   "typcn-chevron-right": {
+    "description": "content",
     "prefix": "typcn-chevron-right",
     "body": "content: '\\\\e049';"
   },
   "typcn-chevron-right-outline": {
+    "description": "content",
     "prefix": "typcn-chevron-right-outline",
     "body": "content: '\\\\e048';"
   },
   "typcn-clipboard": {
+    "description": "content",
     "prefix": "typcn-clipboard",
     "body": "content: '\\\\e04a';"
   },
   "typcn-cloud-storage": {
+    "description": "content",
     "prefix": "typcn-cloud-storage",
     "body": "content: '\\\\e04b';"
   },
   "typcn-cloud-storage-outline": {
+    "description": "content",
     "prefix": "typcn-cloud-storage-outline",
     "body": "content: '\\\\e054';"
   },
   "typcn-code": {
+    "description": "content",
     "prefix": "typcn-code",
     "body": "content: '\\\\e04d';"
   },
   "typcn-code-outline": {
+    "description": "content",
     "prefix": "typcn-code-outline",
     "body": "content: '\\\\e04c';"
   },
   "typcn-coffee": {
+    "description": "content",
     "prefix": "typcn-coffee",
     "body": "content: '\\\\e04e';"
   },
   "typcn-cog": {
+    "description": "content",
     "prefix": "typcn-cog",
     "body": "content: '\\\\e050';"
   },
   "typcn-cog-outline": {
+    "description": "content",
     "prefix": "typcn-cog-outline",
     "body": "content: '\\\\e04f';"
   },
   "typcn-compass": {
+    "description": "content",
     "prefix": "typcn-compass",
     "body": "content: '\\\\e051';"
   },
   "typcn-contacts": {
+    "description": "content",
     "prefix": "typcn-contacts",
     "body": "content: '\\\\e052';"
   },
   "typcn-credit-card": {
+    "description": "content",
     "prefix": "typcn-credit-card",
     "body": "content: '\\\\e053';"
   },
   "typcn-css3": {
+    "description": "content",
     "prefix": "typcn-css3",
     "body": "content: '\\\\e055';"
   },
   "typcn-database": {
+    "description": "content",
     "prefix": "typcn-database",
     "body": "content: '\\\\e056';"
   },
   "typcn-delete": {
+    "description": "content",
     "prefix": "typcn-delete",
     "body": "content: '\\\\e058';"
   },
   "typcn-delete-outline": {
+    "description": "content",
     "prefix": "typcn-delete-outline",
     "body": "content: '\\\\e057';"
   },
   "typcn-device-desktop": {
+    "description": "content",
     "prefix": "typcn-device-desktop",
     "body": "content: '\\\\e059';"
   },
   "typcn-device-laptop": {
+    "description": "content",
     "prefix": "typcn-device-laptop",
     "body": "content: '\\\\e05a';"
   },
   "typcn-device-phone": {
+    "description": "content",
     "prefix": "typcn-device-phone",
     "body": "content: '\\\\e05b';"
   },
   "typcn-device-tablet": {
+    "description": "content",
     "prefix": "typcn-device-tablet",
     "body": "content: '\\\\e05c';"
   },
   "typcn-directions": {
+    "description": "content",
     "prefix": "typcn-directions",
     "body": "content: '\\\\e05d';"
   },
   "typcn-divide": {
+    "description": "content",
     "prefix": "typcn-divide",
     "body": "content: '\\\\e05f';"
   },
   "typcn-divide-outline": {
+    "description": "content",
     "prefix": "typcn-divide-outline",
     "body": "content: '\\\\e05e';"
   },
   "typcn-document": {
+    "description": "content",
     "prefix": "typcn-document",
     "body": "content: '\\\\e063';"
   },
   "typcn-document-add": {
+    "description": "content",
     "prefix": "typcn-document-add",
     "body": "content: '\\\\e060';"
   },
   "typcn-document-delete": {
+    "description": "content",
     "prefix": "typcn-document-delete",
     "body": "content: '\\\\e061';"
   },
   "typcn-document-text": {
+    "description": "content",
     "prefix": "typcn-document-text",
     "body": "content: '\\\\e062';"
   },
   "typcn-download": {
+    "description": "content",
     "prefix": "typcn-download",
     "body": "content: '\\\\e065';"
   },
   "typcn-download-outline": {
+    "description": "content",
     "prefix": "typcn-download-outline",
     "body": "content: '\\\\e064';"
   },
   "typcn-dropbox": {
+    "description": "content",
     "prefix": "typcn-dropbox",
     "body": "content: '\\\\e066';"
   },
   "typcn-edit": {
+    "description": "content",
     "prefix": "typcn-edit",
     "body": "content: '\\\\e067';"
   },
   "typcn-eject": {
+    "description": "content",
     "prefix": "typcn-eject",
     "body": "content: '\\\\e069';"
   },
   "typcn-eject-outline": {
+    "description": "content",
     "prefix": "typcn-eject-outline",
     "body": "content: '\\\\e068';"
   },
   "typcn-equals": {
+    "description": "content",
     "prefix": "typcn-equals",
     "body": "content: '\\\\e06b';"
   },
   "typcn-equals-outline": {
+    "description": "content",
     "prefix": "typcn-equals-outline",
     "body": "content: '\\\\e06a';"
   },
   "typcn-export": {
+    "description": "content",
     "prefix": "typcn-export",
     "body": "content: '\\\\e06d';"
   },
   "typcn-export-outline": {
+    "description": "content",
     "prefix": "typcn-export-outline",
     "body": "content: '\\\\e06c';"
   },
   "typcn-eye": {
+    "description": "content",
     "prefix": "typcn-eye",
     "body": "content: '\\\\e06f';"
   },
   "typcn-eye-outline": {
+    "description": "content",
     "prefix": "typcn-eye-outline",
     "body": "content: '\\\\e06e';"
   },
   "typcn-feather": {
+    "description": "content",
     "prefix": "typcn-feather",
     "body": "content: '\\\\e070';"
   },
   "typcn-film": {
+    "description": "content",
     "prefix": "typcn-film",
     "body": "content: '\\\\e071';"
   },
   "typcn-filter": {
+    "description": "content",
     "prefix": "typcn-filter",
     "body": "content: '\\\\e072';"
   },
   "typcn-flag": {
+    "description": "content",
     "prefix": "typcn-flag",
     "body": "content: '\\\\e074';"
   },
   "typcn-flag-outline": {
+    "description": "content",
     "prefix": "typcn-flag-outline",
     "body": "content: '\\\\e073';"
   },
   "typcn-flash": {
+    "description": "content",
     "prefix": "typcn-flash",
     "body": "content: '\\\\e076';"
   },
   "typcn-flash-outline": {
+    "description": "content",
     "prefix": "typcn-flash-outline",
     "body": "content: '\\\\e075';"
   },
   "typcn-flow-children": {
+    "description": "content",
     "prefix": "typcn-flow-children",
     "body": "content: '\\\\e077';"
   },
   "typcn-flow-merge": {
+    "description": "content",
     "prefix": "typcn-flow-merge",
     "body": "content: '\\\\e078';"
   },
   "typcn-flow-parallel": {
+    "description": "content",
     "prefix": "typcn-flow-parallel",
     "body": "content: '\\\\e079';"
   },
   "typcn-flow-switch": {
+    "description": "content",
     "prefix": "typcn-flow-switch",
     "body": "content: '\\\\e07a';"
   },
   "typcn-folder": {
+    "description": "content",
     "prefix": "typcn-folder",
     "body": "content: '\\\\e07e';"
   },
   "typcn-folder-add": {
+    "description": "content",
     "prefix": "typcn-folder-add",
     "body": "content: '\\\\e07b';"
   },
   "typcn-folder-delete": {
+    "description": "content",
     "prefix": "typcn-folder-delete",
     "body": "content: '\\\\e07c';"
   },
   "typcn-folder-open": {
+    "description": "content",
     "prefix": "typcn-folder-open",
     "body": "content: '\\\\e07d';"
   },
   "typcn-gift": {
+    "description": "content",
     "prefix": "typcn-gift",
     "body": "content: '\\\\e07f';"
   },
   "typcn-globe": {
+    "description": "content",
     "prefix": "typcn-globe",
     "body": "content: '\\\\e081';"
   },
   "typcn-globe-outline": {
+    "description": "content",
     "prefix": "typcn-globe-outline",
     "body": "content: '\\\\e080';"
   },
   "typcn-group": {
+    "description": "content",
     "prefix": "typcn-group",
     "body": "content: '\\\\e083';"
   },
   "typcn-group-outline": {
+    "description": "content",
     "prefix": "typcn-group-outline",
     "body": "content: '\\\\e082';"
   },
   "typcn-headphones": {
+    "description": "content",
     "prefix": "typcn-headphones",
     "body": "content: '\\\\e084';"
   },
   "typcn-heart": {
+    "description": "content",
     "prefix": "typcn-heart",
     "body": "content: '\\\\e088';"
   },
   "typcn-heart-full-outline": {
+    "description": "content",
     "prefix": "typcn-heart-full-outline",
     "body": "content: '\\\\e085';"
   },
   "typcn-heart-half-outline": {
+    "description": "content",
     "prefix": "typcn-heart-half-outline",
     "body": "content: '\\\\e086';"
   },
   "typcn-heart-outline": {
+    "description": "content",
     "prefix": "typcn-heart-outline",
     "body": "content: '\\\\e087';"
   },
   "typcn-home": {
+    "description": "content",
     "prefix": "typcn-home",
     "body": "content: '\\\\e08a';"
   },
   "typcn-home-outline": {
+    "description": "content",
     "prefix": "typcn-home-outline",
     "body": "content: '\\\\e089';"
   },
   "typcn-html5": {
+    "description": "content",
     "prefix": "typcn-html5",
     "body": "content: '\\\\e08b';"
   },
   "typcn-image": {
+    "description": "content",
     "prefix": "typcn-image",
     "body": "content: '\\\\e08d';"
   },
   "typcn-image-outline": {
+    "description": "content",
     "prefix": "typcn-image-outline",
     "body": "content: '\\\\e08c';"
   },
   "typcn-infinity": {
+    "description": "content",
     "prefix": "typcn-infinity",
     "body": "content: '\\\\e08f';"
   },
   "typcn-infinity-outline": {
+    "description": "content",
     "prefix": "typcn-infinity-outline",
     "body": "content: '\\\\e08e';"
   },
   "typcn-info": {
+    "description": "content",
     "prefix": "typcn-info",
     "body": "content: '\\\\e093';"
   },
   "typcn-info-large": {
+    "description": "content",
     "prefix": "typcn-info-large",
     "body": "content: '\\\\e091';"
   },
   "typcn-info-large-outline": {
+    "description": "content",
     "prefix": "typcn-info-large-outline",
     "body": "content: '\\\\e090';"
   },
   "typcn-info-outline": {
+    "description": "content",
     "prefix": "typcn-info-outline",
     "body": "content: '\\\\e092';"
   },
   "typcn-input-checked": {
+    "description": "content",
     "prefix": "typcn-input-checked",
     "body": "content: '\\\\e095';"
   },
   "typcn-input-checked-outline": {
+    "description": "content",
     "prefix": "typcn-input-checked-outline",
     "body": "content: '\\\\e094';"
   },
   "typcn-key": {
+    "description": "content",
     "prefix": "typcn-key",
     "body": "content: '\\\\e097';"
   },
   "typcn-key-outline": {
+    "description": "content",
     "prefix": "typcn-key-outline",
     "body": "content: '\\\\e096';"
   },
   "typcn-keyboard": {
+    "description": "content",
     "prefix": "typcn-keyboard",
     "body": "content: '\\\\e098';"
   },
   "typcn-leaf": {
+    "description": "content",
     "prefix": "typcn-leaf",
     "body": "content: '\\\\e099';"
   },
   "typcn-lightbulb": {
+    "description": "content",
     "prefix": "typcn-lightbulb",
     "body": "content: '\\\\e09a';"
   },
   "typcn-link": {
+    "description": "content",
     "prefix": "typcn-link",
     "body": "content: '\\\\e09c';"
   },
   "typcn-link-outline": {
+    "description": "content",
     "prefix": "typcn-link-outline",
     "body": "content: '\\\\e09b';"
   },
   "typcn-location": {
+    "description": "content",
     "prefix": "typcn-location",
     "body": "content: '\\\\e0a0';"
   },
   "typcn-location-arrow": {
+    "description": "content",
     "prefix": "typcn-location-arrow",
     "body": "content: '\\\\e09e';"
   },
   "typcn-location-arrow-outline": {
+    "description": "content",
     "prefix": "typcn-location-arrow-outline",
     "body": "content: '\\\\e09d';"
   },
   "typcn-location-outline": {
+    "description": "content",
     "prefix": "typcn-location-outline",
     "body": "content: '\\\\e09f';"
   },
   "typcn-lock-closed": {
+    "description": "content",
     "prefix": "typcn-lock-closed",
     "body": "content: '\\\\e0a2';"
   },
   "typcn-lock-closed-outline": {
+    "description": "content",
     "prefix": "typcn-lock-closed-outline",
     "body": "content: '\\\\e0a1';"
   },
   "typcn-lock-open": {
+    "description": "content",
     "prefix": "typcn-lock-open",
     "body": "content: '\\\\e0a4';"
   },
   "typcn-lock-open-outline": {
+    "description": "content",
     "prefix": "typcn-lock-open-outline",
     "body": "content: '\\\\e0a3';"
   },
   "typcn-mail": {
+    "description": "content",
     "prefix": "typcn-mail",
     "body": "content: '\\\\e0a5';"
   },
   "typcn-map": {
+    "description": "content",
     "prefix": "typcn-map",
     "body": "content: '\\\\e0a6';"
   },
   "typcn-media-eject": {
+    "description": "content",
     "prefix": "typcn-media-eject",
     "body": "content: '\\\\e0a8';"
   },
   "typcn-media-eject-outline": {
+    "description": "content",
     "prefix": "typcn-media-eject-outline",
     "body": "content: '\\\\e0a7';"
   },
   "typcn-media-fast-forward": {
+    "description": "content",
     "prefix": "typcn-media-fast-forward",
     "body": "content: '\\\\e0aa';"
   },
   "typcn-media-fast-forward-outline": {
+    "description": "content",
     "prefix": "typcn-media-fast-forward-outline",
     "body": "content: '\\\\e0a9';"
   },
   "typcn-media-pause": {
+    "description": "content",
     "prefix": "typcn-media-pause",
     "body": "content: '\\\\e0ac';"
   },
   "typcn-media-pause-outline": {
+    "description": "content",
     "prefix": "typcn-media-pause-outline",
     "body": "content: '\\\\e0ab';"
   },
   "typcn-media-play": {
+    "description": "content",
     "prefix": "typcn-media-play",
     "body": "content: '\\\\e0b0';"
   },
   "typcn-media-play-outline": {
+    "description": "content",
     "prefix": "typcn-media-play-outline",
     "body": "content: '\\\\e0ad';"
   },
   "typcn-media-play-reverse": {
+    "description": "content",
     "prefix": "typcn-media-play-reverse",
     "body": "content: '\\\\e0af';"
   },
   "typcn-media-play-reverse-outline": {
+    "description": "content",
     "prefix": "typcn-media-play-reverse-outline",
     "body": "content: '\\\\e0ae';"
   },
   "typcn-media-record": {
+    "description": "content",
     "prefix": "typcn-media-record",
     "body": "content: '\\\\e0b2';"
   },
   "typcn-media-record-outline": {
+    "description": "content",
     "prefix": "typcn-media-record-outline",
     "body": "content: '\\\\e0b1';"
   },
   "typcn-media-rewind": {
+    "description": "content",
     "prefix": "typcn-media-rewind",
     "body": "content: '\\\\e0b4';"
   },
   "typcn-media-rewind-outline": {
+    "description": "content",
     "prefix": "typcn-media-rewind-outline",
     "body": "content: '\\\\e0b3';"
   },
   "typcn-media-stop": {
+    "description": "content",
     "prefix": "typcn-media-stop",
     "body": "content: '\\\\e0b6';"
   },
   "typcn-media-stop-outline": {
+    "description": "content",
     "prefix": "typcn-media-stop-outline",
     "body": "content: '\\\\e0b5';"
   },
   "typcn-message": {
+    "description": "content",
     "prefix": "typcn-message",
     "body": "content: '\\\\e0b8';"
   },
   "typcn-message-typing": {
+    "description": "content",
     "prefix": "typcn-message-typing",
     "body": "content: '\\\\e0b7';"
   },
   "typcn-messages": {
+    "description": "content",
     "prefix": "typcn-messages",
     "body": "content: '\\\\e0b9';"
   },
   "typcn-microphone": {
+    "description": "content",
     "prefix": "typcn-microphone",
     "body": "content: '\\\\e0bb';"
   },
   "typcn-microphone-outline": {
+    "description": "content",
     "prefix": "typcn-microphone-outline",
     "body": "content: '\\\\e0ba';"
   },
   "typcn-minus": {
+    "description": "content",
     "prefix": "typcn-minus",
     "body": "content: '\\\\e0bd';"
   },
   "typcn-minus-outline": {
+    "description": "content",
     "prefix": "typcn-minus-outline",
     "body": "content: '\\\\e0bc';"
   },
   "typcn-mortar-board": {
+    "description": "content",
     "prefix": "typcn-mortar-board",
     "body": "content: '\\\\e0be';"
   },
   "typcn-news": {
+    "description": "content",
     "prefix": "typcn-news",
     "body": "content: '\\\\e0bf';"
   },
   "typcn-notes": {
+    "description": "content",
     "prefix": "typcn-notes",
     "body": "content: '\\\\e0c1';"
   },
   "typcn-notes-outline": {
+    "description": "content",
     "prefix": "typcn-notes-outline",
     "body": "content: '\\\\e0c0';"
   },
   "typcn-pen": {
+    "description": "content",
     "prefix": "typcn-pen",
     "body": "content: '\\\\e0c2';"
   },
   "typcn-pencil": {
+    "description": "content",
     "prefix": "typcn-pencil",
     "body": "content: '\\\\e0c3';"
   },
   "typcn-phone": {
+    "description": "content",
     "prefix": "typcn-phone",
     "body": "content: '\\\\e0c5';"
   },
   "typcn-phone-outline": {
+    "description": "content",
     "prefix": "typcn-phone-outline",
     "body": "content: '\\\\e0c4';"
   },
   "typcn-pi": {
+    "description": "content",
     "prefix": "typcn-pi",
     "body": "content: '\\\\e0c7';"
   },
   "typcn-pi-outline": {
+    "description": "content",
     "prefix": "typcn-pi-outline",
     "body": "content: '\\\\e0c6';"
   },
   "typcn-pin": {
+    "description": "content",
     "prefix": "typcn-pin",
     "body": "content: '\\\\e0c9';"
   },
   "typcn-pin-outline": {
+    "description": "content",
     "prefix": "typcn-pin-outline",
     "body": "content: '\\\\e0c8';"
   },
   "typcn-pipette": {
+    "description": "content",
     "prefix": "typcn-pipette",
     "body": "content: '\\\\e0ca';"
   },
   "typcn-plane": {
+    "description": "content",
     "prefix": "typcn-plane",
     "body": "content: '\\\\e0cc';"
   },
   "typcn-plane-outline": {
+    "description": "content",
     "prefix": "typcn-plane-outline",
     "body": "content: '\\\\e0cb';"
   },
   "typcn-plug": {
+    "description": "content",
     "prefix": "typcn-plug",
     "body": "content: '\\\\e0cd';"
   },
   "typcn-plus": {
+    "description": "content",
     "prefix": "typcn-plus",
     "body": "content: '\\\\e0cf';"
   },
   "typcn-plus-outline": {
+    "description": "content",
     "prefix": "typcn-plus-outline",
     "body": "content: '\\\\e0ce';"
   },
   "typcn-point-of-interest": {
+    "description": "content",
     "prefix": "typcn-point-of-interest",
     "body": "content: '\\\\e0d1';"
   },
   "typcn-point-of-interest-outline": {
+    "description": "content",
     "prefix": "typcn-point-of-interest-outline",
     "body": "content: '\\\\e0d0';"
   },
   "typcn-power": {
+    "description": "content",
     "prefix": "typcn-power",
     "body": "content: '\\\\e0d3';"
   },
   "typcn-power-outline": {
+    "description": "content",
     "prefix": "typcn-power-outline",
     "body": "content: '\\\\e0d2';"
   },
   "typcn-printer": {
+    "description": "content",
     "prefix": "typcn-printer",
     "body": "content: '\\\\e0d4';"
   },
   "typcn-puzzle": {
+    "description": "content",
     "prefix": "typcn-puzzle",
     "body": "content: '\\\\e0d6';"
   },
   "typcn-puzzle-outline": {
+    "description": "content",
     "prefix": "typcn-puzzle-outline",
     "body": "content: '\\\\e0d5';"
   },
   "typcn-radar": {
+    "description": "content",
     "prefix": "typcn-radar",
     "body": "content: '\\\\e0d8';"
   },
   "typcn-radar-outline": {
+    "description": "content",
     "prefix": "typcn-radar-outline",
     "body": "content: '\\\\e0d7';"
   },
   "typcn-refresh": {
+    "description": "content",
     "prefix": "typcn-refresh",
     "body": "content: '\\\\e0da';"
   },
   "typcn-refresh-outline": {
+    "description": "content",
     "prefix": "typcn-refresh-outline",
     "body": "content: '\\\\e0d9';"
   },
   "typcn-rss": {
+    "description": "content",
     "prefix": "typcn-rss",
     "body": "content: '\\\\e0dc';"
   },
   "typcn-rss-outline": {
+    "description": "content",
     "prefix": "typcn-rss-outline",
     "body": "content: '\\\\e0db';"
   },
   "typcn-scissors": {
+    "description": "content",
     "prefix": "typcn-scissors",
     "body": "content: '\\\\e0de';"
   },
   "typcn-scissors-outline": {
+    "description": "content",
     "prefix": "typcn-scissors-outline",
     "body": "content: '\\\\e0dd';"
   },
   "typcn-shopping-bag": {
+    "description": "content",
     "prefix": "typcn-shopping-bag",
     "body": "content: '\\\\e0df';"
   },
   "typcn-shopping-cart": {
+    "description": "content",
     "prefix": "typcn-shopping-cart",
     "body": "content: '\\\\e0e0';"
   },
   "typcn-social-at-circular": {
+    "description": "content",
     "prefix": "typcn-social-at-circular",
     "body": "content: '\\\\e0e1';"
   },
   "typcn-social-dribbble": {
+    "description": "content",
     "prefix": "typcn-social-dribbble",
     "body": "content: '\\\\e0e3';"
   },
   "typcn-social-dribbble-circular": {
+    "description": "content",
     "prefix": "typcn-social-dribbble-circular",
     "body": "content: '\\\\e0e2';"
   },
   "typcn-social-facebook": {
+    "description": "content",
     "prefix": "typcn-social-facebook",
     "body": "content: '\\\\e0e5';"
   },
   "typcn-social-facebook-circular": {
+    "description": "content",
     "prefix": "typcn-social-facebook-circular",
     "body": "content: '\\\\e0e4';"
   },
   "typcn-social-flickr": {
+    "description": "content",
     "prefix": "typcn-social-flickr",
     "body": "content: '\\\\e0e7';"
   },
   "typcn-social-flickr-circular": {
+    "description": "content",
     "prefix": "typcn-social-flickr-circular",
     "body": "content: '\\\\e0e6';"
   },
   "typcn-social-github": {
+    "description": "content",
     "prefix": "typcn-social-github",
     "body": "content: '\\\\e0e9';"
   },
   "typcn-social-github-circular": {
+    "description": "content",
     "prefix": "typcn-social-github-circular",
     "body": "content: '\\\\e0e8';"
   },
   "typcn-social-google-plus": {
+    "description": "content",
     "prefix": "typcn-social-google-plus",
     "body": "content: '\\\\e0eb';"
   },
   "typcn-social-google-plus-circular": {
+    "description": "content",
     "prefix": "typcn-social-google-plus-circular",
     "body": "content: '\\\\e0ea';"
   },
   "typcn-social-instagram": {
+    "description": "content",
     "prefix": "typcn-social-instagram",
     "body": "content: '\\\\e0ed';"
   },
   "typcn-social-instagram-circular": {
+    "description": "content",
     "prefix": "typcn-social-instagram-circular",
     "body": "content: '\\\\e0ec';"
   },
   "typcn-social-last-fm": {
+    "description": "content",
     "prefix": "typcn-social-last-fm",
     "body": "content: '\\\\e0ef';"
   },
   "typcn-social-last-fm-circular": {
+    "description": "content",
     "prefix": "typcn-social-last-fm-circular",
     "body": "content: '\\\\e0ee';"
   },
   "typcn-social-linkedin": {
+    "description": "content",
     "prefix": "typcn-social-linkedin",
     "body": "content: '\\\\e0f1';"
   },
   "typcn-social-linkedin-circular": {
+    "description": "content",
     "prefix": "typcn-social-linkedin-circular",
     "body": "content: '\\\\e0f0';"
   },
   "typcn-social-pinterest": {
+    "description": "content",
     "prefix": "typcn-social-pinterest",
     "body": "content: '\\\\e0f3';"
   },
   "typcn-social-pinterest-circular": {
+    "description": "content",
     "prefix": "typcn-social-pinterest-circular",
     "body": "content: '\\\\e0f2';"
   },
   "typcn-social-skype": {
+    "description": "content",
     "prefix": "typcn-social-skype",
     "body": "content: '\\\\e0f5';"
   },
   "typcn-social-skype-outline": {
+    "description": "content",
     "prefix": "typcn-social-skype-outline",
     "body": "content: '\\\\e0f4';"
   },
   "typcn-social-tumbler": {
+    "description": "content",
     "prefix": "typcn-social-tumbler",
     "body": "content: '\\\\e0f7';"
   },
   "typcn-social-tumbler-circular": {
+    "description": "content",
     "prefix": "typcn-social-tumbler-circular",
     "body": "content: '\\\\e0f6';"
   },
   "typcn-social-twitter": {
+    "description": "content",
     "prefix": "typcn-social-twitter",
     "body": "content: '\\\\e0f9';"
   },
   "typcn-social-twitter-circular": {
+    "description": "content",
     "prefix": "typcn-social-twitter-circular",
     "body": "content: '\\\\e0f8';"
   },
   "typcn-social-vimeo": {
+    "description": "content",
     "prefix": "typcn-social-vimeo",
     "body": "content: '\\\\e0fb';"
   },
   "typcn-social-vimeo-circular": {
+    "description": "content",
     "prefix": "typcn-social-vimeo-circular",
     "body": "content: '\\\\e0fa';"
   },
   "typcn-social-youtube": {
+    "description": "content",
     "prefix": "typcn-social-youtube",
     "body": "content: '\\\\e0fd';"
   },
   "typcn-social-youtube-circular": {
+    "description": "content",
     "prefix": "typcn-social-youtube-circular",
     "body": "content: '\\\\e0fc';"
   },
   "typcn-sort-alphabetically": {
+    "description": "content",
     "prefix": "typcn-sort-alphabetically",
     "body": "content: '\\\\e0ff';"
   },
   "typcn-sort-alphabetically-outline": {
+    "description": "content",
     "prefix": "typcn-sort-alphabetically-outline",
     "body": "content: '\\\\e0fe';"
   },
   "typcn-sort-numerically": {
+    "description": "content",
     "prefix": "typcn-sort-numerically",
     "body": "content: '\\\\e101';"
   },
   "typcn-sort-numerically-outline": {
+    "description": "content",
     "prefix": "typcn-sort-numerically-outline",
     "body": "content: '\\\\e100';"
   },
   "typcn-spanner": {
+    "description": "content",
     "prefix": "typcn-spanner",
     "body": "content: '\\\\e103';"
   },
   "typcn-spanner-outline": {
+    "description": "content",
     "prefix": "typcn-spanner-outline",
     "body": "content: '\\\\e102';"
   },
   "typcn-spiral": {
+    "description": "content",
     "prefix": "typcn-spiral",
     "body": "content: '\\\\e104';"
   },
   "typcn-star": {
+    "description": "content",
     "prefix": "typcn-star",
     "body": "content: '\\\\e109';"
   },
   "typcn-star-full-outline": {
+    "description": "content",
     "prefix": "typcn-star-full-outline",
     "body": "content: '\\\\e105';"
   },
   "typcn-star-half": {
+    "description": "content",
     "prefix": "typcn-star-half",
     "body": "content: '\\\\e107';"
   },
   "typcn-star-half-outline": {
+    "description": "content",
     "prefix": "typcn-star-half-outline",
     "body": "content: '\\\\e106';"
   },
   "typcn-star-outline": {
+    "description": "content",
     "prefix": "typcn-star-outline",
     "body": "content: '\\\\e108';"
   },
   "typcn-starburst": {
+    "description": "content",
     "prefix": "typcn-starburst",
     "body": "content: '\\\\e10b';"
   },
   "typcn-starburst-outline": {
+    "description": "content",
     "prefix": "typcn-starburst-outline",
     "body": "content: '\\\\e10a';"
   },
   "typcn-stopwatch": {
+    "description": "content",
     "prefix": "typcn-stopwatch",
     "body": "content: '\\\\e10c';"
   },
   "typcn-support": {
+    "description": "content",
     "prefix": "typcn-support",
     "body": "content: '\\\\e10d';"
   },
   "typcn-tabs-outline": {
+    "description": "content",
     "prefix": "typcn-tabs-outline",
     "body": "content: '\\\\e10e';"
   },
   "typcn-tag": {
+    "description": "content",
     "prefix": "typcn-tag",
     "body": "content: '\\\\e10f';"
   },
   "typcn-tags": {
+    "description": "content",
     "prefix": "typcn-tags",
     "body": "content: '\\\\e110';"
   },
   "typcn-th-large": {
+    "description": "content",
     "prefix": "typcn-th-large",
     "body": "content: '\\\\e112';"
   },
   "typcn-th-large-outline": {
+    "description": "content",
     "prefix": "typcn-th-large-outline",
     "body": "content: '\\\\e111';"
   },
   "typcn-th-list": {
+    "description": "content",
     "prefix": "typcn-th-list",
     "body": "content: '\\\\e114';"
   },
   "typcn-th-list-outline": {
+    "description": "content",
     "prefix": "typcn-th-list-outline",
     "body": "content: '\\\\e113';"
   },
   "typcn-th-menu": {
+    "description": "content",
     "prefix": "typcn-th-menu",
     "body": "content: '\\\\e116';"
   },
   "typcn-th-menu-outline": {
+    "description": "content",
     "prefix": "typcn-th-menu-outline",
     "body": "content: '\\\\e115';"
   },
   "typcn-th-small": {
+    "description": "content",
     "prefix": "typcn-th-small",
     "body": "content: '\\\\e118';"
   },
   "typcn-th-small-outline": {
+    "description": "content",
     "prefix": "typcn-th-small-outline",
     "body": "content: '\\\\e117';"
   },
   "typcn-thermometer": {
+    "description": "content",
     "prefix": "typcn-thermometer",
     "body": "content: '\\\\e119';"
   },
   "typcn-thumbs-down": {
+    "description": "content",
     "prefix": "typcn-thumbs-down",
     "body": "content: '\\\\e11a';"
   },
   "typcn-thumbs-ok": {
+    "description": "content",
     "prefix": "typcn-thumbs-ok",
     "body": "content: '\\\\e11b';"
   },
   "typcn-thumbs-up": {
+    "description": "content",
     "prefix": "typcn-thumbs-up",
     "body": "content: '\\\\e11c';"
   },
   "typcn-tick": {
+    "description": "content",
     "prefix": "typcn-tick",
     "body": "content: '\\\\e11e';"
   },
   "typcn-tick-outline": {
+    "description": "content",
     "prefix": "typcn-tick-outline",
     "body": "content: '\\\\e11d';"
   },
   "typcn-ticket": {
+    "description": "content",
     "prefix": "typcn-ticket",
     "body": "content: '\\\\e11f';"
   },
   "typcn-time": {
+    "description": "content",
     "prefix": "typcn-time",
     "body": "content: '\\\\e120';"
   },
   "typcn-times": {
+    "description": "content",
     "prefix": "typcn-times",
     "body": "content: '\\\\e122';"
   },
   "typcn-times-outline": {
+    "description": "content",
     "prefix": "typcn-times-outline",
     "body": "content: '\\\\e121';"
   },
   "typcn-trash": {
+    "description": "content",
     "prefix": "typcn-trash",
     "body": "content: '\\\\e123';"
   },
   "typcn-tree": {
+    "description": "content",
     "prefix": "typcn-tree",
     "body": "content: '\\\\e124';"
   },
   "typcn-upload": {
+    "description": "content",
     "prefix": "typcn-upload",
     "body": "content: '\\\\e126';"
   },
   "typcn-upload-outline": {
+    "description": "content",
     "prefix": "typcn-upload-outline",
     "body": "content: '\\\\e125';"
   },
   "typcn-user": {
+    "description": "content",
     "prefix": "typcn-user",
     "body": "content: '\\\\e12c';"
   },
   "typcn-user-add": {
+    "description": "content",
     "prefix": "typcn-user-add",
     "body": "content: '\\\\e128';"
   },
   "typcn-user-add-outline": {
+    "description": "content",
     "prefix": "typcn-user-add-outline",
     "body": "content: '\\\\e127';"
   },
   "typcn-user-delete": {
+    "description": "content",
     "prefix": "typcn-user-delete",
     "body": "content: '\\\\e12a';"
   },
   "typcn-user-delete-outline": {
+    "description": "content",
     "prefix": "typcn-user-delete-outline",
     "body": "content: '\\\\e129';"
   },
   "typcn-user-outline": {
+    "description": "content",
     "prefix": "typcn-user-outline",
     "body": "content: '\\\\e12b';"
   },
   "typcn-vendor-android": {
+    "description": "content",
     "prefix": "typcn-vendor-android",
     "body": "content: '\\\\e12d';"
   },
   "typcn-vendor-apple": {
+    "description": "content",
     "prefix": "typcn-vendor-apple",
     "body": "content: '\\\\e12e';"
   },
   "typcn-vendor-microsoft": {
+    "description": "content",
     "prefix": "typcn-vendor-microsoft",
     "body": "content: '\\\\e12f';"
   },
   "typcn-video": {
+    "description": "content",
     "prefix": "typcn-video",
     "body": "content: '\\\\e131';"
   },
   "typcn-video-outline": {
+    "description": "content",
     "prefix": "typcn-video-outline",
     "body": "content: '\\\\e130';"
   },
   "typcn-volume": {
+    "description": "content",
     "prefix": "typcn-volume",
     "body": "content: '\\\\e135';"
   },
   "typcn-volume-down": {
+    "description": "content",
     "prefix": "typcn-volume-down",
     "body": "content: '\\\\e132';"
   },
   "typcn-volume-mute": {
+    "description": "content",
     "prefix": "typcn-volume-mute",
     "body": "content: '\\\\e133';"
   },
   "typcn-volume-up": {
+    "description": "content",
     "prefix": "typcn-volume-up",
     "body": "content: '\\\\e134';"
   },
   "typcn-warning": {
+    "description": "content",
     "prefix": "typcn-warning",
     "body": "content: '\\\\e137';"
   },
   "typcn-warning-outline": {
+    "description": "content",
     "prefix": "typcn-warning-outline",
     "body": "content: '\\\\e136';"
   },
   "typcn-watch": {
+    "description": "content",
     "prefix": "typcn-watch",
     "body": "content: '\\\\e138';"
   },
   "typcn-waves": {
+    "description": "content",
     "prefix": "typcn-waves",
     "body": "content: '\\\\e13a';"
   },
   "typcn-waves-outline": {
+    "description": "content",
     "prefix": "typcn-waves-outline",
     "body": "content: '\\\\e139';"
   },
   "typcn-weather-cloudy": {
+    "description": "content",
     "prefix": "typcn-weather-cloudy",
     "body": "content: '\\\\e13b';"
   },
   "typcn-weather-downpour": {
+    "description": "content",
     "prefix": "typcn-weather-downpour",
     "body": "content: '\\\\e13c';"
   },
   "typcn-weather-night": {
+    "description": "content",
     "prefix": "typcn-weather-night",
     "body": "content: '\\\\e13d';"
   },
   "typcn-weather-partly-sunny": {
+    "description": "content",
     "prefix": "typcn-weather-partly-sunny",
     "body": "content: '\\\\e13e';"
   },
   "typcn-weather-shower": {
+    "description": "content",
     "prefix": "typcn-weather-shower",
     "body": "content: '\\\\e13f';"
   },
   "typcn-weather-snow": {
+    "description": "content",
     "prefix": "typcn-weather-snow",
     "body": "content: '\\\\e140';"
   },
   "typcn-weather-stormy": {
+    "description": "content",
     "prefix": "typcn-weather-stormy",
     "body": "content: '\\\\e141';"
   },
   "typcn-weather-sunny": {
+    "description": "content",
     "prefix": "typcn-weather-sunny",
     "body": "content: '\\\\e142';"
   },
   "typcn-weather-windy": {
+    "description": "content",
     "prefix": "typcn-weather-windy",
     "body": "content: '\\\\e144';"
   },
   "typcn-weather-windy-cloudy": {
+    "description": "content",
     "prefix": "typcn-weather-windy-cloudy",
     "body": "content: '\\\\e143';"
   },
   "typcn-wi-fi": {
+    "description": "content",
     "prefix": "typcn-wi-fi",
     "body": "content: '\\\\e146';"
   },
   "typcn-wi-fi-outline": {
+    "description": "content",
     "prefix": "typcn-wi-fi-outline",
     "body": "content: '\\\\e145';"
   },
   "typcn-wine": {
+    "description": "content",
     "prefix": "typcn-wine",
     "body": "content: '\\\\e147';"
   },
   "typcn-world": {
+    "description": "content",
     "prefix": "typcn-world",
     "body": "content: '\\\\e149';"
   },
   "typcn-world-outline": {
+    "description": "content",
     "prefix": "typcn-world-outline",
     "body": "content: '\\\\e148';"
   },
   "typcn-zoom": {
+    "description": "content",
     "prefix": "typcn-zoom",
     "body": "content: '\\\\e14f';"
   },
   "typcn-zoom-in": {
+    "description": "content",
     "prefix": "typcn-zoom-in",
     "body": "content: '\\\\e14b';"
   },
   "typcn-zoom-in-outline": {
+    "description": "content",
     "prefix": "typcn-zoom-in-outline",
     "body": "content: '\\\\e14a';"
   },
   "typcn-zoom-out": {
+    "description": "content",
     "prefix": "typcn-zoom-out",
     "body": "content: '\\\\e14d';"
   },
   "typcn-zoom-out-outline": {
+    "description": "content",
     "prefix": "typcn-zoom-out-outline",
     "body": "content: '\\\\e14c';"
   },
   "typcn-zoom-outline": {
+    "description": "content",
     "prefix": "typcn-zoom-outline",
     "body": "content: '\\\\e14e';"
   }

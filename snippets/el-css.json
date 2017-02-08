@@ -1,1218 +1,1522 @@
 {
   "el-address-book": {
     "body": "content: '\\\\f102';",
+    "description": "content",
     "prefix": "el-address-book"
   },
   "el-address-book-alt": {
     "body": "content: '\\\\f101';",
+    "description": "content",
     "prefix": "el-address-book-alt"
   },
   "el-adjust": {
     "body": "content: '\\\\f104';",
+    "description": "content",
     "prefix": "el-adjust"
   },
   "el-adjust-alt": {
     "body": "content: '\\\\f103';",
+    "description": "content",
     "prefix": "el-adjust-alt"
   },
   "el-adult": {
     "body": "content: '\\\\f105';",
+    "description": "content",
     "prefix": "el-adult"
   },
   "el-align-center": {
     "body": "content: '\\\\f106';",
+    "description": "content",
     "prefix": "el-align-center"
   },
   "el-align-justify": {
     "body": "content: '\\\\f107';",
+    "description": "content",
     "prefix": "el-align-justify"
   },
   "el-align-left": {
     "body": "content: '\\\\f108';",
+    "description": "content",
     "prefix": "el-align-left"
   },
   "el-align-right": {
     "body": "content: '\\\\f109';",
+    "description": "content",
     "prefix": "el-align-right"
   },
   "el-arrow-down": {
     "body": "content: '\\\\f10a';",
+    "description": "content",
     "prefix": "el-arrow-down"
   },
   "el-arrow-left": {
     "body": "content: '\\\\f10b';",
+    "description": "content",
     "prefix": "el-arrow-left"
   },
   "el-arrow-right": {
     "body": "content: '\\\\f10c';",
+    "description": "content",
     "prefix": "el-arrow-right"
   },
   "el-arrow-up": {
     "body": "content: '\\\\f10d';",
+    "description": "content",
     "prefix": "el-arrow-up"
   },
   "el-asl": {
     "body": "content: '\\\\f10e';",
+    "description": "content",
     "prefix": "el-asl"
   },
   "el-asterisk": {
     "body": "content: '\\\\f10f';",
+    "description": "content",
     "prefix": "el-asterisk"
   },
   "el-backward": {
     "body": "content: '\\\\f110';",
+    "description": "content",
     "prefix": "el-backward"
   },
   "el-ban-circle": {
     "body": "content: '\\\\f111';",
+    "description": "content",
     "prefix": "el-ban-circle"
   },
   "el-barcode": {
     "body": "content: '\\\\f112';",
+    "description": "content",
     "prefix": "el-barcode"
   },
   "el-behance": {
     "body": "content: '\\\\f113';",
+    "description": "content",
     "prefix": "el-behance"
   },
   "el-bell": {
     "body": "content: '\\\\f114';",
+    "description": "content",
     "prefix": "el-bell"
   },
   "el-blind": {
     "body": "content: '\\\\f115';",
+    "description": "content",
     "prefix": "el-blind"
   },
   "el-blogger": {
     "body": "content: '\\\\f116';",
+    "description": "content",
     "prefix": "el-blogger"
   },
   "el-bold": {
     "body": "content: '\\\\f117';",
+    "description": "content",
     "prefix": "el-bold"
   },
   "el-book": {
     "body": "content: '\\\\f118';",
+    "description": "content",
     "prefix": "el-book"
   },
   "el-bookmark": {
     "body": "content: '\\\\f11a';",
+    "description": "content",
     "prefix": "el-bookmark"
   },
   "el-bookmark-empty": {
     "body": "content: '\\\\f119';",
+    "description": "content",
     "prefix": "el-bookmark-empty"
   },
   "el-braille": {
     "body": "content: '\\\\f11b';",
+    "description": "content",
     "prefix": "el-braille"
   },
   "el-briefcase": {
     "body": "content: '\\\\f11c';",
+    "description": "content",
     "prefix": "el-briefcase"
   },
   "el-broom": {
     "body": "content: '\\\\f11d';",
+    "description": "content",
     "prefix": "el-broom"
   },
   "el-brush": {
     "body": "content: '\\\\f11e';",
+    "description": "content",
     "prefix": "el-brush"
   },
   "el-bulb": {
     "body": "content: '\\\\f11f';",
+    "description": "content",
     "prefix": "el-bulb"
   },
   "el-bullhorn": {
     "body": "content: '\\\\f120';",
+    "description": "content",
     "prefix": "el-bullhorn"
   },
   "el-calendar": {
     "body": "content: '\\\\f122';",
+    "description": "content",
     "prefix": "el-calendar"
   },
   "el-calendar-sign": {
     "body": "content: '\\\\f121';",
+    "description": "content",
     "prefix": "el-calendar-sign"
   },
   "el-camera": {
     "body": "content: '\\\\f123';",
+    "description": "content",
     "prefix": "el-camera"
   },
   "el-car": {
     "body": "content: '\\\\f124';",
+    "description": "content",
     "prefix": "el-car"
   },
   "el-caret-down": {
     "body": "content: '\\\\f125';",
+    "description": "content",
     "prefix": "el-caret-down"
   },
   "el-caret-left": {
     "body": "content: '\\\\f126';",
+    "description": "content",
     "prefix": "el-caret-left"
   },
   "el-caret-right": {
     "body": "content: '\\\\f127';",
+    "description": "content",
     "prefix": "el-caret-right"
   },
   "el-caret-up": {
     "body": "content: '\\\\f128';",
+    "description": "content",
     "prefix": "el-caret-up"
   },
   "el-cc": {
     "body": "content: '\\\\f129';",
+    "description": "content",
     "prefix": "el-cc"
   },
   "el-certificate": {
     "body": "content: '\\\\f12a';",
+    "description": "content",
     "prefix": "el-certificate"
   },
   "el-check": {
     "body": "content: '\\\\f12c';",
+    "description": "content",
     "prefix": "el-check"
   },
   "el-check-empty": {
     "body": "content: '\\\\f12b';",
+    "description": "content",
     "prefix": "el-check-empty"
   },
   "el-chevron-down": {
     "body": "content: '\\\\f12d';",
+    "description": "content",
     "prefix": "el-chevron-down"
   },
   "el-chevron-left": {
     "body": "content: '\\\\f12e';",
+    "description": "content",
     "prefix": "el-chevron-left"
   },
   "el-chevron-right": {
     "body": "content: '\\\\f12f';",
+    "description": "content",
     "prefix": "el-chevron-right"
   },
   "el-chevron-up": {
     "body": "content: '\\\\f130';",
+    "description": "content",
     "prefix": "el-chevron-up"
   },
   "el-child": {
     "body": "content: '\\\\f131';",
+    "description": "content",
     "prefix": "el-child"
   },
   "el-circle-arrow-down": {
     "body": "content: '\\\\f132';",
+    "description": "content",
     "prefix": "el-circle-arrow-down"
   },
   "el-circle-arrow-left": {
     "body": "content: '\\\\f133';",
+    "description": "content",
     "prefix": "el-circle-arrow-left"
   },
   "el-circle-arrow-right": {
     "body": "content: '\\\\f134';",
+    "description": "content",
     "prefix": "el-circle-arrow-right"
   },
   "el-circle-arrow-up": {
     "body": "content: '\\\\f135';",
+    "description": "content",
     "prefix": "el-circle-arrow-up"
   },
   "el-cloud": {
     "body": "content: '\\\\f137';",
+    "description": "content",
     "prefix": "el-cloud"
   },
   "el-cloud-alt": {
     "body": "content: '\\\\f136';",
+    "description": "content",
     "prefix": "el-cloud-alt"
   },
   "el-cog": {
     "body": "content: '\\\\f139';",
+    "description": "content",
     "prefix": "el-cog"
   },
   "el-cog-alt": {
     "body": "content: '\\\\f138';",
+    "description": "content",
     "prefix": "el-cog-alt"
   },
   "el-cogs": {
     "body": "content: '\\\\f13a';",
+    "description": "content",
     "prefix": "el-cogs"
   },
   "el-comment": {
     "body": "content: '\\\\f13c';",
+    "description": "content",
     "prefix": "el-comment"
   },
   "el-comment-alt": {
     "body": "content: '\\\\f13b';",
+    "description": "content",
     "prefix": "el-comment-alt"
   },
   "el-compass": {
     "body": "content: '\\\\f13e';",
+    "description": "content",
     "prefix": "el-compass"
   },
   "el-compass-alt": {
     "body": "content: '\\\\f13d';",
+    "description": "content",
     "prefix": "el-compass-alt"
   },
   "el-credit-card": {
     "body": "content: '\\\\f13f';",
+    "description": "content",
     "prefix": "el-credit-card"
   },
   "el-css": {
     "body": "content: '\\\\f140';",
+    "description": "content",
     "prefix": "el-css"
   },
   "el-dashboard": {
     "body": "content: '\\\\f141';",
+    "description": "content",
     "prefix": "el-dashboard"
   },
   "el-delicious": {
     "body": "content: '\\\\f142';",
+    "description": "content",
     "prefix": "el-delicious"
   },
   "el-deviantart": {
     "body": "content: '\\\\f143';",
+    "description": "content",
     "prefix": "el-deviantart"
   },
   "el-digg": {
     "body": "content: '\\\\f144';",
+    "description": "content",
     "prefix": "el-digg"
   },
   "el-download": {
     "body": "content: '\\\\f146';",
+    "description": "content",
     "prefix": "el-download"
   },
   "el-download-alt": {
     "body": "content: '\\\\f145';",
+    "description": "content",
     "prefix": "el-download-alt"
   },
   "el-dribbble": {
     "body": "content: '\\\\f147';",
+    "description": "content",
     "prefix": "el-dribbble"
   },
   "el-edit": {
     "body": "content: '\\\\f148';",
+    "description": "content",
     "prefix": "el-edit"
   },
   "el-eject": {
     "body": "content: '\\\\f149';",
+    "description": "content",
     "prefix": "el-eject"
   },
   "el-envelope": {
     "body": "content: '\\\\f14b';",
+    "description": "content",
     "prefix": "el-envelope"
   },
   "el-envelope-alt": {
     "body": "content: '\\\\f14a';",
+    "description": "content",
     "prefix": "el-envelope-alt"
   },
   "el-error": {
     "body": "content: '\\\\f14d';",
+    "description": "content",
     "prefix": "el-error"
   },
   "el-error-alt": {
     "body": "content: '\\\\f14c';",
+    "description": "content",
     "prefix": "el-error-alt"
   },
   "el-eur": {
     "body": "content: '\\\\f14e';",
+    "description": "content",
     "prefix": "el-eur"
   },
   "el-exclamation-sign": {
     "body": "content: '\\\\f14f';",
+    "description": "content",
     "prefix": "el-exclamation-sign"
   },
   "el-eye-close": {
     "body": "content: '\\\\f150';",
+    "description": "content",
     "prefix": "el-eye-close"
   },
   "el-eye-open": {
     "body": "content: '\\\\f151';",
+    "description": "content",
     "prefix": "el-eye-open"
   },
   "el-facebook": {
     "body": "content: '\\\\f152';",
+    "description": "content",
     "prefix": "el-facebook"
   },
   "el-facetime-video": {
     "body": "content: '\\\\f153';",
+    "description": "content",
     "prefix": "el-facetime-video"
   },
   "el-fast-backward": {
     "body": "content: '\\\\f154';",
+    "description": "content",
     "prefix": "el-fast-backward"
   },
   "el-fast-forward": {
     "body": "content: '\\\\f155';",
+    "description": "content",
     "prefix": "el-fast-forward"
   },
   "el-female": {
     "body": "content: '\\\\f156';",
+    "description": "content",
     "prefix": "el-female"
   },
   "el-file": {
     "body": "content: '\\\\f15c';",
+    "description": "content",
     "prefix": "el-file"
   },
   "el-file-alt": {
     "body": "content: '\\\\f157';",
+    "description": "content",
     "prefix": "el-file-alt"
   },
   "el-file-edit": {
     "body": "content: '\\\\f159';",
+    "description": "content",
     "prefix": "el-file-edit"
   },
   "el-file-edit-alt": {
     "body": "content: '\\\\f158';",
+    "description": "content",
     "prefix": "el-file-edit-alt"
   },
   "el-file-new": {
     "body": "content: '\\\\f15b';",
+    "description": "content",
     "prefix": "el-file-new"
   },
   "el-file-new-alt": {
     "body": "content: '\\\\f15a';",
+    "description": "content",
     "prefix": "el-file-new-alt"
   },
   "el-film": {
     "body": "content: '\\\\f15d';",
+    "description": "content",
     "prefix": "el-film"
   },
   "el-filter": {
     "body": "content: '\\\\f15e';",
+    "description": "content",
     "prefix": "el-filter"
   },
   "el-fire": {
     "body": "content: '\\\\f15f';",
+    "description": "content",
     "prefix": "el-fire"
   },
   "el-flag": {
     "body": "content: '\\\\f161';",
+    "description": "content",
     "prefix": "el-flag"
   },
   "el-flag-alt": {
     "body": "content: '\\\\f160';",
+    "description": "content",
     "prefix": "el-flag-alt"
   },
   "el-flickr": {
     "body": "content: '\\\\f162';",
+    "description": "content",
     "prefix": "el-flickr"
   },
   "el-folder": {
     "body": "content: '\\\\f166';",
+    "description": "content",
     "prefix": "el-folder"
   },
   "el-folder-close": {
     "body": "content: '\\\\f163';",
+    "description": "content",
     "prefix": "el-folder-close"
   },
   "el-folder-open": {
     "body": "content: '\\\\f164';",
+    "description": "content",
     "prefix": "el-folder-open"
   },
   "el-folder-sign": {
     "body": "content: '\\\\f165';",
+    "description": "content",
     "prefix": "el-folder-sign"
   },
   "el-font": {
     "body": "content: '\\\\f167';",
+    "description": "content",
     "prefix": "el-font"
   },
   "el-fontsize": {
     "body": "content: '\\\\f168';",
+    "description": "content",
     "prefix": "el-fontsize"
   },
   "el-fork": {
     "body": "content: '\\\\f169';",
+    "description": "content",
     "prefix": "el-fork"
   },
   "el-forward": {
     "body": "content: '\\\\f16b';",
+    "description": "content",
     "prefix": "el-forward"
   },
   "el-forward-alt": {
     "body": "content: '\\\\f16a';",
+    "description": "content",
     "prefix": "el-forward-alt"
   },
   "el-foursquare": {
     "body": "content: '\\\\f16c';",
+    "description": "content",
     "prefix": "el-foursquare"
   },
   "el-friendfeed": {
     "body": "content: '\\\\f16e';",
+    "description": "content",
     "prefix": "el-friendfeed"
   },
   "el-friendfeed-rect": {
     "body": "content: '\\\\f16d';",
+    "description": "content",
     "prefix": "el-friendfeed-rect"
   },
   "el-fullscreen": {
     "body": "content: '\\\\f16f';",
+    "description": "content",
     "prefix": "el-fullscreen"
   },
   "el-gbp": {
     "body": "content: '\\\\f170';",
+    "description": "content",
     "prefix": "el-gbp"
   },
   "el-gift": {
     "body": "content: '\\\\f171';",
+    "description": "content",
     "prefix": "el-gift"
   },
   "el-github": {
     "body": "content: '\\\\f173';",
+    "description": "content",
     "prefix": "el-github"
   },
   "el-github-text": {
     "body": "content: '\\\\f172';",
+    "description": "content",
     "prefix": "el-github-text"
   },
   "el-glass": {
     "body": "content: '\\\\f174';",
+    "description": "content",
     "prefix": "el-glass"
   },
   "el-glasses": {
     "body": "content: '\\\\f175';",
+    "description": "content",
     "prefix": "el-glasses"
   },
   "el-globe": {
     "body": "content: '\\\\f177';",
+    "description": "content",
     "prefix": "el-globe"
   },
   "el-globe-alt": {
     "body": "content: '\\\\f176';",
+    "description": "content",
     "prefix": "el-globe-alt"
   },
   "el-googleplus": {
     "body": "content: '\\\\f178';",
+    "description": "content",
     "prefix": "el-googleplus"
   },
   "el-graph": {
     "body": "content: '\\\\f17a';",
+    "description": "content",
     "prefix": "el-graph"
   },
   "el-graph-alt": {
     "body": "content: '\\\\f179';",
+    "description": "content",
     "prefix": "el-graph-alt"
   },
   "el-group": {
     "body": "content: '\\\\f17c';",
+    "description": "content",
     "prefix": "el-group"
   },
   "el-group-alt": {
     "body": "content: '\\\\f17b';",
+    "description": "content",
     "prefix": "el-group-alt"
   },
   "el-guidedog": {
     "body": "content: '\\\\f17d';",
+    "description": "content",
     "prefix": "el-guidedog"
   },
   "el-hand-down": {
     "body": "content: '\\\\f17e';",
+    "description": "content",
     "prefix": "el-hand-down"
   },
   "el-hand-left": {
     "body": "content: '\\\\f17f';",
+    "description": "content",
     "prefix": "el-hand-left"
   },
   "el-hand-right": {
     "body": "content: '\\\\f180';",
+    "description": "content",
     "prefix": "el-hand-right"
   },
   "el-hand-up": {
     "body": "content: '\\\\f181';",
+    "description": "content",
     "prefix": "el-hand-up"
   },
   "el-hdd": {
     "body": "content: '\\\\f182';",
+    "description": "content",
     "prefix": "el-hdd"
   },
   "el-headphones": {
     "body": "content: '\\\\f183';",
+    "description": "content",
     "prefix": "el-headphones"
   },
   "el-hearing-impaired": {
     "body": "content: '\\\\f184';",
+    "description": "content",
     "prefix": "el-hearing-impaired"
   },
   "el-heart": {
     "body": "content: '\\\\f187';",
+    "description": "content",
     "prefix": "el-heart"
   },
   "el-heart-alt": {
     "body": "content: '\\\\f185';",
+    "description": "content",
     "prefix": "el-heart-alt"
   },
   "el-heart-empty": {
     "body": "content: '\\\\f186';",
+    "description": "content",
     "prefix": "el-heart-empty"
   },
   "el-home": {
     "body": "content: '\\\\f189';",
+    "description": "content",
     "prefix": "el-home"
   },
   "el-home-alt": {
     "body": "content: '\\\\f188';",
+    "description": "content",
     "prefix": "el-home-alt"
   },
   "el-hourglass": {
     "body": "content: '\\\\f18a';",
+    "description": "content",
     "prefix": "el-hourglass"
   },
   "el-idea": {
     "body": "content: '\\\\f18c';",
+    "description": "content",
     "prefix": "el-idea"
   },
   "el-idea-alt": {
     "body": "content: '\\\\f18b';",
+    "description": "content",
     "prefix": "el-idea-alt"
   },
   "el-inbox": {
     "body": "content: '\\\\f18f';",
+    "description": "content",
     "prefix": "el-inbox"
   },
   "el-inbox-alt": {
     "body": "content: '\\\\f18d';",
+    "description": "content",
     "prefix": "el-inbox-alt"
   },
   "el-inbox-box": {
     "body": "content: '\\\\f18e';",
+    "description": "content",
     "prefix": "el-inbox-box"
   },
   "el-indent-left": {
     "body": "content: '\\\\f190';",
+    "description": "content",
     "prefix": "el-indent-left"
   },
   "el-indent-right": {
     "body": "content: '\\\\f191';",
+    "description": "content",
     "prefix": "el-indent-right"
   },
   "el-info-circle": {
     "body": "content: '\\\\f192';",
+    "description": "content",
     "prefix": "el-info-circle"
   },
   "el-instagram": {
     "body": "content: '\\\\f193';",
+    "description": "content",
     "prefix": "el-instagram"
   },
   "el-iphone-home": {
     "body": "content: '\\\\f194';",
+    "description": "content",
     "prefix": "el-iphone-home"
   },
   "el-italic": {
     "body": "content: '\\\\f195';",
+    "description": "content",
     "prefix": "el-italic"
   },
   "el-key": {
     "body": "content: '\\\\f196';",
+    "description": "content",
     "prefix": "el-key"
   },
   "el-laptop": {
     "body": "content: '\\\\f198';",
+    "description": "content",
     "prefix": "el-laptop"
   },
   "el-laptop-alt": {
     "body": "content: '\\\\f197';",
+    "description": "content",
     "prefix": "el-laptop-alt"
   },
   "el-lastfm": {
     "body": "content: '\\\\f199';",
+    "description": "content",
     "prefix": "el-lastfm"
   },
   "el-leaf": {
     "body": "content: '\\\\f19a';",
+    "description": "content",
     "prefix": "el-leaf"
   },
   "el-lines": {
     "body": "content: '\\\\f19b';",
+    "description": "content",
     "prefix": "el-lines"
   },
   "el-link": {
     "body": "content: '\\\\f19c';",
+    "description": "content",
     "prefix": "el-link"
   },
   "el-linkedin": {
     "body": "content: '\\\\f19d';",
+    "description": "content",
     "prefix": "el-linkedin"
   },
   "el-list": {
     "body": "content: '\\\\f19f';",
+    "description": "content",
     "prefix": "el-list"
   },
   "el-list-alt": {
     "body": "content: '\\\\f19e';",
+    "description": "content",
     "prefix": "el-list-alt"
   },
   "el-livejournal": {
     "body": "content: '\\\\f1a0';",
+    "description": "content",
     "prefix": "el-livejournal"
   },
   "el-lock": {
     "body": "content: '\\\\f1a2';",
+    "description": "content",
     "prefix": "el-lock"
   },
   "el-lock-alt": {
     "body": "content: '\\\\f1a1';",
+    "description": "content",
     "prefix": "el-lock-alt"
   },
   "el-magic": {
     "body": "content: '\\\\f1a3';",
+    "description": "content",
     "prefix": "el-magic"
   },
   "el-magnet": {
     "body": "content: '\\\\f1a4';",
+    "description": "content",
     "prefix": "el-magnet"
   },
   "el-male": {
     "body": "content: '\\\\f1a5';",
+    "description": "content",
     "prefix": "el-male"
   },
   "el-map-marker": {
     "body": "content: '\\\\f1a7';",
+    "description": "content",
     "prefix": "el-map-marker"
   },
   "el-map-marker-alt": {
     "body": "content: '\\\\f1a6';",
+    "description": "content",
     "prefix": "el-map-marker-alt"
   },
   "el-mic": {
     "body": "content: '\\\\f1a9';",
+    "description": "content",
     "prefix": "el-mic"
   },
   "el-mic-alt": {
     "body": "content: '\\\\f1a8';",
+    "description": "content",
     "prefix": "el-mic-alt"
   },
   "el-minus": {
     "body": "content: '\\\\f1ab';",
+    "description": "content",
     "prefix": "el-minus"
   },
   "el-minus-sign": {
     "body": "content: '\\\\f1aa';",
+    "description": "content",
     "prefix": "el-minus-sign"
   },
   "el-move": {
     "body": "content: '\\\\f1ac';",
+    "description": "content",
     "prefix": "el-move"
   },
   "el-music": {
     "body": "content: '\\\\f1ad';",
+    "description": "content",
     "prefix": "el-music"
   },
   "el-myspace": {
     "body": "content: '\\\\f1ae';",
+    "description": "content",
     "prefix": "el-myspace"
   },
   "el-network": {
     "body": "content: '\\\\f1af';",
+    "description": "content",
     "prefix": "el-network"
   },
   "el-off": {
     "body": "content: '\\\\f1b0';",
+    "description": "content",
     "prefix": "el-off"
   },
   "el-ok": {
     "body": "content: '\\\\f1b3';",
+    "description": "content",
     "prefix": "el-ok"
   },
   "el-ok-circle": {
     "body": "content: '\\\\f1b1';",
+    "description": "content",
     "prefix": "el-ok-circle"
   },
   "el-ok-sign": {
     "body": "content: '\\\\f1b2';",
+    "description": "content",
     "prefix": "el-ok-sign"
   },
   "el-opensource": {
     "body": "content: '\\\\f1b4';",
+    "description": "content",
     "prefix": "el-opensource"
   },
   "el-paper-clip": {
     "body": "content: '\\\\f1b6';",
+    "description": "content",
     "prefix": "el-paper-clip"
   },
   "el-paper-clip-alt": {
     "body": "content: '\\\\f1b5';",
+    "description": "content",
     "prefix": "el-paper-clip-alt"
   },
   "el-path": {
     "body": "content: '\\\\f1b7';",
+    "description": "content",
     "prefix": "el-path"
   },
   "el-pause": {
     "body": "content: '\\\\f1b9';",
+    "description": "content",
     "prefix": "el-pause"
   },
   "el-pause-alt": {
     "body": "content: '\\\\f1b8';",
+    "description": "content",
     "prefix": "el-pause-alt"
   },
   "el-pencil": {
     "body": "content: '\\\\f1bb';",
+    "description": "content",
     "prefix": "el-pencil"
   },
   "el-pencil-alt": {
     "body": "content: '\\\\f1ba';",
+    "description": "content",
     "prefix": "el-pencil-alt"
   },
   "el-person": {
     "body": "content: '\\\\f1bc';",
+    "description": "content",
     "prefix": "el-person"
   },
   "el-phone": {
     "body": "content: '\\\\f1be';",
+    "description": "content",
     "prefix": "el-phone"
   },
   "el-phone-alt": {
     "body": "content: '\\\\f1bd';",
+    "description": "content",
     "prefix": "el-phone-alt"
   },
   "el-photo": {
     "body": "content: '\\\\f1c0';",
+    "description": "content",
     "prefix": "el-photo"
   },
   "el-photo-alt": {
     "body": "content: '\\\\f1bf';",
+    "description": "content",
     "prefix": "el-photo-alt"
   },
   "el-picasa": {
     "body": "content: '\\\\f1c1';",
+    "description": "content",
     "prefix": "el-picasa"
   },
   "el-picture": {
     "body": "content: '\\\\f1c2';",
+    "description": "content",
     "prefix": "el-picture"
   },
   "el-pinterest": {
     "body": "content: '\\\\f1c3';",
+    "description": "content",
     "prefix": "el-pinterest"
   },
   "el-plane": {
     "body": "content: '\\\\f1c4';",
+    "description": "content",
     "prefix": "el-plane"
   },
   "el-play": {
     "body": "content: '\\\\f1c7';",
+    "description": "content",
     "prefix": "el-play"
   },
   "el-play-alt": {
     "body": "content: '\\\\f1c5';",
+    "description": "content",
     "prefix": "el-play-alt"
   },
   "el-play-circle": {
     "body": "content: '\\\\f1c6';",
+    "description": "content",
     "prefix": "el-play-circle"
   },
   "el-plurk": {
     "body": "content: '\\\\f1c9';",
+    "description": "content",
     "prefix": "el-plurk"
   },
   "el-plurk-alt": {
     "body": "content: '\\\\f1c8';",
+    "description": "content",
     "prefix": "el-plurk-alt"
   },
   "el-plus": {
     "body": "content: '\\\\f1cb';",
+    "description": "content",
     "prefix": "el-plus"
   },
   "el-plus-sign": {
     "body": "content: '\\\\f1ca';",
+    "description": "content",
     "prefix": "el-plus-sign"
   },
   "el-podcast": {
     "body": "content: '\\\\f1cc';",
+    "description": "content",
     "prefix": "el-podcast"
   },
   "el-print": {
     "body": "content: '\\\\f1cd';",
+    "description": "content",
     "prefix": "el-print"
   },
   "el-puzzle": {
     "body": "content: '\\\\f1ce';",
+    "description": "content",
     "prefix": "el-puzzle"
   },
   "el-qrcode": {
     "body": "content: '\\\\f1cf';",
+    "description": "content",
     "prefix": "el-qrcode"
   },
   "el-question": {
     "body": "content: '\\\\f1d1';",
+    "description": "content",
     "prefix": "el-question"
   },
   "el-question-sign": {
     "body": "content: '\\\\f1d0';",
+    "description": "content",
     "prefix": "el-question-sign"
   },
   "el-quote-alt": {
     "body": "content: '\\\\f1d2';",
+    "description": "content",
     "prefix": "el-quote-alt"
   },
   "el-quote-right": {
     "body": "content: '\\\\f1d4';",
+    "description": "content",
     "prefix": "el-quote-right"
   },
   "el-quote-right-alt": {
     "body": "content: '\\\\f1d3';",
+    "description": "content",
     "prefix": "el-quote-right-alt"
   },
   "el-quotes": {
     "body": "content: '\\\\f1d5';",
+    "description": "content",
     "prefix": "el-quotes"
   },
   "el-random": {
     "body": "content: '\\\\f1d6';",
+    "description": "content",
     "prefix": "el-random"
   },
   "el-record": {
     "body": "content: '\\\\f1d7';",
+    "description": "content",
     "prefix": "el-record"
   },
   "el-reddit": {
     "body": "content: '\\\\f1d8';",
+    "description": "content",
     "prefix": "el-reddit"
   },
   "el-redux": {
     "body": "content: '\\\\f1d9';",
+    "description": "content",
     "prefix": "el-redux"
   },
   "el-refresh": {
     "body": "content: '\\\\f1da';",
+    "description": "content",
     "prefix": "el-refresh"
   },
   "el-remove": {
     "body": "content: '\\\\f1dd';",
+    "description": "content",
     "prefix": "el-remove"
   },
   "el-remove-circle": {
     "body": "content: '\\\\f1db';",
+    "description": "content",
     "prefix": "el-remove-circle"
   },
   "el-remove-sign": {
     "body": "content: '\\\\f1dc';",
+    "description": "content",
     "prefix": "el-remove-sign"
   },
   "el-repeat": {
     "body": "content: '\\\\f1df';",
+    "description": "content",
     "prefix": "el-repeat"
   },
   "el-repeat-alt": {
     "body": "content: '\\\\f1de';",
+    "description": "content",
     "prefix": "el-repeat-alt"
   },
   "el-resize-full": {
     "body": "content: '\\\\f1e0';",
+    "description": "content",
     "prefix": "el-resize-full"
   },
   "el-resize-horizontal": {
     "body": "content: '\\\\f1e1';",
+    "description": "content",
     "prefix": "el-resize-horizontal"
   },
   "el-resize-small": {
     "body": "content: '\\\\f1e2';",
+    "description": "content",
     "prefix": "el-resize-small"
   },
   "el-resize-vertical": {
     "body": "content: '\\\\f1e3';",
+    "description": "content",
     "prefix": "el-resize-vertical"
   },
   "el-return-key": {
     "body": "content: '\\\\f1e4';",
+    "description": "content",
     "prefix": "el-return-key"
   },
   "el-retweet": {
     "body": "content: '\\\\f1e5';",
+    "description": "content",
     "prefix": "el-retweet"
   },
   "el-reverse-alt": {
     "body": "content: '\\\\f1e6';",
+    "description": "content",
     "prefix": "el-reverse-alt"
   },
   "el-road": {
     "body": "content: '\\\\f1e7';",
+    "description": "content",
     "prefix": "el-road"
   },
   "el-rss": {
     "body": "content: '\\\\f1e8';",
+    "description": "content",
     "prefix": "el-rss"
   },
   "el-scissors": {
     "body": "content: '\\\\f1e9';",
+    "description": "content",
     "prefix": "el-scissors"
   },
   "el-screen": {
     "body": "content: '\\\\f1eb';",
+    "description": "content",
     "prefix": "el-screen"
   },
   "el-screen-alt": {
     "body": "content: '\\\\f1ea';",
+    "description": "content",
     "prefix": "el-screen-alt"
   },
   "el-screenshot": {
     "body": "content: '\\\\f1ec';",
+    "description": "content",
     "prefix": "el-screenshot"
   },
   "el-search": {
     "body": "content: '\\\\f1ee';",
+    "description": "content",
     "prefix": "el-search"
   },
   "el-search-alt": {
     "body": "content: '\\\\f1ed';",
+    "description": "content",
     "prefix": "el-search-alt"
   },
   "el-share": {
     "body": "content: '\\\\f1f0';",
+    "description": "content",
     "prefix": "el-share"
   },
   "el-share-alt": {
     "body": "content: '\\\\f1ef';",
+    "description": "content",
     "prefix": "el-share-alt"
   },
   "el-shopping-cart": {
     "body": "content: '\\\\f1f2';",
+    "description": "content",
     "prefix": "el-shopping-cart"
   },
   "el-shopping-cart-sign": {
     "body": "content: '\\\\f1f1';",
+    "description": "content",
     "prefix": "el-shopping-cart-sign"
   },
   "el-signal": {
     "body": "content: '\\\\f1f3';",
+    "description": "content",
     "prefix": "el-signal"
   },
   "el-skype": {
     "body": "content: '\\\\f1f4';",
+    "description": "content",
     "prefix": "el-skype"
   },
   "el-slideshare": {
     "body": "content: '\\\\f1f5';",
+    "description": "content",
     "prefix": "el-slideshare"
   },
   "el-smiley": {
     "body": "content: '\\\\f1f7';",
+    "description": "content",
     "prefix": "el-smiley"
   },
   "el-smiley-alt": {
     "body": "content: '\\\\f1f6';",
+    "description": "content",
     "prefix": "el-smiley-alt"
   },
   "el-soundcloud": {
     "body": "content: '\\\\f1f8';",
+    "description": "content",
     "prefix": "el-soundcloud"
   },
   "el-speaker": {
     "body": "content: '\\\\f1f9';",
+    "description": "content",
     "prefix": "el-speaker"
   },
   "el-spotify": {
     "body": "content: '\\\\f1fa';",
+    "description": "content",
     "prefix": "el-spotify"
   },
   "el-stackoverflow": {
     "body": "content: '\\\\f1fb';",
+    "description": "content",
     "prefix": "el-stackoverflow"
   },
   "el-star": {
     "body": "content: '\\\\f1fe';",
+    "description": "content",
     "prefix": "el-star"
   },
   "el-star-alt": {
     "body": "content: '\\\\f1fc';",
+    "description": "content",
     "prefix": "el-star-alt"
   },
   "el-star-empty": {
     "body": "content: '\\\\f1fd';",
+    "description": "content",
     "prefix": "el-star-empty"
   },
   "el-step-backward": {
     "body": "content: '\\\\f1ff';",
+    "description": "content",
     "prefix": "el-step-backward"
   },
   "el-step-forward": {
     "body": "content: '\\\\f200';",
+    "description": "content",
     "prefix": "el-step-forward"
   },
   "el-stop": {
     "body": "content: '\\\\f202';",
+    "description": "content",
     "prefix": "el-stop"
   },
   "el-stop-alt": {
     "body": "content: '\\\\f201';",
+    "description": "content",
     "prefix": "el-stop-alt"
   },
   "el-stumbleupon": {
     "body": "content: '\\\\f203';",
+    "description": "content",
     "prefix": "el-stumbleupon"
   },
   "el-tag": {
     "body": "content: '\\\\f204';",
+    "description": "content",
     "prefix": "el-tag"
   },
   "el-tags": {
     "body": "content: '\\\\f205';",
+    "description": "content",
     "prefix": "el-tags"
   },
   "el-tasks": {
     "body": "content: '\\\\f206';",
+    "description": "content",
     "prefix": "el-tasks"
   },
   "el-text-height": {
     "body": "content: '\\\\f207';",
+    "description": "content",
     "prefix": "el-text-height"
   },
   "el-text-width": {
     "body": "content: '\\\\f208';",
+    "description": "content",
     "prefix": "el-text-width"
   },
   "el-th": {
     "body": "content: '\\\\f20b';",
+    "description": "content",
     "prefix": "el-th"
   },
   "el-th-large": {
     "body": "content: '\\\\f209';",
+    "description": "content",
     "prefix": "el-th-large"
   },
   "el-th-list": {
     "body": "content: '\\\\f20a';",
+    "description": "content",
     "prefix": "el-th-list"
   },
   "el-thumbs-down": {
     "body": "content: '\\\\f20c';",
+    "description": "content",
     "prefix": "el-thumbs-down"
   },
   "el-thumbs-up": {
     "body": "content: '\\\\f20d';",
+    "description": "content",
     "prefix": "el-thumbs-up"
   },
   "el-time": {
     "body": "content: '\\\\f20f';",
+    "description": "content",
     "prefix": "el-time"
   },
   "el-time-alt": {
     "body": "content: '\\\\f20e';",
+    "description": "content",
     "prefix": "el-time-alt"
   },
   "el-tint": {
     "body": "content: '\\\\f210';",
+    "description": "content",
     "prefix": "el-tint"
   },
   "el-torso": {
     "body": "content: '\\\\f211';",
+    "description": "content",
     "prefix": "el-torso"
   },
   "el-trash": {
     "body": "content: '\\\\f213';",
+    "description": "content",
     "prefix": "el-trash"
   },
   "el-trash-alt": {
     "body": "content: '\\\\f212';",
+    "description": "content",
     "prefix": "el-trash-alt"
   },
   "el-tumblr": {
     "body": "content: '\\\\f214';",
+    "description": "content",
     "prefix": "el-tumblr"
   },
   "el-twitter": {
     "body": "content: '\\\\f215';",
+    "description": "content",
     "prefix": "el-twitter"
   },
   "el-universal-access": {
     "body": "content: '\\\\f216';",
+    "description": "content",
     "prefix": "el-universal-access"
   },
   "el-unlock": {
     "body": "content: '\\\\f218';",
+    "description": "content",
     "prefix": "el-unlock"
   },
   "el-unlock-alt": {
     "body": "content: '\\\\f217';",
+    "description": "content",
     "prefix": "el-unlock-alt"
   },
   "el-upload": {
     "body": "content: '\\\\f219';",
+    "description": "content",
     "prefix": "el-upload"
   },
   "el-usd": {
     "body": "content: '\\\\f21a';",
+    "description": "content",
     "prefix": "el-usd"
   },
   "el-user": {
     "body": "content: '\\\\f21b';",
+    "description": "content",
     "prefix": "el-user"
   },
   "el-viadeo": {
     "body": "content: '\\\\f21c';",
+    "description": "content",
     "prefix": "el-viadeo"
   },
   "el-video": {
     "body": "content: '\\\\f21f';",
+    "description": "content",
     "prefix": "el-video"
   },
   "el-video-alt": {
     "body": "content: '\\\\f21d';",
+    "description": "content",
     "prefix": "el-video-alt"
   },
   "el-video-chat": {
     "body": "content: '\\\\f21e';",
+    "description": "content",
     "prefix": "el-video-chat"
   },
   "el-view-mode": {
     "body": "content: '\\\\f220';",
+    "description": "content",
     "prefix": "el-view-mode"
   },
   "el-vimeo": {
     "body": "content: '\\\\f221';",
+    "description": "content",
     "prefix": "el-vimeo"
   },
   "el-vkontakte": {
     "body": "content: '\\\\f222';",
+    "description": "content",
     "prefix": "el-vkontakte"
   },
   "el-volume-down": {
     "body": "content: '\\\\f223';",
+    "description": "content",
     "prefix": "el-volume-down"
   },
   "el-volume-off": {
     "body": "content: '\\\\f224';",
+    "description": "content",
     "prefix": "el-volume-off"
   },
   "el-volume-up": {
     "body": "content: '\\\\f225';",
+    "description": "content",
     "prefix": "el-volume-up"
   },
   "el-w3c": {
     "body": "content: '\\\\f226';",
+    "description": "content",
     "prefix": "el-w3c"
   },
   "el-warning-sign": {
     "body": "content: '\\\\f227';",
+    "description": "content",
     "prefix": "el-warning-sign"
   },
   "el-website": {
     "body": "content: '\\\\f229';",
+    "description": "content",
     "prefix": "el-website"
   },
   "el-website-alt": {
     "body": "content: '\\\\f228';",
+    "description": "content",
     "prefix": "el-website-alt"
   },
   "el-wheelchair": {
     "body": "content: '\\\\f22a';",
+    "description": "content",
     "prefix": "el-wheelchair"
   },
   "el-wordpress": {
     "body": "content: '\\\\f22b';",
+    "description": "content",
     "prefix": "el-wordpress"
   },
   "el-wrench": {
     "body": "content: '\\\\f22d';",
+    "description": "content",
     "prefix": "el-wrench"
   },
   "el-wrench-alt": {
     "body": "content: '\\\\f22c';",
+    "description": "content",
     "prefix": "el-wrench-alt"
   },
   "el-youtube": {
     "body": "content: '\\\\f22e';",
+    "description": "content",
     "prefix": "el-youtube"
   },
   "el-zoom-in": {
     "body": "content: '\\\\f22f';",
+    "description": "content",
     "prefix": "el-zoom-in"
   },
   "el-zoom-out": {
     "body": "content: '\\\\f230';",
+    "description": "content",
     "prefix": "el-zoom-out"
   }
 }

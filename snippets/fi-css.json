@@ -1,414 +1,517 @@
 {
   "fi-add-doc": {
     "body": "content: '\\\\f019';",
+    "description": "content",
     "prefix": "fi-add-doc"
   },
   "fi-address-book": {
     "body": "content: '\\\\f025';",
+    "description": "content",
     "prefix": "fi-address-book"
   },
   "fi-adult": {
     "body": "content: '\\\\f009';",
+    "description": "content",
     "prefix": "fi-adult"
   },
   "fi-asl": {
     "body": "content: '\\\\f006';",
+    "description": "content",
     "prefix": "fi-asl"
   },
   "fi-behance": {
     "body": "content: '\\\\f00b';",
+    "description": "content",
     "prefix": "fi-behance"
   },
   "fi-blind": {
     "body": "content: '\\\\f00d';",
+    "description": "content",
     "prefix": "fi-blind"
   },
   "fi-braille": {
     "body": "content: '\\\\f00e';",
+    "description": "content",
     "prefix": "fi-braille"
   },
   "fi-calendar": {
     "body": "content: '\\\\f008';",
+    "description": "content",
     "prefix": "fi-calendar"
   },
   "fi-cart": {
     "body": "content: '\\\\f024';",
+    "description": "content",
     "prefix": "fi-cart"
   },
   "fi-cc": {
     "body": "content: '\\\\f00c';",
+    "description": "content",
     "prefix": "fi-cc"
   },
   "fi-chat": {
     "body": "content: '\\\\f018';",
+    "description": "content",
     "prefix": "fi-chat"
   },
   "fi-checkmark": {
     "body": "content: '\\\\f005';",
+    "description": "content",
     "prefix": "fi-checkmark"
   },
   "fi-child": {
     "body": "content: '\\\\f00a';",
+    "description": "content",
     "prefix": "fi-child"
   },
   "fi-clock": {
     "body": "content: '\\\\f029';",
+    "description": "content",
     "prefix": "fi-clock"
   },
   "fi-cloud": {
     "body": "content: '\\\\f012';",
+    "description": "content",
     "prefix": "fi-cloud"
   },
   "fi-compass": {
     "body": "content: '\\\\f026';",
+    "description": "content",
     "prefix": "fi-compass"
   },
   "fi-css": {
     "body": "content: '\\\\f011';",
+    "description": "content",
     "prefix": "fi-css"
   },
   "fi-delicious": {
     "body": "content: '\\\\f017';",
+    "description": "content",
     "prefix": "fi-delicious"
   },
   "fi-digg": {
     "body": "content: '\\\\f01c';",
+    "description": "content",
     "prefix": "fi-digg"
   },
   "fi-down-arrow": {
     "body": "content: '\\\\f017';",
+    "description": "content",
     "prefix": "fi-down-arrow"
   },
   "fi-dribbble": {
     "body": "content: '\\\\f009';",
+    "description": "content",
     "prefix": "fi-dribbble"
   },
   "fi-edit": {
     "body": "content: '\\\\f01a';",
+    "description": "content",
     "prefix": "fi-edit"
   },
   "fi-eject": {
     "body": "content: '\\\\f003';",
+    "description": "content",
     "prefix": "fi-eject"
   },
   "fi-elevator": {
     "body": "content: '\\\\f019';",
+    "description": "content",
     "prefix": "fi-elevator"
   },
   "fi-error": {
     "body": "content: '\\\\f013';",
+    "description": "content",
     "prefix": "fi-error"
   },
   "fi-eyeball": {
     "body": "content: '\\\\f005';",
+    "description": "content",
     "prefix": "fi-eyeball"
   },
   "fi-facebook": {
     "body": "content: '\\\\f003';",
+    "description": "content",
     "prefix": "fi-facebook"
   },
   "fi-female": {
     "body": "content: '\\\\f015';",
+    "description": "content",
     "prefix": "fi-female"
   },
   "fi-flag": {
     "body": "content: '\\\\f027';",
+    "description": "content",
     "prefix": "fi-flag"
   },
   "fi-flickr": {
     "body": "content: '\\\\f010';",
+    "description": "content",
     "prefix": "fi-flickr"
   },
   "fi-folder": {
     "body": "content: '\\\\f02a';",
+    "description": "content",
     "prefix": "fi-folder"
   },
   "fi-fontsize": {
     "body": "content: '\\\\f002';",
+    "description": "content",
     "prefix": "fi-fontsize"
   },
   "fi-foursquare": {
     "body": "content: '\\\\f016';",
+    "description": "content",
     "prefix": "fi-foursquare"
   },
   "fi-github": {
     "body": "content: '\\\\f006';",
+    "description": "content",
     "prefix": "fi-github"
   },
   "fi-glasses": {
     "body": "content: '\\\\f00b';",
+    "description": "content",
     "prefix": "fi-glasses"
   },
   "fi-globe": {
     "body": "content: '\\\\f00b';",
+    "description": "content",
     "prefix": "fi-globe"
   },
   "fi-google-plus": {
     "body": "content: '\\\\f00d';",
+    "description": "content",
     "prefix": "fi-google-plus"
   },
   "fi-graph": {
     "body": "content: '\\\\f021';",
+    "description": "content",
     "prefix": "fi-graph"
   },
   "fi-guidedog": {
     "body": "content: '\\\\f017';",
+    "description": "content",
     "prefix": "fi-guidedog"
   },
   "fi-hearing-impaired": {
     "body": "content: '\\\\f013';",
+    "description": "content",
     "prefix": "fi-hearing-impaired"
   },
   "fi-heart": {
     "body": "content: '\\\\f001';",
+    "description": "content",
     "prefix": "fi-heart"
   },
   "fi-home": {
     "body": "content: '\\\\f00c';",
+    "description": "content",
     "prefix": "fi-home"
   },
   "fi-idea": {
     "body": "content: '\\\\f022';",
+    "description": "content",
     "prefix": "fi-idea"
   },
   "fi-inbox": {
     "body": "content: '\\\\f02b';",
+    "description": "content",
     "prefix": "fi-inbox"
   },
   "fi-instagram": {
     "body": "content: '\\\\f015';",
+    "description": "content",
     "prefix": "fi-instagram"
   },
   "fi-iphone-home": {
     "body": "content: '\\\\f00f';",
+    "description": "content",
     "prefix": "fi-iphone-home"
   },
   "fi-key": {
     "body": "content: '\\\\f012';",
+    "description": "content",
     "prefix": "fi-key"
   },
   "fi-laptop": {
     "body": "content: '\\\\f010';",
+    "description": "content",
     "prefix": "fi-laptop"
   },
   "fi-left-arrow": {
     "body": "content: '\\\\f015';",
+    "description": "content",
     "prefix": "fi-left-arrow"
   },
   "fi-linkedin": {
     "body": "content: '\\\\f008';",
+    "description": "content",
     "prefix": "fi-linkedin"
   },
   "fi-location": {
     "body": "content: '\\\\f028';",
+    "description": "content",
     "prefix": "fi-location"
   },
   "fi-lock": {
     "body": "content: '\\\\f01b';",
+    "description": "content",
     "prefix": "fi-lock"
   },
   "fi-mail": {
     "body": "content: '\\\\f007';",
+    "description": "content",
     "prefix": "fi-mail"
   },
   "fi-male": {
     "body": "content: '\\\\f014';",
+    "description": "content",
     "prefix": "fi-male"
   },
   "fi-mic": {
     "body": "content: '\\\\f023';",
+    "description": "content",
     "prefix": "fi-mic"
   },
   "fi-minus": {
     "body": "content: '\\\\f004';",
+    "description": "content",
     "prefix": "fi-minus"
   },
   "fi-monitor": {
     "body": "content: '\\\\f00f';",
+    "description": "content",
     "prefix": "fi-monitor"
   },
   "fi-network": {
     "body": "content: '\\\\f016';",
+    "description": "content",
     "prefix": "fi-network"
   },
   "fi-page": {
     "body": "content: '\\\\f009';",
+    "description": "content",
     "prefix": "fi-page"
   },
   "fi-paper-clip": {
     "body": "content: '\\\\f01e';",
+    "description": "content",
     "prefix": "fi-paper-clip"
   },
   "fi-path": {
     "body": "content: '\\\\f007';",
+    "description": "content",
     "prefix": "fi-path"
   },
   "fi-people": {
     "body": "content: '\\\\f00e';",
+    "description": "content",
     "prefix": "fi-people"
   },
   "fi-person": {
     "body": "content: '\\\\f007';",
+    "description": "content",
     "prefix": "fi-person"
   },
   "fi-phone": {
     "body": "content: '\\\\f011';",
+    "description": "content",
     "prefix": "fi-phone"
   },
   "fi-photo": {
     "body": "content: '\\\\f020';",
+    "description": "content",
     "prefix": "fi-photo"
   },
   "fi-picassa": {
     "body": "content: '\\\\f012';",
+    "description": "content",
     "prefix": "fi-picassa"
   },
   "fi-pinterest": {
     "body": "content: '\\\\f005';",
+    "description": "content",
     "prefix": "fi-pinterest"
   },
   "fi-plus": {
     "body": "content: '\\\\f003';",
+    "description": "content",
     "prefix": "fi-plus"
   },
   "fi-question": {
     "body": "content: '\\\\f008';",
+    "description": "content",
     "prefix": "fi-question"
   },
   "fi-quote": {
     "body": "content: '\\\\f00d';",
+    "description": "content",
     "prefix": "fi-quote"
   },
   "fi-reddit": {
     "body": "content: '\\\\f00c';",
+    "description": "content",
     "prefix": "fi-reddit"
   },
   "fi-refresh": {
     "body": "content: '\\\\f01d';",
+    "description": "content",
     "prefix": "fi-refresh"
   },
   "fi-remove": {
     "body": "content: '\\\\f006';",
+    "description": "content",
     "prefix": "fi-remove"
   },
   "fi-right-arrow": {
     "body": "content: '\\\\f014';",
+    "description": "content",
     "prefix": "fi-right-arrow"
   },
   "fi-rss": {
     "body": "content: '\\\\f002';",
+    "description": "content",
     "prefix": "fi-rss"
   },
   "fi-search": {
     "body": "content: '\\\\f02e';",
+    "description": "content",
     "prefix": "fi-search"
   },
   "fi-settings": {
     "body": "content: '\\\\f000';",
+    "description": "content",
     "prefix": "fi-settings"
   },
   "fi-skype": {
     "body": "content: '\\\\f013';",
+    "description": "content",
     "prefix": "fi-skype"
   },
   "fi-slideshare": {
     "body": "content: '\\\\f011';",
+    "description": "content",
     "prefix": "fi-slideshare"
   },
   "fi-smiley": {
     "body": "content: '\\\\f02d';",
+    "description": "content",
     "prefix": "fi-smiley"
   },
   "fi-speaker": {
     "body": "content: '\\\\f001';",
+    "description": "content",
     "prefix": "fi-speaker"
   },
   "fi-star": {
     "body": "content: '\\\\f002';",
+    "description": "content",
     "prefix": "fi-star"
   },
   "fi-steam": {
     "body": "content: '\\\\f014';",
+    "description": "content",
     "prefix": "fi-steam"
   },
   "fi-stumble-upon": {
     "body": "content: '\\\\f00a';",
+    "description": "content",
     "prefix": "fi-stumble-upon"
   },
   "fi-thumb-down": {
     "body": "content: '\\\\f001';",
+    "description": "content",
     "prefix": "fi-thumb-down"
   },
   "fi-thumb-up": {
     "body": "content: '\\\\f000';",
+    "description": "content",
     "prefix": "fi-thumb-up"
   },
   "fi-tools": {
     "body": "content: '\\\\f00a';",
+    "description": "content",
     "prefix": "fi-tools"
   },
   "fi-torso": {
     "body": "content: '\\\\f019';",
+    "description": "content",
     "prefix": "fi-torso"
   },
   "fi-trash": {
     "body": "content: '\\\\f018';",
+    "description": "content",
     "prefix": "fi-trash"
   },
   "fi-tumblr": {
     "body": "content: '\\\\f01a';",
+    "description": "content",
     "prefix": "fi-tumblr"
   },
   "fi-twitter": {
     "body": "content: '\\\\f004';",
+    "description": "content",
     "prefix": "fi-twitter"
   },
   "fi-universal-access": {
     "body": "content: '\\\\f018';",
+    "description": "content",
     "prefix": "fi-universal-access"
   },
   "fi-unlock": {
     "body": "content: '\\\\f01c';",
+    "description": "content",
     "prefix": "fi-unlock"
   },
   "fi-up-arrow": {
     "body": "content: '\\\\f016';",
+    "description": "content",
     "prefix": "fi-up-arrow"
   },
   "fi-video": {
     "body": "content: '\\\\f01f';",
+    "description": "content",
     "prefix": "fi-video"
   },
   "fi-video-chat": {
     "body": "content: '\\\\f01b';",
+    "description": "content",
     "prefix": "fi-video-chat"
   },
   "fi-view-mode": {
     "body": "content: '\\\\f004';",
+    "description": "content",
     "prefix": "fi-view-mode"
   },
   "fi-vimeo": {
     "body": "content: '\\\\f00f';",
+    "description": "content",
     "prefix": "fi-vimeo"
   },
   "fi-w3c": {
     "body": "content: '\\\\f010';",
+    "description": "content",
     "prefix": "fi-w3c"
   },
   "fi-website": {
     "body": "content: '\\\\f02c';",
+    "description": "content",
     "prefix": "fi-website"
   },
   "fi-wheelchair": {
     "body": "content: '\\\\f000';",
+    "description": "content",
     "prefix": "fi-wheelchair"
   },
   "fi-wordpress": {
     "body": "content: '\\\\f01d';",
+    "description": "content",
     "prefix": "fi-wordpress"
   },
   "fi-youtube": {
     "body": "content: '\\\\f00e';",
+    "description": "content",
     "prefix": "fi-youtube"
   }
 }

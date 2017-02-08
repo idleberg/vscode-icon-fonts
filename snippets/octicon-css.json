@@ -1,0 +1,992 @@
+{
+  "octicon-alert": {
+    "body": "content: '\\\\f02d';",
+    "description": "content",
+    "prefix": "octicon-alert"
+  },
+  "octicon-arrow-down": {
+    "body": "content: '\\\\f03f';",
+    "description": "content",
+    "prefix": "octicon-arrow-down"
+  },
+  "octicon-arrow-left": {
+    "body": "content: '\\\\f040';",
+    "description": "content",
+    "prefix": "octicon-arrow-left"
+  },
+  "octicon-arrow-right": {
+    "body": "content: '\\\\f03e';",
+    "description": "content",
+    "prefix": "octicon-arrow-right"
+  },
+  "octicon-arrow-small-down": {
+    "body": "content: '\\\\f0a0';",
+    "description": "content",
+    "prefix": "octicon-arrow-small-down"
+  },
+  "octicon-arrow-small-left": {
+    "body": "content: '\\\\f0a1';",
+    "description": "content",
+    "prefix": "octicon-arrow-small-left"
+  },
+  "octicon-arrow-small-right": {
+    "body": "content: '\\\\f071';",
+    "description": "content",
+    "prefix": "octicon-arrow-small-right"
+  },
+  "octicon-arrow-small-up": {
+    "body": "content: '\\\\f09f';",
+    "description": "content",
+    "prefix": "octicon-arrow-small-up"
+  },
+  "octicon-arrow-up": {
+    "body": "content: '\\\\f03d';",
+    "description": "content",
+    "prefix": "octicon-arrow-up"
+  },
+  "octicon-beaker": {
+    "body": "content: '\\\\f0dd';",
+    "description": "content",
+    "prefix": "octicon-beaker"
+  },
+  "octicon-bell": {
+    "body": "content: '\\\\f0de';",
+    "description": "content",
+    "prefix": "octicon-bell"
+  },
+  "octicon-bold": {
+    "body": "content: '\\\\f0e2';",
+    "description": "content",
+    "prefix": "octicon-bold"
+  },
+  "octicon-book": {
+    "body": "content: '\\\\f007';",
+    "description": "content",
+    "prefix": "octicon-book"
+  },
+  "octicon-bookmark": {
+    "body": "content: '\\\\f07b';",
+    "description": "content",
+    "prefix": "octicon-bookmark"
+  },
+  "octicon-briefcase": {
+    "body": "content: '\\\\f0d3';",
+    "description": "content",
+    "prefix": "octicon-briefcase"
+  },
+  "octicon-broadcast": {
+    "body": "content: '\\\\f048';",
+    "description": "content",
+    "prefix": "octicon-broadcast"
+  },
+  "octicon-browser": {
+    "body": "content: '\\\\f0c5';",
+    "description": "content",
+    "prefix": "octicon-browser"
+  },
+  "octicon-bug": {
+    "body": "content: '\\\\f091';",
+    "description": "content",
+    "prefix": "octicon-bug"
+  },
+  "octicon-calendar": {
+    "body": "content: '\\\\f068';",
+    "description": "content",
+    "prefix": "octicon-calendar"
+  },
+  "octicon-check": {
+    "body": "content: '\\\\f03a';",
+    "description": "content",
+    "prefix": "octicon-check"
+  },
+  "octicon-checklist": {
+    "body": "content: '\\\\f076';",
+    "description": "content",
+    "prefix": "octicon-checklist"
+  },
+  "octicon-chevron-down": {
+    "body": "content: '\\\\f0a3';",
+    "description": "content",
+    "prefix": "octicon-chevron-down"
+  },
+  "octicon-chevron-left": {
+    "body": "content: '\\\\f0a4';",
+    "description": "content",
+    "prefix": "octicon-chevron-left"
+  },
+  "octicon-chevron-right": {
+    "body": "content: '\\\\f078';",
+    "description": "content",
+    "prefix": "octicon-chevron-right"
+  },
+  "octicon-chevron-up": {
+    "body": "content: '\\\\f0a2';",
+    "description": "content",
+    "prefix": "octicon-chevron-up"
+  },
+  "octicon-circle-slash": {
+    "body": "content: '\\\\f084';",
+    "description": "content",
+    "prefix": "octicon-circle-slash"
+  },
+  "octicon-circuit-board": {
+    "body": "content: '\\\\f0d6';",
+    "description": "content",
+    "prefix": "octicon-circuit-board"
+  },
+  "octicon-clippy": {
+    "body": "content: '\\\\f035';",
+    "description": "content",
+    "prefix": "octicon-clippy"
+  },
+  "octicon-clock": {
+    "body": "content: '\\\\f046';",
+    "description": "content",
+    "prefix": "octicon-clock"
+  },
+  "octicon-clone": {
+    "body": "content: '\\\\f0dc';",
+    "description": "content",
+    "prefix": "octicon-clone"
+  },
+  "octicon-cloud-download": {
+    "body": "content: '\\\\f00b';",
+    "description": "content",
+    "prefix": "octicon-cloud-download"
+  },
+  "octicon-cloud-upload": {
+    "body": "content: '\\\\f00c';",
+    "description": "content",
+    "prefix": "octicon-cloud-upload"
+  },
+  "octicon-code": {
+    "body": "content: '\\\\f05f';",
+    "description": "content",
+    "prefix": "octicon-code"
+  },
+  "octicon-comment": {
+    "body": "content: '\\\\f02b';",
+    "description": "content",
+    "prefix": "octicon-comment"
+  },
+  "octicon-comment-add": {
+    "body": "content: '\\\\f02b';",
+    "description": "content",
+    "prefix": "octicon-comment-add"
+  },
+  "octicon-comment-discussion": {
+    "body": "content: '\\\\f04f';",
+    "description": "content",
+    "prefix": "octicon-comment-discussion"
+  },
+  "octicon-credit-card": {
+    "body": "content: '\\\\f045';",
+    "description": "content",
+    "prefix": "octicon-credit-card"
+  },
+  "octicon-dash": {
+    "body": "content: '\\\\f0ca';",
+    "description": "content",
+    "prefix": "octicon-dash"
+  },
+  "octicon-dashboard": {
+    "body": "content: '\\\\f07d';",
+    "description": "content",
+    "prefix": "octicon-dashboard"
+  },
+  "octicon-database": {
+    "body": "content: '\\\\f096';",
+    "description": "content",
+    "prefix": "octicon-database"
+  },
+  "octicon-desktop-download": {
+    "body": "content: '\\\\f0dc';",
+    "description": "content",
+    "prefix": "octicon-desktop-download"
+  },
+  "octicon-device-camera": {
+    "body": "content: '\\\\f056';",
+    "description": "content",
+    "prefix": "octicon-device-camera"
+  },
+  "octicon-device-camera-video": {
+    "body": "content: '\\\\f057';",
+    "description": "content",
+    "prefix": "octicon-device-camera-video"
+  },
+  "octicon-device-desktop": {
+    "body": "content: '\\\\f27c';",
+    "description": "content",
+    "prefix": "octicon-device-desktop"
+  },
+  "octicon-device-mobile": {
+    "body": "content: '\\\\f038';",
+    "description": "content",
+    "prefix": "octicon-device-mobile"
+  },
+  "octicon-diff": {
+    "body": "content: '\\\\f04d';",
+    "description": "content",
+    "prefix": "octicon-diff"
+  },
+  "octicon-diff-added": {
+    "body": "content: '\\\\f06b';",
+    "description": "content",
+    "prefix": "octicon-diff-added"
+  },
+  "octicon-diff-ignored": {
+    "body": "content: '\\\\f099';",
+    "description": "content",
+    "prefix": "octicon-diff-ignored"
+  },
+  "octicon-diff-modified": {
+    "body": "content: '\\\\f06d';",
+    "description": "content",
+    "prefix": "octicon-diff-modified"
+  },
+  "octicon-diff-removed": {
+    "body": "content: '\\\\f06c';",
+    "description": "content",
+    "prefix": "octicon-diff-removed"
+  },
+  "octicon-diff-renamed": {
+    "body": "content: '\\\\f06e';",
+    "description": "content",
+    "prefix": "octicon-diff-renamed"
+  },
+  "octicon-ellipsis": {
+    "body": "content: '\\\\f09a';",
+    "description": "content",
+    "prefix": "octicon-ellipsis"
+  },
+  "octicon-eye": {
+    "body": "content: '\\\\f04e';",
+    "description": "content",
+    "prefix": "octicon-eye"
+  },
+  "octicon-eye-unwatch": {
+    "body": "content: '\\\\f04e';",
+    "description": "content",
+    "prefix": "octicon-eye-unwatch"
+  },
+  "octicon-eye-watch": {
+    "body": "content: '\\\\f04e';",
+    "description": "content",
+    "prefix": "octicon-eye-watch"
+  },
+  "octicon-file-add": {
+    "body": "content: '\\\\f05d';",
+    "description": "content",
+    "prefix": "octicon-file-add"
+  },
+  "octicon-file-binary": {
+    "body": "content: '\\\\f094';",
+    "description": "content",
+    "prefix": "octicon-file-binary"
+  },
+  "octicon-file-code": {
+    "body": "content: '\\\\f010';",
+    "description": "content",
+    "prefix": "octicon-file-code"
+  },
+  "octicon-file-directory": {
+    "body": "content: '\\\\f016';",
+    "description": "content",
+    "prefix": "octicon-file-directory"
+  },
+  "octicon-file-directory-create": {
+    "body": "content: '\\\\f05d';",
+    "description": "content",
+    "prefix": "octicon-file-directory-create"
+  },
+  "octicon-file-media": {
+    "body": "content: '\\\\f012';",
+    "description": "content",
+    "prefix": "octicon-file-media"
+  },
+  "octicon-file-pdf": {
+    "body": "content: '\\\\f014';",
+    "description": "content",
+    "prefix": "octicon-file-pdf"
+  },
+  "octicon-file-submodule": {
+    "body": "content: '\\\\f017';",
+    "description": "content",
+    "prefix": "octicon-file-submodule"
+  },
+  "octicon-file-symlink-directory": {
+    "body": "content: '\\\\f0b1';",
+    "description": "content",
+    "prefix": "octicon-file-symlink-directory"
+  },
+  "octicon-file-symlink-file": {
+    "body": "content: '\\\\f0b0';",
+    "description": "content",
+    "prefix": "octicon-file-symlink-file"
+  },
+  "octicon-file-text": {
+    "body": "content: '\\\\f011';",
+    "description": "content",
+    "prefix": "octicon-file-text"
+  },
+  "octicon-file-zip": {
+    "body": "content: '\\\\f013';",
+    "description": "content",
+    "prefix": "octicon-file-zip"
+  },
+  "octicon-flame": {
+    "body": "content: '\\\\f0d2';",
+    "description": "content",
+    "prefix": "octicon-flame"
+  },
+  "octicon-fold": {
+    "body": "content: '\\\\f0cc';",
+    "description": "content",
+    "prefix": "octicon-fold"
+  },
+  "octicon-gear": {
+    "body": "content: '\\\\f02f';",
+    "description": "content",
+    "prefix": "octicon-gear"
+  },
+  "octicon-gift": {
+    "body": "content: '\\\\f042';",
+    "description": "content",
+    "prefix": "octicon-gift"
+  },
+  "octicon-gist": {
+    "body": "content: '\\\\f00e';",
+    "description": "content",
+    "prefix": "octicon-gist"
+  },
+  "octicon-gist-fork": {
+    "body": "content: '\\\\f002';",
+    "description": "content",
+    "prefix": "octicon-gist-fork"
+  },
+  "octicon-gist-new": {
+    "body": "content: '\\\\f05d';",
+    "description": "content",
+    "prefix": "octicon-gist-new"
+  },
+  "octicon-gist-private": {
+    "body": "content: '\\\\f06a';",
+    "description": "content",
+    "prefix": "octicon-gist-private"
+  },
+  "octicon-gist-secret": {
+    "body": "content: '\\\\f08c';",
+    "description": "content",
+    "prefix": "octicon-gist-secret"
+  },
+  "octicon-git-branch": {
+    "body": "content: '\\\\f020';",
+    "description": "content",
+    "prefix": "octicon-git-branch"
+  },
+  "octicon-git-branch-create": {
+    "body": "content: '\\\\f020';",
+    "description": "content",
+    "prefix": "octicon-git-branch-create"
+  },
+  "octicon-git-branch-delete": {
+    "body": "content: '\\\\f020';",
+    "description": "content",
+    "prefix": "octicon-git-branch-delete"
+  },
+  "octicon-git-commit": {
+    "body": "content: '\\\\f01f';",
+    "description": "content",
+    "prefix": "octicon-git-commit"
+  },
+  "octicon-git-compare": {
+    "body": "content: '\\\\f0ac';",
+    "description": "content",
+    "prefix": "octicon-git-compare"
+  },
+  "octicon-git-fork-private": {
+    "body": "content: '\\\\f06a';",
+    "description": "content",
+    "prefix": "octicon-git-fork-private"
+  },
+  "octicon-git-merge": {
+    "body": "content: '\\\\f023';",
+    "description": "content",
+    "prefix": "octicon-git-merge"
+  },
+  "octicon-git-pull-request": {
+    "body": "content: '\\\\f009';",
+    "description": "content",
+    "prefix": "octicon-git-pull-request"
+  },
+  "octicon-git-pull-request-abandoned": {
+    "body": "content: '\\\\f009';",
+    "description": "content",
+    "prefix": "octicon-git-pull-request-abandoned"
+  },
+  "octicon-globe": {
+    "body": "content: '\\\\f0b6';",
+    "description": "content",
+    "prefix": "octicon-globe"
+  },
+  "octicon-grabber": {
+    "body": "content: '\\\\f103';",
+    "description": "content",
+    "prefix": "octicon-grabber"
+  },
+  "octicon-graph": {
+    "body": "content: '\\\\f043';",
+    "description": "content",
+    "prefix": "octicon-graph"
+  },
+  "octicon-heart": {
+    "body": "content: '\\\\2665';",
+    "description": "content",
+    "prefix": "octicon-heart"
+  },
+  "octicon-history": {
+    "body": "content: '\\\\f07e';",
+    "description": "content",
+    "prefix": "octicon-history"
+  },
+  "octicon-home": {
+    "body": "content: '\\\\f08d';",
+    "description": "content",
+    "prefix": "octicon-home"
+  },
+  "octicon-horizontal-rule": {
+    "body": "content: '\\\\f070';",
+    "description": "content",
+    "prefix": "octicon-horizontal-rule"
+  },
+  "octicon-hubot": {
+    "body": "content: '\\\\f09d';",
+    "description": "content",
+    "prefix": "octicon-hubot"
+  },
+  "octicon-inbox": {
+    "body": "content: '\\\\f0cf';",
+    "description": "content",
+    "prefix": "octicon-inbox"
+  },
+  "octicon-info": {
+    "body": "content: '\\\\f059';",
+    "description": "content",
+    "prefix": "octicon-info"
+  },
+  "octicon-issue-closed": {
+    "body": "content: '\\\\f028';",
+    "description": "content",
+    "prefix": "octicon-issue-closed"
+  },
+  "octicon-issue-opened": {
+    "body": "content: '\\\\f026';",
+    "description": "content",
+    "prefix": "octicon-issue-opened"
+  },
+  "octicon-issue-reopened": {
+    "body": "content: '\\\\f027';",
+    "description": "content",
+    "prefix": "octicon-issue-reopened"
+  },
+  "octicon-italic": {
+    "body": "content: '\\\\f0e4';",
+    "description": "content",
+    "prefix": "octicon-italic"
+  },
+  "octicon-jersey": {
+    "body": "content: '\\\\f019';",
+    "description": "content",
+    "prefix": "octicon-jersey"
+  },
+  "octicon-key": {
+    "body": "content: '\\\\f049';",
+    "description": "content",
+    "prefix": "octicon-key"
+  },
+  "octicon-keyboard": {
+    "body": "content: '\\\\f00d';",
+    "description": "content",
+    "prefix": "octicon-keyboard"
+  },
+  "octicon-law": {
+    "body": "content: '\\\\f0d8';",
+    "description": "content",
+    "prefix": "octicon-law"
+  },
+  "octicon-light-bulb": {
+    "body": "content: '\\\\f000';",
+    "description": "content",
+    "prefix": "octicon-light-bulb"
+  },
+  "octicon-link": {
+    "body": "content: '\\\\f05c';",
+    "description": "content",
+    "prefix": "octicon-link"
+  },
+  "octicon-link-external": {
+    "body": "content: '\\\\f07f';",
+    "description": "content",
+    "prefix": "octicon-link-external"
+  },
+  "octicon-list-ordered": {
+    "body": "content: '\\\\f062';",
+    "description": "content",
+    "prefix": "octicon-list-ordered"
+  },
+  "octicon-list-unordered": {
+    "body": "content: '\\\\f061';",
+    "description": "content",
+    "prefix": "octicon-list-unordered"
+  },
+  "octicon-location": {
+    "body": "content: '\\\\f060';",
+    "description": "content",
+    "prefix": "octicon-location"
+  },
+  "octicon-lock": {
+    "body": "content: '\\\\f06a';",
+    "description": "content",
+    "prefix": "octicon-lock"
+  },
+  "octicon-log-in": {
+    "body": "content: '\\\\f036';",
+    "description": "content",
+    "prefix": "octicon-log-in"
+  },
+  "octicon-log-out": {
+    "body": "content: '\\\\f032';",
+    "description": "content",
+    "prefix": "octicon-log-out"
+  },
+  "octicon-logo-gist": {
+    "body": "content: '\\\\f0ad';",
+    "description": "content",
+    "prefix": "octicon-logo-gist"
+  },
+  "octicon-logo-github": {
+    "body": "content: '\\\\f092';",
+    "description": "content",
+    "prefix": "octicon-logo-github"
+  },
+  "octicon-mail": {
+    "body": "content: '\\\\f03b';",
+    "description": "content",
+    "prefix": "octicon-mail"
+  },
+  "octicon-mail-read": {
+    "body": "content: '\\\\f03c';",
+    "description": "content",
+    "prefix": "octicon-mail-read"
+  },
+  "octicon-mail-reply": {
+    "body": "content: '\\\\f051';",
+    "description": "content",
+    "prefix": "octicon-mail-reply"
+  },
+  "octicon-mark-github": {
+    "body": "content: '\\\\f00a';",
+    "description": "content",
+    "prefix": "octicon-mark-github"
+  },
+  "octicon-markdown": {
+    "body": "content: '\\\\f0c9';",
+    "description": "content",
+    "prefix": "octicon-markdown"
+  },
+  "octicon-megaphone": {
+    "body": "content: '\\\\f077';",
+    "description": "content",
+    "prefix": "octicon-megaphone"
+  },
+  "octicon-mention": {
+    "body": "content: '\\\\f0be';",
+    "description": "content",
+    "prefix": "octicon-mention"
+  },
+  "octicon-microscope": {
+    "body": "content: '\\\\f0dd';",
+    "description": "content",
+    "prefix": "octicon-microscope"
+  },
+  "octicon-milestone": {
+    "body": "content: '\\\\f075';",
+    "description": "content",
+    "prefix": "octicon-milestone"
+  },
+  "octicon-mirror": {
+    "body": "content: '\\\\f024';",
+    "description": "content",
+    "prefix": "octicon-mirror"
+  },
+  "octicon-mirror-private": {
+    "body": "content: '\\\\f06a';",
+    "description": "content",
+    "prefix": "octicon-mirror-private"
+  },
+  "octicon-mirror-public": {
+    "body": "content: '\\\\f024';",
+    "description": "content",
+    "prefix": "octicon-mirror-public"
+  },
+  "octicon-mortar-board": {
+    "body": "content: '\\\\f0d7';",
+    "description": "content",
+    "prefix": "octicon-mortar-board"
+  },
+  "octicon-mute": {
+    "body": "content: '\\\\f080';",
+    "description": "content",
+    "prefix": "octicon-mute"
+  },
+  "octicon-no-newline": {
+    "body": "content: '\\\\f09c';",
+    "description": "content",
+    "prefix": "octicon-no-newline"
+  },
+  "octicon-octoface": {
+    "body": "content: '\\\\f008';",
+    "description": "content",
+    "prefix": "octicon-octoface"
+  },
+  "octicon-organization": {
+    "body": "content: '\\\\f037';",
+    "description": "content",
+    "prefix": "octicon-organization"
+  },
+  "octicon-package": {
+    "body": "content: '\\\\f0c4';",
+    "description": "content",
+    "prefix": "octicon-package"
+  },
+  "octicon-paintcan": {
+    "body": "content: '\\\\f0d1';",
+    "description": "content",
+    "prefix": "octicon-paintcan"
+  },
+  "octicon-pencil": {
+    "body": "content: '\\\\f058';",
+    "description": "content",
+    "prefix": "octicon-pencil"
+  },
+  "octicon-person": {
+    "body": "content: '\\\\f018';",
+    "description": "content",
+    "prefix": "octicon-person"
+  },
+  "octicon-person-add": {
+    "body": "content: '\\\\f018';",
+    "description": "content",
+    "prefix": "octicon-person-add"
+  },
+  "octicon-person-follow": {
+    "body": "content: '\\\\f018';",
+    "description": "content",
+    "prefix": "octicon-person-follow"
+  },
+  "octicon-pin": {
+    "body": "content: '\\\\f041';",
+    "description": "content",
+    "prefix": "octicon-pin"
+  },
+  "octicon-plug": {
+    "body": "content: '\\\\f0d4';",
+    "description": "content",
+    "prefix": "octicon-plug"
+  },
+  "octicon-plus": {
+    "body": "content: '\\\\f05d';",
+    "description": "content",
+    "prefix": "octicon-plus"
+  },
+  "octicon-plus-small": {
+    "body": "content: '\\\\f104';",
+    "description": "content",
+    "prefix": "octicon-plus-small"
+  },
+  "octicon-primitive-dot": {
+    "body": "content: '\\\\f052';",
+    "description": "content",
+    "prefix": "octicon-primitive-dot"
+  },
+  "octicon-primitive-square": {
+    "body": "content: '\\\\f053';",
+    "description": "content",
+    "prefix": "octicon-primitive-square"
+  },
+  "octicon-pulse": {
+    "body": "content: '\\\\f085';",
+    "description": "content",
+    "prefix": "octicon-pulse"
+  },
+  "octicon-question": {
+    "body": "content: '\\\\f02c';",
+    "description": "content",
+    "prefix": "octicon-question"
+  },
+  "octicon-quote": {
+    "body": "content: '\\\\f063';",
+    "description": "content",
+    "prefix": "octicon-quote"
+  },
+  "octicon-radio-tower": {
+    "body": "content: '\\\\f030';",
+    "description": "content",
+    "prefix": "octicon-radio-tower"
+  },
+  "octicon-remove-close": {
+    "body": "content: '\\\\f081';",
+    "description": "content",
+    "prefix": "octicon-remove-close"
+  },
+  "octicon-repo": {
+    "body": "content: '\\\\f001';",
+    "description": "content",
+    "prefix": "octicon-repo"
+  },
+  "octicon-repo-clone": {
+    "body": "content: '\\\\f04c';",
+    "description": "content",
+    "prefix": "octicon-repo-clone"
+  },
+  "octicon-repo-create": {
+    "body": "content: '\\\\f05d';",
+    "description": "content",
+    "prefix": "octicon-repo-create"
+  },
+  "octicon-repo-delete": {
+    "body": "content: '\\\\f001';",
+    "description": "content",
+    "prefix": "octicon-repo-delete"
+  },
+  "octicon-repo-force-push": {
+    "body": "content: '\\\\f04a';",
+    "description": "content",
+    "prefix": "octicon-repo-force-push"
+  },
+  "octicon-repo-forked": {
+    "body": "content: '\\\\f002';",
+    "description": "content",
+    "prefix": "octicon-repo-forked"
+  },
+  "octicon-repo-pull": {
+    "body": "content: '\\\\f006';",
+    "description": "content",
+    "prefix": "octicon-repo-pull"
+  },
+  "octicon-repo-push": {
+    "body": "content: '\\\\f005';",
+    "description": "content",
+    "prefix": "octicon-repo-push"
+  },
+  "octicon-repo-sync": {
+    "body": "content: '\\\\f087';",
+    "description": "content",
+    "prefix": "octicon-repo-sync"
+  },
+  "octicon-rocket": {
+    "body": "content: '\\\\f033';",
+    "description": "content",
+    "prefix": "octicon-rocket"
+  },
+  "octicon-rss": {
+    "body": "content: '\\\\f034';",
+    "description": "content",
+    "prefix": "octicon-rss"
+  },
+  "octicon-ruby": {
+    "body": "content: '\\\\f047';",
+    "description": "content",
+    "prefix": "octicon-ruby"
+  },
+  "octicon-search": {
+    "body": "content: '\\\\f02e';",
+    "description": "content",
+    "prefix": "octicon-search"
+  },
+  "octicon-search-save": {
+    "body": "content: '\\\\f02e';",
+    "description": "content",
+    "prefix": "octicon-search-save"
+  },
+  "octicon-server": {
+    "body": "content: '\\\\f097';",
+    "description": "content",
+    "prefix": "octicon-server"
+  },
+  "octicon-settings": {
+    "body": "content: '\\\\f07c';",
+    "description": "content",
+    "prefix": "octicon-settings"
+  },
+  "octicon-shield": {
+    "body": "content: '\\\\f0e1';",
+    "description": "content",
+    "prefix": "octicon-shield"
+  },
+  "octicon-sign-in": {
+    "body": "content: '\\\\f036';",
+    "description": "content",
+    "prefix": "octicon-sign-in"
+  },
+  "octicon-sign-out": {
+    "body": "content: '\\\\f032';",
+    "description": "content",
+    "prefix": "octicon-sign-out"
+  },
+  "octicon-smiley": {
+    "body": "content: '\\\\f0e7';",
+    "description": "content",
+    "prefix": "octicon-smiley"
+  },
+  "octicon-squirrel": {
+    "body": "content: '\\\\f0b2';",
+    "description": "content",
+    "prefix": "octicon-squirrel"
+  },
+  "octicon-star": {
+    "body": "content: '\\\\f02a';",
+    "description": "content",
+    "prefix": "octicon-star"
+  },
+  "octicon-star-add": {
+    "body": "content: '\\\\f02a';",
+    "description": "content",
+    "prefix": "octicon-star-add"
+  },
+  "octicon-star-delete": {
+    "body": "content: '\\\\f02a';",
+    "description": "content",
+    "prefix": "octicon-star-delete"
+  },
+  "octicon-stop": {
+    "body": "content: '\\\\f08f';",
+    "description": "content",
+    "prefix": "octicon-stop"
+  },
+  "octicon-sync": {
+    "body": "content: '\\\\f087';",
+    "description": "content",
+    "prefix": "octicon-sync"
+  },
+  "octicon-tag": {
+    "body": "content: '\\\\f015';",
+    "description": "content",
+    "prefix": "octicon-tag"
+  },
+  "octicon-tag-add": {
+    "body": "content: '\\\\f015';",
+    "description": "content",
+    "prefix": "octicon-tag-add"
+  },
+  "octicon-tag-remove": {
+    "body": "content: '\\\\f015';",
+    "description": "content",
+    "prefix": "octicon-tag-remove"
+  },
+  "octicon-tasklist": {
+    "body": "content: '\\\\f0e5';",
+    "description": "content",
+    "prefix": "octicon-tasklist"
+  },
+  "octicon-telescope": {
+    "body": "content: '\\\\f088';",
+    "description": "content",
+    "prefix": "octicon-telescope"
+  },
+  "octicon-terminal": {
+    "body": "content: '\\\\f0c8';",
+    "description": "content",
+    "prefix": "octicon-terminal"
+  },
+  "octicon-text-size": {
+    "body": "content: '\\\\f0e3';",
+    "description": "content",
+    "prefix": "octicon-text-size"
+  },
+  "octicon-three-bars": {
+    "body": "content: '\\\\f05e';",
+    "description": "content",
+    "prefix": "octicon-three-bars"
+  },
+  "octicon-thumbsdown": {
+    "body": "content: '\\\\f0db';",
+    "description": "content",
+    "prefix": "octicon-thumbsdown"
+  },
+  "octicon-thumbsup": {
+    "body": "content: '\\\\f0da';",
+    "description": "content",
+    "prefix": "octicon-thumbsup"
+  },
+  "octicon-tools": {
+    "body": "content: '\\\\f031';",
+    "description": "content",
+    "prefix": "octicon-tools"
+  },
+  "octicon-trashcan": {
+    "body": "content: '\\\\f0d0';",
+    "description": "content",
+    "prefix": "octicon-trashcan"
+  },
+  "octicon-triangle-down": {
+    "body": "content: '\\\\f05b';",
+    "description": "content",
+    "prefix": "octicon-triangle-down"
+  },
+  "octicon-triangle-left": {
+    "body": "content: '\\\\f044';",
+    "description": "content",
+    "prefix": "octicon-triangle-left"
+  },
+  "octicon-triangle-right": {
+    "body": "content: '\\\\f05a';",
+    "description": "content",
+    "prefix": "octicon-triangle-right"
+  },
+  "octicon-triangle-up": {
+    "body": "content: '\\\\f0aa';",
+    "description": "content",
+    "prefix": "octicon-triangle-up"
+  },
+  "octicon-unfold": {
+    "body": "content: '\\\\f039';",
+    "description": "content",
+    "prefix": "octicon-unfold"
+  },
+  "octicon-unmute": {
+    "body": "content: '\\\\f0ba';",
+    "description": "content",
+    "prefix": "octicon-unmute"
+  },
+  "octicon-unverified": {
+    "body": "content: '\\\\f0e8';",
+    "description": "content",
+    "prefix": "octicon-unverified"
+  },
+  "octicon-verified": {
+    "body": "content: '\\\\f0e6';",
+    "description": "content",
+    "prefix": "octicon-verified"
+  },
+  "octicon-versions": {
+    "body": "content: '\\\\f064';",
+    "description": "content",
+    "prefix": "octicon-versions"
+  },
+  "octicon-watch": {
+    "body": "content: '\\\\f0e0';",
+    "description": "content",
+    "prefix": "octicon-watch"
+  },
+  "octicon-x": {
+    "body": "content: '\\\\f081';",
+    "description": "content",
+    "prefix": "octicon-x"
+  },
+  "octicon-zap": {
+    "body": "content: '\\\\26A1';",
+    "description": "content",
+    "prefix": "octicon-zap"
+  }
+}

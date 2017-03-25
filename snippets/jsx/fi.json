@@ -1,0 +1,1417 @@
+{
+  "fi-address-book": {
+    "body": "<${1:i} className=\"fi-address-book$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-address-book"
+  },
+  "fi-alert": {
+    "body": "<${1:i} className=\"fi-alert$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-alert"
+  },
+  "fi-align-center": {
+    "body": "<${1:i} className=\"fi-align-center$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-align-center"
+  },
+  "fi-align-justify": {
+    "body": "<${1:i} className=\"fi-align-justify$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-align-justify"
+  },
+  "fi-align-left": {
+    "body": "<${1:i} className=\"fi-align-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-align-left"
+  },
+  "fi-align-right": {
+    "body": "<${1:i} className=\"fi-align-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-align-right"
+  },
+  "fi-anchor": {
+    "body": "<${1:i} className=\"fi-anchor$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-anchor"
+  },
+  "fi-annotate": {
+    "body": "<${1:i} className=\"fi-annotate$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-annotate"
+  },
+  "fi-archive": {
+    "body": "<${1:i} className=\"fi-archive$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-archive"
+  },
+  "fi-arrow-down": {
+    "body": "<${1:i} className=\"fi-arrow-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-arrow-down"
+  },
+  "fi-arrow-left": {
+    "body": "<${1:i} className=\"fi-arrow-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-arrow-left"
+  },
+  "fi-arrow-right": {
+    "body": "<${1:i} className=\"fi-arrow-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-arrow-right"
+  },
+  "fi-arrow-up": {
+    "body": "<${1:i} className=\"fi-arrow-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-arrow-up"
+  },
+  "fi-arrows-compress": {
+    "body": "<${1:i} className=\"fi-arrows-compress$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-arrows-compress"
+  },
+  "fi-arrows-expand": {
+    "body": "<${1:i} className=\"fi-arrows-expand$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-arrows-expand"
+  },
+  "fi-arrows-in": {
+    "body": "<${1:i} className=\"fi-arrows-in$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-arrows-in"
+  },
+  "fi-arrows-out": {
+    "body": "<${1:i} className=\"fi-arrows-out$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-arrows-out"
+  },
+  "fi-asl": {
+    "body": "<${1:i} className=\"fi-asl$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-asl"
+  },
+  "fi-asterisk": {
+    "body": "<${1:i} className=\"fi-asterisk$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-asterisk"
+  },
+  "fi-at-sign": {
+    "body": "<${1:i} className=\"fi-at-sign$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-at-sign"
+  },
+  "fi-background-color": {
+    "body": "<${1:i} className=\"fi-background-color$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-background-color"
+  },
+  "fi-battery-empty": {
+    "body": "<${1:i} className=\"fi-battery-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-battery-empty"
+  },
+  "fi-battery-full": {
+    "body": "<${1:i} className=\"fi-battery-full$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-battery-full"
+  },
+  "fi-battery-half": {
+    "body": "<${1:i} className=\"fi-battery-half$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-battery-half"
+  },
+  "fi-bitcoin-circle": {
+    "body": "<${1:i} className=\"fi-bitcoin-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-bitcoin-circle"
+  },
+  "fi-bitcoin": {
+    "body": "<${1:i} className=\"fi-bitcoin$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-bitcoin"
+  },
+  "fi-blind": {
+    "body": "<${1:i} className=\"fi-blind$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-blind"
+  },
+  "fi-bluetooth": {
+    "body": "<${1:i} className=\"fi-bluetooth$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-bluetooth"
+  },
+  "fi-bold": {
+    "body": "<${1:i} className=\"fi-bold$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-bold"
+  },
+  "fi-book-bookmark": {
+    "body": "<${1:i} className=\"fi-book-bookmark$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-book-bookmark"
+  },
+  "fi-book": {
+    "body": "<${1:i} className=\"fi-book$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-book"
+  },
+  "fi-bookmark": {
+    "body": "<${1:i} className=\"fi-bookmark$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-bookmark"
+  },
+  "fi-braille": {
+    "body": "<${1:i} className=\"fi-braille$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-braille"
+  },
+  "fi-burst-new": {
+    "body": "<${1:i} className=\"fi-burst-new$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-burst-new"
+  },
+  "fi-burst-sale": {
+    "body": "<${1:i} className=\"fi-burst-sale$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-burst-sale"
+  },
+  "fi-burst": {
+    "body": "<${1:i} className=\"fi-burst$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-burst"
+  },
+  "fi-calendar": {
+    "body": "<${1:i} className=\"fi-calendar$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-calendar"
+  },
+  "fi-camera": {
+    "body": "<${1:i} className=\"fi-camera$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-camera"
+  },
+  "fi-check": {
+    "body": "<${1:i} className=\"fi-check$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-check"
+  },
+  "fi-checkbox": {
+    "body": "<${1:i} className=\"fi-checkbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-checkbox"
+  },
+  "fi-clipboard-notes": {
+    "body": "<${1:i} className=\"fi-clipboard-notes$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-clipboard-notes"
+  },
+  "fi-clipboard-pencil": {
+    "body": "<${1:i} className=\"fi-clipboard-pencil$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-clipboard-pencil"
+  },
+  "fi-clipboard": {
+    "body": "<${1:i} className=\"fi-clipboard$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-clipboard"
+  },
+  "fi-clock": {
+    "body": "<${1:i} className=\"fi-clock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-clock"
+  },
+  "fi-closed-caption": {
+    "body": "<${1:i} className=\"fi-closed-caption$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-closed-caption"
+  },
+  "fi-cloud": {
+    "body": "<${1:i} className=\"fi-cloud$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-cloud"
+  },
+  "fi-comment-minus": {
+    "body": "<${1:i} className=\"fi-comment-minus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-comment-minus"
+  },
+  "fi-comment-quotes": {
+    "body": "<${1:i} className=\"fi-comment-quotes$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-comment-quotes"
+  },
+  "fi-comment-video": {
+    "body": "<${1:i} className=\"fi-comment-video$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-comment-video"
+  },
+  "fi-comment": {
+    "body": "<${1:i} className=\"fi-comment$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-comment"
+  },
+  "fi-comments": {
+    "body": "<${1:i} className=\"fi-comments$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-comments"
+  },
+  "fi-compass": {
+    "body": "<${1:i} className=\"fi-compass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-compass"
+  },
+  "fi-contrast": {
+    "body": "<${1:i} className=\"fi-contrast$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-contrast"
+  },
+  "fi-credit-card": {
+    "body": "<${1:i} className=\"fi-credit-card$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-credit-card"
+  },
+  "fi-crop": {
+    "body": "<${1:i} className=\"fi-crop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-crop"
+  },
+  "fi-crown": {
+    "body": "<${1:i} className=\"fi-crown$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-crown"
+  },
+  "fi-css3": {
+    "body": "<${1:i} className=\"fi-css3$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-css3"
+  },
+  "fi-database": {
+    "body": "<${1:i} className=\"fi-database$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-database"
+  },
+  "fi-die-five": {
+    "body": "<${1:i} className=\"fi-die-five$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-die-five"
+  },
+  "fi-die-four": {
+    "body": "<${1:i} className=\"fi-die-four$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-die-four"
+  },
+  "fi-die-one": {
+    "body": "<${1:i} className=\"fi-die-one$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-die-one"
+  },
+  "fi-die-six": {
+    "body": "<${1:i} className=\"fi-die-six$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-die-six"
+  },
+  "fi-die-three": {
+    "body": "<${1:i} className=\"fi-die-three$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-die-three"
+  },
+  "fi-die-two": {
+    "body": "<${1:i} className=\"fi-die-two$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-die-two"
+  },
+  "fi-dislike": {
+    "body": "<${1:i} className=\"fi-dislike$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-dislike"
+  },
+  "fi-dollar-bill": {
+    "body": "<${1:i} className=\"fi-dollar-bill$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-dollar-bill"
+  },
+  "fi-dollar": {
+    "body": "<${1:i} className=\"fi-dollar$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-dollar"
+  },
+  "fi-download": {
+    "body": "<${1:i} className=\"fi-download$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-download"
+  },
+  "fi-eject": {
+    "body": "<${1:i} className=\"fi-eject$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-eject"
+  },
+  "fi-elevator": {
+    "body": "<${1:i} className=\"fi-elevator$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-elevator"
+  },
+  "fi-euro": {
+    "body": "<${1:i} className=\"fi-euro$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-euro"
+  },
+  "fi-eye": {
+    "body": "<${1:i} className=\"fi-eye$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-eye"
+  },
+  "fi-fast-forward": {
+    "body": "<${1:i} className=\"fi-fast-forward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-fast-forward"
+  },
+  "fi-female-symbol": {
+    "body": "<${1:i} className=\"fi-female-symbol$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-female-symbol"
+  },
+  "fi-female": {
+    "body": "<${1:i} className=\"fi-female$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-female"
+  },
+  "fi-filter": {
+    "body": "<${1:i} className=\"fi-filter$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-filter"
+  },
+  "fi-first-aid": {
+    "body": "<${1:i} className=\"fi-first-aid$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-first-aid"
+  },
+  "fi-flag": {
+    "body": "<${1:i} className=\"fi-flag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-flag"
+  },
+  "fi-folder-add": {
+    "body": "<${1:i} className=\"fi-folder-add$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-folder-add"
+  },
+  "fi-folder-lock": {
+    "body": "<${1:i} className=\"fi-folder-lock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-folder-lock"
+  },
+  "fi-folder": {
+    "body": "<${1:i} className=\"fi-folder$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-folder"
+  },
+  "fi-foot": {
+    "body": "<${1:i} className=\"fi-foot$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-foot"
+  },
+  "fi-foundation": {
+    "body": "<${1:i} className=\"fi-foundation$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-foundation"
+  },
+  "fi-graph-bar": {
+    "body": "<${1:i} className=\"fi-graph-bar$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-graph-bar"
+  },
+  "fi-graph-horizontal": {
+    "body": "<${1:i} className=\"fi-graph-horizontal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-graph-horizontal"
+  },
+  "fi-graph-pie": {
+    "body": "<${1:i} className=\"fi-graph-pie$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-graph-pie"
+  },
+  "fi-graph-trend": {
+    "body": "<${1:i} className=\"fi-graph-trend$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-graph-trend"
+  },
+  "fi-guide-dog": {
+    "body": "<${1:i} className=\"fi-guide-dog$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-guide-dog"
+  },
+  "fi-hearing-aid": {
+    "body": "<${1:i} className=\"fi-hearing-aid$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-hearing-aid"
+  },
+  "fi-heart": {
+    "body": "<${1:i} className=\"fi-heart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-heart"
+  },
+  "fi-home": {
+    "body": "<${1:i} className=\"fi-home$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-home"
+  },
+  "fi-html5": {
+    "body": "<${1:i} className=\"fi-html5$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-html5"
+  },
+  "fi-indent-less": {
+    "body": "<${1:i} className=\"fi-indent-less$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-indent-less"
+  },
+  "fi-indent-more": {
+    "body": "<${1:i} className=\"fi-indent-more$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-indent-more"
+  },
+  "fi-info": {
+    "body": "<${1:i} className=\"fi-info$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-info"
+  },
+  "fi-italic": {
+    "body": "<${1:i} className=\"fi-italic$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-italic"
+  },
+  "fi-key": {
+    "body": "<${1:i} className=\"fi-key$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-key"
+  },
+  "fi-laptop": {
+    "body": "<${1:i} className=\"fi-laptop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-laptop"
+  },
+  "fi-layout": {
+    "body": "<${1:i} className=\"fi-layout$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-layout"
+  },
+  "fi-lightbulb": {
+    "body": "<${1:i} className=\"fi-lightbulb$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-lightbulb"
+  },
+  "fi-like": {
+    "body": "<${1:i} className=\"fi-like$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-like"
+  },
+  "fi-link": {
+    "body": "<${1:i} className=\"fi-link$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-link"
+  },
+  "fi-list-bullet": {
+    "body": "<${1:i} className=\"fi-list-bullet$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-list-bullet"
+  },
+  "fi-list-numbered": {
+    "body": "<${1:i} className=\"fi-list-numbered$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-list-numbered"
+  },
+  "fi-list-thumbnails": {
+    "body": "<${1:i} className=\"fi-list-thumbnails$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-list-thumbnails"
+  },
+  "fi-list": {
+    "body": "<${1:i} className=\"fi-list$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-list"
+  },
+  "fi-lock": {
+    "body": "<${1:i} className=\"fi-lock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-lock"
+  },
+  "fi-loop": {
+    "body": "<${1:i} className=\"fi-loop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-loop"
+  },
+  "fi-magnifying-glass": {
+    "body": "<${1:i} className=\"fi-magnifying-glass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-magnifying-glass"
+  },
+  "fi-mail": {
+    "body": "<${1:i} className=\"fi-mail$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-mail"
+  },
+  "fi-male-female": {
+    "body": "<${1:i} className=\"fi-male-female$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-male-female"
+  },
+  "fi-male-symbol": {
+    "body": "<${1:i} className=\"fi-male-symbol$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-male-symbol"
+  },
+  "fi-male": {
+    "body": "<${1:i} className=\"fi-male$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-male"
+  },
+  "fi-map": {
+    "body": "<${1:i} className=\"fi-map$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-map"
+  },
+  "fi-marker": {
+    "body": "<${1:i} className=\"fi-marker$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-marker"
+  },
+  "fi-megaphone": {
+    "body": "<${1:i} className=\"fi-megaphone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-megaphone"
+  },
+  "fi-microphone": {
+    "body": "<${1:i} className=\"fi-microphone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-microphone"
+  },
+  "fi-minus-circle": {
+    "body": "<${1:i} className=\"fi-minus-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-minus-circle"
+  },
+  "fi-minus": {
+    "body": "<${1:i} className=\"fi-minus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-minus"
+  },
+  "fi-mobile-signal": {
+    "body": "<${1:i} className=\"fi-mobile-signal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-mobile-signal"
+  },
+  "fi-mobile": {
+    "body": "<${1:i} className=\"fi-mobile$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-mobile"
+  },
+  "fi-monitor": {
+    "body": "<${1:i} className=\"fi-monitor$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-monitor"
+  },
+  "fi-mountains": {
+    "body": "<${1:i} className=\"fi-mountains$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-mountains"
+  },
+  "fi-music": {
+    "body": "<${1:i} className=\"fi-music$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-music"
+  },
+  "fi-next": {
+    "body": "<${1:i} className=\"fi-next$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-next"
+  },
+  "fi-no-dogs": {
+    "body": "<${1:i} className=\"fi-no-dogs$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-no-dogs"
+  },
+  "fi-no-smoking": {
+    "body": "<${1:i} className=\"fi-no-smoking$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-no-smoking"
+  },
+  "fi-page-add": {
+    "body": "<${1:i} className=\"fi-page-add$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-add"
+  },
+  "fi-page-copy": {
+    "body": "<${1:i} className=\"fi-page-copy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-copy"
+  },
+  "fi-page-csv": {
+    "body": "<${1:i} className=\"fi-page-csv$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-csv"
+  },
+  "fi-page-delete": {
+    "body": "<${1:i} className=\"fi-page-delete$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-delete"
+  },
+  "fi-page-doc": {
+    "body": "<${1:i} className=\"fi-page-doc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-doc"
+  },
+  "fi-page-edit": {
+    "body": "<${1:i} className=\"fi-page-edit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-edit"
+  },
+  "fi-page-export-csv": {
+    "body": "<${1:i} className=\"fi-page-export-csv$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-export-csv"
+  },
+  "fi-page-export-doc": {
+    "body": "<${1:i} className=\"fi-page-export-doc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-export-doc"
+  },
+  "fi-page-export-pdf": {
+    "body": "<${1:i} className=\"fi-page-export-pdf$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-export-pdf"
+  },
+  "fi-page-export": {
+    "body": "<${1:i} className=\"fi-page-export$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-export"
+  },
+  "fi-page-filled": {
+    "body": "<${1:i} className=\"fi-page-filled$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-filled"
+  },
+  "fi-page-multiple": {
+    "body": "<${1:i} className=\"fi-page-multiple$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-multiple"
+  },
+  "fi-page-pdf": {
+    "body": "<${1:i} className=\"fi-page-pdf$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-pdf"
+  },
+  "fi-page-remove": {
+    "body": "<${1:i} className=\"fi-page-remove$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-remove"
+  },
+  "fi-page-search": {
+    "body": "<${1:i} className=\"fi-page-search$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page-search"
+  },
+  "fi-page": {
+    "body": "<${1:i} className=\"fi-page$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-page"
+  },
+  "fi-paint-bucket": {
+    "body": "<${1:i} className=\"fi-paint-bucket$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-paint-bucket"
+  },
+  "fi-paperclip": {
+    "body": "<${1:i} className=\"fi-paperclip$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-paperclip"
+  },
+  "fi-pause": {
+    "body": "<${1:i} className=\"fi-pause$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-pause"
+  },
+  "fi-paw": {
+    "body": "<${1:i} className=\"fi-paw$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-paw"
+  },
+  "fi-paypal": {
+    "body": "<${1:i} className=\"fi-paypal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-paypal"
+  },
+  "fi-pencil": {
+    "body": "<${1:i} className=\"fi-pencil$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-pencil"
+  },
+  "fi-photo": {
+    "body": "<${1:i} className=\"fi-photo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-photo"
+  },
+  "fi-play-circle": {
+    "body": "<${1:i} className=\"fi-play-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-play-circle"
+  },
+  "fi-play-video": {
+    "body": "<${1:i} className=\"fi-play-video$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-play-video"
+  },
+  "fi-play": {
+    "body": "<${1:i} className=\"fi-play$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-play"
+  },
+  "fi-plus": {
+    "body": "<${1:i} className=\"fi-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-plus"
+  },
+  "fi-pound": {
+    "body": "<${1:i} className=\"fi-pound$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-pound"
+  },
+  "fi-power": {
+    "body": "<${1:i} className=\"fi-power$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-power"
+  },
+  "fi-previous": {
+    "body": "<${1:i} className=\"fi-previous$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-previous"
+  },
+  "fi-price-tag": {
+    "body": "<${1:i} className=\"fi-price-tag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-price-tag"
+  },
+  "fi-pricetag-multiple": {
+    "body": "<${1:i} className=\"fi-pricetag-multiple$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-pricetag-multiple"
+  },
+  "fi-print": {
+    "body": "<${1:i} className=\"fi-print$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-print"
+  },
+  "fi-prohibited": {
+    "body": "<${1:i} className=\"fi-prohibited$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-prohibited"
+  },
+  "fi-projection-screen": {
+    "body": "<${1:i} className=\"fi-projection-screen$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-projection-screen"
+  },
+  "fi-puzzle": {
+    "body": "<${1:i} className=\"fi-puzzle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-puzzle"
+  },
+  "fi-quote": {
+    "body": "<${1:i} className=\"fi-quote$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-quote"
+  },
+  "fi-record": {
+    "body": "<${1:i} className=\"fi-record$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-record"
+  },
+  "fi-refresh": {
+    "body": "<${1:i} className=\"fi-refresh$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-refresh"
+  },
+  "fi-results-demographics": {
+    "body": "<${1:i} className=\"fi-results-demographics$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-results-demographics"
+  },
+  "fi-results": {
+    "body": "<${1:i} className=\"fi-results$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-results"
+  },
+  "fi-rewind-ten": {
+    "body": "<${1:i} className=\"fi-rewind-ten$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-rewind-ten"
+  },
+  "fi-rewind": {
+    "body": "<${1:i} className=\"fi-rewind$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-rewind"
+  },
+  "fi-rss": {
+    "body": "<${1:i} className=\"fi-rss$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-rss"
+  },
+  "fi-safety-cone": {
+    "body": "<${1:i} className=\"fi-safety-cone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-safety-cone"
+  },
+  "fi-save": {
+    "body": "<${1:i} className=\"fi-save$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-save"
+  },
+  "fi-share": {
+    "body": "<${1:i} className=\"fi-share$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-share"
+  },
+  "fi-sheriff-badge": {
+    "body": "<${1:i} className=\"fi-sheriff-badge$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-sheriff-badge"
+  },
+  "fi-shield": {
+    "body": "<${1:i} className=\"fi-shield$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-shield"
+  },
+  "fi-shopping-bag": {
+    "body": "<${1:i} className=\"fi-shopping-bag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-shopping-bag"
+  },
+  "fi-shopping-cart": {
+    "body": "<${1:i} className=\"fi-shopping-cart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-shopping-cart"
+  },
+  "fi-shuffle": {
+    "body": "<${1:i} className=\"fi-shuffle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-shuffle"
+  },
+  "fi-skull": {
+    "body": "<${1:i} className=\"fi-skull$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-skull"
+  },
+  "fi-social-500px": {
+    "body": "<${1:i} className=\"fi-social-500px$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-500px"
+  },
+  "fi-social-adobe": {
+    "body": "<${1:i} className=\"fi-social-adobe$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-adobe"
+  },
+  "fi-social-amazon": {
+    "body": "<${1:i} className=\"fi-social-amazon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-amazon"
+  },
+  "fi-social-android": {
+    "body": "<${1:i} className=\"fi-social-android$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-android"
+  },
+  "fi-social-apple": {
+    "body": "<${1:i} className=\"fi-social-apple$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-apple"
+  },
+  "fi-social-behance": {
+    "body": "<${1:i} className=\"fi-social-behance$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-behance"
+  },
+  "fi-social-bing": {
+    "body": "<${1:i} className=\"fi-social-bing$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-bing"
+  },
+  "fi-social-blogger": {
+    "body": "<${1:i} className=\"fi-social-blogger$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-blogger"
+  },
+  "fi-social-delicious": {
+    "body": "<${1:i} className=\"fi-social-delicious$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-delicious"
+  },
+  "fi-social-designer-news": {
+    "body": "<${1:i} className=\"fi-social-designer-news$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-designer-news"
+  },
+  "fi-social-deviant-art": {
+    "body": "<${1:i} className=\"fi-social-deviant-art$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-deviant-art"
+  },
+  "fi-social-digg": {
+    "body": "<${1:i} className=\"fi-social-digg$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-digg"
+  },
+  "fi-social-dribbble": {
+    "body": "<${1:i} className=\"fi-social-dribbble$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-dribbble"
+  },
+  "fi-social-drive": {
+    "body": "<${1:i} className=\"fi-social-drive$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-drive"
+  },
+  "fi-social-dropbox": {
+    "body": "<${1:i} className=\"fi-social-dropbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-dropbox"
+  },
+  "fi-social-evernote": {
+    "body": "<${1:i} className=\"fi-social-evernote$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-evernote"
+  },
+  "fi-social-facebook": {
+    "body": "<${1:i} className=\"fi-social-facebook$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-facebook"
+  },
+  "fi-social-flickr": {
+    "body": "<${1:i} className=\"fi-social-flickr$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-flickr"
+  },
+  "fi-social-forrst": {
+    "body": "<${1:i} className=\"fi-social-forrst$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-forrst"
+  },
+  "fi-social-foursquare": {
+    "body": "<${1:i} className=\"fi-social-foursquare$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-foursquare"
+  },
+  "fi-social-game-center": {
+    "body": "<${1:i} className=\"fi-social-game-center$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-game-center"
+  },
+  "fi-social-github": {
+    "body": "<${1:i} className=\"fi-social-github$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-github"
+  },
+  "fi-social-google-plus": {
+    "body": "<${1:i} className=\"fi-social-google-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-google-plus"
+  },
+  "fi-social-hacker-news": {
+    "body": "<${1:i} className=\"fi-social-hacker-news$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-hacker-news"
+  },
+  "fi-social-hi5": {
+    "body": "<${1:i} className=\"fi-social-hi5$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-hi5"
+  },
+  "fi-social-instagram": {
+    "body": "<${1:i} className=\"fi-social-instagram$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-instagram"
+  },
+  "fi-social-joomla": {
+    "body": "<${1:i} className=\"fi-social-joomla$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-joomla"
+  },
+  "fi-social-lastfm": {
+    "body": "<${1:i} className=\"fi-social-lastfm$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-lastfm"
+  },
+  "fi-social-linkedin": {
+    "body": "<${1:i} className=\"fi-social-linkedin$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-linkedin"
+  },
+  "fi-social-medium": {
+    "body": "<${1:i} className=\"fi-social-medium$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-medium"
+  },
+  "fi-social-myspace": {
+    "body": "<${1:i} className=\"fi-social-myspace$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-myspace"
+  },
+  "fi-social-orkut": {
+    "body": "<${1:i} className=\"fi-social-orkut$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-orkut"
+  },
+  "fi-social-path": {
+    "body": "<${1:i} className=\"fi-social-path$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-path"
+  },
+  "fi-social-picasa": {
+    "body": "<${1:i} className=\"fi-social-picasa$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-picasa"
+  },
+  "fi-social-pinterest": {
+    "body": "<${1:i} className=\"fi-social-pinterest$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-pinterest"
+  },
+  "fi-social-rdio": {
+    "body": "<${1:i} className=\"fi-social-rdio$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-rdio"
+  },
+  "fi-social-reddit": {
+    "body": "<${1:i} className=\"fi-social-reddit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-reddit"
+  },
+  "fi-social-skillshare": {
+    "body": "<${1:i} className=\"fi-social-skillshare$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-skillshare"
+  },
+  "fi-social-skype": {
+    "body": "<${1:i} className=\"fi-social-skype$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-skype"
+  },
+  "fi-social-smashing-mag": {
+    "body": "<${1:i} className=\"fi-social-smashing-mag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-smashing-mag"
+  },
+  "fi-social-snapchat": {
+    "body": "<${1:i} className=\"fi-social-snapchat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-snapchat"
+  },
+  "fi-social-spotify": {
+    "body": "<${1:i} className=\"fi-social-spotify$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-spotify"
+  },
+  "fi-social-squidoo": {
+    "body": "<${1:i} className=\"fi-social-squidoo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-squidoo"
+  },
+  "fi-social-stack-overflow": {
+    "body": "<${1:i} className=\"fi-social-stack-overflow$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-stack-overflow"
+  },
+  "fi-social-steam": {
+    "body": "<${1:i} className=\"fi-social-steam$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-steam"
+  },
+  "fi-social-stumbleupon": {
+    "body": "<${1:i} className=\"fi-social-stumbleupon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-stumbleupon"
+  },
+  "fi-social-treehouse": {
+    "body": "<${1:i} className=\"fi-social-treehouse$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-treehouse"
+  },
+  "fi-social-tumblr": {
+    "body": "<${1:i} className=\"fi-social-tumblr$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-tumblr"
+  },
+  "fi-social-twitter": {
+    "body": "<${1:i} className=\"fi-social-twitter$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-twitter"
+  },
+  "fi-social-vimeo": {
+    "body": "<${1:i} className=\"fi-social-vimeo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-vimeo"
+  },
+  "fi-social-windows": {
+    "body": "<${1:i} className=\"fi-social-windows$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-windows"
+  },
+  "fi-social-xbox": {
+    "body": "<${1:i} className=\"fi-social-xbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-xbox"
+  },
+  "fi-social-yahoo": {
+    "body": "<${1:i} className=\"fi-social-yahoo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-yahoo"
+  },
+  "fi-social-yelp": {
+    "body": "<${1:i} className=\"fi-social-yelp$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-yelp"
+  },
+  "fi-social-youtube": {
+    "body": "<${1:i} className=\"fi-social-youtube$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-youtube"
+  },
+  "fi-social-zerply": {
+    "body": "<${1:i} className=\"fi-social-zerply$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-zerply"
+  },
+  "fi-social-zurb": {
+    "body": "<${1:i} className=\"fi-social-zurb$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-social-zurb"
+  },
+  "fi-sound": {
+    "body": "<${1:i} className=\"fi-sound$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-sound"
+  },
+  "fi-star": {
+    "body": "<${1:i} className=\"fi-star$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-star"
+  },
+  "fi-stop": {
+    "body": "<${1:i} className=\"fi-stop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-stop"
+  },
+  "fi-strike": {
+    "body": "<${1:i} className=\"fi-strike$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-strike"
+  },
+  "fi-subscript": {
+    "body": "<${1:i} className=\"fi-subscript$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-subscript"
+  },
+  "fi-superscript": {
+    "body": "<${1:i} className=\"fi-superscript$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-superscript"
+  },
+  "fi-tablet-landscape": {
+    "body": "<${1:i} className=\"fi-tablet-landscape$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-tablet-landscape"
+  },
+  "fi-tablet-portrait": {
+    "body": "<${1:i} className=\"fi-tablet-portrait$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-tablet-portrait"
+  },
+  "fi-target-two": {
+    "body": "<${1:i} className=\"fi-target-two$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-target-two"
+  },
+  "fi-target": {
+    "body": "<${1:i} className=\"fi-target$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-target"
+  },
+  "fi-telephone-accessible": {
+    "body": "<${1:i} className=\"fi-telephone-accessible$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-telephone-accessible"
+  },
+  "fi-telephone": {
+    "body": "<${1:i} className=\"fi-telephone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-telephone"
+  },
+  "fi-text-color": {
+    "body": "<${1:i} className=\"fi-text-color$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-text-color"
+  },
+  "fi-thumbnails": {
+    "body": "<${1:i} className=\"fi-thumbnails$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-thumbnails"
+  },
+  "fi-ticket": {
+    "body": "<${1:i} className=\"fi-ticket$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-ticket"
+  },
+  "fi-torso-business": {
+    "body": "<${1:i} className=\"fi-torso-business$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-torso-business"
+  },
+  "fi-torso-female": {
+    "body": "<${1:i} className=\"fi-torso-female$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-torso-female"
+  },
+  "fi-torso": {
+    "body": "<${1:i} className=\"fi-torso$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-torso"
+  },
+  "fi-torsos-all-female": {
+    "body": "<${1:i} className=\"fi-torsos-all-female$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-torsos-all-female"
+  },
+  "fi-torsos-all": {
+    "body": "<${1:i} className=\"fi-torsos-all$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-torsos-all"
+  },
+  "fi-torsos-female-male": {
+    "body": "<${1:i} className=\"fi-torsos-female-male$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-torsos-female-male"
+  },
+  "fi-torsos-male-female": {
+    "body": "<${1:i} className=\"fi-torsos-male-female$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-torsos-male-female"
+  },
+  "fi-torsos": {
+    "body": "<${1:i} className=\"fi-torsos$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-torsos"
+  },
+  "fi-trash": {
+    "body": "<${1:i} className=\"fi-trash$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-trash"
+  },
+  "fi-trees": {
+    "body": "<${1:i} className=\"fi-trees$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-trees"
+  },
+  "fi-trophy": {
+    "body": "<${1:i} className=\"fi-trophy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-trophy"
+  },
+  "fi-underline": {
+    "body": "<${1:i} className=\"fi-underline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-underline"
+  },
+  "fi-universal-access": {
+    "body": "<${1:i} className=\"fi-universal-access$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-universal-access"
+  },
+  "fi-unlink": {
+    "body": "<${1:i} className=\"fi-unlink$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-unlink"
+  },
+  "fi-unlock": {
+    "body": "<${1:i} className=\"fi-unlock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-unlock"
+  },
+  "fi-upload-cloud": {
+    "body": "<${1:i} className=\"fi-upload-cloud$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-upload-cloud"
+  },
+  "fi-upload": {
+    "body": "<${1:i} className=\"fi-upload$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-upload"
+  },
+  "fi-usb": {
+    "body": "<${1:i} className=\"fi-usb$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-usb"
+  },
+  "fi-video": {
+    "body": "<${1:i} className=\"fi-video$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-video"
+  },
+  "fi-volume-none": {
+    "body": "<${1:i} className=\"fi-volume-none$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-volume-none"
+  },
+  "fi-volume-strike": {
+    "body": "<${1:i} className=\"fi-volume-strike$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-volume-strike"
+  },
+  "fi-volume": {
+    "body": "<${1:i} className=\"fi-volume$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-volume"
+  },
+  "fi-web": {
+    "body": "<${1:i} className=\"fi-web$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-web"
+  },
+  "fi-wheelchair": {
+    "body": "<${1:i} className=\"fi-wheelchair$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-wheelchair"
+  },
+  "fi-widget": {
+    "body": "<${1:i} className=\"fi-widget$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-widget"
+  },
+  "fi-wrench": {
+    "body": "<${1:i} className=\"fi-wrench$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-wrench"
+  },
+  "fi-x-circle": {
+    "body": "<${1:i} className=\"fi-x-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-x-circle"
+  },
+  "fi-x": {
+    "body": "<${1:i} className=\"fi-x$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-x"
+  },
+  "fi-yen": {
+    "body": "<${1:i} className=\"fi-yen$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-yen"
+  },
+  "fi-zoom-in": {
+    "body": "<${1:i} className=\"fi-zoom-in$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-zoom-in"
+  },
+  "fi-zoom-out": {
+    "body": "<${1:i} className=\"fi-zoom-out$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "fi-zoom-out"
+  }
+}

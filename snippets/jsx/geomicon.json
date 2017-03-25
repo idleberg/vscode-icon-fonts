@@ -1,0 +1,282 @@
+{
+  "geomicon-bookmark": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"bookmark\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-bookmark"
+  },
+  "geomicon-calendar": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"calendar\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-calendar"
+  },
+  "geomicon-camera": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"camera\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-camera"
+  },
+  "geomicon-chat": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"chat\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-chat"
+  },
+  "geomicon-check": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"check\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-check"
+  },
+  "geomicon-chevron-down": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"chevron-down\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-chevron-down"
+  },
+  "geomicon-chevron-left": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"chevron-left\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-chevron-left"
+  },
+  "geomicon-chevron-right": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"chevron-right\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-chevron-right"
+  },
+  "geomicon-chevron-up": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"chevron-up\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-chevron-up"
+  },
+  "geomicon-clock": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"clock\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-clock"
+  },
+  "geomicon-close": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"close\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-close"
+  },
+  "geomicon-cloud": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"cloud\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-cloud"
+  },
+  "geomicon-cog": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"cog\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-cog"
+  },
+  "geomicon-compose": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"compose\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-compose"
+  },
+  "geomicon-dribbble": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"dribbble\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-dribbble"
+  },
+  "geomicon-expand": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"expand\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-expand"
+  },
+  "geomicon-external": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"external\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-external"
+  },
+  "geomicon-facebook": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"facebook\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-facebook"
+  },
+  "geomicon-file": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"file\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-file"
+  },
+  "geomicon-folder": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"folder\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-folder"
+  },
+  "geomicon-geolocation": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"geolocation\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-geolocation"
+  },
+  "geomicon-github": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"github\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-github"
+  },
+  "geomicon-grid": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"grid\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-grid"
+  },
+  "geomicon-heart": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"heart\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-heart"
+  },
+  "geomicon-home": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"home\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-home"
+  },
+  "geomicon-info": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"info\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-info"
+  },
+  "geomicon-link": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"link\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-link"
+  },
+  "geomicon-list": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"list\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-list"
+  },
+  "geomicon-lock": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"lock\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-lock"
+  },
+  "geomicon-mail": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"mail\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-mail"
+  },
+  "geomicon-music": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"music-note\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-music"
+  },
+  "geomicon-next": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"next\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-next"
+  },
+  "geomicon-no": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"no\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-no"
+  },
+  "geomicon-pause": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"pause\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-pause"
+  },
+  "geomicon-picture": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"picture\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-picture"
+  },
+  "geomicon-pin": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"pin\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-pin"
+  },
+  "geomicon-play": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"play\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-play"
+  },
+  "geomicon-previous": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"previous\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-previous"
+  },
+  "geomicon-refresh": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"refresh\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-refresh"
+  },
+  "geomicon-repost": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"repost\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-repost"
+  },
+  "geomicon-search": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"search\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-search"
+  },
+  "geomicon-shopping": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"shopping-cart\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-shopping"
+  },
+  "geomicon-skull": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"skull\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-skull"
+  },
+  "geomicon-speaker-volume": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"speaker-volume\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-speaker-volume"
+  },
+  "geomicon-speaker": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"speaker\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-speaker"
+  },
+  "geomicon-star": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"star\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-star"
+  },
+  "geomicon-tag": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"tag\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-tag"
+  },
+  "geomicon-trash": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"trash\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-trash"
+  },
+  "geomicon-triangle-down": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"triangle-down\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-triangle-down"
+  },
+  "geomicon-triangle-left": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"triangle-left\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-triangle-left"
+  },
+  "geomicon-triangle-right": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"triangle-right\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-triangle-right"
+  },
+  "geomicon-triangle-up": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"triangle-up\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-triangle-up"
+  },
+  "geomicon-twitter": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"twitter\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-twitter"
+  },
+  "geomicon-user": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"user\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-user"
+  },
+  "geomicon-video": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"video\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-video"
+  },
+  "geomicon-warning": {
+    "body": "<${1:span} className=\"js-geomicon\" data-icon=\"warning\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "geomicon-warning"
+  }
+}

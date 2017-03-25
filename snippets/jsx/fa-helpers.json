@@ -1,0 +1,17 @@
+{
+  "fa-li": {
+    "description": "<li>",
+    "body": "<li><i className=\"fa-li fa $1\"></i>$2</li>$0",
+    "prefix": "fa-li"
+  },
+  "fa-stack": {
+    "body": "<span className=\"fa-ul$1\">\n  $2\n</span>$0",
+    "description": "<span>",
+    "prefix": "fa-stack"
+  },
+  "fa-ul": {
+    "body": "<ul className=\"fa-ul\">\n  $1\n</ul>$0",
+    "description": "<ul>",
+    "prefix": "fa-ul"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cc-by": {
+    "body": "<${1:i} className=\"cc cc-by$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-by"
+  },
+  "cc-cc": {
+    "body": "<${1:i} className=\"cc cc-cc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-cc"
+  },
+  "cc-nc-eu": {
+    "body": "<${1:i} className=\"cc cc-nc-eu$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-nc-eu"
+  },
+  "cc-nc-jp": {
+    "body": "<${1:i} className=\"cc cc-nc-jp$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-nc-jp"
+  },
+  "cc-nc": {
+    "body": "<${1:i} className=\"cc cc-nc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-nc"
+  },
+  "cc-nd": {
+    "body": "<${1:i} className=\"cc cc-nd$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-nd"
+  },
+  "cc-pd-alt": {
+    "body": "<${1:i} className=\"cc cc-pd-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-pd-alt"
+  },
+  "cc-pd": {
+    "body": "<${1:i} className=\"cc cc-pd$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-pd"
+  },
+  "cc-remix": {
+    "body": "<${1:i} className=\"cc cc-remix$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-remix"
+  },
+  "cc-sa": {
+    "body": "<${1:i} className=\"cc cc-sa$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-sa"
+  },
+  "cc-sampling": {
+    "body": "<${1:i} className=\"cc cc-sampling$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-sampling"
+  },
+  "cc-share": {
+    "body": "<${1:i} className=\"cc cc-share$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-share"
+  },
+  "cc-zero": {
+    "body": "<${1:i} className=\"cc cc-zero$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "cc-zero"
+  }
+}

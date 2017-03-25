@@ -1,0 +1,3667 @@
+{
+  "ion-alert": {
+    "body": "<${1:i} className=\"ion-alert$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-alert"
+  },
+  "ion-alert-circled": {
+    "body": "<${1:i} className=\"ion-alert-circled$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-alert-circled"
+  },
+  "ion-android-add": {
+    "body": "<${1:i} className=\"ion-android-add$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-add"
+  },
+  "ion-android-add-circle": {
+    "body": "<${1:i} className=\"ion-android-add-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-add-circle"
+  },
+  "ion-android-alarm-clock": {
+    "body": "<${1:i} className=\"ion-android-alarm-clock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-alarm-clock"
+  },
+  "ion-android-alert": {
+    "body": "<${1:i} className=\"ion-android-alert$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-alert"
+  },
+  "ion-android-apps": {
+    "body": "<${1:i} className=\"ion-android-apps$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-apps"
+  },
+  "ion-android-archive": {
+    "body": "<${1:i} className=\"ion-android-archive$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-archive"
+  },
+  "ion-android-arrow-back": {
+    "body": "<${1:i} className=\"ion-android-arrow-back$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-arrow-back"
+  },
+  "ion-android-arrow-down": {
+    "body": "<${1:i} className=\"ion-android-arrow-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-arrow-down"
+  },
+  "ion-android-arrow-dropdown": {
+    "body": "<${1:i} className=\"ion-android-arrow-dropdown$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-arrow-dropdown"
+  },
+  "ion-android-arrow-dropdown-circle": {
+    "body": "<${1:i} className=\"ion-android-arrow-dropdown-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-arrow-dropdown-circle"
+  },
+  "ion-android-arrow-dropleft": {
+    "body": "<${1:i} className=\"ion-android-arrow-dropleft$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-arrow-dropleft"
+  },
+  "ion-android-arrow-dropleft-circle": {
+    "body": "<${1:i} className=\"ion-android-arrow-dropleft-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-arrow-dropleft-circle"
+  },
+  "ion-android-arrow-dropright": {
+    "body": "<${1:i} className=\"ion-android-arrow-dropright$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-arrow-dropright"
+  },
+  "ion-android-arrow-dropright-circle": {
+    "body": "<${1:i} className=\"ion-android-arrow-dropright-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-arrow-dropright-circle"
+  },
+  "ion-android-arrow-dropup": {
+    "body": "<${1:i} className=\"ion-android-arrow-dropup$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-arrow-dropup"
+  },
+  "ion-android-arrow-dropup-circle": {
+    "body": "<${1:i} className=\"ion-android-arrow-dropup-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-arrow-dropup-circle"
+  },
+  "ion-android-arrow-forward": {
+    "body": "<${1:i} className=\"ion-android-arrow-forward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-arrow-forward"
+  },
+  "ion-android-arrow-up": {
+    "body": "<${1:i} className=\"ion-android-arrow-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-arrow-up"
+  },
+  "ion-android-attach": {
+    "body": "<${1:i} className=\"ion-android-attach$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-attach"
+  },
+  "ion-android-bar": {
+    "body": "<${1:i} className=\"ion-android-bar$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-bar"
+  },
+  "ion-android-bicycle": {
+    "body": "<${1:i} className=\"ion-android-bicycle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-bicycle"
+  },
+  "ion-android-boat": {
+    "body": "<${1:i} className=\"ion-android-boat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-boat"
+  },
+  "ion-android-bookmark": {
+    "body": "<${1:i} className=\"ion-android-bookmark$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-bookmark"
+  },
+  "ion-android-bulb": {
+    "body": "<${1:i} className=\"ion-android-bulb$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-bulb"
+  },
+  "ion-android-bus": {
+    "body": "<${1:i} className=\"ion-android-bus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-bus"
+  },
+  "ion-android-calendar": {
+    "body": "<${1:i} className=\"ion-android-calendar$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-calendar"
+  },
+  "ion-android-call": {
+    "body": "<${1:i} className=\"ion-android-call$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-call"
+  },
+  "ion-android-camera": {
+    "body": "<${1:i} className=\"ion-android-camera$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-camera"
+  },
+  "ion-android-cancel": {
+    "body": "<${1:i} className=\"ion-android-cancel$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-cancel"
+  },
+  "ion-android-car": {
+    "body": "<${1:i} className=\"ion-android-car$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-car"
+  },
+  "ion-android-cart": {
+    "body": "<${1:i} className=\"ion-android-cart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-cart"
+  },
+  "ion-android-chat": {
+    "body": "<${1:i} className=\"ion-android-chat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-chat"
+  },
+  "ion-android-checkbox": {
+    "body": "<${1:i} className=\"ion-android-checkbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-checkbox"
+  },
+  "ion-android-checkbox-blank": {
+    "body": "<${1:i} className=\"ion-android-checkbox-blank$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-checkbox-blank"
+  },
+  "ion-android-checkbox-outline": {
+    "body": "<${1:i} className=\"ion-android-checkbox-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-checkbox-outline"
+  },
+  "ion-android-checkbox-outline-blank": {
+    "body": "<${1:i} className=\"ion-android-checkbox-outline-blank$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-checkbox-outline-blank"
+  },
+  "ion-android-checkmark-circle": {
+    "body": "<${1:i} className=\"ion-android-checkmark-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-checkmark-circle"
+  },
+  "ion-android-clipboard": {
+    "body": "<${1:i} className=\"ion-android-clipboard$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-clipboard"
+  },
+  "ion-android-close": {
+    "body": "<${1:i} className=\"ion-android-close$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-close"
+  },
+  "ion-android-cloud": {
+    "body": "<${1:i} className=\"ion-android-cloud$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-cloud"
+  },
+  "ion-android-cloud-circle": {
+    "body": "<${1:i} className=\"ion-android-cloud-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-cloud-circle"
+  },
+  "ion-android-cloud-done": {
+    "body": "<${1:i} className=\"ion-android-cloud-done$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-cloud-done"
+  },
+  "ion-android-cloud-outline": {
+    "body": "<${1:i} className=\"ion-android-cloud-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-cloud-outline"
+  },
+  "ion-android-color-palette": {
+    "body": "<${1:i} className=\"ion-android-color-palette$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-color-palette"
+  },
+  "ion-android-compass": {
+    "body": "<${1:i} className=\"ion-android-compass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-compass"
+  },
+  "ion-android-contact": {
+    "body": "<${1:i} className=\"ion-android-contact$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-contact"
+  },
+  "ion-android-contacts": {
+    "body": "<${1:i} className=\"ion-android-contacts$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-contacts"
+  },
+  "ion-android-contract": {
+    "body": "<${1:i} className=\"ion-android-contract$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-contract"
+  },
+  "ion-android-create": {
+    "body": "<${1:i} className=\"ion-android-create$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-create"
+  },
+  "ion-android-delete": {
+    "body": "<${1:i} className=\"ion-android-delete$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-delete"
+  },
+  "ion-android-desktop": {
+    "body": "<${1:i} className=\"ion-android-desktop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-desktop"
+  },
+  "ion-android-document": {
+    "body": "<${1:i} className=\"ion-android-document$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-document"
+  },
+  "ion-android-done": {
+    "body": "<${1:i} className=\"ion-android-done$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-done"
+  },
+  "ion-android-done-all": {
+    "body": "<${1:i} className=\"ion-android-done-all$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-done-all"
+  },
+  "ion-android-download": {
+    "body": "<${1:i} className=\"ion-android-download$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-download"
+  },
+  "ion-android-drafts": {
+    "body": "<${1:i} className=\"ion-android-drafts$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-drafts"
+  },
+  "ion-android-exit": {
+    "body": "<${1:i} className=\"ion-android-exit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-exit"
+  },
+  "ion-android-expand": {
+    "body": "<${1:i} className=\"ion-android-expand$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-expand"
+  },
+  "ion-android-favorite": {
+    "body": "<${1:i} className=\"ion-android-favorite$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-favorite"
+  },
+  "ion-android-favorite-outline": {
+    "body": "<${1:i} className=\"ion-android-favorite-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-favorite-outline"
+  },
+  "ion-android-film": {
+    "body": "<${1:i} className=\"ion-android-film$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-film"
+  },
+  "ion-android-folder": {
+    "body": "<${1:i} className=\"ion-android-folder$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-folder"
+  },
+  "ion-android-folder-open": {
+    "body": "<${1:i} className=\"ion-android-folder-open$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-folder-open"
+  },
+  "ion-android-funnel": {
+    "body": "<${1:i} className=\"ion-android-funnel$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-funnel"
+  },
+  "ion-android-globe": {
+    "body": "<${1:i} className=\"ion-android-globe$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-globe"
+  },
+  "ion-android-hand": {
+    "body": "<${1:i} className=\"ion-android-hand$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-hand"
+  },
+  "ion-android-hangout": {
+    "body": "<${1:i} className=\"ion-android-hangout$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-hangout"
+  },
+  "ion-android-happy": {
+    "body": "<${1:i} className=\"ion-android-happy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-happy"
+  },
+  "ion-android-home": {
+    "body": "<${1:i} className=\"ion-android-home$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-home"
+  },
+  "ion-android-image": {
+    "body": "<${1:i} className=\"ion-android-image$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-image"
+  },
+  "ion-android-laptop": {
+    "body": "<${1:i} className=\"ion-android-laptop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-laptop"
+  },
+  "ion-android-list": {
+    "body": "<${1:i} className=\"ion-android-list$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-list"
+  },
+  "ion-android-locate": {
+    "body": "<${1:i} className=\"ion-android-locate$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-locate"
+  },
+  "ion-android-lock": {
+    "body": "<${1:i} className=\"ion-android-lock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-lock"
+  },
+  "ion-android-mail": {
+    "body": "<${1:i} className=\"ion-android-mail$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-mail"
+  },
+  "ion-android-map": {
+    "body": "<${1:i} className=\"ion-android-map$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-map"
+  },
+  "ion-android-menu": {
+    "body": "<${1:i} className=\"ion-android-menu$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-menu"
+  },
+  "ion-android-microphone": {
+    "body": "<${1:i} className=\"ion-android-microphone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-microphone"
+  },
+  "ion-android-microphone-off": {
+    "body": "<${1:i} className=\"ion-android-microphone-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-microphone-off"
+  },
+  "ion-android-more-horizontal": {
+    "body": "<${1:i} className=\"ion-android-more-horizontal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-more-horizontal"
+  },
+  "ion-android-more-vertical": {
+    "body": "<${1:i} className=\"ion-android-more-vertical$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-more-vertical"
+  },
+  "ion-android-navigate": {
+    "body": "<${1:i} className=\"ion-android-navigate$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-navigate"
+  },
+  "ion-android-notifications": {
+    "body": "<${1:i} className=\"ion-android-notifications$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-notifications"
+  },
+  "ion-android-notifications-none": {
+    "body": "<${1:i} className=\"ion-android-notifications-none$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-notifications-none"
+  },
+  "ion-android-notifications-off": {
+    "body": "<${1:i} className=\"ion-android-notifications-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-notifications-off"
+  },
+  "ion-android-open": {
+    "body": "<${1:i} className=\"ion-android-open$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-open"
+  },
+  "ion-android-options": {
+    "body": "<${1:i} className=\"ion-android-options$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-options"
+  },
+  "ion-android-people": {
+    "body": "<${1:i} className=\"ion-android-people$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-people"
+  },
+  "ion-android-person": {
+    "body": "<${1:i} className=\"ion-android-person$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-person"
+  },
+  "ion-android-person-add": {
+    "body": "<${1:i} className=\"ion-android-person-add$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-person-add"
+  },
+  "ion-android-phone-landscape": {
+    "body": "<${1:i} className=\"ion-android-phone-landscape$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-phone-landscape"
+  },
+  "ion-android-phone-portrait": {
+    "body": "<${1:i} className=\"ion-android-phone-portrait$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-phone-portrait"
+  },
+  "ion-android-pin": {
+    "body": "<${1:i} className=\"ion-android-pin$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-pin"
+  },
+  "ion-android-plane": {
+    "body": "<${1:i} className=\"ion-android-plane$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-plane"
+  },
+  "ion-android-playstore": {
+    "body": "<${1:i} className=\"ion-android-playstore$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-playstore"
+  },
+  "ion-android-print": {
+    "body": "<${1:i} className=\"ion-android-print$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-print"
+  },
+  "ion-android-radio-button-off": {
+    "body": "<${1:i} className=\"ion-android-radio-button-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-radio-button-off"
+  },
+  "ion-android-radio-button-on": {
+    "body": "<${1:i} className=\"ion-android-radio-button-on$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-radio-button-on"
+  },
+  "ion-android-refresh": {
+    "body": "<${1:i} className=\"ion-android-refresh$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-refresh"
+  },
+  "ion-android-remove": {
+    "body": "<${1:i} className=\"ion-android-remove$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-remove"
+  },
+  "ion-android-remove-circle": {
+    "body": "<${1:i} className=\"ion-android-remove-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-remove-circle"
+  },
+  "ion-android-restaurant": {
+    "body": "<${1:i} className=\"ion-android-restaurant$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-restaurant"
+  },
+  "ion-android-sad": {
+    "body": "<${1:i} className=\"ion-android-sad$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-sad"
+  },
+  "ion-android-search": {
+    "body": "<${1:i} className=\"ion-android-search$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-search"
+  },
+  "ion-android-send": {
+    "body": "<${1:i} className=\"ion-android-send$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-send"
+  },
+  "ion-android-settings": {
+    "body": "<${1:i} className=\"ion-android-settings$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-settings"
+  },
+  "ion-android-share": {
+    "body": "<${1:i} className=\"ion-android-share$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-share"
+  },
+  "ion-android-share-alt": {
+    "body": "<${1:i} className=\"ion-android-share-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-share-alt"
+  },
+  "ion-android-star": {
+    "body": "<${1:i} className=\"ion-android-star$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-star"
+  },
+  "ion-android-star-half": {
+    "body": "<${1:i} className=\"ion-android-star-half$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-star-half"
+  },
+  "ion-android-star-outline": {
+    "body": "<${1:i} className=\"ion-android-star-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-star-outline"
+  },
+  "ion-android-stopwatch": {
+    "body": "<${1:i} className=\"ion-android-stopwatch$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-stopwatch"
+  },
+  "ion-android-subway": {
+    "body": "<${1:i} className=\"ion-android-subway$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-subway"
+  },
+  "ion-android-sunny": {
+    "body": "<${1:i} className=\"ion-android-sunny$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-sunny"
+  },
+  "ion-android-sync": {
+    "body": "<${1:i} className=\"ion-android-sync$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-sync"
+  },
+  "ion-android-textsms": {
+    "body": "<${1:i} className=\"ion-android-textsms$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-textsms"
+  },
+  "ion-android-time": {
+    "body": "<${1:i} className=\"ion-android-time$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-time"
+  },
+  "ion-android-train": {
+    "body": "<${1:i} className=\"ion-android-train$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-train"
+  },
+  "ion-android-unlock": {
+    "body": "<${1:i} className=\"ion-android-unlock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-unlock"
+  },
+  "ion-android-upload": {
+    "body": "<${1:i} className=\"ion-android-upload$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-upload"
+  },
+  "ion-android-volume-down": {
+    "body": "<${1:i} className=\"ion-android-volume-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-volume-down"
+  },
+  "ion-android-volume-mute": {
+    "body": "<${1:i} className=\"ion-android-volume-mute$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-volume-mute"
+  },
+  "ion-android-volume-off": {
+    "body": "<${1:i} className=\"ion-android-volume-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-volume-off"
+  },
+  "ion-android-volume-up": {
+    "body": "<${1:i} className=\"ion-android-volume-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-volume-up"
+  },
+  "ion-android-walk": {
+    "body": "<${1:i} className=\"ion-android-walk$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-walk"
+  },
+  "ion-android-warning": {
+    "body": "<${1:i} className=\"ion-android-warning$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-warning"
+  },
+  "ion-android-watch": {
+    "body": "<${1:i} className=\"ion-android-watch$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-watch"
+  },
+  "ion-android-wifi": {
+    "body": "<${1:i} className=\"ion-android-wifi$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-android-wifi"
+  },
+  "ion-aperture": {
+    "body": "<${1:i} className=\"ion-aperture$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-aperture"
+  },
+  "ion-archive": {
+    "body": "<${1:i} className=\"ion-archive$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-archive"
+  },
+  "ion-arrow-down-a": {
+    "body": "<${1:i} className=\"ion-arrow-down-a$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-down-a"
+  },
+  "ion-arrow-down-b": {
+    "body": "<${1:i} className=\"ion-arrow-down-b$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-down-b"
+  },
+  "ion-arrow-down-c": {
+    "body": "<${1:i} className=\"ion-arrow-down-c$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-down-c"
+  },
+  "ion-arrow-expand": {
+    "body": "<${1:i} className=\"ion-arrow-expand$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-expand"
+  },
+  "ion-arrow-graph-down-left": {
+    "body": "<${1:i} className=\"ion-arrow-graph-down-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-graph-down-left"
+  },
+  "ion-arrow-graph-down-right": {
+    "body": "<${1:i} className=\"ion-arrow-graph-down-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-graph-down-right"
+  },
+  "ion-arrow-graph-up-left": {
+    "body": "<${1:i} className=\"ion-arrow-graph-up-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-graph-up-left"
+  },
+  "ion-arrow-graph-up-right": {
+    "body": "<${1:i} className=\"ion-arrow-graph-up-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-graph-up-right"
+  },
+  "ion-arrow-left-a": {
+    "body": "<${1:i} className=\"ion-arrow-left-a$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-left-a"
+  },
+  "ion-arrow-left-b": {
+    "body": "<${1:i} className=\"ion-arrow-left-b$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-left-b"
+  },
+  "ion-arrow-left-c": {
+    "body": "<${1:i} className=\"ion-arrow-left-c$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-left-c"
+  },
+  "ion-arrow-move": {
+    "body": "<${1:i} className=\"ion-arrow-move$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-move"
+  },
+  "ion-arrow-resize": {
+    "body": "<${1:i} className=\"ion-arrow-resize$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-resize"
+  },
+  "ion-arrow-return-left": {
+    "body": "<${1:i} className=\"ion-arrow-return-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-return-left"
+  },
+  "ion-arrow-return-right": {
+    "body": "<${1:i} className=\"ion-arrow-return-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-return-right"
+  },
+  "ion-arrow-right-a": {
+    "body": "<${1:i} className=\"ion-arrow-right-a$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-right-a"
+  },
+  "ion-arrow-right-b": {
+    "body": "<${1:i} className=\"ion-arrow-right-b$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-right-b"
+  },
+  "ion-arrow-right-c": {
+    "body": "<${1:i} className=\"ion-arrow-right-c$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-right-c"
+  },
+  "ion-arrow-shrink": {
+    "body": "<${1:i} className=\"ion-arrow-shrink$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-shrink"
+  },
+  "ion-arrow-swap": {
+    "body": "<${1:i} className=\"ion-arrow-swap$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-swap"
+  },
+  "ion-arrow-up-a": {
+    "body": "<${1:i} className=\"ion-arrow-up-a$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-up-a"
+  },
+  "ion-arrow-up-b": {
+    "body": "<${1:i} className=\"ion-arrow-up-b$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-up-b"
+  },
+  "ion-arrow-up-c": {
+    "body": "<${1:i} className=\"ion-arrow-up-c$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-arrow-up-c"
+  },
+  "ion-asterisk": {
+    "body": "<${1:i} className=\"ion-asterisk$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-asterisk"
+  },
+  "ion-at": {
+    "body": "<${1:i} className=\"ion-at$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-at"
+  },
+  "ion-backspace": {
+    "body": "<${1:i} className=\"ion-backspace$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-backspace"
+  },
+  "ion-backspace-outline": {
+    "body": "<${1:i} className=\"ion-backspace-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-backspace-outline"
+  },
+  "ion-bag": {
+    "body": "<${1:i} className=\"ion-bag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-bag"
+  },
+  "ion-battery-charging": {
+    "body": "<${1:i} className=\"ion-battery-charging$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-battery-charging"
+  },
+  "ion-battery-empty": {
+    "body": "<${1:i} className=\"ion-battery-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-battery-empty"
+  },
+  "ion-battery-full": {
+    "body": "<${1:i} className=\"ion-battery-full$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-battery-full"
+  },
+  "ion-battery-half": {
+    "body": "<${1:i} className=\"ion-battery-half$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-battery-half"
+  },
+  "ion-battery-low": {
+    "body": "<${1:i} className=\"ion-battery-low$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-battery-low"
+  },
+  "ion-beaker": {
+    "body": "<${1:i} className=\"ion-beaker$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-beaker"
+  },
+  "ion-beer": {
+    "body": "<${1:i} className=\"ion-beer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-beer"
+  },
+  "ion-bluetooth": {
+    "body": "<${1:i} className=\"ion-bluetooth$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-bluetooth"
+  },
+  "ion-bonfire": {
+    "body": "<${1:i} className=\"ion-bonfire$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-bonfire"
+  },
+  "ion-bookmark": {
+    "body": "<${1:i} className=\"ion-bookmark$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-bookmark"
+  },
+  "ion-bowtie": {
+    "body": "<${1:i} className=\"ion-bowtie$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-bowtie"
+  },
+  "ion-briefcase": {
+    "body": "<${1:i} className=\"ion-briefcase$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-briefcase"
+  },
+  "ion-bug": {
+    "body": "<${1:i} className=\"ion-bug$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-bug"
+  },
+  "ion-calculator": {
+    "body": "<${1:i} className=\"ion-calculator$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-calculator"
+  },
+  "ion-calendar": {
+    "body": "<${1:i} className=\"ion-calendar$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-calendar"
+  },
+  "ion-camera": {
+    "body": "<${1:i} className=\"ion-camera$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-camera"
+  },
+  "ion-card": {
+    "body": "<${1:i} className=\"ion-card$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-card"
+  },
+  "ion-cash": {
+    "body": "<${1:i} className=\"ion-cash$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-cash"
+  },
+  "ion-chatbox": {
+    "body": "<${1:i} className=\"ion-chatbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-chatbox"
+  },
+  "ion-chatbox-working": {
+    "body": "<${1:i} className=\"ion-chatbox-working$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-chatbox-working"
+  },
+  "ion-chatboxes": {
+    "body": "<${1:i} className=\"ion-chatboxes$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-chatboxes"
+  },
+  "ion-chatbubble": {
+    "body": "<${1:i} className=\"ion-chatbubble$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-chatbubble"
+  },
+  "ion-chatbubble-working": {
+    "body": "<${1:i} className=\"ion-chatbubble-working$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-chatbubble-working"
+  },
+  "ion-chatbubbles": {
+    "body": "<${1:i} className=\"ion-chatbubbles$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-chatbubbles"
+  },
+  "ion-checkmark": {
+    "body": "<${1:i} className=\"ion-checkmark$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-checkmark"
+  },
+  "ion-checkmark-circled": {
+    "body": "<${1:i} className=\"ion-checkmark-circled$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-checkmark-circled"
+  },
+  "ion-checkmark-round": {
+    "body": "<${1:i} className=\"ion-checkmark-round$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-checkmark-round"
+  },
+  "ion-chevron-down": {
+    "body": "<${1:i} className=\"ion-chevron-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-chevron-down"
+  },
+  "ion-chevron-left": {
+    "body": "<${1:i} className=\"ion-chevron-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-chevron-left"
+  },
+  "ion-chevron-right": {
+    "body": "<${1:i} className=\"ion-chevron-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-chevron-right"
+  },
+  "ion-chevron-up": {
+    "body": "<${1:i} className=\"ion-chevron-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-chevron-up"
+  },
+  "ion-clipboard": {
+    "body": "<${1:i} className=\"ion-clipboard$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-clipboard"
+  },
+  "ion-clock": {
+    "body": "<${1:i} className=\"ion-clock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-clock"
+  },
+  "ion-close": {
+    "body": "<${1:i} className=\"ion-close$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-close"
+  },
+  "ion-close-circled": {
+    "body": "<${1:i} className=\"ion-close-circled$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-close-circled"
+  },
+  "ion-close-round": {
+    "body": "<${1:i} className=\"ion-close-round$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-close-round"
+  },
+  "ion-closed-captioning": {
+    "body": "<${1:i} className=\"ion-closed-captioning$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-closed-captioning"
+  },
+  "ion-cloud": {
+    "body": "<${1:i} className=\"ion-cloud$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-cloud"
+  },
+  "ion-code": {
+    "body": "<${1:i} className=\"ion-code$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-code"
+  },
+  "ion-code-download": {
+    "body": "<${1:i} className=\"ion-code-download$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-code-download"
+  },
+  "ion-code-working": {
+    "body": "<${1:i} className=\"ion-code-working$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-code-working"
+  },
+  "ion-coffee": {
+    "body": "<${1:i} className=\"ion-coffee$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-coffee"
+  },
+  "ion-compass": {
+    "body": "<${1:i} className=\"ion-compass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-compass"
+  },
+  "ion-compose": {
+    "body": "<${1:i} className=\"ion-compose$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-compose"
+  },
+  "ion-connection-bars": {
+    "body": "<${1:i} className=\"ion-connection-bars$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-connection-bars"
+  },
+  "ion-contrast": {
+    "body": "<${1:i} className=\"ion-contrast$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-contrast"
+  },
+  "ion-crop": {
+    "body": "<${1:i} className=\"ion-crop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-crop"
+  },
+  "ion-cube": {
+    "body": "<${1:i} className=\"ion-cube$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-cube"
+  },
+  "ion-disc": {
+    "body": "<${1:i} className=\"ion-disc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-disc"
+  },
+  "ion-document": {
+    "body": "<${1:i} className=\"ion-document$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-document"
+  },
+  "ion-document-text": {
+    "body": "<${1:i} className=\"ion-document-text$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-document-text"
+  },
+  "ion-drag": {
+    "body": "<${1:i} className=\"ion-drag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-drag"
+  },
+  "ion-earth": {
+    "body": "<${1:i} className=\"ion-earth$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-earth"
+  },
+  "ion-easel": {
+    "body": "<${1:i} className=\"ion-easel$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-easel"
+  },
+  "ion-edit": {
+    "body": "<${1:i} className=\"ion-edit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-edit"
+  },
+  "ion-egg": {
+    "body": "<${1:i} className=\"ion-egg$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-egg"
+  },
+  "ion-eject": {
+    "body": "<${1:i} className=\"ion-eject$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-eject"
+  },
+  "ion-email": {
+    "body": "<${1:i} className=\"ion-email$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-email"
+  },
+  "ion-email-unread": {
+    "body": "<${1:i} className=\"ion-email-unread$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-email-unread"
+  },
+  "ion-erlenmeyer-flask": {
+    "body": "<${1:i} className=\"ion-erlenmeyer-flask$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-erlenmeyer-flask"
+  },
+  "ion-erlenmeyer-flask-bubbles": {
+    "body": "<${1:i} className=\"ion-erlenmeyer-flask-bubbles$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-erlenmeyer-flask-bubbles"
+  },
+  "ion-eye": {
+    "body": "<${1:i} className=\"ion-eye$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-eye"
+  },
+  "ion-eye-disabled": {
+    "body": "<${1:i} className=\"ion-eye-disabled$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-eye-disabled"
+  },
+  "ion-female": {
+    "body": "<${1:i} className=\"ion-female$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-female"
+  },
+  "ion-filing": {
+    "body": "<${1:i} className=\"ion-filing$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-filing"
+  },
+  "ion-film-marker": {
+    "body": "<${1:i} className=\"ion-film-marker$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-film-marker"
+  },
+  "ion-fireball": {
+    "body": "<${1:i} className=\"ion-fireball$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-fireball"
+  },
+  "ion-flag": {
+    "body": "<${1:i} className=\"ion-flag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-flag"
+  },
+  "ion-flame": {
+    "body": "<${1:i} className=\"ion-flame$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-flame"
+  },
+  "ion-flash": {
+    "body": "<${1:i} className=\"ion-flash$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-flash"
+  },
+  "ion-flash-off": {
+    "body": "<${1:i} className=\"ion-flash-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-flash-off"
+  },
+  "ion-folder": {
+    "body": "<${1:i} className=\"ion-folder$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-folder"
+  },
+  "ion-fork": {
+    "body": "<${1:i} className=\"ion-fork$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-fork"
+  },
+  "ion-fork-repo": {
+    "body": "<${1:i} className=\"ion-fork-repo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-fork-repo"
+  },
+  "ion-forward": {
+    "body": "<${1:i} className=\"ion-forward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-forward"
+  },
+  "ion-funnel": {
+    "body": "<${1:i} className=\"ion-funnel$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-funnel"
+  },
+  "ion-gear-a": {
+    "body": "<${1:i} className=\"ion-gear-a$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-gear-a"
+  },
+  "ion-gear-b": {
+    "body": "<${1:i} className=\"ion-gear-b$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-gear-b"
+  },
+  "ion-grid": {
+    "body": "<${1:i} className=\"ion-grid$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-grid"
+  },
+  "ion-hammer": {
+    "body": "<${1:i} className=\"ion-hammer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-hammer"
+  },
+  "ion-happy": {
+    "body": "<${1:i} className=\"ion-happy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-happy"
+  },
+  "ion-happy-outline": {
+    "body": "<${1:i} className=\"ion-happy-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-happy-outline"
+  },
+  "ion-headphone": {
+    "body": "<${1:i} className=\"ion-headphone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-headphone"
+  },
+  "ion-heart": {
+    "body": "<${1:i} className=\"ion-heart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-heart"
+  },
+  "ion-heart-broken": {
+    "body": "<${1:i} className=\"ion-heart-broken$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-heart-broken"
+  },
+  "ion-help": {
+    "body": "<${1:i} className=\"ion-help$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-help"
+  },
+  "ion-help-buoy": {
+    "body": "<${1:i} className=\"ion-help-buoy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-help-buoy"
+  },
+  "ion-help-circled": {
+    "body": "<${1:i} className=\"ion-help-circled$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-help-circled"
+  },
+  "ion-home": {
+    "body": "<${1:i} className=\"ion-home$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-home"
+  },
+  "ion-icecream": {
+    "body": "<${1:i} className=\"ion-icecream$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-icecream"
+  },
+  "ion-image": {
+    "body": "<${1:i} className=\"ion-image$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-image"
+  },
+  "ion-images": {
+    "body": "<${1:i} className=\"ion-images$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-images"
+  },
+  "ion-information": {
+    "body": "<${1:i} className=\"ion-information$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-information"
+  },
+  "ion-information-circled": {
+    "body": "<${1:i} className=\"ion-information-circled$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-information-circled"
+  },
+  "ion-ionic": {
+    "body": "<${1:i} className=\"ion-ionic$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ionic"
+  },
+  "ion-ios-alarm": {
+    "body": "<${1:i} className=\"ion-ios-alarm$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-alarm"
+  },
+  "ion-ios-alarm-outline": {
+    "body": "<${1:i} className=\"ion-ios-alarm-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-alarm-outline"
+  },
+  "ion-ios-albums": {
+    "body": "<${1:i} className=\"ion-ios-albums$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-albums"
+  },
+  "ion-ios-albums-outline": {
+    "body": "<${1:i} className=\"ion-ios-albums-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-albums-outline"
+  },
+  "ion-ios-americanfootball": {
+    "body": "<${1:i} className=\"ion-ios-americanfootball$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-americanfootball"
+  },
+  "ion-ios-americanfootball-outline": {
+    "body": "<${1:i} className=\"ion-ios-americanfootball-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-americanfootball-outline"
+  },
+  "ion-ios-analytics": {
+    "body": "<${1:i} className=\"ion-ios-analytics$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-analytics"
+  },
+  "ion-ios-analytics-outline": {
+    "body": "<${1:i} className=\"ion-ios-analytics-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-analytics-outline"
+  },
+  "ion-ios-arrow-back": {
+    "body": "<${1:i} className=\"ion-ios-arrow-back$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-arrow-back"
+  },
+  "ion-ios-arrow-down": {
+    "body": "<${1:i} className=\"ion-ios-arrow-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-arrow-down"
+  },
+  "ion-ios-arrow-forward": {
+    "body": "<${1:i} className=\"ion-ios-arrow-forward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-arrow-forward"
+  },
+  "ion-ios-arrow-left": {
+    "body": "<${1:i} className=\"ion-ios-arrow-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-arrow-left"
+  },
+  "ion-ios-arrow-right": {
+    "body": "<${1:i} className=\"ion-ios-arrow-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-arrow-right"
+  },
+  "ion-ios-arrow-thin-down": {
+    "body": "<${1:i} className=\"ion-ios-arrow-thin-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-arrow-thin-down"
+  },
+  "ion-ios-arrow-thin-left": {
+    "body": "<${1:i} className=\"ion-ios-arrow-thin-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-arrow-thin-left"
+  },
+  "ion-ios-arrow-thin-right": {
+    "body": "<${1:i} className=\"ion-ios-arrow-thin-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-arrow-thin-right"
+  },
+  "ion-ios-arrow-thin-up": {
+    "body": "<${1:i} className=\"ion-ios-arrow-thin-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-arrow-thin-up"
+  },
+  "ion-ios-arrow-up": {
+    "body": "<${1:i} className=\"ion-ios-arrow-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-arrow-up"
+  },
+  "ion-ios-at": {
+    "body": "<${1:i} className=\"ion-ios-at$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-at"
+  },
+  "ion-ios-at-outline": {
+    "body": "<${1:i} className=\"ion-ios-at-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-at-outline"
+  },
+  "ion-ios-barcode": {
+    "body": "<${1:i} className=\"ion-ios-barcode$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-barcode"
+  },
+  "ion-ios-barcode-outline": {
+    "body": "<${1:i} className=\"ion-ios-barcode-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-barcode-outline"
+  },
+  "ion-ios-baseball": {
+    "body": "<${1:i} className=\"ion-ios-baseball$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-baseball"
+  },
+  "ion-ios-baseball-outline": {
+    "body": "<${1:i} className=\"ion-ios-baseball-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-baseball-outline"
+  },
+  "ion-ios-basketball": {
+    "body": "<${1:i} className=\"ion-ios-basketball$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-basketball"
+  },
+  "ion-ios-basketball-outline": {
+    "body": "<${1:i} className=\"ion-ios-basketball-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-basketball-outline"
+  },
+  "ion-ios-bell": {
+    "body": "<${1:i} className=\"ion-ios-bell$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-bell"
+  },
+  "ion-ios-bell-outline": {
+    "body": "<${1:i} className=\"ion-ios-bell-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-bell-outline"
+  },
+  "ion-ios-body": {
+    "body": "<${1:i} className=\"ion-ios-body$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-body"
+  },
+  "ion-ios-body-outline": {
+    "body": "<${1:i} className=\"ion-ios-body-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-body-outline"
+  },
+  "ion-ios-bolt": {
+    "body": "<${1:i} className=\"ion-ios-bolt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-bolt"
+  },
+  "ion-ios-bolt-outline": {
+    "body": "<${1:i} className=\"ion-ios-bolt-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-bolt-outline"
+  },
+  "ion-ios-book": {
+    "body": "<${1:i} className=\"ion-ios-book$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-book"
+  },
+  "ion-ios-book-outline": {
+    "body": "<${1:i} className=\"ion-ios-book-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-book-outline"
+  },
+  "ion-ios-bookmarks": {
+    "body": "<${1:i} className=\"ion-ios-bookmarks$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-bookmarks"
+  },
+  "ion-ios-bookmarks-outline": {
+    "body": "<${1:i} className=\"ion-ios-bookmarks-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-bookmarks-outline"
+  },
+  "ion-ios-box": {
+    "body": "<${1:i} className=\"ion-ios-box$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-box"
+  },
+  "ion-ios-box-outline": {
+    "body": "<${1:i} className=\"ion-ios-box-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-box-outline"
+  },
+  "ion-ios-briefcase": {
+    "body": "<${1:i} className=\"ion-ios-briefcase$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-briefcase"
+  },
+  "ion-ios-briefcase-outline": {
+    "body": "<${1:i} className=\"ion-ios-briefcase-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-briefcase-outline"
+  },
+  "ion-ios-browsers": {
+    "body": "<${1:i} className=\"ion-ios-browsers$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-browsers"
+  },
+  "ion-ios-browsers-outline": {
+    "body": "<${1:i} className=\"ion-ios-browsers-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-browsers-outline"
+  },
+  "ion-ios-calculator": {
+    "body": "<${1:i} className=\"ion-ios-calculator$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-calculator"
+  },
+  "ion-ios-calculator-outline": {
+    "body": "<${1:i} className=\"ion-ios-calculator-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-calculator-outline"
+  },
+  "ion-ios-calendar": {
+    "body": "<${1:i} className=\"ion-ios-calendar$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-calendar"
+  },
+  "ion-ios-calendar-outline": {
+    "body": "<${1:i} className=\"ion-ios-calendar-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-calendar-outline"
+  },
+  "ion-ios-camera": {
+    "body": "<${1:i} className=\"ion-ios-camera$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-camera"
+  },
+  "ion-ios-camera-outline": {
+    "body": "<${1:i} className=\"ion-ios-camera-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-camera-outline"
+  },
+  "ion-ios-cart": {
+    "body": "<${1:i} className=\"ion-ios-cart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cart"
+  },
+  "ion-ios-cart-outline": {
+    "body": "<${1:i} className=\"ion-ios-cart-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cart-outline"
+  },
+  "ion-ios-chatboxes": {
+    "body": "<${1:i} className=\"ion-ios-chatboxes$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-chatboxes"
+  },
+  "ion-ios-chatboxes-outline": {
+    "body": "<${1:i} className=\"ion-ios-chatboxes-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-chatboxes-outline"
+  },
+  "ion-ios-chatbubble": {
+    "body": "<${1:i} className=\"ion-ios-chatbubble$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-chatbubble"
+  },
+  "ion-ios-chatbubble-outline": {
+    "body": "<${1:i} className=\"ion-ios-chatbubble-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-chatbubble-outline"
+  },
+  "ion-ios-checkmark": {
+    "body": "<${1:i} className=\"ion-ios-checkmark$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-checkmark"
+  },
+  "ion-ios-checkmark-empty": {
+    "body": "<${1:i} className=\"ion-ios-checkmark-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-checkmark-empty"
+  },
+  "ion-ios-checkmark-outline": {
+    "body": "<${1:i} className=\"ion-ios-checkmark-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-checkmark-outline"
+  },
+  "ion-ios-circle-filled": {
+    "body": "<${1:i} className=\"ion-ios-circle-filled$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-circle-filled"
+  },
+  "ion-ios-circle-outline": {
+    "body": "<${1:i} className=\"ion-ios-circle-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-circle-outline"
+  },
+  "ion-ios-clock": {
+    "body": "<${1:i} className=\"ion-ios-clock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-clock"
+  },
+  "ion-ios-clock-outline": {
+    "body": "<${1:i} className=\"ion-ios-clock-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-clock-outline"
+  },
+  "ion-ios-close": {
+    "body": "<${1:i} className=\"ion-ios-close$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-close"
+  },
+  "ion-ios-close-empty": {
+    "body": "<${1:i} className=\"ion-ios-close-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-close-empty"
+  },
+  "ion-ios-close-outline": {
+    "body": "<${1:i} className=\"ion-ios-close-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-close-outline"
+  },
+  "ion-ios-cloud": {
+    "body": "<${1:i} className=\"ion-ios-cloud$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cloud"
+  },
+  "ion-ios-cloud-download": {
+    "body": "<${1:i} className=\"ion-ios-cloud-download$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cloud-download"
+  },
+  "ion-ios-cloud-download-outline": {
+    "body": "<${1:i} className=\"ion-ios-cloud-download-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cloud-download-outline"
+  },
+  "ion-ios-cloud-outline": {
+    "body": "<${1:i} className=\"ion-ios-cloud-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cloud-outline"
+  },
+  "ion-ios-cloud-upload": {
+    "body": "<${1:i} className=\"ion-ios-cloud-upload$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cloud-upload"
+  },
+  "ion-ios-cloud-upload-outline": {
+    "body": "<${1:i} className=\"ion-ios-cloud-upload-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cloud-upload-outline"
+  },
+  "ion-ios-cloudy": {
+    "body": "<${1:i} className=\"ion-ios-cloudy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cloudy"
+  },
+  "ion-ios-cloudy-night": {
+    "body": "<${1:i} className=\"ion-ios-cloudy-night$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cloudy-night"
+  },
+  "ion-ios-cloudy-night-outline": {
+    "body": "<${1:i} className=\"ion-ios-cloudy-night-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cloudy-night-outline"
+  },
+  "ion-ios-cloudy-outline": {
+    "body": "<${1:i} className=\"ion-ios-cloudy-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cloudy-outline"
+  },
+  "ion-ios-cog": {
+    "body": "<${1:i} className=\"ion-ios-cog$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cog"
+  },
+  "ion-ios-cog-outline": {
+    "body": "<${1:i} className=\"ion-ios-cog-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-cog-outline"
+  },
+  "ion-ios-color-filter": {
+    "body": "<${1:i} className=\"ion-ios-color-filter$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-color-filter"
+  },
+  "ion-ios-color-filter-outline": {
+    "body": "<${1:i} className=\"ion-ios-color-filter-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-color-filter-outline"
+  },
+  "ion-ios-color-wand": {
+    "body": "<${1:i} className=\"ion-ios-color-wand$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-color-wand"
+  },
+  "ion-ios-color-wand-outline": {
+    "body": "<${1:i} className=\"ion-ios-color-wand-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-color-wand-outline"
+  },
+  "ion-ios-compose": {
+    "body": "<${1:i} className=\"ion-ios-compose$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-compose"
+  },
+  "ion-ios-compose-outline": {
+    "body": "<${1:i} className=\"ion-ios-compose-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-compose-outline"
+  },
+  "ion-ios-contact": {
+    "body": "<${1:i} className=\"ion-ios-contact$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-contact"
+  },
+  "ion-ios-contact-outline": {
+    "body": "<${1:i} className=\"ion-ios-contact-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-contact-outline"
+  },
+  "ion-ios-copy": {
+    "body": "<${1:i} className=\"ion-ios-copy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-copy"
+  },
+  "ion-ios-copy-outline": {
+    "body": "<${1:i} className=\"ion-ios-copy-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-copy-outline"
+  },
+  "ion-ios-crop": {
+    "body": "<${1:i} className=\"ion-ios-crop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-crop"
+  },
+  "ion-ios-crop-strong": {
+    "body": "<${1:i} className=\"ion-ios-crop-strong$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-crop-strong"
+  },
+  "ion-ios-download": {
+    "body": "<${1:i} className=\"ion-ios-download$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-download"
+  },
+  "ion-ios-download-outline": {
+    "body": "<${1:i} className=\"ion-ios-download-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-download-outline"
+  },
+  "ion-ios-drag": {
+    "body": "<${1:i} className=\"ion-ios-drag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-drag"
+  },
+  "ion-ios-email": {
+    "body": "<${1:i} className=\"ion-ios-email$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-email"
+  },
+  "ion-ios-email-outline": {
+    "body": "<${1:i} className=\"ion-ios-email-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-email-outline"
+  },
+  "ion-ios-eye": {
+    "body": "<${1:i} className=\"ion-ios-eye$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-eye"
+  },
+  "ion-ios-eye-outline": {
+    "body": "<${1:i} className=\"ion-ios-eye-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-eye-outline"
+  },
+  "ion-ios-fastforward": {
+    "body": "<${1:i} className=\"ion-ios-fastforward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-fastforward"
+  },
+  "ion-ios-fastforward-outline": {
+    "body": "<${1:i} className=\"ion-ios-fastforward-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-fastforward-outline"
+  },
+  "ion-ios-filing": {
+    "body": "<${1:i} className=\"ion-ios-filing$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-filing"
+  },
+  "ion-ios-filing-outline": {
+    "body": "<${1:i} className=\"ion-ios-filing-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-filing-outline"
+  },
+  "ion-ios-film": {
+    "body": "<${1:i} className=\"ion-ios-film$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-film"
+  },
+  "ion-ios-film-outline": {
+    "body": "<${1:i} className=\"ion-ios-film-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-film-outline"
+  },
+  "ion-ios-flag": {
+    "body": "<${1:i} className=\"ion-ios-flag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-flag"
+  },
+  "ion-ios-flag-outline": {
+    "body": "<${1:i} className=\"ion-ios-flag-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-flag-outline"
+  },
+  "ion-ios-flame": {
+    "body": "<${1:i} className=\"ion-ios-flame$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-flame"
+  },
+  "ion-ios-flame-outline": {
+    "body": "<${1:i} className=\"ion-ios-flame-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-flame-outline"
+  },
+  "ion-ios-flask": {
+    "body": "<${1:i} className=\"ion-ios-flask$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-flask"
+  },
+  "ion-ios-flask-outline": {
+    "body": "<${1:i} className=\"ion-ios-flask-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-flask-outline"
+  },
+  "ion-ios-flower": {
+    "body": "<${1:i} className=\"ion-ios-flower$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-flower"
+  },
+  "ion-ios-flower-outline": {
+    "body": "<${1:i} className=\"ion-ios-flower-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-flower-outline"
+  },
+  "ion-ios-folder": {
+    "body": "<${1:i} className=\"ion-ios-folder$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-folder"
+  },
+  "ion-ios-folder-outline": {
+    "body": "<${1:i} className=\"ion-ios-folder-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-folder-outline"
+  },
+  "ion-ios-football": {
+    "body": "<${1:i} className=\"ion-ios-football$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-football"
+  },
+  "ion-ios-football-outline": {
+    "body": "<${1:i} className=\"ion-ios-football-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-football-outline"
+  },
+  "ion-ios-game-controller-a": {
+    "body": "<${1:i} className=\"ion-ios-game-controller-a$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-game-controller-a"
+  },
+  "ion-ios-game-controller-a-outline": {
+    "body": "<${1:i} className=\"ion-ios-game-controller-a-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-game-controller-a-outline"
+  },
+  "ion-ios-game-controller-b": {
+    "body": "<${1:i} className=\"ion-ios-game-controller-b$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-game-controller-b"
+  },
+  "ion-ios-game-controller-b-outline": {
+    "body": "<${1:i} className=\"ion-ios-game-controller-b-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-game-controller-b-outline"
+  },
+  "ion-ios-gear": {
+    "body": "<${1:i} className=\"ion-ios-gear$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-gear"
+  },
+  "ion-ios-gear-outline": {
+    "body": "<${1:i} className=\"ion-ios-gear-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-gear-outline"
+  },
+  "ion-ios-glasses": {
+    "body": "<${1:i} className=\"ion-ios-glasses$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-glasses"
+  },
+  "ion-ios-glasses-outline": {
+    "body": "<${1:i} className=\"ion-ios-glasses-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-glasses-outline"
+  },
+  "ion-ios-grid-view": {
+    "body": "<${1:i} className=\"ion-ios-grid-view$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-grid-view"
+  },
+  "ion-ios-grid-view-outline": {
+    "body": "<${1:i} className=\"ion-ios-grid-view-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-grid-view-outline"
+  },
+  "ion-ios-heart": {
+    "body": "<${1:i} className=\"ion-ios-heart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-heart"
+  },
+  "ion-ios-heart-outline": {
+    "body": "<${1:i} className=\"ion-ios-heart-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-heart-outline"
+  },
+  "ion-ios-help": {
+    "body": "<${1:i} className=\"ion-ios-help$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-help"
+  },
+  "ion-ios-help-empty": {
+    "body": "<${1:i} className=\"ion-ios-help-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-help-empty"
+  },
+  "ion-ios-help-outline": {
+    "body": "<${1:i} className=\"ion-ios-help-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-help-outline"
+  },
+  "ion-ios-home": {
+    "body": "<${1:i} className=\"ion-ios-home$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-home"
+  },
+  "ion-ios-home-outline": {
+    "body": "<${1:i} className=\"ion-ios-home-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-home-outline"
+  },
+  "ion-ios-infinite": {
+    "body": "<${1:i} className=\"ion-ios-infinite$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-infinite"
+  },
+  "ion-ios-infinite-outline": {
+    "body": "<${1:i} className=\"ion-ios-infinite-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-infinite-outline"
+  },
+  "ion-ios-information": {
+    "body": "<${1:i} className=\"ion-ios-information$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-information"
+  },
+  "ion-ios-information-empty": {
+    "body": "<${1:i} className=\"ion-ios-information-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-information-empty"
+  },
+  "ion-ios-information-outline": {
+    "body": "<${1:i} className=\"ion-ios-information-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-information-outline"
+  },
+  "ion-ios-ionic-outline": {
+    "body": "<${1:i} className=\"ion-ios-ionic-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-ionic-outline"
+  },
+  "ion-ios-keypad": {
+    "body": "<${1:i} className=\"ion-ios-keypad$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-keypad"
+  },
+  "ion-ios-keypad-outline": {
+    "body": "<${1:i} className=\"ion-ios-keypad-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-keypad-outline"
+  },
+  "ion-ios-lightbulb": {
+    "body": "<${1:i} className=\"ion-ios-lightbulb$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-lightbulb"
+  },
+  "ion-ios-lightbulb-outline": {
+    "body": "<${1:i} className=\"ion-ios-lightbulb-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-lightbulb-outline"
+  },
+  "ion-ios-list": {
+    "body": "<${1:i} className=\"ion-ios-list$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-list"
+  },
+  "ion-ios-list-outline": {
+    "body": "<${1:i} className=\"ion-ios-list-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-list-outline"
+  },
+  "ion-ios-location": {
+    "body": "<${1:i} className=\"ion-ios-location$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-location"
+  },
+  "ion-ios-location-outline": {
+    "body": "<${1:i} className=\"ion-ios-location-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-location-outline"
+  },
+  "ion-ios-locked": {
+    "body": "<${1:i} className=\"ion-ios-locked$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-locked"
+  },
+  "ion-ios-locked-outline": {
+    "body": "<${1:i} className=\"ion-ios-locked-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-locked-outline"
+  },
+  "ion-ios-loop": {
+    "body": "<${1:i} className=\"ion-ios-loop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-loop"
+  },
+  "ion-ios-loop-strong": {
+    "body": "<${1:i} className=\"ion-ios-loop-strong$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-loop-strong"
+  },
+  "ion-ios-medical": {
+    "body": "<${1:i} className=\"ion-ios-medical$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-medical"
+  },
+  "ion-ios-medical-outline": {
+    "body": "<${1:i} className=\"ion-ios-medical-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-medical-outline"
+  },
+  "ion-ios-medkit": {
+    "body": "<${1:i} className=\"ion-ios-medkit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-medkit"
+  },
+  "ion-ios-medkit-outline": {
+    "body": "<${1:i} className=\"ion-ios-medkit-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-medkit-outline"
+  },
+  "ion-ios-mic": {
+    "body": "<${1:i} className=\"ion-ios-mic$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-mic"
+  },
+  "ion-ios-mic-off": {
+    "body": "<${1:i} className=\"ion-ios-mic-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-mic-off"
+  },
+  "ion-ios-mic-outline": {
+    "body": "<${1:i} className=\"ion-ios-mic-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-mic-outline"
+  },
+  "ion-ios-minus": {
+    "body": "<${1:i} className=\"ion-ios-minus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-minus"
+  },
+  "ion-ios-minus-empty": {
+    "body": "<${1:i} className=\"ion-ios-minus-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-minus-empty"
+  },
+  "ion-ios-minus-outline": {
+    "body": "<${1:i} className=\"ion-ios-minus-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-minus-outline"
+  },
+  "ion-ios-monitor": {
+    "body": "<${1:i} className=\"ion-ios-monitor$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-monitor"
+  },
+  "ion-ios-monitor-outline": {
+    "body": "<${1:i} className=\"ion-ios-monitor-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-monitor-outline"
+  },
+  "ion-ios-moon": {
+    "body": "<${1:i} className=\"ion-ios-moon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-moon"
+  },
+  "ion-ios-moon-outline": {
+    "body": "<${1:i} className=\"ion-ios-moon-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-moon-outline"
+  },
+  "ion-ios-more": {
+    "body": "<${1:i} className=\"ion-ios-more$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-more"
+  },
+  "ion-ios-more-outline": {
+    "body": "<${1:i} className=\"ion-ios-more-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-more-outline"
+  },
+  "ion-ios-musical-note": {
+    "body": "<${1:i} className=\"ion-ios-musical-note$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-musical-note"
+  },
+  "ion-ios-musical-notes": {
+    "body": "<${1:i} className=\"ion-ios-musical-notes$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-musical-notes"
+  },
+  "ion-ios-navigate": {
+    "body": "<${1:i} className=\"ion-ios-navigate$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-navigate"
+  },
+  "ion-ios-navigate-outline": {
+    "body": "<${1:i} className=\"ion-ios-navigate-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-navigate-outline"
+  },
+  "ion-ios-nutrition": {
+    "body": "<${1:i} className=\"ion-ios-nutrition$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-nutrition"
+  },
+  "ion-ios-nutrition-outline": {
+    "body": "<${1:i} className=\"ion-ios-nutrition-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-nutrition-outline"
+  },
+  "ion-ios-paper": {
+    "body": "<${1:i} className=\"ion-ios-paper$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-paper"
+  },
+  "ion-ios-paper-outline": {
+    "body": "<${1:i} className=\"ion-ios-paper-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-paper-outline"
+  },
+  "ion-ios-paperplane": {
+    "body": "<${1:i} className=\"ion-ios-paperplane$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-paperplane"
+  },
+  "ion-ios-paperplane-outline": {
+    "body": "<${1:i} className=\"ion-ios-paperplane-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-paperplane-outline"
+  },
+  "ion-ios-partlysunny": {
+    "body": "<${1:i} className=\"ion-ios-partlysunny$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-partlysunny"
+  },
+  "ion-ios-partlysunny-outline": {
+    "body": "<${1:i} className=\"ion-ios-partlysunny-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-partlysunny-outline"
+  },
+  "ion-ios-pause": {
+    "body": "<${1:i} className=\"ion-ios-pause$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-pause"
+  },
+  "ion-ios-pause-outline": {
+    "body": "<${1:i} className=\"ion-ios-pause-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-pause-outline"
+  },
+  "ion-ios-paw": {
+    "body": "<${1:i} className=\"ion-ios-paw$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-paw"
+  },
+  "ion-ios-paw-outline": {
+    "body": "<${1:i} className=\"ion-ios-paw-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-paw-outline"
+  },
+  "ion-ios-people": {
+    "body": "<${1:i} className=\"ion-ios-people$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-people"
+  },
+  "ion-ios-people-outline": {
+    "body": "<${1:i} className=\"ion-ios-people-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-people-outline"
+  },
+  "ion-ios-person": {
+    "body": "<${1:i} className=\"ion-ios-person$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-person"
+  },
+  "ion-ios-person-outline": {
+    "body": "<${1:i} className=\"ion-ios-person-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-person-outline"
+  },
+  "ion-ios-personadd": {
+    "body": "<${1:i} className=\"ion-ios-personadd$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-personadd"
+  },
+  "ion-ios-personadd-outline": {
+    "body": "<${1:i} className=\"ion-ios-personadd-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-personadd-outline"
+  },
+  "ion-ios-photos": {
+    "body": "<${1:i} className=\"ion-ios-photos$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-photos"
+  },
+  "ion-ios-photos-outline": {
+    "body": "<${1:i} className=\"ion-ios-photos-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-photos-outline"
+  },
+  "ion-ios-pie": {
+    "body": "<${1:i} className=\"ion-ios-pie$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-pie"
+  },
+  "ion-ios-pie-outline": {
+    "body": "<${1:i} className=\"ion-ios-pie-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-pie-outline"
+  },
+  "ion-ios-pint": {
+    "body": "<${1:i} className=\"ion-ios-pint$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-pint"
+  },
+  "ion-ios-pint-outline": {
+    "body": "<${1:i} className=\"ion-ios-pint-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-pint-outline"
+  },
+  "ion-ios-play": {
+    "body": "<${1:i} className=\"ion-ios-play$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-play"
+  },
+  "ion-ios-play-outline": {
+    "body": "<${1:i} className=\"ion-ios-play-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-play-outline"
+  },
+  "ion-ios-plus": {
+    "body": "<${1:i} className=\"ion-ios-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-plus"
+  },
+  "ion-ios-plus-empty": {
+    "body": "<${1:i} className=\"ion-ios-plus-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-plus-empty"
+  },
+  "ion-ios-plus-outline": {
+    "body": "<${1:i} className=\"ion-ios-plus-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-plus-outline"
+  },
+  "ion-ios-pricetag": {
+    "body": "<${1:i} className=\"ion-ios-pricetag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-pricetag"
+  },
+  "ion-ios-pricetag-outline": {
+    "body": "<${1:i} className=\"ion-ios-pricetag-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-pricetag-outline"
+  },
+  "ion-ios-pricetags": {
+    "body": "<${1:i} className=\"ion-ios-pricetags$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-pricetags"
+  },
+  "ion-ios-pricetags-outline": {
+    "body": "<${1:i} className=\"ion-ios-pricetags-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-pricetags-outline"
+  },
+  "ion-ios-printer": {
+    "body": "<${1:i} className=\"ion-ios-printer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-printer"
+  },
+  "ion-ios-printer-outline": {
+    "body": "<${1:i} className=\"ion-ios-printer-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-printer-outline"
+  },
+  "ion-ios-pulse": {
+    "body": "<${1:i} className=\"ion-ios-pulse$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-pulse"
+  },
+  "ion-ios-pulse-strong": {
+    "body": "<${1:i} className=\"ion-ios-pulse-strong$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-pulse-strong"
+  },
+  "ion-ios-rainy": {
+    "body": "<${1:i} className=\"ion-ios-rainy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-rainy"
+  },
+  "ion-ios-rainy-outline": {
+    "body": "<${1:i} className=\"ion-ios-rainy-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-rainy-outline"
+  },
+  "ion-ios-recording": {
+    "body": "<${1:i} className=\"ion-ios-recording$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-recording"
+  },
+  "ion-ios-recording-outline": {
+    "body": "<${1:i} className=\"ion-ios-recording-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-recording-outline"
+  },
+  "ion-ios-redo": {
+    "body": "<${1:i} className=\"ion-ios-redo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-redo"
+  },
+  "ion-ios-redo-outline": {
+    "body": "<${1:i} className=\"ion-ios-redo-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-redo-outline"
+  },
+  "ion-ios-refresh": {
+    "body": "<${1:i} className=\"ion-ios-refresh$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-refresh"
+  },
+  "ion-ios-refresh-empty": {
+    "body": "<${1:i} className=\"ion-ios-refresh-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-refresh-empty"
+  },
+  "ion-ios-refresh-outline": {
+    "body": "<${1:i} className=\"ion-ios-refresh-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-refresh-outline"
+  },
+  "ion-ios-reload": {
+    "body": "<${1:i} className=\"ion-ios-reload$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-reload"
+  },
+  "ion-ios-reverse-camera": {
+    "body": "<${1:i} className=\"ion-ios-reverse-camera$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-reverse-camera"
+  },
+  "ion-ios-reverse-camera-outline": {
+    "body": "<${1:i} className=\"ion-ios-reverse-camera-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-reverse-camera-outline"
+  },
+  "ion-ios-rewind": {
+    "body": "<${1:i} className=\"ion-ios-rewind$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-rewind"
+  },
+  "ion-ios-rewind-outline": {
+    "body": "<${1:i} className=\"ion-ios-rewind-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-rewind-outline"
+  },
+  "ion-ios-rose": {
+    "body": "<${1:i} className=\"ion-ios-rose$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-rose"
+  },
+  "ion-ios-rose-outline": {
+    "body": "<${1:i} className=\"ion-ios-rose-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-rose-outline"
+  },
+  "ion-ios-search": {
+    "body": "<${1:i} className=\"ion-ios-search$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-search"
+  },
+  "ion-ios-search-strong": {
+    "body": "<${1:i} className=\"ion-ios-search-strong$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-search-strong"
+  },
+  "ion-ios-settings": {
+    "body": "<${1:i} className=\"ion-ios-settings$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-settings"
+  },
+  "ion-ios-settings-strong": {
+    "body": "<${1:i} className=\"ion-ios-settings-strong$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-settings-strong"
+  },
+  "ion-ios-shuffle": {
+    "body": "<${1:i} className=\"ion-ios-shuffle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-shuffle"
+  },
+  "ion-ios-shuffle-strong": {
+    "body": "<${1:i} className=\"ion-ios-shuffle-strong$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-shuffle-strong"
+  },
+  "ion-ios-skipbackward": {
+    "body": "<${1:i} className=\"ion-ios-skipbackward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-skipbackward"
+  },
+  "ion-ios-skipbackward-outline": {
+    "body": "<${1:i} className=\"ion-ios-skipbackward-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-skipbackward-outline"
+  },
+  "ion-ios-skipforward": {
+    "body": "<${1:i} className=\"ion-ios-skipforward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-skipforward"
+  },
+  "ion-ios-skipforward-outline": {
+    "body": "<${1:i} className=\"ion-ios-skipforward-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-skipforward-outline"
+  },
+  "ion-ios-snowy": {
+    "body": "<${1:i} className=\"ion-ios-snowy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-snowy"
+  },
+  "ion-ios-speedometer": {
+    "body": "<${1:i} className=\"ion-ios-speedometer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-speedometer"
+  },
+  "ion-ios-speedometer-outline": {
+    "body": "<${1:i} className=\"ion-ios-speedometer-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-speedometer-outline"
+  },
+  "ion-ios-star": {
+    "body": "<${1:i} className=\"ion-ios-star$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-star"
+  },
+  "ion-ios-star-half": {
+    "body": "<${1:i} className=\"ion-ios-star-half$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-star-half"
+  },
+  "ion-ios-star-outline": {
+    "body": "<${1:i} className=\"ion-ios-star-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-star-outline"
+  },
+  "ion-ios-stopwatch": {
+    "body": "<${1:i} className=\"ion-ios-stopwatch$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-stopwatch"
+  },
+  "ion-ios-stopwatch-outline": {
+    "body": "<${1:i} className=\"ion-ios-stopwatch-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-stopwatch-outline"
+  },
+  "ion-ios-sunny": {
+    "body": "<${1:i} className=\"ion-ios-sunny$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-sunny"
+  },
+  "ion-ios-sunny-outline": {
+    "body": "<${1:i} className=\"ion-ios-sunny-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-sunny-outline"
+  },
+  "ion-ios-telephone": {
+    "body": "<${1:i} className=\"ion-ios-telephone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-telephone"
+  },
+  "ion-ios-telephone-outline": {
+    "body": "<${1:i} className=\"ion-ios-telephone-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-telephone-outline"
+  },
+  "ion-ios-tennisball": {
+    "body": "<${1:i} className=\"ion-ios-tennisball$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-tennisball"
+  },
+  "ion-ios-tennisball-outline": {
+    "body": "<${1:i} className=\"ion-ios-tennisball-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-tennisball-outline"
+  },
+  "ion-ios-thunderstorm": {
+    "body": "<${1:i} className=\"ion-ios-thunderstorm$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-thunderstorm"
+  },
+  "ion-ios-thunderstorm-outline": {
+    "body": "<${1:i} className=\"ion-ios-thunderstorm-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-thunderstorm-outline"
+  },
+  "ion-ios-time": {
+    "body": "<${1:i} className=\"ion-ios-time$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-time"
+  },
+  "ion-ios-time-outline": {
+    "body": "<${1:i} className=\"ion-ios-time-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-time-outline"
+  },
+  "ion-ios-timer": {
+    "body": "<${1:i} className=\"ion-ios-timer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-timer"
+  },
+  "ion-ios-timer-outline": {
+    "body": "<${1:i} className=\"ion-ios-timer-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-timer-outline"
+  },
+  "ion-ios-toggle": {
+    "body": "<${1:i} className=\"ion-ios-toggle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-toggle"
+  },
+  "ion-ios-toggle-outline": {
+    "body": "<${1:i} className=\"ion-ios-toggle-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-toggle-outline"
+  },
+  "ion-ios-trash": {
+    "body": "<${1:i} className=\"ion-ios-trash$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-trash"
+  },
+  "ion-ios-trash-outline": {
+    "body": "<${1:i} className=\"ion-ios-trash-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-trash-outline"
+  },
+  "ion-ios-undo": {
+    "body": "<${1:i} className=\"ion-ios-undo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-undo"
+  },
+  "ion-ios-undo-outline": {
+    "body": "<${1:i} className=\"ion-ios-undo-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-undo-outline"
+  },
+  "ion-ios-unlocked": {
+    "body": "<${1:i} className=\"ion-ios-unlocked$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-unlocked"
+  },
+  "ion-ios-unlocked-outline": {
+    "body": "<${1:i} className=\"ion-ios-unlocked-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-unlocked-outline"
+  },
+  "ion-ios-upload": {
+    "body": "<${1:i} className=\"ion-ios-upload$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-upload"
+  },
+  "ion-ios-upload-outline": {
+    "body": "<${1:i} className=\"ion-ios-upload-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-upload-outline"
+  },
+  "ion-ios-videocam": {
+    "body": "<${1:i} className=\"ion-ios-videocam$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-videocam"
+  },
+  "ion-ios-videocam-outline": {
+    "body": "<${1:i} className=\"ion-ios-videocam-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-videocam-outline"
+  },
+  "ion-ios-volume-high": {
+    "body": "<${1:i} className=\"ion-ios-volume-high$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-volume-high"
+  },
+  "ion-ios-volume-low": {
+    "body": "<${1:i} className=\"ion-ios-volume-low$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-volume-low"
+  },
+  "ion-ios-wineglass": {
+    "body": "<${1:i} className=\"ion-ios-wineglass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-wineglass"
+  },
+  "ion-ios-wineglass-outline": {
+    "body": "<${1:i} className=\"ion-ios-wineglass-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-wineglass-outline"
+  },
+  "ion-ios-world": {
+    "body": "<${1:i} className=\"ion-ios-world$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-world"
+  },
+  "ion-ios-world-outline": {
+    "body": "<${1:i} className=\"ion-ios-world-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ios-world-outline"
+  },
+  "ion-ipad": {
+    "body": "<${1:i} className=\"ion-ipad$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ipad"
+  },
+  "ion-iphone": {
+    "body": "<${1:i} className=\"ion-iphone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-iphone"
+  },
+  "ion-ipod": {
+    "body": "<${1:i} className=\"ion-ipod$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ipod"
+  },
+  "ion-jet": {
+    "body": "<${1:i} className=\"ion-jet$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-jet"
+  },
+  "ion-key": {
+    "body": "<${1:i} className=\"ion-key$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-key"
+  },
+  "ion-knife": {
+    "body": "<${1:i} className=\"ion-knife$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-knife"
+  },
+  "ion-laptop": {
+    "body": "<${1:i} className=\"ion-laptop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-laptop"
+  },
+  "ion-leaf": {
+    "body": "<${1:i} className=\"ion-leaf$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-leaf"
+  },
+  "ion-levels": {
+    "body": "<${1:i} className=\"ion-levels$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-levels"
+  },
+  "ion-lightbulb": {
+    "body": "<${1:i} className=\"ion-lightbulb$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-lightbulb"
+  },
+  "ion-link": {
+    "body": "<${1:i} className=\"ion-link$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-link"
+  },
+  "ion-load-a": {
+    "body": "<${1:i} className=\"ion-load-a$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-load-a"
+  },
+  "ion-load-b": {
+    "body": "<${1:i} className=\"ion-load-b$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-load-b"
+  },
+  "ion-load-c": {
+    "body": "<${1:i} className=\"ion-load-c$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-load-c"
+  },
+  "ion-load-d": {
+    "body": "<${1:i} className=\"ion-load-d$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-load-d"
+  },
+  "ion-location": {
+    "body": "<${1:i} className=\"ion-location$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-location"
+  },
+  "ion-lock-combination": {
+    "body": "<${1:i} className=\"ion-lock-combination$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-lock-combination"
+  },
+  "ion-locked": {
+    "body": "<${1:i} className=\"ion-locked$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-locked"
+  },
+  "ion-log-in": {
+    "body": "<${1:i} className=\"ion-log-in$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-log-in"
+  },
+  "ion-log-out": {
+    "body": "<${1:i} className=\"ion-log-out$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-log-out"
+  },
+  "ion-loop": {
+    "body": "<${1:i} className=\"ion-loop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-loop"
+  },
+  "ion-magnet": {
+    "body": "<${1:i} className=\"ion-magnet$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-magnet"
+  },
+  "ion-male": {
+    "body": "<${1:i} className=\"ion-male$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-male"
+  },
+  "ion-man": {
+    "body": "<${1:i} className=\"ion-man$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-man"
+  },
+  "ion-map": {
+    "body": "<${1:i} className=\"ion-map$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-map"
+  },
+  "ion-medkit": {
+    "body": "<${1:i} className=\"ion-medkit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-medkit"
+  },
+  "ion-merge": {
+    "body": "<${1:i} className=\"ion-merge$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-merge"
+  },
+  "ion-mic-a": {
+    "body": "<${1:i} className=\"ion-mic-a$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-mic-a"
+  },
+  "ion-mic-b": {
+    "body": "<${1:i} className=\"ion-mic-b$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-mic-b"
+  },
+  "ion-mic-c": {
+    "body": "<${1:i} className=\"ion-mic-c$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-mic-c"
+  },
+  "ion-minus": {
+    "body": "<${1:i} className=\"ion-minus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-minus"
+  },
+  "ion-minus-circled": {
+    "body": "<${1:i} className=\"ion-minus-circled$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-minus-circled"
+  },
+  "ion-minus-round": {
+    "body": "<${1:i} className=\"ion-minus-round$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-minus-round"
+  },
+  "ion-model-s": {
+    "body": "<${1:i} className=\"ion-model-s$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-model-s"
+  },
+  "ion-monitor": {
+    "body": "<${1:i} className=\"ion-monitor$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-monitor"
+  },
+  "ion-more": {
+    "body": "<${1:i} className=\"ion-more$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-more"
+  },
+  "ion-mouse": {
+    "body": "<${1:i} className=\"ion-mouse$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-mouse"
+  },
+  "ion-music-note": {
+    "body": "<${1:i} className=\"ion-music-note$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-music-note"
+  },
+  "ion-navicon": {
+    "body": "<${1:i} className=\"ion-navicon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-navicon"
+  },
+  "ion-navicon-round": {
+    "body": "<${1:i} className=\"ion-navicon-round$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-navicon-round"
+  },
+  "ion-navigate": {
+    "body": "<${1:i} className=\"ion-navigate$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-navigate"
+  },
+  "ion-network": {
+    "body": "<${1:i} className=\"ion-network$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-network"
+  },
+  "ion-no-smoking": {
+    "body": "<${1:i} className=\"ion-no-smoking$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-no-smoking"
+  },
+  "ion-nuclear": {
+    "body": "<${1:i} className=\"ion-nuclear$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-nuclear"
+  },
+  "ion-outlet": {
+    "body": "<${1:i} className=\"ion-outlet$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-outlet"
+  },
+  "ion-paintbrush": {
+    "body": "<${1:i} className=\"ion-paintbrush$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-paintbrush"
+  },
+  "ion-paintbucket": {
+    "body": "<${1:i} className=\"ion-paintbucket$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-paintbucket"
+  },
+  "ion-paper-airplane": {
+    "body": "<${1:i} className=\"ion-paper-airplane$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-paper-airplane"
+  },
+  "ion-paperclip": {
+    "body": "<${1:i} className=\"ion-paperclip$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-paperclip"
+  },
+  "ion-pause": {
+    "body": "<${1:i} className=\"ion-pause$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-pause"
+  },
+  "ion-person": {
+    "body": "<${1:i} className=\"ion-person$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-person"
+  },
+  "ion-person-add": {
+    "body": "<${1:i} className=\"ion-person-add$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-person-add"
+  },
+  "ion-person-stalker": {
+    "body": "<${1:i} className=\"ion-person-stalker$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-person-stalker"
+  },
+  "ion-pie-graph": {
+    "body": "<${1:i} className=\"ion-pie-graph$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-pie-graph"
+  },
+  "ion-pin": {
+    "body": "<${1:i} className=\"ion-pin$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-pin"
+  },
+  "ion-pinpoint": {
+    "body": "<${1:i} className=\"ion-pinpoint$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-pinpoint"
+  },
+  "ion-pizza": {
+    "body": "<${1:i} className=\"ion-pizza$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-pizza"
+  },
+  "ion-plane": {
+    "body": "<${1:i} className=\"ion-plane$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-plane"
+  },
+  "ion-planet": {
+    "body": "<${1:i} className=\"ion-planet$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-planet"
+  },
+  "ion-play": {
+    "body": "<${1:i} className=\"ion-play$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-play"
+  },
+  "ion-playstation": {
+    "body": "<${1:i} className=\"ion-playstation$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-playstation"
+  },
+  "ion-plus": {
+    "body": "<${1:i} className=\"ion-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-plus"
+  },
+  "ion-plus-circled": {
+    "body": "<${1:i} className=\"ion-plus-circled$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-plus-circled"
+  },
+  "ion-plus-round": {
+    "body": "<${1:i} className=\"ion-plus-round$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-plus-round"
+  },
+  "ion-podium": {
+    "body": "<${1:i} className=\"ion-podium$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-podium"
+  },
+  "ion-pound": {
+    "body": "<${1:i} className=\"ion-pound$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-pound"
+  },
+  "ion-power": {
+    "body": "<${1:i} className=\"ion-power$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-power"
+  },
+  "ion-pricetag": {
+    "body": "<${1:i} className=\"ion-pricetag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-pricetag"
+  },
+  "ion-pricetags": {
+    "body": "<${1:i} className=\"ion-pricetags$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-pricetags"
+  },
+  "ion-printer": {
+    "body": "<${1:i} className=\"ion-printer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-printer"
+  },
+  "ion-pull-request": {
+    "body": "<${1:i} className=\"ion-pull-request$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-pull-request"
+  },
+  "ion-qr-scanner": {
+    "body": "<${1:i} className=\"ion-qr-scanner$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-qr-scanner"
+  },
+  "ion-quote": {
+    "body": "<${1:i} className=\"ion-quote$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-quote"
+  },
+  "ion-radio-waves": {
+    "body": "<${1:i} className=\"ion-radio-waves$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-radio-waves"
+  },
+  "ion-record": {
+    "body": "<${1:i} className=\"ion-record$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-record"
+  },
+  "ion-refresh": {
+    "body": "<${1:i} className=\"ion-refresh$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-refresh"
+  },
+  "ion-reply": {
+    "body": "<${1:i} className=\"ion-reply$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-reply"
+  },
+  "ion-reply-all": {
+    "body": "<${1:i} className=\"ion-reply-all$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-reply-all"
+  },
+  "ion-ribbon-a": {
+    "body": "<${1:i} className=\"ion-ribbon-a$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ribbon-a"
+  },
+  "ion-ribbon-b": {
+    "body": "<${1:i} className=\"ion-ribbon-b$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-ribbon-b"
+  },
+  "ion-sad": {
+    "body": "<${1:i} className=\"ion-sad$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-sad"
+  },
+  "ion-sad-outline": {
+    "body": "<${1:i} className=\"ion-sad-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-sad-outline"
+  },
+  "ion-scissors": {
+    "body": "<${1:i} className=\"ion-scissors$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-scissors"
+  },
+  "ion-search": {
+    "body": "<${1:i} className=\"ion-search$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-search"
+  },
+  "ion-settings": {
+    "body": "<${1:i} className=\"ion-settings$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-settings"
+  },
+  "ion-share": {
+    "body": "<${1:i} className=\"ion-share$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-share"
+  },
+  "ion-shuffle": {
+    "body": "<${1:i} className=\"ion-shuffle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-shuffle"
+  },
+  "ion-skip-backward": {
+    "body": "<${1:i} className=\"ion-skip-backward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-skip-backward"
+  },
+  "ion-skip-forward": {
+    "body": "<${1:i} className=\"ion-skip-forward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-skip-forward"
+  },
+  "ion-social-android": {
+    "body": "<${1:i} className=\"ion-social-android$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-android"
+  },
+  "ion-social-android-outline": {
+    "body": "<${1:i} className=\"ion-social-android-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-android-outline"
+  },
+  "ion-social-angular": {
+    "body": "<${1:i} className=\"ion-social-angular$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-angular"
+  },
+  "ion-social-angular-outline": {
+    "body": "<${1:i} className=\"ion-social-angular-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-angular-outline"
+  },
+  "ion-social-apple": {
+    "body": "<${1:i} className=\"ion-social-apple$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-apple"
+  },
+  "ion-social-apple-outline": {
+    "body": "<${1:i} className=\"ion-social-apple-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-apple-outline"
+  },
+  "ion-social-bitcoin": {
+    "body": "<${1:i} className=\"ion-social-bitcoin$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-bitcoin"
+  },
+  "ion-social-bitcoin-outline": {
+    "body": "<${1:i} className=\"ion-social-bitcoin-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-bitcoin-outline"
+  },
+  "ion-social-buffer": {
+    "body": "<${1:i} className=\"ion-social-buffer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-buffer"
+  },
+  "ion-social-buffer-outline": {
+    "body": "<${1:i} className=\"ion-social-buffer-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-buffer-outline"
+  },
+  "ion-social-chrome": {
+    "body": "<${1:i} className=\"ion-social-chrome$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-chrome"
+  },
+  "ion-social-chrome-outline": {
+    "body": "<${1:i} className=\"ion-social-chrome-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-chrome-outline"
+  },
+  "ion-social-codepen": {
+    "body": "<${1:i} className=\"ion-social-codepen$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-codepen"
+  },
+  "ion-social-codepen-outline": {
+    "body": "<${1:i} className=\"ion-social-codepen-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-codepen-outline"
+  },
+  "ion-social-css3": {
+    "body": "<${1:i} className=\"ion-social-css3$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-css3"
+  },
+  "ion-social-css3-outline": {
+    "body": "<${1:i} className=\"ion-social-css3-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-css3-outline"
+  },
+  "ion-social-designernews": {
+    "body": "<${1:i} className=\"ion-social-designernews$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-designernews"
+  },
+  "ion-social-designernews-outline": {
+    "body": "<${1:i} className=\"ion-social-designernews-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-designernews-outline"
+  },
+  "ion-social-dribbble": {
+    "body": "<${1:i} className=\"ion-social-dribbble$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-dribbble"
+  },
+  "ion-social-dribbble-outline": {
+    "body": "<${1:i} className=\"ion-social-dribbble-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-dribbble-outline"
+  },
+  "ion-social-dropbox": {
+    "body": "<${1:i} className=\"ion-social-dropbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-dropbox"
+  },
+  "ion-social-dropbox-outline": {
+    "body": "<${1:i} className=\"ion-social-dropbox-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-dropbox-outline"
+  },
+  "ion-social-euro": {
+    "body": "<${1:i} className=\"ion-social-euro$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-euro"
+  },
+  "ion-social-euro-outline": {
+    "body": "<${1:i} className=\"ion-social-euro-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-euro-outline"
+  },
+  "ion-social-facebook": {
+    "body": "<${1:i} className=\"ion-social-facebook$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-facebook"
+  },
+  "ion-social-facebook-outline": {
+    "body": "<${1:i} className=\"ion-social-facebook-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-facebook-outline"
+  },
+  "ion-social-foursquare": {
+    "body": "<${1:i} className=\"ion-social-foursquare$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-foursquare"
+  },
+  "ion-social-foursquare-outline": {
+    "body": "<${1:i} className=\"ion-social-foursquare-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-foursquare-outline"
+  },
+  "ion-social-freebsd-devil": {
+    "body": "<${1:i} className=\"ion-social-freebsd-devil$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-freebsd-devil"
+  },
+  "ion-social-github": {
+    "body": "<${1:i} className=\"ion-social-github$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-github"
+  },
+  "ion-social-github-outline": {
+    "body": "<${1:i} className=\"ion-social-github-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-github-outline"
+  },
+  "ion-social-google": {
+    "body": "<${1:i} className=\"ion-social-google$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-google"
+  },
+  "ion-social-google-outline": {
+    "body": "<${1:i} className=\"ion-social-google-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-google-outline"
+  },
+  "ion-social-googleplus": {
+    "body": "<${1:i} className=\"ion-social-googleplus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-googleplus"
+  },
+  "ion-social-googleplus-outline": {
+    "body": "<${1:i} className=\"ion-social-googleplus-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-googleplus-outline"
+  },
+  "ion-social-hackernews": {
+    "body": "<${1:i} className=\"ion-social-hackernews$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-hackernews"
+  },
+  "ion-social-hackernews-outline": {
+    "body": "<${1:i} className=\"ion-social-hackernews-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-hackernews-outline"
+  },
+  "ion-social-html5": {
+    "body": "<${1:i} className=\"ion-social-html5$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-html5"
+  },
+  "ion-social-html5-outline": {
+    "body": "<${1:i} className=\"ion-social-html5-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-html5-outline"
+  },
+  "ion-social-instagram": {
+    "body": "<${1:i} className=\"ion-social-instagram$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-instagram"
+  },
+  "ion-social-instagram-outline": {
+    "body": "<${1:i} className=\"ion-social-instagram-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-instagram-outline"
+  },
+  "ion-social-javascript": {
+    "body": "<${1:i} className=\"ion-social-javascript$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-javascript"
+  },
+  "ion-social-javascript-outline": {
+    "body": "<${1:i} className=\"ion-social-javascript-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-javascript-outline"
+  },
+  "ion-social-linkedin": {
+    "body": "<${1:i} className=\"ion-social-linkedin$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-linkedin"
+  },
+  "ion-social-linkedin-outline": {
+    "body": "<${1:i} className=\"ion-social-linkedin-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-linkedin-outline"
+  },
+  "ion-social-markdown": {
+    "body": "<${1:i} className=\"ion-social-markdown$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-markdown"
+  },
+  "ion-social-nodejs": {
+    "body": "<${1:i} className=\"ion-social-nodejs$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-nodejs"
+  },
+  "ion-social-octocat": {
+    "body": "<${1:i} className=\"ion-social-octocat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-octocat"
+  },
+  "ion-social-pinterest": {
+    "body": "<${1:i} className=\"ion-social-pinterest$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-pinterest"
+  },
+  "ion-social-pinterest-outline": {
+    "body": "<${1:i} className=\"ion-social-pinterest-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-pinterest-outline"
+  },
+  "ion-social-python": {
+    "body": "<${1:i} className=\"ion-social-python$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-python"
+  },
+  "ion-social-reddit": {
+    "body": "<${1:i} className=\"ion-social-reddit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-reddit"
+  },
+  "ion-social-reddit-outline": {
+    "body": "<${1:i} className=\"ion-social-reddit-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-reddit-outline"
+  },
+  "ion-social-rss": {
+    "body": "<${1:i} className=\"ion-social-rss$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-rss"
+  },
+  "ion-social-rss-outline": {
+    "body": "<${1:i} className=\"ion-social-rss-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-rss-outline"
+  },
+  "ion-social-sass": {
+    "body": "<${1:i} className=\"ion-social-sass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-sass"
+  },
+  "ion-social-skype": {
+    "body": "<${1:i} className=\"ion-social-skype$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-skype"
+  },
+  "ion-social-skype-outline": {
+    "body": "<${1:i} className=\"ion-social-skype-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-skype-outline"
+  },
+  "ion-social-snapchat": {
+    "body": "<${1:i} className=\"ion-social-snapchat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-snapchat"
+  },
+  "ion-social-snapchat-outline": {
+    "body": "<${1:i} className=\"ion-social-snapchat-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-snapchat-outline"
+  },
+  "ion-social-tumblr": {
+    "body": "<${1:i} className=\"ion-social-tumblr$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-tumblr"
+  },
+  "ion-social-tumblr-outline": {
+    "body": "<${1:i} className=\"ion-social-tumblr-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-tumblr-outline"
+  },
+  "ion-social-tux": {
+    "body": "<${1:i} className=\"ion-social-tux$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-tux"
+  },
+  "ion-social-twitch": {
+    "body": "<${1:i} className=\"ion-social-twitch$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-twitch"
+  },
+  "ion-social-twitch-outline": {
+    "body": "<${1:i} className=\"ion-social-twitch-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-twitch-outline"
+  },
+  "ion-social-twitter": {
+    "body": "<${1:i} className=\"ion-social-twitter$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-twitter"
+  },
+  "ion-social-twitter-outline": {
+    "body": "<${1:i} className=\"ion-social-twitter-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-twitter-outline"
+  },
+  "ion-social-usd": {
+    "body": "<${1:i} className=\"ion-social-usd$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-usd"
+  },
+  "ion-social-usd-outline": {
+    "body": "<${1:i} className=\"ion-social-usd-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-usd-outline"
+  },
+  "ion-social-vimeo": {
+    "body": "<${1:i} className=\"ion-social-vimeo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-vimeo"
+  },
+  "ion-social-vimeo-outline": {
+    "body": "<${1:i} className=\"ion-social-vimeo-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-vimeo-outline"
+  },
+  "ion-social-whatsapp": {
+    "body": "<${1:i} className=\"ion-social-whatsapp$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-whatsapp"
+  },
+  "ion-social-whatsapp-outline": {
+    "body": "<${1:i} className=\"ion-social-whatsapp-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-whatsapp-outline"
+  },
+  "ion-social-windows": {
+    "body": "<${1:i} className=\"ion-social-windows$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-windows"
+  },
+  "ion-social-windows-outline": {
+    "body": "<${1:i} className=\"ion-social-windows-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-windows-outline"
+  },
+  "ion-social-wordpress": {
+    "body": "<${1:i} className=\"ion-social-wordpress$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-wordpress"
+  },
+  "ion-social-wordpress-outline": {
+    "body": "<${1:i} className=\"ion-social-wordpress-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-wordpress-outline"
+  },
+  "ion-social-yahoo": {
+    "body": "<${1:i} className=\"ion-social-yahoo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-yahoo"
+  },
+  "ion-social-yahoo-outline": {
+    "body": "<${1:i} className=\"ion-social-yahoo-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-yahoo-outline"
+  },
+  "ion-social-yen": {
+    "body": "<${1:i} className=\"ion-social-yen$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-yen"
+  },
+  "ion-social-yen-outline": {
+    "body": "<${1:i} className=\"ion-social-yen-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-yen-outline"
+  },
+  "ion-social-youtube": {
+    "body": "<${1:i} className=\"ion-social-youtube$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-youtube"
+  },
+  "ion-social-youtube-outline": {
+    "body": "<${1:i} className=\"ion-social-youtube-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-social-youtube-outline"
+  },
+  "ion-soup-can": {
+    "body": "<${1:i} className=\"ion-soup-can$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-soup-can"
+  },
+  "ion-soup-can-outline": {
+    "body": "<${1:i} className=\"ion-soup-can-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-soup-can-outline"
+  },
+  "ion-speakerphone": {
+    "body": "<${1:i} className=\"ion-speakerphone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-speakerphone"
+  },
+  "ion-speedometer": {
+    "body": "<${1:i} className=\"ion-speedometer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-speedometer"
+  },
+  "ion-spoon": {
+    "body": "<${1:i} className=\"ion-spoon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-spoon"
+  },
+  "ion-star": {
+    "body": "<${1:i} className=\"ion-star$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-star"
+  },
+  "ion-stats-bars": {
+    "body": "<${1:i} className=\"ion-stats-bars$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-stats-bars"
+  },
+  "ion-steam": {
+    "body": "<${1:i} className=\"ion-steam$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-steam"
+  },
+  "ion-stop": {
+    "body": "<${1:i} className=\"ion-stop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-stop"
+  },
+  "ion-thermometer": {
+    "body": "<${1:i} className=\"ion-thermometer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-thermometer"
+  },
+  "ion-thumbsdown": {
+    "body": "<${1:i} className=\"ion-thumbsdown$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-thumbsdown"
+  },
+  "ion-thumbsup": {
+    "body": "<${1:i} className=\"ion-thumbsup$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-thumbsup"
+  },
+  "ion-toggle": {
+    "body": "<${1:i} className=\"ion-toggle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-toggle"
+  },
+  "ion-toggle-filled": {
+    "body": "<${1:i} className=\"ion-toggle-filled$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-toggle-filled"
+  },
+  "ion-transgender": {
+    "body": "<${1:i} className=\"ion-transgender$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-transgender"
+  },
+  "ion-trash-a": {
+    "body": "<${1:i} className=\"ion-trash-a$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-trash-a"
+  },
+  "ion-trash-b": {
+    "body": "<${1:i} className=\"ion-trash-b$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-trash-b"
+  },
+  "ion-trophy": {
+    "body": "<${1:i} className=\"ion-trophy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-trophy"
+  },
+  "ion-tshirt": {
+    "body": "<${1:i} className=\"ion-tshirt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-tshirt"
+  },
+  "ion-tshirt-outline": {
+    "body": "<${1:i} className=\"ion-tshirt-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-tshirt-outline"
+  },
+  "ion-umbrella": {
+    "body": "<${1:i} className=\"ion-umbrella$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-umbrella"
+  },
+  "ion-university": {
+    "body": "<${1:i} className=\"ion-university$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-university"
+  },
+  "ion-unlocked": {
+    "body": "<${1:i} className=\"ion-unlocked$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-unlocked"
+  },
+  "ion-upload": {
+    "body": "<${1:i} className=\"ion-upload$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-upload"
+  },
+  "ion-usb": {
+    "body": "<${1:i} className=\"ion-usb$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-usb"
+  },
+  "ion-videocamera": {
+    "body": "<${1:i} className=\"ion-videocamera$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-videocamera"
+  },
+  "ion-volume-high": {
+    "body": "<${1:i} className=\"ion-volume-high$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-volume-high"
+  },
+  "ion-volume-low": {
+    "body": "<${1:i} className=\"ion-volume-low$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-volume-low"
+  },
+  "ion-volume-medium": {
+    "body": "<${1:i} className=\"ion-volume-medium$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-volume-medium"
+  },
+  "ion-volume-mute": {
+    "body": "<${1:i} className=\"ion-volume-mute$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-volume-mute"
+  },
+  "ion-wand": {
+    "body": "<${1:i} className=\"ion-wand$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-wand"
+  },
+  "ion-waterdrop": {
+    "body": "<${1:i} className=\"ion-waterdrop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-waterdrop"
+  },
+  "ion-wifi": {
+    "body": "<${1:i} className=\"ion-wifi$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-wifi"
+  },
+  "ion-wineglass": {
+    "body": "<${1:i} className=\"ion-wineglass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-wineglass"
+  },
+  "ion-woman": {
+    "body": "<${1:i} className=\"ion-woman$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-woman"
+  },
+  "ion-wrench": {
+    "body": "<${1:i} className=\"ion-wrench$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-wrench"
+  },
+  "ion-xbox": {
+    "body": "<${1:i} className=\"ion-xbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ion-xbox"
+  }
+}

@@ -1,0 +1,4087 @@
+{
+  "zmdi-3d-rotation": {
+    "body": "<${1:i} className=\"zmdi zmdi-3d-rotation$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-3d-rotation"
+  },
+  "zmdi-500px": {
+    "body": "<${1:i} className=\"zmdi zmdi-500px$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-500px"
+  },
+  "zmdi-8tracks": {
+    "body": "<${1:i} className=\"zmdi zmdi-8tracks$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-8tracks"
+  },
+  "zmdi-account-add": {
+    "body": "<${1:i} className=\"zmdi zmdi-account-add$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-account-add"
+  },
+  "zmdi-account-box-mail": {
+    "body": "<${1:i} className=\"zmdi zmdi-account-box-mail$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-account-box-mail"
+  },
+  "zmdi-account-box-o": {
+    "body": "<${1:i} className=\"zmdi zmdi-account-box-o$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-account-box-o"
+  },
+  "zmdi-account-box-phone": {
+    "body": "<${1:i} className=\"zmdi zmdi-account-box-phone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-account-box-phone"
+  },
+  "zmdi-account-box": {
+    "body": "<${1:i} className=\"zmdi zmdi-account-box$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-account-box"
+  },
+  "zmdi-account-calendar": {
+    "body": "<${1:i} className=\"zmdi zmdi-account-calendar$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-account-calendar"
+  },
+  "zmdi-account-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-account-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-account-circle"
+  },
+  "zmdi-account-o": {
+    "body": "<${1:i} className=\"zmdi zmdi-account-o$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-account-o"
+  },
+  "zmdi-account": {
+    "body": "<${1:i} className=\"zmdi zmdi-account$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-account"
+  },
+  "zmdi-accounts-add": {
+    "body": "<${1:i} className=\"zmdi zmdi-accounts-add$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-accounts-add"
+  },
+  "zmdi-accounts-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-accounts-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-accounts-alt"
+  },
+  "zmdi-accounts-list-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-accounts-list-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-accounts-list-alt"
+  },
+  "zmdi-accounts-list": {
+    "body": "<${1:i} className=\"zmdi zmdi-accounts-list$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-accounts-list"
+  },
+  "zmdi-accounts-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-accounts-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-accounts-outline"
+  },
+  "zmdi-accounts": {
+    "body": "<${1:i} className=\"zmdi zmdi-accounts$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-accounts"
+  },
+  "zmdi-airline-seat-flat-angled": {
+    "body": "<${1:i} className=\"zmdi zmdi-airline-seat-flat-angled$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-airline-seat-flat-angled"
+  },
+  "zmdi-airline-seat-flat": {
+    "body": "<${1:i} className=\"zmdi zmdi-airline-seat-flat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-airline-seat-flat"
+  },
+  "zmdi-airline-seat-individual-suite": {
+    "body": "<${1:i} className=\"zmdi zmdi-airline-seat-individual-suite$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-airline-seat-individual-suite"
+  },
+  "zmdi-airline-seat-legroom-extra": {
+    "body": "<${1:i} className=\"zmdi zmdi-airline-seat-legroom-extra$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-airline-seat-legroom-extra"
+  },
+  "zmdi-airline-seat-legroom-normal": {
+    "body": "<${1:i} className=\"zmdi zmdi-airline-seat-legroom-normal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-airline-seat-legroom-normal"
+  },
+  "zmdi-airline-seat-legroom-reduced": {
+    "body": "<${1:i} className=\"zmdi zmdi-airline-seat-legroom-reduced$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-airline-seat-legroom-reduced"
+  },
+  "zmdi-airline-seat-recline-extra": {
+    "body": "<${1:i} className=\"zmdi zmdi-airline-seat-recline-extra$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-airline-seat-recline-extra"
+  },
+  "zmdi-airline-seat-recline-normal": {
+    "body": "<${1:i} className=\"zmdi zmdi-airline-seat-recline-normal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-airline-seat-recline-normal"
+  },
+  "zmdi-airplane-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-airplane-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-airplane-off"
+  },
+  "zmdi-airplane": {
+    "body": "<${1:i} className=\"zmdi zmdi-airplane$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-airplane"
+  },
+  "zmdi-airplay": {
+    "body": "<${1:i} className=\"zmdi zmdi-airplay$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-airplay"
+  },
+  "zmdi-alarm-check": {
+    "body": "<${1:i} className=\"zmdi zmdi-alarm-check$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-alarm-check"
+  },
+  "zmdi-alarm-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-alarm-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-alarm-off"
+  },
+  "zmdi-alarm-plus": {
+    "body": "<${1:i} className=\"zmdi zmdi-alarm-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-alarm-plus"
+  },
+  "zmdi-alarm-snooze": {
+    "body": "<${1:i} className=\"zmdi zmdi-alarm-snooze$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-alarm-snooze"
+  },
+  "zmdi-alarm": {
+    "body": "<${1:i} className=\"zmdi zmdi-alarm$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-alarm"
+  },
+  "zmdi-album": {
+    "body": "<${1:i} className=\"zmdi zmdi-album$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-album"
+  },
+  "zmdi-alert-circle-o": {
+    "body": "<${1:i} className=\"zmdi zmdi-alert-circle-o$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-alert-circle-o"
+  },
+  "zmdi-alert-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-alert-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-alert-circle"
+  },
+  "zmdi-alert-octagon": {
+    "body": "<${1:i} className=\"zmdi zmdi-alert-octagon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-alert-octagon"
+  },
+  "zmdi-alert-polygon": {
+    "body": "<${1:i} className=\"zmdi zmdi-alert-polygon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-alert-polygon"
+  },
+  "zmdi-alert-triangle": {
+    "body": "<${1:i} className=\"zmdi zmdi-alert-triangle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-alert-triangle"
+  },
+  "zmdi-amazon": {
+    "body": "<${1:i} className=\"zmdi zmdi-amazon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-amazon"
+  },
+  "zmdi-android-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-android-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-android-alt"
+  },
+  "zmdi-android": {
+    "body": "<${1:i} className=\"zmdi zmdi-android$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-android"
+  },
+  "zmdi-apple": {
+    "body": "<${1:i} className=\"zmdi zmdi-apple$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-apple"
+  },
+  "zmdi-apps": {
+    "body": "<${1:i} className=\"zmdi zmdi-apps$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-apps"
+  },
+  "zmdi-archive": {
+    "body": "<${1:i} className=\"zmdi zmdi-archive$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-archive"
+  },
+  "zmdi-arrow-left-bottom": {
+    "body": "<${1:i} className=\"zmdi zmdi-arrow-left-bottom$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-arrow-left-bottom"
+  },
+  "zmdi-arrow-left": {
+    "body": "<${1:i} className=\"zmdi zmdi-arrow-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-arrow-left"
+  },
+  "zmdi-arrow-merge": {
+    "body": "<${1:i} className=\"zmdi zmdi-arrow-merge$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-arrow-merge"
+  },
+  "zmdi-arrow-missed": {
+    "body": "<${1:i} className=\"zmdi zmdi-arrow-missed$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-arrow-missed"
+  },
+  "zmdi-arrow-right-top": {
+    "body": "<${1:i} className=\"zmdi zmdi-arrow-right-top$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-arrow-right-top"
+  },
+  "zmdi-arrow-right": {
+    "body": "<${1:i} className=\"zmdi zmdi-arrow-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-arrow-right"
+  },
+  "zmdi-arrow-split": {
+    "body": "<${1:i} className=\"zmdi zmdi-arrow-split$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-arrow-split"
+  },
+  "zmdi-arrows": {
+    "body": "<${1:i} className=\"zmdi zmdi-arrows$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-arrows"
+  },
+  "zmdi-aspect-ratio-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-aspect-ratio-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-aspect-ratio-alt"
+  },
+  "zmdi-aspect-ratio": {
+    "body": "<${1:i} className=\"zmdi zmdi-aspect-ratio$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-aspect-ratio"
+  },
+  "zmdi-assignment-account": {
+    "body": "<${1:i} className=\"zmdi zmdi-assignment-account$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-assignment-account"
+  },
+  "zmdi-assignment-alert": {
+    "body": "<${1:i} className=\"zmdi zmdi-assignment-alert$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-assignment-alert"
+  },
+  "zmdi-assignment-check": {
+    "body": "<${1:i} className=\"zmdi zmdi-assignment-check$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-assignment-check"
+  },
+  "zmdi-assignment-o": {
+    "body": "<${1:i} className=\"zmdi zmdi-assignment-o$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-assignment-o"
+  },
+  "zmdi-assignment-return": {
+    "body": "<${1:i} className=\"zmdi zmdi-assignment-return$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-assignment-return"
+  },
+  "zmdi-assignment-returned": {
+    "body": "<${1:i} className=\"zmdi zmdi-assignment-returned$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-assignment-returned"
+  },
+  "zmdi-assignment": {
+    "body": "<${1:i} className=\"zmdi zmdi-assignment$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-assignment"
+  },
+  "zmdi-attachment-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-attachment-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-attachment-alt"
+  },
+  "zmdi-attachment": {
+    "body": "<${1:i} className=\"zmdi zmdi-attachment$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-attachment"
+  },
+  "zmdi-audio": {
+    "body": "<${1:i} className=\"zmdi zmdi-audio$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-audio"
+  },
+  "zmdi-badge-check": {
+    "body": "<${1:i} className=\"zmdi zmdi-badge-check$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-badge-check"
+  },
+  "zmdi-balance-wallet": {
+    "body": "<${1:i} className=\"zmdi zmdi-balance-wallet$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-balance-wallet"
+  },
+  "zmdi-balance": {
+    "body": "<${1:i} className=\"zmdi zmdi-balance$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-balance"
+  },
+  "zmdi-battery-alert": {
+    "body": "<${1:i} className=\"zmdi zmdi-battery-alert$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-battery-alert"
+  },
+  "zmdi-battery-flash": {
+    "body": "<${1:i} className=\"zmdi zmdi-battery-flash$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-battery-flash"
+  },
+  "zmdi-battery-unknown": {
+    "body": "<${1:i} className=\"zmdi zmdi-battery-unknown$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-battery-unknown"
+  },
+  "zmdi-battery": {
+    "body": "<${1:i} className=\"zmdi zmdi-battery$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-battery"
+  },
+  "zmdi-behance": {
+    "body": "<${1:i} className=\"zmdi zmdi-behance$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-behance"
+  },
+  "zmdi-bike": {
+    "body": "<${1:i} className=\"zmdi zmdi-bike$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-bike"
+  },
+  "zmdi-block-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-block-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-block-alt"
+  },
+  "zmdi-block": {
+    "body": "<${1:i} className=\"zmdi zmdi-block$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-block"
+  },
+  "zmdi-blogger": {
+    "body": "<${1:i} className=\"zmdi zmdi-blogger$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-blogger"
+  },
+  "zmdi-bluetooth-connected": {
+    "body": "<${1:i} className=\"zmdi zmdi-bluetooth-connected$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-bluetooth-connected"
+  },
+  "zmdi-bluetooth-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-bluetooth-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-bluetooth-off"
+  },
+  "zmdi-bluetooth-search": {
+    "body": "<${1:i} className=\"zmdi zmdi-bluetooth-search$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-bluetooth-search"
+  },
+  "zmdi-bluetooth-setting": {
+    "body": "<${1:i} className=\"zmdi zmdi-bluetooth-setting$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-bluetooth-setting"
+  },
+  "zmdi-bluetooth": {
+    "body": "<${1:i} className=\"zmdi zmdi-bluetooth$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-bluetooth"
+  },
+  "zmdi-blur-circular": {
+    "body": "<${1:i} className=\"zmdi zmdi-blur-circular$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-blur-circular"
+  },
+  "zmdi-blur-linear": {
+    "body": "<${1:i} className=\"zmdi zmdi-blur-linear$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-blur-linear"
+  },
+  "zmdi-blur-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-blur-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-blur-off"
+  },
+  "zmdi-blur": {
+    "body": "<${1:i} className=\"zmdi zmdi-blur$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-blur"
+  },
+  "zmdi-boat": {
+    "body": "<${1:i} className=\"zmdi zmdi-boat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-boat"
+  },
+  "zmdi-book-image": {
+    "body": "<${1:i} className=\"zmdi zmdi-book-image$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-book-image"
+  },
+  "zmdi-book": {
+    "body": "<${1:i} className=\"zmdi zmdi-book$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-book"
+  },
+  "zmdi-bookmark-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-bookmark-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-bookmark-outline"
+  },
+  "zmdi-bookmark": {
+    "body": "<${1:i} className=\"zmdi zmdi-bookmark$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-bookmark"
+  },
+  "zmdi-border-all": {
+    "body": "<${1:i} className=\"zmdi zmdi-border-all$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-border-all"
+  },
+  "zmdi-border-bottom": {
+    "body": "<${1:i} className=\"zmdi zmdi-border-bottom$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-border-bottom"
+  },
+  "zmdi-border-clear": {
+    "body": "<${1:i} className=\"zmdi zmdi-border-clear$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-border-clear"
+  },
+  "zmdi-border-color": {
+    "body": "<${1:i} className=\"zmdi zmdi-border-color$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-border-color"
+  },
+  "zmdi-border-horizontal": {
+    "body": "<${1:i} className=\"zmdi zmdi-border-horizontal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-border-horizontal"
+  },
+  "zmdi-border-inner": {
+    "body": "<${1:i} className=\"zmdi zmdi-border-inner$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-border-inner"
+  },
+  "zmdi-border-left": {
+    "body": "<${1:i} className=\"zmdi zmdi-border-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-border-left"
+  },
+  "zmdi-border-outer": {
+    "body": "<${1:i} className=\"zmdi zmdi-border-outer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-border-outer"
+  },
+  "zmdi-border-right": {
+    "body": "<${1:i} className=\"zmdi zmdi-border-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-border-right"
+  },
+  "zmdi-border-style": {
+    "body": "<${1:i} className=\"zmdi zmdi-border-style$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-border-style"
+  },
+  "zmdi-border-top": {
+    "body": "<${1:i} className=\"zmdi zmdi-border-top$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-border-top"
+  },
+  "zmdi-border-vertical": {
+    "body": "<${1:i} className=\"zmdi zmdi-border-vertical$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-border-vertical"
+  },
+  "zmdi-brightness-2": {
+    "body": "<${1:i} className=\"zmdi zmdi-brightness-2$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-brightness-2"
+  },
+  "zmdi-brightness-3": {
+    "body": "<${1:i} className=\"zmdi zmdi-brightness-3$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-brightness-3"
+  },
+  "zmdi-brightness-4": {
+    "body": "<${1:i} className=\"zmdi zmdi-brightness-4$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-brightness-4"
+  },
+  "zmdi-brightness-5": {
+    "body": "<${1:i} className=\"zmdi zmdi-brightness-5$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-brightness-5"
+  },
+  "zmdi-brightness-6": {
+    "body": "<${1:i} className=\"zmdi zmdi-brightness-6$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-brightness-6"
+  },
+  "zmdi-brightness-7": {
+    "body": "<${1:i} className=\"zmdi zmdi-brightness-7$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-brightness-7"
+  },
+  "zmdi-brightness-auto": {
+    "body": "<${1:i} className=\"zmdi zmdi-brightness-auto$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-brightness-auto"
+  },
+  "zmdi-brightness-setting": {
+    "body": "<${1:i} className=\"zmdi zmdi-brightness-setting$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-brightness-setting"
+  },
+  "zmdi-broken-image": {
+    "body": "<${1:i} className=\"zmdi zmdi-broken-image$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-broken-image"
+  },
+  "zmdi-brush": {
+    "body": "<${1:i} className=\"zmdi zmdi-brush$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-brush"
+  },
+  "zmdi-bug": {
+    "body": "<${1:i} className=\"zmdi zmdi-bug$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-bug"
+  },
+  "zmdi-bus": {
+    "body": "<${1:i} className=\"zmdi zmdi-bus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-bus"
+  },
+  "zmdi-cake": {
+    "body": "<${1:i} className=\"zmdi zmdi-cake$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cake"
+  },
+  "zmdi-calendar-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-calendar-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-calendar-alt"
+  },
+  "zmdi-calendar-check": {
+    "body": "<${1:i} className=\"zmdi zmdi-calendar-check$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-calendar-check"
+  },
+  "zmdi-calendar-close": {
+    "body": "<${1:i} className=\"zmdi zmdi-calendar-close$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-calendar-close"
+  },
+  "zmdi-calendar-note": {
+    "body": "<${1:i} className=\"zmdi zmdi-calendar-note$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-calendar-note"
+  },
+  "zmdi-calendar": {
+    "body": "<${1:i} className=\"zmdi zmdi-calendar$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-calendar"
+  },
+  "zmdi-camera-add": {
+    "body": "<${1:i} className=\"zmdi zmdi-camera-add$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-camera-add"
+  },
+  "zmdi-camera-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-camera-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-camera-alt"
+  },
+  "zmdi-camera-bw": {
+    "body": "<${1:i} className=\"zmdi zmdi-camera-bw$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-camera-bw"
+  },
+  "zmdi-camera-front": {
+    "body": "<${1:i} className=\"zmdi zmdi-camera-front$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-camera-front"
+  },
+  "zmdi-camera-mic": {
+    "body": "<${1:i} className=\"zmdi zmdi-camera-mic$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-camera-mic"
+  },
+  "zmdi-camera-party-mode": {
+    "body": "<${1:i} className=\"zmdi zmdi-camera-party-mode$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-camera-party-mode"
+  },
+  "zmdi-camera-rear": {
+    "body": "<${1:i} className=\"zmdi zmdi-camera-rear$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-camera-rear"
+  },
+  "zmdi-camera-roll": {
+    "body": "<${1:i} className=\"zmdi zmdi-camera-roll$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-camera-roll"
+  },
+  "zmdi-camera-switch": {
+    "body": "<${1:i} className=\"zmdi zmdi-camera-switch$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-camera-switch"
+  },
+  "zmdi-camera": {
+    "body": "<${1:i} className=\"zmdi zmdi-camera$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-camera"
+  },
+  "zmdi-car-taxi": {
+    "body": "<${1:i} className=\"zmdi zmdi-car-taxi$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-car-taxi"
+  },
+  "zmdi-car-wash": {
+    "body": "<${1:i} className=\"zmdi zmdi-car-wash$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-car-wash"
+  },
+  "zmdi-car": {
+    "body": "<${1:i} className=\"zmdi zmdi-car$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-car"
+  },
+  "zmdi-card-alert": {
+    "body": "<${1:i} className=\"zmdi zmdi-card-alert$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-card-alert"
+  },
+  "zmdi-card-giftcard": {
+    "body": "<${1:i} className=\"zmdi zmdi-card-giftcard$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-card-giftcard"
+  },
+  "zmdi-card-membership": {
+    "body": "<${1:i} className=\"zmdi zmdi-card-membership$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-card-membership"
+  },
+  "zmdi-card-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-card-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-card-off"
+  },
+  "zmdi-card-sd": {
+    "body": "<${1:i} className=\"zmdi zmdi-card-sd$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-card-sd"
+  },
+  "zmdi-card-sim": {
+    "body": "<${1:i} className=\"zmdi zmdi-card-sim$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-card-sim"
+  },
+  "zmdi-card-travel": {
+    "body": "<${1:i} className=\"zmdi zmdi-card-travel$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-card-travel"
+  },
+  "zmdi-card": {
+    "body": "<${1:i} className=\"zmdi zmdi-card$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-card"
+  },
+  "zmdi-caret-down-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-caret-down-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-caret-down-circle"
+  },
+  "zmdi-caret-down": {
+    "body": "<${1:i} className=\"zmdi zmdi-caret-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-caret-down"
+  },
+  "zmdi-caret-left-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-caret-left-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-caret-left-circle"
+  },
+  "zmdi-caret-left": {
+    "body": "<${1:i} className=\"zmdi zmdi-caret-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-caret-left"
+  },
+  "zmdi-caret-right-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-caret-right-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-caret-right-circle"
+  },
+  "zmdi-caret-right": {
+    "body": "<${1:i} className=\"zmdi zmdi-caret-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-caret-right"
+  },
+  "zmdi-caret-up-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-caret-up-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-caret-up-circle"
+  },
+  "zmdi-caret-up": {
+    "body": "<${1:i} className=\"zmdi zmdi-caret-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-caret-up"
+  },
+  "zmdi-case-check": {
+    "body": "<${1:i} className=\"zmdi zmdi-case-check$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-case-check"
+  },
+  "zmdi-case-download": {
+    "body": "<${1:i} className=\"zmdi zmdi-case-download$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-case-download"
+  },
+  "zmdi-case-play": {
+    "body": "<${1:i} className=\"zmdi zmdi-case-play$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-case-play"
+  },
+  "zmdi-case": {
+    "body": "<${1:i} className=\"zmdi zmdi-case$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-case"
+  },
+  "zmdi-cast-connected": {
+    "body": "<${1:i} className=\"zmdi zmdi-cast-connected$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cast-connected"
+  },
+  "zmdi-cast": {
+    "body": "<${1:i} className=\"zmdi zmdi-cast$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cast"
+  },
+  "zmdi-center-focus-strong": {
+    "body": "<${1:i} className=\"zmdi zmdi-center-focus-strong$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-center-focus-strong"
+  },
+  "zmdi-center-focus-weak": {
+    "body": "<${1:i} className=\"zmdi zmdi-center-focus-weak$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-center-focus-weak"
+  },
+  "zmdi-chart-donut": {
+    "body": "<${1:i} className=\"zmdi zmdi-chart-donut$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-chart-donut"
+  },
+  "zmdi-chart": {
+    "body": "<${1:i} className=\"zmdi zmdi-chart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-chart"
+  },
+  "zmdi-check-all": {
+    "body": "<${1:i} className=\"zmdi zmdi-check-all$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-check-all"
+  },
+  "zmdi-check-circle-u": {
+    "body": "<${1:i} className=\"zmdi zmdi-check-circle-u$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-check-circle-u"
+  },
+  "zmdi-check-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-check-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-check-circle"
+  },
+  "zmdi-check-square": {
+    "body": "<${1:i} className=\"zmdi zmdi-check-square$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-check-square"
+  },
+  "zmdi-check": {
+    "body": "<${1:i} className=\"zmdi zmdi-check$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-check"
+  },
+  "zmdi-chevron-down": {
+    "body": "<${1:i} className=\"zmdi zmdi-chevron-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-chevron-down"
+  },
+  "zmdi-chevron-left": {
+    "body": "<${1:i} className=\"zmdi zmdi-chevron-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-chevron-left"
+  },
+  "zmdi-chevron-right": {
+    "body": "<${1:i} className=\"zmdi zmdi-chevron-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-chevron-right"
+  },
+  "zmdi-chevron-up": {
+    "body": "<${1:i} className=\"zmdi zmdi-chevron-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-chevron-up"
+  },
+  "zmdi-circle-o": {
+    "body": "<${1:i} className=\"zmdi zmdi-circle-o$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-circle-o"
+  },
+  "zmdi-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-circle"
+  },
+  "zmdi-city-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-city-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-city-alt"
+  },
+  "zmdi-city": {
+    "body": "<${1:i} className=\"zmdi zmdi-city$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-city"
+  },
+  "zmdi-close-circle-o": {
+    "body": "<${1:i} className=\"zmdi zmdi-close-circle-o$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-close-circle-o"
+  },
+  "zmdi-close-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-close-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-close-circle"
+  },
+  "zmdi-close": {
+    "body": "<${1:i} className=\"zmdi zmdi-close$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-close"
+  },
+  "zmdi-closed-caption": {
+    "body": "<${1:i} className=\"zmdi zmdi-closed-caption$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-closed-caption"
+  },
+  "zmdi-cloud-box": {
+    "body": "<${1:i} className=\"zmdi zmdi-cloud-box$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cloud-box"
+  },
+  "zmdi-cloud-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-cloud-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cloud-circle"
+  },
+  "zmdi-cloud-done": {
+    "body": "<${1:i} className=\"zmdi zmdi-cloud-done$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cloud-done"
+  },
+  "zmdi-cloud-download": {
+    "body": "<${1:i} className=\"zmdi zmdi-cloud-download$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cloud-download"
+  },
+  "zmdi-cloud-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-cloud-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cloud-off"
+  },
+  "zmdi-cloud-outline-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-cloud-outline-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cloud-outline-alt"
+  },
+  "zmdi-cloud-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-cloud-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cloud-outline"
+  },
+  "zmdi-cloud-upload": {
+    "body": "<${1:i} className=\"zmdi zmdi-cloud-upload$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cloud-upload"
+  },
+  "zmdi-cloud": {
+    "body": "<${1:i} className=\"zmdi zmdi-cloud$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cloud"
+  },
+  "zmdi-cocktail": {
+    "body": "<${1:i} className=\"zmdi zmdi-cocktail$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cocktail"
+  },
+  "zmdi-code-setting": {
+    "body": "<${1:i} className=\"zmdi zmdi-code-setting$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-code-setting"
+  },
+  "zmdi-code-smartphone": {
+    "body": "<${1:i} className=\"zmdi zmdi-code-smartphone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-code-smartphone"
+  },
+  "zmdi-code": {
+    "body": "<${1:i} className=\"zmdi zmdi-code$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-code"
+  },
+  "zmdi-codepen": {
+    "body": "<${1:i} className=\"zmdi zmdi-codepen$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-codepen"
+  },
+  "zmdi-coffee": {
+    "body": "<${1:i} className=\"zmdi zmdi-coffee$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-coffee"
+  },
+  "zmdi-collection-bookmark": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-bookmark$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-bookmark"
+  },
+  "zmdi-collection-case-play": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-case-play$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-case-play"
+  },
+  "zmdi-collection-folder-image": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-folder-image$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-folder-image"
+  },
+  "zmdi-collection-image-o": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-image-o$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-image-o"
+  },
+  "zmdi-collection-image": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-image$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-image"
+  },
+  "zmdi-collection-item-1": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-item-1$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-item-1"
+  },
+  "zmdi-collection-item-2": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-item-2$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-item-2"
+  },
+  "zmdi-collection-item-3": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-item-3$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-item-3"
+  },
+  "zmdi-collection-item-4": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-item-4$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-item-4"
+  },
+  "zmdi-collection-item-5": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-item-5$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-item-5"
+  },
+  "zmdi-collection-item-6": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-item-6$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-item-6"
+  },
+  "zmdi-collection-item-7": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-item-7$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-item-7"
+  },
+  "zmdi-collection-item-8": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-item-8$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-item-8"
+  },
+  "zmdi-collection-item-9-plus": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-item-9-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-item-9-plus"
+  },
+  "zmdi-collection-item-9": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-item-9$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-item-9"
+  },
+  "zmdi-collection-item": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-item$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-item"
+  },
+  "zmdi-collection-music": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-music$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-music"
+  },
+  "zmdi-collection-pdf": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-pdf$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-pdf"
+  },
+  "zmdi-collection-plus": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-plus"
+  },
+  "zmdi-collection-speaker": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-speaker$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-speaker"
+  },
+  "zmdi-collection-text": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-text$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-text"
+  },
+  "zmdi-collection-video": {
+    "body": "<${1:i} className=\"zmdi zmdi-collection-video$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-collection-video"
+  },
+  "zmdi-comment-alert": {
+    "body": "<${1:i} className=\"zmdi zmdi-comment-alert$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comment-alert"
+  },
+  "zmdi-comment-alt-text": {
+    "body": "<${1:i} className=\"zmdi zmdi-comment-alt-text$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comment-alt-text"
+  },
+  "zmdi-comment-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-comment-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comment-alt"
+  },
+  "zmdi-comment-edit": {
+    "body": "<${1:i} className=\"zmdi zmdi-comment-edit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comment-edit"
+  },
+  "zmdi-comment-image": {
+    "body": "<${1:i} className=\"zmdi zmdi-comment-image$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comment-image"
+  },
+  "zmdi-comment-list": {
+    "body": "<${1:i} className=\"zmdi zmdi-comment-list$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comment-list"
+  },
+  "zmdi-comment-more": {
+    "body": "<${1:i} className=\"zmdi zmdi-comment-more$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comment-more"
+  },
+  "zmdi-comment-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-comment-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comment-outline"
+  },
+  "zmdi-comment-text-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-comment-text-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comment-text-alt"
+  },
+  "zmdi-comment-text": {
+    "body": "<${1:i} className=\"zmdi zmdi-comment-text$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comment-text"
+  },
+  "zmdi-comment-video": {
+    "body": "<${1:i} className=\"zmdi zmdi-comment-video$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comment-video"
+  },
+  "zmdi-comment": {
+    "body": "<${1:i} className=\"zmdi zmdi-comment$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comment"
+  },
+  "zmdi-comments": {
+    "body": "<${1:i} className=\"zmdi zmdi-comments$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-comments"
+  },
+  "zmdi-compare": {
+    "body": "<${1:i} className=\"zmdi zmdi-compare$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-compare"
+  },
+  "zmdi-compass": {
+    "body": "<${1:i} className=\"zmdi zmdi-compass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-compass"
+  },
+  "zmdi-confirmation-number": {
+    "body": "<${1:i} className=\"zmdi zmdi-confirmation-number$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-confirmation-number"
+  },
+  "zmdi-copy": {
+    "body": "<${1:i} className=\"zmdi zmdi-copy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-copy"
+  },
+  "zmdi-crop-16-9": {
+    "body": "<${1:i} className=\"zmdi zmdi-crop-16-9$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-crop-16-9"
+  },
+  "zmdi-crop-3-2": {
+    "body": "<${1:i} className=\"zmdi zmdi-crop-3-2$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-crop-3-2"
+  },
+  "zmdi-crop-5-4": {
+    "body": "<${1:i} className=\"zmdi zmdi-crop-5-4$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-crop-5-4"
+  },
+  "zmdi-crop-7-5": {
+    "body": "<${1:i} className=\"zmdi zmdi-crop-7-5$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-crop-7-5"
+  },
+  "zmdi-crop-din": {
+    "body": "<${1:i} className=\"zmdi zmdi-crop-din$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-crop-din"
+  },
+  "zmdi-crop-free": {
+    "body": "<${1:i} className=\"zmdi zmdi-crop-free$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-crop-free"
+  },
+  "zmdi-crop-landscape": {
+    "body": "<${1:i} className=\"zmdi zmdi-crop-landscape$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-crop-landscape"
+  },
+  "zmdi-crop-portrait": {
+    "body": "<${1:i} className=\"zmdi zmdi-crop-portrait$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-crop-portrait"
+  },
+  "zmdi-crop-square": {
+    "body": "<${1:i} className=\"zmdi zmdi-crop-square$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-crop-square"
+  },
+  "zmdi-crop": {
+    "body": "<${1:i} className=\"zmdi zmdi-crop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-crop"
+  },
+  "zmdi-cutlery": {
+    "body": "<${1:i} className=\"zmdi zmdi-cutlery$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-cutlery"
+  },
+  "zmdi-delete": {
+    "body": "<${1:i} className=\"zmdi zmdi-delete$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-delete"
+  },
+  "zmdi-delicious": {
+    "body": "<${1:i} className=\"zmdi zmdi-delicious$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-delicious"
+  },
+  "zmdi-desktop-mac": {
+    "body": "<${1:i} className=\"zmdi zmdi-desktop-mac$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-desktop-mac"
+  },
+  "zmdi-desktop-windows": {
+    "body": "<${1:i} className=\"zmdi zmdi-desktop-windows$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-desktop-windows"
+  },
+  "zmdi-developer-board": {
+    "body": "<${1:i} className=\"zmdi zmdi-developer-board$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-developer-board"
+  },
+  "zmdi-device-hub": {
+    "body": "<${1:i} className=\"zmdi zmdi-device-hub$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-device-hub"
+  },
+  "zmdi-devices-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-devices-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-devices-off"
+  },
+  "zmdi-devices": {
+    "body": "<${1:i} className=\"zmdi zmdi-devices$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-devices"
+  },
+  "zmdi-dialpad": {
+    "body": "<${1:i} className=\"zmdi zmdi-dialpad$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-dialpad"
+  },
+  "zmdi-directions-bike": {
+    "body": "<${1:i} className=\"zmdi zmdi-directions-bike$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-directions-bike"
+  },
+  "zmdi-directions-boat": {
+    "body": "<${1:i} className=\"zmdi zmdi-directions-boat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-directions-boat"
+  },
+  "zmdi-directions-bus": {
+    "body": "<${1:i} className=\"zmdi zmdi-directions-bus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-directions-bus"
+  },
+  "zmdi-directions-car": {
+    "body": "<${1:i} className=\"zmdi zmdi-directions-car$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-directions-car"
+  },
+  "zmdi-directions-railway": {
+    "body": "<${1:i} className=\"zmdi zmdi-directions-railway$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-directions-railway"
+  },
+  "zmdi-directions-run": {
+    "body": "<${1:i} className=\"zmdi zmdi-directions-run$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-directions-run"
+  },
+  "zmdi-directions-subway": {
+    "body": "<${1:i} className=\"zmdi zmdi-directions-subway$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-directions-subway"
+  },
+  "zmdi-directions-walk": {
+    "body": "<${1:i} className=\"zmdi zmdi-directions-walk$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-directions-walk"
+  },
+  "zmdi-directions": {
+    "body": "<${1:i} className=\"zmdi zmdi-directions$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-directions"
+  },
+  "zmdi-disc-full": {
+    "body": "<${1:i} className=\"zmdi zmdi-disc-full$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-disc-full"
+  },
+  "zmdi-disqus": {
+    "body": "<${1:i} className=\"zmdi zmdi-disqus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-disqus"
+  },
+  "zmdi-dns": {
+    "body": "<${1:i} className=\"zmdi zmdi-dns$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-dns"
+  },
+  "zmdi-dock": {
+    "body": "<${1:i} className=\"zmdi zmdi-dock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-dock"
+  },
+  "zmdi-dot-circle-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-dot-circle-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-dot-circle-alt"
+  },
+  "zmdi-dot-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-dot-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-dot-circle"
+  },
+  "zmdi-download": {
+    "body": "<${1:i} className=\"zmdi zmdi-download$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-download"
+  },
+  "zmdi-dribbble": {
+    "body": "<${1:i} className=\"zmdi zmdi-dribbble$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-dribbble"
+  },
+  "zmdi-drink": {
+    "body": "<${1:i} className=\"zmdi zmdi-drink$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-drink"
+  },
+  "zmdi-dropbox": {
+    "body": "<${1:i} className=\"zmdi zmdi-dropbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-dropbox"
+  },
+  "zmdi-edit": {
+    "body": "<${1:i} className=\"zmdi zmdi-edit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-edit"
+  },
+  "zmdi-eject-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-eject-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-eject-alt"
+  },
+  "zmdi-eject": {
+    "body": "<${1:i} className=\"zmdi zmdi-eject$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-eject"
+  },
+  "zmdi-email-open": {
+    "body": "<${1:i} className=\"zmdi zmdi-email-open$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-email-open"
+  },
+  "zmdi-email": {
+    "body": "<${1:i} className=\"zmdi zmdi-email$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-email"
+  },
+  "zmdi-equalizer": {
+    "body": "<${1:i} className=\"zmdi zmdi-equalizer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-equalizer"
+  },
+  "zmdi-evernote": {
+    "body": "<${1:i} className=\"zmdi zmdi-evernote$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-evernote"
+  },
+  "zmdi-explicit": {
+    "body": "<${1:i} className=\"zmdi zmdi-explicit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-explicit"
+  },
+  "zmdi-exposure-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-exposure-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-exposure-alt"
+  },
+  "zmdi-exposure": {
+    "body": "<${1:i} className=\"zmdi zmdi-exposure$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-exposure"
+  },
+  "zmdi-eye-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-eye-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-eye-off"
+  },
+  "zmdi-eye": {
+    "body": "<${1:i} className=\"zmdi zmdi-eye$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-eye"
+  },
+  "zmdi-eyedropper": {
+    "body": "<${1:i} className=\"zmdi zmdi-eyedropper$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-eyedropper"
+  },
+  "zmdi-face": {
+    "body": "<${1:i} className=\"zmdi zmdi-face$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-face"
+  },
+  "zmdi-facebook-box": {
+    "body": "<${1:i} className=\"zmdi zmdi-facebook-box$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-facebook-box"
+  },
+  "zmdi-facebook": {
+    "body": "<${1:i} className=\"zmdi zmdi-facebook$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-facebook"
+  },
+  "zmdi-fast-forward": {
+    "body": "<${1:i} className=\"zmdi zmdi-fast-forward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-fast-forward"
+  },
+  "zmdi-fast-rewind": {
+    "body": "<${1:i} className=\"zmdi zmdi-fast-rewind$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-fast-rewind"
+  },
+  "zmdi-favorite-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-favorite-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-favorite-outline"
+  },
+  "zmdi-favorite": {
+    "body": "<${1:i} className=\"zmdi zmdi-favorite$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-favorite"
+  },
+  "zmdi-female": {
+    "body": "<${1:i} className=\"zmdi zmdi-female$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-female"
+  },
+  "zmdi-file-plus": {
+    "body": "<${1:i} className=\"zmdi zmdi-file-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-file-plus"
+  },
+  "zmdi-file-text": {
+    "body": "<${1:i} className=\"zmdi zmdi-file-text$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-file-text"
+  },
+  "zmdi-file": {
+    "body": "<${1:i} className=\"zmdi zmdi-file$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-file"
+  },
+  "zmdi-filter-b-and-w": {
+    "body": "<${1:i} className=\"zmdi zmdi-filter-b-and-w$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-filter-b-and-w"
+  },
+  "zmdi-filter-center-focus": {
+    "body": "<${1:i} className=\"zmdi zmdi-filter-center-focus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-filter-center-focus"
+  },
+  "zmdi-filter-frames": {
+    "body": "<${1:i} className=\"zmdi zmdi-filter-frames$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-filter-frames"
+  },
+  "zmdi-filter-list": {
+    "body": "<${1:i} className=\"zmdi zmdi-filter-list$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-filter-list"
+  },
+  "zmdi-filter-tilt-shift": {
+    "body": "<${1:i} className=\"zmdi zmdi-filter-tilt-shift$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-filter-tilt-shift"
+  },
+  "zmdi-fire": {
+    "body": "<${1:i} className=\"zmdi zmdi-fire$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-fire"
+  },
+  "zmdi-flag": {
+    "body": "<${1:i} className=\"zmdi zmdi-flag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flag"
+  },
+  "zmdi-flare": {
+    "body": "<${1:i} className=\"zmdi zmdi-flare$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flare"
+  },
+  "zmdi-flash-auto": {
+    "body": "<${1:i} className=\"zmdi zmdi-flash-auto$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flash-auto"
+  },
+  "zmdi-flash-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-flash-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flash-off"
+  },
+  "zmdi-flash": {
+    "body": "<${1:i} className=\"zmdi zmdi-flash$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flash"
+  },
+  "zmdi-flattr": {
+    "body": "<${1:i} className=\"zmdi zmdi-flattr$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flattr"
+  },
+  "zmdi-flickr": {
+    "body": "<${1:i} className=\"zmdi zmdi-flickr$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flickr"
+  },
+  "zmdi-flight-land": {
+    "body": "<${1:i} className=\"zmdi zmdi-flight-land$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flight-land"
+  },
+  "zmdi-flight-takeoff": {
+    "body": "<${1:i} className=\"zmdi zmdi-flight-takeoff$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flight-takeoff"
+  },
+  "zmdi-flip-to-back": {
+    "body": "<${1:i} className=\"zmdi zmdi-flip-to-back$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flip-to-back"
+  },
+  "zmdi-flip-to-front": {
+    "body": "<${1:i} className=\"zmdi zmdi-flip-to-front$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flip-to-front"
+  },
+  "zmdi-flip": {
+    "body": "<${1:i} className=\"zmdi zmdi-flip$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flip"
+  },
+  "zmdi-floppy": {
+    "body": "<${1:i} className=\"zmdi zmdi-floppy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-floppy"
+  },
+  "zmdi-flower-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-flower-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flower-alt"
+  },
+  "zmdi-flower": {
+    "body": "<${1:i} className=\"zmdi zmdi-flower$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-flower"
+  },
+  "zmdi-folder-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-folder-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-folder-outline"
+  },
+  "zmdi-folder-person": {
+    "body": "<${1:i} className=\"zmdi zmdi-folder-person$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-folder-person"
+  },
+  "zmdi-folder-star-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-folder-star-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-folder-star-alt"
+  },
+  "zmdi-folder-star": {
+    "body": "<${1:i} className=\"zmdi zmdi-folder-star$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-folder-star"
+  },
+  "zmdi-folder": {
+    "body": "<${1:i} className=\"zmdi zmdi-folder$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-folder"
+  },
+  "zmdi-font": {
+    "body": "<${1:i} className=\"zmdi zmdi-font$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-font"
+  },
+  "zmdi-format-align-center": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-align-center$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-align-center"
+  },
+  "zmdi-format-align-justify": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-align-justify$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-align-justify"
+  },
+  "zmdi-format-align-left": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-align-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-align-left"
+  },
+  "zmdi-format-align-right": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-align-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-align-right"
+  },
+  "zmdi-format-bold": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-bold$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-bold"
+  },
+  "zmdi-format-clear-all": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-clear-all$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-clear-all"
+  },
+  "zmdi-format-clear": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-clear$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-clear"
+  },
+  "zmdi-format-color-fill": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-color-fill$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-color-fill"
+  },
+  "zmdi-format-color-reset": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-color-reset$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-color-reset"
+  },
+  "zmdi-format-color-text": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-color-text$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-color-text"
+  },
+  "zmdi-format-indent-decrease": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-indent-decrease$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-indent-decrease"
+  },
+  "zmdi-format-indent-increase": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-indent-increase$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-indent-increase"
+  },
+  "zmdi-format-italic": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-italic$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-italic"
+  },
+  "zmdi-format-line-spacing": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-line-spacing$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-line-spacing"
+  },
+  "zmdi-format-list-bulleted": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-list-bulleted$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-list-bulleted"
+  },
+  "zmdi-format-list-numbered": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-list-numbered$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-list-numbered"
+  },
+  "zmdi-format-ltr": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-ltr$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-ltr"
+  },
+  "zmdi-format-rtl": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-rtl$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-rtl"
+  },
+  "zmdi-format-size": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-size$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-size"
+  },
+  "zmdi-format-strikethrough-s": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-strikethrough-s$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-strikethrough-s"
+  },
+  "zmdi-format-strikethrough": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-strikethrough$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-strikethrough"
+  },
+  "zmdi-format-subject": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-subject$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-subject"
+  },
+  "zmdi-format-underlined": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-underlined$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-underlined"
+  },
+  "zmdi-format-valign-bottom": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-valign-bottom$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-valign-bottom"
+  },
+  "zmdi-format-valign-center": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-valign-center$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-valign-center"
+  },
+  "zmdi-format-valign-top": {
+    "body": "<${1:i} className=\"zmdi zmdi-format-valign-top$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-format-valign-top"
+  },
+  "zmdi-forward-10": {
+    "body": "<${1:i} className=\"zmdi zmdi-forward-10$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-forward-10"
+  },
+  "zmdi-forward-30": {
+    "body": "<${1:i} className=\"zmdi zmdi-forward-30$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-forward-30"
+  },
+  "zmdi-forward-5": {
+    "body": "<${1:i} className=\"zmdi zmdi-forward-5$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-forward-5"
+  },
+  "zmdi-forward": {
+    "body": "<${1:i} className=\"zmdi zmdi-forward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-forward"
+  },
+  "zmdi-fullscreen-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-fullscreen-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-fullscreen-alt"
+  },
+  "zmdi-fullscreen-exit": {
+    "body": "<${1:i} className=\"zmdi zmdi-fullscreen-exit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-fullscreen-exit"
+  },
+  "zmdi-fullscreen": {
+    "body": "<${1:i} className=\"zmdi zmdi-fullscreen$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-fullscreen"
+  },
+  "zmdi-functions": {
+    "body": "<${1:i} className=\"zmdi zmdi-functions$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-functions"
+  },
+  "zmdi-gamepad": {
+    "body": "<${1:i} className=\"zmdi zmdi-gamepad$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-gamepad"
+  },
+  "zmdi-gas-station": {
+    "body": "<${1:i} className=\"zmdi zmdi-gas-station$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-gas-station"
+  },
+  "zmdi-gesture": {
+    "body": "<${1:i} className=\"zmdi zmdi-gesture$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-gesture"
+  },
+  "zmdi-gif": {
+    "body": "<${1:i} className=\"zmdi zmdi-gif$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-gif"
+  },
+  "zmdi-github-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-github-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-github-alt"
+  },
+  "zmdi-github-box": {
+    "body": "<${1:i} className=\"zmdi zmdi-github-box$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-github-box"
+  },
+  "zmdi-github": {
+    "body": "<${1:i} className=\"zmdi zmdi-github$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-github"
+  },
+  "zmdi-globe-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-globe-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-globe-alt"
+  },
+  "zmdi-globe-lock": {
+    "body": "<${1:i} className=\"zmdi zmdi-globe-lock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-globe-lock"
+  },
+  "zmdi-globe": {
+    "body": "<${1:i} className=\"zmdi zmdi-globe$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-globe"
+  },
+  "zmdi-google-drive": {
+    "body": "<${1:i} className=\"zmdi zmdi-google-drive$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-google-drive"
+  },
+  "zmdi-google-earth": {
+    "body": "<${1:i} className=\"zmdi zmdi-google-earth$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-google-earth"
+  },
+  "zmdi-google-glass": {
+    "body": "<${1:i} className=\"zmdi zmdi-google-glass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-google-glass"
+  },
+  "zmdi-google-maps": {
+    "body": "<${1:i} className=\"zmdi zmdi-google-maps$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-google-maps"
+  },
+  "zmdi-google-old": {
+    "body": "<${1:i} className=\"zmdi zmdi-google-old$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-google-old"
+  },
+  "zmdi-google-pages": {
+    "body": "<${1:i} className=\"zmdi zmdi-google-pages$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-google-pages"
+  },
+  "zmdi-google-play": {
+    "body": "<${1:i} className=\"zmdi zmdi-google-play$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-google-play"
+  },
+  "zmdi-google-plus-box": {
+    "body": "<${1:i} className=\"zmdi zmdi-google-plus-box$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-google-plus-box"
+  },
+  "zmdi-google-plus": {
+    "body": "<${1:i} className=\"zmdi zmdi-google-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-google-plus"
+  },
+  "zmdi-google": {
+    "body": "<${1:i} className=\"zmdi zmdi-google$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-google"
+  },
+  "zmdi-gps-dot": {
+    "body": "<${1:i} className=\"zmdi zmdi-gps-dot$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-gps-dot"
+  },
+  "zmdi-gps-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-gps-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-gps-off"
+  },
+  "zmdi-gps": {
+    "body": "<${1:i} className=\"zmdi zmdi-gps$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-gps"
+  },
+  "zmdi-gradient": {
+    "body": "<${1:i} className=\"zmdi zmdi-gradient$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-gradient"
+  },
+  "zmdi-graduation-cap": {
+    "body": "<${1:i} className=\"zmdi zmdi-graduation-cap$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-graduation-cap"
+  },
+  "zmdi-grain": {
+    "body": "<${1:i} className=\"zmdi zmdi-grain$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-grain"
+  },
+  "zmdi-graphic-eq": {
+    "body": "<${1:i} className=\"zmdi zmdi-graphic-eq$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-graphic-eq"
+  },
+  "zmdi-grid-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-grid-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-grid-off"
+  },
+  "zmdi-grid": {
+    "body": "<${1:i} className=\"zmdi zmdi-grid$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-grid"
+  },
+  "zmdi-group-work": {
+    "body": "<${1:i} className=\"zmdi zmdi-group-work$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-group-work"
+  },
+  "zmdi-group": {
+    "body": "<${1:i} className=\"zmdi zmdi-group$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-group"
+  },
+  "zmdi-hd": {
+    "body": "<${1:i} className=\"zmdi zmdi-hd$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hd"
+  },
+  "zmdi-hdr-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-hdr-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hdr-off"
+  },
+  "zmdi-hdr-strong": {
+    "body": "<${1:i} className=\"zmdi zmdi-hdr-strong$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hdr-strong"
+  },
+  "zmdi-hdr-weak": {
+    "body": "<${1:i} className=\"zmdi zmdi-hdr-weak$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hdr-weak"
+  },
+  "zmdi-hdr": {
+    "body": "<${1:i} className=\"zmdi zmdi-hdr$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hdr"
+  },
+  "zmdi-headset-mic": {
+    "body": "<${1:i} className=\"zmdi zmdi-headset-mic$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-headset-mic"
+  },
+  "zmdi-headset": {
+    "body": "<${1:i} className=\"zmdi zmdi-headset$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-headset"
+  },
+  "zmdi-hearing": {
+    "body": "<${1:i} className=\"zmdi zmdi-hearing$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hearing"
+  },
+  "zmdi-help-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-help-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-help-outline"
+  },
+  "zmdi-help": {
+    "body": "<${1:i} className=\"zmdi zmdi-help$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-help"
+  },
+  "zmdi-home": {
+    "body": "<${1:i} className=\"zmdi zmdi-home$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-home"
+  },
+  "zmdi-hospital-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-hospital-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hospital-alt"
+  },
+  "zmdi-hospital": {
+    "body": "<${1:i} className=\"zmdi zmdi-hospital$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hospital"
+  },
+  "zmdi-hotel": {
+    "body": "<${1:i} className=\"zmdi zmdi-hotel$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hotel"
+  },
+  "zmdi-hourglass-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-hourglass-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hourglass-alt"
+  },
+  "zmdi-hourglass-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-hourglass-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hourglass-outline"
+  },
+  "zmdi-hourglass": {
+    "body": "<${1:i} className=\"zmdi zmdi-hourglass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hourglass"
+  },
+  "zmdi-hq": {
+    "body": "<${1:i} className=\"zmdi zmdi-hq$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-hq"
+  },
+  "zmdi-http": {
+    "body": "<${1:i} className=\"zmdi zmdi-http$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-http"
+  },
+  "zmdi-image-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-image-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-image-alt"
+  },
+  "zmdi-image-o": {
+    "body": "<${1:i} className=\"zmdi zmdi-image-o$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-image-o"
+  },
+  "zmdi-image": {
+    "body": "<${1:i} className=\"zmdi zmdi-image$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-image"
+  },
+  "zmdi-inbox": {
+    "body": "<${1:i} className=\"zmdi zmdi-inbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-inbox"
+  },
+  "zmdi-info-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-info-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-info-outline"
+  },
+  "zmdi-info": {
+    "body": "<${1:i} className=\"zmdi zmdi-info$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-info"
+  },
+  "zmdi-input-antenna": {
+    "body": "<${1:i} className=\"zmdi zmdi-input-antenna$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-input-antenna"
+  },
+  "zmdi-input-composite": {
+    "body": "<${1:i} className=\"zmdi zmdi-input-composite$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-input-composite"
+  },
+  "zmdi-input-hdmi": {
+    "body": "<${1:i} className=\"zmdi zmdi-input-hdmi$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-input-hdmi"
+  },
+  "zmdi-input-power": {
+    "body": "<${1:i} className=\"zmdi zmdi-input-power$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-input-power"
+  },
+  "zmdi-input-svideo": {
+    "body": "<${1:i} className=\"zmdi zmdi-input-svideo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-input-svideo"
+  },
+  "zmdi-instagram": {
+    "body": "<${1:i} className=\"zmdi zmdi-instagram$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-instagram"
+  },
+  "zmdi-invert-colors-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-invert-colors-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-invert-colors-off"
+  },
+  "zmdi-invert-colors": {
+    "body": "<${1:i} className=\"zmdi zmdi-invert-colors$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-invert-colors"
+  },
+  "zmdi-iridescent": {
+    "body": "<${1:i} className=\"zmdi zmdi-iridescent$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-iridescent"
+  },
+  "zmdi-key": {
+    "body": "<${1:i} className=\"zmdi zmdi-key$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-key"
+  },
+  "zmdi-keyboard-hide": {
+    "body": "<${1:i} className=\"zmdi zmdi-keyboard-hide$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-keyboard-hide"
+  },
+  "zmdi-keyboard": {
+    "body": "<${1:i} className=\"zmdi zmdi-keyboard$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-keyboard"
+  },
+  "zmdi-label-alt-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-label-alt-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-label-alt-outline"
+  },
+  "zmdi-label-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-label-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-label-alt"
+  },
+  "zmdi-label-heart": {
+    "body": "<${1:i} className=\"zmdi zmdi-label-heart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-label-heart"
+  },
+  "zmdi-label": {
+    "body": "<${1:i} className=\"zmdi zmdi-label$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-label"
+  },
+  "zmdi-labels": {
+    "body": "<${1:i} className=\"zmdi zmdi-labels$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-labels"
+  },
+  "zmdi-lamp": {
+    "body": "<${1:i} className=\"zmdi zmdi-lamp$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-lamp"
+  },
+  "zmdi-landscape": {
+    "body": "<${1:i} className=\"zmdi zmdi-landscape$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-landscape"
+  },
+  "zmdi-language-css3": {
+    "body": "<${1:i} className=\"zmdi zmdi-language-css3$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-language-css3"
+  },
+  "zmdi-language-html5": {
+    "body": "<${1:i} className=\"zmdi zmdi-language-html5$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-language-html5"
+  },
+  "zmdi-language-javascript": {
+    "body": "<${1:i} className=\"zmdi zmdi-language-javascript$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-language-javascript"
+  },
+  "zmdi-language-python-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-language-python-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-language-python-alt"
+  },
+  "zmdi-language-python": {
+    "body": "<${1:i} className=\"zmdi zmdi-language-python$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-language-python"
+  },
+  "zmdi-laptop-chromebook": {
+    "body": "<${1:i} className=\"zmdi zmdi-laptop-chromebook$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-laptop-chromebook"
+  },
+  "zmdi-laptop-mac": {
+    "body": "<${1:i} className=\"zmdi zmdi-laptop-mac$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-laptop-mac"
+  },
+  "zmdi-laptop": {
+    "body": "<${1:i} className=\"zmdi zmdi-laptop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-laptop"
+  },
+  "zmdi-lastfm": {
+    "body": "<${1:i} className=\"zmdi zmdi-lastfm$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-lastfm"
+  },
+  "zmdi-layers-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-layers-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-layers-off"
+  },
+  "zmdi-layers": {
+    "body": "<${1:i} className=\"zmdi zmdi-layers$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-layers"
+  },
+  "zmdi-leak-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-leak-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-leak-off"
+  },
+  "zmdi-leak": {
+    "body": "<${1:i} className=\"zmdi zmdi-leak$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-leak"
+  },
+  "zmdi-library": {
+    "body": "<${1:i} className=\"zmdi zmdi-library$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-library"
+  },
+  "zmdi-link": {
+    "body": "<${1:i} className=\"zmdi zmdi-link$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-link"
+  },
+  "zmdi-linkedin-box": {
+    "body": "<${1:i} className=\"zmdi zmdi-linkedin-box$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-linkedin-box"
+  },
+  "zmdi-linkedin": {
+    "body": "<${1:i} className=\"zmdi zmdi-linkedin$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-linkedin"
+  },
+  "zmdi-local-activity": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-activity$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-activity"
+  },
+  "zmdi-local-airport": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-airport$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-airport"
+  },
+  "zmdi-local-atm": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-atm$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-atm"
+  },
+  "zmdi-local-bar": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-bar$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-bar"
+  },
+  "zmdi-local-cafe": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-cafe$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-cafe"
+  },
+  "zmdi-local-car-wash": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-car-wash$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-car-wash"
+  },
+  "zmdi-local-convenience-store": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-convenience-store$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-convenience-store"
+  },
+  "zmdi-local-dining": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-dining$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-dining"
+  },
+  "zmdi-local-drink": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-drink$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-drink"
+  },
+  "zmdi-local-florist": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-florist$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-florist"
+  },
+  "zmdi-local-gas-station": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-gas-station$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-gas-station"
+  },
+  "zmdi-local-grocery-store": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-grocery-store$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-grocery-store"
+  },
+  "zmdi-local-hospital": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-hospital$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-hospital"
+  },
+  "zmdi-local-hotel": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-hotel$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-hotel"
+  },
+  "zmdi-local-laundry-service": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-laundry-service$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-laundry-service"
+  },
+  "zmdi-local-library": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-library$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-library"
+  },
+  "zmdi-local-mall": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-mall$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-mall"
+  },
+  "zmdi-local-movies": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-movies$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-movies"
+  },
+  "zmdi-local-offer": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-offer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-offer"
+  },
+  "zmdi-local-parking": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-parking$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-parking"
+  },
+  "zmdi-local-pharmacy": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-pharmacy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-pharmacy"
+  },
+  "zmdi-local-phone": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-phone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-phone"
+  },
+  "zmdi-local-pizza": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-pizza$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-pizza"
+  },
+  "zmdi-local-post-office": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-post-office$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-post-office"
+  },
+  "zmdi-local-printshop": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-printshop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-printshop"
+  },
+  "zmdi-local-see": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-see$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-see"
+  },
+  "zmdi-local-shipping": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-shipping$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-shipping"
+  },
+  "zmdi-local-store": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-store$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-store"
+  },
+  "zmdi-local-taxi": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-taxi$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-taxi"
+  },
+  "zmdi-local-wc": {
+    "body": "<${1:i} className=\"zmdi zmdi-local-wc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-local-wc"
+  },
+  "zmdi-lock-open": {
+    "body": "<${1:i} className=\"zmdi zmdi-lock-open$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-lock-open"
+  },
+  "zmdi-lock-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-lock-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-lock-outline"
+  },
+  "zmdi-lock": {
+    "body": "<${1:i} className=\"zmdi zmdi-lock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-lock"
+  },
+  "zmdi-long-arrow-down": {
+    "body": "<${1:i} className=\"zmdi zmdi-long-arrow-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-long-arrow-down"
+  },
+  "zmdi-long-arrow-left": {
+    "body": "<${1:i} className=\"zmdi zmdi-long-arrow-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-long-arrow-left"
+  },
+  "zmdi-long-arrow-return": {
+    "body": "<${1:i} className=\"zmdi zmdi-long-arrow-return$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-long-arrow-return"
+  },
+  "zmdi-long-arrow-right": {
+    "body": "<${1:i} className=\"zmdi zmdi-long-arrow-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-long-arrow-right"
+  },
+  "zmdi-long-arrow-tab": {
+    "body": "<${1:i} className=\"zmdi zmdi-long-arrow-tab$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-long-arrow-tab"
+  },
+  "zmdi-long-arrow-up": {
+    "body": "<${1:i} className=\"zmdi zmdi-long-arrow-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-long-arrow-up"
+  },
+  "zmdi-looks": {
+    "body": "<${1:i} className=\"zmdi zmdi-looks$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-looks"
+  },
+  "zmdi-loupe": {
+    "body": "<${1:i} className=\"zmdi zmdi-loupe$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-loupe"
+  },
+  "zmdi-mail-reply-all": {
+    "body": "<${1:i} className=\"zmdi zmdi-mail-reply-all$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-mail-reply-all"
+  },
+  "zmdi-mail-reply": {
+    "body": "<${1:i} className=\"zmdi zmdi-mail-reply$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-mail-reply"
+  },
+  "zmdi-mail-send": {
+    "body": "<${1:i} className=\"zmdi zmdi-mail-send$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-mail-send"
+  },
+  "zmdi-male-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-male-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-male-alt"
+  },
+  "zmdi-male-female": {
+    "body": "<${1:i} className=\"zmdi zmdi-male-female$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-male-female"
+  },
+  "zmdi-male": {
+    "body": "<${1:i} className=\"zmdi zmdi-male$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-male"
+  },
+  "zmdi-mall": {
+    "body": "<${1:i} className=\"zmdi zmdi-mall$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-mall"
+  },
+  "zmdi-map": {
+    "body": "<${1:i} className=\"zmdi zmdi-map$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-map"
+  },
+  "zmdi-markunread-mailbox": {
+    "body": "<${1:i} className=\"zmdi zmdi-markunread-mailbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-markunread-mailbox"
+  },
+  "zmdi-memory": {
+    "body": "<${1:i} className=\"zmdi zmdi-memory$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-memory"
+  },
+  "zmdi-menu": {
+    "body": "<${1:i} className=\"zmdi zmdi-menu$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-menu"
+  },
+  "zmdi-mic-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-mic-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-mic-off"
+  },
+  "zmdi-mic-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-mic-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-mic-outline"
+  },
+  "zmdi-mic-setting": {
+    "body": "<${1:i} className=\"zmdi zmdi-mic-setting$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-mic-setting"
+  },
+  "zmdi-mic": {
+    "body": "<${1:i} className=\"zmdi zmdi-mic$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-mic"
+  },
+  "zmdi-minus-circle-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-minus-circle-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-minus-circle-outline"
+  },
+  "zmdi-minus-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-minus-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-minus-circle"
+  },
+  "zmdi-minus-square": {
+    "body": "<${1:i} className=\"zmdi zmdi-minus-square$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-minus-square"
+  },
+  "zmdi-minus": {
+    "body": "<${1:i} className=\"zmdi zmdi-minus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-minus"
+  },
+  "zmdi-money-box": {
+    "body": "<${1:i} className=\"zmdi zmdi-money-box$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-money-box"
+  },
+  "zmdi-money-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-money-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-money-off"
+  },
+  "zmdi-money": {
+    "body": "<${1:i} className=\"zmdi zmdi-money$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-money"
+  },
+  "zmdi-mood-bad": {
+    "body": "<${1:i} className=\"zmdi zmdi-mood-bad$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-mood-bad"
+  },
+  "zmdi-mood": {
+    "body": "<${1:i} className=\"zmdi zmdi-mood$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-mood"
+  },
+  "zmdi-more-vert": {
+    "body": "<${1:i} className=\"zmdi zmdi-more-vert$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-more-vert"
+  },
+  "zmdi-more": {
+    "body": "<${1:i} className=\"zmdi zmdi-more$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-more"
+  },
+  "zmdi-mouse": {
+    "body": "<${1:i} className=\"zmdi zmdi-mouse$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-mouse"
+  },
+  "zmdi-movie-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-movie-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-movie-alt"
+  },
+  "zmdi-movie": {
+    "body": "<${1:i} className=\"zmdi zmdi-movie$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-movie"
+  },
+  "zmdi-my-location": {
+    "body": "<${1:i} className=\"zmdi zmdi-my-location$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-my-location"
+  },
+  "zmdi-n-1-square": {
+    "body": "<${1:i} className=\"zmdi zmdi-n-1-square$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-n-1-square"
+  },
+  "zmdi-n-2-square": {
+    "body": "<${1:i} className=\"zmdi zmdi-n-2-square$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-n-2-square"
+  },
+  "zmdi-n-3-square": {
+    "body": "<${1:i} className=\"zmdi zmdi-n-3-square$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-n-3-square"
+  },
+  "zmdi-n-4-square": {
+    "body": "<${1:i} className=\"zmdi zmdi-n-4-square$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-n-4-square"
+  },
+  "zmdi-n-5-square": {
+    "body": "<${1:i} className=\"zmdi zmdi-n-5-square$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-n-5-square"
+  },
+  "zmdi-n-6-square": {
+    "body": "<${1:i} className=\"zmdi zmdi-n-6-square$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-n-6-square"
+  },
+  "zmdi-nature-people": {
+    "body": "<${1:i} className=\"zmdi zmdi-nature-people$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-nature-people"
+  },
+  "zmdi-nature": {
+    "body": "<${1:i} className=\"zmdi zmdi-nature$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-nature"
+  },
+  "zmdi-navigation": {
+    "body": "<${1:i} className=\"zmdi zmdi-navigation$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-navigation"
+  },
+  "zmdi-neg-1": {
+    "body": "<${1:i} className=\"zmdi zmdi-neg-1$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-neg-1"
+  },
+  "zmdi-neg-2": {
+    "body": "<${1:i} className=\"zmdi zmdi-neg-2$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-neg-2"
+  },
+  "zmdi-network-alert": {
+    "body": "<${1:i} className=\"zmdi zmdi-network-alert$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-network-alert"
+  },
+  "zmdi-network-locked": {
+    "body": "<${1:i} className=\"zmdi zmdi-network-locked$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-network-locked"
+  },
+  "zmdi-network-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-network-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-network-off"
+  },
+  "zmdi-network-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-network-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-network-outline"
+  },
+  "zmdi-network-setting": {
+    "body": "<${1:i} className=\"zmdi zmdi-network-setting$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-network-setting"
+  },
+  "zmdi-network": {
+    "body": "<${1:i} className=\"zmdi zmdi-network$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-network"
+  },
+  "zmdi-nfc": {
+    "body": "<${1:i} className=\"zmdi zmdi-nfc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-nfc"
+  },
+  "zmdi-notifications-active": {
+    "body": "<${1:i} className=\"zmdi zmdi-notifications-active$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-notifications-active"
+  },
+  "zmdi-notifications-add": {
+    "body": "<${1:i} className=\"zmdi zmdi-notifications-add$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-notifications-add"
+  },
+  "zmdi-notifications-none": {
+    "body": "<${1:i} className=\"zmdi zmdi-notifications-none$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-notifications-none"
+  },
+  "zmdi-notifications-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-notifications-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-notifications-off"
+  },
+  "zmdi-notifications-paused": {
+    "body": "<${1:i} className=\"zmdi zmdi-notifications-paused$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-notifications-paused"
+  },
+  "zmdi-notifications": {
+    "body": "<${1:i} className=\"zmdi zmdi-notifications$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-notifications"
+  },
+  "zmdi-odnoklassniki": {
+    "body": "<${1:i} className=\"zmdi zmdi-odnoklassniki$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-odnoklassniki"
+  },
+  "zmdi-open-in-browser": {
+    "body": "<${1:i} className=\"zmdi zmdi-open-in-browser$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-open-in-browser"
+  },
+  "zmdi-open-in-new": {
+    "body": "<${1:i} className=\"zmdi zmdi-open-in-new$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-open-in-new"
+  },
+  "zmdi-outlook": {
+    "body": "<${1:i} className=\"zmdi zmdi-outlook$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-outlook"
+  },
+  "zmdi-palette": {
+    "body": "<${1:i} className=\"zmdi zmdi-palette$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-palette"
+  },
+  "zmdi-panorama-horizontal": {
+    "body": "<${1:i} className=\"zmdi zmdi-panorama-horizontal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-panorama-horizontal"
+  },
+  "zmdi-panorama-vertical": {
+    "body": "<${1:i} className=\"zmdi zmdi-panorama-vertical$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-panorama-vertical"
+  },
+  "zmdi-panorama-wide-angle": {
+    "body": "<${1:i} className=\"zmdi zmdi-panorama-wide-angle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-panorama-wide-angle"
+  },
+  "zmdi-parking": {
+    "body": "<${1:i} className=\"zmdi zmdi-parking$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-parking"
+  },
+  "zmdi-pause-circle-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-pause-circle-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pause-circle-outline"
+  },
+  "zmdi-pause-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-pause-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pause-circle"
+  },
+  "zmdi-pause": {
+    "body": "<${1:i} className=\"zmdi zmdi-pause$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pause"
+  },
+  "zmdi-paypal-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-paypal-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-paypal-alt"
+  },
+  "zmdi-paypal": {
+    "body": "<${1:i} className=\"zmdi zmdi-paypal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-paypal"
+  },
+  "zmdi-phone-bluetooth": {
+    "body": "<${1:i} className=\"zmdi zmdi-phone-bluetooth$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-phone-bluetooth"
+  },
+  "zmdi-phone-end": {
+    "body": "<${1:i} className=\"zmdi zmdi-phone-end$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-phone-end"
+  },
+  "zmdi-phone-forwarded": {
+    "body": "<${1:i} className=\"zmdi zmdi-phone-forwarded$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-phone-forwarded"
+  },
+  "zmdi-phone-in-talk": {
+    "body": "<${1:i} className=\"zmdi zmdi-phone-in-talk$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-phone-in-talk"
+  },
+  "zmdi-phone-locked": {
+    "body": "<${1:i} className=\"zmdi zmdi-phone-locked$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-phone-locked"
+  },
+  "zmdi-phone-missed": {
+    "body": "<${1:i} className=\"zmdi zmdi-phone-missed$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-phone-missed"
+  },
+  "zmdi-phone-msg": {
+    "body": "<${1:i} className=\"zmdi zmdi-phone-msg$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-phone-msg"
+  },
+  "zmdi-phone-paused": {
+    "body": "<${1:i} className=\"zmdi zmdi-phone-paused$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-phone-paused"
+  },
+  "zmdi-phone-ring": {
+    "body": "<${1:i} className=\"zmdi zmdi-phone-ring$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-phone-ring"
+  },
+  "zmdi-phone-setting": {
+    "body": "<${1:i} className=\"zmdi zmdi-phone-setting$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-phone-setting"
+  },
+  "zmdi-phone-sip": {
+    "body": "<${1:i} className=\"zmdi zmdi-phone-sip$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-phone-sip"
+  },
+  "zmdi-phone": {
+    "body": "<${1:i} className=\"zmdi zmdi-phone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-phone"
+  },
+  "zmdi-photo-size-select-large": {
+    "body": "<${1:i} className=\"zmdi zmdi-photo-size-select-large$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-photo-size-select-large"
+  },
+  "zmdi-photo-size-select-small": {
+    "body": "<${1:i} className=\"zmdi zmdi-photo-size-select-small$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-photo-size-select-small"
+  },
+  "zmdi-picture-in-picture": {
+    "body": "<${1:i} className=\"zmdi zmdi-picture-in-picture$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-picture-in-picture"
+  },
+  "zmdi-pin-account": {
+    "body": "<${1:i} className=\"zmdi zmdi-pin-account$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pin-account"
+  },
+  "zmdi-pin-assistant": {
+    "body": "<${1:i} className=\"zmdi zmdi-pin-assistant$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pin-assistant"
+  },
+  "zmdi-pin-drop": {
+    "body": "<${1:i} className=\"zmdi zmdi-pin-drop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pin-drop"
+  },
+  "zmdi-pin-help": {
+    "body": "<${1:i} className=\"zmdi zmdi-pin-help$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pin-help"
+  },
+  "zmdi-pin-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-pin-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pin-off"
+  },
+  "zmdi-pin": {
+    "body": "<${1:i} className=\"zmdi zmdi-pin$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pin"
+  },
+  "zmdi-pinterest-box": {
+    "body": "<${1:i} className=\"zmdi zmdi-pinterest-box$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pinterest-box"
+  },
+  "zmdi-pinterest": {
+    "body": "<${1:i} className=\"zmdi zmdi-pinterest$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pinterest"
+  },
+  "zmdi-pizza": {
+    "body": "<${1:i} className=\"zmdi zmdi-pizza$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pizza"
+  },
+  "zmdi-plaster": {
+    "body": "<${1:i} className=\"zmdi zmdi-plaster$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-plaster"
+  },
+  "zmdi-play-circle-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-play-circle-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-play-circle-outline"
+  },
+  "zmdi-play-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-play-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-play-circle"
+  },
+  "zmdi-play-for-work": {
+    "body": "<${1:i} className=\"zmdi zmdi-play-for-work$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-play-for-work"
+  },
+  "zmdi-play": {
+    "body": "<${1:i} className=\"zmdi zmdi-play$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-play"
+  },
+  "zmdi-playlist-audio": {
+    "body": "<${1:i} className=\"zmdi zmdi-playlist-audio$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-playlist-audio"
+  },
+  "zmdi-playlist-plus": {
+    "body": "<${1:i} className=\"zmdi zmdi-playlist-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-playlist-plus"
+  },
+  "zmdi-playstation": {
+    "body": "<${1:i} className=\"zmdi zmdi-playstation$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-playstation"
+  },
+  "zmdi-plus-1": {
+    "body": "<${1:i} className=\"zmdi zmdi-plus-1$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-plus-1"
+  },
+  "zmdi-plus-2": {
+    "body": "<${1:i} className=\"zmdi zmdi-plus-2$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-plus-2"
+  },
+  "zmdi-plus-circle-o-duplicate": {
+    "body": "<${1:i} className=\"zmdi zmdi-plus-circle-o-duplicate$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-plus-circle-o-duplicate"
+  },
+  "zmdi-plus-circle-o": {
+    "body": "<${1:i} className=\"zmdi zmdi-plus-circle-o$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-plus-circle-o"
+  },
+  "zmdi-plus-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-plus-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-plus-circle"
+  },
+  "zmdi-plus-square": {
+    "body": "<${1:i} className=\"zmdi zmdi-plus-square$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-plus-square"
+  },
+  "zmdi-plus": {
+    "body": "<${1:i} className=\"zmdi zmdi-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-plus"
+  },
+  "zmdi-pocket": {
+    "body": "<${1:i} className=\"zmdi zmdi-pocket$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-pocket"
+  },
+  "zmdi-polymer": {
+    "body": "<${1:i} className=\"zmdi zmdi-polymer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-polymer"
+  },
+  "zmdi-portable-wifi-changes": {
+    "body": "<${1:i} className=\"zmdi zmdi-portable-wifi-changes$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-portable-wifi-changes"
+  },
+  "zmdi-portable-wifi-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-portable-wifi-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-portable-wifi-off"
+  },
+  "zmdi-portable-wifi": {
+    "body": "<${1:i} className=\"zmdi zmdi-portable-wifi$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-portable-wifi"
+  },
+  "zmdi-power-input": {
+    "body": "<${1:i} className=\"zmdi zmdi-power-input$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-power-input"
+  },
+  "zmdi-power-setting": {
+    "body": "<${1:i} className=\"zmdi zmdi-power-setting$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-power-setting"
+  },
+  "zmdi-power": {
+    "body": "<${1:i} className=\"zmdi zmdi-power$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-power"
+  },
+  "zmdi-present-to-all": {
+    "body": "<${1:i} className=\"zmdi zmdi-present-to-all$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-present-to-all"
+  },
+  "zmdi-print": {
+    "body": "<${1:i} className=\"zmdi zmdi-print$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-print"
+  },
+  "zmdi-puzzle-piece": {
+    "body": "<${1:i} className=\"zmdi zmdi-puzzle-piece$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-puzzle-piece"
+  },
+  "zmdi-quote": {
+    "body": "<${1:i} className=\"zmdi zmdi-quote$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-quote"
+  },
+  "zmdi-radio": {
+    "body": "<${1:i} className=\"zmdi zmdi-radio$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-radio"
+  },
+  "zmdi-railway": {
+    "body": "<${1:i} className=\"zmdi zmdi-railway$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-railway"
+  },
+  "zmdi-reader": {
+    "body": "<${1:i} className=\"zmdi zmdi-reader$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-reader"
+  },
+  "zmdi-receipt": {
+    "body": "<${1:i} className=\"zmdi zmdi-receipt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-receipt"
+  },
+  "zmdi-reddit": {
+    "body": "<${1:i} className=\"zmdi zmdi-reddit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-reddit"
+  },
+  "zmdi-redo": {
+    "body": "<${1:i} className=\"zmdi zmdi-redo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-redo"
+  },
+  "zmdi-refresh-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-refresh-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-refresh-alt"
+  },
+  "zmdi-refresh-sync-alert": {
+    "body": "<${1:i} className=\"zmdi zmdi-refresh-sync-alert$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-refresh-sync-alert"
+  },
+  "zmdi-refresh-sync-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-refresh-sync-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-refresh-sync-off"
+  },
+  "zmdi-refresh-sync": {
+    "body": "<${1:i} className=\"zmdi zmdi-refresh-sync$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-refresh-sync"
+  },
+  "zmdi-refresh": {
+    "body": "<${1:i} className=\"zmdi zmdi-refresh$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-refresh"
+  },
+  "zmdi-remote-control-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-remote-control-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-remote-control-alt"
+  },
+  "zmdi-remote-control": {
+    "body": "<${1:i} className=\"zmdi zmdi-remote-control$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-remote-control"
+  },
+  "zmdi-repeat-one": {
+    "body": "<${1:i} className=\"zmdi zmdi-repeat-one$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-repeat-one"
+  },
+  "zmdi-repeat": {
+    "body": "<${1:i} className=\"zmdi zmdi-repeat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-repeat"
+  },
+  "zmdi-replay-10": {
+    "body": "<${1:i} className=\"zmdi zmdi-replay-10$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-replay-10"
+  },
+  "zmdi-replay-30": {
+    "body": "<${1:i} className=\"zmdi zmdi-replay-30$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-replay-30"
+  },
+  "zmdi-replay-5": {
+    "body": "<${1:i} className=\"zmdi zmdi-replay-5$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-replay-5"
+  },
+  "zmdi-replay": {
+    "body": "<${1:i} className=\"zmdi zmdi-replay$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-replay"
+  },
+  "zmdi-roller": {
+    "body": "<${1:i} className=\"zmdi zmdi-roller$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-roller"
+  },
+  "zmdi-rotate-ccw": {
+    "body": "<${1:i} className=\"zmdi zmdi-rotate-ccw$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-rotate-ccw"
+  },
+  "zmdi-rotate-cw": {
+    "body": "<${1:i} className=\"zmdi zmdi-rotate-cw$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-rotate-cw"
+  },
+  "zmdi-rotate-left": {
+    "body": "<${1:i} className=\"zmdi zmdi-rotate-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-rotate-left"
+  },
+  "zmdi-rotate-right": {
+    "body": "<${1:i} className=\"zmdi zmdi-rotate-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-rotate-right"
+  },
+  "zmdi-router": {
+    "body": "<${1:i} className=\"zmdi zmdi-router$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-router"
+  },
+  "zmdi-rss": {
+    "body": "<${1:i} className=\"zmdi zmdi-rss$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-rss"
+  },
+  "zmdi-ruler": {
+    "body": "<${1:i} className=\"zmdi zmdi-ruler$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-ruler"
+  },
+  "zmdi-run": {
+    "body": "<${1:i} className=\"zmdi zmdi-run$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-run"
+  },
+  "zmdi-satellite": {
+    "body": "<${1:i} className=\"zmdi zmdi-satellite$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-satellite"
+  },
+  "zmdi-scanner": {
+    "body": "<${1:i} className=\"zmdi zmdi-scanner$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-scanner"
+  },
+  "zmdi-scissors": {
+    "body": "<${1:i} className=\"zmdi zmdi-scissors$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-scissors"
+  },
+  "zmdi-screen-rotation-lock": {
+    "body": "<${1:i} className=\"zmdi zmdi-screen-rotation-lock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-screen-rotation-lock"
+  },
+  "zmdi-screen-rotation": {
+    "body": "<${1:i} className=\"zmdi zmdi-screen-rotation$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-screen-rotation"
+  },
+  "zmdi-search-for": {
+    "body": "<${1:i} className=\"zmdi zmdi-search-for$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-search-for"
+  },
+  "zmdi-search-in-file": {
+    "body": "<${1:i} className=\"zmdi zmdi-search-in-file$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-search-in-file"
+  },
+  "zmdi-search-in-page": {
+    "body": "<${1:i} className=\"zmdi zmdi-search-in-page$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-search-in-page"
+  },
+  "zmdi-search-replace": {
+    "body": "<${1:i} className=\"zmdi zmdi-search-replace$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-search-replace"
+  },
+  "zmdi-search": {
+    "body": "<${1:i} className=\"zmdi zmdi-search$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-search"
+  },
+  "zmdi-seat": {
+    "body": "<${1:i} className=\"zmdi zmdi-seat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-seat"
+  },
+  "zmdi-sec-10": {
+    "body": "<${1:i} className=\"zmdi zmdi-sec-10$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-sec-10"
+  },
+  "zmdi-sec-3": {
+    "body": "<${1:i} className=\"zmdi zmdi-sec-3$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-sec-3"
+  },
+  "zmdi-select-all": {
+    "body": "<${1:i} className=\"zmdi zmdi-select-all$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-select-all"
+  },
+  "zmdi-settings-square": {
+    "body": "<${1:i} className=\"zmdi zmdi-settings-square$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-settings-square"
+  },
+  "zmdi-settings": {
+    "body": "<${1:i} className=\"zmdi zmdi-settings$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-settings"
+  },
+  "zmdi-shape": {
+    "body": "<${1:i} className=\"zmdi zmdi-shape$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-shape"
+  },
+  "zmdi-share": {
+    "body": "<${1:i} className=\"zmdi zmdi-share$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-share"
+  },
+  "zmdi-shield-check": {
+    "body": "<${1:i} className=\"zmdi zmdi-shield-check$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-shield-check"
+  },
+  "zmdi-shield-security": {
+    "body": "<${1:i} className=\"zmdi zmdi-shield-security$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-shield-security"
+  },
+  "zmdi-shopping-basket": {
+    "body": "<${1:i} className=\"zmdi zmdi-shopping-basket$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-shopping-basket"
+  },
+  "zmdi-shopping-cart-plus": {
+    "body": "<${1:i} className=\"zmdi zmdi-shopping-cart-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-shopping-cart-plus"
+  },
+  "zmdi-shopping-cart": {
+    "body": "<${1:i} className=\"zmdi zmdi-shopping-cart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-shopping-cart"
+  },
+  "zmdi-shuffle": {
+    "body": "<${1:i} className=\"zmdi zmdi-shuffle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-shuffle"
+  },
+  "zmdi-sign-in": {
+    "body": "<${1:i} className=\"zmdi zmdi-sign-in$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-sign-in"
+  },
+  "zmdi-skip-next": {
+    "body": "<${1:i} className=\"zmdi zmdi-skip-next$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-skip-next"
+  },
+  "zmdi-skip-previous": {
+    "body": "<${1:i} className=\"zmdi zmdi-skip-previous$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-skip-previous"
+  },
+  "zmdi-skype": {
+    "body": "<${1:i} className=\"zmdi zmdi-skype$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-skype"
+  },
+  "zmdi-slideshare": {
+    "body": "<${1:i} className=\"zmdi zmdi-slideshare$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-slideshare"
+  },
+  "zmdi-slideshow": {
+    "body": "<${1:i} className=\"zmdi zmdi-slideshow$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-slideshow"
+  },
+  "zmdi-smartphone-android": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone-android$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone-android"
+  },
+  "zmdi-smartphone-download": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone-download$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone-download"
+  },
+  "zmdi-smartphone-erase": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone-erase$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone-erase"
+  },
+  "zmdi-smartphone-info": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone-info$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone-info"
+  },
+  "zmdi-smartphone-iphone": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone-iphone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone-iphone"
+  },
+  "zmdi-smartphone-landscape-lock": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone-landscape-lock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone-landscape-lock"
+  },
+  "zmdi-smartphone-landscape": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone-landscape$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone-landscape"
+  },
+  "zmdi-smartphone-lock": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone-lock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone-lock"
+  },
+  "zmdi-smartphone-portrait-lock": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone-portrait-lock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone-portrait-lock"
+  },
+  "zmdi-smartphone-ring": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone-ring$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone-ring"
+  },
+  "zmdi-smartphone-setting": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone-setting$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone-setting"
+  },
+  "zmdi-smartphone-setup": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone-setup$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone-setup"
+  },
+  "zmdi-smartphone": {
+    "body": "<${1:i} className=\"zmdi zmdi-smartphone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-smartphone"
+  },
+  "zmdi-sort-amount-asc": {
+    "body": "<${1:i} className=\"zmdi zmdi-sort-amount-asc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-sort-amount-asc"
+  },
+  "zmdi-sort-amount-desc": {
+    "body": "<${1:i} className=\"zmdi zmdi-sort-amount-desc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-sort-amount-desc"
+  },
+  "zmdi-sort-asc": {
+    "body": "<${1:i} className=\"zmdi zmdi-sort-asc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-sort-asc"
+  },
+  "zmdi-sort-desc": {
+    "body": "<${1:i} className=\"zmdi zmdi-sort-desc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-sort-desc"
+  },
+  "zmdi-soundcloud": {
+    "body": "<${1:i} className=\"zmdi zmdi-soundcloud$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-soundcloud"
+  },
+  "zmdi-space-bar": {
+    "body": "<${1:i} className=\"zmdi zmdi-space-bar$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-space-bar"
+  },
+  "zmdi-speaker": {
+    "body": "<${1:i} className=\"zmdi zmdi-speaker$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-speaker"
+  },
+  "zmdi-spellcheck": {
+    "body": "<${1:i} className=\"zmdi zmdi-spellcheck$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-spellcheck"
+  },
+  "zmdi-spinner": {
+    "body": "<${1:i} className=\"zmdi zmdi-spinner$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-spinner"
+  },
+  "zmdi-square-down": {
+    "body": "<${1:i} className=\"zmdi zmdi-square-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-square-down"
+  },
+  "zmdi-square-o": {
+    "body": "<${1:i} className=\"zmdi zmdi-square-o$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-square-o"
+  },
+  "zmdi-square-right": {
+    "body": "<${1:i} className=\"zmdi zmdi-square-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-square-right"
+  },
+  "zmdi-stackoverflow": {
+    "body": "<${1:i} className=\"zmdi zmdi-stackoverflow$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-stackoverflow"
+  },
+  "zmdi-star-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-star-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-star-circle"
+  },
+  "zmdi-star-half": {
+    "body": "<${1:i} className=\"zmdi zmdi-star-half$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-star-half"
+  },
+  "zmdi-star-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-star-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-star-outline"
+  },
+  "zmdi-star": {
+    "body": "<${1:i} className=\"zmdi zmdi-star$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-star"
+  },
+  "zmdi-steam-square": {
+    "body": "<${1:i} className=\"zmdi zmdi-steam-square$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-steam-square"
+  },
+  "zmdi-steam": {
+    "body": "<${1:i} className=\"zmdi zmdi-steam$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-steam"
+  },
+  "zmdi-stop": {
+    "body": "<${1:i} className=\"zmdi zmdi-stop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-stop"
+  },
+  "zmdi-storage": {
+    "body": "<${1:i} className=\"zmdi zmdi-storage$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-storage"
+  },
+  "zmdi-store-24": {
+    "body": "<${1:i} className=\"zmdi zmdi-store-24$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-store-24"
+  },
+  "zmdi-store": {
+    "body": "<${1:i} className=\"zmdi zmdi-store$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-store"
+  },
+  "zmdi-subway": {
+    "body": "<${1:i} className=\"zmdi zmdi-subway$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-subway"
+  },
+  "zmdi-sun": {
+    "body": "<${1:i} className=\"zmdi zmdi-sun$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-sun"
+  },
+  "zmdi-surround-sound": {
+    "body": "<${1:i} className=\"zmdi zmdi-surround-sound$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-surround-sound"
+  },
+  "zmdi-swap-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-swap-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-swap-alt"
+  },
+  "zmdi-swap-vertical-circle": {
+    "body": "<${1:i} className=\"zmdi zmdi-swap-vertical-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-swap-vertical-circle"
+  },
+  "zmdi-swap-vertical": {
+    "body": "<${1:i} className=\"zmdi zmdi-swap-vertical$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-swap-vertical"
+  },
+  "zmdi-swap": {
+    "body": "<${1:i} className=\"zmdi zmdi-swap$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-swap"
+  },
+  "zmdi-tab-unselected": {
+    "body": "<${1:i} className=\"zmdi zmdi-tab-unselected$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tab-unselected"
+  },
+  "zmdi-tab": {
+    "body": "<${1:i} className=\"zmdi zmdi-tab$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tab"
+  },
+  "zmdi-tablet-android": {
+    "body": "<${1:i} className=\"zmdi zmdi-tablet-android$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tablet-android"
+  },
+  "zmdi-tablet-mac": {
+    "body": "<${1:i} className=\"zmdi zmdi-tablet-mac$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tablet-mac"
+  },
+  "zmdi-tablet": {
+    "body": "<${1:i} className=\"zmdi zmdi-tablet$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tablet"
+  },
+  "zmdi-tag-close": {
+    "body": "<${1:i} className=\"zmdi zmdi-tag-close$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tag-close"
+  },
+  "zmdi-tag-more": {
+    "body": "<${1:i} className=\"zmdi zmdi-tag-more$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tag-more"
+  },
+  "zmdi-tag": {
+    "body": "<${1:i} className=\"zmdi zmdi-tag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tag"
+  },
+  "zmdi-tap-and-play": {
+    "body": "<${1:i} className=\"zmdi zmdi-tap-and-play$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tap-and-play"
+  },
+  "zmdi-text-format": {
+    "body": "<${1:i} className=\"zmdi zmdi-text-format$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-text-format"
+  },
+  "zmdi-texture": {
+    "body": "<${1:i} className=\"zmdi zmdi-texture$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-texture"
+  },
+  "zmdi-thumb-down": {
+    "body": "<${1:i} className=\"zmdi zmdi-thumb-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-thumb-down"
+  },
+  "zmdi-thumb-up-down": {
+    "body": "<${1:i} className=\"zmdi zmdi-thumb-up-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-thumb-up-down"
+  },
+  "zmdi-thumb-up": {
+    "body": "<${1:i} className=\"zmdi zmdi-thumb-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-thumb-up"
+  },
+  "zmdi-ticket-star": {
+    "body": "<${1:i} className=\"zmdi zmdi-ticket-star$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-ticket-star"
+  },
+  "zmdi-time-countdown": {
+    "body": "<${1:i} className=\"zmdi zmdi-time-countdown$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-time-countdown"
+  },
+  "zmdi-time-interval": {
+    "body": "<${1:i} className=\"zmdi zmdi-time-interval$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-time-interval"
+  },
+  "zmdi-time-restore-setting": {
+    "body": "<${1:i} className=\"zmdi zmdi-time-restore-setting$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-time-restore-setting"
+  },
+  "zmdi-time-restore": {
+    "body": "<${1:i} className=\"zmdi zmdi-time-restore$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-time-restore"
+  },
+  "zmdi-time": {
+    "body": "<${1:i} className=\"zmdi zmdi-time$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-time"
+  },
+  "zmdi-timer-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-timer-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-timer-off"
+  },
+  "zmdi-timer": {
+    "body": "<${1:i} className=\"zmdi zmdi-timer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-timer"
+  },
+  "zmdi-toll": {
+    "body": "<${1:i} className=\"zmdi zmdi-toll$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-toll"
+  },
+  "zmdi-tonality": {
+    "body": "<${1:i} className=\"zmdi zmdi-tonality$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tonality"
+  },
+  "zmdi-toys": {
+    "body": "<${1:i} className=\"zmdi zmdi-toys$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-toys"
+  },
+  "zmdi-traffic": {
+    "body": "<${1:i} className=\"zmdi zmdi-traffic$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-traffic"
+  },
+  "zmdi-transform": {
+    "body": "<${1:i} className=\"zmdi zmdi-transform$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-transform"
+  },
+  "zmdi-translate": {
+    "body": "<${1:i} className=\"zmdi zmdi-translate$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-translate"
+  },
+  "zmdi-trending-down": {
+    "body": "<${1:i} className=\"zmdi zmdi-trending-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-trending-down"
+  },
+  "zmdi-trending-flat": {
+    "body": "<${1:i} className=\"zmdi zmdi-trending-flat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-trending-flat"
+  },
+  "zmdi-trending-up": {
+    "body": "<${1:i} className=\"zmdi zmdi-trending-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-trending-up"
+  },
+  "zmdi-triangle-down": {
+    "body": "<${1:i} className=\"zmdi zmdi-triangle-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-triangle-down"
+  },
+  "zmdi-triangle-up": {
+    "body": "<${1:i} className=\"zmdi zmdi-triangle-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-triangle-up"
+  },
+  "zmdi-truck": {
+    "body": "<${1:i} className=\"zmdi zmdi-truck$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-truck"
+  },
+  "zmdi-tumblr": {
+    "body": "<${1:i} className=\"zmdi zmdi-tumblr$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tumblr"
+  },
+  "zmdi-tune": {
+    "body": "<${1:i} className=\"zmdi zmdi-tune$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tune"
+  },
+  "zmdi-turning-sign": {
+    "body": "<${1:i} className=\"zmdi zmdi-turning-sign$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-turning-sign"
+  },
+  "zmdi-tv-alt-play": {
+    "body": "<${1:i} className=\"zmdi zmdi-tv-alt-play$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tv-alt-play"
+  },
+  "zmdi-tv-list": {
+    "body": "<${1:i} className=\"zmdi zmdi-tv-list$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tv-list"
+  },
+  "zmdi-tv-play": {
+    "body": "<${1:i} className=\"zmdi zmdi-tv-play$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tv-play"
+  },
+  "zmdi-tv": {
+    "body": "<${1:i} className=\"zmdi zmdi-tv$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-tv"
+  },
+  "zmdi-twitch": {
+    "body": "<${1:i} className=\"zmdi zmdi-twitch$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-twitch"
+  },
+  "zmdi-twitter-box": {
+    "body": "<${1:i} className=\"zmdi zmdi-twitter-box$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-twitter-box"
+  },
+  "zmdi-twitter": {
+    "body": "<${1:i} className=\"zmdi zmdi-twitter$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-twitter"
+  },
+  "zmdi-undo": {
+    "body": "<${1:i} className=\"zmdi zmdi-undo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-undo"
+  },
+  "zmdi-unfold-less": {
+    "body": "<${1:i} className=\"zmdi zmdi-unfold-less$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-unfold-less"
+  },
+  "zmdi-unfold-more": {
+    "body": "<${1:i} className=\"zmdi zmdi-unfold-more$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-unfold-more"
+  },
+  "zmdi-ungroup": {
+    "body": "<${1:i} className=\"zmdi zmdi-ungroup$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-ungroup"
+  },
+  "zmdi-upload": {
+    "body": "<${1:i} className=\"zmdi zmdi-upload$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-upload"
+  },
+  "zmdi-usb": {
+    "body": "<${1:i} className=\"zmdi zmdi-usb$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-usb"
+  },
+  "zmdi-vibration": {
+    "body": "<${1:i} className=\"zmdi zmdi-vibration$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-vibration"
+  },
+  "zmdi-videocam-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-videocam-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-videocam-off"
+  },
+  "zmdi-videocam-switch": {
+    "body": "<${1:i} className=\"zmdi zmdi-videocam-switch$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-videocam-switch"
+  },
+  "zmdi-videocam": {
+    "body": "<${1:i} className=\"zmdi zmdi-videocam$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-videocam"
+  },
+  "zmdi-view-agenda": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-agenda$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-agenda"
+  },
+  "zmdi-view-array": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-array$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-array"
+  },
+  "zmdi-view-carousel": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-carousel$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-carousel"
+  },
+  "zmdi-view-column": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-column$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-column"
+  },
+  "zmdi-view-comfy": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-comfy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-comfy"
+  },
+  "zmdi-view-compact": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-compact$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-compact"
+  },
+  "zmdi-view-dashboard": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-dashboard$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-dashboard"
+  },
+  "zmdi-view-day": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-day$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-day"
+  },
+  "zmdi-view-headline": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-headline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-headline"
+  },
+  "zmdi-view-list-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-list-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-list-alt"
+  },
+  "zmdi-view-list": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-list$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-list"
+  },
+  "zmdi-view-module": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-module$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-module"
+  },
+  "zmdi-view-quilt": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-quilt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-quilt"
+  },
+  "zmdi-view-stream": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-stream$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-stream"
+  },
+  "zmdi-view-subtitles": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-subtitles$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-subtitles"
+  },
+  "zmdi-view-toc": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-toc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-toc"
+  },
+  "zmdi-view-web": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-web$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-web"
+  },
+  "zmdi-view-week": {
+    "body": "<${1:i} className=\"zmdi zmdi-view-week$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-view-week"
+  },
+  "zmdi-vignette": {
+    "body": "<${1:i} className=\"zmdi zmdi-vignette$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-vignette"
+  },
+  "zmdi-vimeo": {
+    "body": "<${1:i} className=\"zmdi zmdi-vimeo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-vimeo"
+  },
+  "zmdi-vk": {
+    "body": "<${1:i} className=\"zmdi zmdi-vk$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-vk"
+  },
+  "zmdi-voicemail": {
+    "body": "<${1:i} className=\"zmdi zmdi-voicemail$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-voicemail"
+  },
+  "zmdi-volume-down": {
+    "body": "<${1:i} className=\"zmdi zmdi-volume-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-volume-down"
+  },
+  "zmdi-volume-mute": {
+    "body": "<${1:i} className=\"zmdi zmdi-volume-mute$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-volume-mute"
+  },
+  "zmdi-volume-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-volume-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-volume-off"
+  },
+  "zmdi-volume-up": {
+    "body": "<${1:i} className=\"zmdi zmdi-volume-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-volume-up"
+  },
+  "zmdi-walk": {
+    "body": "<${1:i} className=\"zmdi zmdi-walk$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-walk"
+  },
+  "zmdi-wallpaper": {
+    "body": "<${1:i} className=\"zmdi zmdi-wallpaper$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-wallpaper"
+  },
+  "zmdi-washing-machine": {
+    "body": "<${1:i} className=\"zmdi zmdi-washing-machine$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-washing-machine"
+  },
+  "zmdi-watch": {
+    "body": "<${1:i} className=\"zmdi zmdi-watch$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-watch"
+  },
+  "zmdi-wb-auto": {
+    "body": "<${1:i} className=\"zmdi zmdi-wb-auto$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-wb-auto"
+  },
+  "zmdi-whatsapp": {
+    "body": "<${1:i} className=\"zmdi zmdi-whatsapp$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-whatsapp"
+  },
+  "zmdi-widgets": {
+    "body": "<${1:i} className=\"zmdi zmdi-widgets$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-widgets"
+  },
+  "zmdi-wifi-alt-2": {
+    "body": "<${1:i} className=\"zmdi zmdi-wifi-alt-2$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-wifi-alt-2"
+  },
+  "zmdi-wifi-alt": {
+    "body": "<${1:i} className=\"zmdi zmdi-wifi-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-wifi-alt"
+  },
+  "zmdi-wifi-info": {
+    "body": "<${1:i} className=\"zmdi zmdi-wifi-info$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-wifi-info"
+  },
+  "zmdi-wifi-lock": {
+    "body": "<${1:i} className=\"zmdi zmdi-wifi-lock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-wifi-lock"
+  },
+  "zmdi-wifi-off": {
+    "body": "<${1:i} className=\"zmdi zmdi-wifi-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-wifi-off"
+  },
+  "zmdi-wifi-outline": {
+    "body": "<${1:i} className=\"zmdi zmdi-wifi-outline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-wifi-outline"
+  },
+  "zmdi-wifi": {
+    "body": "<${1:i} className=\"zmdi zmdi-wifi$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-wifi"
+  },
+  "zmdi-wikipedia": {
+    "body": "<${1:i} className=\"zmdi zmdi-wikipedia$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-wikipedia"
+  },
+  "zmdi-window-maximize": {
+    "body": "<${1:i} className=\"zmdi zmdi-window-maximize$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-window-maximize"
+  },
+  "zmdi-window-minimize": {
+    "body": "<${1:i} className=\"zmdi zmdi-window-minimize$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-window-minimize"
+  },
+  "zmdi-window-restore": {
+    "body": "<${1:i} className=\"zmdi zmdi-window-restore$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-window-restore"
+  },
+  "zmdi-windows": {
+    "body": "<${1:i} className=\"zmdi zmdi-windows$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-windows"
+  },
+  "zmdi-wrap-text": {
+    "body": "<${1:i} className=\"zmdi zmdi-wrap-text$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-wrap-text"
+  },
+  "zmdi-wrench": {
+    "body": "<${1:i} className=\"zmdi zmdi-wrench$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-wrench"
+  },
+  "zmdi-xbox": {
+    "body": "<${1:i} className=\"zmdi zmdi-xbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-xbox"
+  },
+  "zmdi-yahoo": {
+    "body": "<${1:i} className=\"zmdi zmdi-yahoo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-yahoo"
+  },
+  "zmdi-youtube-play": {
+    "body": "<${1:i} className=\"zmdi zmdi-youtube-play$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-youtube-play"
+  },
+  "zmdi-youtube": {
+    "body": "<${1:i} className=\"zmdi zmdi-youtube$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-youtube"
+  },
+  "zmdi-zero": {
+    "body": "<${1:i} className=\"zmdi zmdi-zero$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-zero"
+  },
+  "zmdi-zoom-in": {
+    "body": "<${1:i} className=\"zmdi zmdi-zoom-in$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-zoom-in"
+  },
+  "zmdi-zoom-out": {
+    "body": "<${1:i} className=\"zmdi zmdi-zoom-out$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "zmdi-zoom-out"
+  }
+}

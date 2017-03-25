@@ -1,0 +1,477 @@
+{
+  "pf-amazon": {
+    "body": "<${1:span} className=\"pf pf-amazon$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-amazon"
+  },
+  "pf-american-express-alt": {
+    "body": "<${1:span} className=\"pf pf-american-express-alt$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-american-express-alt"
+  },
+  "pf-american-express": {
+    "body": "<${1:span} className=\"pf pf-american-express$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-american-express"
+  },
+  "pf-apple-pay": {
+    "body": "<${1:span} className=\"pf pf-apple-pay$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-apple-pay"
+  },
+  "pf-atm": {
+    "body": "<${1:span} className=\"pf pf-atm$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-atm"
+  },
+  "pf-bancontact-mister-cash": {
+    "body": "<${1:span} className=\"pf pf-bancontact-mister-cash$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-bancontact-mister-cash"
+  },
+  "pf-bank-transfer": {
+    "body": "<${1:span} className=\"pf pf-bank-transfer$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-bank-transfer"
+  },
+  "pf-bankomat": {
+    "body": "<${1:span} className=\"pf pf-bankomat$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-bankomat"
+  },
+  "pf-bitcoin-sign": {
+    "body": "<${1:span} className=\"pf pf-bitcoin-sign$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-bitcoin-sign"
+  },
+  "pf-bitcoin": {
+    "body": "<${1:span} className=\"pf pf-bitcoin$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-bitcoin"
+  },
+  "pf-braintree": {
+    "body": "<${1:span} className=\"pf pf-braintree$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-braintree"
+  },
+  "pf-btc": {
+    "body": "<${1:span} className=\"pf pf-btc$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-btc"
+  },
+  "pf-card": {
+    "body": "<${1:span} className=\"pf pf-card$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-card"
+  },
+  "pf-carta-si": {
+    "body": "<${1:span} className=\"pf pf-carta-si$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-carta-si"
+  },
+  "pf-cash-on-delivery": {
+    "body": "<${1:span} className=\"pf pf-cash-on-delivery$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-cash-on-delivery"
+  },
+  "pf-cash-on-pickup": {
+    "body": "<${1:span} className=\"pf pf-cash-on-pickup$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-cash-on-pickup"
+  },
+  "pf-cash": {
+    "body": "<${1:span} className=\"pf pf-cash$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-cash"
+  },
+  "pf-cashcloud": {
+    "body": "<${1:span} className=\"pf pf-cashcloud$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-cashcloud"
+  },
+  "pf-cb": {
+    "body": "<${1:span} className=\"pf pf-cb$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-cb"
+  },
+  "pf-cirrus-alt": {
+    "body": "<${1:span} className=\"pf pf-cirrus-alt$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-cirrus-alt"
+  },
+  "pf-cirrus": {
+    "body": "<${1:span} className=\"pf pf-cirrus$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-cirrus"
+  },
+  "pf-clickandbuy": {
+    "body": "<${1:span} className=\"pf pf-clickandbuy$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-clickandbuy"
+  },
+  "pf-credit-card": {
+    "body": "<${1:span} className=\"pf pf-credit-card$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-credit-card"
+  },
+  "pf-dankort": {
+    "body": "<${1:span} className=\"pf pf-dankort$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-dankort"
+  },
+  "pf-diners": {
+    "body": "<${1:span} className=\"pf pf-diners$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-diners"
+  },
+  "pf-discover": {
+    "body": "<${1:span} className=\"pf pf-discover$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-discover"
+  },
+  "pf-ec": {
+    "body": "<${1:span} className=\"pf pf-ec$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-ec"
+  },
+  "pf-elo-alt": {
+    "body": "<${1:span} className=\"pf pf-elo-alt$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-elo-alt"
+  },
+  "pf-elo": {
+    "body": "<${1:span} className=\"pf pf-elo$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-elo"
+  },
+  "pf-eps": {
+    "body": "<${1:span} className=\"pf pf-eps$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-eps"
+  },
+  "pf-eur": {
+    "body": "<${1:span} className=\"pf pf-eur$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-eur"
+  },
+  "pf-facture": {
+    "body": "<${1:span} className=\"pf pf-facture$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-facture"
+  },
+  "pf-fattura": {
+    "body": "<${1:span} className=\"pf pf-fattura$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-fattura"
+  },
+  "pf-flattr": {
+    "body": "<${1:span} className=\"pf pf-flattr$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-flattr"
+  },
+  "pf-gbp": {
+    "body": "<${1:span} className=\"pf pf-gbp$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-gbp"
+  },
+  "pf-giropay": {
+    "body": "<${1:span} className=\"pf pf-giropay$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-giropay"
+  },
+  "pf-google-wallet-alt": {
+    "body": "<${1:span} className=\"pf pf-google-wallet-alt$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-google-wallet-alt"
+  },
+  "pf-google-wallet": {
+    "body": "<${1:span} className=\"pf pf-google-wallet$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-google-wallet"
+  },
+  "pf-gratipay-sign": {
+    "body": "<${1:span} className=\"pf pf-gratipay-sign$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-gratipay-sign"
+  },
+  "pf-gratipay": {
+    "body": "<${1:span} className=\"pf pf-gratipay$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-gratipay"
+  },
+  "pf-ideal": {
+    "body": "<${1:span} className=\"pf pf-ideal$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-ideal"
+  },
+  "pf-ils": {
+    "body": "<${1:span} className=\"pf pf-ils$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-ils"
+  },
+  "pf-inr": {
+    "body": "<${1:span} className=\"pf pf-inr$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-inr"
+  },
+  "pf-interac": {
+    "body": "<${1:span} className=\"pf pf-interac$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-interac"
+  },
+  "pf-invoice-sign-alt-o": {
+    "body": "<${1:span} className=\"pf pf-invoice-sign-alt-o$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-invoice-sign-alt-o"
+  },
+  "pf-invoice-sign-alt": {
+    "body": "<${1:span} className=\"pf pf-invoice-sign-alt$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-invoice-sign-alt"
+  },
+  "pf-invoice-sign-o": {
+    "body": "<${1:span} className=\"pf pf-invoice-sign-o$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-invoice-sign-o"
+  },
+  "pf-invoice-sign": {
+    "body": "<${1:span} className=\"pf pf-invoice-sign$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-invoice-sign"
+  },
+  "pf-invoice": {
+    "body": "<${1:span} className=\"pf pf-invoice$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-invoice"
+  },
+  "pf-jcb": {
+    "body": "<${1:span} className=\"pf pf-jcb$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-jcb"
+  },
+  "pf-jpy": {
+    "body": "<${1:span} className=\"pf pf-jpy$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-jpy"
+  },
+  "pf-krw": {
+    "body": "<${1:span} className=\"pf pf-krw$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-krw"
+  },
+  "pf-maestro-alt": {
+    "body": "<${1:span} className=\"pf pf-maestro-alt$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-maestro-alt"
+  },
+  "pf-maestro": {
+    "body": "<${1:span} className=\"pf pf-maestro$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-maestro"
+  },
+  "pf-mastercard-alt": {
+    "body": "<${1:span} className=\"pf pf-mastercard-alt$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-mastercard-alt"
+  },
+  "pf-mastercard-securecode": {
+    "body": "<${1:span} className=\"pf pf-mastercard-securecode$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-mastercard-securecode"
+  },
+  "pf-mastercard": {
+    "body": "<${1:span} className=\"pf pf-mastercard$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-mastercard"
+  },
+  "pf-mercado-pago-sign": {
+    "body": "<${1:span} className=\"pf pf-mercado-pago-sign$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-mercado-pago-sign"
+  },
+  "pf-mercado-pago": {
+    "body": "<${1:span} className=\"pf pf-mercado-pago$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-mercado-pago"
+  },
+  "pf-moip": {
+    "body": "<${1:span} className=\"pf pf-moip$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-moip"
+  },
+  "pf-multibanco": {
+    "body": "<${1:span} className=\"pf pf-multibanco$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-multibanco"
+  },
+  "pf-ogone": {
+    "body": "<${1:span} className=\"pf pf-ogone$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-ogone"
+  },
+  "pf-pagseguro": {
+    "body": "<${1:span} className=\"pf pf-pagseguro$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-pagseguro"
+  },
+  "pf-paybox": {
+    "body": "<${1:span} className=\"pf pf-paybox$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-paybox"
+  },
+  "pf-paylife": {
+    "body": "<${1:span} className=\"pf pf-paylife$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-paylife"
+  },
+  "pf-paymill": {
+    "body": "<${1:span} className=\"pf pf-paymill$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-paymill"
+  },
+  "pf-paypal-alt": {
+    "body": "<${1:span} className=\"pf pf-paypal-alt$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-paypal-alt"
+  },
+  "pf-paypal": {
+    "body": "<${1:span} className=\"pf pf-paypal$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-paypal"
+  },
+  "pf-paysafecard": {
+    "body": "<${1:span} className=\"pf pf-paysafecard$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-paysafecard"
+  },
+  "pf-payshop": {
+    "body": "<${1:span} className=\"pf pf-payshop$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-payshop"
+  },
+  "pf-payu": {
+    "body": "<${1:span} className=\"pf pf-payu$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-payu"
+  },
+  "pf-postepay": {
+    "body": "<${1:span} className=\"pf pf-postepay$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-postepay"
+  },
+  "pf-quick": {
+    "body": "<${1:span} className=\"pf pf-quick$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-quick"
+  },
+  "pf-rechnung": {
+    "body": "<${1:span} className=\"pf pf-rechnung$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-rechnung"
+  },
+  "pf-ripple": {
+    "body": "<${1:span} className=\"pf pf-ripple$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-ripple"
+  },
+  "pf-rub": {
+    "body": "<${1:span} className=\"pf pf-rub$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-rub"
+  },
+  "pf-sage": {
+    "body": "<${1:span} className=\"pf pf-sage$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-sage"
+  },
+  "pf-sepa-alt": {
+    "body": "<${1:span} className=\"pf pf-sepa-alt$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-sepa-alt"
+  },
+  "pf-sepa": {
+    "body": "<${1:span} className=\"pf pf-sepa$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-sepa"
+  },
+  "pf-six": {
+    "body": "<${1:span} className=\"pf pf-six$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-six"
+  },
+  "pf-skrill": {
+    "body": "<${1:span} className=\"pf pf-skrill$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-skrill"
+  },
+  "pf-sofort": {
+    "body": "<${1:span} className=\"pf pf-sofort$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-sofort"
+  },
+  "pf-square": {
+    "body": "<${1:span} className=\"pf pf-square$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-square"
+  },
+  "pf-stripe": {
+    "body": "<${1:span} className=\"pf pf-stripe$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-stripe"
+  },
+  "pf-truste": {
+    "body": "<${1:span} className=\"pf pf-truste$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-truste"
+  },
+  "pf-try": {
+    "body": "<${1:span} className=\"pf pf-try$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-try"
+  },
+  "pf-unionpay": {
+    "body": "<${1:span} className=\"pf pf-unionpay$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-unionpay"
+  },
+  "pf-usd": {
+    "body": "<${1:span} className=\"pf pf-usd$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-usd"
+  },
+  "pf-verified-by-visa": {
+    "body": "<${1:span} className=\"pf pf-verified-by-visa$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-verified-by-visa"
+  },
+  "pf-verisign": {
+    "body": "<${1:span} className=\"pf pf-verisign$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-verisign"
+  },
+  "pf-visa-electron": {
+    "body": "<${1:span} className=\"pf pf-visa-electron$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-visa-electron"
+  },
+  "pf-visa": {
+    "body": "<${1:span} className=\"pf pf-visa$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-visa"
+  },
+  "pf-western-union-alt": {
+    "body": "<${1:span} className=\"pf pf-western-union-alt$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-western-union-alt"
+  },
+  "pf-western-union": {
+    "body": "<${1:span} className=\"pf pf-western-union$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-western-union"
+  },
+  "pf-wirecard": {
+    "body": "<${1:span} className=\"pf pf-wirecard$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "pf-wirecard"
+  }
+}

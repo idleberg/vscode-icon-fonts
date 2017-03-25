@@ -1,0 +1,1517 @@
+{
+  "el-address-book": {
+    "body": "<${1:i} className=\"el el-address-book$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-address-book"
+  },
+  "el-adjust-alt": {
+    "body": "<${1:i} className=\"el el-adjust-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-adjust-alt"
+  },
+  "el-adjust": {
+    "body": "<${1:i} className=\"el el-adjust$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-adjust"
+  },
+  "el-adult": {
+    "body": "<${1:i} className=\"el el-adult$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-adult"
+  },
+  "el-align-center": {
+    "body": "<${1:i} className=\"el el-align-center$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-align-center"
+  },
+  "el-align-justify": {
+    "body": "<${1:i} className=\"el el-align-justify$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-align-justify"
+  },
+  "el-align-left": {
+    "body": "<${1:i} className=\"el el-align-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-align-left"
+  },
+  "el-align-right": {
+    "body": "<${1:i} className=\"el el-align-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-align-right"
+  },
+  "el-arrow-down": {
+    "body": "<${1:i} className=\"el el-arrow-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-arrow-down"
+  },
+  "el-arrow-left": {
+    "body": "<${1:i} className=\"el el-arrow-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-arrow-left"
+  },
+  "el-arrow-right": {
+    "body": "<${1:i} className=\"el el-arrow-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-arrow-right"
+  },
+  "el-arrow-up": {
+    "body": "<${1:i} className=\"el el-arrow-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-arrow-up"
+  },
+  "el-asl": {
+    "body": "<${1:i} className=\"el el-asl$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-asl"
+  },
+  "el-asterisk": {
+    "body": "<${1:i} className=\"el el-asterisk$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-asterisk"
+  },
+  "el-backward": {
+    "body": "<${1:i} className=\"el el-backward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-backward"
+  },
+  "el-ban-circle": {
+    "body": "<${1:i} className=\"el el-ban-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-ban-circle"
+  },
+  "el-barcode": {
+    "body": "<${1:i} className=\"el el-barcode$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-barcode"
+  },
+  "el-behance": {
+    "body": "<${1:i} className=\"el el-behance$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-behance"
+  },
+  "el-bell": {
+    "body": "<${1:i} className=\"el el-bell$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-bell"
+  },
+  "el-blind": {
+    "body": "<${1:i} className=\"el el-blind$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-blind"
+  },
+  "el-blogger": {
+    "body": "<${1:i} className=\"el el-blogger$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-blogger"
+  },
+  "el-bold": {
+    "body": "<${1:i} className=\"el el-bold$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-bold"
+  },
+  "el-book": {
+    "body": "<${1:i} className=\"el el-book$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-book"
+  },
+  "el-bookmark-empty": {
+    "body": "<${1:i} className=\"el el-bookmark-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-bookmark-empty"
+  },
+  "el-bookmark": {
+    "body": "<${1:i} className=\"el el-bookmark$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-bookmark"
+  },
+  "el-braille": {
+    "body": "<${1:i} className=\"el el-braille$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-braille"
+  },
+  "el-briefcase": {
+    "body": "<${1:i} className=\"el el-briefcase$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-briefcase"
+  },
+  "el-broom": {
+    "body": "<${1:i} className=\"el el-broom$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-broom"
+  },
+  "el-brush": {
+    "body": "<${1:i} className=\"el el-brush$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-brush"
+  },
+  "el-bulb": {
+    "body": "<${1:i} className=\"el el-bulb$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-bulb"
+  },
+  "el-bullhorn": {
+    "body": "<${1:i} className=\"el el-bullhorn$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-bullhorn"
+  },
+  "el-calendar-sign": {
+    "body": "<${1:i} className=\"el el-calendar-sign$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-calendar-sign"
+  },
+  "el-calendar": {
+    "body": "<${1:i} className=\"el el-calendar$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-calendar"
+  },
+  "el-camera": {
+    "body": "<${1:i} className=\"el el-camera$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-camera"
+  },
+  "el-car": {
+    "body": "<${1:i} className=\"el el-car$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-car"
+  },
+  "el-caret-down": {
+    "body": "<${1:i} className=\"el el-caret-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-caret-down"
+  },
+  "el-caret-left": {
+    "body": "<${1:i} className=\"el el-caret-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-caret-left"
+  },
+  "el-caret-right": {
+    "body": "<${1:i} className=\"el el-caret-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-caret-right"
+  },
+  "el-caret-up": {
+    "body": "<${1:i} className=\"el el-caret-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-caret-up"
+  },
+  "el-cc": {
+    "body": "<${1:i} className=\"el el-cc$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-cc"
+  },
+  "el-certificate": {
+    "body": "<${1:i} className=\"el el-certificate$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-certificate"
+  },
+  "el-check-empty": {
+    "body": "<${1:i} className=\"el el-check-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-check-empty"
+  },
+  "el-check": {
+    "body": "<${1:i} className=\"el el-check$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-check"
+  },
+  "el-chevron-down": {
+    "body": "<${1:i} className=\"el el-chevron-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-chevron-down"
+  },
+  "el-chevron-left": {
+    "body": "<${1:i} className=\"el el-chevron-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-chevron-left"
+  },
+  "el-chevron-right": {
+    "body": "<${1:i} className=\"el el-chevron-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-chevron-right"
+  },
+  "el-chevron-up": {
+    "body": "<${1:i} className=\"el el-chevron-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-chevron-up"
+  },
+  "el-child": {
+    "body": "<${1:i} className=\"el el-child$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-child"
+  },
+  "el-circle-arrow-down": {
+    "body": "<${1:i} className=\"el el-circle-arrow-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-circle-arrow-down"
+  },
+  "el-circle-arrow-left": {
+    "body": "<${1:i} className=\"el el-circle-arrow-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-circle-arrow-left"
+  },
+  "el-circle-arrow-right": {
+    "body": "<${1:i} className=\"el el-circle-arrow-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-circle-arrow-right"
+  },
+  "el-circle-arrow-up": {
+    "body": "<${1:i} className=\"el el-circle-arrow-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-circle-arrow-up"
+  },
+  "el-cloud-alt": {
+    "body": "<${1:i} className=\"el el-cloud-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-cloud-alt"
+  },
+  "el-cloud": {
+    "body": "<${1:i} className=\"el el-cloud$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-cloud"
+  },
+  "el-cog-alt": {
+    "body": "<${1:i} className=\"el el-cog-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-cog-alt"
+  },
+  "el-cog": {
+    "body": "<${1:i} className=\"el el-cog$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-cog"
+  },
+  "el-cogs": {
+    "body": "<${1:i} className=\"el el-cogs$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-cogs"
+  },
+  "el-comment-alt": {
+    "body": "<${1:i} className=\"el el-comment-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-comment-alt"
+  },
+  "el-comment": {
+    "body": "<${1:i} className=\"el el-comment$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-comment"
+  },
+  "el-compass-alt": {
+    "body": "<${1:i} className=\"el el-compass-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-compass-alt"
+  },
+  "el-compass": {
+    "body": "<${1:i} className=\"el el-compass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-compass"
+  },
+  "el-credit-card": {
+    "body": "<${1:i} className=\"el el-credit-card$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-credit-card"
+  },
+  "el-css": {
+    "body": "<${1:i} className=\"el el-css$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-css"
+  },
+  "el-dashboard": {
+    "body": "<${1:i} className=\"el el-dashboard$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-dashboard"
+  },
+  "el-delicious": {
+    "body": "<${1:i} className=\"el el-delicious$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-delicious"
+  },
+  "el-deviantart": {
+    "body": "<${1:i} className=\"el el-deviantart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-deviantart"
+  },
+  "el-digg": {
+    "body": "<${1:i} className=\"el el-digg$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-digg"
+  },
+  "el-download-alt": {
+    "body": "<${1:i} className=\"el el-download-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-download-alt"
+  },
+  "el-download": {
+    "body": "<${1:i} className=\"el el-download$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-download"
+  },
+  "el-dribbble": {
+    "body": "<${1:i} className=\"el el-dribbble$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-dribbble"
+  },
+  "el-edit": {
+    "body": "<${1:i} className=\"el el-edit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-edit"
+  },
+  "el-eject": {
+    "body": "<${1:i} className=\"el el-eject$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-eject"
+  },
+  "el-envelope-alt": {
+    "body": "<${1:i} className=\"el el-envelope-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-envelope-alt"
+  },
+  "el-envelope": {
+    "body": "<${1:i} className=\"el el-envelope$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-envelope"
+  },
+  "el-error-alt": {
+    "body": "<${1:i} className=\"el el-error-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-error-alt"
+  },
+  "el-error": {
+    "body": "<${1:i} className=\"el el-error$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-error"
+  },
+  "el-eur": {
+    "body": "<${1:i} className=\"el el-eur$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-eur"
+  },
+  "el-exclamation-sign": {
+    "body": "<${1:i} className=\"el el-exclamation-sign$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-exclamation-sign"
+  },
+  "el-eye-close": {
+    "body": "<${1:i} className=\"el el-eye-close$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-eye-close"
+  },
+  "el-eye-open": {
+    "body": "<${1:i} className=\"el el-eye-open$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-eye-open"
+  },
+  "el-facebook": {
+    "body": "<${1:i} className=\"el el-facebook$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-facebook"
+  },
+  "el-facetime-video": {
+    "body": "<${1:i} className=\"el el-facetime-video$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-facetime-video"
+  },
+  "el-fast-backward": {
+    "body": "<${1:i} className=\"el el-fast-backward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-fast-backward"
+  },
+  "el-fast-forward": {
+    "body": "<${1:i} className=\"el el-fast-forward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-fast-forward"
+  },
+  "el-female": {
+    "body": "<${1:i} className=\"el el-female$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-female"
+  },
+  "el-file-alt": {
+    "body": "<${1:i} className=\"el el-file-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-file-alt"
+  },
+  "el-file-edit-alt": {
+    "body": "<${1:i} className=\"el el-file-edit-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-file-edit-alt"
+  },
+  "el-file-edit": {
+    "body": "<${1:i} className=\"el el-file-edit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-file-edit"
+  },
+  "el-file-new-alt": {
+    "body": "<${1:i} className=\"el el-file-new-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-file-new-alt"
+  },
+  "el-file-new": {
+    "body": "<${1:i} className=\"el el-file-new$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-file-new"
+  },
+  "el-file": {
+    "body": "<${1:i} className=\"el el-file$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-file"
+  },
+  "el-film": {
+    "body": "<${1:i} className=\"el el-film$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-film"
+  },
+  "el-filter": {
+    "body": "<${1:i} className=\"el el-filter$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-filter"
+  },
+  "el-fire": {
+    "body": "<${1:i} className=\"el el-fire$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-fire"
+  },
+  "el-flag-alt": {
+    "body": "<${1:i} className=\"el el-flag-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-flag-alt"
+  },
+  "el-flag": {
+    "body": "<${1:i} className=\"el el-flag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-flag"
+  },
+  "el-flickr": {
+    "body": "<${1:i} className=\"el el-flickr$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-flickr"
+  },
+  "el-folder-close": {
+    "body": "<${1:i} className=\"el el-folder-close$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-folder-close"
+  },
+  "el-folder-open": {
+    "body": "<${1:i} className=\"el el-folder-open$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-folder-open"
+  },
+  "el-folder-sign": {
+    "body": "<${1:i} className=\"el el-folder-sign$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-folder-sign"
+  },
+  "el-folder": {
+    "body": "<${1:i} className=\"el el-folder$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-folder"
+  },
+  "el-font": {
+    "body": "<${1:i} className=\"el el-font$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-font"
+  },
+  "el-fontsize": {
+    "body": "<${1:i} className=\"el el-fontsize$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-fontsize"
+  },
+  "el-fork": {
+    "body": "<${1:i} className=\"el el-fork$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-fork"
+  },
+  "el-forward-alt": {
+    "body": "<${1:i} className=\"el el-forward-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-forward-alt"
+  },
+  "el-forward": {
+    "body": "<${1:i} className=\"el el-forward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-forward"
+  },
+  "el-foursquare": {
+    "body": "<${1:i} className=\"el el-foursquare$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-foursquare"
+  },
+  "el-friendfeed-rect": {
+    "body": "<${1:i} className=\"el el-friendfeed-rect$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-friendfeed-rect"
+  },
+  "el-friendfeed": {
+    "body": "<${1:i} className=\"el el-friendfeed$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-friendfeed"
+  },
+  "el-fullscreen": {
+    "body": "<${1:i} className=\"el el-fullscreen$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-fullscreen"
+  },
+  "el-gbp": {
+    "body": "<${1:i} className=\"el el-gbp$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-gbp"
+  },
+  "el-gift": {
+    "body": "<${1:i} className=\"el el-gift$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-gift"
+  },
+  "el-github-text": {
+    "body": "<${1:i} className=\"el el-github-text$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-github-text"
+  },
+  "el-github": {
+    "body": "<${1:i} className=\"el el-github$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-github"
+  },
+  "el-glass": {
+    "body": "<${1:i} className=\"el el-glass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-glass"
+  },
+  "el-glasses": {
+    "body": "<${1:i} className=\"el el-glasses$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-glasses"
+  },
+  "el-globe-alt": {
+    "body": "<${1:i} className=\"el el-globe-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-globe-alt"
+  },
+  "el-globe": {
+    "body": "<${1:i} className=\"el el-globe$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-globe"
+  },
+  "el-googleplus": {
+    "body": "<${1:i} className=\"el el-googleplus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-googleplus"
+  },
+  "el-graph-alt": {
+    "body": "<${1:i} className=\"el el-graph-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-graph-alt"
+  },
+  "el-graph": {
+    "body": "<${1:i} className=\"el el-graph$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-graph"
+  },
+  "el-group-alt": {
+    "body": "<${1:i} className=\"el el-group-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-group-alt"
+  },
+  "el-group": {
+    "body": "<${1:i} className=\"el el-group$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-group"
+  },
+  "el-guidedog": {
+    "body": "<${1:i} className=\"el el-guidedog$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-guidedog"
+  },
+  "el-hand-down": {
+    "body": "<${1:i} className=\"el el-hand-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-hand-down"
+  },
+  "el-hand-left": {
+    "body": "<${1:i} className=\"el el-hand-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-hand-left"
+  },
+  "el-hand-right": {
+    "body": "<${1:i} className=\"el el-hand-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-hand-right"
+  },
+  "el-hand-up": {
+    "body": "<${1:i} className=\"el el-hand-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-hand-up"
+  },
+  "el-hdd": {
+    "body": "<${1:i} className=\"el el-hdd$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-hdd"
+  },
+  "el-headphones": {
+    "body": "<${1:i} className=\"el el-headphones$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-headphones"
+  },
+  "el-hearing-impaired": {
+    "body": "<${1:i} className=\"el el-hearing-impaired$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-hearing-impaired"
+  },
+  "el-heart-alt": {
+    "body": "<${1:i} className=\"el el-heart-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-heart-alt"
+  },
+  "el-heart-empty": {
+    "body": "<${1:i} className=\"el el-heart-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-heart-empty"
+  },
+  "el-heart": {
+    "body": "<${1:i} className=\"el el-heart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-heart"
+  },
+  "el-home-alt": {
+    "body": "<${1:i} className=\"el el-home-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-home-alt"
+  },
+  "el-home": {
+    "body": "<${1:i} className=\"el el-home$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-home"
+  },
+  "el-hourglass": {
+    "body": "<${1:i} className=\"el el-hourglass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-hourglass"
+  },
+  "el-idea-alt": {
+    "body": "<${1:i} className=\"el el-idea-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-idea-alt"
+  },
+  "el-idea": {
+    "body": "<${1:i} className=\"el el-idea$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-idea"
+  },
+  "el-inbox-alt": {
+    "body": "<${1:i} className=\"el el-inbox-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-inbox-alt"
+  },
+  "el-inbox-box": {
+    "body": "<${1:i} className=\"el el-inbox-box$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-inbox-box"
+  },
+  "el-inbox": {
+    "body": "<${1:i} className=\"el el-inbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-inbox"
+  },
+  "el-indent-left": {
+    "body": "<${1:i} className=\"el el-indent-left$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-indent-left"
+  },
+  "el-indent-right": {
+    "body": "<${1:i} className=\"el el-indent-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-indent-right"
+  },
+  "el-info-circle": {
+    "body": "<${1:i} className=\"el el-info-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-info-circle"
+  },
+  "el-instagram": {
+    "body": "<${1:i} className=\"el el-instagram$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-instagram"
+  },
+  "el-iphone-home": {
+    "body": "<${1:i} className=\"el el-iphone-home$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-iphone-home"
+  },
+  "el-italic": {
+    "body": "<${1:i} className=\"el el-italic$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-italic"
+  },
+  "el-key": {
+    "body": "<${1:i} className=\"el el-key$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-key"
+  },
+  "el-laptop-alt": {
+    "body": "<${1:i} className=\"el el-laptop-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-laptop-alt"
+  },
+  "el-laptop": {
+    "body": "<${1:i} className=\"el el-laptop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-laptop"
+  },
+  "el-lastfm": {
+    "body": "<${1:i} className=\"el el-lastfm$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-lastfm"
+  },
+  "el-leaf": {
+    "body": "<${1:i} className=\"el el-leaf$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-leaf"
+  },
+  "el-lines": {
+    "body": "<${1:i} className=\"el el-lines$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-lines"
+  },
+  "el-link": {
+    "body": "<${1:i} className=\"el el-link$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-link"
+  },
+  "el-linkedin": {
+    "body": "<${1:i} className=\"el el-linkedin$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-linkedin"
+  },
+  "el-list-alt": {
+    "body": "<${1:i} className=\"el el-list-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-list-alt"
+  },
+  "el-list": {
+    "body": "<${1:i} className=\"el el-list$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-list"
+  },
+  "el-livejournal": {
+    "body": "<${1:i} className=\"el el-livejournal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-livejournal"
+  },
+  "el-lock-alt": {
+    "body": "<${1:i} className=\"el el-lock-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-lock-alt"
+  },
+  "el-lock": {
+    "body": "<${1:i} className=\"el el-lock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-lock"
+  },
+  "el-magic": {
+    "body": "<${1:i} className=\"el el-magic$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-magic"
+  },
+  "el-magnet": {
+    "body": "<${1:i} className=\"el el-magnet$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-magnet"
+  },
+  "el-male": {
+    "body": "<${1:i} className=\"el el-male$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-male"
+  },
+  "el-map-marker-alt": {
+    "body": "<${1:i} className=\"el el-map-marker-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-map-marker-alt"
+  },
+  "el-map-marker": {
+    "body": "<${1:i} className=\"el el-map-marker$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-map-marker"
+  },
+  "el-mic-alt": {
+    "body": "<${1:i} className=\"el el-mic-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-mic-alt"
+  },
+  "el-mic": {
+    "body": "<${1:i} className=\"el el-mic$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-mic"
+  },
+  "el-minus-sign": {
+    "body": "<${1:i} className=\"el el-minus-sign$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-minus-sign"
+  },
+  "el-minus": {
+    "body": "<${1:i} className=\"el el-minus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-minus"
+  },
+  "el-move": {
+    "body": "<${1:i} className=\"el el-move$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-move"
+  },
+  "el-music": {
+    "body": "<${1:i} className=\"el el-music$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-music"
+  },
+  "el-myspace": {
+    "body": "<${1:i} className=\"el el-myspace$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-myspace"
+  },
+  "el-network": {
+    "body": "<${1:i} className=\"el el-network$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-network"
+  },
+  "el-off": {
+    "body": "<${1:i} className=\"el el-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-off"
+  },
+  "el-ok-circle": {
+    "body": "<${1:i} className=\"el el-ok-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-ok-circle"
+  },
+  "el-ok-sign": {
+    "body": "<${1:i} className=\"el el-ok-sign$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-ok-sign"
+  },
+  "el-ok": {
+    "body": "<${1:i} className=\"el el-ok$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-ok"
+  },
+  "el-opensource": {
+    "body": "<${1:i} className=\"el el-opensource$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-opensource"
+  },
+  "el-paper-clip-alt": {
+    "body": "<${1:i} className=\"el el-paper-clip-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-paper-clip-alt"
+  },
+  "el-paper-clip": {
+    "body": "<${1:i} className=\"el el-paper-clip$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-paper-clip"
+  },
+  "el-path": {
+    "body": "<${1:i} className=\"el el-path$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-path"
+  },
+  "el-pause-alt": {
+    "body": "<${1:i} className=\"el el-pause-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-pause-alt"
+  },
+  "el-pause": {
+    "body": "<${1:i} className=\"el el-pause$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-pause"
+  },
+  "el-pencil-alt": {
+    "body": "<${1:i} className=\"el el-pencil-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-pencil-alt"
+  },
+  "el-pencil": {
+    "body": "<${1:i} className=\"el el-pencil$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-pencil"
+  },
+  "el-person": {
+    "body": "<${1:i} className=\"el el-person$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-person"
+  },
+  "el-phone-alt": {
+    "body": "<${1:i} className=\"el el-phone-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-phone-alt"
+  },
+  "el-phone": {
+    "body": "<${1:i} className=\"el el-phone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-phone"
+  },
+  "el-photo-alt": {
+    "body": "<${1:i} className=\"el el-photo-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-photo-alt"
+  },
+  "el-photo": {
+    "body": "<${1:i} className=\"el el-photo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-photo"
+  },
+  "el-picasa": {
+    "body": "<${1:i} className=\"el el-picasa$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-picasa"
+  },
+  "el-picture": {
+    "body": "<${1:i} className=\"el el-picture$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-picture"
+  },
+  "el-pinterest": {
+    "body": "<${1:i} className=\"el el-pinterest$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-pinterest"
+  },
+  "el-plane": {
+    "body": "<${1:i} className=\"el el-plane$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-plane"
+  },
+  "el-play-alt": {
+    "body": "<${1:i} className=\"el el-play-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-play-alt"
+  },
+  "el-play-circle": {
+    "body": "<${1:i} className=\"el el-play-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-play-circle"
+  },
+  "el-play": {
+    "body": "<${1:i} className=\"el el-play$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-play"
+  },
+  "el-plurk-alt": {
+    "body": "<${1:i} className=\"el el-plurk-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-plurk-alt"
+  },
+  "el-plurk": {
+    "body": "<${1:i} className=\"el el-plurk$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-plurk"
+  },
+  "el-plus-sign": {
+    "body": "<${1:i} className=\"el el-plus-sign$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-plus-sign"
+  },
+  "el-plus": {
+    "body": "<${1:i} className=\"el el-plus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-plus"
+  },
+  "el-podcast": {
+    "body": "<${1:i} className=\"el el-podcast$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-podcast"
+  },
+  "el-print": {
+    "body": "<${1:i} className=\"el el-print$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-print"
+  },
+  "el-puzzle": {
+    "body": "<${1:i} className=\"el el-puzzle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-puzzle"
+  },
+  "el-qrcode": {
+    "body": "<${1:i} className=\"el el-qrcode$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-qrcode"
+  },
+  "el-question-sign": {
+    "body": "<${1:i} className=\"el el-question-sign$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-question-sign"
+  },
+  "el-question": {
+    "body": "<${1:i} className=\"el el-question$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-question"
+  },
+  "el-quote-alt": {
+    "body": "<${1:i} className=\"el el-quote-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-quote-alt"
+  },
+  "el-quote-right-alt": {
+    "body": "<${1:i} className=\"el el-quote-right-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-quote-right-alt"
+  },
+  "el-quote-right": {
+    "body": "<${1:i} className=\"el el-quote-right$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-quote-right"
+  },
+  "el-quotes": {
+    "body": "<${1:i} className=\"el el-quotes$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-quotes"
+  },
+  "el-random": {
+    "body": "<${1:i} className=\"el el-random$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-random"
+  },
+  "el-record": {
+    "body": "<${1:i} className=\"el el-record$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-record"
+  },
+  "el-reddit": {
+    "body": "<${1:i} className=\"el el-reddit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-reddit"
+  },
+  "el-redux": {
+    "body": "<${1:i} className=\"el el-redux$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-redux"
+  },
+  "el-refresh": {
+    "body": "<${1:i} className=\"el el-refresh$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-refresh"
+  },
+  "el-remove-circle": {
+    "body": "<${1:i} className=\"el el-remove-circle$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-remove-circle"
+  },
+  "el-remove-sign": {
+    "body": "<${1:i} className=\"el el-remove-sign$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-remove-sign"
+  },
+  "el-remove": {
+    "body": "<${1:i} className=\"el el-remove$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-remove"
+  },
+  "el-repeat-alt": {
+    "body": "<${1:i} className=\"el el-repeat-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-repeat-alt"
+  },
+  "el-repeat": {
+    "body": "<${1:i} className=\"el el-repeat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-repeat"
+  },
+  "el-resize-full": {
+    "body": "<${1:i} className=\"el el-resize-full$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-resize-full"
+  },
+  "el-resize-horizontal": {
+    "body": "<${1:i} className=\"el el-resize-horizontal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-resize-horizontal"
+  },
+  "el-resize-small": {
+    "body": "<${1:i} className=\"el el-resize-small$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-resize-small"
+  },
+  "el-resize-vertical": {
+    "body": "<${1:i} className=\"el el-resize-vertical$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-resize-vertical"
+  },
+  "el-return-key": {
+    "body": "<${1:i} className=\"el el-return-key$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-return-key"
+  },
+  "el-retweet": {
+    "body": "<${1:i} className=\"el el-retweet$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-retweet"
+  },
+  "el-reverse-alt": {
+    "body": "<${1:i} className=\"el el-reverse-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-reverse-alt"
+  },
+  "el-road": {
+    "body": "<${1:i} className=\"el el-road$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-road"
+  },
+  "el-rss": {
+    "body": "<${1:i} className=\"el el-rss$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-rss"
+  },
+  "el-scissors": {
+    "body": "<${1:i} className=\"el el-scissors$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-scissors"
+  },
+  "el-screen-alt": {
+    "body": "<${1:i} className=\"el el-screen-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-screen-alt"
+  },
+  "el-screen": {
+    "body": "<${1:i} className=\"el el-screen$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-screen"
+  },
+  "el-screenshot": {
+    "body": "<${1:i} className=\"el el-screenshot$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-screenshot"
+  },
+  "el-search-alt": {
+    "body": "<${1:i} className=\"el el-search-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-search-alt"
+  },
+  "el-search": {
+    "body": "<${1:i} className=\"el el-search$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-search"
+  },
+  "el-share-alt": {
+    "body": "<${1:i} className=\"el el-share-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-share-alt"
+  },
+  "el-share": {
+    "body": "<${1:i} className=\"el el-share$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-share"
+  },
+  "el-shopping-cart-sign": {
+    "body": "<${1:i} className=\"el el-shopping-cart-sign$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-shopping-cart-sign"
+  },
+  "el-shopping-cart": {
+    "body": "<${1:i} className=\"el el-shopping-cart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-shopping-cart"
+  },
+  "el-signal": {
+    "body": "<${1:i} className=\"el el-signal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-signal"
+  },
+  "el-skype": {
+    "body": "<${1:i} className=\"el el-skype$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-skype"
+  },
+  "el-slideshare": {
+    "body": "<${1:i} className=\"el el-slideshare$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-slideshare"
+  },
+  "el-smiley-alt": {
+    "body": "<${1:i} className=\"el el-smiley-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-smiley-alt"
+  },
+  "el-smiley": {
+    "body": "<${1:i} className=\"el el-smiley$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-smiley"
+  },
+  "el-soundcloud": {
+    "body": "<${1:i} className=\"el el-soundcloud$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-soundcloud"
+  },
+  "el-speaker": {
+    "body": "<${1:i} className=\"el el-speaker$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-speaker"
+  },
+  "el-spotify": {
+    "body": "<${1:i} className=\"el el-spotify$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-spotify"
+  },
+  "el-stackoverflow": {
+    "body": "<${1:i} className=\"el el-stackoverflow$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-stackoverflow"
+  },
+  "el-star-alt": {
+    "body": "<${1:i} className=\"el el-star-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-star-alt"
+  },
+  "el-star-empty": {
+    "body": "<${1:i} className=\"el el-star-empty$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-star-empty"
+  },
+  "el-star": {
+    "body": "<${1:i} className=\"el el-star$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-star"
+  },
+  "el-step-backward": {
+    "body": "<${1:i} className=\"el el-step-backward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-step-backward"
+  },
+  "el-step-forward": {
+    "body": "<${1:i} className=\"el el-step-forward$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-step-forward"
+  },
+  "el-stop-alt": {
+    "body": "<${1:i} className=\"el el-stop-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-stop-alt"
+  },
+  "el-stop": {
+    "body": "<${1:i} className=\"el el-stop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-stop"
+  },
+  "el-stumbleupon": {
+    "body": "<${1:i} className=\"el el-stumbleupon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-stumbleupon"
+  },
+  "el-tag": {
+    "body": "<${1:i} className=\"el el-tag$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-tag"
+  },
+  "el-tags": {
+    "body": "<${1:i} className=\"el el-tags$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-tags"
+  },
+  "el-tasks": {
+    "body": "<${1:i} className=\"el el-tasks$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-tasks"
+  },
+  "el-text-height": {
+    "body": "<${1:i} className=\"el el-text-height$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-text-height"
+  },
+  "el-text-width": {
+    "body": "<${1:i} className=\"el el-text-width$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-text-width"
+  },
+  "el-th-large": {
+    "body": "<${1:i} className=\"el el-th-large$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-th-large"
+  },
+  "el-th-list": {
+    "body": "<${1:i} className=\"el el-th-list$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-th-list"
+  },
+  "el-th": {
+    "body": "<${1:i} className=\"el el-th$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-th"
+  },
+  "el-thumbs-down": {
+    "body": "<${1:i} className=\"el el-thumbs-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-thumbs-down"
+  },
+  "el-thumbs-up": {
+    "body": "<${1:i} className=\"el el-thumbs-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-thumbs-up"
+  },
+  "el-time-alt": {
+    "body": "<${1:i} className=\"el el-time-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-time-alt"
+  },
+  "el-time": {
+    "body": "<${1:i} className=\"el el-time$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-time"
+  },
+  "el-tint": {
+    "body": "<${1:i} className=\"el el-tint$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-tint"
+  },
+  "el-torso": {
+    "body": "<${1:i} className=\"el el-torso$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-torso"
+  },
+  "el-trash-alt": {
+    "body": "<${1:i} className=\"el el-trash-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-trash-alt"
+  },
+  "el-trash": {
+    "body": "<${1:i} className=\"el el-trash$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-trash"
+  },
+  "el-tumblr": {
+    "body": "<${1:i} className=\"el el-tumblr$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-tumblr"
+  },
+  "el-twitter": {
+    "body": "<${1:i} className=\"el el-twitter$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-twitter"
+  },
+  "el-universal-access": {
+    "body": "<${1:i} className=\"el el-universal-access$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-universal-access"
+  },
+  "el-unlock-alt": {
+    "body": "<${1:i} className=\"el el-unlock-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-unlock-alt"
+  },
+  "el-unlock": {
+    "body": "<${1:i} className=\"el el-unlock$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-unlock"
+  },
+  "el-upload": {
+    "body": "<${1:i} className=\"el el-upload$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-upload"
+  },
+  "el-usd": {
+    "body": "<${1:i} className=\"el el-usd$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-usd"
+  },
+  "el-user": {
+    "body": "<${1:i} className=\"el el-user$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-user"
+  },
+  "el-viadeo": {
+    "body": "<${1:i} className=\"el el-viadeo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-viadeo"
+  },
+  "el-video-alt": {
+    "body": "<${1:i} className=\"el el-video-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-video-alt"
+  },
+  "el-video-chat": {
+    "body": "<${1:i} className=\"el el-video-chat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-video-chat"
+  },
+  "el-video": {
+    "body": "<${1:i} className=\"el el-video$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-video"
+  },
+  "el-view-mode": {
+    "body": "<${1:i} className=\"el el-view-mode$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-view-mode"
+  },
+  "el-vimeo": {
+    "body": "<${1:i} className=\"el el-vimeo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-vimeo"
+  },
+  "el-vkontakte": {
+    "body": "<${1:i} className=\"el el-vkontakte$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-vkontakte"
+  },
+  "el-volume-down": {
+    "body": "<${1:i} className=\"el el-volume-down$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-volume-down"
+  },
+  "el-volume-off": {
+    "body": "<${1:i} className=\"el el-volume-off$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-volume-off"
+  },
+  "el-volume-up": {
+    "body": "<${1:i} className=\"el el-volume-up$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-volume-up"
+  },
+  "el-w3c": {
+    "body": "<${1:i} className=\"el el-w3c$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-w3c"
+  },
+  "el-warning-sign": {
+    "body": "<${1:i} className=\"el el-warning-sign$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-warning-sign"
+  },
+  "el-website-alt": {
+    "body": "<${1:i} className=\"el el-website-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-website-alt"
+  },
+  "el-website": {
+    "body": "<${1:i} className=\"el el-website$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-website"
+  },
+  "el-wheelchair": {
+    "body": "<${1:i} className=\"el el-wheelchair$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-wheelchair"
+  },
+  "el-wordpress": {
+    "body": "<${1:i} className=\"el el-wordpress$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-wordpress"
+  },
+  "el-wrench-alt": {
+    "body": "<${1:i} className=\"el el-wrench-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-wrench-alt"
+  },
+  "el-wrench": {
+    "body": "<${1:i} className=\"el el-wrench$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-wrench"
+  },
+  "el-youtube": {
+    "body": "<${1:i} className=\"el el-youtube$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-youtube"
+  },
+  "el-zoom-in": {
+    "body": "<${1:i} className=\"el el-zoom-in$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-zoom-in"
+  },
+  "el-zoom-out": {
+    "body": "<${1:i} className=\"el el-zoom-out$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "el-zoom-out"
+  }
+}

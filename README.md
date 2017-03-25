@@ -46,7 +46,7 @@ $ git clone https://github.com/idleberg/vscode-icon-fonts icon-fonts
 
 ### Usage
 
-Snippets are limited to the `html` and `css|less|scss` scopes. Typing the class name of an icon using the designated prefix will complete to a tag containing the icon class. Exceptions are `fa-stack` (`<span>`) and `fa-ul` (`<ul>`).
+Snippets are limited to the `html`, `css|less|sass|scss|stylus` and `jsx` scopes. Typing the class name of an icon using the designated prefix will complete to a tag containing the icon class. Exceptions are `fa-stack` (`<span>`) and `fa-ul` (`<ul>`).
 
 ### Prefixes
 

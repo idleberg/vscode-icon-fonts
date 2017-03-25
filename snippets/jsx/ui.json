@@ -1,0 +1,3357 @@
+{
+  "ui-search-icon": {
+    "body": "<${1:i} className=\"search icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-search-icon"
+  },
+  "ui-mail-outline-icon": {
+    "body": "<${1:i} className=\"mail outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mail-outline-icon"
+  },
+  "ui-external-icon": {
+    "body": "<${1:i} className=\"external icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-external-icon"
+  },
+  "ui-signal-icon": {
+    "body": "<${1:i} className=\"signal icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-signal-icon"
+  },
+  "ui-setting-icon": {
+    "body": "<${1:i} className=\"setting icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-setting-icon"
+  },
+  "ui-home-icon": {
+    "body": "<${1:i} className=\"home icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-home-icon"
+  },
+  "ui-inbox-icon": {
+    "body": "<${1:i} className=\"inbox icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-inbox-icon"
+  },
+  "ui-browser-icon": {
+    "body": "<${1:i} className=\"browser icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-browser-icon"
+  },
+  "ui-tag-icon": {
+    "body": "<${1:i} className=\"tag icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-tag-icon"
+  },
+  "ui-tags-icon": {
+    "body": "<${1:i} className=\"tags icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-tags-icon"
+  },
+  "ui-calendar-icon": {
+    "body": "<${1:i} className=\"calendar icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-calendar-icon"
+  },
+  "ui-comment-icon": {
+    "body": "<${1:i} className=\"comment icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-comment-icon"
+  },
+  "ui-comments-icon": {
+    "body": "<${1:i} className=\"comments icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-comments-icon"
+  },
+  "ui-shop-icon": {
+    "body": "<${1:i} className=\"shop icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-shop-icon"
+  },
+  "ui-privacy-icon": {
+    "body": "<${1:i} className=\"privacy icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-privacy-icon"
+  },
+  "ui-settings-icon": {
+    "body": "<${1:i} className=\"settings icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-settings-icon"
+  },
+  "ui-trophy-icon": {
+    "body": "<${1:i} className=\"trophy icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-trophy-icon"
+  },
+  "ui-payment-icon": {
+    "body": "<${1:i} className=\"payment icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-payment-icon"
+  },
+  "ui-feed-icon": {
+    "body": "<${1:i} className=\"feed icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-feed-icon"
+  },
+  "ui-alarm-outline-icon": {
+    "body": "<${1:i} className=\"alarm outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-alarm-outline-icon"
+  },
+  "ui-tasks-icon": {
+    "body": "<${1:i} className=\"tasks icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-tasks-icon"
+  },
+  "ui-cloud-icon": {
+    "body": "<${1:i} className=\"cloud icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-cloud-icon"
+  },
+  "ui-lab-icon": {
+    "body": "<${1:i} className=\"lab icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-lab-icon"
+  },
+  "ui-mail-icon": {
+    "body": "<${1:i} className=\"mail icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mail-icon"
+  },
+  "ui-idea-icon": {
+    "body": "<${1:i} className=\"idea icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-idea-icon"
+  },
+  "ui-dashboard-icon": {
+    "body": "<${1:i} className=\"dashboard icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-dashboard-icon"
+  },
+  "ui-sitemap-icon": {
+    "body": "<${1:i} className=\"sitemap icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sitemap-icon"
+  },
+  "ui-alarm-icon": {
+    "body": "<${1:i} className=\"alarm icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-alarm-icon"
+  },
+  "ui-terminal-icon": {
+    "body": "<${1:i} className=\"terminal icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-terminal-icon"
+  },
+  "ui-code-icon": {
+    "body": "<${1:i} className=\"code icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-code-icon"
+  },
+  "ui-protect-icon": {
+    "body": "<${1:i} className=\"protect icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-protect-icon"
+  },
+  "ui-calendar-outline-icon": {
+    "body": "<${1:i} className=\"calendar outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-calendar-outline-icon"
+  },
+  "ui-ticket-icon": {
+    "body": "<${1:i} className=\"ticket icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-ticket-icon"
+  },
+  "ui-external-square-icon": {
+    "body": "<${1:i} className=\"external square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-external-square-icon"
+  },
+  "ui-map-icon": {
+    "body": "<${1:i} className=\"map icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-map-icon"
+  },
+  "ui-bug-icon": {
+    "body": "<${1:i} className=\"bug icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bug-icon"
+  },
+  "ui-mail-square-icon": {
+    "body": "<${1:i} className=\"mail square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mail-square-icon"
+  },
+  "ui-history-icon": {
+    "body": "<${1:i} className=\"history icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-history-icon"
+  },
+  "ui-options-icon": {
+    "body": "<${1:i} className=\"options icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-options-icon"
+  },
+  "ui-comment-outline-icon": {
+    "body": "<${1:i} className=\"comment outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-comment-outline-icon"
+  },
+  "ui-comments-outline-icon": {
+    "body": "<${1:i} className=\"comments outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-comments-outline-icon"
+  },
+  "ui-text-telephone-icon": {
+    "body": "<${1:i} className=\"text telephone icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-text-telephone-icon"
+  },
+  "ui-find-icon": {
+    "body": "<${1:i} className=\"find icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-find-icon"
+  },
+  "ui-wifi-icon": {
+    "body": "<${1:i} className=\"wifi icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-wifi-icon"
+  },
+  "ui-alarm-slash-icon": {
+    "body": "<${1:i} className=\"alarm slash icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-alarm-slash-icon"
+  },
+  "ui-alarm-slash-outline-icon": {
+    "body": "<${1:i} className=\"alarm slash outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-alarm-slash-outline-icon"
+  },
+  "ui-copyright-icon": {
+    "body": "<${1:i} className=\"copyright icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-copyright-icon"
+  },
+  "ui-at-icon": {
+    "body": "<${1:i} className=\"at icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-at-icon"
+  },
+  "ui-eyedropper-icon": {
+    "body": "<${1:i} className=\"eyedropper icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-eyedropper-icon"
+  },
+  "ui-paint-brush-icon": {
+    "body": "<${1:i} className=\"paint brush icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-paint-brush-icon"
+  },
+  "ui-heartbeat-icon": {
+    "body": "<${1:i} className=\"heartbeat icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-heartbeat-icon"
+  },
+  "ui-download-icon": {
+    "body": "<${1:i} className=\"download icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-download-icon"
+  },
+  "ui-repeat-icon": {
+    "body": "<${1:i} className=\"repeat icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-repeat-icon"
+  },
+  "ui-refresh-icon": {
+    "body": "<${1:i} className=\"refresh icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-refresh-icon"
+  },
+  "ui-lock-icon": {
+    "body": "<${1:i} className=\"lock icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-lock-icon"
+  },
+  "ui-bookmark-icon": {
+    "body": "<${1:i} className=\"bookmark icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bookmark-icon"
+  },
+  "ui-print-icon": {
+    "body": "<${1:i} className=\"print icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-print-icon"
+  },
+  "ui-write-icon": {
+    "body": "<${1:i} className=\"write icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-write-icon"
+  },
+  "ui-theme-icon": {
+    "body": "<${1:i} className=\"theme icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-theme-icon"
+  },
+  "ui-adjust-icon": {
+    "body": "<${1:i} className=\"adjust icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-adjust-icon"
+  },
+  "ui-edit-icon": {
+    "body": "<${1:i} className=\"edit icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-edit-icon"
+  },
+  "ui-external-share-icon": {
+    "body": "<${1:i} className=\"external share icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-external-share-icon"
+  },
+  "ui-ban-icon": {
+    "body": "<${1:i} className=\"ban icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-ban-icon"
+  },
+  "ui-mail-forward-icon": {
+    "body": "<${1:i} className=\"mail forward icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mail-forward-icon"
+  },
+  "ui-share-icon": {
+    "body": "<${1:i} className=\"share icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-share-icon"
+  },
+  "ui-expand-icon": {
+    "body": "<${1:i} className=\"expand icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-expand-icon"
+  },
+  "ui-compress-icon": {
+    "body": "<${1:i} className=\"compress icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-compress-icon"
+  },
+  "ui-unhide-icon": {
+    "body": "<${1:i} className=\"unhide icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-unhide-icon"
+  },
+  "ui-hide-icon": {
+    "body": "<${1:i} className=\"hide icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-hide-icon"
+  },
+  "ui-random-icon": {
+    "body": "<${1:i} className=\"random icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-random-icon"
+  },
+  "ui-retweet-icon": {
+    "body": "<${1:i} className=\"retweet icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-retweet-icon"
+  },
+  "ui-sign-out-icon": {
+    "body": "<${1:i} className=\"sign out icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sign-out-icon"
+  },
+  "ui-pin-icon": {
+    "body": "<${1:i} className=\"pin icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pin-icon"
+  },
+  "ui-sign-in-icon": {
+    "body": "<${1:i} className=\"sign in icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sign-in-icon"
+  },
+  "ui-upload-icon": {
+    "body": "<${1:i} className=\"upload icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-upload-icon"
+  },
+  "ui-call-icon": {
+    "body": "<${1:i} className=\"call icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-call-icon"
+  },
+  "ui-call-square-icon": {
+    "body": "<${1:i} className=\"call square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-call-square-icon"
+  },
+  "ui-remove-bookmark-icon": {
+    "body": "<${1:i} className=\"remove bookmark icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-remove-bookmark-icon"
+  },
+  "ui-unlock-icon": {
+    "body": "<${1:i} className=\"unlock icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-unlock-icon"
+  },
+  "ui-configure-icon": {
+    "body": "<${1:i} className=\"configure icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-configure-icon"
+  },
+  "ui-filter-icon": {
+    "body": "<${1:i} className=\"filter icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-filter-icon"
+  },
+  "ui-wizard-icon": {
+    "body": "<${1:i} className=\"wizard icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-wizard-icon"
+  },
+  "ui-undo-icon": {
+    "body": "<${1:i} className=\"undo icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-undo-icon"
+  },
+  "ui-exchange-icon": {
+    "body": "<${1:i} className=\"exchange icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-exchange-icon"
+  },
+  "ui-cloud-download-icon": {
+    "body": "<${1:i} className=\"cloud download icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-cloud-download-icon"
+  },
+  "ui-cloud-upload-icon": {
+    "body": "<${1:i} className=\"cloud upload icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-cloud-upload-icon"
+  },
+  "ui-reply-icon": {
+    "body": "<${1:i} className=\"reply icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-reply-icon"
+  },
+  "ui-reply-all-icon": {
+    "body": "<${1:i} className=\"reply all icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-reply-all-icon"
+  },
+  "ui-erase-icon": {
+    "body": "<${1:i} className=\"erase icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-erase-icon"
+  },
+  "ui-unlock-alternate-icon": {
+    "body": "<${1:i} className=\"unlock alternate icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-unlock-alternate-icon"
+  },
+  "ui-archive-icon": {
+    "body": "<${1:i} className=\"archive icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-archive-icon"
+  },
+  "ui-translate-icon": {
+    "body": "<${1:i} className=\"translate icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-translate-icon"
+  },
+  "ui-recycle-icon": {
+    "body": "<${1:i} className=\"recycle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-recycle-icon"
+  },
+  "ui-send-icon": {
+    "body": "<${1:i} className=\"send icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-send-icon"
+  },
+  "ui-send-outline-icon": {
+    "body": "<${1:i} className=\"send outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-send-outline-icon"
+  },
+  "ui-share-alternate-icon": {
+    "body": "<${1:i} className=\"share alternate icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-share-alternate-icon"
+  },
+  "ui-share-alternate-square-icon": {
+    "body": "<${1:i} className=\"share alternate square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-share-alternate-square-icon"
+  },
+  "ui-wait-icon": {
+    "body": "<${1:i} className=\"wait icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-wait-icon"
+  },
+  "ui-write-square-icon": {
+    "body": "<${1:i} className=\"write square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-write-square-icon"
+  },
+  "ui-share-square-icon": {
+    "body": "<${1:i} className=\"share square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-share-square-icon"
+  },
+  "ui-add-to-cart-icon": {
+    "body": "<${1:i} className=\"add to cart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-add-to-cart-icon"
+  },
+  "ui-in-cart-icon": {
+    "body": "<${1:i} className=\"in cart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-in-cart-icon"
+  },
+  "ui-add-user-icon": {
+    "body": "<${1:i} className=\"add user icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-add-user-icon"
+  },
+  "ui-remove-user-icon": {
+    "body": "<${1:i} className=\"remove user icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-remove-user-icon"
+  },
+  "ui-help-circle-icon": {
+    "body": "<${1:i} className=\"help circle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-help-circle-icon"
+  },
+  "ui-info-circle-icon": {
+    "body": "<${1:i} className=\"info circle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-info-circle-icon"
+  },
+  "ui-warning-icon": {
+    "body": "<${1:i} className=\"warning icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-warning-icon"
+  },
+  "ui-warning-circle-icon": {
+    "body": "<${1:i} className=\"warning circle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-warning-circle-icon"
+  },
+  "ui-warning-sign-icon": {
+    "body": "<${1:i} className=\"warning sign icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-warning-sign-icon"
+  },
+  "ui-help-icon": {
+    "body": "<${1:i} className=\"help icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-help-icon"
+  },
+  "ui-info-icon": {
+    "body": "<${1:i} className=\"info icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-info-icon"
+  },
+  "ui-announcement-icon": {
+    "body": "<${1:i} className=\"announcement icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-announcement-icon"
+  },
+  "ui-birthday-icon": {
+    "body": "<${1:i} className=\"birthday icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-birthday-icon"
+  },
+  "ui-users-icon": {
+    "body": "<${1:i} className=\"users icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-users-icon"
+  },
+  "ui-doctor-icon": {
+    "body": "<${1:i} className=\"doctor icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-doctor-icon"
+  },
+  "ui-child-icon": {
+    "body": "<${1:i} className=\"child icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-child-icon"
+  },
+  "ui-user-icon": {
+    "body": "<${1:i} className=\"user icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-user-icon"
+  },
+  "ui-handicap-icon": {
+    "body": "<${1:i} className=\"handicap icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-handicap-icon"
+  },
+  "ui-student-icon": {
+    "body": "<${1:i} className=\"student icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-student-icon"
+  },
+  "ui-spy-icon": {
+    "body": "<${1:i} className=\"spy icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-spy-icon"
+  },
+  "ui-female-icon": {
+    "body": "<${1:i} className=\"female icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-female-icon"
+  },
+  "ui-male-icon": {
+    "body": "<${1:i} className=\"male icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-male-icon"
+  },
+  "ui-woman-icon": {
+    "body": "<${1:i} className=\"woman icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-woman-icon"
+  },
+  "ui-man-icon": {
+    "body": "<${1:i} className=\"man icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-man-icon"
+  },
+  "ui-non-binary-transgender-icon": {
+    "body": "<${1:i} className=\"non binary transgender icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-non-binary-transgender-icon"
+  },
+  "ui-intergender-icon": {
+    "body": "<${1:i} className=\"intergender icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-intergender-icon"
+  },
+  "ui-transgender-icon": {
+    "body": "<${1:i} className=\"transgender icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-transgender-icon"
+  },
+  "ui-lesbian-icon": {
+    "body": "<${1:i} className=\"lesbian icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-lesbian-icon"
+  },
+  "ui-gay-icon": {
+    "body": "<${1:i} className=\"gay icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-gay-icon"
+  },
+  "ui-heterosexual-icon": {
+    "body": "<${1:i} className=\"heterosexual icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-heterosexual-icon"
+  },
+  "ui-other-gender-icon": {
+    "body": "<${1:i} className=\"other gender icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-other-gender-icon"
+  },
+  "ui-other-gender-vertical-icon": {
+    "body": "<${1:i} className=\"other gender vertical icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-other-gender-vertical-icon"
+  },
+  "ui-other-gender-horizontal-icon": {
+    "body": "<${1:i} className=\"other gender horizontal icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-other-gender-horizontal-icon"
+  },
+  "ui-neuter-icon": {
+    "body": "<${1:i} className=\"neuter icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-neuter-icon"
+  },
+  "ui-grid-layout-icon": {
+    "body": "<${1:i} className=\"grid layout icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-grid-layout-icon"
+  },
+  "ui-list-layout-icon": {
+    "body": "<${1:i} className=\"list layout icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-list-layout-icon"
+  },
+  "ui-block-layout-icon": {
+    "body": "<${1:i} className=\"block layout icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-block-layout-icon"
+  },
+  "ui-zoom-icon": {
+    "body": "<${1:i} className=\"zoom icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-zoom-icon"
+  },
+  "ui-zoom-out-icon": {
+    "body": "<${1:i} className=\"zoom out icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-zoom-out-icon"
+  },
+  "ui-resize-vertical-icon": {
+    "body": "<${1:i} className=\"resize vertical icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-resize-vertical-icon"
+  },
+  "ui-resize-horizontal-icon": {
+    "body": "<${1:i} className=\"resize horizontal icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-resize-horizontal-icon"
+  },
+  "ui-maximize-icon": {
+    "body": "<${1:i} className=\"maximize icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-maximize-icon"
+  },
+  "ui-crop-icon": {
+    "body": "<${1:i} className=\"crop icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-crop-icon"
+  },
+  "ui-cocktail-icon": {
+    "body": "<${1:i} className=\"cocktail icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-cocktail-icon"
+  },
+  "ui-road-icon": {
+    "body": "<${1:i} className=\"road icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-road-icon"
+  },
+  "ui-flag-icon": {
+    "body": "<${1:i} className=\"flag icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-flag-icon"
+  },
+  "ui-book-icon": {
+    "body": "<${1:i} className=\"book icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-book-icon"
+  },
+  "ui-gift-icon": {
+    "body": "<${1:i} className=\"gift icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-gift-icon"
+  },
+  "ui-leaf-icon": {
+    "body": "<${1:i} className=\"leaf icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-leaf-icon"
+  },
+  "ui-fire-icon": {
+    "body": "<${1:i} className=\"fire icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-fire-icon"
+  },
+  "ui-plane-icon": {
+    "body": "<${1:i} className=\"plane icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-plane-icon"
+  },
+  "ui-magnet-icon": {
+    "body": "<${1:i} className=\"magnet icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-magnet-icon"
+  },
+  "ui-legal-icon": {
+    "body": "<${1:i} className=\"legal icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-legal-icon"
+  },
+  "ui-lemon-icon": {
+    "body": "<${1:i} className=\"lemon icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-lemon-icon"
+  },
+  "ui-world-icon": {
+    "body": "<${1:i} className=\"world icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-world-icon"
+  },
+  "ui-travel-icon": {
+    "body": "<${1:i} className=\"travel icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-travel-icon"
+  },
+  "ui-shipping-icon": {
+    "body": "<${1:i} className=\"shipping icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-shipping-icon"
+  },
+  "ui-money-icon": {
+    "body": "<${1:i} className=\"money icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-money-icon"
+  },
+  "ui-lightning-icon": {
+    "body": "<${1:i} className=\"lightning icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-lightning-icon"
+  },
+  "ui-rain-icon": {
+    "body": "<${1:i} className=\"rain icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-rain-icon"
+  },
+  "ui-treatment-icon": {
+    "body": "<${1:i} className=\"treatment icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-treatment-icon"
+  },
+  "ui-suitcase-icon": {
+    "body": "<${1:i} className=\"suitcase icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-suitcase-icon"
+  },
+  "ui-bar-icon": {
+    "body": "<${1:i} className=\"bar icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bar-icon"
+  },
+  "ui-flag-outline-icon": {
+    "body": "<${1:i} className=\"flag outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-flag-outline-icon"
+  },
+  "ui-flag-checkered-icon": {
+    "body": "<${1:i} className=\"flag checkered icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-flag-checkered-icon"
+  },
+  "ui-puzzle-icon": {
+    "body": "<${1:i} className=\"puzzle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-puzzle-icon"
+  },
+  "ui-fire-extinguisher-icon": {
+    "body": "<${1:i} className=\"fire extinguisher icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-fire-extinguisher-icon"
+  },
+  "ui-rocket-icon": {
+    "body": "<${1:i} className=\"rocket icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-rocket-icon"
+  },
+  "ui-anchor-icon": {
+    "body": "<${1:i} className=\"anchor icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-anchor-icon"
+  },
+  "ui-bullseye-icon": {
+    "body": "<${1:i} className=\"bullseye icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bullseye-icon"
+  },
+  "ui-sun-icon": {
+    "body": "<${1:i} className=\"sun icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sun-icon"
+  },
+  "ui-moon-icon": {
+    "body": "<${1:i} className=\"moon icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-moon-icon"
+  },
+  "ui-fax-icon": {
+    "body": "<${1:i} className=\"fax icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-fax-icon"
+  },
+  "ui-life-ring-icon": {
+    "body": "<${1:i} className=\"life ring icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-life-ring-icon"
+  },
+  "ui-bomb-icon": {
+    "body": "<${1:i} className=\"bomb icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bomb-icon"
+  },
+  "ui-soccer-icon": {
+    "body": "<${1:i} className=\"soccer icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-soccer-icon"
+  },
+  "ui-calculator-icon": {
+    "body": "<${1:i} className=\"calculator icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-calculator-icon"
+  },
+  "ui-diamond-icon": {
+    "body": "<${1:i} className=\"diamond icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-diamond-icon"
+  },
+  "ui-crosshairs-icon": {
+    "body": "<${1:i} className=\"crosshairs icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-crosshairs-icon"
+  },
+  "ui-asterisk-icon": {
+    "body": "<${1:i} className=\"asterisk icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-asterisk-icon"
+  },
+  "ui-certificate-icon": {
+    "body": "<${1:i} className=\"certificate icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-certificate-icon"
+  },
+  "ui-circle-icon": {
+    "body": "<${1:i} className=\"circle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-circle-icon"
+  },
+  "ui-quote-left-icon": {
+    "body": "<${1:i} className=\"quote left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-quote-left-icon"
+  },
+  "ui-quote-right-icon": {
+    "body": "<${1:i} className=\"quote right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-quote-right-icon"
+  },
+  "ui-ellipsis-horizontal-icon": {
+    "body": "<${1:i} className=\"ellipsis horizontal icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-ellipsis-horizontal-icon"
+  },
+  "ui-ellipsis-vertical-icon": {
+    "body": "<${1:i} className=\"ellipsis vertical icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-ellipsis-vertical-icon"
+  },
+  "ui-cube-icon": {
+    "body": "<${1:i} className=\"cube icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-cube-icon"
+  },
+  "ui-cubes-icon": {
+    "body": "<${1:i} className=\"cubes icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-cubes-icon"
+  },
+  "ui-circle-notched-icon": {
+    "body": "<${1:i} className=\"circle notched icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-circle-notched-icon"
+  },
+  "ui-circle-thin-icon": {
+    "body": "<${1:i} className=\"circle thin icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-circle-thin-icon"
+  },
+  "ui-square-outline-icon": {
+    "body": "<${1:i} className=\"square outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-square-outline-icon"
+  },
+  "ui-square-icon": {
+    "body": "<${1:i} className=\"square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-square-icon"
+  },
+  "ui-checkmark-icon": {
+    "body": "<${1:i} className=\"checkmark icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-checkmark-icon"
+  },
+  "ui-remove-icon": {
+    "body": "<${1:i} className=\"remove icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-remove-icon"
+  },
+  "ui-checkmark-box-icon": {
+    "body": "<${1:i} className=\"checkmark box icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-checkmark-box-icon"
+  },
+  "ui-move-icon": {
+    "body": "<${1:i} className=\"move icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-move-icon"
+  },
+  "ui-add-circle-icon": {
+    "body": "<${1:i} className=\"add circle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-add-circle-icon"
+  },
+  "ui-minus-circle-icon": {
+    "body": "<${1:i} className=\"minus circle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-minus-circle-icon"
+  },
+  "ui-remove-circle-icon": {
+    "body": "<${1:i} className=\"remove circle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-remove-circle-icon"
+  },
+  "ui-check-circle-icon": {
+    "body": "<${1:i} className=\"check circle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-check-circle-icon"
+  },
+  "ui-remove-circle-outline-icon": {
+    "body": "<${1:i} className=\"remove circle outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-remove-circle-outline-icon"
+  },
+  "ui-check-circle-outline-icon": {
+    "body": "<${1:i} className=\"check circle outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-check-circle-outline-icon"
+  },
+  "ui-plus-icon": {
+    "body": "<${1:i} className=\"plus icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-plus-icon"
+  },
+  "ui-minus-icon": {
+    "body": "<${1:i} className=\"minus icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-minus-icon"
+  },
+  "ui-add-square-icon": {
+    "body": "<${1:i} className=\"add square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-add-square-icon"
+  },
+  "ui-radio-icon": {
+    "body": "<${1:i} className=\"radio icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-radio-icon"
+  },
+  "ui-selected-radio-icon": {
+    "body": "<${1:i} className=\"selected radio icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-selected-radio-icon"
+  },
+  "ui-minus-square-icon": {
+    "body": "<${1:i} className=\"minus square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-minus-square-icon"
+  },
+  "ui-minus-square-outline-icon": {
+    "body": "<${1:i} className=\"minus square outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-minus-square-outline-icon"
+  },
+  "ui-check-square-icon": {
+    "body": "<${1:i} className=\"check square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-check-square-icon"
+  },
+  "ui-plus-square-outline-icon": {
+    "body": "<${1:i} className=\"plus square outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-plus-square-outline-icon"
+  },
+  "ui-toggle-off-icon": {
+    "body": "<${1:i} className=\"toggle off icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-toggle-off-icon"
+  },
+  "ui-toggle-on-icon": {
+    "body": "<${1:i} className=\"toggle on icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-toggle-on-icon"
+  },
+  "ui-film-icon": {
+    "body": "<${1:i} className=\"film icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-film-icon"
+  },
+  "ui-sound-icon": {
+    "body": "<${1:i} className=\"sound icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sound-icon"
+  },
+  "ui-photo-icon": {
+    "body": "<${1:i} className=\"photo icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-photo-icon"
+  },
+  "ui-bar-chart-icon": {
+    "body": "<${1:i} className=\"bar chart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bar-chart-icon"
+  },
+  "ui-camera-retro-icon": {
+    "body": "<${1:i} className=\"camera retro icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-camera-retro-icon"
+  },
+  "ui-newspaper-icon": {
+    "body": "<${1:i} className=\"newspaper icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-newspaper-icon"
+  },
+  "ui-area-chart-icon": {
+    "body": "<${1:i} className=\"area chart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-area-chart-icon"
+  },
+  "ui-pie-chart-icon": {
+    "body": "<${1:i} className=\"pie chart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pie-chart-icon"
+  },
+  "ui-line-chart-icon": {
+    "body": "<${1:i} className=\"line chart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-line-chart-icon"
+  },
+  "ui-arrow-circle-outline-down-icon": {
+    "body": "<${1:i} className=\"arrow circle outline down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-circle-outline-down-icon"
+  },
+  "ui-arrow-circle-outline-up-icon": {
+    "body": "<${1:i} className=\"arrow circle outline up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-circle-outline-up-icon"
+  },
+  "ui-chevron-left-icon": {
+    "body": "<${1:i} className=\"chevron left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-chevron-left-icon"
+  },
+  "ui-chevron-right-icon": {
+    "body": "<${1:i} className=\"chevron right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-chevron-right-icon"
+  },
+  "ui-arrow-left-icon": {
+    "body": "<${1:i} className=\"arrow left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-left-icon"
+  },
+  "ui-arrow-right-icon": {
+    "body": "<${1:i} className=\"arrow right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-right-icon"
+  },
+  "ui-arrow-up-icon": {
+    "body": "<${1:i} className=\"arrow up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-up-icon"
+  },
+  "ui-arrow-down-icon": {
+    "body": "<${1:i} className=\"arrow down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-down-icon"
+  },
+  "ui-chevron-up-icon": {
+    "body": "<${1:i} className=\"chevron up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-chevron-up-icon"
+  },
+  "ui-chevron-down-icon": {
+    "body": "<${1:i} className=\"chevron down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-chevron-down-icon"
+  },
+  "ui-pointing-right-icon": {
+    "body": "<${1:i} className=\"pointing right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pointing-right-icon"
+  },
+  "ui-pointing-left-icon": {
+    "body": "<${1:i} className=\"pointing left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pointing-left-icon"
+  },
+  "ui-pointing-up-icon": {
+    "body": "<${1:i} className=\"pointing up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pointing-up-icon"
+  },
+  "ui-pointing-down-icon": {
+    "body": "<${1:i} className=\"pointing down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pointing-down-icon"
+  },
+  "ui-arrow-circle-left-icon": {
+    "body": "<${1:i} className=\"arrow circle left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-circle-left-icon"
+  },
+  "ui-arrow-circle-right-icon": {
+    "body": "<${1:i} className=\"arrow circle right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-circle-right-icon"
+  },
+  "ui-arrow-circle-up-icon": {
+    "body": "<${1:i} className=\"arrow circle up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-circle-up-icon"
+  },
+  "ui-arrow-circle-down-icon": {
+    "body": "<${1:i} className=\"arrow circle down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-circle-down-icon"
+  },
+  "ui-caret-down-icon": {
+    "body": "<${1:i} className=\"caret down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-caret-down-icon"
+  },
+  "ui-caret-up-icon": {
+    "body": "<${1:i} className=\"caret up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-caret-up-icon"
+  },
+  "ui-caret-left-icon": {
+    "body": "<${1:i} className=\"caret left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-caret-left-icon"
+  },
+  "ui-caret-right-icon": {
+    "body": "<${1:i} className=\"caret right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-caret-right-icon"
+  },
+  "ui-angle-double-left-icon": {
+    "body": "<${1:i} className=\"angle double left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-angle-double-left-icon"
+  },
+  "ui-angle-double-right-icon": {
+    "body": "<${1:i} className=\"angle double right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-angle-double-right-icon"
+  },
+  "ui-angle-double-up-icon": {
+    "body": "<${1:i} className=\"angle double up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-angle-double-up-icon"
+  },
+  "ui-angle-double-down-icon": {
+    "body": "<${1:i} className=\"angle double down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-angle-double-down-icon"
+  },
+  "ui-angle-left-icon": {
+    "body": "<${1:i} className=\"angle left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-angle-left-icon"
+  },
+  "ui-angle-right-icon": {
+    "body": "<${1:i} className=\"angle right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-angle-right-icon"
+  },
+  "ui-angle-up-icon": {
+    "body": "<${1:i} className=\"angle up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-angle-up-icon"
+  },
+  "ui-angle-down-icon": {
+    "body": "<${1:i} className=\"angle down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-angle-down-icon"
+  },
+  "ui-chevron-circle-left-icon": {
+    "body": "<${1:i} className=\"chevron circle left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-chevron-circle-left-icon"
+  },
+  "ui-chevron-circle-right-icon": {
+    "body": "<${1:i} className=\"chevron circle right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-chevron-circle-right-icon"
+  },
+  "ui-chevron-circle-up-icon": {
+    "body": "<${1:i} className=\"chevron circle up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-chevron-circle-up-icon"
+  },
+  "ui-chevron-circle-down-icon": {
+    "body": "<${1:i} className=\"chevron circle down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-chevron-circle-down-icon"
+  },
+  "ui-toggle-down-icon": {
+    "body": "<${1:i} className=\"toggle down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-toggle-down-icon"
+  },
+  "ui-toggle-up-icon": {
+    "body": "<${1:i} className=\"toggle up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-toggle-up-icon"
+  },
+  "ui-toggle-right-icon": {
+    "body": "<${1:i} className=\"toggle right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-toggle-right-icon"
+  },
+  "ui-long-arrow-down-icon": {
+    "body": "<${1:i} className=\"long arrow down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-long-arrow-down-icon"
+  },
+  "ui-long-arrow-up-icon": {
+    "body": "<${1:i} className=\"long arrow up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-long-arrow-up-icon"
+  },
+  "ui-long-arrow-left-icon": {
+    "body": "<${1:i} className=\"long arrow left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-long-arrow-left-icon"
+  },
+  "ui-long-arrow-right-icon": {
+    "body": "<${1:i} className=\"long arrow right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-long-arrow-right-icon"
+  },
+  "ui-arrow-circle-outline-right-icon": {
+    "body": "<${1:i} className=\"arrow circle outline right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-circle-outline-right-icon"
+  },
+  "ui-arrow-circle-outline-left-icon": {
+    "body": "<${1:i} className=\"arrow circle outline left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-circle-outline-left-icon"
+  },
+  "ui-toggle-left-icon": {
+    "body": "<${1:i} className=\"toggle left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-toggle-left-icon"
+  },
+  "ui-power-icon": {
+    "body": "<${1:i} className=\"power icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-power-icon"
+  },
+  "ui-trash-icon": {
+    "body": "<${1:i} className=\"trash icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-trash-icon"
+  },
+  "ui-trash-outline-icon": {
+    "body": "<${1:i} className=\"trash outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-trash-outline-icon"
+  },
+  "ui-disk-outline-icon": {
+    "body": "<${1:i} className=\"disk outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-disk-outline-icon"
+  },
+  "ui-desktop-icon": {
+    "body": "<${1:i} className=\"desktop icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-desktop-icon"
+  },
+  "ui-laptop-icon": {
+    "body": "<${1:i} className=\"laptop icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-laptop-icon"
+  },
+  "ui-tablet-icon": {
+    "body": "<${1:i} className=\"tablet icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-tablet-icon"
+  },
+  "ui-mobile-icon": {
+    "body": "<${1:i} className=\"mobile icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mobile-icon"
+  },
+  "ui-game-icon": {
+    "body": "<${1:i} className=\"game icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-game-icon"
+  },
+  "ui-keyboard-icon": {
+    "body": "<${1:i} className=\"keyboard icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-keyboard-icon"
+  },
+  "ui-plug-icon": {
+    "body": "<${1:i} className=\"plug icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-plug-icon"
+  },
+  "ui-folder-icon": {
+    "body": "<${1:i} className=\"folder icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-folder-icon"
+  },
+  "ui-folder-open-icon": {
+    "body": "<${1:i} className=\"folder open icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-folder-open-icon"
+  },
+  "ui-level-up-icon": {
+    "body": "<${1:i} className=\"level up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-level-up-icon"
+  },
+  "ui-level-down-icon": {
+    "body": "<${1:i} className=\"level down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-level-down-icon"
+  },
+  "ui-file-icon": {
+    "body": "<${1:i} className=\"file icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-icon"
+  },
+  "ui-file-outline-icon": {
+    "body": "<${1:i} className=\"file outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-outline-icon"
+  },
+  "ui-file-text-icon": {
+    "body": "<${1:i} className=\"file text icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-text-icon"
+  },
+  "ui-file-text-outline-icon": {
+    "body": "<${1:i} className=\"file text outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-text-outline-icon"
+  },
+  "ui-folder-outline-icon": {
+    "body": "<${1:i} className=\"folder outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-folder-outline-icon"
+  },
+  "ui-folder-open-outline-icon": {
+    "body": "<${1:i} className=\"folder open outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-folder-open-outline-icon"
+  },
+  "ui-file-pdf-outline-icon": {
+    "body": "<${1:i} className=\"file pdf outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-pdf-outline-icon"
+  },
+  "ui-file-word-outline-icon": {
+    "body": "<${1:i} className=\"file word outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-word-outline-icon"
+  },
+  "ui-file-excel-outline-icon": {
+    "body": "<${1:i} className=\"file excel outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-excel-outline-icon"
+  },
+  "ui-file-powerpoint-outline-icon": {
+    "body": "<${1:i} className=\"file powerpoint outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-powerpoint-outline-icon"
+  },
+  "ui-file-image-outline-icon": {
+    "body": "<${1:i} className=\"file image outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-image-outline-icon"
+  },
+  "ui-file-archive-outline-icon": {
+    "body": "<${1:i} className=\"file archive outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-archive-outline-icon"
+  },
+  "ui-file-audio-outline-icon": {
+    "body": "<${1:i} className=\"file audio outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-audio-outline-icon"
+  },
+  "ui-file-video-outline-icon": {
+    "body": "<${1:i} className=\"file video outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-video-outline-icon"
+  },
+  "ui-file-code-outline-icon": {
+    "body": "<${1:i} className=\"file code outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-file-code-outline-icon"
+  },
+  "ui-barcode-icon": {
+    "body": "<${1:i} className=\"barcode icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-barcode-icon"
+  },
+  "ui-qrcode-icon": {
+    "body": "<${1:i} className=\"qrcode icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-qrcode-icon"
+  },
+  "ui-fork-icon": {
+    "body": "<${1:i} className=\"fork icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-fork-icon"
+  },
+  "ui-html5-icon": {
+    "body": "<${1:i} className=\"html5 icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-html5-icon"
+  },
+  "ui-css3-icon": {
+    "body": "<${1:i} className=\"css3 icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-css3-icon"
+  },
+  "ui-rss-icon": {
+    "body": "<${1:i} className=\"rss icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-rss-icon"
+  },
+  "ui-rss-square-icon": {
+    "body": "<${1:i} className=\"rss square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-rss-square-icon"
+  },
+  "ui-openid-icon": {
+    "body": "<${1:i} className=\"openid icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-openid-icon"
+  },
+  "ui-database-icon": {
+    "body": "<${1:i} className=\"database icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-database-icon"
+  },
+  "ui-server-icon": {
+    "body": "<${1:i} className=\"server icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-server-icon"
+  },
+  "ui-heart-icon": {
+    "body": "<${1:i} className=\"heart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-heart-icon"
+  },
+  "ui-star-icon": {
+    "body": "<${1:i} className=\"star icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-star-icon"
+  },
+  "ui-empty-star-icon": {
+    "body": "<${1:i} className=\"empty star icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-empty-star-icon"
+  },
+  "ui-thumbs-outline-up-icon": {
+    "body": "<${1:i} className=\"thumbs outline up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-thumbs-outline-up-icon"
+  },
+  "ui-thumbs-outline-down-icon": {
+    "body": "<${1:i} className=\"thumbs outline down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-thumbs-outline-down-icon"
+  },
+  "ui-star-half-icon": {
+    "body": "<${1:i} className=\"star half icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-star-half-icon"
+  },
+  "ui-empty-heart-icon": {
+    "body": "<${1:i} className=\"empty heart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-empty-heart-icon"
+  },
+  "ui-smile-icon": {
+    "body": "<${1:i} className=\"smile icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-smile-icon"
+  },
+  "ui-frown-icon": {
+    "body": "<${1:i} className=\"frown icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-frown-icon"
+  },
+  "ui-meh-icon": {
+    "body": "<${1:i} className=\"meh icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-meh-icon"
+  },
+  "ui-star-half-empty-icon": {
+    "body": "<${1:i} className=\"star half empty icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-star-half-empty-icon"
+  },
+  "ui-thumbs-up-icon": {
+    "body": "<${1:i} className=\"thumbs up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-thumbs-up-icon"
+  },
+  "ui-thumbs-down-icon": {
+    "body": "<${1:i} className=\"thumbs down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-thumbs-down-icon"
+  },
+  "ui-music-icon": {
+    "body": "<${1:i} className=\"music icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-music-icon"
+  },
+  "ui-video-play-outline-icon": {
+    "body": "<${1:i} className=\"video play outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-video-play-outline-icon"
+  },
+  "ui-volume-off-icon": {
+    "body": "<${1:i} className=\"volume off icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-volume-off-icon"
+  },
+  "ui-volume-down-icon": {
+    "body": "<${1:i} className=\"volume down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-volume-down-icon"
+  },
+  "ui-volume-up-icon": {
+    "body": "<${1:i} className=\"volume up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-volume-up-icon"
+  },
+  "ui-record-icon": {
+    "body": "<${1:i} className=\"record icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-record-icon"
+  },
+  "ui-step-backward-icon": {
+    "body": "<${1:i} className=\"step backward icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-step-backward-icon"
+  },
+  "ui-fast-backward-icon": {
+    "body": "<${1:i} className=\"fast backward icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-fast-backward-icon"
+  },
+  "ui-backward-icon": {
+    "body": "<${1:i} className=\"backward icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-backward-icon"
+  },
+  "ui-play-icon": {
+    "body": "<${1:i} className=\"play icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-play-icon"
+  },
+  "ui-pause-icon": {
+    "body": "<${1:i} className=\"pause icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pause-icon"
+  },
+  "ui-stop-icon": {
+    "body": "<${1:i} className=\"stop icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-stop-icon"
+  },
+  "ui-forward-icon": {
+    "body": "<${1:i} className=\"forward icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-forward-icon"
+  },
+  "ui-fast-forward-icon": {
+    "body": "<${1:i} className=\"fast forward icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-fast-forward-icon"
+  },
+  "ui-step-forward-icon": {
+    "body": "<${1:i} className=\"step forward icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-step-forward-icon"
+  },
+  "ui-eject-icon": {
+    "body": "<${1:i} className=\"eject icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-eject-icon"
+  },
+  "ui-unmute-icon": {
+    "body": "<${1:i} className=\"unmute icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-unmute-icon"
+  },
+  "ui-mute-icon": {
+    "body": "<${1:i} className=\"mute icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mute-icon"
+  },
+  "ui-video-play-icon": {
+    "body": "<${1:i} className=\"video play icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-video-play-icon"
+  },
+  "ui-closed-captioning-icon": {
+    "body": "<${1:i} className=\"closed captioning icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-closed-captioning-icon"
+  },
+  "ui-marker-icon": {
+    "body": "<${1:i} className=\"marker icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-marker-icon"
+  },
+  "ui-coffee-icon": {
+    "body": "<${1:i} className=\"coffee icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-coffee-icon"
+  },
+  "ui-food-icon": {
+    "body": "<${1:i} className=\"food icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-food-icon"
+  },
+  "ui-building-outline-icon": {
+    "body": "<${1:i} className=\"building outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-building-outline-icon"
+  },
+  "ui-hospital-icon": {
+    "body": "<${1:i} className=\"hospital icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-hospital-icon"
+  },
+  "ui-emergency-icon": {
+    "body": "<${1:i} className=\"emergency icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-emergency-icon"
+  },
+  "ui-first-aid-icon": {
+    "body": "<${1:i} className=\"first aid icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-first-aid-icon"
+  },
+  "ui-military-icon": {
+    "body": "<${1:i} className=\"military icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-military-icon"
+  },
+  "ui-h-icon": {
+    "body": "<${1:i} className=\"h icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-h-icon"
+  },
+  "ui-location-arrow-icon": {
+    "body": "<${1:i} className=\"location arrow icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-location-arrow-icon"
+  },
+  "ui-space-shuttle-icon": {
+    "body": "<${1:i} className=\"space shuttle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-space-shuttle-icon"
+  },
+  "ui-university-icon": {
+    "body": "<${1:i} className=\"university icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-university-icon"
+  },
+  "ui-building-icon": {
+    "body": "<${1:i} className=\"building icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-building-icon"
+  },
+  "ui-paw-icon": {
+    "body": "<${1:i} className=\"paw icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-paw-icon"
+  },
+  "ui-spoon-icon": {
+    "body": "<${1:i} className=\"spoon icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-spoon-icon"
+  },
+  "ui-car-icon": {
+    "body": "<${1:i} className=\"car icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-car-icon"
+  },
+  "ui-taxi-icon": {
+    "body": "<${1:i} className=\"taxi icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-taxi-icon"
+  },
+  "ui-tree-icon": {
+    "body": "<${1:i} className=\"tree icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-tree-icon"
+  },
+  "ui-bicycle-icon": {
+    "body": "<${1:i} className=\"bicycle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bicycle-icon"
+  },
+  "ui-bus-icon": {
+    "body": "<${1:i} className=\"bus icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bus-icon"
+  },
+  "ui-ship-icon": {
+    "body": "<${1:i} className=\"ship icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-ship-icon"
+  },
+  "ui-motorcycle-icon": {
+    "body": "<${1:i} className=\"motorcycle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-motorcycle-icon"
+  },
+  "ui-street-view-icon": {
+    "body": "<${1:i} className=\"street view icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-street-view-icon"
+  },
+  "ui-hotel-icon": {
+    "body": "<${1:i} className=\"hotel icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-hotel-icon"
+  },
+  "ui-train-icon": {
+    "body": "<${1:i} className=\"train icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-train-icon"
+  },
+  "ui-subway-icon": {
+    "body": "<${1:i} className=\"subway icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-subway-icon"
+  },
+  "ui-table-icon": {
+    "body": "<${1:i} className=\"table icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-table-icon"
+  },
+  "ui-columns-icon": {
+    "body": "<${1:i} className=\"columns icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-columns-icon"
+  },
+  "ui-sort-icon": {
+    "body": "<${1:i} className=\"sort icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sort-icon"
+  },
+  "ui-sort-ascending-icon": {
+    "body": "<${1:i} className=\"sort ascending icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sort-ascending-icon"
+  },
+  "ui-sort-descending-icon": {
+    "body": "<${1:i} className=\"sort descending icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sort-descending-icon"
+  },
+  "ui-sort-alphabet-ascending-icon": {
+    "body": "<${1:i} className=\"sort alphabet ascending icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sort-alphabet-ascending-icon"
+  },
+  "ui-sort-alphabet-descending-icon": {
+    "body": "<${1:i} className=\"sort alphabet descending icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sort-alphabet-descending-icon"
+  },
+  "ui-sortsortsort-numeric-ascending-icon": {
+    "body": "<${1:i} className=\"sortsortsort numeric ascending icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sortsortsort-numeric-ascending-icon"
+  },
+  "ui-sort-numeric-descending-icon": {
+    "body": "<${1:i} className=\"sort numeric descending icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sort-numeric-descending-icon"
+  },
+  "ui-font-icon": {
+    "body": "<${1:i} className=\"font icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-font-icon"
+  },
+  "ui-bold-icon": {
+    "body": "<${1:i} className=\"bold icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bold-icon"
+  },
+  "ui-italic-icon": {
+    "body": "<${1:i} className=\"italic icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-italic-icon"
+  },
+  "ui-text-height-icon": {
+    "body": "<${1:i} className=\"text height icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-text-height-icon"
+  },
+  "ui-text-width-icon": {
+    "body": "<${1:i} className=\"text width icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-text-width-icon"
+  },
+  "ui-align-left-icon": {
+    "body": "<${1:i} className=\"align left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-align-left-icon"
+  },
+  "ui-align-center-icon": {
+    "body": "<${1:i} className=\"align center icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-align-center-icon"
+  },
+  "ui-align-right-icon": {
+    "body": "<${1:i} className=\"align right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-align-right-icon"
+  },
+  "ui-align-justify-icon": {
+    "body": "<${1:i} className=\"align justify icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-align-justify-icon"
+  },
+  "ui-list-icon": {
+    "body": "<${1:i} className=\"list icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-list-icon"
+  },
+  "ui-outdent-icon": {
+    "body": "<${1:i} className=\"outdent icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-outdent-icon"
+  },
+  "ui-indent-icon": {
+    "body": "<${1:i} className=\"indent icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-indent-icon"
+  },
+  "ui-linkify-icon": {
+    "body": "<${1:i} className=\"linkify icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-linkify-icon"
+  },
+  "ui-cut-icon": {
+    "body": "<${1:i} className=\"cut icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-cut-icon"
+  },
+  "ui-copy-icon": {
+    "body": "<${1:i} className=\"copy icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-copy-icon"
+  },
+  "ui-attach-icon": {
+    "body": "<${1:i} className=\"attach icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-attach-icon"
+  },
+  "ui-save-icon": {
+    "body": "<${1:i} className=\"save icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-save-icon"
+  },
+  "ui-i-iconunordered-list-icon": {
+    "body": "<${1:i} className=\"i iconunordered list icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-i-iconunordered-list-icon"
+  },
+  "ui-ordered-list-icon": {
+    "body": "<${1:i} className=\"ordered list icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-ordered-list-icon"
+  },
+  "ui-strikethrough-icon": {
+    "body": "<${1:i} className=\"strikethrough icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-strikethrough-icon"
+  },
+  "ui-underline-icon": {
+    "body": "<${1:i} className=\"underline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-underline-icon"
+  },
+  "ui-paste-icon": {
+    "body": "<${1:i} className=\"paste icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-paste-icon"
+  },
+  "ui-unlink-icon": {
+    "body": "<${1:i} className=\"unlink icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-unlink-icon"
+  },
+  "ui-superscript-icon": {
+    "body": "<${1:i} className=\"superscript icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-superscript-icon"
+  },
+  "ui-subscript-icon": {
+    "body": "<${1:i} className=\"subscript icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-subscript-icon"
+  },
+  "ui-header-icon": {
+    "body": "<${1:i} className=\"header icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-header-icon"
+  },
+  "ui-paragraph-icon": {
+    "body": "<${1:i} className=\"paragraph icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-paragraph-icon"
+  },
+  "ui-euro-icon": {
+    "body": "<${1:i} className=\"euro icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-euro-icon"
+  },
+  "ui-pound-icon": {
+    "body": "<${1:i} className=\"pound icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pound-icon"
+  },
+  "ui-dollar-icon": {
+    "body": "<${1:i} className=\"dollar icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-dollar-icon"
+  },
+  "ui-rupee-icon": {
+    "body": "<${1:i} className=\"rupee icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-rupee-icon"
+  },
+  "ui-yen-icon": {
+    "body": "<${1:i} className=\"yen icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-yen-icon"
+  },
+  "ui-ruble-icon": {
+    "body": "<${1:i} className=\"ruble icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-ruble-icon"
+  },
+  "ui-won-icon": {
+    "body": "<${1:i} className=\"won icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-won-icon"
+  },
+  "ui-lira-icon": {
+    "body": "<${1:i} className=\"lira icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-lira-icon"
+  },
+  "ui-shekel-icon": {
+    "body": "<${1:i} className=\"shekel icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-shekel-icon"
+  },
+  "ui-paypal-icon": {
+    "body": "<${1:i} className=\"paypal icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-paypal-icon"
+  },
+  "ui-paypal-card-icon": {
+    "body": "<${1:i} className=\"paypal card icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-paypal-card-icon"
+  },
+  "ui-google-wallet-icon": {
+    "body": "<${1:i} className=\"google wallet icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-google-wallet-icon"
+  },
+  "ui-visa-icon": {
+    "body": "<${1:i} className=\"visa icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-visa-icon"
+  },
+  "ui-mastercard-icon": {
+    "body": "<${1:i} className=\"mastercard icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mastercard-icon"
+  },
+  "ui-discover-icon": {
+    "body": "<${1:i} className=\"discover icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-discover-icon"
+  },
+  "ui-american-express-icon": {
+    "body": "<${1:i} className=\"american express icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-american-express-icon"
+  },
+  "ui-stripe-icon": {
+    "body": "<${1:i} className=\"stripe icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-stripe-icon"
+  },
+  "ui-twitter-square-icon": {
+    "body": "<${1:i} className=\"twitter square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-twitter-square-icon"
+  },
+  "ui-facebook-square-icon": {
+    "body": "<${1:i} className=\"facebook square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-facebook-square-icon"
+  },
+  "ui-linkedin-square-icon": {
+    "body": "<${1:i} className=\"linkedin square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-linkedin-square-icon"
+  },
+  "ui-github-square-icon": {
+    "body": "<${1:i} className=\"github square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-github-square-icon"
+  },
+  "ui-twitter-icon": {
+    "body": "<${1:i} className=\"twitter icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-twitter-icon"
+  },
+  "ui-facebook-icon": {
+    "body": "<${1:i} className=\"facebook icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-facebook-icon"
+  },
+  "ui-github-icon": {
+    "body": "<${1:i} className=\"github icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-github-icon"
+  },
+  "ui-pinterest-icon": {
+    "body": "<${1:i} className=\"pinterest icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pinterest-icon"
+  },
+  "ui-pinterest-square-icon": {
+    "body": "<${1:i} className=\"pinterest square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pinterest-square-icon"
+  },
+  "ui-google-plus-square-icon": {
+    "body": "<${1:i} className=\"google plus square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-google-plus-square-icon"
+  },
+  "ui-google-plus-icon": {
+    "body": "<${1:i} className=\"google plus icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-google-plus-icon"
+  },
+  "ui-linkedin-icon": {
+    "body": "<${1:i} className=\"linkedin icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-linkedin-icon"
+  },
+  "ui-github-alternate-icon": {
+    "body": "<${1:i} className=\"github alternate icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-github-alternate-icon"
+  },
+  "ui-maxcdn-icon": {
+    "body": "<${1:i} className=\"maxcdn icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-maxcdn-icon"
+  },
+  "ui-bitcoin-icon": {
+    "body": "<${1:i} className=\"bitcoin icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bitcoin-icon"
+  },
+  "ui-youtube-square-icon": {
+    "body": "<${1:i} className=\"youtube square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-youtube-square-icon"
+  },
+  "ui-youtube-icon": {
+    "body": "<${1:i} className=\"youtube icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-youtube-icon"
+  },
+  "ui-xing-icon": {
+    "body": "<${1:i} className=\"xing icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-xing-icon"
+  },
+  "ui-xing-square-icon": {
+    "body": "<${1:i} className=\"xing square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-xing-square-icon"
+  },
+  "ui-youtube-play-icon": {
+    "body": "<${1:i} className=\"youtube play icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-youtube-play-icon"
+  },
+  "ui-dropbox-icon": {
+    "body": "<${1:i} className=\"dropbox icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-dropbox-icon"
+  },
+  "ui-stack-overflow-icon": {
+    "body": "<${1:i} className=\"stack overflow icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-stack-overflow-icon"
+  },
+  "ui-instagram-icon": {
+    "body": "<${1:i} className=\"instagram icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-instagram-icon"
+  },
+  "ui-flickr-icon": {
+    "body": "<${1:i} className=\"flickr icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-flickr-icon"
+  },
+  "ui-adn-icon": {
+    "body": "<${1:i} className=\"adn icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-adn-icon"
+  },
+  "ui-bitbucket-icon": {
+    "body": "<${1:i} className=\"bitbucket icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bitbucket-icon"
+  },
+  "ui-bitbucket-square-icon": {
+    "body": "<${1:i} className=\"bitbucket square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bitbucket-square-icon"
+  },
+  "ui-tumblr-icon": {
+    "body": "<${1:i} className=\"tumblr icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-tumblr-icon"
+  },
+  "ui-tumblr-square-icon": {
+    "body": "<${1:i} className=\"tumblr square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-tumblr-square-icon"
+  },
+  "ui-apple-icon": {
+    "body": "<${1:i} className=\"apple icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-apple-icon"
+  },
+  "ui-windows-icon": {
+    "body": "<${1:i} className=\"windows icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-windows-icon"
+  },
+  "ui-android-icon": {
+    "body": "<${1:i} className=\"android icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-android-icon"
+  },
+  "ui-linux-icon": {
+    "body": "<${1:i} className=\"linux icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-linux-icon"
+  },
+  "ui-dribbble-icon": {
+    "body": "<${1:i} className=\"dribbble icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-dribbble-icon"
+  },
+  "ui-skype-icon": {
+    "body": "<${1:i} className=\"skype icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-skype-icon"
+  },
+  "ui-foursquare-icon": {
+    "body": "<${1:i} className=\"foursquare icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-foursquare-icon"
+  },
+  "ui-trello-icon": {
+    "body": "<${1:i} className=\"trello icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-trello-icon"
+  },
+  "ui-gittip-icon": {
+    "body": "<${1:i} className=\"gittip icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-gittip-icon"
+  },
+  "ui-vk-icon": {
+    "body": "<${1:i} className=\"vk icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-vk-icon"
+  },
+  "ui-weibo-icon": {
+    "body": "<${1:i} className=\"weibo icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-weibo-icon"
+  },
+  "ui-renren-icon": {
+    "body": "<${1:i} className=\"renren icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-renren-icon"
+  },
+  "ui-pagelines-icon": {
+    "body": "<${1:i} className=\"pagelines icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pagelines-icon"
+  },
+  "ui-stack-exchange-icon": {
+    "body": "<${1:i} className=\"stack exchange icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-stack-exchange-icon"
+  },
+  "ui-vimeo-icon": {
+    "body": "<${1:i} className=\"vimeo icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-vimeo-icon"
+  },
+  "ui-slack-icon": {
+    "body": "<${1:i} className=\"slack icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-slack-icon"
+  },
+  "ui-wordpress-icon": {
+    "body": "<${1:i} className=\"wordpress icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-wordpress-icon"
+  },
+  "ui-yahoo-icon": {
+    "body": "<${1:i} className=\"yahoo icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-yahoo-icon"
+  },
+  "ui-google-icon": {
+    "body": "<${1:i} className=\"google icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-google-icon"
+  },
+  "ui-reddit-icon": {
+    "body": "<${1:i} className=\"reddit icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-reddit-icon"
+  },
+  "ui-reddit-square-icon": {
+    "body": "<${1:i} className=\"reddit square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-reddit-square-icon"
+  },
+  "ui-stumbleupon-circle-icon": {
+    "body": "<${1:i} className=\"stumbleupon circle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-stumbleupon-circle-icon"
+  },
+  "ui-stumbleupon-icon": {
+    "body": "<${1:i} className=\"stumbleupon icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-stumbleupon-icon"
+  },
+  "ui-delicious-icon": {
+    "body": "<${1:i} className=\"delicious icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-delicious-icon"
+  },
+  "ui-digg-icon": {
+    "body": "<${1:i} className=\"digg icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-digg-icon"
+  },
+  "ui-pied-piper-icon": {
+    "body": "<${1:i} className=\"pied piper icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pied-piper-icon"
+  },
+  "ui-pied-piper-alternate-icon": {
+    "body": "<${1:i} className=\"pied piper alternate icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pied-piper-alternate-icon"
+  },
+  "ui-drupal-icon": {
+    "body": "<${1:i} className=\"drupal icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-drupal-icon"
+  },
+  "ui-joomla-icon": {
+    "body": "<${1:i} className=\"joomla icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-joomla-icon"
+  },
+  "ui-behance-icon": {
+    "body": "<${1:i} className=\"behance icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-behance-icon"
+  },
+  "ui-behance-square-icon": {
+    "body": "<${1:i} className=\"behance square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-behance-square-icon"
+  },
+  "ui-steam-icon": {
+    "body": "<${1:i} className=\"steam icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-steam-icon"
+  },
+  "ui-steam-square-icon": {
+    "body": "<${1:i} className=\"steam square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-steam-square-icon"
+  },
+  "ui-spotify-icon": {
+    "body": "<${1:i} className=\"spotify icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-spotify-icon"
+  },
+  "ui-deviantart-icon": {
+    "body": "<${1:i} className=\"deviantart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-deviantart-icon"
+  },
+  "ui-soundcloud-icon": {
+    "body": "<${1:i} className=\"soundcloud icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-soundcloud-icon"
+  },
+  "ui-vine-icon": {
+    "body": "<${1:i} className=\"vine icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-vine-icon"
+  },
+  "ui-codepen-icon": {
+    "body": "<${1:i} className=\"codepen icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-codepen-icon"
+  },
+  "ui-jsfiddle-icon": {
+    "body": "<${1:i} className=\"jsfiddle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-jsfiddle-icon"
+  },
+  "ui-rebel-icon": {
+    "body": "<${1:i} className=\"rebel icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-rebel-icon"
+  },
+  "ui-empire-icon": {
+    "body": "<${1:i} className=\"empire icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-empire-icon"
+  },
+  "ui-git-square-icon": {
+    "body": "<${1:i} className=\"git square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-git-square-icon"
+  },
+  "ui-git-icon": {
+    "body": "<${1:i} className=\"git icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-git-icon"
+  },
+  "ui-hacker-news-icon": {
+    "body": "<${1:i} className=\"hacker news icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-hacker-news-icon"
+  },
+  "ui-tencent-weibo-icon": {
+    "body": "<${1:i} className=\"tencent weibo icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-tencent-weibo-icon"
+  },
+  "ui-qq-icon": {
+    "body": "<${1:i} className=\"qq icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-qq-icon"
+  },
+  "ui-wechat-icon": {
+    "body": "<${1:i} className=\"wechat icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-wechat-icon"
+  },
+  "ui-slideshare-icon": {
+    "body": "<${1:i} className=\"slideshare icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-slideshare-icon"
+  },
+  "ui-twitch-icon": {
+    "body": "<${1:i} className=\"twitch icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-twitch-icon"
+  },
+  "ui-yelp-icon": {
+    "body": "<${1:i} className=\"yelp icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-yelp-icon"
+  },
+  "ui-lastfm-icon": {
+    "body": "<${1:i} className=\"lastfm icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-lastfm-icon"
+  },
+  "ui-lastfm-square-icon": {
+    "body": "<${1:i} className=\"lastfm square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-lastfm-square-icon"
+  },
+  "ui-ioxhost-icon": {
+    "body": "<${1:i} className=\"ioxhost icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-ioxhost-icon"
+  },
+  "ui-angellist-icon": {
+    "body": "<${1:i} className=\"angellist icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-angellist-icon"
+  },
+  "ui-meanpath-icon": {
+    "body": "<${1:i} className=\"meanpath icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-meanpath-icon"
+  },
+  "ui-buysellads-icon": {
+    "body": "<${1:i} className=\"buysellads icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-buysellads-icon"
+  },
+  "ui-connectdevelop-icon": {
+    "body": "<${1:i} className=\"connectdevelop icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-connectdevelop-icon"
+  },
+  "ui-dashcube-icon": {
+    "body": "<${1:i} className=\"dashcube icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-dashcube-icon"
+  },
+  "ui-forumbee-icon": {
+    "body": "<${1:i} className=\"forumbee icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-forumbee-icon"
+  },
+  "ui-leanpub-icon": {
+    "body": "<${1:i} className=\"leanpub icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-leanpub-icon"
+  },
+  "ui-sellsy-icon": {
+    "body": "<${1:i} className=\"sellsy icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sellsy-icon"
+  },
+  "ui-shirtsinbulk-icon": {
+    "body": "<${1:i} className=\"shirtsinbulk icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-shirtsinbulk-icon"
+  },
+  "ui-simplybuilt-icon": {
+    "body": "<${1:i} className=\"simplybuilt icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-simplybuilt-icon"
+  },
+  "ui-skyatlas-icon": {
+    "body": "<${1:i} className=\"skyatlas icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-skyatlas-icon"
+  },
+  "ui-whatsapp-icon": {
+    "body": "<${1:i} className=\"whatsapp icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-whatsapp-icon"
+  },
+  "ui-viacoin-icon": {
+    "body": "<${1:i} className=\"viacoin icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-viacoin-icon"
+  },
+  "ui-medium-icon": {
+    "body": "<${1:i} className=\"medium icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-medium-icon"
+  },
+  "ui-like-icon": {
+    "body": "<${1:i} className=\"like icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-like-icon"
+  },
+  "ui-favorite-icon": {
+    "body": "<${1:i} className=\"favorite icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-favorite-icon"
+  },
+  "ui-video-icon": {
+    "body": "<${1:i} className=\"video icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-video-icon"
+  },
+  "ui-check-icon": {
+    "body": "<${1:i} className=\"check icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-check-icon"
+  },
+  "ui-close-icon": {
+    "body": "<${1:i} className=\"close icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-close-icon"
+  },
+  "ui-cancel-icon": {
+    "body": "<${1:i} className=\"cancel icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-cancel-icon"
+  },
+  "ui-delete-icon": {
+    "body": "<${1:i} className=\"delete icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-delete-icon"
+  },
+  "ui-x-icon": {
+    "body": "<${1:i} className=\"x icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-x-icon"
+  },
+  "ui-user-times-icon": {
+    "body": "<${1:i} className=\"user times icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-user-times-icon"
+  },
+  "ui-user-close-icon": {
+    "body": "<${1:i} className=\"user close icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-user-close-icon"
+  },
+  "ui-user-cancel-icon": {
+    "body": "<${1:i} className=\"user cancel icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-user-cancel-icon"
+  },
+  "ui-user-delete-icon": {
+    "body": "<${1:i} className=\"user delete icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-user-delete-icon"
+  },
+  "ui-user-x-icon": {
+    "body": "<${1:i} className=\"user x icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-user-x-icon"
+  },
+  "ui-zoom-in-icon": {
+    "body": "<${1:i} className=\"zoom in icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-zoom-in-icon"
+  },
+  "ui-magnify-icon": {
+    "body": "<${1:i} className=\"magnify icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-magnify-icon"
+  },
+  "ui-shutdown-icon": {
+    "body": "<${1:i} className=\"shutdown icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-shutdown-icon"
+  },
+  "ui-clock-icon": {
+    "body": "<${1:i} className=\"clock icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-clock-icon"
+  },
+  "ui-time-icon": {
+    "body": "<${1:i} className=\"time icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-time-icon"
+  },
+  "ui-play-circle-outline-icon": {
+    "body": "<${1:i} className=\"play circle outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-play-circle-outline-icon"
+  },
+  "ui-headphone-icon": {
+    "body": "<${1:i} className=\"headphone icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-headphone-icon"
+  },
+  "ui-camera-icon": {
+    "body": "<${1:i} className=\"camera icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-camera-icon"
+  },
+  "ui-video-camera-icon": {
+    "body": "<${1:i} className=\"video camera icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-video-camera-icon"
+  },
+  "ui-picture-icon": {
+    "body": "<${1:i} className=\"picture icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-picture-icon"
+  },
+  "ui-pencil-icon": {
+    "body": "<${1:i} className=\"pencil icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pencil-icon"
+  },
+  "ui-compose-icon": {
+    "body": "<${1:i} className=\"compose icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-compose-icon"
+  },
+  "ui-point-icon": {
+    "body": "<${1:i} className=\"point icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-point-icon"
+  },
+  "ui-tint-icon": {
+    "body": "<${1:i} className=\"tint icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-tint-icon"
+  },
+  "ui-signup-icon": {
+    "body": "<${1:i} className=\"signup icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-signup-icon"
+  },
+  "ui-plus-circle-icon": {
+    "body": "<${1:i} className=\"plus circle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-plus-circle-icon"
+  },
+  "ui-dont-icon": {
+    "body": "<${1:i} className=\"dont icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-dont-icon"
+  },
+  "ui-minimize-icon": {
+    "body": "<${1:i} className=\"minimize icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-minimize-icon"
+  },
+  "ui-add-icon": {
+    "body": "<${1:i} className=\"add icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-add-icon"
+  },
+  "ui-eye-icon": {
+    "body": "<${1:i} className=\"eye icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-eye-icon"
+  },
+  "ui-attention-icon": {
+    "body": "<${1:i} className=\"attention icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-attention-icon"
+  },
+  "ui-cart-icon": {
+    "body": "<${1:i} className=\"cart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-cart-icon"
+  },
+  "ui-shuffle-icon": {
+    "body": "<${1:i} className=\"shuffle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-shuffle-icon"
+  },
+  "ui-talk-icon": {
+    "body": "<${1:i} className=\"talk icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-talk-icon"
+  },
+  "ui-chat-icon": {
+    "body": "<${1:i} className=\"chat icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-chat-icon"
+  },
+  "ui-shopping-cart-icon": {
+    "body": "<${1:i} className=\"shopping cart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-shopping-cart-icon"
+  },
+  "ui-bar-graph-icon": {
+    "body": "<${1:i} className=\"bar graph icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bar-graph-icon"
+  },
+  "ui-area-graph-icon": {
+    "body": "<${1:i} className=\"area graph icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-area-graph-icon"
+  },
+  "ui-pie-graph-icon": {
+    "body": "<${1:i} className=\"pie graph icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pie-graph-icon"
+  },
+  "ui-line-graph-icon": {
+    "body": "<${1:i} className=\"line graph icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-line-graph-icon"
+  },
+  "ui-key-icon": {
+    "body": "<${1:i} className=\"key icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-key-icon"
+  },
+  "ui-cogs-icon": {
+    "body": "<${1:i} className=\"cogs icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-cogs-icon"
+  },
+  "ui-discussions-icon": {
+    "body": "<${1:i} className=\"discussions icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-discussions-icon"
+  },
+  "ui-like-outline-icon": {
+    "body": "<${1:i} className=\"like outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-like-outline-icon"
+  },
+  "ui-dislike-outline-icon": {
+    "body": "<${1:i} className=\"dislike outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-dislike-outline-icon"
+  },
+  "ui-heart-outline-icon": {
+    "body": "<${1:i} className=\"heart outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-heart-outline-icon"
+  },
+  "ui-log-out-icon": {
+    "body": "<${1:i} className=\"log out icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-log-out-icon"
+  },
+  "ui-thumb-tack-icon": {
+    "body": "<${1:i} className=\"thumb tack icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-thumb-tack-icon"
+  },
+  "ui-winner-icon": {
+    "body": "<${1:i} className=\"winner icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-winner-icon"
+  },
+  "ui-bookmark-outline-icon": {
+    "body": "<${1:i} className=\"bookmark outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bookmark-outline-icon"
+  },
+  "ui-phone-icon": {
+    "body": "<${1:i} className=\"phone icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-phone-icon"
+  },
+  "ui-phone-square-icon": {
+    "body": "<${1:i} className=\"phone square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-phone-square-icon"
+  },
+  "ui-credit-card-icon": {
+    "body": "<${1:i} className=\"credit card icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-credit-card-icon"
+  },
+  "ui-hdd-outline-icon": {
+    "body": "<${1:i} className=\"hdd outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-hdd-outline-icon"
+  },
+  "ui-bullhorn-icon": {
+    "body": "<${1:i} className=\"bullhorn icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bullhorn-icon"
+  },
+  "ui-bell-icon": {
+    "body": "<${1:i} className=\"bell icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bell-icon"
+  },
+  "ui-bell-outline-icon": {
+    "body": "<${1:i} className=\"bell outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bell-outline-icon"
+  },
+  "ui-bell-slash-icon": {
+    "body": "<${1:i} className=\"bell slash icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bell-slash-icon"
+  },
+  "ui-bell-slash-outline-icon": {
+    "body": "<${1:i} className=\"bell slash outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bell-slash-outline-icon"
+  },
+  "ui-hand-outline-right-icon": {
+    "body": "<${1:i} className=\"hand outline right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-hand-outline-right-icon"
+  },
+  "ui-hand-outline-left-icon": {
+    "body": "<${1:i} className=\"hand outline left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-hand-outline-left-icon"
+  },
+  "ui-hand-outline-up-icon": {
+    "body": "<${1:i} className=\"hand outline up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-hand-outline-up-icon"
+  },
+  "ui-hand-outline-down-icon": {
+    "body": "<${1:i} className=\"hand outline down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-hand-outline-down-icon"
+  },
+  "ui-globe-icon": {
+    "body": "<${1:i} className=\"globe icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-globe-icon"
+  },
+  "ui-wrench-icon": {
+    "body": "<${1:i} className=\"wrench icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-wrench-icon"
+  },
+  "ui-briefcase-icon": {
+    "body": "<${1:i} className=\"briefcase icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-briefcase-icon"
+  },
+  "ui-group-icon": {
+    "body": "<${1:i} className=\"group icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-group-icon"
+  },
+  "ui-flask-icon": {
+    "body": "<${1:i} className=\"flask icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-flask-icon"
+  },
+  "ui-sidebar-icon": {
+    "body": "<${1:i} className=\"sidebar icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sidebar-icon"
+  },
+  "ui-bars-icon": {
+    "body": "<${1:i} className=\"bars icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bars-icon"
+  },
+  "ui-list-ul-icon": {
+    "body": "<${1:i} className=\"list ul icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-list-ul-icon"
+  },
+  "ui-list-ol-icon": {
+    "body": "<${1:i} className=\"list ol icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-list-ol-icon"
+  },
+  "ui-numbered-list-icon": {
+    "body": "<${1:i} className=\"numbered list icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-numbered-list-icon"
+  },
+  "ui-magic-icon": {
+    "body": "<${1:i} className=\"magic icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-magic-icon"
+  },
+  "ui-truck-icon": {
+    "body": "<${1:i} className=\"truck icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-truck-icon"
+  },
+  "ui-currency-icon": {
+    "body": "<${1:i} className=\"currency icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-currency-icon"
+  },
+  "ui-triangle-down-icon": {
+    "body": "<${1:i} className=\"triangle down icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-triangle-down-icon"
+  },
+  "ui-dropdown-icon": {
+    "body": "<${1:i} className=\"dropdown icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-dropdown-icon"
+  },
+  "ui-triangle-up-icon": {
+    "body": "<${1:i} className=\"triangle up icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-triangle-up-icon"
+  },
+  "ui-triangle-left-icon": {
+    "body": "<${1:i} className=\"triangle left icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-triangle-left-icon"
+  },
+  "ui-triangle-right-icon": {
+    "body": "<${1:i} className=\"triangle right icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-triangle-right-icon"
+  },
+  "ui-envelope-icon": {
+    "body": "<${1:i} className=\"envelope icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-envelope-icon"
+  },
+  "ui-conversation-icon": {
+    "body": "<${1:i} className=\"conversation icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-conversation-icon"
+  },
+  "ui-umbrella-icon": {
+    "body": "<${1:i} className=\"umbrella icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-umbrella-icon"
+  },
+  "ui-lightbulb-icon": {
+    "body": "<${1:i} className=\"lightbulb icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-lightbulb-icon"
+  },
+  "ui-ambulance-icon": {
+    "body": "<${1:i} className=\"ambulance icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-ambulance-icon"
+  },
+  "ui-medkit-icon": {
+    "body": "<${1:i} className=\"medkit icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-medkit-icon"
+  },
+  "ui-fighter-jet-icon": {
+    "body": "<${1:i} className=\"fighter jet icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-fighter-jet-icon"
+  },
+  "ui-beer-icon": {
+    "body": "<${1:i} className=\"beer icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-beer-icon"
+  },
+  "ui-plus-square-icon": {
+    "body": "<${1:i} className=\"plus square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-plus-square-icon"
+  },
+  "ui-computer-icon": {
+    "body": "<${1:i} className=\"computer icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-computer-icon"
+  },
+  "ui-circle-outline-icon": {
+    "body": "<${1:i} className=\"circle outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-circle-outline-icon"
+  },
+  "ui-intersex-icon": {
+    "body": "<${1:i} className=\"intersex icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-intersex-icon"
+  },
+  "ui-asexual-icon": {
+    "body": "<${1:i} className=\"asexual icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-asexual-icon"
+  },
+  "ui-spinner-icon": {
+    "body": "<${1:i} className=\"spinner icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-spinner-icon"
+  },
+  "ui-gamepad-icon": {
+    "body": "<${1:i} className=\"gamepad icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-gamepad-icon"
+  },
+  "ui-star-half-full-icon": {
+    "body": "<${1:i} className=\"star half full icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-star-half-full-icon"
+  },
+  "ui-question-icon": {
+    "body": "<${1:i} className=\"question icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-question-icon"
+  },
+  "ui-eraser-icon": {
+    "body": "<${1:i} className=\"eraser icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-eraser-icon"
+  },
+  "ui-microphone-icon": {
+    "body": "<${1:i} className=\"microphone icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-microphone-icon"
+  },
+  "ui-microphone-slash-icon": {
+    "body": "<${1:i} className=\"microphone slash icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-microphone-slash-icon"
+  },
+  "ui-shield-icon": {
+    "body": "<${1:i} className=\"shield icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-shield-icon"
+  },
+  "ui-target-icon": {
+    "body": "<${1:i} className=\"target icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-target-icon"
+  },
+  "ui-play-circle-icon": {
+    "body": "<${1:i} className=\"play circle icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-play-circle-icon"
+  },
+  "ui-pencil-square-icon": {
+    "body": "<${1:i} className=\"pencil square icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pencil-square-icon"
+  },
+  "ui-compass-icon": {
+    "body": "<${1:i} className=\"compass icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-compass-icon"
+  },
+  "ui-amex-icon": {
+    "body": "<${1:i} className=\"amex icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-amex-icon"
+  },
+  "ui-eur-icon": {
+    "body": "<${1:i} className=\"eur icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-eur-icon"
+  },
+  "ui-gbp-icon": {
+    "body": "<${1:i} className=\"gbp icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-gbp-icon"
+  },
+  "ui-usd-icon": {
+    "body": "<${1:i} className=\"usd icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-usd-icon"
+  },
+  "ui-inr-icon": {
+    "body": "<${1:i} className=\"inr icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-inr-icon"
+  },
+  "ui-cny-icon": {
+    "body": "<${1:i} className=\"cny icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-cny-icon"
+  },
+  "ui-rmb-icon": {
+    "body": "<${1:i} className=\"rmb icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-rmb-icon"
+  },
+  "ui-jpy-icon": {
+    "body": "<${1:i} className=\"jpy icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-jpy-icon"
+  },
+  "ui-rouble-icon": {
+    "body": "<${1:i} className=\"rouble icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-rouble-icon"
+  },
+  "ui-rub-icon": {
+    "body": "<${1:i} className=\"rub icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-rub-icon"
+  },
+  "ui-krw-icon": {
+    "body": "<${1:i} className=\"krw icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-krw-icon"
+  },
+  "ui-btc-icon": {
+    "body": "<${1:i} className=\"btc icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-btc-icon"
+  },
+  "ui-sheqel-icon": {
+    "body": "<${1:i} className=\"sheqel icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sheqel-icon"
+  },
+  "ui-ils-icon": {
+    "body": "<${1:i} className=\"ils icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-ils-icon"
+  },
+  "ui-try-icon": {
+    "body": "<${1:i} className=\"try icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-try-icon"
+  },
+  "ui-zip-icon": {
+    "body": "<${1:i} className=\"zip icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-zip-icon"
+  },
+  "ui-dot-circle-outline-icon": {
+    "body": "<${1:i} className=\"dot circle outline icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-dot-circle-outline-icon"
+  },
+  "ui-sliders-icon": {
+    "body": "<${1:i} className=\"sliders icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-sliders-icon"
+  },
+  "ui-wi-fi-icon": {
+    "body": "<${1:i} className=\"wi-fi icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-wi-fi-icon"
+  },
+  "ui-graduation-icon": {
+    "body": "<${1:i} className=\"graduation icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-graduation-icon"
+  },
+  "ui-weixin-icon": {
+    "body": "<${1:i} className=\"weixin icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-weixin-icon"
+  },
+  "ui-binoculars-icon": {
+    "body": "<${1:i} className=\"binoculars icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-binoculars-icon"
+  },
+  "ui-gratipay-icon": {
+    "body": "<${1:i} className=\"gratipay icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-gratipay-icon"
+  },
+  "ui-genderless-icon": {
+    "body": "<${1:i} className=\"genderless icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-genderless-icon"
+  },
+  "ui-teletype-icon": {
+    "body": "<${1:i} className=\"teletype icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-teletype-icon"
+  },
+  "ui-power-cord-icon": {
+    "body": "<${1:i} className=\"power cord icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-power-cord-icon"
+  },
+  "ui-tty-icon": {
+    "body": "<${1:i} className=\"tty icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-tty-icon"
+  },
+  "ui-cc-icon": {
+    "body": "<${1:i} className=\"cc icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-cc-icon"
+  },
+  "ui-plus-cart-icon": {
+    "body": "<${1:i} className=\"plus cart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-plus-cart-icon"
+  },
+  "ui-arrow-down-cart-icon": {
+    "body": "<${1:i} className=\"arrow down cart icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-arrow-down-cart-icon"
+  },
+  "ui-detective-icon": {
+    "body": "<${1:i} className=\"detective icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-detective-icon"
+  },
+  "ui-venus-icon": {
+    "body": "<${1:i} className=\"venus icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-venus-icon"
+  },
+  "ui-mars-icon": {
+    "body": "<${1:i} className=\"mars icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mars-icon"
+  },
+  "ui-mercury-icon": {
+    "body": "<${1:i} className=\"mercury icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mercury-icon"
+  },
+  "ui-venus-double-icon": {
+    "body": "<${1:i} className=\"venus double icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-venus-double-icon"
+  },
+  "ui-female-homosexual-icon": {
+    "body": "<${1:i} className=\"female homosexual icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-female-homosexual-icon"
+  },
+  "ui-mars-double-icon": {
+    "body": "<${1:i} className=\"mars double icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mars-double-icon"
+  },
+  "ui-male-homosexual-icon": {
+    "body": "<${1:i} className=\"male homosexual icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-male-homosexual-icon"
+  },
+  "ui-venus-mars-icon": {
+    "body": "<${1:i} className=\"venus mars icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-venus-mars-icon"
+  },
+  "ui-mars-stroke-icon": {
+    "body": "<${1:i} className=\"mars stroke icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mars-stroke-icon"
+  },
+  "ui-mars-alternate-icon": {
+    "body": "<${1:i} className=\"mars alternate icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mars-alternate-icon"
+  },
+  "ui-mars-vertical-icon": {
+    "body": "<${1:i} className=\"mars vertical icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mars-vertical-icon"
+  },
+  "ui-mars-horizontal-icon": {
+    "body": "<${1:i} className=\"mars horizontal icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mars-horizontal-icon"
+  },
+  "ui-mars-stroke-vertical-icon": {
+    "body": "<${1:i} className=\"mars stroke vertical icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mars-stroke-vertical-icon"
+  },
+  "ui-mars-stroke-horizontal-icon": {
+    "body": "<${1:i} className=\"mars stroke horizontal icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-mars-stroke-horizontal-icon"
+  },
+  "ui-facebook-official-icon": {
+    "body": "<${1:i} className=\"facebook official icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-facebook-official-icon"
+  },
+  "ui-pinterest-official-icon": {
+    "body": "<${1:i} className=\"pinterest official icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-pinterest-official-icon"
+  },
+  "ui-bed-icon": {
+    "body": "<${1:i} className=\"bed icon$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "ui-bed-icon"
+  }
+}

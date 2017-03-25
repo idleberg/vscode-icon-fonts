@@ -39,403 +39,515 @@
         "snippets": [
             {
                 "language": "html",
-                "path": "./snippets/__cdnjs.json"
+                "path": "./snippets/html/__cdnjs.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/__jsdelivr.json"
+                "path": "./snippets/html/__jsdelivr.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/ai.json"
+                "path": "./snippets/html/ai.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/brandico.json"
+                "path": "./snippets/html/brandico.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/cc.json"
+                "path": "./snippets/html/cc.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/dashicons.json"
+                "path": "./snippets/html/dashicons.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/devicons.json"
+                "path": "./snippets/html/devicons.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/el.json"
+                "path": "./snippets/html/el.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/fa.json"
+                "path": "./snippets/html/fa.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/fi.json"
+                "path": "./snippets/html/fi.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/fl.json"
+                "path": "./snippets/html/fl.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/glyphicon.json"
+                "path": "./snippets/html/glyphicon.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/icofont.json"
+                "path": "./snippets/html/icofont.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/icono.json"
+                "path": "./snippets/html/icono.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/ion.json"
+                "path": "./snippets/html/ion.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/mdi.json"
+                "path": "./snippets/html/mdi.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/mfg.json"
+                "path": "./snippets/html/mfg.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/mfizz.json"
+                "path": "./snippets/html/mfizz.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/octicon.json"
+                "path": "./snippets/html/octicon.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/oi.json"
+                "path": "./snippets/html/oi.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/openwebicons.json"
+                "path": "./snippets/html/openwebicons.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/pf.json"
+                "path": "./snippets/html/pf.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/ratchicon.json"
+                "path": "./snippets/html/ratchicon.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/st.json"
+                "path": "./snippets/html/st.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/typcn.json"
+                "path": "./snippets/html/typcn.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/ui.json"
+                "path": "./snippets/html/ui.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/wi.json"
+                "path": "./snippets/html/wi.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/zmdi.json"
+                "path": "./snippets/html/zmdi.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/ai-css.json"
+                "path": "./snippets/css/ai.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/brandico-css.json"
+                "path": "./snippets/css/brandico.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/cc-css.json"
+                "path": "./snippets/css/cc.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/dashicons-css.json"
+                "path": "./snippets/css/dashicons.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/devicons-css.json"
+                "path": "./snippets/css/devicons.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/el-css.json"
+                "path": "./snippets/css/el.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/fa-css.json"
+                "path": "./snippets/css/fa.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/fi-css.json"
+                "path": "./snippets/css/fi.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/fl-css.json"
+                "path": "./snippets/css/fl.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/glyphicon-css.json"
+                "path": "./snippets/css/glyphicon.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/icofont-css.json"
+                "path": "./snippets/css/icofont.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/ion-css.json"
+                "path": "./snippets/css/ion.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/mdi-css.json"
+                "path": "./snippets/css/mdi.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/mfg-css.json"
+                "path": "./snippets/css/mfg.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/mfizz-css.json"
+                "path": "./snippets/css/mfizz.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/oi-css.json"
+                "path": "./snippets/css/oi.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/openwebicons-css.json"
+                "path": "./snippets/css/openwebicons.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/pf-css.json"
+                "path": "./snippets/css/pf.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/ratchicon-css.json"
+                "path": "./snippets/css/ratchicon.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/st-css.json"
+                "path": "./snippets/css/st.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/typcn-css.json"
+                "path": "./snippets/css/typcn.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/ui-css.json"
+                "path": "./snippets/css/ui.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/wi-css.json"
+                "path": "./snippets/css/wi.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/zmdi-css.json"
+                "path": "./snippets/css/zmdi.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/ai-css.json"
+                "path": "./snippets/css/ai.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/brandico-css.json"
+                "path": "./snippets/css/brandico.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/cc-css.json"
+                "path": "./snippets/css/cc.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/dashicons-css.json"
+                "path": "./snippets/css/dashicons.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/devicons-css.json"
+                "path": "./snippets/css/devicons.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/el-css.json"
+                "path": "./snippets/css/el.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/fa-css.json"
+                "path": "./snippets/css/fa.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/fi-css.json"
+                "path": "./snippets/css/fi.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/fl-css.json"
+                "path": "./snippets/css/fl.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/glyphicon-css.json"
+                "path": "./snippets/css/glyphicon.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/icofont-css.json"
+                "path": "./snippets/css/icofont.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/ion-css.json"
+                "path": "./snippets/css/ion.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/mdi-css.json"
+                "path": "./snippets/css/mdi.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/mfg-css.json"
+                "path": "./snippets/css/mfg.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/mfizz-css.json"
+                "path": "./snippets/css/mfizz.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/oi-css.json"
+                "path": "./snippets/css/oi.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/openwebicons-css.json"
+                "path": "./snippets/css/openwebicons.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/pf-css.json"
+                "path": "./snippets/css/pf.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/ratchicon-css.json"
+                "path": "./snippets/css/ratchicon.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/st-css.json"
+                "path": "./snippets/css/st.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/typcn-css.json"
+                "path": "./snippets/css/typcn.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/ui-css.json"
+                "path": "./snippets/css/ui.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/wi-css.json"
+                "path": "./snippets/css/wi.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/zmdi-css.json"
+                "path": "./snippets/css/zmdi.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/ai-css.json"
+                "path": "./snippets/css/ai.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/brandico-css.json"
+                "path": "./snippets/css/brandico.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/cc-css.json"
+                "path": "./snippets/css/cc.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/dashicons-css.json"
+                "path": "./snippets/css/dashicons.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/devicons-css.json"
+                "path": "./snippets/css/devicons.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/el-css.json"
+                "path": "./snippets/css/el.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/fa-css.json"
+                "path": "./snippets/css/fa.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/fi-css.json"
+                "path": "./snippets/css/fi.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/fl-css.json"
+                "path": "./snippets/css/fl.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/glyphicon-css.json"
+                "path": "./snippets/css/glyphicon.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/icofont-css.json"
+                "path": "./snippets/css/icofont.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/ion-css.json"
+                "path": "./snippets/css/ion.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/mdi-css.json"
+                "path": "./snippets/css/mdi.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/mfg-css.json"
+                "path": "./snippets/css/mfg.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/mfizz-css.json"
+                "path": "./snippets/css/mfizz.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/oi-css.json"
+                "path": "./snippets/css/oi.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/openwebicons-css.json"
+                "path": "./snippets/css/openwebicons.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/pf-css.json"
+                "path": "./snippets/css/pf.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/ratchicon-css.json"
+                "path": "./snippets/css/ratchicon.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/st-css.json"
+                "path": "./snippets/css/st.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/typcn-css.json"
+                "path": "./snippets/css/typcn.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/ui-css.json"
+                "path": "./snippets/css/ui.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/wi-css.json"
+                "path": "./snippets/css/wi.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/zmdi-css.json"
+                "path": "./snippets/css/zmdi.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/ai.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/brandico.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/cc.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/dashicons.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/devicons.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/el.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/fa-helpers.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/fa.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/fi.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/fl.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/geomicon.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/glyphicon.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/icofont.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/icono.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/ion.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/mdi.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/mfg.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/mfizz.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/octicon.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/oi.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/openwebicons.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/pf.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/ratchicon.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/st.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/typcn.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/ui.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/wi.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/zmdi.json"
             }
         ]
     },

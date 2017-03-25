@@ -1,3 +1,8 @@
+# v1.7.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.7.0)
+
+- add support for JSX
+- organize snippets in sub-folders
+
 # v1.6.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.6.1)
 
 - add missing snippets file
@@ -91,3 +96,4 @@
 # v1.0.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.0.0)
 
 - first release
+

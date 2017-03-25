@@ -1,0 +1,1117 @@
+{
+  "oi-account-login": {
+    "body": "<${1:span} className=\"oi oi-account-login\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-account-login"
+  },
+  "oi-account-logout": {
+    "body": "<${1:span} className=\"oi oi-account-logout\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-account-logout"
+  },
+  "oi-action-redo": {
+    "body": "<${1:span} className=\"oi oi-action-redo\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-action-redo"
+  },
+  "oi-action-undo": {
+    "body": "<${1:span} className=\"oi oi-action-undo\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-action-undo"
+  },
+  "oi-align-center": {
+    "body": "<${1:span} className=\"oi oi-align-center\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-align-center"
+  },
+  "oi-align-left": {
+    "body": "<${1:span} className=\"oi oi-align-left\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-align-left"
+  },
+  "oi-align-right": {
+    "body": "<${1:span} className=\"oi oi-align-right\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-align-right"
+  },
+  "oi-aperture": {
+    "body": "<${1:span} className=\"oi oi-aperture\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-aperture"
+  },
+  "oi-arrow-bottom": {
+    "body": "<${1:span} className=\"oi oi-arrow-bottom\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-arrow-bottom"
+  },
+  "oi-arrow-circle-bottom": {
+    "body": "<${1:span} className=\"oi oi-arrow-circle-bottom\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-arrow-circle-bottom"
+  },
+  "oi-arrow-circle-left": {
+    "body": "<${1:span} className=\"oi oi-arrow-circle-left\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-arrow-circle-left"
+  },
+  "oi-arrow-circle-right": {
+    "body": "<${1:span} className=\"oi oi-arrow-circle-right\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-arrow-circle-right"
+  },
+  "oi-arrow-circle-top": {
+    "body": "<${1:span} className=\"oi oi-arrow-circle-top\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-arrow-circle-top"
+  },
+  "oi-arrow-left": {
+    "body": "<${1:span} className=\"oi oi-arrow-left\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-arrow-left"
+  },
+  "oi-arrow-right": {
+    "body": "<${1:span} className=\"oi oi-arrow-right\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-arrow-right"
+  },
+  "oi-arrow-thick-bottom": {
+    "body": "<${1:span} className=\"oi oi-arrow-thick-bottom\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-arrow-thick-bottom"
+  },
+  "oi-arrow-thick-left": {
+    "body": "<${1:span} className=\"oi oi-arrow-thick-left\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-arrow-thick-left"
+  },
+  "oi-arrow-thick-right": {
+    "body": "<${1:span} className=\"oi oi-arrow-thick-right\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-arrow-thick-right"
+  },
+  "oi-arrow-thick-top": {
+    "body": "<${1:span} className=\"oi oi-arrow-thick-top\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-arrow-thick-top"
+  },
+  "oi-arrow-top": {
+    "body": "<${1:span} className=\"oi oi-arrow-top\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-arrow-top"
+  },
+  "oi-audio-spectrum": {
+    "body": "<${1:span} className=\"oi oi-audio-spectrum\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-audio-spectrum"
+  },
+  "oi-audio": {
+    "body": "<${1:span} className=\"oi oi-audio\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-audio"
+  },
+  "oi-badge": {
+    "body": "<${1:span} className=\"oi oi-badge\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-badge"
+  },
+  "oi-ban": {
+    "body": "<${1:span} className=\"oi oi-ban\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-ban"
+  },
+  "oi-bar-chart": {
+    "body": "<${1:span} className=\"oi oi-bar-chart\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-bar-chart"
+  },
+  "oi-basket": {
+    "body": "<${1:span} className=\"oi oi-basket\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-basket"
+  },
+  "oi-battery-empty": {
+    "body": "<${1:span} className=\"oi oi-battery-empty\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-battery-empty"
+  },
+  "oi-battery-full": {
+    "body": "<${1:span} className=\"oi oi-battery-full\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-battery-full"
+  },
+  "oi-beaker": {
+    "body": "<${1:span} className=\"oi oi-beaker\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-beaker"
+  },
+  "oi-bell": {
+    "body": "<${1:span} className=\"oi oi-bell\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-bell"
+  },
+  "oi-bluetooth": {
+    "body": "<${1:span} className=\"oi oi-bluetooth\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-bluetooth"
+  },
+  "oi-bold": {
+    "body": "<${1:span} className=\"oi oi-bold\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-bold"
+  },
+  "oi-bolt": {
+    "body": "<${1:span} className=\"oi oi-bolt\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-bolt"
+  },
+  "oi-book": {
+    "body": "<${1:span} className=\"oi oi-book\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-book"
+  },
+  "oi-bookmark": {
+    "body": "<${1:span} className=\"oi oi-bookmark\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-bookmark"
+  },
+  "oi-box": {
+    "body": "<${1:span} className=\"oi oi-box\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-box"
+  },
+  "oi-briefcase": {
+    "body": "<${1:span} className=\"oi oi-briefcase\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-briefcase"
+  },
+  "oi-british-pound": {
+    "body": "<${1:span} className=\"oi oi-british-pound\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-british-pound"
+  },
+  "oi-browser": {
+    "body": "<${1:span} className=\"oi oi-browser\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-browser"
+  },
+  "oi-brush": {
+    "body": "<${1:span} className=\"oi oi-brush\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-brush"
+  },
+  "oi-bug": {
+    "body": "<${1:span} className=\"oi oi-bug\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-bug"
+  },
+  "oi-bullhorn": {
+    "body": "<${1:span} className=\"oi oi-bullhorn\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-bullhorn"
+  },
+  "oi-calculator": {
+    "body": "<${1:span} className=\"oi oi-calculator\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-calculator"
+  },
+  "oi-calendar": {
+    "body": "<${1:span} className=\"oi oi-calendar\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-calendar"
+  },
+  "oi-camera-slr": {
+    "body": "<${1:span} className=\"oi oi-camera-slr\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-camera-slr"
+  },
+  "oi-caret-bottom": {
+    "body": "<${1:span} className=\"oi oi-caret-bottom\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-caret-bottom"
+  },
+  "oi-caret-left": {
+    "body": "<${1:span} className=\"oi oi-caret-left\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-caret-left"
+  },
+  "oi-caret-right": {
+    "body": "<${1:span} className=\"oi oi-caret-right\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-caret-right"
+  },
+  "oi-caret-top": {
+    "body": "<${1:span} className=\"oi oi-caret-top\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-caret-top"
+  },
+  "oi-cart": {
+    "body": "<${1:span} className=\"oi oi-cart\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-cart"
+  },
+  "oi-chat": {
+    "body": "<${1:span} className=\"oi oi-chat\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-chat"
+  },
+  "oi-check": {
+    "body": "<${1:span} className=\"oi oi-check\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-check"
+  },
+  "oi-chevron-bottom": {
+    "body": "<${1:span} className=\"oi oi-chevron-bottom\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-chevron-bottom"
+  },
+  "oi-chevron-left": {
+    "body": "<${1:span} className=\"oi oi-chevron-left\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-chevron-left"
+  },
+  "oi-chevron-right": {
+    "body": "<${1:span} className=\"oi oi-chevron-right\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-chevron-right"
+  },
+  "oi-chevron-top": {
+    "body": "<${1:span} className=\"oi oi-chevron-top\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-chevron-top"
+  },
+  "oi-circle-check": {
+    "body": "<${1:span} className=\"oi oi-circle-check\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-circle-check"
+  },
+  "oi-circle-x": {
+    "body": "<${1:span} className=\"oi oi-circle-x\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-circle-x"
+  },
+  "oi-clipboard": {
+    "body": "<${1:span} className=\"oi oi-clipboard\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-clipboard"
+  },
+  "oi-clock": {
+    "body": "<${1:span} className=\"oi oi-clock\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-clock"
+  },
+  "oi-cloud-download": {
+    "body": "<${1:span} className=\"oi oi-cloud-download\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-cloud-download"
+  },
+  "oi-cloud-upload": {
+    "body": "<${1:span} className=\"oi oi-cloud-upload\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-cloud-upload"
+  },
+  "oi-cloud": {
+    "body": "<${1:span} className=\"oi oi-cloud\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-cloud"
+  },
+  "oi-cloudy": {
+    "body": "<${1:span} className=\"oi oi-cloudy\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-cloudy"
+  },
+  "oi-code": {
+    "body": "<${1:span} className=\"oi oi-code\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-code"
+  },
+  "oi-cog": {
+    "body": "<${1:span} className=\"oi oi-cog\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-cog"
+  },
+  "oi-collapse-down": {
+    "body": "<${1:span} className=\"oi oi-collapse-down\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-collapse-down"
+  },
+  "oi-collapse-left": {
+    "body": "<${1:span} className=\"oi oi-collapse-left\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-collapse-left"
+  },
+  "oi-collapse-right": {
+    "body": "<${1:span} className=\"oi oi-collapse-right\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-collapse-right"
+  },
+  "oi-collapse-up": {
+    "body": "<${1:span} className=\"oi oi-collapse-up\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-collapse-up"
+  },
+  "oi-command": {
+    "body": "<${1:span} className=\"oi oi-command\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-command"
+  },
+  "oi-comment-square": {
+    "body": "<${1:span} className=\"oi oi-comment-square\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-comment-square"
+  },
+  "oi-compass": {
+    "body": "<${1:span} className=\"oi oi-compass\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-compass"
+  },
+  "oi-contrast": {
+    "body": "<${1:span} className=\"oi oi-contrast\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-contrast"
+  },
+  "oi-copywriting": {
+    "body": "<${1:span} className=\"oi oi-copywriting\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-copywriting"
+  },
+  "oi-credit-card": {
+    "body": "<${1:span} className=\"oi oi-credit-card\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-credit-card"
+  },
+  "oi-crop": {
+    "body": "<${1:span} className=\"oi oi-crop\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-crop"
+  },
+  "oi-dashboard": {
+    "body": "<${1:span} className=\"oi oi-dashboard\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-dashboard"
+  },
+  "oi-data-transfer-download": {
+    "body": "<${1:span} className=\"oi oi-data-transfer-download\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-data-transfer-download"
+  },
+  "oi-data-transfer-upload": {
+    "body": "<${1:span} className=\"oi oi-data-transfer-upload\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-data-transfer-upload"
+  },
+  "oi-delete": {
+    "body": "<${1:span} className=\"oi oi-delete\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-delete"
+  },
+  "oi-dial": {
+    "body": "<${1:span} className=\"oi oi-dial\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-dial"
+  },
+  "oi-document": {
+    "body": "<${1:span} className=\"oi oi-document\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-document"
+  },
+  "oi-dollar": {
+    "body": "<${1:span} className=\"oi oi-dollar\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-dollar"
+  },
+  "oi-double-quote-sans-left": {
+    "body": "<${1:span} className=\"oi oi-double-quote-sans-left\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-double-quote-sans-left"
+  },
+  "oi-double-quote-sans-right": {
+    "body": "<${1:span} className=\"oi oi-double-quote-sans-right\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-double-quote-sans-right"
+  },
+  "oi-double-quote-serif-left": {
+    "body": "<${1:span} className=\"oi oi-double-quote-serif-left\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-double-quote-serif-left"
+  },
+  "oi-double-quote-serif-right": {
+    "body": "<${1:span} className=\"oi oi-double-quote-serif-right\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-double-quote-serif-right"
+  },
+  "oi-droplet": {
+    "body": "<${1:span} className=\"oi oi-droplet\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-droplet"
+  },
+  "oi-eject": {
+    "body": "<${1:span} className=\"oi oi-eject\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-eject"
+  },
+  "oi-elevator": {
+    "body": "<${1:span} className=\"oi oi-elevator\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-elevator"
+  },
+  "oi-ellipses": {
+    "body": "<${1:span} className=\"oi oi-ellipses\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-ellipses"
+  },
+  "oi-envelope-closed": {
+    "body": "<${1:span} className=\"oi oi-envelope-closed\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-envelope-closed"
+  },
+  "oi-envelope-open": {
+    "body": "<${1:span} className=\"oi oi-envelope-open\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-envelope-open"
+  },
+  "oi-euro": {
+    "body": "<${1:span} className=\"oi oi-euro\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-euro"
+  },
+  "oi-excerpt": {
+    "body": "<${1:span} className=\"oi oi-excerpt\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-excerpt"
+  },
+  "oi-expand-down": {
+    "body": "<${1:span} className=\"oi oi-expand-down\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-expand-down"
+  },
+  "oi-expand-left": {
+    "body": "<${1:span} className=\"oi oi-expand-left\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-expand-left"
+  },
+  "oi-expand-right": {
+    "body": "<${1:span} className=\"oi oi-expand-right\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-expand-right"
+  },
+  "oi-expand-up": {
+    "body": "<${1:span} className=\"oi oi-expand-up\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-expand-up"
+  },
+  "oi-external-link": {
+    "body": "<${1:span} className=\"oi oi-external-link\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-external-link"
+  },
+  "oi-eye": {
+    "body": "<${1:span} className=\"oi oi-eye\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-eye"
+  },
+  "oi-eyedropper": {
+    "body": "<${1:span} className=\"oi oi-eyedropper\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-eyedropper"
+  },
+  "oi-file": {
+    "body": "<${1:span} className=\"oi oi-file\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-file"
+  },
+  "oi-fire": {
+    "body": "<${1:span} className=\"oi oi-fire\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-fire"
+  },
+  "oi-flag": {
+    "body": "<${1:span} className=\"oi oi-flag\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-flag"
+  },
+  "oi-flash": {
+    "body": "<${1:span} className=\"oi oi-flash\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-flash"
+  },
+  "oi-folder": {
+    "body": "<${1:span} className=\"oi oi-folder\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-folder"
+  },
+  "oi-fork": {
+    "body": "<${1:span} className=\"oi oi-fork\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-fork"
+  },
+  "oi-fullscreen-enter": {
+    "body": "<${1:span} className=\"oi oi-fullscreen-enter\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-fullscreen-enter"
+  },
+  "oi-fullscreen-exit": {
+    "body": "<${1:span} className=\"oi oi-fullscreen-exit\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-fullscreen-exit"
+  },
+  "oi-globe": {
+    "body": "<${1:span} className=\"oi oi-globe\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-globe"
+  },
+  "oi-graph": {
+    "body": "<${1:span} className=\"oi oi-graph\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-graph"
+  },
+  "oi-grid-four-up": {
+    "body": "<${1:span} className=\"oi oi-grid-four-up\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-grid-four-up"
+  },
+  "oi-grid-three-up": {
+    "body": "<${1:span} className=\"oi oi-grid-three-up\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-grid-three-up"
+  },
+  "oi-grid-two-up": {
+    "body": "<${1:span} className=\"oi oi-grid-two-up\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-grid-two-up"
+  },
+  "oi-hard-drive": {
+    "body": "<${1:span} className=\"oi oi-hard-drive\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-hard-drive"
+  },
+  "oi-header": {
+    "body": "<${1:span} className=\"oi oi-header\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-header"
+  },
+  "oi-headphones": {
+    "body": "<${1:span} className=\"oi oi-headphones\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-headphones"
+  },
+  "oi-heart": {
+    "body": "<${1:span} className=\"oi oi-heart\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-heart"
+  },
+  "oi-home": {
+    "body": "<${1:span} className=\"oi oi-home\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-home"
+  },
+  "oi-image": {
+    "body": "<${1:span} className=\"oi oi-image\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-image"
+  },
+  "oi-inbox": {
+    "body": "<${1:span} className=\"oi oi-inbox\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-inbox"
+  },
+  "oi-infinity": {
+    "body": "<${1:span} className=\"oi oi-infinity\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-infinity"
+  },
+  "oi-info": {
+    "body": "<${1:span} className=\"oi oi-info\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-info"
+  },
+  "oi-italic": {
+    "body": "<${1:span} className=\"oi oi-italic\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-italic"
+  },
+  "oi-justify-center": {
+    "body": "<${1:span} className=\"oi oi-justify-center\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-justify-center"
+  },
+  "oi-justify-left": {
+    "body": "<${1:span} className=\"oi oi-justify-left\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-justify-left"
+  },
+  "oi-justify-right": {
+    "body": "<${1:span} className=\"oi oi-justify-right\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-justify-right"
+  },
+  "oi-key": {
+    "body": "<${1:span} className=\"oi oi-key\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-key"
+  },
+  "oi-laptop": {
+    "body": "<${1:span} className=\"oi oi-laptop\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-laptop"
+  },
+  "oi-layers": {
+    "body": "<${1:span} className=\"oi oi-layers\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-layers"
+  },
+  "oi-lightbulb": {
+    "body": "<${1:span} className=\"oi oi-lightbulb\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-lightbulb"
+  },
+  "oi-link-broken": {
+    "body": "<${1:span} className=\"oi oi-link-broken\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-link-broken"
+  },
+  "oi-link-intact": {
+    "body": "<${1:span} className=\"oi oi-link-intact\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-link-intact"
+  },
+  "oi-list-rich": {
+    "body": "<${1:span} className=\"oi oi-list-rich\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-list-rich"
+  },
+  "oi-list": {
+    "body": "<${1:span} className=\"oi oi-list\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-list"
+  },
+  "oi-location": {
+    "body": "<${1:span} className=\"oi oi-location\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-location"
+  },
+  "oi-lock-locked": {
+    "body": "<${1:span} className=\"oi oi-lock-locked\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-lock-locked"
+  },
+  "oi-lock-unlocked": {
+    "body": "<${1:span} className=\"oi oi-lock-unlocked\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-lock-unlocked"
+  },
+  "oi-loop-circular": {
+    "body": "<${1:span} className=\"oi oi-loop-circular\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-loop-circular"
+  },
+  "oi-loop-square": {
+    "body": "<${1:span} className=\"oi oi-loop-square\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-loop-square"
+  },
+  "oi-loop": {
+    "body": "<${1:span} className=\"oi oi-loop\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-loop"
+  },
+  "oi-magnifying-glass": {
+    "body": "<${1:span} className=\"oi oi-magnifying-glass\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-magnifying-glass"
+  },
+  "oi-map-marker": {
+    "body": "<${1:span} className=\"oi oi-map-marker\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-map-marker"
+  },
+  "oi-map": {
+    "body": "<${1:span} className=\"oi oi-map\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-map"
+  },
+  "oi-media-pause": {
+    "body": "<${1:span} className=\"oi oi-media-pause\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-media-pause"
+  },
+  "oi-media-play": {
+    "body": "<${1:span} className=\"oi oi-media-play\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-media-play"
+  },
+  "oi-media-record": {
+    "body": "<${1:span} className=\"oi oi-media-record\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-media-record"
+  },
+  "oi-media-skip-backward": {
+    "body": "<${1:span} className=\"oi oi-media-skip-backward\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-media-skip-backward"
+  },
+  "oi-media-skip-forward": {
+    "body": "<${1:span} className=\"oi oi-media-skip-forward\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-media-skip-forward"
+  },
+  "oi-media-step-backward": {
+    "body": "<${1:span} className=\"oi oi-media-step-backward\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-media-step-backward"
+  },
+  "oi-media-step-forward": {
+    "body": "<${1:span} className=\"oi oi-media-step-forward\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-media-step-forward"
+  },
+  "oi-media-stop": {
+    "body": "<${1:span} className=\"oi oi-media-stop\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-media-stop"
+  },
+  "oi-medical-cross": {
+    "body": "<${1:span} className=\"oi oi-medical-cross\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-medical-cross"
+  },
+  "oi-menu": {
+    "body": "<${1:span} className=\"oi oi-menu\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-menu"
+  },
+  "oi-microphone": {
+    "body": "<${1:span} className=\"oi oi-microphone\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-microphone"
+  },
+  "oi-minus": {
+    "body": "<${1:span} className=\"oi oi-minus\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-minus"
+  },
+  "oi-monitor": {
+    "body": "<${1:span} className=\"oi oi-monitor\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-monitor"
+  },
+  "oi-moon": {
+    "body": "<${1:span} className=\"oi oi-moon\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-moon"
+  },
+  "oi-move": {
+    "body": "<${1:span} className=\"oi oi-move\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-move"
+  },
+  "oi-musical-note": {
+    "body": "<${1:span} className=\"oi oi-musical-note\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-musical-note"
+  },
+  "oi-paperclip": {
+    "body": "<${1:span} className=\"oi oi-paperclip\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-paperclip"
+  },
+  "oi-pencil": {
+    "body": "<${1:span} className=\"oi oi-pencil\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-pencil"
+  },
+  "oi-people": {
+    "body": "<${1:span} className=\"oi oi-people\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-people"
+  },
+  "oi-person": {
+    "body": "<${1:span} className=\"oi oi-person\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-person"
+  },
+  "oi-phone": {
+    "body": "<${1:span} className=\"oi oi-phone\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-phone"
+  },
+  "oi-pie-chart": {
+    "body": "<${1:span} className=\"oi oi-pie-chart\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-pie-chart"
+  },
+  "oi-pin": {
+    "body": "<${1:span} className=\"oi oi-pin\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-pin"
+  },
+  "oi-play-circle": {
+    "body": "<${1:span} className=\"oi oi-play-circle\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-play-circle"
+  },
+  "oi-plus": {
+    "body": "<${1:span} className=\"oi oi-plus\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-plus"
+  },
+  "oi-power-standby": {
+    "body": "<${1:span} className=\"oi oi-power-standby\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-power-standby"
+  },
+  "oi-print": {
+    "body": "<${1:span} className=\"oi oi-print\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-print"
+  },
+  "oi-project": {
+    "body": "<${1:span} className=\"oi oi-project\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-project"
+  },
+  "oi-pulse": {
+    "body": "<${1:span} className=\"oi oi-pulse\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-pulse"
+  },
+  "oi-puzzle-piece": {
+    "body": "<${1:span} className=\"oi oi-puzzle-piece\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-puzzle-piece"
+  },
+  "oi-question-mark": {
+    "body": "<${1:span} className=\"oi oi-question-mark\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-question-mark"
+  },
+  "oi-rain": {
+    "body": "<${1:span} className=\"oi oi-rain\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-rain"
+  },
+  "oi-random": {
+    "body": "<${1:span} className=\"oi oi-random\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-random"
+  },
+  "oi-reload": {
+    "body": "<${1:span} className=\"oi oi-reload\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-reload"
+  },
+  "oi-resize-both": {
+    "body": "<${1:span} className=\"oi oi-resize-both\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-resize-both"
+  },
+  "oi-resize-height": {
+    "body": "<${1:span} className=\"oi oi-resize-height\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-resize-height"
+  },
+  "oi-resize-width": {
+    "body": "<${1:span} className=\"oi oi-resize-width\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-resize-width"
+  },
+  "oi-rss-alt": {
+    "body": "<${1:span} className=\"oi oi-rss-alt\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-rss-alt"
+  },
+  "oi-rss": {
+    "body": "<${1:span} className=\"oi oi-rss\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-rss"
+  },
+  "oi-script": {
+    "body": "<${1:span} className=\"oi oi-script\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-script"
+  },
+  "oi-share-boxed": {
+    "body": "<${1:span} className=\"oi oi-share-boxed\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-share-boxed"
+  },
+  "oi-share": {
+    "body": "<${1:span} className=\"oi oi-share\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-share"
+  },
+  "oi-shield": {
+    "body": "<${1:span} className=\"oi oi-shield\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-shield"
+  },
+  "oi-signal": {
+    "body": "<${1:span} className=\"oi oi-signal\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-signal"
+  },
+  "oi-signpost": {
+    "body": "<${1:span} className=\"oi oi-signpost\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-signpost"
+  },
+  "oi-sort-ascending": {
+    "body": "<${1:span} className=\"oi oi-sort-ascending\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-sort-ascending"
+  },
+  "oi-sort-descending": {
+    "body": "<${1:span} className=\"oi oi-sort-descending\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-sort-descending"
+  },
+  "oi-spreadsheet": {
+    "body": "<${1:span} className=\"oi oi-spreadsheet\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-spreadsheet"
+  },
+  "oi-star": {
+    "body": "<${1:span} className=\"oi oi-star\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-star"
+  },
+  "oi-sun": {
+    "body": "<${1:span} className=\"oi oi-sun\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-sun"
+  },
+  "oi-tablet": {
+    "body": "<${1:span} className=\"oi oi-tablet\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-tablet"
+  },
+  "oi-tag": {
+    "body": "<${1:span} className=\"oi oi-tag\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-tag"
+  },
+  "oi-tags": {
+    "body": "<${1:span} className=\"oi oi-tags\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-tags"
+  },
+  "oi-target": {
+    "body": "<${1:span} className=\"oi oi-target\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-target"
+  },
+  "oi-task": {
+    "body": "<${1:span} className=\"oi oi-task\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-task"
+  },
+  "oi-terminal": {
+    "body": "<${1:span} className=\"oi oi-terminal\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-terminal"
+  },
+  "oi-text": {
+    "body": "<${1:span} className=\"oi oi-text\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-text"
+  },
+  "oi-thumb-down": {
+    "body": "<${1:span} className=\"oi oi-thumb-down\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-thumb-down"
+  },
+  "oi-thumb-up": {
+    "body": "<${1:span} className=\"oi oi-thumb-up\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-thumb-up"
+  },
+  "oi-timer": {
+    "body": "<${1:span} className=\"oi oi-timer\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-timer"
+  },
+  "oi-transfer": {
+    "body": "<${1:span} className=\"oi oi-transfer\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-transfer"
+  },
+  "oi-trash": {
+    "body": "<${1:span} className=\"oi oi-trash\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-trash"
+  },
+  "oi-underline": {
+    "body": "<${1:span} className=\"oi oi-underline\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-underline"
+  },
+  "oi-vertical-align-bottom": {
+    "body": "<${1:span} className=\"oi oi-vertical-align-bottom\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-vertical-align-bottom"
+  },
+  "oi-vertical-align-center": {
+    "body": "<${1:span} className=\"oi oi-vertical-align-center\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-vertical-align-center"
+  },
+  "oi-vertical-align-top": {
+    "body": "<${1:span} className=\"oi oi-vertical-align-top\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-vertical-align-top"
+  },
+  "oi-video": {
+    "body": "<${1:span} className=\"oi oi-video\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-video"
+  },
+  "oi-volume-high": {
+    "body": "<${1:span} className=\"oi oi-volume-high\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-volume-high"
+  },
+  "oi-volume-low": {
+    "body": "<${1:span} className=\"oi oi-volume-low\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-volume-low"
+  },
+  "oi-volume-off": {
+    "body": "<${1:span} className=\"oi oi-volume-off\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-volume-off"
+  },
+  "oi-warning": {
+    "body": "<${1:span} className=\"oi oi-warning\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-warning"
+  },
+  "oi-wifi": {
+    "body": "<${1:span} className=\"oi oi-wifi\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-wifi"
+  },
+  "oi-wrench": {
+    "body": "<${1:span} className=\"oi oi-wrench\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-wrench"
+  },
+  "oi-x": {
+    "body": "<${1:span} className=\"oi oi-x\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-x"
+  },
+  "oi-yen": {
+    "body": "<${1:span} className=\"oi oi-yen\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-yen"
+  },
+  "oi-zoom-in": {
+    "body": "<${1:span} className=\"oi oi-zoom-in\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-zoom-in"
+  },
+  "oi-zoom-out": {
+    "body": "<${1:span} className=\"oi oi-zoom-out\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "oi-zoom-out"
+  }
+}

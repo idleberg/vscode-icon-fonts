@@ -1,0 +1,142 @@
+{
+  "fl-alpine": {
+    "body": "<${1:i} className=\"fl-alpine\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-alpine"
+  },
+  "fl-aosc": {
+    "body": "<${1:i} className=\"fl-aosc\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-aosc"
+  },
+  "fl-apple": {
+    "body": "<${1:i} className=\"fl-apple\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-apple"
+  },
+  "fl-archlinux": {
+    "body": "<${1:i} className=\"fl-archlinux\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-archlinux"
+  },
+  "fl-centos": {
+    "body": "<${1:i} className=\"fl-centos\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-centos"
+  },
+  "fl-coreos": {
+    "body": "<${1:i} className=\"fl-coreos\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-coreos"
+  },
+  "fl-debian": {
+    "body": "<${1:i} className=\"fl-debian\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-debian"
+  },
+  "fl-docker": {
+    "body": "<${1:i} className=\"fl-docker\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-docker"
+  },
+  "fl-elementary": {
+    "body": "<${1:i} className=\"fl-elementary\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-elementary"
+  },
+  "fl-fedora": {
+    "body": "<${1:i} className=\"fl-fedora\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-fedora"
+  },
+  "fl-fedora-inverse": {
+    "body": "<${1:i} className=\"fl-fedora-inverse\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-fedora-inverse"
+  },
+  "fl-freebsd": {
+    "body": "<${1:i} className=\"fl-freebsd\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-freebsd"
+  },
+  "fl-gentoo": {
+    "body": "<${1:i} className=\"fl-gentoo\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-gentoo"
+  },
+  "fl-linuxmint": {
+    "body": "<${1:i} className=\"fl-linuxmint\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-linuxmint"
+  },
+  "fl-linuxmint-inverse": {
+    "body": "<${1:i} className=\"fl-linuxmint-inverse\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-linuxmint-inverse"
+  },
+  "fl-mageia": {
+    "body": "<${1:i} className=\"fl-mageia\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-mageia"
+  },
+  "fl-mandriva": {
+    "body": "<${1:i} className=\"fl-mandriva\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-mandriva"
+  },
+  "fl-manjaro": {
+    "body": "<${1:i} className=\"fl-manjaro\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-manjaro"
+  },
+  "fl-nixos": {
+    "body": "<${1:i} className=\"fl-nixos\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-nixos"
+  },
+  "fl-opensuse": {
+    "body": "<${1:i} className=\"fl-opensuse\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-opensuse"
+  },
+  "fl-raspberry-pi": {
+    "body": "<${1:i} className=\"fl-raspberry-pi\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-raspberry-pi"
+  },
+  "fl-redhat": {
+    "body": "<${1:i} className=\"fl-redhat\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-redhat"
+  },
+  "fl-sabayon": {
+    "body": "<${1:i} className=\"fl-sabayon\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-sabayon"
+  },
+  "fl-slackware": {
+    "body": "<${1:i} className=\"fl-slackware\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-slackware"
+  },
+  "fl-slackware-inverse": {
+    "body": "<${1:i} className=\"fl-slackware-inverse\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-slackware-inverse"
+  },
+  "fl-tux": {
+    "body": "<${1:i} className=\"fl-tux\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-tux"
+  },
+  "fl-ubuntu": {
+    "body": "<${1:i} className=\"fl-ubuntu\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-ubuntu"
+  },
+  "fl-ubuntu-inverse": {
+    "body": "<${1:i} className=\"fl-ubuntu-inverse\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-ubuntu-inverse"
+  }
+}

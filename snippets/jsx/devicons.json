@@ -1,0 +1,957 @@
+{
+  "devicons-git": {
+    "body": "<${1:i} className=\"devicons devicons-git$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-git"
+  },
+  "devicons-git_compare": {
+    "body": "<${1:i} className=\"devicons devicons-git_compare$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-git_compare"
+  },
+  "devicons-git_branch": {
+    "body": "<${1:i} className=\"devicons devicons-git_branch$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-git_branch"
+  },
+  "devicons-git_commit": {
+    "body": "<${1:i} className=\"devicons devicons-git_commit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-git_commit"
+  },
+  "devicons-git_pull_request": {
+    "body": "<${1:i} className=\"devicons devicons-git_pull_request$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-git_pull_request"
+  },
+  "devicons-git_merge": {
+    "body": "<${1:i} className=\"devicons devicons-git_merge$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-git_merge"
+  },
+  "devicons-bitbucket": {
+    "body": "<${1:i} className=\"devicons devicons-bitbucket$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-bitbucket"
+  },
+  "devicons-github_alt": {
+    "body": "<${1:i} className=\"devicons devicons-github_alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-github_alt"
+  },
+  "devicons-github_badge": {
+    "body": "<${1:i} className=\"devicons devicons-github_badge$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-github_badge"
+  },
+  "devicons-github": {
+    "body": "<${1:i} className=\"devicons devicons-github$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-github"
+  },
+  "devicons-github_full": {
+    "body": "<${1:i} className=\"devicons devicons-github_full$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-github_full"
+  },
+  "devicons-java": {
+    "body": "<${1:i} className=\"devicons devicons-java$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-java"
+  },
+  "devicons-ruby": {
+    "body": "<${1:i} className=\"devicons devicons-ruby$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-ruby"
+  },
+  "devicons-scala": {
+    "body": "<${1:i} className=\"devicons devicons-scala$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-scala"
+  },
+  "devicons-python": {
+    "body": "<${1:i} className=\"devicons devicons-python$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-python"
+  },
+  "devicons-go": {
+    "body": "<${1:i} className=\"devicons devicons-go$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-go"
+  },
+  "devicons-ruby_on_rails": {
+    "body": "<${1:i} className=\"devicons devicons-ruby_on_rails$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-ruby_on_rails"
+  },
+  "devicons-django": {
+    "body": "<${1:i} className=\"devicons devicons-django$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-django"
+  },
+  "devicons-markdown": {
+    "body": "<${1:i} className=\"devicons devicons-markdown$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-markdown"
+  },
+  "devicons-php": {
+    "body": "<${1:i} className=\"devicons devicons-php$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-php"
+  },
+  "devicons-mysql": {
+    "body": "<${1:i} className=\"devicons devicons-mysql$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-mysql"
+  },
+  "devicons-streamline": {
+    "body": "<${1:i} className=\"devicons devicons-streamline$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-streamline"
+  },
+  "devicons-database": {
+    "body": "<${1:i} className=\"devicons devicons-database$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-database"
+  },
+  "devicons-laravel": {
+    "body": "<${1:i} className=\"devicons devicons-laravel$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-laravel"
+  },
+  "devicons-javascript": {
+    "body": "<${1:i} className=\"devicons devicons-javascript$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-javascript"
+  },
+  "devicons-angular": {
+    "body": "<${1:i} className=\"devicons devicons-angular$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-angular"
+  },
+  "devicons-backbone": {
+    "body": "<${1:i} className=\"devicons devicons-backbone$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-backbone"
+  },
+  "devicons-coffeescript": {
+    "body": "<${1:i} className=\"devicons devicons-coffeescript$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-coffeescript"
+  },
+  "devicons-jquery": {
+    "body": "<${1:i} className=\"devicons devicons-jquery$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-jquery"
+  },
+  "devicons-modernizr": {
+    "body": "<${1:i} className=\"devicons devicons-modernizr$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-modernizr"
+  },
+  "devicons-jquery_ui": {
+    "body": "<${1:i} className=\"devicons devicons-jquery_ui$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-jquery_ui"
+  },
+  "devicons-ember": {
+    "body": "<${1:i} className=\"devicons devicons-ember$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-ember"
+  },
+  "devicons-dojo": {
+    "body": "<${1:i} className=\"devicons devicons-dojo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-dojo"
+  },
+  "devicons-nodejs": {
+    "body": "<${1:i} className=\"devicons devicons-nodejs$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-nodejs"
+  },
+  "devicons-nodejs_small": {
+    "body": "<${1:i} className=\"devicons devicons-nodejs_small$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-nodejs_small"
+  },
+  "devicons-javascript_shield": {
+    "body": "<${1:i} className=\"devicons devicons-javascript_shield$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-javascript_shield"
+  },
+  "devicons-bootstrap": {
+    "body": "<${1:i} className=\"devicons devicons-bootstrap$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-bootstrap"
+  },
+  "devicons-sass": {
+    "body": "<${1:i} className=\"devicons devicons-sass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-sass"
+  },
+  "devicons-css3_full": {
+    "body": "<${1:i} className=\"devicons devicons-css3_full$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-css3_full"
+  },
+  "devicons-css3": {
+    "body": "<${1:i} className=\"devicons devicons-css3$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-css3"
+  },
+  "devicons-html5": {
+    "body": "<${1:i} className=\"devicons devicons-html5$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-html5"
+  },
+  "devicons-html5_multimedia": {
+    "body": "<${1:i} className=\"devicons devicons-html5_multimedia$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-html5_multimedia"
+  },
+  "devicons-html5_device_access": {
+    "body": "<${1:i} className=\"devicons devicons-html5_device_access$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-html5_device_access"
+  },
+  "devicons-html5_3d_effects": {
+    "body": "<${1:i} className=\"devicons devicons-html5_3d_effects$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-html5_3d_effects"
+  },
+  "devicons-html5_connectivity": {
+    "body": "<${1:i} className=\"devicons devicons-html5_connectivity$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-html5_connectivity"
+  },
+  "devicons-ghost_small": {
+    "body": "<${1:i} className=\"devicons devicons-ghost_small$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-ghost_small"
+  },
+  "devicons-ghost": {
+    "body": "<${1:i} className=\"devicons devicons-ghost$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-ghost"
+  },
+  "devicons-magento": {
+    "body": "<${1:i} className=\"devicons devicons-magento$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-magento"
+  },
+  "devicons-joomla": {
+    "body": "<${1:i} className=\"devicons devicons-joomla$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-joomla"
+  },
+  "devicons-jekyll_small": {
+    "body": "<${1:i} className=\"devicons devicons-jekyll_small$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-jekyll_small"
+  },
+  "devicons-drupal": {
+    "body": "<${1:i} className=\"devicons devicons-drupal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-drupal"
+  },
+  "devicons-wordpress": {
+    "body": "<${1:i} className=\"devicons devicons-wordpress$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-wordpress"
+  },
+  "devicons-grunt": {
+    "body": "<${1:i} className=\"devicons devicons-grunt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-grunt"
+  },
+  "devicons-bower": {
+    "body": "<${1:i} className=\"devicons devicons-bower$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-bower"
+  },
+  "devicons-npm": {
+    "body": "<${1:i} className=\"devicons devicons-npm$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-npm"
+  },
+  "devicons-yahoo_small": {
+    "body": "<${1:i} className=\"devicons devicons-yahoo_small$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-yahoo_small"
+  },
+  "devicons-yahoo": {
+    "body": "<${1:i} className=\"devicons devicons-yahoo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-yahoo"
+  },
+  "devicons-bing_small": {
+    "body": "<${1:i} className=\"devicons devicons-bing_small$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-bing_small"
+  },
+  "devicons-windows": {
+    "body": "<${1:i} className=\"devicons devicons-windows$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-windows"
+  },
+  "devicons-linux": {
+    "body": "<${1:i} className=\"devicons devicons-linux$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-linux"
+  },
+  "devicons-ubuntu": {
+    "body": "<${1:i} className=\"devicons devicons-ubuntu$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-ubuntu"
+  },
+  "devicons-android": {
+    "body": "<${1:i} className=\"devicons devicons-android$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-android"
+  },
+  "devicons-apple": {
+    "body": "<${1:i} className=\"devicons devicons-apple$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-apple"
+  },
+  "devicons-appstore": {
+    "body": "<${1:i} className=\"devicons devicons-appstore$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-appstore"
+  },
+  "devicons-phonegap": {
+    "body": "<${1:i} className=\"devicons devicons-phonegap$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-phonegap"
+  },
+  "devicons-blackberry": {
+    "body": "<${1:i} className=\"devicons devicons-blackberry$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-blackberry"
+  },
+  "devicons-stackoverflow": {
+    "body": "<${1:i} className=\"devicons devicons-stackoverflow$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-stackoverflow"
+  },
+  "devicons-techcrunch": {
+    "body": "<${1:i} className=\"devicons devicons-techcrunch$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-techcrunch"
+  },
+  "devicons-codrops": {
+    "body": "<${1:i} className=\"devicons devicons-codrops$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-codrops"
+  },
+  "devicons-css_tricks": {
+    "body": "<${1:i} className=\"devicons devicons-css_tricks$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-css_tricks"
+  },
+  "devicons-smashing_magazine": {
+    "body": "<${1:i} className=\"devicons devicons-smashing_magazine$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-smashing_magazine"
+  },
+  "devicons-netmagazine": {
+    "body": "<${1:i} className=\"devicons devicons-netmagazine$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-netmagazine"
+  },
+  "devicons-codepen": {
+    "body": "<${1:i} className=\"devicons devicons-codepen$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-codepen"
+  },
+  "devicons-cssdeck": {
+    "body": "<${1:i} className=\"devicons devicons-cssdeck$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-cssdeck"
+  },
+  "devicons-hackernews": {
+    "body": "<${1:i} className=\"devicons devicons-hackernews$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-hackernews"
+  },
+  "devicons-dropbox": {
+    "body": "<${1:i} className=\"devicons devicons-dropbox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-dropbox"
+  },
+  "devicons-google_drive": {
+    "body": "<${1:i} className=\"devicons devicons-google_drive$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-google_drive"
+  },
+  "devicons-visualstudio": {
+    "body": "<${1:i} className=\"devicons devicons-visualstudio$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-visualstudio"
+  },
+  "devicons-unity_small": {
+    "body": "<${1:i} className=\"devicons devicons-unity_small$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-unity_small"
+  },
+  "devicons-raspberry_pi": {
+    "body": "<${1:i} className=\"devicons devicons-raspberry_pi$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-raspberry_pi"
+  },
+  "devicons-chrome": {
+    "body": "<${1:i} className=\"devicons devicons-chrome$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-chrome"
+  },
+  "devicons-ie": {
+    "body": "<${1:i} className=\"devicons devicons-ie$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-ie"
+  },
+  "devicons-firefox": {
+    "body": "<${1:i} className=\"devicons devicons-firefox$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-firefox"
+  },
+  "devicons-opera": {
+    "body": "<${1:i} className=\"devicons devicons-opera$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-opera"
+  },
+  "devicons-safari": {
+    "body": "<${1:i} className=\"devicons devicons-safari$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-safari"
+  },
+  "devicons-swift": {
+    "body": "<${1:i} className=\"devicons devicons-swift$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-swift"
+  },
+  "devicons-symfony": {
+    "body": "<${1:i} className=\"devicons devicons-symfony$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-symfony"
+  },
+  "devicons-symfony_badge": {
+    "body": "<${1:i} className=\"devicons devicons-symfony_badge$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-symfony_badge"
+  },
+  "devicons-less": {
+    "body": "<${1:i} className=\"devicons devicons-less$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-less"
+  },
+  "devicons-stylus": {
+    "body": "<${1:i} className=\"devicons devicons-stylus$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-stylus"
+  },
+  "devicons-trello": {
+    "body": "<${1:i} className=\"devicons devicons-trello$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-trello"
+  },
+  "devicons-atlassian": {
+    "body": "<${1:i} className=\"devicons devicons-atlassian$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-atlassian"
+  },
+  "devicons-jira": {
+    "body": "<${1:i} className=\"devicons devicons-jira$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-jira"
+  },
+  "devicons-envato": {
+    "body": "<${1:i} className=\"devicons devicons-envato$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-envato"
+  },
+  "devicons-snap_svg": {
+    "body": "<${1:i} className=\"devicons devicons-snap_svg$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-snap_svg"
+  },
+  "devicons-raphael": {
+    "body": "<${1:i} className=\"devicons devicons-raphael$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-raphael"
+  },
+  "devicons-google_analytics": {
+    "body": "<${1:i} className=\"devicons devicons-google_analytics$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-google_analytics"
+  },
+  "devicons-compass": {
+    "body": "<${1:i} className=\"devicons devicons-compass$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-compass"
+  },
+  "devicons-onedrive": {
+    "body": "<${1:i} className=\"devicons devicons-onedrive$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-onedrive"
+  },
+  "devicons-gulp": {
+    "body": "<${1:i} className=\"devicons devicons-gulp$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-gulp"
+  },
+  "devicons-atom": {
+    "body": "<${1:i} className=\"devicons devicons-atom$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-atom"
+  },
+  "devicons-cisco": {
+    "body": "<${1:i} className=\"devicons devicons-cisco$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-cisco"
+  },
+  "devicons-nancy": {
+    "body": "<${1:i} className=\"devicons devicons-nancy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-nancy"
+  },
+  "devicons-clojure": {
+    "body": "<${1:i} className=\"devicons devicons-clojure$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-clojure"
+  },
+  "devicons-clojure_alt": {
+    "body": "<${1:i} className=\"devicons devicons-clojure_alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-clojure_alt"
+  },
+  "devicons-perl": {
+    "body": "<${1:i} className=\"devicons devicons-perl$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-perl"
+  },
+  "devicons-celluloid": {
+    "body": "<${1:i} className=\"devicons devicons-celluloid$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-celluloid"
+  },
+  "devicons-w3c": {
+    "body": "<${1:i} className=\"devicons devicons-w3c$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-w3c"
+  },
+  "devicons-redis": {
+    "body": "<${1:i} className=\"devicons devicons-redis$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-redis"
+  },
+  "devicons-postgresql": {
+    "body": "<${1:i} className=\"devicons devicons-postgresql$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-postgresql"
+  },
+  "devicons-webplatform": {
+    "body": "<${1:i} className=\"devicons devicons-webplatform$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-webplatform"
+  },
+  "devicons-jenkins": {
+    "body": "<${1:i} className=\"devicons devicons-jenkins$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-jenkins"
+  },
+  "devicons-requirejs": {
+    "body": "<${1:i} className=\"devicons devicons-requirejs$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-requirejs"
+  },
+  "devicons-opensource": {
+    "body": "<${1:i} className=\"devicons devicons-opensource$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-opensource"
+  },
+  "devicons-typo3": {
+    "body": "<${1:i} className=\"devicons devicons-typo3$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-typo3"
+  },
+  "devicons-uikit": {
+    "body": "<${1:i} className=\"devicons devicons-uikit$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-uikit"
+  },
+  "devicons-doctrine": {
+    "body": "<${1:i} className=\"devicons devicons-doctrine$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-doctrine"
+  },
+  "devicons-groovy": {
+    "body": "<${1:i} className=\"devicons devicons-groovy$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-groovy"
+  },
+  "devicons-nginx": {
+    "body": "<${1:i} className=\"devicons devicons-nginx$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-nginx"
+  },
+  "devicons-haskell": {
+    "body": "<${1:i} className=\"devicons devicons-haskell$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-haskell"
+  },
+  "devicons-zend": {
+    "body": "<${1:i} className=\"devicons devicons-zend$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-zend"
+  },
+  "devicons-gnu": {
+    "body": "<${1:i} className=\"devicons devicons-gnu$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-gnu"
+  },
+  "devicons-yeoman": {
+    "body": "<${1:i} className=\"devicons devicons-yeoman$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-yeoman"
+  },
+  "devicons-heroku": {
+    "body": "<${1:i} className=\"devicons devicons-heroku$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-heroku"
+  },
+  "devicons-debian": {
+    "body": "<${1:i} className=\"devicons devicons-debian$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-debian"
+  },
+  "devicons-travis": {
+    "body": "<${1:i} className=\"devicons devicons-travis$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-travis"
+  },
+  "devicons-dotnet": {
+    "body": "<${1:i} className=\"devicons devicons-dotnet$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-dotnet"
+  },
+  "devicons-codeigniter": {
+    "body": "<${1:i} className=\"devicons devicons-codeigniter$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-codeigniter"
+  },
+  "devicons-javascript_badge": {
+    "body": "<${1:i} className=\"devicons devicons-javascript_badge$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-javascript_badge"
+  },
+  "devicons-yii": {
+    "body": "<${1:i} className=\"devicons devicons-yii$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-yii"
+  },
+  "devicons-msql_server": {
+    "body": "<${1:i} className=\"devicons devicons-msql_server$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-msql_server"
+  },
+  "devicons-composer": {
+    "body": "<${1:i} className=\"devicons devicons-composer$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-composer"
+  },
+  "devicons-krakenjs_badge": {
+    "body": "<${1:i} className=\"devicons devicons-krakenjs_badge$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-krakenjs_badge"
+  },
+  "devicons-krakenjs": {
+    "body": "<${1:i} className=\"devicons devicons-krakenjs$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-krakenjs"
+  },
+  "devicons-mozilla": {
+    "body": "<${1:i} className=\"devicons devicons-mozilla$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-mozilla"
+  },
+  "devicons-firebase": {
+    "body": "<${1:i} className=\"devicons devicons-firebase$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-firebase"
+  },
+  "devicons-sizzlejs": {
+    "body": "<${1:i} className=\"devicons devicons-sizzlejs$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-sizzlejs"
+  },
+  "devicons-creativecommons": {
+    "body": "<${1:i} className=\"devicons devicons-creativecommons$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-creativecommons"
+  },
+  "devicons-creativecommons_badge": {
+    "body": "<${1:i} className=\"devicons devicons-creativecommons_badge$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-creativecommons_badge"
+  },
+  "devicons-mitlicence": {
+    "body": "<${1:i} className=\"devicons devicons-mitlicence$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-mitlicence"
+  },
+  "devicons-senchatouch": {
+    "body": "<${1:i} className=\"devicons devicons-senchatouch$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-senchatouch"
+  },
+  "devicons-bugsense": {
+    "body": "<${1:i} className=\"devicons devicons-bugsense$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-bugsense"
+  },
+  "devicons-extjs": {
+    "body": "<${1:i} className=\"devicons devicons-extjs$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-extjs"
+  },
+  "devicons-mootools_badge": {
+    "body": "<${1:i} className=\"devicons devicons-mootools_badge$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-mootools_badge"
+  },
+  "devicons-mootools": {
+    "body": "<${1:i} className=\"devicons devicons-mootools$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-mootools"
+  },
+  "devicons-ruby_rough": {
+    "body": "<${1:i} className=\"devicons devicons-ruby_rough$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-ruby_rough"
+  },
+  "devicons-komodo": {
+    "body": "<${1:i} className=\"devicons devicons-komodo$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-komodo"
+  },
+  "devicons-coda": {
+    "body": "<${1:i} className=\"devicons devicons-coda$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-coda"
+  },
+  "devicons-bintray": {
+    "body": "<${1:i} className=\"devicons devicons-bintray$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-bintray"
+  },
+  "devicons-terminal": {
+    "body": "<${1:i} className=\"devicons devicons-terminal$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-terminal"
+  },
+  "devicons-code": {
+    "body": "<${1:i} className=\"devicons devicons-code$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-code"
+  },
+  "devicons-responsive": {
+    "body": "<${1:i} className=\"devicons devicons-responsive$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-responsive"
+  },
+  "devicons-dart": {
+    "body": "<${1:i} className=\"devicons devicons-dart$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-dart"
+  },
+  "devicons-aptana": {
+    "body": "<${1:i} className=\"devicons devicons-aptana$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-aptana"
+  },
+  "devicons-mailchimp": {
+    "body": "<${1:i} className=\"devicons devicons-mailchimp$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-mailchimp"
+  },
+  "devicons-netbeans": {
+    "body": "<${1:i} className=\"devicons devicons-netbeans$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-netbeans"
+  },
+  "devicons-dreamweaver": {
+    "body": "<${1:i} className=\"devicons devicons-dreamweaver$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-dreamweaver"
+  },
+  "devicons-brackets": {
+    "body": "<${1:i} className=\"devicons devicons-brackets$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-brackets"
+  },
+  "devicons-eclipse": {
+    "body": "<${1:i} className=\"devicons devicons-eclipse$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-eclipse"
+  },
+  "devicons-cloud9": {
+    "body": "<${1:i} className=\"devicons devicons-cloud9$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-cloud9"
+  },
+  "devicons-scrum": {
+    "body": "<${1:i} className=\"devicons devicons-scrum$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-scrum"
+  },
+  "devicons-prolog": {
+    "body": "<${1:i} className=\"devicons devicons-prolog$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-prolog"
+  },
+  "devicons-terminal_badge": {
+    "body": "<${1:i} className=\"devicons devicons-terminal_badge$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-terminal_badge"
+  },
+  "devicons-code_badge": {
+    "body": "<${1:i} className=\"devicons devicons-code_badge$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-code_badge"
+  },
+  "devicons-mongodb": {
+    "body": "<${1:i} className=\"devicons devicons-mongodb$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-mongodb"
+  },
+  "devicons-meteor": {
+    "body": "<${1:i} className=\"devicons devicons-meteor$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-meteor"
+  },
+  "devicons-meteorfull": {
+    "body": "<${1:i} className=\"devicons devicons-meteorfull$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-meteorfull"
+  },
+  "devicons-fsharp": {
+    "body": "<${1:i} className=\"devicons devicons-fsharp$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-fsharp"
+  },
+  "devicons-rust": {
+    "body": "<${1:i} className=\"devicons devicons-rust$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-rust"
+  },
+  "devicons-ionic": {
+    "body": "<${1:i} className=\"devicons devicons-ionic$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-ionic"
+  },
+  "devicons-sublime": {
+    "body": "<${1:i} className=\"devicons devicons-sublime$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-sublime"
+  },
+  "devicons-appcelerator": {
+    "body": "<${1:i} className=\"devicons devicons-appcelerator$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-appcelerator"
+  },
+  "devicons-asterisk": {
+    "body": "<${1:i} className=\"devicons devicons-asterisk$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-asterisk"
+  },
+  "devicons-aws": {
+    "body": "<${1:i} className=\"devicons devicons-aws$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-aws"
+  },
+  "devicons-digital-ocean": {
+    "body": "<${1:i} className=\"devicons devicons-digital-ocean$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-digital-ocean"
+  },
+  "devicons-dlang": {
+    "body": "<${1:i} className=\"devicons devicons-dlang$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-dlang"
+  },
+  "devicons-docker": {
+    "body": "<${1:i} className=\"devicons devicons-docker$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-docker"
+  },
+  "devicons-erlang": {
+    "body": "<${1:i} className=\"devicons devicons-erlang$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-erlang"
+  },
+  "devicons-google-cloud-platform": {
+    "body": "<${1:i} className=\"devicons devicons-google-cloud-platform$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-google-cloud-platform"
+  },
+  "devicons-grails": {
+    "body": "<${1:i} className=\"devicons devicons-grails$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-grails"
+  },
+  "devicons-illustrator": {
+    "body": "<${1:i} className=\"devicons devicons-illustrator$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-illustrator"
+  },
+  "devicons-intellij": {
+    "body": "<${1:i} className=\"devicons devicons-intellij$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-intellij"
+  },
+  "devicons-materializecss": {
+    "body": "<${1:i} className=\"devicons devicons-materializecss$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-materializecss"
+  },
+  "devicons-openshift": {
+    "body": "<${1:i} className=\"devicons devicons-openshift$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-openshift"
+  },
+  "devicons-photoshop": {
+    "body": "<${1:i} className=\"devicons devicons-photoshop$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-photoshop"
+  },
+  "devicons-rackspace": {
+    "body": "<${1:i} className=\"devicons devicons-rackspace$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-rackspace"
+  },
+  "devicons-react": {
+    "body": "<${1:i} className=\"devicons devicons-react$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-react"
+  },
+  "devicons-redhat": {
+    "body": "<${1:i} className=\"devicons devicons-redhat$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-redhat"
+  },
+  "devicons-scriptcs": {
+    "body": "<${1:i} className=\"devicons devicons-scriptcs$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-scriptcs"
+  },
+  "devicons-sqllite": {
+    "body": "<${1:i} className=\"devicons devicons-sqllite$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-sqllite"
+  },
+  "devicons-vim": {
+    "body": "<${1:i} className=\"devicons devicons-vim$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "devicons-vim"
+  }
+}

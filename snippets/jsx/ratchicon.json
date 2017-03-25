@@ -1,0 +1,202 @@
+{
+  "ratchicon-back": {
+    "body": "<${1:span} className=\"icon icon-back$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-back"
+  },
+  "ratchicon-bars": {
+    "body": "<${1:span} className=\"icon icon-bars$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-bars"
+  },
+  "ratchicon-caret": {
+    "body": "<${1:span} className=\"icon icon-caret$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-caret"
+  },
+  "ratchicon-check": {
+    "body": "<${1:span} className=\"icon icon-check$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-check"
+  },
+  "ratchicon-close": {
+    "body": "<${1:span} className=\"icon icon-close$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-close"
+  },
+  "ratchicon-code": {
+    "body": "<${1:span} className=\"icon icon-code$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-code"
+  },
+  "ratchicon-compose": {
+    "body": "<${1:span} className=\"icon icon-compose$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-compose"
+  },
+  "ratchicon-down-nav": {
+    "body": "<${1:span} className=\"icon icon-down-nav$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-down-nav"
+  },
+  "ratchicon-down": {
+    "body": "<${1:span} className=\"icon icon-down$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-down"
+  },
+  "ratchicon-download": {
+    "body": "<${1:span} className=\"icon icon-download$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-download"
+  },
+  "ratchicon-edit": {
+    "body": "<${1:span} className=\"icon icon-edit$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-edit"
+  },
+  "ratchicon-forward": {
+    "body": "<${1:span} className=\"icon icon-forward$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-forward"
+  },
+  "ratchicon-gear": {
+    "body": "<${1:span} className=\"icon icon-gear$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-gear"
+  },
+  "ratchicon-home": {
+    "body": "<${1:span} className=\"icon icon-home$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-home"
+  },
+  "ratchicon-info": {
+    "body": "<${1:span} className=\"icon icon-info$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-info"
+  },
+  "ratchicon-left-nav": {
+    "body": "<${1:span} className=\"icon icon-left-nav$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-left-nav"
+  },
+  "ratchicon-left": {
+    "body": "<${1:span} className=\"icon icon-left$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-left"
+  },
+  "ratchicon-list": {
+    "body": "<${1:span} className=\"icon icon-list$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-list"
+  },
+  "ratchicon-more-vertical": {
+    "body": "<${1:span} className=\"icon icon-more-vertical$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-more-vertical"
+  },
+  "ratchicon-more": {
+    "body": "<${1:span} className=\"icon icon-more$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-more"
+  },
+  "ratchicon-pages": {
+    "body": "<${1:span} className=\"icon icon-pages$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-pages"
+  },
+  "ratchicon-pause": {
+    "body": "<${1:span} className=\"icon icon-pause$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-pause"
+  },
+  "ratchicon-person": {
+    "body": "<${1:span} className=\"icon icon-person$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-person"
+  },
+  "ratchicon-play": {
+    "body": "<${1:span} className=\"icon icon-play$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-play"
+  },
+  "ratchicon-plus": {
+    "body": "<${1:span} className=\"icon icon-plus$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-plus"
+  },
+  "ratchicon-refresh": {
+    "body": "<${1:span} className=\"icon icon-refresh$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-refresh"
+  },
+  "ratchicon-right-nav": {
+    "body": "<${1:span} className=\"icon icon-right-nav$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-right-nav"
+  },
+  "ratchicon-right": {
+    "body": "<${1:span} className=\"icon icon-right$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-right"
+  },
+  "ratchicon-search": {
+    "body": "<${1:span} className=\"icon icon-search$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-search"
+  },
+  "ratchicon-share": {
+    "body": "<${1:span} className=\"icon icon-share$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-share"
+  },
+  "ratchicon-sound": {
+    "body": "<${1:span} className=\"icon icon-sound$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-sound"
+  },
+  "ratchicon-sound2": {
+    "body": "<${1:span} className=\"icon icon-sound2$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-sound2"
+  },
+  "ratchicon-sound3": {
+    "body": "<${1:span} className=\"icon icon-sound3$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-sound3"
+  },
+  "ratchicon-sound4": {
+    "body": "<${1:span} className=\"icon icon-sound4$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-sound4"
+  },
+  "ratchicon-star-filled": {
+    "body": "<${1:span} className=\"icon icon-star-filled$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-star-filled"
+  },
+  "ratchicon-star": {
+    "body": "<${1:span} className=\"icon icon-star$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-star"
+  },
+  "ratchicon-stop": {
+    "body": "<${1:span} className=\"icon icon-stop$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-stop"
+  },
+  "ratchicon-trash": {
+    "body": "<${1:span} className=\"icon icon-trash$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-trash"
+  },
+  "ratchicon-up-nav": {
+    "body": "<${1:span} className=\"icon icon-up-nav$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-up-nav"
+  },
+  "ratchicon-up": {
+    "body": "<${1:span} className=\"icon icon-up$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ratchicon-up"
+  }
+}

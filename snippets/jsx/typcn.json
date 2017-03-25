@@ -1,0 +1,1682 @@
+{
+  "typcn-adjust-brightness": {
+    "body": "<${1:span} className=\"typcn typcn-adjust-brightness$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-adjust-brightness"
+  },
+  "typcn-adjust-contrast": {
+    "body": "<${1:span} className=\"typcn typcn-adjust-contrast$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-adjust-contrast"
+  },
+  "typcn-anchor-outline": {
+    "body": "<${1:span} className=\"typcn typcn-anchor-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-anchor-outline"
+  },
+  "typcn-anchor": {
+    "body": "<${1:span} className=\"typcn typcn-anchor$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-anchor"
+  },
+  "typcn-archive": {
+    "body": "<${1:span} className=\"typcn typcn-archive$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-archive"
+  },
+  "typcn-arrow-back-outline": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-back-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-back-outline"
+  },
+  "typcn-arrow-back": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-back$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-back"
+  },
+  "typcn-arrow-down-outline": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-down-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-down-outline"
+  },
+  "typcn-arrow-down-thick": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-down-thick$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-down-thick"
+  },
+  "typcn-arrow-down": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-down$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-down"
+  },
+  "typcn-arrow-forward-outline": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-forward-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-forward-outline"
+  },
+  "typcn-arrow-forward": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-forward$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-forward"
+  },
+  "typcn-arrow-left-outline": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-left-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-left-outline"
+  },
+  "typcn-arrow-left-thick": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-left-thick$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-left-thick"
+  },
+  "typcn-arrow-left": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-left$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-left"
+  },
+  "typcn-arrow-loop-outline": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-loop-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-loop-outline"
+  },
+  "typcn-arrow-loop": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-loop$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-loop"
+  },
+  "typcn-arrow-maximise-outline": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-maximise-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-maximise-outline"
+  },
+  "typcn-arrow-maximise": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-maximise$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-maximise"
+  },
+  "typcn-arrow-minimise-outline": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-minimise-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-minimise-outline"
+  },
+  "typcn-arrow-minimise": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-minimise$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-minimise"
+  },
+  "typcn-arrow-move-outline": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-move-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-move-outline"
+  },
+  "typcn-arrow-move": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-move$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-move"
+  },
+  "typcn-arrow-repeat-outline": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-repeat-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-repeat-outline"
+  },
+  "typcn-arrow-repeat": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-repeat$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-repeat"
+  },
+  "typcn-arrow-right-outline": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-right-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-right-outline"
+  },
+  "typcn-arrow-right-thick": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-right-thick$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-right-thick"
+  },
+  "typcn-arrow-right": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-right$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-right"
+  },
+  "typcn-arrow-shuffle": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-shuffle$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-shuffle"
+  },
+  "typcn-arrow-sorted-down": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-sorted-down$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-sorted-down"
+  },
+  "typcn-arrow-sorted-up": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-sorted-up$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-sorted-up"
+  },
+  "typcn-arrow-sync-outline": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-sync-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-sync-outline"
+  },
+  "typcn-arrow-sync": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-sync$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-sync"
+  },
+  "typcn-arrow-unsorted": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-unsorted$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-unsorted"
+  },
+  "typcn-arrow-up-outline": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-up-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-up-outline"
+  },
+  "typcn-arrow-up-thick": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-up-thick$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-up-thick"
+  },
+  "typcn-arrow-up": {
+    "body": "<${1:span} className=\"typcn typcn-arrow-up$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-arrow-up"
+  },
+  "typcn-at": {
+    "body": "<${1:span} className=\"typcn typcn-at$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-at"
+  },
+  "typcn-attachment-outline": {
+    "body": "<${1:span} className=\"typcn typcn-attachment-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-attachment-outline"
+  },
+  "typcn-attachment": {
+    "body": "<${1:span} className=\"typcn typcn-attachment$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-attachment"
+  },
+  "typcn-backspace-outline": {
+    "body": "<${1:span} className=\"typcn typcn-backspace-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-backspace-outline"
+  },
+  "typcn-backspace": {
+    "body": "<${1:span} className=\"typcn typcn-backspace$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-backspace"
+  },
+  "typcn-battery-charge": {
+    "body": "<${1:span} className=\"typcn typcn-battery-charge$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-battery-charge"
+  },
+  "typcn-battery-full": {
+    "body": "<${1:span} className=\"typcn typcn-battery-full$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-battery-full"
+  },
+  "typcn-battery-high": {
+    "body": "<${1:span} className=\"typcn typcn-battery-high$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-battery-high"
+  },
+  "typcn-battery-low": {
+    "body": "<${1:span} className=\"typcn typcn-battery-low$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-battery-low"
+  },
+  "typcn-battery-mid": {
+    "body": "<${1:span} className=\"typcn typcn-battery-mid$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-battery-mid"
+  },
+  "typcn-beaker": {
+    "body": "<${1:span} className=\"typcn typcn-beaker$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-beaker"
+  },
+  "typcn-beer": {
+    "body": "<${1:span} className=\"typcn typcn-beer$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-beer"
+  },
+  "typcn-bell": {
+    "body": "<${1:span} className=\"typcn typcn-bell$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-bell"
+  },
+  "typcn-book": {
+    "body": "<${1:span} className=\"typcn typcn-book$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-book"
+  },
+  "typcn-bookmark": {
+    "body": "<${1:span} className=\"typcn typcn-bookmark$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-bookmark"
+  },
+  "typcn-briefcase": {
+    "body": "<${1:span} className=\"typcn typcn-briefcase$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-briefcase"
+  },
+  "typcn-brush": {
+    "body": "<${1:span} className=\"typcn typcn-brush$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-brush"
+  },
+  "typcn-business-card": {
+    "body": "<${1:span} className=\"typcn typcn-business-card$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-business-card"
+  },
+  "typcn-calculator": {
+    "body": "<${1:span} className=\"typcn typcn-calculator$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-calculator"
+  },
+  "typcn-calendar-outline": {
+    "body": "<${1:span} className=\"typcn typcn-calendar-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-calendar-outline"
+  },
+  "typcn-calendar": {
+    "body": "<${1:span} className=\"typcn typcn-calendar$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-calendar"
+  },
+  "typcn-camera-outline": {
+    "body": "<${1:span} className=\"typcn typcn-camera-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-camera-outline"
+  },
+  "typcn-camera": {
+    "body": "<${1:span} className=\"typcn typcn-camera$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-camera"
+  },
+  "typcn-cancel-outline": {
+    "body": "<${1:span} className=\"typcn typcn-cancel-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-cancel-outline"
+  },
+  "typcn-cancel": {
+    "body": "<${1:span} className=\"typcn typcn-cancel$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-cancel"
+  },
+  "typcn-chart-area-outline": {
+    "body": "<${1:span} className=\"typcn typcn-chart-area-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-chart-area-outline"
+  },
+  "typcn-chart-area": {
+    "body": "<${1:span} className=\"typcn typcn-chart-area$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-chart-area"
+  },
+  "typcn-chart-bar-outline": {
+    "body": "<${1:span} className=\"typcn typcn-chart-bar-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-chart-bar-outline"
+  },
+  "typcn-chart-bar": {
+    "body": "<${1:span} className=\"typcn typcn-chart-bar$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-chart-bar"
+  },
+  "typcn-chart-line-outline": {
+    "body": "<${1:span} className=\"typcn typcn-chart-line-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-chart-line-outline"
+  },
+  "typcn-chart-line": {
+    "body": "<${1:span} className=\"typcn typcn-chart-line$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-chart-line"
+  },
+  "typcn-chart-pie-outline": {
+    "body": "<${1:span} className=\"typcn typcn-chart-pie-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-chart-pie-outline"
+  },
+  "typcn-chart-pie": {
+    "body": "<${1:span} className=\"typcn typcn-chart-pie$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-chart-pie"
+  },
+  "typcn-chevron-left-outline": {
+    "body": "<${1:span} className=\"typcn typcn-chevron-left-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-chevron-left-outline"
+  },
+  "typcn-chevron-left": {
+    "body": "<${1:span} className=\"typcn typcn-chevron-left$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-chevron-left"
+  },
+  "typcn-chevron-right-outline": {
+    "body": "<${1:span} className=\"typcn typcn-chevron-right-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-chevron-right-outline"
+  },
+  "typcn-chevron-right": {
+    "body": "<${1:span} className=\"typcn typcn-chevron-right$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-chevron-right"
+  },
+  "typcn-clipboard": {
+    "body": "<${1:span} className=\"typcn typcn-clipboard$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-clipboard"
+  },
+  "typcn-cloud-storage-outline": {
+    "body": "<${1:span} className=\"typcn typcn-cloud-storage-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-cloud-storage-outline"
+  },
+  "typcn-cloud-storage": {
+    "body": "<${1:span} className=\"typcn typcn-cloud-storage$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-cloud-storage"
+  },
+  "typcn-code-outline": {
+    "body": "<${1:span} className=\"typcn typcn-code-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-code-outline"
+  },
+  "typcn-code": {
+    "body": "<${1:span} className=\"typcn typcn-code$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-code"
+  },
+  "typcn-coffee": {
+    "body": "<${1:span} className=\"typcn typcn-coffee$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-coffee"
+  },
+  "typcn-cog-outline": {
+    "body": "<${1:span} className=\"typcn typcn-cog-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-cog-outline"
+  },
+  "typcn-cog": {
+    "body": "<${1:span} className=\"typcn typcn-cog$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-cog"
+  },
+  "typcn-compass": {
+    "body": "<${1:span} className=\"typcn typcn-compass$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-compass"
+  },
+  "typcn-contacts": {
+    "body": "<${1:span} className=\"typcn typcn-contacts$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-contacts"
+  },
+  "typcn-credit-card": {
+    "body": "<${1:span} className=\"typcn typcn-credit-card$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-credit-card"
+  },
+  "typcn-css3": {
+    "body": "<${1:span} className=\"typcn typcn-css3$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-css3"
+  },
+  "typcn-database": {
+    "body": "<${1:span} className=\"typcn typcn-database$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-database"
+  },
+  "typcn-delete-outline": {
+    "body": "<${1:span} className=\"typcn typcn-delete-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-delete-outline"
+  },
+  "typcn-delete": {
+    "body": "<${1:span} className=\"typcn typcn-delete$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-delete"
+  },
+  "typcn-device-desktop": {
+    "body": "<${1:span} className=\"typcn typcn-device-desktop$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-device-desktop"
+  },
+  "typcn-device-laptop": {
+    "body": "<${1:span} className=\"typcn typcn-device-laptop$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-device-laptop"
+  },
+  "typcn-device-phone": {
+    "body": "<${1:span} className=\"typcn typcn-device-phone$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-device-phone"
+  },
+  "typcn-device-tablet": {
+    "body": "<${1:span} className=\"typcn typcn-device-tablet$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-device-tablet"
+  },
+  "typcn-directions": {
+    "body": "<${1:span} className=\"typcn typcn-directions$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-directions"
+  },
+  "typcn-divide-outline": {
+    "body": "<${1:span} className=\"typcn typcn-divide-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-divide-outline"
+  },
+  "typcn-divide": {
+    "body": "<${1:span} className=\"typcn typcn-divide$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-divide"
+  },
+  "typcn-document-add": {
+    "body": "<${1:span} className=\"typcn typcn-document-add$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-document-add"
+  },
+  "typcn-document-delete": {
+    "body": "<${1:span} className=\"typcn typcn-document-delete$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-document-delete"
+  },
+  "typcn-document-text": {
+    "body": "<${1:span} className=\"typcn typcn-document-text$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-document-text"
+  },
+  "typcn-document": {
+    "body": "<${1:span} className=\"typcn typcn-document$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-document"
+  },
+  "typcn-download-outline": {
+    "body": "<${1:span} className=\"typcn typcn-download-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-download-outline"
+  },
+  "typcn-download": {
+    "body": "<${1:span} className=\"typcn typcn-download$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-download"
+  },
+  "typcn-dropbox": {
+    "body": "<${1:span} className=\"typcn typcn-dropbox$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-dropbox"
+  },
+  "typcn-edit": {
+    "body": "<${1:span} className=\"typcn typcn-edit$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-edit"
+  },
+  "typcn-eject-outline": {
+    "body": "<${1:span} className=\"typcn typcn-eject-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-eject-outline"
+  },
+  "typcn-eject": {
+    "body": "<${1:span} className=\"typcn typcn-eject$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-eject"
+  },
+  "typcn-equals-outline": {
+    "body": "<${1:span} className=\"typcn typcn-equals-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-equals-outline"
+  },
+  "typcn-equals": {
+    "body": "<${1:span} className=\"typcn typcn-equals$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-equals"
+  },
+  "typcn-export-outline": {
+    "body": "<${1:span} className=\"typcn typcn-export-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-export-outline"
+  },
+  "typcn-export": {
+    "body": "<${1:span} className=\"typcn typcn-export$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-export"
+  },
+  "typcn-eye-outline": {
+    "body": "<${1:span} className=\"typcn typcn-eye-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-eye-outline"
+  },
+  "typcn-eye": {
+    "body": "<${1:span} className=\"typcn typcn-eye$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-eye"
+  },
+  "typcn-feather": {
+    "body": "<${1:span} className=\"typcn typcn-feather$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-feather"
+  },
+  "typcn-film": {
+    "body": "<${1:span} className=\"typcn typcn-film$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-film"
+  },
+  "typcn-filter": {
+    "body": "<${1:span} className=\"typcn typcn-filter$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-filter"
+  },
+  "typcn-flag-outline": {
+    "body": "<${1:span} className=\"typcn typcn-flag-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-flag-outline"
+  },
+  "typcn-flag": {
+    "body": "<${1:span} className=\"typcn typcn-flag$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-flag"
+  },
+  "typcn-flash-outline": {
+    "body": "<${1:span} className=\"typcn typcn-flash-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-flash-outline"
+  },
+  "typcn-flash": {
+    "body": "<${1:span} className=\"typcn typcn-flash$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-flash"
+  },
+  "typcn-flow-children": {
+    "body": "<${1:span} className=\"typcn typcn-flow-children$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-flow-children"
+  },
+  "typcn-flow-merge": {
+    "body": "<${1:span} className=\"typcn typcn-flow-merge$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-flow-merge"
+  },
+  "typcn-flow-parallel": {
+    "body": "<${1:span} className=\"typcn typcn-flow-parallel$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-flow-parallel"
+  },
+  "typcn-flow-switch": {
+    "body": "<${1:span} className=\"typcn typcn-flow-switch$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-flow-switch"
+  },
+  "typcn-folder-add": {
+    "body": "<${1:span} className=\"typcn typcn-folder-add$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-folder-add"
+  },
+  "typcn-folder-delete": {
+    "body": "<${1:span} className=\"typcn typcn-folder-delete$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-folder-delete"
+  },
+  "typcn-folder-open": {
+    "body": "<${1:span} className=\"typcn typcn-folder-open$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-folder-open"
+  },
+  "typcn-folder": {
+    "body": "<${1:span} className=\"typcn typcn-folder$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-folder"
+  },
+  "typcn-gift": {
+    "body": "<${1:span} className=\"typcn typcn-gift$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-gift"
+  },
+  "typcn-globe-outline": {
+    "body": "<${1:span} className=\"typcn typcn-globe-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-globe-outline"
+  },
+  "typcn-globe": {
+    "body": "<${1:span} className=\"typcn typcn-globe$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-globe"
+  },
+  "typcn-group-outline": {
+    "body": "<${1:span} className=\"typcn typcn-group-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-group-outline"
+  },
+  "typcn-group": {
+    "body": "<${1:span} className=\"typcn typcn-group$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-group"
+  },
+  "typcn-headphones": {
+    "body": "<${1:span} className=\"typcn typcn-headphones$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-headphones"
+  },
+  "typcn-heart-full-outline": {
+    "body": "<${1:span} className=\"typcn typcn-heart-full-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-heart-full-outline"
+  },
+  "typcn-heart-half-outline": {
+    "body": "<${1:span} className=\"typcn typcn-heart-half-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-heart-half-outline"
+  },
+  "typcn-heart-outline": {
+    "body": "<${1:span} className=\"typcn typcn-heart-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-heart-outline"
+  },
+  "typcn-heart": {
+    "body": "<${1:span} className=\"typcn typcn-heart$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-heart"
+  },
+  "typcn-home-outline": {
+    "body": "<${1:span} className=\"typcn typcn-home-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-home-outline"
+  },
+  "typcn-home": {
+    "body": "<${1:span} className=\"typcn typcn-home$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-home"
+  },
+  "typcn-html5": {
+    "body": "<${1:span} className=\"typcn typcn-html5$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-html5"
+  },
+  "typcn-image-outline": {
+    "body": "<${1:span} className=\"typcn typcn-image-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-image-outline"
+  },
+  "typcn-image": {
+    "body": "<${1:span} className=\"typcn typcn-image$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-image"
+  },
+  "typcn-infinity-outline": {
+    "body": "<${1:span} className=\"typcn typcn-infinity-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-infinity-outline"
+  },
+  "typcn-infinity": {
+    "body": "<${1:span} className=\"typcn typcn-infinity$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-infinity"
+  },
+  "typcn-info-large-outline": {
+    "body": "<${1:span} className=\"typcn typcn-info-large-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-info-large-outline"
+  },
+  "typcn-info-large": {
+    "body": "<${1:span} className=\"typcn typcn-info-large$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-info-large"
+  },
+  "typcn-info-outline": {
+    "body": "<${1:span} className=\"typcn typcn-info-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-info-outline"
+  },
+  "typcn-info": {
+    "body": "<${1:span} className=\"typcn typcn-info$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-info"
+  },
+  "typcn-input-checked-outline": {
+    "body": "<${1:span} className=\"typcn typcn-input-checked-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-input-checked-outline"
+  },
+  "typcn-input-checked": {
+    "body": "<${1:span} className=\"typcn typcn-input-checked$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-input-checked"
+  },
+  "typcn-key-outline": {
+    "body": "<${1:span} className=\"typcn typcn-key-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-key-outline"
+  },
+  "typcn-key": {
+    "body": "<${1:span} className=\"typcn typcn-key$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-key"
+  },
+  "typcn-keyboard": {
+    "body": "<${1:span} className=\"typcn typcn-keyboard$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-keyboard"
+  },
+  "typcn-leaf": {
+    "body": "<${1:span} className=\"typcn typcn-leaf$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-leaf"
+  },
+  "typcn-lightbulb": {
+    "body": "<${1:span} className=\"typcn typcn-lightbulb$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-lightbulb"
+  },
+  "typcn-link-outline": {
+    "body": "<${1:span} className=\"typcn typcn-link-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-link-outline"
+  },
+  "typcn-link": {
+    "body": "<${1:span} className=\"typcn typcn-link$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-link"
+  },
+  "typcn-location-arrow-outline": {
+    "body": "<${1:span} className=\"typcn typcn-location-arrow-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-location-arrow-outline"
+  },
+  "typcn-location-arrow": {
+    "body": "<${1:span} className=\"typcn typcn-location-arrow$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-location-arrow"
+  },
+  "typcn-location-outline": {
+    "body": "<${1:span} className=\"typcn typcn-location-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-location-outline"
+  },
+  "typcn-location": {
+    "body": "<${1:span} className=\"typcn typcn-location$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-location"
+  },
+  "typcn-lock-closed-outline": {
+    "body": "<${1:span} className=\"typcn typcn-lock-closed-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-lock-closed-outline"
+  },
+  "typcn-lock-closed": {
+    "body": "<${1:span} className=\"typcn typcn-lock-closed$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-lock-closed"
+  },
+  "typcn-lock-open-outline": {
+    "body": "<${1:span} className=\"typcn typcn-lock-open-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-lock-open-outline"
+  },
+  "typcn-lock-open": {
+    "body": "<${1:span} className=\"typcn typcn-lock-open$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-lock-open"
+  },
+  "typcn-mail": {
+    "body": "<${1:span} className=\"typcn typcn-mail$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-mail"
+  },
+  "typcn-map": {
+    "body": "<${1:span} className=\"typcn typcn-map$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-map"
+  },
+  "typcn-media-eject-outline": {
+    "body": "<${1:span} className=\"typcn typcn-media-eject-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-eject-outline"
+  },
+  "typcn-media-eject": {
+    "body": "<${1:span} className=\"typcn typcn-media-eject$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-eject"
+  },
+  "typcn-media-fast-forward-outline": {
+    "body": "<${1:span} className=\"typcn typcn-media-fast-forward-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-fast-forward-outline"
+  },
+  "typcn-media-fast-forward": {
+    "body": "<${1:span} className=\"typcn typcn-media-fast-forward$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-fast-forward"
+  },
+  "typcn-media-pause-outline": {
+    "body": "<${1:span} className=\"typcn typcn-media-pause-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-pause-outline"
+  },
+  "typcn-media-pause": {
+    "body": "<${1:span} className=\"typcn typcn-media-pause$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-pause"
+  },
+  "typcn-media-play-outline": {
+    "body": "<${1:span} className=\"typcn typcn-media-play-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-play-outline"
+  },
+  "typcn-media-play-reverse-outline": {
+    "body": "<${1:span} className=\"typcn typcn-media-play-reverse-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-play-reverse-outline"
+  },
+  "typcn-media-play-reverse": {
+    "body": "<${1:span} className=\"typcn typcn-media-play-reverse$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-play-reverse"
+  },
+  "typcn-media-play": {
+    "body": "<${1:span} className=\"typcn typcn-media-play$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-play"
+  },
+  "typcn-media-record-outline": {
+    "body": "<${1:span} className=\"typcn typcn-media-record-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-record-outline"
+  },
+  "typcn-media-record": {
+    "body": "<${1:span} className=\"typcn typcn-media-record$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-record"
+  },
+  "typcn-media-rewind-outline": {
+    "body": "<${1:span} className=\"typcn typcn-media-rewind-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-rewind-outline"
+  },
+  "typcn-media-rewind": {
+    "body": "<${1:span} className=\"typcn typcn-media-rewind$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-rewind"
+  },
+  "typcn-media-stop-outline": {
+    "body": "<${1:span} className=\"typcn typcn-media-stop-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-stop-outline"
+  },
+  "typcn-media-stop": {
+    "body": "<${1:span} className=\"typcn typcn-media-stop$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-media-stop"
+  },
+  "typcn-message-typing": {
+    "body": "<${1:span} className=\"typcn typcn-message-typing$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-message-typing"
+  },
+  "typcn-message": {
+    "body": "<${1:span} className=\"typcn typcn-message$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-message"
+  },
+  "typcn-messages": {
+    "body": "<${1:span} className=\"typcn typcn-messages$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-messages"
+  },
+  "typcn-microphone-outline": {
+    "body": "<${1:span} className=\"typcn typcn-microphone-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-microphone-outline"
+  },
+  "typcn-microphone": {
+    "body": "<${1:span} className=\"typcn typcn-microphone$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-microphone"
+  },
+  "typcn-minus-outline": {
+    "body": "<${1:span} className=\"typcn typcn-minus-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-minus-outline"
+  },
+  "typcn-minus": {
+    "body": "<${1:span} className=\"typcn typcn-minus$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-minus"
+  },
+  "typcn-mortar-board": {
+    "body": "<${1:span} className=\"typcn typcn-mortar-board$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-mortar-board"
+  },
+  "typcn-news": {
+    "body": "<${1:span} className=\"typcn typcn-news$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-news"
+  },
+  "typcn-notes-outline": {
+    "body": "<${1:span} className=\"typcn typcn-notes-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-notes-outline"
+  },
+  "typcn-notes": {
+    "body": "<${1:span} className=\"typcn typcn-notes$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-notes"
+  },
+  "typcn-pen": {
+    "body": "<${1:span} className=\"typcn typcn-pen$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-pen"
+  },
+  "typcn-pencil": {
+    "body": "<${1:span} className=\"typcn typcn-pencil$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-pencil"
+  },
+  "typcn-phone-outline": {
+    "body": "<${1:span} className=\"typcn typcn-phone-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-phone-outline"
+  },
+  "typcn-phone": {
+    "body": "<${1:span} className=\"typcn typcn-phone$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-phone"
+  },
+  "typcn-pi-outline": {
+    "body": "<${1:span} className=\"typcn typcn-pi-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-pi-outline"
+  },
+  "typcn-pi": {
+    "body": "<${1:span} className=\"typcn typcn-pi$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-pi"
+  },
+  "typcn-pin-outline": {
+    "body": "<${1:span} className=\"typcn typcn-pin-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-pin-outline"
+  },
+  "typcn-pin": {
+    "body": "<${1:span} className=\"typcn typcn-pin$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-pin"
+  },
+  "typcn-pipette": {
+    "body": "<${1:span} className=\"typcn typcn-pipette$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-pipette"
+  },
+  "typcn-plane-outline": {
+    "body": "<${1:span} className=\"typcn typcn-plane-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-plane-outline"
+  },
+  "typcn-plane": {
+    "body": "<${1:span} className=\"typcn typcn-plane$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-plane"
+  },
+  "typcn-plug": {
+    "body": "<${1:span} className=\"typcn typcn-plug$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-plug"
+  },
+  "typcn-plus-outline": {
+    "body": "<${1:span} className=\"typcn typcn-plus-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-plus-outline"
+  },
+  "typcn-plus": {
+    "body": "<${1:span} className=\"typcn typcn-plus$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-plus"
+  },
+  "typcn-point-of-interest-outline": {
+    "body": "<${1:span} className=\"typcn typcn-point-of-interest-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-point-of-interest-outline"
+  },
+  "typcn-point-of-interest": {
+    "body": "<${1:span} className=\"typcn typcn-point-of-interest$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-point-of-interest"
+  },
+  "typcn-power-outline": {
+    "body": "<${1:span} className=\"typcn typcn-power-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-power-outline"
+  },
+  "typcn-power": {
+    "body": "<${1:span} className=\"typcn typcn-power$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-power"
+  },
+  "typcn-printer": {
+    "body": "<${1:span} className=\"typcn typcn-printer$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-printer"
+  },
+  "typcn-puzzle-outline": {
+    "body": "<${1:span} className=\"typcn typcn-puzzle-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-puzzle-outline"
+  },
+  "typcn-puzzle": {
+    "body": "<${1:span} className=\"typcn typcn-puzzle$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-puzzle"
+  },
+  "typcn-radar-outline": {
+    "body": "<${1:span} className=\"typcn typcn-radar-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-radar-outline"
+  },
+  "typcn-radar": {
+    "body": "<${1:span} className=\"typcn typcn-radar$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-radar"
+  },
+  "typcn-refresh-outline": {
+    "body": "<${1:span} className=\"typcn typcn-refresh-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-refresh-outline"
+  },
+  "typcn-refresh": {
+    "body": "<${1:span} className=\"typcn typcn-refresh$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-refresh"
+  },
+  "typcn-rss-outline": {
+    "body": "<${1:span} className=\"typcn typcn-rss-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-rss-outline"
+  },
+  "typcn-rss": {
+    "body": "<${1:span} className=\"typcn typcn-rss$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-rss"
+  },
+  "typcn-scissors-outline": {
+    "body": "<${1:span} className=\"typcn typcn-scissors-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-scissors-outline"
+  },
+  "typcn-scissors": {
+    "body": "<${1:span} className=\"typcn typcn-scissors$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-scissors"
+  },
+  "typcn-shopping-bag": {
+    "body": "<${1:span} className=\"typcn typcn-shopping-bag$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-shopping-bag"
+  },
+  "typcn-shopping-cart": {
+    "body": "<${1:span} className=\"typcn typcn-shopping-cart$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-shopping-cart"
+  },
+  "typcn-social-at-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-at-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-at-circular"
+  },
+  "typcn-social-dribbble-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-dribbble-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-dribbble-circular"
+  },
+  "typcn-social-dribbble": {
+    "body": "<${1:span} className=\"typcn typcn-social-dribbble$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-dribbble"
+  },
+  "typcn-social-facebook-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-facebook-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-facebook-circular"
+  },
+  "typcn-social-facebook": {
+    "body": "<${1:span} className=\"typcn typcn-social-facebook$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-facebook"
+  },
+  "typcn-social-flickr-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-flickr-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-flickr-circular"
+  },
+  "typcn-social-flickr": {
+    "body": "<${1:span} className=\"typcn typcn-social-flickr$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-flickr"
+  },
+  "typcn-social-github-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-github-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-github-circular"
+  },
+  "typcn-social-github": {
+    "body": "<${1:span} className=\"typcn typcn-social-github$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-github"
+  },
+  "typcn-social-google-plus-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-google-plus-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-google-plus-circular"
+  },
+  "typcn-social-google-plus": {
+    "body": "<${1:span} className=\"typcn typcn-social-google-plus$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-google-plus"
+  },
+  "typcn-social-instagram-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-instagram-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-instagram-circular"
+  },
+  "typcn-social-instagram": {
+    "body": "<${1:span} className=\"typcn typcn-social-instagram$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-instagram"
+  },
+  "typcn-social-last-fm-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-last-fm-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-last-fm-circular"
+  },
+  "typcn-social-last-fm": {
+    "body": "<${1:span} className=\"typcn typcn-social-last-fm$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-last-fm"
+  },
+  "typcn-social-linkedin-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-linkedin-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-linkedin-circular"
+  },
+  "typcn-social-linkedin": {
+    "body": "<${1:span} className=\"typcn typcn-social-linkedin$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-linkedin"
+  },
+  "typcn-social-pinterest-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-pinterest-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-pinterest-circular"
+  },
+  "typcn-social-pinterest": {
+    "body": "<${1:span} className=\"typcn typcn-social-pinterest$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-pinterest"
+  },
+  "typcn-social-skype-outline": {
+    "body": "<${1:span} className=\"typcn typcn-social-skype-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-skype-outline"
+  },
+  "typcn-social-skype": {
+    "body": "<${1:span} className=\"typcn typcn-social-skype$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-skype"
+  },
+  "typcn-social-tumbler-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-tumbler-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-tumbler-circular"
+  },
+  "typcn-social-tumbler": {
+    "body": "<${1:span} className=\"typcn typcn-social-tumbler$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-tumbler"
+  },
+  "typcn-social-twitter-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-twitter-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-twitter-circular"
+  },
+  "typcn-social-twitter": {
+    "body": "<${1:span} className=\"typcn typcn-social-twitter$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-twitter"
+  },
+  "typcn-social-vimeo-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-vimeo-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-vimeo-circular"
+  },
+  "typcn-social-vimeo": {
+    "body": "<${1:span} className=\"typcn typcn-social-vimeo$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-vimeo"
+  },
+  "typcn-social-youtube-circular": {
+    "body": "<${1:span} className=\"typcn typcn-social-youtube-circular$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-youtube-circular"
+  },
+  "typcn-social-youtube": {
+    "body": "<${1:span} className=\"typcn typcn-social-youtube$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-social-youtube"
+  },
+  "typcn-sort-alphabetically-outline": {
+    "body": "<${1:span} className=\"typcn typcn-sort-alphabetically-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-sort-alphabetically-outline"
+  },
+  "typcn-sort-alphabetically": {
+    "body": "<${1:span} className=\"typcn typcn-sort-alphabetically$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-sort-alphabetically"
+  },
+  "typcn-sort-numerically-outline": {
+    "body": "<${1:span} className=\"typcn typcn-sort-numerically-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-sort-numerically-outline"
+  },
+  "typcn-sort-numerically": {
+    "body": "<${1:span} className=\"typcn typcn-sort-numerically$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-sort-numerically"
+  },
+  "typcn-spanner-outline": {
+    "body": "<${1:span} className=\"typcn typcn-spanner-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-spanner-outline"
+  },
+  "typcn-spanner": {
+    "body": "<${1:span} className=\"typcn typcn-spanner$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-spanner"
+  },
+  "typcn-spiral": {
+    "body": "<${1:span} className=\"typcn typcn-spiral$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-spiral"
+  },
+  "typcn-star-full-outline": {
+    "body": "<${1:span} className=\"typcn typcn-star-full-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-star-full-outline"
+  },
+  "typcn-star-half-outline": {
+    "body": "<${1:span} className=\"typcn typcn-star-half-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-star-half-outline"
+  },
+  "typcn-star-half": {
+    "body": "<${1:span} className=\"typcn typcn-star-half$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-star-half"
+  },
+  "typcn-star-outline": {
+    "body": "<${1:span} className=\"typcn typcn-star-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-star-outline"
+  },
+  "typcn-star": {
+    "body": "<${1:span} className=\"typcn typcn-star$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-star"
+  },
+  "typcn-starburst-outline": {
+    "body": "<${1:span} className=\"typcn typcn-starburst-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-starburst-outline"
+  },
+  "typcn-starburst": {
+    "body": "<${1:span} className=\"typcn typcn-starburst$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-starburst"
+  },
+  "typcn-stopwatch": {
+    "body": "<${1:span} className=\"typcn typcn-stopwatch$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-stopwatch"
+  },
+  "typcn-support": {
+    "body": "<${1:span} className=\"typcn typcn-support$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-support"
+  },
+  "typcn-tabs-outline": {
+    "body": "<${1:span} className=\"typcn typcn-tabs-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-tabs-outline"
+  },
+  "typcn-tag": {
+    "body": "<${1:span} className=\"typcn typcn-tag$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-tag"
+  },
+  "typcn-tags": {
+    "body": "<${1:span} className=\"typcn typcn-tags$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-tags"
+  },
+  "typcn-th-large-outline": {
+    "body": "<${1:span} className=\"typcn typcn-th-large-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-th-large-outline"
+  },
+  "typcn-th-large": {
+    "body": "<${1:span} className=\"typcn typcn-th-large$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-th-large"
+  },
+  "typcn-th-list-outline": {
+    "body": "<${1:span} className=\"typcn typcn-th-list-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-th-list-outline"
+  },
+  "typcn-th-list": {
+    "body": "<${1:span} className=\"typcn typcn-th-list$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-th-list"
+  },
+  "typcn-th-menu-outline": {
+    "body": "<${1:span} className=\"typcn typcn-th-menu-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-th-menu-outline"
+  },
+  "typcn-th-menu": {
+    "body": "<${1:span} className=\"typcn typcn-th-menu$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-th-menu"
+  },
+  "typcn-th-small-outline": {
+    "body": "<${1:span} className=\"typcn typcn-th-small-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-th-small-outline"
+  },
+  "typcn-th-small": {
+    "body": "<${1:span} className=\"typcn typcn-th-small$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-th-small"
+  },
+  "typcn-thermometer": {
+    "body": "<${1:span} className=\"typcn typcn-thermometer$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-thermometer"
+  },
+  "typcn-thumbs-down": {
+    "body": "<${1:span} className=\"typcn typcn-thumbs-down$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-thumbs-down"
+  },
+  "typcn-thumbs-ok": {
+    "body": "<${1:span} className=\"typcn typcn-thumbs-ok$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-thumbs-ok"
+  },
+  "typcn-thumbs-up": {
+    "body": "<${1:span} className=\"typcn typcn-thumbs-up$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-thumbs-up"
+  },
+  "typcn-tick-outline": {
+    "body": "<${1:span} className=\"typcn typcn-tick-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-tick-outline"
+  },
+  "typcn-tick": {
+    "body": "<${1:span} className=\"typcn typcn-tick$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-tick"
+  },
+  "typcn-ticket": {
+    "body": "<${1:span} className=\"typcn typcn-ticket$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-ticket"
+  },
+  "typcn-time": {
+    "body": "<${1:span} className=\"typcn typcn-time$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-time"
+  },
+  "typcn-times-outline": {
+    "body": "<${1:span} className=\"typcn typcn-times-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-times-outline"
+  },
+  "typcn-times": {
+    "body": "<${1:span} className=\"typcn typcn-times$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-times"
+  },
+  "typcn-trash": {
+    "body": "<${1:span} className=\"typcn typcn-trash$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-trash"
+  },
+  "typcn-tree": {
+    "body": "<${1:span} className=\"typcn typcn-tree$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-tree"
+  },
+  "typcn-upload-outline": {
+    "body": "<${1:span} className=\"typcn typcn-upload-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-upload-outline"
+  },
+  "typcn-upload": {
+    "body": "<${1:span} className=\"typcn typcn-upload$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-upload"
+  },
+  "typcn-user-add-outline": {
+    "body": "<${1:span} className=\"typcn typcn-user-add-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-user-add-outline"
+  },
+  "typcn-user-add": {
+    "body": "<${1:span} className=\"typcn typcn-user-add$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-user-add"
+  },
+  "typcn-user-delete-outline": {
+    "body": "<${1:span} className=\"typcn typcn-user-delete-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-user-delete-outline"
+  },
+  "typcn-user-delete": {
+    "body": "<${1:span} className=\"typcn typcn-user-delete$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-user-delete"
+  },
+  "typcn-user-outline": {
+    "body": "<${1:span} className=\"typcn typcn-user-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-user-outline"
+  },
+  "typcn-user": {
+    "body": "<${1:span} className=\"typcn typcn-user$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-user"
+  },
+  "typcn-vendor-android": {
+    "body": "<${1:span} className=\"typcn typcn-vendor-android$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-vendor-android"
+  },
+  "typcn-vendor-apple": {
+    "body": "<${1:span} className=\"typcn typcn-vendor-apple$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-vendor-apple"
+  },
+  "typcn-vendor-microsoft": {
+    "body": "<${1:span} className=\"typcn typcn-vendor-microsoft$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-vendor-microsoft"
+  },
+  "typcn-video-outline": {
+    "body": "<${1:span} className=\"typcn typcn-video-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-video-outline"
+  },
+  "typcn-video": {
+    "body": "<${1:span} className=\"typcn typcn-video$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-video"
+  },
+  "typcn-volume-down": {
+    "body": "<${1:span} className=\"typcn typcn-volume-down$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-volume-down"
+  },
+  "typcn-volume-mute": {
+    "body": "<${1:span} className=\"typcn typcn-volume-mute$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-volume-mute"
+  },
+  "typcn-volume-up": {
+    "body": "<${1:span} className=\"typcn typcn-volume-up$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-volume-up"
+  },
+  "typcn-volume": {
+    "body": "<${1:span} className=\"typcn typcn-volume$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-volume"
+  },
+  "typcn-warning-outline": {
+    "body": "<${1:span} className=\"typcn typcn-warning-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-warning-outline"
+  },
+  "typcn-warning": {
+    "body": "<${1:span} className=\"typcn typcn-warning$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-warning"
+  },
+  "typcn-watch": {
+    "body": "<${1:span} className=\"typcn typcn-watch$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-watch"
+  },
+  "typcn-waves-outline": {
+    "body": "<${1:span} className=\"typcn typcn-waves-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-waves-outline"
+  },
+  "typcn-waves": {
+    "body": "<${1:span} className=\"typcn typcn-waves$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-waves"
+  },
+  "typcn-weather-cloudy": {
+    "body": "<${1:span} className=\"typcn typcn-weather-cloudy$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-weather-cloudy"
+  },
+  "typcn-weather-downpour": {
+    "body": "<${1:span} className=\"typcn typcn-weather-downpour$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-weather-downpour"
+  },
+  "typcn-weather-night": {
+    "body": "<${1:span} className=\"typcn typcn-weather-night$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-weather-night"
+  },
+  "typcn-weather-partly-sunny": {
+    "body": "<${1:span} className=\"typcn typcn-weather-partly-sunny$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-weather-partly-sunny"
+  },
+  "typcn-weather-shower": {
+    "body": "<${1:span} className=\"typcn typcn-weather-shower$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-weather-shower"
+  },
+  "typcn-weather-snow": {
+    "body": "<${1:span} className=\"typcn typcn-weather-snow$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-weather-snow"
+  },
+  "typcn-weather-stormy": {
+    "body": "<${1:span} className=\"typcn typcn-weather-stormy$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-weather-stormy"
+  },
+  "typcn-weather-sunny": {
+    "body": "<${1:span} className=\"typcn typcn-weather-sunny$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-weather-sunny"
+  },
+  "typcn-weather-windy-cloudy": {
+    "body": "<${1:span} className=\"typcn typcn-weather-windy-cloudy$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-weather-windy-cloudy"
+  },
+  "typcn-weather-windy": {
+    "body": "<${1:span} className=\"typcn typcn-weather-windy$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-weather-windy"
+  },
+  "typcn-wi-fi-outline": {
+    "body": "<${1:span} className=\"typcn typcn-wi-fi-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-wi-fi-outline"
+  },
+  "typcn-wi-fi": {
+    "body": "<${1:span} className=\"typcn typcn-wi-fi$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-wi-fi"
+  },
+  "typcn-wine": {
+    "body": "<${1:span} className=\"typcn typcn-wine$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-wine"
+  },
+  "typcn-world-outline": {
+    "body": "<${1:span} className=\"typcn typcn-world-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-world-outline"
+  },
+  "typcn-world": {
+    "body": "<${1:span} className=\"typcn typcn-world$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-world"
+  },
+  "typcn-zoom-in-outline": {
+    "body": "<${1:span} className=\"typcn typcn-zoom-in-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-zoom-in-outline"
+  },
+  "typcn-zoom-in": {
+    "body": "<${1:span} className=\"typcn typcn-zoom-in$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-zoom-in"
+  },
+  "typcn-zoom-out-outline": {
+    "body": "<${1:span} className=\"typcn typcn-zoom-out-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-zoom-out-outline"
+  },
+  "typcn-zoom-out": {
+    "body": "<${1:span} className=\"typcn typcn-zoom-out$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-zoom-out"
+  },
+  "typcn-zoom-outline": {
+    "body": "<${1:span} className=\"typcn typcn-zoom-outline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-zoom-outline"
+  },
+  "typcn-zoom": {
+    "body": "<${1:span} className=\"typcn typcn-zoom$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "typcn-zoom"
+  }
+}

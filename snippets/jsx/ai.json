@@ -1,0 +1,1247 @@
+{
+  "ai-achievement": {
+    "body": "<${1:span} className=\"ai-achievement$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-achievement"
+  },
+  "ai-alarm": {
+    "body": "<${1:span} className=\"ai-alarm$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-alarm"
+  },
+  "ai-amazon": {
+    "body": "<${1:span} className=\"ai-amazon$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-amazon"
+  },
+  "ai-anchor": {
+    "body": "<${1:span} className=\"ai-anchor$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-anchor"
+  },
+  "ai-android": {
+    "body": "<${1:span} className=\"ai-android$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-android"
+  },
+  "ai-armchair": {
+    "body": "<${1:span} className=\"ai-armchair$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-armchair"
+  },
+  "ai-arrow-down": {
+    "body": "<${1:span} className=\"ai-arrow-down$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-arrow-down"
+  },
+  "ai-arrow-left-down": {
+    "body": "<${1:span} className=\"ai-arrow-left-down$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-arrow-left-down"
+  },
+  "ai-arrow-left-up": {
+    "body": "<${1:span} className=\"ai-arrow-left-up$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-arrow-left-up"
+  },
+  "ai-arrow-left": {
+    "body": "<${1:span} className=\"ai-arrow-left$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-arrow-left"
+  },
+  "ai-arrow-right-down": {
+    "body": "<${1:span} className=\"ai-arrow-right-down$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-arrow-right-down"
+  },
+  "ai-arrow-right-up": {
+    "body": "<${1:span} className=\"ai-arrow-right-up$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-arrow-right-up"
+  },
+  "ai-arrow-right": {
+    "body": "<${1:span} className=\"ai-arrow-right$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-arrow-right"
+  },
+  "ai-arrow-up": {
+    "body": "<${1:span} className=\"ai-arrow-up$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-arrow-up"
+  },
+  "ai-attachment-2": {
+    "body": "<${1:span} className=\"ai-attachment-2$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-attachment-2"
+  },
+  "ai-attachment": {
+    "body": "<${1:span} className=\"ai-attachment$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-attachment"
+  },
+  "ai-ball": {
+    "body": "<${1:span} className=\"ai-ball$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-ball"
+  },
+  "ai-balloon": {
+    "body": "<${1:span} className=\"ai-balloon$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-balloon"
+  },
+  "ai-barcode": {
+    "body": "<${1:span} className=\"ai-barcode$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-barcode"
+  },
+  "ai-bargraph": {
+    "body": "<${1:span} className=\"ai-bargraph$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-bargraph"
+  },
+  "ai-bars": {
+    "body": "<${1:span} className=\"ai-bars$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-bars"
+  },
+  "ai-basket": {
+    "body": "<${1:span} className=\"ai-basket$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-basket"
+  },
+  "ai-bell": {
+    "body": "<${1:span} className=\"ai-bell$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-bell"
+  },
+  "ai-bike": {
+    "body": "<${1:span} className=\"ai-bike$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-bike"
+  },
+  "ai-blob": {
+    "body": "<${1:span} className=\"ai-blob$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-blob"
+  },
+  "ai-bluetooth": {
+    "body": "<${1:span} className=\"ai-bluetooth$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-bluetooth"
+  },
+  "ai-book": {
+    "body": "<${1:span} className=\"ai-book$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-book"
+  },
+  "ai-bookmark": {
+    "body": "<${1:span} className=\"ai-bookmark$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-bookmark"
+  },
+  "ai-box": {
+    "body": "<${1:span} className=\"ai-box$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-box"
+  },
+  "ai-brush": {
+    "body": "<${1:span} className=\"ai-brush$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-brush"
+  },
+  "ai-bug": {
+    "body": "<${1:span} className=\"ai-bug$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-bug"
+  },
+  "ai-bulb": {
+    "body": "<${1:span} className=\"ai-bulb$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-bulb"
+  },
+  "ai-bus": {
+    "body": "<${1:span} className=\"ai-bus$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-bus"
+  },
+  "ai-business": {
+    "body": "<${1:span} className=\"ai-business$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-business"
+  },
+  "ai-calculator": {
+    "body": "<${1:span} className=\"ai-calculator$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-calculator"
+  },
+  "ai-calendar": {
+    "body": "<${1:span} className=\"ai-calendar$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-calendar"
+  },
+  "ai-camera": {
+    "body": "<${1:span} className=\"ai-camera$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-camera"
+  },
+  "ai-cancel": {
+    "body": "<${1:span} className=\"ai-cancel$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-cancel"
+  },
+  "ai-car": {
+    "body": "<${1:span} className=\"ai-car$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-car"
+  },
+  "ai-cart": {
+    "body": "<${1:span} className=\"ai-cart$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-cart"
+  },
+  "ai-clock": {
+    "body": "<${1:span} className=\"ai-clock$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-clock"
+  },
+  "ai-cloud": {
+    "body": "<${1:span} className=\"ai-cloud$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-cloud"
+  },
+  "ai-cloudy": {
+    "body": "<${1:span} className=\"ai-cloudy$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-cloudy"
+  },
+  "ai-coffee": {
+    "body": "<${1:span} className=\"ai-coffee$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-coffee"
+  },
+  "ai-coffee2go": {
+    "body": "<${1:span} className=\"ai-coffee2go$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-coffee2go"
+  },
+  "ai-collapse": {
+    "body": "<${1:span} className=\"ai-collapse$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-collapse"
+  },
+  "ai-compass": {
+    "body": "<${1:span} className=\"ai-compass$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-compass"
+  },
+  "ai-contrast": {
+    "body": "<${1:span} className=\"ai-contrast$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-contrast"
+  },
+  "ai-copy": {
+    "body": "<${1:span} className=\"ai-copy$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-copy"
+  },
+  "ai-creditcard": {
+    "body": "<${1:span} className=\"ai-creditcard$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-creditcard"
+  },
+  "ai-crop": {
+    "body": "<${1:span} className=\"ai-crop$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-crop"
+  },
+  "ai-cut": {
+    "body": "<${1:span} className=\"ai-cut$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-cut"
+  },
+  "ai-database": {
+    "body": "<${1:span} className=\"ai-database$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-database"
+  },
+  "ai-dialer": {
+    "body": "<${1:span} className=\"ai-dialer$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-dialer"
+  },
+  "ai-dialog": {
+    "body": "<${1:span} className=\"ai-dialog$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-dialog"
+  },
+  "ai-dice1": {
+    "body": "<${1:span} className=\"ai-dice1$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-dice1"
+  },
+  "ai-dice2": {
+    "body": "<${1:span} className=\"ai-dice2$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-dice2"
+  },
+  "ai-dice3": {
+    "body": "<${1:span} className=\"ai-dice3$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-dice3"
+  },
+  "ai-dice4": {
+    "body": "<${1:span} className=\"ai-dice4$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-dice4"
+  },
+  "ai-dice5": {
+    "body": "<${1:span} className=\"ai-dice5$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-dice5"
+  },
+  "ai-dice6": {
+    "body": "<${1:span} className=\"ai-dice6$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-dice6"
+  },
+  "ai-document": {
+    "body": "<${1:span} className=\"ai-document$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-document"
+  },
+  "ai-dontlike": {
+    "body": "<${1:span} className=\"ai-dontlike$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-dontlike"
+  },
+  "ai-download": {
+    "body": "<${1:span} className=\"ai-download$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-download"
+  },
+  "ai-drag": {
+    "body": "<${1:span} className=\"ai-drag$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-drag"
+  },
+  "ai-drop": {
+    "body": "<${1:span} className=\"ai-drop$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-drop"
+  },
+  "ai-dropbox": {
+    "body": "<${1:span} className=\"ai-dropbox$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-dropbox"
+  },
+  "ai-edit": {
+    "body": "<${1:span} className=\"ai-edit$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-edit"
+  },
+  "ai-emo-angry": {
+    "body": "<${1:span} className=\"ai-emo-angry$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-emo-angry"
+  },
+  "ai-emo-basic": {
+    "body": "<${1:span} className=\"ai-emo-basic$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-emo-basic"
+  },
+  "ai-emo-cool": {
+    "body": "<${1:span} className=\"ai-emo-cool$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-emo-cool"
+  },
+  "ai-emo-cry": {
+    "body": "<${1:span} className=\"ai-emo-cry$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-emo-cry"
+  },
+  "ai-emo-err": {
+    "body": "<${1:span} className=\"ai-emo-err$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-emo-err"
+  },
+  "ai-emo-evil": {
+    "body": "<${1:span} className=\"ai-emo-evil$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-emo-evil"
+  },
+  "ai-emo-kiss": {
+    "body": "<${1:span} className=\"ai-emo-kiss$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-emo-kiss"
+  },
+  "ai-emo-laugh": {
+    "body": "<${1:span} className=\"ai-emo-laugh$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-emo-laugh"
+  },
+  "ai-emo-shame": {
+    "body": "<${1:span} className=\"ai-emo-shame$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-emo-shame"
+  },
+  "ai-emo-tongue": {
+    "body": "<${1:span} className=\"ai-emo-tongue$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-emo-tongue"
+  },
+  "ai-emo-wink": {
+    "body": "<${1:span} className=\"ai-emo-wink$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-emo-wink"
+  },
+  "ai-emo-wonder": {
+    "body": "<${1:span} className=\"ai-emo-wonder$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-emo-wonder"
+  },
+  "ai-exit": {
+    "body": "<${1:span} className=\"ai-exit$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-exit"
+  },
+  "ai-expand": {
+    "body": "<${1:span} className=\"ai-expand$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-expand"
+  },
+  "ai-export": {
+    "body": "<${1:span} className=\"ai-export$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-export"
+  },
+  "ai-eye-closed": {
+    "body": "<${1:span} className=\"ai-eye-closed$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-eye-closed"
+  },
+  "ai-eye-open": {
+    "body": "<${1:span} className=\"ai-eye-open$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-eye-open"
+  },
+  "ai-facebook": {
+    "body": "<${1:span} className=\"ai-facebook$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-facebook"
+  },
+  "ai-filter": {
+    "body": "<${1:span} className=\"ai-filter$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-filter"
+  },
+  "ai-flag": {
+    "body": "<${1:span} className=\"ai-flag$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-flag"
+  },
+  "ai-flags": {
+    "body": "<${1:span} className=\"ai-flags$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-flags"
+  },
+  "ai-flash": {
+    "body": "<${1:span} className=\"ai-flash$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-flash"
+  },
+  "ai-folder-closed": {
+    "body": "<${1:span} className=\"ai-folder-closed$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-folder-closed"
+  },
+  "ai-folder-open": {
+    "body": "<${1:span} className=\"ai-folder-open$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-folder-open"
+  },
+  "ai-folder-tabs": {
+    "body": "<${1:span} className=\"ai-folder-tabs$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-folder-tabs"
+  },
+  "ai-font-bigger": {
+    "body": "<${1:span} className=\"ai-font-bigger$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-font-bigger"
+  },
+  "ai-font-bold": {
+    "body": "<${1:span} className=\"ai-font-bold$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-font-bold"
+  },
+  "ai-font-faces": {
+    "body": "<${1:span} className=\"ai-font-faces$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-font-faces"
+  },
+  "ai-font-italic": {
+    "body": "<${1:span} className=\"ai-font-italic$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-font-italic"
+  },
+  "ai-font-smaller": {
+    "body": "<${1:span} className=\"ai-font-smaller$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-font-smaller"
+  },
+  "ai-font-underline": {
+    "body": "<${1:span} className=\"ai-font-underline$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-font-underline"
+  },
+  "ai-foursquare": {
+    "body": "<${1:span} className=\"ai-foursquare$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-foursquare"
+  },
+  "ai-gcircles": {
+    "body": "<${1:span} className=\"ai-gcircles$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-gcircles"
+  },
+  "ai-gear": {
+    "body": "<${1:span} className=\"ai-gear$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-gear"
+  },
+  "ai-github": {
+    "body": "<${1:span} className=\"ai-github$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-github"
+  },
+  "ai-glasses": {
+    "body": "<${1:span} className=\"ai-glasses$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-glasses"
+  },
+  "ai-globe": {
+    "body": "<${1:span} className=\"ai-globe$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-globe"
+  },
+  "ai-gmail": {
+    "body": "<${1:span} className=\"ai-gmail$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-gmail"
+  },
+  "ai-goleft": {
+    "body": "<${1:span} className=\"ai-goleft$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-goleft"
+  },
+  "ai-goright": {
+    "body": "<${1:span} className=\"ai-goright$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-goright"
+  },
+  "ai-gplay": {
+    "body": "<${1:span} className=\"ai-gplay$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-gplay"
+  },
+  "ai-gplus": {
+    "body": "<${1:span} className=\"ai-gplus$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-gplus"
+  },
+  "ai-grow": {
+    "body": "<${1:span} className=\"ai-grow$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-grow"
+  },
+  "ai-guitar": {
+    "body": "<${1:span} className=\"ai-guitar$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-guitar"
+  },
+  "ai-halt": {
+    "body": "<${1:span} className=\"ai-halt$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-halt"
+  },
+  "ai-headphones": {
+    "body": "<${1:span} className=\"ai-headphones$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-headphones"
+  },
+  "ai-heart": {
+    "body": "<${1:span} className=\"ai-heart$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-heart"
+  },
+  "ai-help": {
+    "body": "<${1:span} className=\"ai-help$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-help"
+  },
+  "ai-home": {
+    "body": "<${1:span} className=\"ai-home$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-home"
+  },
+  "ai-html5": {
+    "body": "<${1:span} className=\"ai-html5$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-html5"
+  },
+  "ai-import": {
+    "body": "<${1:span} className=\"ai-import$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-import"
+  },
+  "ai-inbox": {
+    "body": "<${1:span} className=\"ai-inbox$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-inbox"
+  },
+  "ai-info": {
+    "body": "<${1:span} className=\"ai-info$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-info"
+  },
+  "ai-joypad": {
+    "body": "<${1:span} className=\"ai-joypad$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-joypad"
+  },
+  "ai-key": {
+    "body": "<${1:span} className=\"ai-key$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-key"
+  },
+  "ai-knight": {
+    "body": "<${1:span} className=\"ai-knight$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-knight"
+  },
+  "ai-lab": {
+    "body": "<${1:span} className=\"ai-lab$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-lab"
+  },
+  "ai-laptop": {
+    "body": "<${1:span} className=\"ai-laptop$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-laptop"
+  },
+  "ai-like": {
+    "body": "<${1:span} className=\"ai-like$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-like"
+  },
+  "ai-line-chart": {
+    "body": "<${1:span} className=\"ai-line-chart$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-line-chart"
+  },
+  "ai-link": {
+    "body": "<${1:span} className=\"ai-link$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-link"
+  },
+  "ai-linkedin": {
+    "body": "<${1:span} className=\"ai-linkedin$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-linkedin"
+  },
+  "ai-list-2": {
+    "body": "<${1:span} className=\"ai-list-2$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-list-2"
+  },
+  "ai-list": {
+    "body": "<${1:span} className=\"ai-list$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-list"
+  },
+  "ai-location-2": {
+    "body": "<${1:span} className=\"ai-location-2$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-location-2"
+  },
+  "ai-location": {
+    "body": "<${1:span} className=\"ai-location$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-location"
+  },
+  "ai-lock-closed": {
+    "body": "<${1:span} className=\"ai-lock-closed$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-lock-closed"
+  },
+  "ai-lock-open": {
+    "body": "<${1:span} className=\"ai-lock-open$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-lock-open"
+  },
+  "ai-magnet": {
+    "body": "<${1:span} className=\"ai-magnet$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-magnet"
+  },
+  "ai-mail": {
+    "body": "<${1:span} className=\"ai-mail$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-mail"
+  },
+  "ai-map": {
+    "body": "<${1:span} className=\"ai-map$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-map"
+  },
+  "ai-mic": {
+    "body": "<${1:span} className=\"ai-mic$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-mic"
+  },
+  "ai-micoff": {
+    "body": "<${1:span} className=\"ai-micoff$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-micoff"
+  },
+  "ai-minus": {
+    "body": "<${1:span} className=\"ai-minus$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-minus"
+  },
+  "ai-mist": {
+    "body": "<${1:span} className=\"ai-mist$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-mist"
+  },
+  "ai-monitor": {
+    "body": "<${1:span} className=\"ai-monitor$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-monitor"
+  },
+  "ai-monolog": {
+    "body": "<${1:span} className=\"ai-monolog$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-monolog"
+  },
+  "ai-more": {
+    "body": "<${1:span} className=\"ai-more$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-more"
+  },
+  "ai-mouse": {
+    "body": "<${1:span} className=\"ai-mouse$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-mouse"
+  },
+  "ai-movie": {
+    "body": "<${1:span} className=\"ai-movie$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-movie"
+  },
+  "ai-music-1": {
+    "body": "<${1:span} className=\"ai-music-1$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-music-1"
+  },
+  "ai-music-2": {
+    "body": "<${1:span} className=\"ai-music-2$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-music-2"
+  },
+  "ai-mustache": {
+    "body": "<${1:span} className=\"ai-mustache$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-mustache"
+  },
+  "ai-navigate": {
+    "body": "<${1:span} className=\"ai-navigate$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-navigate"
+  },
+  "ai-news": {
+    "body": "<${1:span} className=\"ai-news$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-news"
+  },
+  "ai-overflow": {
+    "body": "<${1:span} className=\"ai-overflow$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-overflow"
+  },
+  "ai-paste": {
+    "body": "<${1:span} className=\"ai-paste$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-paste"
+  },
+  "ai-paypal": {
+    "body": "<${1:span} className=\"ai-paypal$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-paypal"
+  },
+  "ai-phone-end": {
+    "body": "<${1:span} className=\"ai-phone-end$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-phone-end"
+  },
+  "ai-phone-incoming": {
+    "body": "<${1:span} className=\"ai-phone-incoming$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-phone-incoming"
+  },
+  "ai-phone-missed": {
+    "body": "<${1:span} className=\"ai-phone-missed$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-phone-missed"
+  },
+  "ai-phone-outgoing": {
+    "body": "<${1:span} className=\"ai-phone-outgoing$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-phone-outgoing"
+  },
+  "ai-phone-start": {
+    "body": "<${1:span} className=\"ai-phone-start$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-phone-start"
+  },
+  "ai-phone": {
+    "body": "<${1:span} className=\"ai-phone$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-phone"
+  },
+  "ai-picker": {
+    "body": "<${1:span} className=\"ai-picker$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-picker"
+  },
+  "ai-picture": {
+    "body": "<${1:span} className=\"ai-picture$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-picture"
+  },
+  "ai-pie-chart": {
+    "body": "<${1:span} className=\"ai-pie-chart$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-pie-chart"
+  },
+  "ai-pill": {
+    "body": "<${1:span} className=\"ai-pill$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-pill"
+  },
+  "ai-pin": {
+    "body": "<${1:span} className=\"ai-pin$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-pin"
+  },
+  "ai-pinterest": {
+    "body": "<${1:span} className=\"ai-pinterest$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-pinterest"
+  },
+  "ai-plane": {
+    "body": "<${1:span} className=\"ai-plane$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-plane"
+  },
+  "ai-planet": {
+    "body": "<${1:span} className=\"ai-planet$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-planet"
+  },
+  "ai-playback-forw": {
+    "body": "<${1:span} className=\"ai-playback-forw$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-playback-forw"
+  },
+  "ai-playback-next": {
+    "body": "<${1:span} className=\"ai-playback-next$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-playback-next"
+  },
+  "ai-playback-pause": {
+    "body": "<${1:span} className=\"ai-playback-pause$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-playback-pause"
+  },
+  "ai-playback-play": {
+    "body": "<${1:span} className=\"ai-playback-play$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-playback-play"
+  },
+  "ai-playback-prev": {
+    "body": "<${1:span} className=\"ai-playback-prev$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-playback-prev"
+  },
+  "ai-playback-repeat-1": {
+    "body": "<${1:span} className=\"ai-playback-repeat-1$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-playback-repeat-1"
+  },
+  "ai-playback-repeat": {
+    "body": "<${1:span} className=\"ai-playback-repeat$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-playback-repeat"
+  },
+  "ai-playback-rew": {
+    "body": "<${1:span} className=\"ai-playback-rew$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-playback-rew"
+  },
+  "ai-playback-shuffle": {
+    "body": "<${1:span} className=\"ai-playback-shuffle$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-playback-shuffle"
+  },
+  "ai-playback-stop": {
+    "body": "<${1:span} className=\"ai-playback-stop$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-playback-stop"
+  },
+  "ai-plug": {
+    "body": "<${1:span} className=\"ai-plug$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-plug"
+  },
+  "ai-plus": {
+    "body": "<${1:span} className=\"ai-plus$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-plus"
+  },
+  "ai-plusone": {
+    "body": "<${1:span} className=\"ai-plusone$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-plusone"
+  },
+  "ai-power": {
+    "body": "<${1:span} className=\"ai-power$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-power"
+  },
+  "ai-present": {
+    "body": "<${1:span} className=\"ai-present$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-present"
+  },
+  "ai-process-end": {
+    "body": "<${1:span} className=\"ai-process-end$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-process-end"
+  },
+  "ai-process-save": {
+    "body": "<${1:span} className=\"ai-process-save$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-process-save"
+  },
+  "ai-process-start": {
+    "body": "<${1:span} className=\"ai-process-start$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-process-start"
+  },
+  "ai-puzzle": {
+    "body": "<${1:span} className=\"ai-puzzle$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-puzzle"
+  },
+  "ai-qrcode": {
+    "body": "<${1:span} className=\"ai-qrcode$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-qrcode"
+  },
+  "ai-rain": {
+    "body": "<${1:span} className=\"ai-rain$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-rain"
+  },
+  "ai-record": {
+    "body": "<${1:span} className=\"ai-record$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-record"
+  },
+  "ai-redo": {
+    "body": "<${1:span} className=\"ai-redo$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-redo"
+  },
+  "ai-reload": {
+    "body": "<${1:span} className=\"ai-reload$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-reload"
+  },
+  "ai-restaurant": {
+    "body": "<${1:span} className=\"ai-restaurant$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-restaurant"
+  },
+  "ai-rocket": {
+    "body": "<${1:span} className=\"ai-rocket$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-rocket"
+  },
+  "ai-rss": {
+    "body": "<${1:span} className=\"ai-rss$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-rss"
+  },
+  "ai-ruler": {
+    "body": "<${1:span} className=\"ai-ruler$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-ruler"
+  },
+  "ai-save": {
+    "body": "<${1:span} className=\"ai-save$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-save"
+  },
+  "ai-search": {
+    "body": "<${1:span} className=\"ai-search$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-search"
+  },
+  "ai-send": {
+    "body": "<${1:span} className=\"ai-send$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-send"
+  },
+  "ai-settings": {
+    "body": "<${1:span} className=\"ai-settings$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-settings"
+  },
+  "ai-share-2": {
+    "body": "<${1:span} className=\"ai-share-2$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-share-2"
+  },
+  "ai-share": {
+    "body": "<${1:span} className=\"ai-share$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-share"
+  },
+  "ai-shield": {
+    "body": "<${1:span} className=\"ai-shield$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-shield"
+  },
+  "ai-signal": {
+    "body": "<${1:span} className=\"ai-signal$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-signal"
+  },
+  "ai-sms": {
+    "body": "<${1:span} className=\"ai-sms$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-sms"
+  },
+  "ai-sort-1": {
+    "body": "<${1:span} className=\"ai-sort-1$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-sort-1"
+  },
+  "ai-sort-2": {
+    "body": "<${1:span} className=\"ai-sort-2$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-sort-2"
+  },
+  "ai-soundcloud": {
+    "body": "<${1:span} className=\"ai-soundcloud$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-soundcloud"
+  },
+  "ai-stamp": {
+    "body": "<${1:span} className=\"ai-stamp$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-stamp"
+  },
+  "ai-star-0": {
+    "body": "<${1:span} className=\"ai-star-0$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-star-0"
+  },
+  "ai-star-10": {
+    "body": "<${1:span} className=\"ai-star-10$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-star-10"
+  },
+  "ai-star-5": {
+    "body": "<${1:span} className=\"ai-star-5$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-star-5"
+  },
+  "ai-steering-wheel": {
+    "body": "<${1:span} className=\"ai-steering-wheel$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-steering-wheel"
+  },
+  "ai-stumbleupon": {
+    "body": "<${1:span} className=\"ai-stumbleupon$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-stumbleupon"
+  },
+  "ai-sun": {
+    "body": "<${1:span} className=\"ai-sun$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-sun"
+  },
+  "ai-tablet": {
+    "body": "<${1:span} className=\"ai-tablet$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-tablet"
+  },
+  "ai-tag": {
+    "body": "<${1:span} className=\"ai-tag$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-tag"
+  },
+  "ai-tags": {
+    "body": "<${1:span} className=\"ai-tags$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-tags"
+  },
+  "ai-temperature": {
+    "body": "<${1:span} className=\"ai-temperature$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-temperature"
+  },
+  "ai-tick": {
+    "body": "<${1:span} className=\"ai-tick$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-tick"
+  },
+  "ai-ticket": {
+    "body": "<${1:span} className=\"ai-ticket$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-ticket"
+  },
+  "ai-tiles-large": {
+    "body": "<${1:span} className=\"ai-tiles-large$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-tiles-large"
+  },
+  "ai-tiles-small": {
+    "body": "<${1:span} className=\"ai-tiles-small$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-tiles-small"
+  },
+  "ai-train": {
+    "body": "<${1:span} className=\"ai-train$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-train"
+  },
+  "ai-trash": {
+    "body": "<${1:span} className=\"ai-trash$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-trash"
+  },
+  "ai-tshirt": {
+    "body": "<${1:span} className=\"ai-tshirt$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-tshirt"
+  },
+  "ai-tumblr": {
+    "body": "<${1:span} className=\"ai-tumblr$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-tumblr"
+  },
+  "ai-turn-left": {
+    "body": "<${1:span} className=\"ai-turn-left$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-turn-left"
+  },
+  "ai-turn-right": {
+    "body": "<${1:span} className=\"ai-turn-right$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-turn-right"
+  },
+  "ai-tv": {
+    "body": "<${1:span} className=\"ai-tv$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-tv"
+  },
+  "ai-twitter": {
+    "body": "<${1:span} className=\"ai-twitter$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-twitter"
+  },
+  "ai-umbrella": {
+    "body": "<${1:span} className=\"ai-umbrella$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-umbrella"
+  },
+  "ai-undo": {
+    "body": "<${1:span} className=\"ai-undo$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-undo"
+  },
+  "ai-upload": {
+    "body": "<${1:span} className=\"ai-upload$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-upload"
+  },
+  "ai-user": {
+    "body": "<${1:span} className=\"ai-user$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-user"
+  },
+  "ai-users": {
+    "body": "<${1:span} className=\"ai-users$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-users"
+  },
+  "ai-video": {
+    "body": "<${1:span} className=\"ai-video$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-video"
+  },
+  "ai-vimeo": {
+    "body": "<${1:span} className=\"ai-vimeo$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-vimeo"
+  },
+  "ai-volume-down": {
+    "body": "<${1:span} className=\"ai-volume-down$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-volume-down"
+  },
+  "ai-volume-mute": {
+    "body": "<${1:span} className=\"ai-volume-mute$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-volume-mute"
+  },
+  "ai-volume-up": {
+    "body": "<${1:span} className=\"ai-volume-up$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-volume-up"
+  },
+  "ai-volume": {
+    "body": "<${1:span} className=\"ai-volume$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-volume"
+  },
+  "ai-warning": {
+    "body": "<${1:span} className=\"ai-warning$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-warning"
+  },
+  "ai-wifi": {
+    "body": "<${1:span} className=\"ai-wifi$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-wifi"
+  },
+  "ai-wizard": {
+    "body": "<${1:span} className=\"ai-wizard$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-wizard"
+  },
+  "ai-yingyang": {
+    "body": "<${1:span} className=\"ai-yingyang$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-yingyang"
+  },
+  "ai-youtube": {
+    "body": "<${1:span} className=\"ai-youtube$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "ai-youtube"
+  }
+}

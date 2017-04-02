@@ -10,6 +10,10 @@ Snippets for a variety of icon fonts ([see details](https://github.com/idleberg/
 
 This package is also available for [Atom](https://github.com/idleberg/atom-icon-fonts) and [Sublime Text](https://github.com/idleberg/sublime-icon-fonts).
 
+![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-icon-fonts/master/images/screenshot.gif)
+
+*Screenshot nicked from the Sublime Text package, but you get the idea*
+
 ## Installation
 
 ### Extension Marketplace

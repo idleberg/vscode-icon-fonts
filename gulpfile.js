@@ -13,11 +13,6 @@ const jsonlint = require('gulp-jsonlint');
 const xmlVal = require('gulp-xml-validator');
 
 // Supported files
-const jsFiles = [
-  'lib/*.js',
-  'src/*.js',
-];
-
 const jsonFiles = [
   '*.json',
   'snippets/*.json'

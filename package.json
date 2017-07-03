@@ -24,7 +24,7 @@
     "bugs": {
         "url": "https://github.com/idleberg/vscode-icon-fonts/issues"
     },
-    "icon": "images/logo.svg",
+    "icon": "images/logo.png",
     "galleryBanner": {
         "color": "#303030",
         "theme": "dark"
@@ -564,11 +564,12 @@
         "test": "gulp lint"
     },
     "devDependencies": {
-        "gulp": "^3.9.1",
-        "gulp-debug": "^3.0.0",
-        "gulp-eslint": "^3.0.1",
+        "gulp": "github:gulpjs/gulp#4.0",
+        "gulp-debug": "^3.1.0",
+        "gulp-eslint": "^4.0.0",
         "gulp-jsonlint": "^1.2.0",
+        "gulp-svg2png": "^2.0.2",
         "gulp-xml-validator": "^0.1.2",
-        "vscode": "^1.0.3"
+        "vscode": "^1.1.2"
     }
 }

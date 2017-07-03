@@ -561,7 +561,8 @@
     },
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
-        "test": "gulp lint"
+        "test": "gulp lint",
+        "vscode:prepublish": "gulp build"
     },
     "devDependencies": {
         "gulp": "github:gulpjs/gulp#4.0",

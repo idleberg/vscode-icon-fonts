@@ -1,3 +1,8 @@
+# v1.7.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.7.1)
+
+* use PNG logo (as required by upcoming versions of Code)
+* update `devDepencencies`
+
 # v1.7.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.7.0)
 
 - add support for JSX

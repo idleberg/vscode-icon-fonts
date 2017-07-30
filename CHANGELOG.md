@@ -1,7 +1,12 @@
+# v1.8.0 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.8.0)
+
+- add support for Vue
+- add support for Laravel Blade
+
 # v1.7.2 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.7.2)
 
 * use PNG logo (as required by upcoming versions of Code)
-* update `devDepencencies`
+* update `devDependencies`
 
 # v1.7.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.7.1)
 

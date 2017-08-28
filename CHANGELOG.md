@@ -1,4 +1,9 @@
-# v1.8.0 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.8.0)
+# v1.8.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.8.1)
+
+- bump OpenWebIcons to v1.4.3
+- fix OpenWebIcons CSS snippets
+
+# v1.8.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.8.0)
 
 - add support for Vue
 - add support for Laravel Blade

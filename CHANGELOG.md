@@ -1,3 +1,8 @@
+# v1.8.2 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.8.2)
+
+- update development toolchain
+- update Travis CI configuration
+
 # v1.8.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.8.1)
 
 - bump OpenWebIcons to v1.4.3

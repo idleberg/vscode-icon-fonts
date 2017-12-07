@@ -1,0 +1,2478 @@
+{
+  "fas-address-book": {
+    "body": "<${1:i} className=\"fas fa-address-book$2\"></${1:i}>",
+    "prefix": "fas-address-book"
+  },
+  "fas-address-card": {
+    "body": "<${1:i} className=\"fas fa-address-card$2\"></${1:i}>",
+    "prefix": "fas-address-card"
+  },
+  "fas-adjust": {
+    "body": "<${1:i} className=\"fas fa-adjust$2\"></${1:i}>",
+    "prefix": "fas-adjust"
+  },
+  "fas-alarm-clock": {
+    "body": "<${1:i} className=\"fas fa-alarm-clock$2\"></${1:i}>",
+    "prefix": "fas-alarm-clock"
+  },
+  "fas-align-center": {
+    "body": "<${1:i} className=\"fas fa-align-center$2\"></${1:i}>",
+    "prefix": "fas-align-center"
+  },
+  "fas-align-justify": {
+    "body": "<${1:i} className=\"fas fa-align-justify$2\"></${1:i}>",
+    "prefix": "fas-align-justify"
+  },
+  "fas-align-left": {
+    "body": "<${1:i} className=\"fas fa-align-left$2\"></${1:i}>",
+    "prefix": "fas-align-left"
+  },
+  "fas-align-right": {
+    "body": "<${1:i} className=\"fas fa-align-right$2\"></${1:i}>",
+    "prefix": "fas-align-right"
+  },
+  "fas-ambulance": {
+    "body": "<${1:i} className=\"fas fa-ambulance$2\"></${1:i}>",
+    "prefix": "fas-ambulance"
+  },
+  "fas-american-sign-language-interpreting": {
+    "body": "<${1:i} className=\"fas fa-american-sign-language-interpreting$2\"></${1:i}>",
+    "prefix": "fas-american-sign-language-interpreting"
+  },
+  "fas-anchor": {
+    "body": "<${1:i} className=\"fas fa-anchor$2\"></${1:i}>",
+    "prefix": "fas-anchor"
+  },
+  "fas-angle-double-down": {
+    "body": "<${1:i} className=\"fas fa-angle-double-down$2\"></${1:i}>",
+    "prefix": "fas-angle-double-down"
+  },
+  "fas-angle-double-left": {
+    "body": "<${1:i} className=\"fas fa-angle-double-left$2\"></${1:i}>",
+    "prefix": "fas-angle-double-left"
+  },
+  "fas-angle-double-right": {
+    "body": "<${1:i} className=\"fas fa-angle-double-right$2\"></${1:i}>",
+    "prefix": "fas-angle-double-right"
+  },
+  "fas-angle-double-up": {
+    "body": "<${1:i} className=\"fas fa-angle-double-up$2\"></${1:i}>",
+    "prefix": "fas-angle-double-up"
+  },
+  "fas-angle-down": {
+    "body": "<${1:i} className=\"fas fa-angle-down$2\"></${1:i}>",
+    "prefix": "fas-angle-down"
+  },
+  "fas-angle-left": {
+    "body": "<${1:i} className=\"fas fa-angle-left$2\"></${1:i}>",
+    "prefix": "fas-angle-left"
+  },
+  "fas-angle-right": {
+    "body": "<${1:i} className=\"fas fa-angle-right$2\"></${1:i}>",
+    "prefix": "fas-angle-right"
+  },
+  "fas-angle-up": {
+    "body": "<${1:i} className=\"fas fa-angle-up$2\"></${1:i}>",
+    "prefix": "fas-angle-up"
+  },
+  "fas-archive": {
+    "body": "<${1:i} className=\"fas fa-archive$2\"></${1:i}>",
+    "prefix": "fas-archive"
+  },
+  "fas-arrow-alt-circle-down": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-circle-down$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-circle-down"
+  },
+  "fas-arrow-alt-circle-left": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-circle-left$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-circle-left"
+  },
+  "fas-arrow-alt-circle-right": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-circle-right$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-circle-right"
+  },
+  "fas-arrow-alt-circle-up": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-circle-up$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-circle-up"
+  },
+  "fas-arrow-alt-down": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-down$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-down"
+  },
+  "fas-arrow-alt-from-bottom": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-from-bottom$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-from-bottom"
+  },
+  "fas-arrow-alt-from-left": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-from-left$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-from-left"
+  },
+  "fas-arrow-alt-from-right": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-from-right$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-from-right"
+  },
+  "fas-arrow-alt-from-top": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-from-top$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-from-top"
+  },
+  "fas-arrow-alt-left": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-left$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-left"
+  },
+  "fas-arrow-alt-right": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-right$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-right"
+  },
+  "fas-arrow-alt-square-down": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-square-down$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-square-down"
+  },
+  "fas-arrow-alt-square-left": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-square-left$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-square-left"
+  },
+  "fas-arrow-alt-square-right": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-square-right$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-square-right"
+  },
+  "fas-arrow-alt-square-up": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-square-up$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-square-up"
+  },
+  "fas-arrow-alt-to-bottom": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-to-bottom$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-to-bottom"
+  },
+  "fas-arrow-alt-to-left": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-to-left$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-to-left"
+  },
+  "fas-arrow-alt-to-right": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-to-right$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-to-right"
+  },
+  "fas-arrow-alt-to-top": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-to-top$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-to-top"
+  },
+  "fas-arrow-alt-up": {
+    "body": "<${1:i} className=\"fas fa-arrow-alt-up$2\"></${1:i}>",
+    "prefix": "fas-arrow-alt-up"
+  },
+  "fas-arrow-circle-down": {
+    "body": "<${1:i} className=\"fas fa-arrow-circle-down$2\"></${1:i}>",
+    "prefix": "fas-arrow-circle-down"
+  },
+  "fas-arrow-circle-left": {
+    "body": "<${1:i} className=\"fas fa-arrow-circle-left$2\"></${1:i}>",
+    "prefix": "fas-arrow-circle-left"
+  },
+  "fas-arrow-circle-right": {
+    "body": "<${1:i} className=\"fas fa-arrow-circle-right$2\"></${1:i}>",
+    "prefix": "fas-arrow-circle-right"
+  },
+  "fas-arrow-circle-up": {
+    "body": "<${1:i} className=\"fas fa-arrow-circle-up$2\"></${1:i}>",
+    "prefix": "fas-arrow-circle-up"
+  },
+  "fas-arrow-down": {
+    "body": "<${1:i} className=\"fas fa-arrow-down$2\"></${1:i}>",
+    "prefix": "fas-arrow-down"
+  },
+  "fas-arrow-from-bottom": {
+    "body": "<${1:i} className=\"fas fa-arrow-from-bottom$2\"></${1:i}>",
+    "prefix": "fas-arrow-from-bottom"
+  },
+  "fas-arrow-from-left": {
+    "body": "<${1:i} className=\"fas fa-arrow-from-left$2\"></${1:i}>",
+    "prefix": "fas-arrow-from-left"
+  },
+  "fas-arrow-from-right": {
+    "body": "<${1:i} className=\"fas fa-arrow-from-right$2\"></${1:i}>",
+    "prefix": "fas-arrow-from-right"
+  },
+  "fas-arrow-from-top": {
+    "body": "<${1:i} className=\"fas fa-arrow-from-top$2\"></${1:i}>",
+    "prefix": "fas-arrow-from-top"
+  },
+  "fas-arrow-left": {
+    "body": "<${1:i} className=\"fas fa-arrow-left$2\"></${1:i}>",
+    "prefix": "fas-arrow-left"
+  },
+  "fas-arrow-right": {
+    "body": "<${1:i} className=\"fas fa-arrow-right$2\"></${1:i}>",
+    "prefix": "fas-arrow-right"
+  },
+  "fas-arrow-square-down": {
+    "body": "<${1:i} className=\"fas fa-arrow-square-down$2\"></${1:i}>",
+    "prefix": "fas-arrow-square-down"
+  },
+  "fas-arrow-square-left": {
+    "body": "<${1:i} className=\"fas fa-arrow-square-left$2\"></${1:i}>",
+    "prefix": "fas-arrow-square-left"
+  },
+  "fas-arrow-square-right": {
+    "body": "<${1:i} className=\"fas fa-arrow-square-right$2\"></${1:i}>",
+    "prefix": "fas-arrow-square-right"
+  },
+  "fas-arrow-square-up": {
+    "body": "<${1:i} className=\"fas fa-arrow-square-up$2\"></${1:i}>",
+    "prefix": "fas-arrow-square-up"
+  },
+  "fas-arrow-to-bottom": {
+    "body": "<${1:i} className=\"fas fa-arrow-to-bottom$2\"></${1:i}>",
+    "prefix": "fas-arrow-to-bottom"
+  },
+  "fas-arrow-to-left": {
+    "body": "<${1:i} className=\"fas fa-arrow-to-left$2\"></${1:i}>",
+    "prefix": "fas-arrow-to-left"
+  },
+  "fas-arrow-to-right": {
+    "body": "<${1:i} className=\"fas fa-arrow-to-right$2\"></${1:i}>",
+    "prefix": "fas-arrow-to-right"
+  },
+  "fas-arrow-to-top": {
+    "body": "<${1:i} className=\"fas fa-arrow-to-top$2\"></${1:i}>",
+    "prefix": "fas-arrow-to-top"
+  },
+  "fas-arrow-up": {
+    "body": "<${1:i} className=\"fas fa-arrow-up$2\"></${1:i}>",
+    "prefix": "fas-arrow-up"
+  },
+  "fas-arrows": {
+    "body": "<${1:i} className=\"fas fa-arrows$2\"></${1:i}>",
+    "prefix": "fas-arrows"
+  },
+  "fas-arrows-alt": {
+    "body": "<${1:i} className=\"fas fa-arrows-alt$2\"></${1:i}>",
+    "prefix": "fas-arrows-alt"
+  },
+  "fas-arrows-alt-h": {
+    "body": "<${1:i} className=\"fas fa-arrows-alt-h$2\"></${1:i}>",
+    "prefix": "fas-arrows-alt-h"
+  },
+  "fas-arrows-alt-v": {
+    "body": "<${1:i} className=\"fas fa-arrows-alt-v$2\"></${1:i}>",
+    "prefix": "fas-arrows-alt-v"
+  },
+  "fas-arrows-h": {
+    "body": "<${1:i} className=\"fas fa-arrows-h$2\"></${1:i}>",
+    "prefix": "fas-arrows-h"
+  },
+  "fas-arrows-v": {
+    "body": "<${1:i} className=\"fas fa-arrows-v$2\"></${1:i}>",
+    "prefix": "fas-arrows-v"
+  },
+  "fas-assistive-listening-systems": {
+    "body": "<${1:i} className=\"fas fa-assistive-listening-systems$2\"></${1:i}>",
+    "prefix": "fas-assistive-listening-systems"
+  },
+  "fas-asterisk": {
+    "body": "<${1:i} className=\"fas fa-asterisk$2\"></${1:i}>",
+    "prefix": "fas-asterisk"
+  },
+  "fas-at": {
+    "body": "<${1:i} className=\"fas fa-at$2\"></${1:i}>",
+    "prefix": "fas-at"
+  },
+  "fas-audio-description": {
+    "body": "<${1:i} className=\"fas fa-audio-description$2\"></${1:i}>",
+    "prefix": "fas-audio-description"
+  },
+  "fas-backward": {
+    "body": "<${1:i} className=\"fas fa-backward$2\"></${1:i}>",
+    "prefix": "fas-backward"
+  },
+  "fas-badge": {
+    "body": "<${1:i} className=\"fas fa-badge$2\"></${1:i}>",
+    "prefix": "fas-badge"
+  },
+  "fas-badge-check": {
+    "body": "<${1:i} className=\"fas fa-badge-check$2\"></${1:i}>",
+    "prefix": "fas-badge-check"
+  },
+  "fas-balance-scale": {
+    "body": "<${1:i} className=\"fas fa-balance-scale$2\"></${1:i}>",
+    "prefix": "fas-balance-scale"
+  },
+  "fas-ban": {
+    "body": "<${1:i} className=\"fas fa-ban$2\"></${1:i}>",
+    "prefix": "fas-ban"
+  },
+  "fas-barcode": {
+    "body": "<${1:i} className=\"fas fa-barcode$2\"></${1:i}>",
+    "prefix": "fas-barcode"
+  },
+  "fas-bars": {
+    "body": "<${1:i} className=\"fas fa-bars$2\"></${1:i}>",
+    "prefix": "fas-bars"
+  },
+  "fas-bath": {
+    "body": "<${1:i} className=\"fas fa-bath$2\"></${1:i}>",
+    "prefix": "fas-bath"
+  },
+  "fas-battery-bolt": {
+    "body": "<${1:i} className=\"fas fa-battery-bolt$2\"></${1:i}>",
+    "prefix": "fas-battery-bolt"
+  },
+  "fas-battery-empty": {
+    "body": "<${1:i} className=\"fas fa-battery-empty$2\"></${1:i}>",
+    "prefix": "fas-battery-empty"
+  },
+  "fas-battery-full": {
+    "body": "<${1:i} className=\"fas fa-battery-full$2\"></${1:i}>",
+    "prefix": "fas-battery-full"
+  },
+  "fas-battery-half": {
+    "body": "<${1:i} className=\"fas fa-battery-half$2\"></${1:i}>",
+    "prefix": "fas-battery-half"
+  },
+  "fas-battery-quarter": {
+    "body": "<${1:i} className=\"fas fa-battery-quarter$2\"></${1:i}>",
+    "prefix": "fas-battery-quarter"
+  },
+  "fas-battery-slash": {
+    "body": "<${1:i} className=\"fas fa-battery-slash$2\"></${1:i}>",
+    "prefix": "fas-battery-slash"
+  },
+  "fas-battery-three-quarters": {
+    "body": "<${1:i} className=\"fas fa-battery-three-quarters$2\"></${1:i}>",
+    "prefix": "fas-battery-three-quarters"
+  },
+  "fas-bed": {
+    "body": "<${1:i} className=\"fas fa-bed$2\"></${1:i}>",
+    "prefix": "fas-bed"
+  },
+  "fas-beer": {
+    "body": "<${1:i} className=\"fas fa-beer$2\"></${1:i}>",
+    "prefix": "fas-beer"
+  },
+  "fas-bell": {
+    "body": "<${1:i} className=\"fas fa-bell$2\"></${1:i}>",
+    "prefix": "fas-bell"
+  },
+  "fas-bell-slash": {
+    "body": "<${1:i} className=\"fas fa-bell-slash$2\"></${1:i}>",
+    "prefix": "fas-bell-slash"
+  },
+  "fas-bicycle": {
+    "body": "<${1:i} className=\"fas fa-bicycle$2\"></${1:i}>",
+    "prefix": "fas-bicycle"
+  },
+  "fas-binoculars": {
+    "body": "<${1:i} className=\"fas fa-binoculars$2\"></${1:i}>",
+    "prefix": "fas-binoculars"
+  },
+  "fas-birthday-cake": {
+    "body": "<${1:i} className=\"fas fa-birthday-cake$2\"></${1:i}>",
+    "prefix": "fas-birthday-cake"
+  },
+  "fas-blind": {
+    "body": "<${1:i} className=\"fas fa-blind$2\"></${1:i}>",
+    "prefix": "fas-blind"
+  },
+  "fas-bold": {
+    "body": "<${1:i} className=\"fas fa-bold$2\"></${1:i}>",
+    "prefix": "fas-bold"
+  },
+  "fas-bolt": {
+    "body": "<${1:i} className=\"fas fa-bolt$2\"></${1:i}>",
+    "prefix": "fas-bolt"
+  },
+  "fas-bomb": {
+    "body": "<${1:i} className=\"fas fa-bomb$2\"></${1:i}>",
+    "prefix": "fas-bomb"
+  },
+  "fas-book": {
+    "body": "<${1:i} className=\"fas fa-book$2\"></${1:i}>",
+    "prefix": "fas-book"
+  },
+  "fas-bookmark": {
+    "body": "<${1:i} className=\"fas fa-bookmark$2\"></${1:i}>",
+    "prefix": "fas-bookmark"
+  },
+  "fas-braille": {
+    "body": "<${1:i} className=\"fas fa-braille$2\"></${1:i}>",
+    "prefix": "fas-braille"
+  },
+  "fas-briefcase": {
+    "body": "<${1:i} className=\"fas fa-briefcase$2\"></${1:i}>",
+    "prefix": "fas-briefcase"
+  },
+  "fas-browser": {
+    "body": "<${1:i} className=\"fas fa-browser$2\"></${1:i}>",
+    "prefix": "fas-browser"
+  },
+  "fas-bug": {
+    "body": "<${1:i} className=\"fas fa-bug$2\"></${1:i}>",
+    "prefix": "fas-bug"
+  },
+  "fas-building": {
+    "body": "<${1:i} className=\"fas fa-building$2\"></${1:i}>",
+    "prefix": "fas-building"
+  },
+  "fas-bullhorn": {
+    "body": "<${1:i} className=\"fas fa-bullhorn$2\"></${1:i}>",
+    "prefix": "fas-bullhorn"
+  },
+  "fas-bullseye": {
+    "body": "<${1:i} className=\"fas fa-bullseye$2\"></${1:i}>",
+    "prefix": "fas-bullseye"
+  },
+  "fas-bus": {
+    "body": "<${1:i} className=\"fas fa-bus$2\"></${1:i}>",
+    "prefix": "fas-bus"
+  },
+  "fas-calculator": {
+    "body": "<${1:i} className=\"fas fa-calculator$2\"></${1:i}>",
+    "prefix": "fas-calculator"
+  },
+  "fas-calendar": {
+    "body": "<${1:i} className=\"fas fa-calendar$2\"></${1:i}>",
+    "prefix": "fas-calendar"
+  },
+  "fas-calendar-alt": {
+    "body": "<${1:i} className=\"fas fa-calendar-alt$2\"></${1:i}>",
+    "prefix": "fas-calendar-alt"
+  },
+  "fas-calendar-check": {
+    "body": "<${1:i} className=\"fas fa-calendar-check$2\"></${1:i}>",
+    "prefix": "fas-calendar-check"
+  },
+  "fas-calendar-edit": {
+    "body": "<${1:i} className=\"fas fa-calendar-edit$2\"></${1:i}>",
+    "prefix": "fas-calendar-edit"
+  },
+  "fas-calendar-exclamation": {
+    "body": "<${1:i} className=\"fas fa-calendar-exclamation$2\"></${1:i}>",
+    "prefix": "fas-calendar-exclamation"
+  },
+  "fas-calendar-minus": {
+    "body": "<${1:i} className=\"fas fa-calendar-minus$2\"></${1:i}>",
+    "prefix": "fas-calendar-minus"
+  },
+  "fas-calendar-plus": {
+    "body": "<${1:i} className=\"fas fa-calendar-plus$2\"></${1:i}>",
+    "prefix": "fas-calendar-plus"
+  },
+  "fas-calendar-times": {
+    "body": "<${1:i} className=\"fas fa-calendar-times$2\"></${1:i}>",
+    "prefix": "fas-calendar-times"
+  },
+  "fas-camera": {
+    "body": "<${1:i} className=\"fas fa-camera$2\"></${1:i}>",
+    "prefix": "fas-camera"
+  },
+  "fas-camera-alt": {
+    "body": "<${1:i} className=\"fas fa-camera-alt$2\"></${1:i}>",
+    "prefix": "fas-camera-alt"
+  },
+  "fas-camera-retro": {
+    "body": "<${1:i} className=\"fas fa-camera-retro$2\"></${1:i}>",
+    "prefix": "fas-camera-retro"
+  },
+  "fas-car": {
+    "body": "<${1:i} className=\"fas fa-car$2\"></${1:i}>",
+    "prefix": "fas-car"
+  },
+  "fas-caret-circle-down": {
+    "body": "<${1:i} className=\"fas fa-caret-circle-down$2\"></${1:i}>",
+    "prefix": "fas-caret-circle-down"
+  },
+  "fas-caret-circle-left": {
+    "body": "<${1:i} className=\"fas fa-caret-circle-left$2\"></${1:i}>",
+    "prefix": "fas-caret-circle-left"
+  },
+  "fas-caret-circle-right": {
+    "body": "<${1:i} className=\"fas fa-caret-circle-right$2\"></${1:i}>",
+    "prefix": "fas-caret-circle-right"
+  },
+  "fas-caret-circle-up": {
+    "body": "<${1:i} className=\"fas fa-caret-circle-up$2\"></${1:i}>",
+    "prefix": "fas-caret-circle-up"
+  },
+  "fas-caret-down": {
+    "body": "<${1:i} className=\"fas fa-caret-down$2\"></${1:i}>",
+    "prefix": "fas-caret-down"
+  },
+  "fas-caret-left": {
+    "body": "<${1:i} className=\"fas fa-caret-left$2\"></${1:i}>",
+    "prefix": "fas-caret-left"
+  },
+  "fas-caret-right": {
+    "body": "<${1:i} className=\"fas fa-caret-right$2\"></${1:i}>",
+    "prefix": "fas-caret-right"
+  },
+  "fas-caret-square-down": {
+    "body": "<${1:i} className=\"fas fa-caret-square-down$2\"></${1:i}>",
+    "prefix": "fas-caret-square-down"
+  },
+  "fas-caret-square-left": {
+    "body": "<${1:i} className=\"fas fa-caret-square-left$2\"></${1:i}>",
+    "prefix": "fas-caret-square-left"
+  },
+  "fas-caret-square-right": {
+    "body": "<${1:i} className=\"fas fa-caret-square-right$2\"></${1:i}>",
+    "prefix": "fas-caret-square-right"
+  },
+  "fas-caret-square-up": {
+    "body": "<${1:i} className=\"fas fa-caret-square-up$2\"></${1:i}>",
+    "prefix": "fas-caret-square-up"
+  },
+  "fas-caret-up": {
+    "body": "<${1:i} className=\"fas fa-caret-up$2\"></${1:i}>",
+    "prefix": "fas-caret-up"
+  },
+  "fas-cart-arrow-down": {
+    "body": "<${1:i} className=\"fas fa-cart-arrow-down$2\"></${1:i}>",
+    "prefix": "fas-cart-arrow-down"
+  },
+  "fas-cart-plus": {
+    "body": "<${1:i} className=\"fas fa-cart-plus$2\"></${1:i}>",
+    "prefix": "fas-cart-plus"
+  },
+  "fas-certificate": {
+    "body": "<${1:i} className=\"fas fa-certificate$2\"></${1:i}>",
+    "prefix": "fas-certificate"
+  },
+  "fas-chart-area": {
+    "body": "<${1:i} className=\"fas fa-chart-area$2\"></${1:i}>",
+    "prefix": "fas-chart-area"
+  },
+  "fas-chart-bar": {
+    "body": "<${1:i} className=\"fas fa-chart-bar$2\"></${1:i}>",
+    "prefix": "fas-chart-bar"
+  },
+  "fas-chart-line": {
+    "body": "<${1:i} className=\"fas fa-chart-line$2\"></${1:i}>",
+    "prefix": "fas-chart-line"
+  },
+  "fas-chart-pie": {
+    "body": "<${1:i} className=\"fas fa-chart-pie$2\"></${1:i}>",
+    "prefix": "fas-chart-pie"
+  },
+  "fas-check": {
+    "body": "<${1:i} className=\"fas fa-check$2\"></${1:i}>",
+    "prefix": "fas-check"
+  },
+  "fas-check-circle": {
+    "body": "<${1:i} className=\"fas fa-check-circle$2\"></${1:i}>",
+    "prefix": "fas-check-circle"
+  },
+  "fas-check-square": {
+    "body": "<${1:i} className=\"fas fa-check-square$2\"></${1:i}>",
+    "prefix": "fas-check-square"
+  },
+  "fas-chevron-circle-down": {
+    "body": "<${1:i} className=\"fas fa-chevron-circle-down$2\"></${1:i}>",
+    "prefix": "fas-chevron-circle-down"
+  },
+  "fas-chevron-circle-left": {
+    "body": "<${1:i} className=\"fas fa-chevron-circle-left$2\"></${1:i}>",
+    "prefix": "fas-chevron-circle-left"
+  },
+  "fas-chevron-circle-right": {
+    "body": "<${1:i} className=\"fas fa-chevron-circle-right$2\"></${1:i}>",
+    "prefix": "fas-chevron-circle-right"
+  },
+  "fas-chevron-circle-up": {
+    "body": "<${1:i} className=\"fas fa-chevron-circle-up$2\"></${1:i}>",
+    "prefix": "fas-chevron-circle-up"
+  },
+  "fas-chevron-double-down": {
+    "body": "<${1:i} className=\"fas fa-chevron-double-down$2\"></${1:i}>",
+    "prefix": "fas-chevron-double-down"
+  },
+  "fas-chevron-double-left": {
+    "body": "<${1:i} className=\"fas fa-chevron-double-left$2\"></${1:i}>",
+    "prefix": "fas-chevron-double-left"
+  },
+  "fas-chevron-double-right": {
+    "body": "<${1:i} className=\"fas fa-chevron-double-right$2\"></${1:i}>",
+    "prefix": "fas-chevron-double-right"
+  },
+  "fas-chevron-double-up": {
+    "body": "<${1:i} className=\"fas fa-chevron-double-up$2\"></${1:i}>",
+    "prefix": "fas-chevron-double-up"
+  },
+  "fas-chevron-down": {
+    "body": "<${1:i} className=\"fas fa-chevron-down$2\"></${1:i}>",
+    "prefix": "fas-chevron-down"
+  },
+  "fas-chevron-left": {
+    "body": "<${1:i} className=\"fas fa-chevron-left$2\"></${1:i}>",
+    "prefix": "fas-chevron-left"
+  },
+  "fas-chevron-right": {
+    "body": "<${1:i} className=\"fas fa-chevron-right$2\"></${1:i}>",
+    "prefix": "fas-chevron-right"
+  },
+  "fas-chevron-square-down": {
+    "body": "<${1:i} className=\"fas fa-chevron-square-down$2\"></${1:i}>",
+    "prefix": "fas-chevron-square-down"
+  },
+  "fas-chevron-square-left": {
+    "body": "<${1:i} className=\"fas fa-chevron-square-left$2\"></${1:i}>",
+    "prefix": "fas-chevron-square-left"
+  },
+  "fas-chevron-square-right": {
+    "body": "<${1:i} className=\"fas fa-chevron-square-right$2\"></${1:i}>",
+    "prefix": "fas-chevron-square-right"
+  },
+  "fas-chevron-square-up": {
+    "body": "<${1:i} className=\"fas fa-chevron-square-up$2\"></${1:i}>",
+    "prefix": "fas-chevron-square-up"
+  },
+  "fas-chevron-up": {
+    "body": "<${1:i} className=\"fas fa-chevron-up$2\"></${1:i}>",
+    "prefix": "fas-chevron-up"
+  },
+  "fas-child": {
+    "body": "<${1:i} className=\"fas fa-child$2\"></${1:i}>",
+    "prefix": "fas-child"
+  },
+  "fas-circle": {
+    "body": "<${1:i} className=\"fas fa-circle$2\"></${1:i}>",
+    "prefix": "fas-circle"
+  },
+  "fas-circle-notch": {
+    "body": "<${1:i} className=\"fas fa-circle-notch$2\"></${1:i}>",
+    "prefix": "fas-circle-notch"
+  },
+  "fas-clipboard": {
+    "body": "<${1:i} className=\"fas fa-clipboard$2\"></${1:i}>",
+    "prefix": "fas-clipboard"
+  },
+  "fas-clock": {
+    "body": "<${1:i} className=\"fas fa-clock$2\"></${1:i}>",
+    "prefix": "fas-clock"
+  },
+  "fas-clone": {
+    "body": "<${1:i} className=\"fas fa-clone$2\"></${1:i}>",
+    "prefix": "fas-clone"
+  },
+  "fas-closed-captioning": {
+    "body": "<${1:i} className=\"fas fa-closed-captioning$2\"></${1:i}>",
+    "prefix": "fas-closed-captioning"
+  },
+  "fas-cloud": {
+    "body": "<${1:i} className=\"fas fa-cloud$2\"></${1:i}>",
+    "prefix": "fas-cloud"
+  },
+  "fas-cloud-download": {
+    "body": "<${1:i} className=\"fas fa-cloud-download$2\"></${1:i}>",
+    "prefix": "fas-cloud-download"
+  },
+  "fas-cloud-download-alt": {
+    "body": "<${1:i} className=\"fas fa-cloud-download-alt$2\"></${1:i}>",
+    "prefix": "fas-cloud-download-alt"
+  },
+  "fas-cloud-upload": {
+    "body": "<${1:i} className=\"fas fa-cloud-upload$2\"></${1:i}>",
+    "prefix": "fas-cloud-upload"
+  },
+  "fas-cloud-upload-alt": {
+    "body": "<${1:i} className=\"fas fa-cloud-upload-alt$2\"></${1:i}>",
+    "prefix": "fas-cloud-upload-alt"
+  },
+  "fas-club": {
+    "body": "<${1:i} className=\"fas fa-club$2\"></${1:i}>",
+    "prefix": "fas-club"
+  },
+  "fas-code": {
+    "body": "<${1:i} className=\"fas fa-code$2\"></${1:i}>",
+    "prefix": "fas-code"
+  },
+  "fas-code-branch": {
+    "body": "<${1:i} className=\"fas fa-code-branch$2\"></${1:i}>",
+    "prefix": "fas-code-branch"
+  },
+  "fas-code-commit": {
+    "body": "<${1:i} className=\"fas fa-code-commit$2\"></${1:i}>",
+    "prefix": "fas-code-commit"
+  },
+  "fas-code-merge": {
+    "body": "<${1:i} className=\"fas fa-code-merge$2\"></${1:i}>",
+    "prefix": "fas-code-merge"
+  },
+  "fas-coffee": {
+    "body": "<${1:i} className=\"fas fa-coffee$2\"></${1:i}>",
+    "prefix": "fas-coffee"
+  },
+  "fas-cog": {
+    "body": "<${1:i} className=\"fas fa-cog$2\"></${1:i}>",
+    "prefix": "fas-cog"
+  },
+  "fas-cogs": {
+    "body": "<${1:i} className=\"fas fa-cogs$2\"></${1:i}>",
+    "prefix": "fas-cogs"
+  },
+  "fas-columns": {
+    "body": "<${1:i} className=\"fas fa-columns$2\"></${1:i}>",
+    "prefix": "fas-columns"
+  },
+  "fas-comment": {
+    "body": "<${1:i} className=\"fas fa-comment$2\"></${1:i}>",
+    "prefix": "fas-comment"
+  },
+  "fas-comment-alt": {
+    "body": "<${1:i} className=\"fas fa-comment-alt$2\"></${1:i}>",
+    "prefix": "fas-comment-alt"
+  },
+  "fas-comments": {
+    "body": "<${1:i} className=\"fas fa-comments$2\"></${1:i}>",
+    "prefix": "fas-comments"
+  },
+  "fas-compass": {
+    "body": "<${1:i} className=\"fas fa-compass$2\"></${1:i}>",
+    "prefix": "fas-compass"
+  },
+  "fas-compress": {
+    "body": "<${1:i} className=\"fas fa-compress$2\"></${1:i}>",
+    "prefix": "fas-compress"
+  },
+  "fas-compress-alt": {
+    "body": "<${1:i} className=\"fas fa-compress-alt$2\"></${1:i}>",
+    "prefix": "fas-compress-alt"
+  },
+  "fas-compress-wide": {
+    "body": "<${1:i} className=\"fas fa-compress-wide$2\"></${1:i}>",
+    "prefix": "fas-compress-wide"
+  },
+  "fas-copy": {
+    "body": "<${1:i} className=\"fas fa-copy$2\"></${1:i}>",
+    "prefix": "fas-copy"
+  },
+  "fas-copyright": {
+    "body": "<${1:i} className=\"fas fa-copyright$2\"></${1:i}>",
+    "prefix": "fas-copyright"
+  },
+  "fas-credit-card": {
+    "body": "<${1:i} className=\"fas fa-credit-card$2\"></${1:i}>",
+    "prefix": "fas-credit-card"
+  },
+  "fas-credit-card-blank": {
+    "body": "<${1:i} className=\"fas fa-credit-card-blank$2\"></${1:i}>",
+    "prefix": "fas-credit-card-blank"
+  },
+  "fas-credit-card-front": {
+    "body": "<${1:i} className=\"fas fa-credit-card-front$2\"></${1:i}>",
+    "prefix": "fas-credit-card-front"
+  },
+  "fas-crop": {
+    "body": "<${1:i} className=\"fas fa-crop$2\"></${1:i}>",
+    "prefix": "fas-crop"
+  },
+  "fas-crosshairs": {
+    "body": "<${1:i} className=\"fas fa-crosshairs$2\"></${1:i}>",
+    "prefix": "fas-crosshairs"
+  },
+  "fas-cube": {
+    "body": "<${1:i} className=\"fas fa-cube$2\"></${1:i}>",
+    "prefix": "fas-cube"
+  },
+  "fas-cubes": {
+    "body": "<${1:i} className=\"fas fa-cubes$2\"></${1:i}>",
+    "prefix": "fas-cubes"
+  },
+  "fas-cut": {
+    "body": "<${1:i} className=\"fas fa-cut$2\"></${1:i}>",
+    "prefix": "fas-cut"
+  },
+  "fas-database": {
+    "body": "<${1:i} className=\"fas fa-database$2\"></${1:i}>",
+    "prefix": "fas-database"
+  },
+  "fas-deaf": {
+    "body": "<${1:i} className=\"fas fa-deaf$2\"></${1:i}>",
+    "prefix": "fas-deaf"
+  },
+  "fas-desktop": {
+    "body": "<${1:i} className=\"fas fa-desktop$2\"></${1:i}>",
+    "prefix": "fas-desktop"
+  },
+  "fas-desktop-alt": {
+    "body": "<${1:i} className=\"fas fa-desktop-alt$2\"></${1:i}>",
+    "prefix": "fas-desktop-alt"
+  },
+  "fas-diamond": {
+    "body": "<${1:i} className=\"fas fa-diamond$2\"></${1:i}>",
+    "prefix": "fas-diamond"
+  },
+  "fas-dollar-sign": {
+    "body": "<${1:i} className=\"fas fa-dollar-sign$2\"></${1:i}>",
+    "prefix": "fas-dollar-sign"
+  },
+  "fas-dot-circle": {
+    "body": "<${1:i} className=\"fas fa-dot-circle$2\"></${1:i}>",
+    "prefix": "fas-dot-circle"
+  },
+  "fas-download": {
+    "body": "<${1:i} className=\"fas fa-download$2\"></${1:i}>",
+    "prefix": "fas-download"
+  },
+  "fas-edit": {
+    "body": "<${1:i} className=\"fas fa-edit$2\"></${1:i}>",
+    "prefix": "fas-edit"
+  },
+  "fas-eject": {
+    "body": "<${1:i} className=\"fas fa-eject$2\"></${1:i}>",
+    "prefix": "fas-eject"
+  },
+  "fas-ellipsis-h": {
+    "body": "<${1:i} className=\"fas fa-ellipsis-h$2\"></${1:i}>",
+    "prefix": "fas-ellipsis-h"
+  },
+  "fas-ellipsis-h-alt": {
+    "body": "<${1:i} className=\"fas fa-ellipsis-h-alt$2\"></${1:i}>",
+    "prefix": "fas-ellipsis-h-alt"
+  },
+  "fas-ellipsis-v": {
+    "body": "<${1:i} className=\"fas fa-ellipsis-v$2\"></${1:i}>",
+    "prefix": "fas-ellipsis-v"
+  },
+  "fas-ellipsis-v-alt": {
+    "body": "<${1:i} className=\"fas fa-ellipsis-v-alt$2\"></${1:i}>",
+    "prefix": "fas-ellipsis-v-alt"
+  },
+  "fas-envelope": {
+    "body": "<${1:i} className=\"fas fa-envelope$2\"></${1:i}>",
+    "prefix": "fas-envelope"
+  },
+  "fas-envelope-open": {
+    "body": "<${1:i} className=\"fas fa-envelope-open$2\"></${1:i}>",
+    "prefix": "fas-envelope-open"
+  },
+  "fas-envelope-square": {
+    "body": "<${1:i} className=\"fas fa-envelope-square$2\"></${1:i}>",
+    "prefix": "fas-envelope-square"
+  },
+  "fas-eraser": {
+    "body": "<${1:i} className=\"fas fa-eraser$2\"></${1:i}>",
+    "prefix": "fas-eraser"
+  },
+  "fas-euro-sign": {
+    "body": "<${1:i} className=\"fas fa-euro-sign$2\"></${1:i}>",
+    "prefix": "fas-euro-sign"
+  },
+  "fas-exchange": {
+    "body": "<${1:i} className=\"fas fa-exchange$2\"></${1:i}>",
+    "prefix": "fas-exchange"
+  },
+  "fas-exchange-alt": {
+    "body": "<${1:i} className=\"fas fa-exchange-alt$2\"></${1:i}>",
+    "prefix": "fas-exchange-alt"
+  },
+  "fas-exclamation": {
+    "body": "<${1:i} className=\"fas fa-exclamation$2\"></${1:i}>",
+    "prefix": "fas-exclamation"
+  },
+  "fas-exclamation-circle": {
+    "body": "<${1:i} className=\"fas fa-exclamation-circle$2\"></${1:i}>",
+    "prefix": "fas-exclamation-circle"
+  },
+  "fas-exclamation-square": {
+    "body": "<${1:i} className=\"fas fa-exclamation-square$2\"></${1:i}>",
+    "prefix": "fas-exclamation-square"
+  },
+  "fas-exclamation-triangle": {
+    "body": "<${1:i} className=\"fas fa-exclamation-triangle$2\"></${1:i}>",
+    "prefix": "fas-exclamation-triangle"
+  },
+  "fas-expand": {
+    "body": "<${1:i} className=\"fas fa-expand$2\"></${1:i}>",
+    "prefix": "fas-expand"
+  },
+  "fas-expand-alt": {
+    "body": "<${1:i} className=\"fas fa-expand-alt$2\"></${1:i}>",
+    "prefix": "fas-expand-alt"
+  },
+  "fas-expand-arrows": {
+    "body": "<${1:i} className=\"fas fa-expand-arrows$2\"></${1:i}>",
+    "prefix": "fas-expand-arrows"
+  },
+  "fas-expand-arrows-alt": {
+    "body": "<${1:i} className=\"fas fa-expand-arrows-alt$2\"></${1:i}>",
+    "prefix": "fas-expand-arrows-alt"
+  },
+  "fas-expand-wide": {
+    "body": "<${1:i} className=\"fas fa-expand-wide$2\"></${1:i}>",
+    "prefix": "fas-expand-wide"
+  },
+  "fas-external-link": {
+    "body": "<${1:i} className=\"fas fa-external-link$2\"></${1:i}>",
+    "prefix": "fas-external-link"
+  },
+  "fas-external-link-alt": {
+    "body": "<${1:i} className=\"fas fa-external-link-alt$2\"></${1:i}>",
+    "prefix": "fas-external-link-alt"
+  },
+  "fas-external-link-square": {
+    "body": "<${1:i} className=\"fas fa-external-link-square$2\"></${1:i}>",
+    "prefix": "fas-external-link-square"
+  },
+  "fas-external-link-square-alt": {
+    "body": "<${1:i} className=\"fas fa-external-link-square-alt$2\"></${1:i}>",
+    "prefix": "fas-external-link-square-alt"
+  },
+  "fas-eye": {
+    "body": "<${1:i} className=\"fas fa-eye$2\"></${1:i}>",
+    "prefix": "fas-eye"
+  },
+  "fas-eye-dropper": {
+    "body": "<${1:i} className=\"fas fa-eye-dropper$2\"></${1:i}>",
+    "prefix": "fas-eye-dropper"
+  },
+  "fas-eye-slash": {
+    "body": "<${1:i} className=\"fas fa-eye-slash$2\"></${1:i}>",
+    "prefix": "fas-eye-slash"
+  },
+  "fas-fast-backward": {
+    "body": "<${1:i} className=\"fas fa-fast-backward$2\"></${1:i}>",
+    "prefix": "fas-fast-backward"
+  },
+  "fas-fast-forward": {
+    "body": "<${1:i} className=\"fas fa-fast-forward$2\"></${1:i}>",
+    "prefix": "fas-fast-forward"
+  },
+  "fas-fax": {
+    "body": "<${1:i} className=\"fas fa-fax$2\"></${1:i}>",
+    "prefix": "fas-fax"
+  },
+  "fas-female": {
+    "body": "<${1:i} className=\"fas fa-female$2\"></${1:i}>",
+    "prefix": "fas-female"
+  },
+  "fas-fighter-jet": {
+    "body": "<${1:i} className=\"fas fa-fighter-jet$2\"></${1:i}>",
+    "prefix": "fas-fighter-jet"
+  },
+  "fas-file": {
+    "body": "<${1:i} className=\"fas fa-file$2\"></${1:i}>",
+    "prefix": "fas-file"
+  },
+  "fas-file-alt": {
+    "body": "<${1:i} className=\"fas fa-file-alt$2\"></${1:i}>",
+    "prefix": "fas-file-alt"
+  },
+  "fas-file-archive": {
+    "body": "<${1:i} className=\"fas fa-file-archive$2\"></${1:i}>",
+    "prefix": "fas-file-archive"
+  },
+  "fas-file-audio": {
+    "body": "<${1:i} className=\"fas fa-file-audio$2\"></${1:i}>",
+    "prefix": "fas-file-audio"
+  },
+  "fas-file-check": {
+    "body": "<${1:i} className=\"fas fa-file-check$2\"></${1:i}>",
+    "prefix": "fas-file-check"
+  },
+  "fas-file-code": {
+    "body": "<${1:i} className=\"fas fa-file-code$2\"></${1:i}>",
+    "prefix": "fas-file-code"
+  },
+  "fas-file-edit": {
+    "body": "<${1:i} className=\"fas fa-file-edit$2\"></${1:i}>",
+    "prefix": "fas-file-edit"
+  },
+  "fas-file-excel": {
+    "body": "<${1:i} className=\"fas fa-file-excel$2\"></${1:i}>",
+    "prefix": "fas-file-excel"
+  },
+  "fas-file-exclamation": {
+    "body": "<${1:i} className=\"fas fa-file-exclamation$2\"></${1:i}>",
+    "prefix": "fas-file-exclamation"
+  },
+  "fas-file-image": {
+    "body": "<${1:i} className=\"fas fa-file-image$2\"></${1:i}>",
+    "prefix": "fas-file-image"
+  },
+  "fas-file-minus": {
+    "body": "<${1:i} className=\"fas fa-file-minus$2\"></${1:i}>",
+    "prefix": "fas-file-minus"
+  },
+  "fas-file-pdf": {
+    "body": "<${1:i} className=\"fas fa-file-pdf$2\"></${1:i}>",
+    "prefix": "fas-file-pdf"
+  },
+  "fas-file-plus": {
+    "body": "<${1:i} className=\"fas fa-file-plus$2\"></${1:i}>",
+    "prefix": "fas-file-plus"
+  },
+  "fas-file-powerpoint": {
+    "body": "<${1:i} className=\"fas fa-file-powerpoint$2\"></${1:i}>",
+    "prefix": "fas-file-powerpoint"
+  },
+  "fas-file-times": {
+    "body": "<${1:i} className=\"fas fa-file-times$2\"></${1:i}>",
+    "prefix": "fas-file-times"
+  },
+  "fas-file-video": {
+    "body": "<${1:i} className=\"fas fa-file-video$2\"></${1:i}>",
+    "prefix": "fas-file-video"
+  },
+  "fas-file-word": {
+    "body": "<${1:i} className=\"fas fa-file-word$2\"></${1:i}>",
+    "prefix": "fas-file-word"
+  },
+  "fas-film": {
+    "body": "<${1:i} className=\"fas fa-film$2\"></${1:i}>",
+    "prefix": "fas-film"
+  },
+  "fas-film-alt": {
+    "body": "<${1:i} className=\"fas fa-film-alt$2\"></${1:i}>",
+    "prefix": "fas-film-alt"
+  },
+  "fas-filter": {
+    "body": "<${1:i} className=\"fas fa-filter$2\"></${1:i}>",
+    "prefix": "fas-filter"
+  },
+  "fas-fire": {
+    "body": "<${1:i} className=\"fas fa-fire$2\"></${1:i}>",
+    "prefix": "fas-fire"
+  },
+  "fas-fire-extinguisher": {
+    "body": "<${1:i} className=\"fas fa-fire-extinguisher$2\"></${1:i}>",
+    "prefix": "fas-fire-extinguisher"
+  },
+  "fas-flag": {
+    "body": "<${1:i} className=\"fas fa-flag$2\"></${1:i}>",
+    "prefix": "fas-flag"
+  },
+  "fas-flag-checkered": {
+    "body": "<${1:i} className=\"fas fa-flag-checkered$2\"></${1:i}>",
+    "prefix": "fas-flag-checkered"
+  },
+  "fas-flask": {
+    "body": "<${1:i} className=\"fas fa-flask$2\"></${1:i}>",
+    "prefix": "fas-flask"
+  },
+  "fas-folder": {
+    "body": "<${1:i} className=\"fas fa-folder$2\"></${1:i}>",
+    "prefix": "fas-folder"
+  },
+  "fas-folder-open": {
+    "body": "<${1:i} className=\"fas fa-folder-open$2\"></${1:i}>",
+    "prefix": "fas-folder-open"
+  },
+  "fas-font": {
+    "body": "<${1:i} className=\"fas fa-font$2\"></${1:i}>",
+    "prefix": "fas-font"
+  },
+  "fas-forward": {
+    "body": "<${1:i} className=\"fas fa-forward$2\"></${1:i}>",
+    "prefix": "fas-forward"
+  },
+  "fas-frown": {
+    "body": "<${1:i} className=\"fas fa-frown$2\"></${1:i}>",
+    "prefix": "fas-frown"
+  },
+  "fas-futbol": {
+    "body": "<${1:i} className=\"fas fa-futbol$2\"></${1:i}>",
+    "prefix": "fas-futbol"
+  },
+  "fas-gamepad": {
+    "body": "<${1:i} className=\"fas fa-gamepad$2\"></${1:i}>",
+    "prefix": "fas-gamepad"
+  },
+  "fas-gavel": {
+    "body": "<${1:i} className=\"fas fa-gavel$2\"></${1:i}>",
+    "prefix": "fas-gavel"
+  },
+  "fas-gem": {
+    "body": "<${1:i} className=\"fas fa-gem$2\"></${1:i}>",
+    "prefix": "fas-gem"
+  },
+  "fas-genderless": {
+    "body": "<${1:i} className=\"fas fa-genderless$2\"></${1:i}>",
+    "prefix": "fas-genderless"
+  },
+  "fas-gift": {
+    "body": "<${1:i} className=\"fas fa-gift$2\"></${1:i}>",
+    "prefix": "fas-gift"
+  },
+  "fas-glass-martini": {
+    "body": "<${1:i} className=\"fas fa-glass-martini$2\"></${1:i}>",
+    "prefix": "fas-glass-martini"
+  },
+  "fas-globe": {
+    "body": "<${1:i} className=\"fas fa-globe$2\"></${1:i}>",
+    "prefix": "fas-globe"
+  },
+  "fas-graduation-cap": {
+    "body": "<${1:i} className=\"fas fa-graduation-cap$2\"></${1:i}>",
+    "prefix": "fas-graduation-cap"
+  },
+  "fas-h-square": {
+    "body": "<${1:i} className=\"fas fa-h-square$2\"></${1:i}>",
+    "prefix": "fas-h-square"
+  },
+  "fas-h1": {
+    "body": "<${1:i} className=\"fas fa-h1$2\"></${1:i}>",
+    "prefix": "fas-h1"
+  },
+  "fas-h2": {
+    "body": "<${1:i} className=\"fas fa-h2$2\"></${1:i}>",
+    "prefix": "fas-h2"
+  },
+  "fas-h3": {
+    "body": "<${1:i} className=\"fas fa-h3$2\"></${1:i}>",
+    "prefix": "fas-h3"
+  },
+  "fas-hand-lizard": {
+    "body": "<${1:i} className=\"fas fa-hand-lizard$2\"></${1:i}>",
+    "prefix": "fas-hand-lizard"
+  },
+  "fas-hand-paper": {
+    "body": "<${1:i} className=\"fas fa-hand-paper$2\"></${1:i}>",
+    "prefix": "fas-hand-paper"
+  },
+  "fas-hand-peace": {
+    "body": "<${1:i} className=\"fas fa-hand-peace$2\"></${1:i}>",
+    "prefix": "fas-hand-peace"
+  },
+  "fas-hand-point-down": {
+    "body": "<${1:i} className=\"fas fa-hand-point-down$2\"></${1:i}>",
+    "prefix": "fas-hand-point-down"
+  },
+  "fas-hand-point-left": {
+    "body": "<${1:i} className=\"fas fa-hand-point-left$2\"></${1:i}>",
+    "prefix": "fas-hand-point-left"
+  },
+  "fas-hand-point-right": {
+    "body": "<${1:i} className=\"fas fa-hand-point-right$2\"></${1:i}>",
+    "prefix": "fas-hand-point-right"
+  },
+  "fas-hand-point-up": {
+    "body": "<${1:i} className=\"fas fa-hand-point-up$2\"></${1:i}>",
+    "prefix": "fas-hand-point-up"
+  },
+  "fas-hand-pointer": {
+    "body": "<${1:i} className=\"fas fa-hand-pointer$2\"></${1:i}>",
+    "prefix": "fas-hand-pointer"
+  },
+  "fas-hand-rock": {
+    "body": "<${1:i} className=\"fas fa-hand-rock$2\"></${1:i}>",
+    "prefix": "fas-hand-rock"
+  },
+  "fas-hand-scissors": {
+    "body": "<${1:i} className=\"fas fa-hand-scissors$2\"></${1:i}>",
+    "prefix": "fas-hand-scissors"
+  },
+  "fas-hand-spock": {
+    "body": "<${1:i} className=\"fas fa-hand-spock$2\"></${1:i}>",
+    "prefix": "fas-hand-spock"
+  },
+  "fas-handshake": {
+    "body": "<${1:i} className=\"fas fa-handshake$2\"></${1:i}>",
+    "prefix": "fas-handshake"
+  },
+  "fas-hashtag": {
+    "body": "<${1:i} className=\"fas fa-hashtag$2\"></${1:i}>",
+    "prefix": "fas-hashtag"
+  },
+  "fas-hdd": {
+    "body": "<${1:i} className=\"fas fa-hdd$2\"></${1:i}>",
+    "prefix": "fas-hdd"
+  },
+  "fas-heading": {
+    "body": "<${1:i} className=\"fas fa-heading$2\"></${1:i}>",
+    "prefix": "fas-heading"
+  },
+  "fas-headphones": {
+    "body": "<${1:i} className=\"fas fa-headphones$2\"></${1:i}>",
+    "prefix": "fas-headphones"
+  },
+  "fas-heart": {
+    "body": "<${1:i} className=\"fas fa-heart$2\"></${1:i}>",
+    "prefix": "fas-heart"
+  },
+  "fas-heartbeat": {
+    "body": "<${1:i} className=\"fas fa-heartbeat$2\"></${1:i}>",
+    "prefix": "fas-heartbeat"
+  },
+  "fas-hexagon": {
+    "body": "<${1:i} className=\"fas fa-hexagon$2\"></${1:i}>",
+    "prefix": "fas-hexagon"
+  },
+  "fas-history": {
+    "body": "<${1:i} className=\"fas fa-history$2\"></${1:i}>",
+    "prefix": "fas-history"
+  },
+  "fas-home": {
+    "body": "<${1:i} className=\"fas fa-home$2\"></${1:i}>",
+    "prefix": "fas-home"
+  },
+  "fas-hospital": {
+    "body": "<${1:i} className=\"fas fa-hospital$2\"></${1:i}>",
+    "prefix": "fas-hospital"
+  },
+  "fas-hourglass": {
+    "body": "<${1:i} className=\"fas fa-hourglass$2\"></${1:i}>",
+    "prefix": "fas-hourglass"
+  },
+  "fas-hourglass-end": {
+    "body": "<${1:i} className=\"fas fa-hourglass-end$2\"></${1:i}>",
+    "prefix": "fas-hourglass-end"
+  },
+  "fas-hourglass-half": {
+    "body": "<${1:i} className=\"fas fa-hourglass-half$2\"></${1:i}>",
+    "prefix": "fas-hourglass-half"
+  },
+  "fas-hourglass-start": {
+    "body": "<${1:i} className=\"fas fa-hourglass-start$2\"></${1:i}>",
+    "prefix": "fas-hourglass-start"
+  },
+  "fas-i-cursor": {
+    "body": "<${1:i} className=\"fas fa-i-cursor$2\"></${1:i}>",
+    "prefix": "fas-i-cursor"
+  },
+  "fas-id-badge": {
+    "body": "<${1:i} className=\"fas fa-id-badge$2\"></${1:i}>",
+    "prefix": "fas-id-badge"
+  },
+  "fas-id-card": {
+    "body": "<${1:i} className=\"fas fa-id-card$2\"></${1:i}>",
+    "prefix": "fas-id-card"
+  },
+  "fas-image": {
+    "body": "<${1:i} className=\"fas fa-image$2\"></${1:i}>",
+    "prefix": "fas-image"
+  },
+  "fas-images": {
+    "body": "<${1:i} className=\"fas fa-images$2\"></${1:i}>",
+    "prefix": "fas-images"
+  },
+  "fas-inbox": {
+    "body": "<${1:i} className=\"fas fa-inbox$2\"></${1:i}>",
+    "prefix": "fas-inbox"
+  },
+  "fas-inbox-in": {
+    "body": "<${1:i} className=\"fas fa-inbox-in$2\"></${1:i}>",
+    "prefix": "fas-inbox-in"
+  },
+  "fas-inbox-out": {
+    "body": "<${1:i} className=\"fas fa-inbox-out$2\"></${1:i}>",
+    "prefix": "fas-inbox-out"
+  },
+  "fas-indent": {
+    "body": "<${1:i} className=\"fas fa-indent$2\"></${1:i}>",
+    "prefix": "fas-indent"
+  },
+  "fas-industry": {
+    "body": "<${1:i} className=\"fas fa-industry$2\"></${1:i}>",
+    "prefix": "fas-industry"
+  },
+  "fas-industry-alt": {
+    "body": "<${1:i} className=\"fas fa-industry-alt$2\"></${1:i}>",
+    "prefix": "fas-industry-alt"
+  },
+  "fas-info": {
+    "body": "<${1:i} className=\"fas fa-info$2\"></${1:i}>",
+    "prefix": "fas-info"
+  },
+  "fas-info-circle": {
+    "body": "<${1:i} className=\"fas fa-info-circle$2\"></${1:i}>",
+    "prefix": "fas-info-circle"
+  },
+  "fas-info-square": {
+    "body": "<${1:i} className=\"fas fa-info-square$2\"></${1:i}>",
+    "prefix": "fas-info-square"
+  },
+  "fas-italic": {
+    "body": "<${1:i} className=\"fas fa-italic$2\"></${1:i}>",
+    "prefix": "fas-italic"
+  },
+  "fas-jack-o-lantern": {
+    "body": "<${1:i} className=\"fas fa-jack-o-lantern$2\"></${1:i}>",
+    "prefix": "fas-jack-o-lantern"
+  },
+  "fas-key": {
+    "body": "<${1:i} className=\"fas fa-key$2\"></${1:i}>",
+    "prefix": "fas-key"
+  },
+  "fas-keyboard": {
+    "body": "<${1:i} className=\"fas fa-keyboard$2\"></${1:i}>",
+    "prefix": "fas-keyboard"
+  },
+  "fas-language": {
+    "body": "<${1:i} className=\"fas fa-language$2\"></${1:i}>",
+    "prefix": "fas-language"
+  },
+  "fas-laptop": {
+    "body": "<${1:i} className=\"fas fa-laptop$2\"></${1:i}>",
+    "prefix": "fas-laptop"
+  },
+  "fas-leaf": {
+    "body": "<${1:i} className=\"fas fa-leaf$2\"></${1:i}>",
+    "prefix": "fas-leaf"
+  },
+  "fas-lemon": {
+    "body": "<${1:i} className=\"fas fa-lemon$2\"></${1:i}>",
+    "prefix": "fas-lemon"
+  },
+  "fas-level-down": {
+    "body": "<${1:i} className=\"fas fa-level-down$2\"></${1:i}>",
+    "prefix": "fas-level-down"
+  },
+  "fas-level-down-alt": {
+    "body": "<${1:i} className=\"fas fa-level-down-alt$2\"></${1:i}>",
+    "prefix": "fas-level-down-alt"
+  },
+  "fas-level-up": {
+    "body": "<${1:i} className=\"fas fa-level-up$2\"></${1:i}>",
+    "prefix": "fas-level-up"
+  },
+  "fas-level-up-alt": {
+    "body": "<${1:i} className=\"fas fa-level-up-alt$2\"></${1:i}>",
+    "prefix": "fas-level-up-alt"
+  },
+  "fas-life-ring": {
+    "body": "<${1:i} className=\"fas fa-life-ring$2\"></${1:i}>",
+    "prefix": "fas-life-ring"
+  },
+  "fas-lightbulb": {
+    "body": "<${1:i} className=\"fas fa-lightbulb$2\"></${1:i}>",
+    "prefix": "fas-lightbulb"
+  },
+  "fas-link": {
+    "body": "<${1:i} className=\"fas fa-link$2\"></${1:i}>",
+    "prefix": "fas-link"
+  },
+  "fas-lira-sign": {
+    "body": "<${1:i} className=\"fas fa-lira-sign$2\"></${1:i}>",
+    "prefix": "fas-lira-sign"
+  },
+  "fas-list": {
+    "body": "<${1:i} className=\"fas fa-list$2\"></${1:i}>",
+    "prefix": "fas-list"
+  },
+  "fas-list-alt": {
+    "body": "<${1:i} className=\"fas fa-list-alt$2\"></${1:i}>",
+    "prefix": "fas-list-alt"
+  },
+  "fas-list-ol": {
+    "body": "<${1:i} className=\"fas fa-list-ol$2\"></${1:i}>",
+    "prefix": "fas-list-ol"
+  },
+  "fas-list-ul": {
+    "body": "<${1:i} className=\"fas fa-list-ul$2\"></${1:i}>",
+    "prefix": "fas-list-ul"
+  },
+  "fas-location-arrow": {
+    "body": "<${1:i} className=\"fas fa-location-arrow$2\"></${1:i}>",
+    "prefix": "fas-location-arrow"
+  },
+  "fas-lock": {
+    "body": "<${1:i} className=\"fas fa-lock$2\"></${1:i}>",
+    "prefix": "fas-lock"
+  },
+  "fas-lock-alt": {
+    "body": "<${1:i} className=\"fas fa-lock-alt$2\"></${1:i}>",
+    "prefix": "fas-lock-alt"
+  },
+  "fas-lock-open": {
+    "body": "<${1:i} className=\"fas fa-lock-open$2\"></${1:i}>",
+    "prefix": "fas-lock-open"
+  },
+  "fas-lock-open-alt": {
+    "body": "<${1:i} className=\"fas fa-lock-open-alt$2\"></${1:i}>",
+    "prefix": "fas-lock-open-alt"
+  },
+  "fas-long-arrow-alt-down": {
+    "body": "<${1:i} className=\"fas fa-long-arrow-alt-down$2\"></${1:i}>",
+    "prefix": "fas-long-arrow-alt-down"
+  },
+  "fas-long-arrow-alt-left": {
+    "body": "<${1:i} className=\"fas fa-long-arrow-alt-left$2\"></${1:i}>",
+    "prefix": "fas-long-arrow-alt-left"
+  },
+  "fas-long-arrow-alt-right": {
+    "body": "<${1:i} className=\"fas fa-long-arrow-alt-right$2\"></${1:i}>",
+    "prefix": "fas-long-arrow-alt-right"
+  },
+  "fas-long-arrow-alt-up": {
+    "body": "<${1:i} className=\"fas fa-long-arrow-alt-up$2\"></${1:i}>",
+    "prefix": "fas-long-arrow-alt-up"
+  },
+  "fas-long-arrow-down": {
+    "body": "<${1:i} className=\"fas fa-long-arrow-down$2\"></${1:i}>",
+    "prefix": "fas-long-arrow-down"
+  },
+  "fas-long-arrow-left": {
+    "body": "<${1:i} className=\"fas fa-long-arrow-left$2\"></${1:i}>",
+    "prefix": "fas-long-arrow-left"
+  },
+  "fas-long-arrow-right": {
+    "body": "<${1:i} className=\"fas fa-long-arrow-right$2\"></${1:i}>",
+    "prefix": "fas-long-arrow-right"
+  },
+  "fas-long-arrow-up": {
+    "body": "<${1:i} className=\"fas fa-long-arrow-up$2\"></${1:i}>",
+    "prefix": "fas-long-arrow-up"
+  },
+  "fas-low-vision": {
+    "body": "<${1:i} className=\"fas fa-low-vision$2\"></${1:i}>",
+    "prefix": "fas-low-vision"
+  },
+  "fas-magic": {
+    "body": "<${1:i} className=\"fas fa-magic$2\"></${1:i}>",
+    "prefix": "fas-magic"
+  },
+  "fas-magnet": {
+    "body": "<${1:i} className=\"fas fa-magnet$2\"></${1:i}>",
+    "prefix": "fas-magnet"
+  },
+  "fas-male": {
+    "body": "<${1:i} className=\"fas fa-male$2\"></${1:i}>",
+    "prefix": "fas-male"
+  },
+  "fas-map": {
+    "body": "<${1:i} className=\"fas fa-map$2\"></${1:i}>",
+    "prefix": "fas-map"
+  },
+  "fas-map-marker": {
+    "body": "<${1:i} className=\"fas fa-map-marker$2\"></${1:i}>",
+    "prefix": "fas-map-marker"
+  },
+  "fas-map-marker-alt": {
+    "body": "<${1:i} className=\"fas fa-map-marker-alt$2\"></${1:i}>",
+    "prefix": "fas-map-marker-alt"
+  },
+  "fas-map-pin": {
+    "body": "<${1:i} className=\"fas fa-map-pin$2\"></${1:i}>",
+    "prefix": "fas-map-pin"
+  },
+  "fas-map-signs": {
+    "body": "<${1:i} className=\"fas fa-map-signs$2\"></${1:i}>",
+    "prefix": "fas-map-signs"
+  },
+  "fas-mars": {
+    "body": "<${1:i} className=\"fas fa-mars$2\"></${1:i}>",
+    "prefix": "fas-mars"
+  },
+  "fas-mars-double": {
+    "body": "<${1:i} className=\"fas fa-mars-double$2\"></${1:i}>",
+    "prefix": "fas-mars-double"
+  },
+  "fas-mars-stroke": {
+    "body": "<${1:i} className=\"fas fa-mars-stroke$2\"></${1:i}>",
+    "prefix": "fas-mars-stroke"
+  },
+  "fas-mars-stroke-h": {
+    "body": "<${1:i} className=\"fas fa-mars-stroke-h$2\"></${1:i}>",
+    "prefix": "fas-mars-stroke-h"
+  },
+  "fas-mars-stroke-v": {
+    "body": "<${1:i} className=\"fas fa-mars-stroke-v$2\"></${1:i}>",
+    "prefix": "fas-mars-stroke-v"
+  },
+  "fas-medkit": {
+    "body": "<${1:i} className=\"fas fa-medkit$2\"></${1:i}>",
+    "prefix": "fas-medkit"
+  },
+  "fas-meh": {
+    "body": "<${1:i} className=\"fas fa-meh$2\"></${1:i}>",
+    "prefix": "fas-meh"
+  },
+  "fas-mercury": {
+    "body": "<${1:i} className=\"fas fa-mercury$2\"></${1:i}>",
+    "prefix": "fas-mercury"
+  },
+  "fas-microchip": {
+    "body": "<${1:i} className=\"fas fa-microchip$2\"></${1:i}>",
+    "prefix": "fas-microchip"
+  },
+  "fas-microphone": {
+    "body": "<${1:i} className=\"fas fa-microphone$2\"></${1:i}>",
+    "prefix": "fas-microphone"
+  },
+  "fas-microphone-alt": {
+    "body": "<${1:i} className=\"fas fa-microphone-alt$2\"></${1:i}>",
+    "prefix": "fas-microphone-alt"
+  },
+  "fas-microphone-slash": {
+    "body": "<${1:i} className=\"fas fa-microphone-slash$2\"></${1:i}>",
+    "prefix": "fas-microphone-slash"
+  },
+  "fas-minus": {
+    "body": "<${1:i} className=\"fas fa-minus$2\"></${1:i}>",
+    "prefix": "fas-minus"
+  },
+  "fas-minus-circle": {
+    "body": "<${1:i} className=\"fas fa-minus-circle$2\"></${1:i}>",
+    "prefix": "fas-minus-circle"
+  },
+  "fas-minus-hexagon": {
+    "body": "<${1:i} className=\"fas fa-minus-hexagon$2\"></${1:i}>",
+    "prefix": "fas-minus-hexagon"
+  },
+  "fas-minus-octagon": {
+    "body": "<${1:i} className=\"fas fa-minus-octagon$2\"></${1:i}>",
+    "prefix": "fas-minus-octagon"
+  },
+  "fas-minus-square": {
+    "body": "<${1:i} className=\"fas fa-minus-square$2\"></${1:i}>",
+    "prefix": "fas-minus-square"
+  },
+  "fas-mobile": {
+    "body": "<${1:i} className=\"fas fa-mobile$2\"></${1:i}>",
+    "prefix": "fas-mobile"
+  },
+  "fas-mobile-alt": {
+    "body": "<${1:i} className=\"fas fa-mobile-alt$2\"></${1:i}>",
+    "prefix": "fas-mobile-alt"
+  },
+  "fas-mobile-android": {
+    "body": "<${1:i} className=\"fas fa-mobile-android$2\"></${1:i}>",
+    "prefix": "fas-mobile-android"
+  },
+  "fas-mobile-android-alt": {
+    "body": "<${1:i} className=\"fas fa-mobile-android-alt$2\"></${1:i}>",
+    "prefix": "fas-mobile-android-alt"
+  },
+  "fas-money-bill": {
+    "body": "<${1:i} className=\"fas fa-money-bill$2\"></${1:i}>",
+    "prefix": "fas-money-bill"
+  },
+  "fas-money-bill-alt": {
+    "body": "<${1:i} className=\"fas fa-money-bill-alt$2\"></${1:i}>",
+    "prefix": "fas-money-bill-alt"
+  },
+  "fas-moon": {
+    "body": "<${1:i} className=\"fas fa-moon$2\"></${1:i}>",
+    "prefix": "fas-moon"
+  },
+  "fas-motorcycle": {
+    "body": "<${1:i} className=\"fas fa-motorcycle$2\"></${1:i}>",
+    "prefix": "fas-motorcycle"
+  },
+  "fas-mouse-pointer": {
+    "body": "<${1:i} className=\"fas fa-mouse-pointer$2\"></${1:i}>",
+    "prefix": "fas-mouse-pointer"
+  },
+  "fas-music": {
+    "body": "<${1:i} className=\"fas fa-music$2\"></${1:i}>",
+    "prefix": "fas-music"
+  },
+  "fas-neuter": {
+    "body": "<${1:i} className=\"fas fa-neuter$2\"></${1:i}>",
+    "prefix": "fas-neuter"
+  },
+  "fas-newspaper": {
+    "body": "<${1:i} className=\"fas fa-newspaper$2\"></${1:i}>",
+    "prefix": "fas-newspaper"
+  },
+  "fas-object-group": {
+    "body": "<${1:i} className=\"fas fa-object-group$2\"></${1:i}>",
+    "prefix": "fas-object-group"
+  },
+  "fas-object-ungroup": {
+    "body": "<${1:i} className=\"fas fa-object-ungroup$2\"></${1:i}>",
+    "prefix": "fas-object-ungroup"
+  },
+  "fas-octagon": {
+    "body": "<${1:i} className=\"fas fa-octagon$2\"></${1:i}>",
+    "prefix": "fas-octagon"
+  },
+  "fas-outdent": {
+    "body": "<${1:i} className=\"fas fa-outdent$2\"></${1:i}>",
+    "prefix": "fas-outdent"
+  },
+  "fas-paint-brush": {
+    "body": "<${1:i} className=\"fas fa-paint-brush$2\"></${1:i}>",
+    "prefix": "fas-paint-brush"
+  },
+  "fas-paper-plane": {
+    "body": "<${1:i} className=\"fas fa-paper-plane$2\"></${1:i}>",
+    "prefix": "fas-paper-plane"
+  },
+  "fas-paperclip": {
+    "body": "<${1:i} className=\"fas fa-paperclip$2\"></${1:i}>",
+    "prefix": "fas-paperclip"
+  },
+  "fas-paragraph": {
+    "body": "<${1:i} className=\"fas fa-paragraph$2\"></${1:i}>",
+    "prefix": "fas-paragraph"
+  },
+  "fas-paste": {
+    "body": "<${1:i} className=\"fas fa-paste$2\"></${1:i}>",
+    "prefix": "fas-paste"
+  },
+  "fas-pause": {
+    "body": "<${1:i} className=\"fas fa-pause$2\"></${1:i}>",
+    "prefix": "fas-pause"
+  },
+  "fas-pause-circle": {
+    "body": "<${1:i} className=\"fas fa-pause-circle$2\"></${1:i}>",
+    "prefix": "fas-pause-circle"
+  },
+  "fas-paw": {
+    "body": "<${1:i} className=\"fas fa-paw$2\"></${1:i}>",
+    "prefix": "fas-paw"
+  },
+  "fas-pen": {
+    "body": "<${1:i} className=\"fas fa-pen$2\"></${1:i}>",
+    "prefix": "fas-pen"
+  },
+  "fas-pen-alt": {
+    "body": "<${1:i} className=\"fas fa-pen-alt$2\"></${1:i}>",
+    "prefix": "fas-pen-alt"
+  },
+  "fas-pen-square": {
+    "body": "<${1:i} className=\"fas fa-pen-square$2\"></${1:i}>",
+    "prefix": "fas-pen-square"
+  },
+  "fas-pencil": {
+    "body": "<${1:i} className=\"fas fa-pencil$2\"></${1:i}>",
+    "prefix": "fas-pencil"
+  },
+  "fas-pencil-alt": {
+    "body": "<${1:i} className=\"fas fa-pencil-alt$2\"></${1:i}>",
+    "prefix": "fas-pencil-alt"
+  },
+  "fas-percent": {
+    "body": "<${1:i} className=\"fas fa-percent$2\"></${1:i}>",
+    "prefix": "fas-percent"
+  },
+  "fas-phone": {
+    "body": "<${1:i} className=\"fas fa-phone$2\"></${1:i}>",
+    "prefix": "fas-phone"
+  },
+  "fas-phone-slash": {
+    "body": "<${1:i} className=\"fas fa-phone-slash$2\"></${1:i}>",
+    "prefix": "fas-phone-slash"
+  },
+  "fas-phone-square": {
+    "body": "<${1:i} className=\"fas fa-phone-square$2\"></${1:i}>",
+    "prefix": "fas-phone-square"
+  },
+  "fas-phone-volume": {
+    "body": "<${1:i} className=\"fas fa-phone-volume$2\"></${1:i}>",
+    "prefix": "fas-phone-volume"
+  },
+  "fas-plane": {
+    "body": "<${1:i} className=\"fas fa-plane$2\"></${1:i}>",
+    "prefix": "fas-plane"
+  },
+  "fas-plane-alt": {
+    "body": "<${1:i} className=\"fas fa-plane-alt$2\"></${1:i}>",
+    "prefix": "fas-plane-alt"
+  },
+  "fas-play": {
+    "body": "<${1:i} className=\"fas fa-play$2\"></${1:i}>",
+    "prefix": "fas-play"
+  },
+  "fas-play-circle": {
+    "body": "<${1:i} className=\"fas fa-play-circle$2\"></${1:i}>",
+    "prefix": "fas-play-circle"
+  },
+  "fas-plug": {
+    "body": "<${1:i} className=\"fas fa-plug$2\"></${1:i}>",
+    "prefix": "fas-plug"
+  },
+  "fas-plus": {
+    "body": "<${1:i} className=\"fas fa-plus$2\"></${1:i}>",
+    "prefix": "fas-plus"
+  },
+  "fas-plus-circle": {
+    "body": "<${1:i} className=\"fas fa-plus-circle$2\"></${1:i}>",
+    "prefix": "fas-plus-circle"
+  },
+  "fas-plus-hexagon": {
+    "body": "<${1:i} className=\"fas fa-plus-hexagon$2\"></${1:i}>",
+    "prefix": "fas-plus-hexagon"
+  },
+  "fas-plus-octagon": {
+    "body": "<${1:i} className=\"fas fa-plus-octagon$2\"></${1:i}>",
+    "prefix": "fas-plus-octagon"
+  },
+  "fas-plus-square": {
+    "body": "<${1:i} className=\"fas fa-plus-square$2\"></${1:i}>",
+    "prefix": "fas-plus-square"
+  },
+  "fas-podcast": {
+    "body": "<${1:i} className=\"fas fa-podcast$2\"></${1:i}>",
+    "prefix": "fas-podcast"
+  },
+  "fas-poo": {
+    "body": "<${1:i} className=\"fas fa-poo$2\"></${1:i}>",
+    "prefix": "fas-poo"
+  },
+  "fas-portrait": {
+    "body": "<${1:i} className=\"fas fa-portrait$2\"></${1:i}>",
+    "prefix": "fas-portrait"
+  },
+  "fas-pound-sign": {
+    "body": "<${1:i} className=\"fas fa-pound-sign$2\"></${1:i}>",
+    "prefix": "fas-pound-sign"
+  },
+  "fas-power-off": {
+    "body": "<${1:i} className=\"fas fa-power-off$2\"></${1:i}>",
+    "prefix": "fas-power-off"
+  },
+  "fas-print": {
+    "body": "<${1:i} className=\"fas fa-print$2\"></${1:i}>",
+    "prefix": "fas-print"
+  },
+  "fas-puzzle-piece": {
+    "body": "<${1:i} className=\"fas fa-puzzle-piece$2\"></${1:i}>",
+    "prefix": "fas-puzzle-piece"
+  },
+  "fas-qrcode": {
+    "body": "<${1:i} className=\"fas fa-qrcode$2\"></${1:i}>",
+    "prefix": "fas-qrcode"
+  },
+  "fas-question": {
+    "body": "<${1:i} className=\"fas fa-question$2\"></${1:i}>",
+    "prefix": "fas-question"
+  },
+  "fas-question-circle": {
+    "body": "<${1:i} className=\"fas fa-question-circle$2\"></${1:i}>",
+    "prefix": "fas-question-circle"
+  },
+  "fas-question-square": {
+    "body": "<${1:i} className=\"fas fa-question-square$2\"></${1:i}>",
+    "prefix": "fas-question-square"
+  },
+  "fas-quote-left": {
+    "body": "<${1:i} className=\"fas fa-quote-left$2\"></${1:i}>",
+    "prefix": "fas-quote-left"
+  },
+  "fas-quote-right": {
+    "body": "<${1:i} className=\"fas fa-quote-right$2\"></${1:i}>",
+    "prefix": "fas-quote-right"
+  },
+  "fas-random": {
+    "body": "<${1:i} className=\"fas fa-random$2\"></${1:i}>",
+    "prefix": "fas-random"
+  },
+  "fas-rectangle-landscape": {
+    "body": "<${1:i} className=\"fas fa-rectangle-landscape$2\"></${1:i}>",
+    "prefix": "fas-rectangle-landscape"
+  },
+  "fas-rectangle-portrait": {
+    "body": "<${1:i} className=\"fas fa-rectangle-portrait$2\"></${1:i}>",
+    "prefix": "fas-rectangle-portrait"
+  },
+  "fas-rectangle-wide": {
+    "body": "<${1:i} className=\"fas fa-rectangle-wide$2\"></${1:i}>",
+    "prefix": "fas-rectangle-wide"
+  },
+  "fas-recycle": {
+    "body": "<${1:i} className=\"fas fa-recycle$2\"></${1:i}>",
+    "prefix": "fas-recycle"
+  },
+  "fas-redo": {
+    "body": "<${1:i} className=\"fas fa-redo$2\"></${1:i}>",
+    "prefix": "fas-redo"
+  },
+  "fas-redo-alt": {
+    "body": "<${1:i} className=\"fas fa-redo-alt$2\"></${1:i}>",
+    "prefix": "fas-redo-alt"
+  },
+  "fas-registered": {
+    "body": "<${1:i} className=\"fas fa-registered$2\"></${1:i}>",
+    "prefix": "fas-registered"
+  },
+  "fas-repeat": {
+    "body": "<${1:i} className=\"fas fa-repeat$2\"></${1:i}>",
+    "prefix": "fas-repeat"
+  },
+  "fas-repeat-1": {
+    "body": "<${1:i} className=\"fas fa-repeat-1$2\"></${1:i}>",
+    "prefix": "fas-repeat-1"
+  },
+  "fas-repeat-1-alt": {
+    "body": "<${1:i} className=\"fas fa-repeat-1-alt$2\"></${1:i}>",
+    "prefix": "fas-repeat-1-alt"
+  },
+  "fas-repeat-alt": {
+    "body": "<${1:i} className=\"fas fa-repeat-alt$2\"></${1:i}>",
+    "prefix": "fas-repeat-alt"
+  },
+  "fas-reply": {
+    "body": "<${1:i} className=\"fas fa-reply$2\"></${1:i}>",
+    "prefix": "fas-reply"
+  },
+  "fas-reply-all": {
+    "body": "<${1:i} className=\"fas fa-reply-all$2\"></${1:i}>",
+    "prefix": "fas-reply-all"
+  },
+  "fas-retweet": {
+    "body": "<${1:i} className=\"fas fa-retweet$2\"></${1:i}>",
+    "prefix": "fas-retweet"
+  },
+  "fas-retweet-alt": {
+    "body": "<${1:i} className=\"fas fa-retweet-alt$2\"></${1:i}>",
+    "prefix": "fas-retweet-alt"
+  },
+  "fas-road": {
+    "body": "<${1:i} className=\"fas fa-road$2\"></${1:i}>",
+    "prefix": "fas-road"
+  },
+  "fas-rocket": {
+    "body": "<${1:i} className=\"fas fa-rocket$2\"></${1:i}>",
+    "prefix": "fas-rocket"
+  },
+  "fas-rss": {
+    "body": "<${1:i} className=\"fas fa-rss$2\"></${1:i}>",
+    "prefix": "fas-rss"
+  },
+  "fas-rss-square": {
+    "body": "<${1:i} className=\"fas fa-rss-square$2\"></${1:i}>",
+    "prefix": "fas-rss-square"
+  },
+  "fas-ruble-sign": {
+    "body": "<${1:i} className=\"fas fa-ruble-sign$2\"></${1:i}>",
+    "prefix": "fas-ruble-sign"
+  },
+  "fas-rupee-sign": {
+    "body": "<${1:i} className=\"fas fa-rupee-sign$2\"></${1:i}>",
+    "prefix": "fas-rupee-sign"
+  },
+  "fas-save": {
+    "body": "<${1:i} className=\"fas fa-save$2\"></${1:i}>",
+    "prefix": "fas-save"
+  },
+  "fas-scrubber": {
+    "body": "<${1:i} className=\"fas fa-scrubber$2\"></${1:i}>",
+    "prefix": "fas-scrubber"
+  },
+  "fas-search": {
+    "body": "<${1:i} className=\"fas fa-search$2\"></${1:i}>",
+    "prefix": "fas-search"
+  },
+  "fas-search-minus": {
+    "body": "<${1:i} className=\"fas fa-search-minus$2\"></${1:i}>",
+    "prefix": "fas-search-minus"
+  },
+  "fas-search-plus": {
+    "body": "<${1:i} className=\"fas fa-search-plus$2\"></${1:i}>",
+    "prefix": "fas-search-plus"
+  },
+  "fas-server": {
+    "body": "<${1:i} className=\"fas fa-server$2\"></${1:i}>",
+    "prefix": "fas-server"
+  },
+  "fas-share": {
+    "body": "<${1:i} className=\"fas fa-share$2\"></${1:i}>",
+    "prefix": "fas-share"
+  },
+  "fas-share-all": {
+    "body": "<${1:i} className=\"fas fa-share-all$2\"></${1:i}>",
+    "prefix": "fas-share-all"
+  },
+  "fas-share-alt": {
+    "body": "<${1:i} className=\"fas fa-share-alt$2\"></${1:i}>",
+    "prefix": "fas-share-alt"
+  },
+  "fas-share-alt-square": {
+    "body": "<${1:i} className=\"fas fa-share-alt-square$2\"></${1:i}>",
+    "prefix": "fas-share-alt-square"
+  },
+  "fas-share-square": {
+    "body": "<${1:i} className=\"fas fa-share-square$2\"></${1:i}>",
+    "prefix": "fas-share-square"
+  },
+  "fas-shekel-sign": {
+    "body": "<${1:i} className=\"fas fa-shekel-sign$2\"></${1:i}>",
+    "prefix": "fas-shekel-sign"
+  },
+  "fas-shield": {
+    "body": "<${1:i} className=\"fas fa-shield$2\"></${1:i}>",
+    "prefix": "fas-shield"
+  },
+  "fas-shield-alt": {
+    "body": "<${1:i} className=\"fas fa-shield-alt$2\"></${1:i}>",
+    "prefix": "fas-shield-alt"
+  },
+  "fas-shield-check": {
+    "body": "<${1:i} className=\"fas fa-shield-check$2\"></${1:i}>",
+    "prefix": "fas-shield-check"
+  },
+  "fas-ship": {
+    "body": "<${1:i} className=\"fas fa-ship$2\"></${1:i}>",
+    "prefix": "fas-ship"
+  },
+  "fas-shopping-bag": {
+    "body": "<${1:i} className=\"fas fa-shopping-bag$2\"></${1:i}>",
+    "prefix": "fas-shopping-bag"
+  },
+  "fas-shopping-basket": {
+    "body": "<${1:i} className=\"fas fa-shopping-basket$2\"></${1:i}>",
+    "prefix": "fas-shopping-basket"
+  },
+  "fas-shopping-cart": {
+    "body": "<${1:i} className=\"fas fa-shopping-cart$2\"></${1:i}>",
+    "prefix": "fas-shopping-cart"
+  },
+  "fas-shower": {
+    "body": "<${1:i} className=\"fas fa-shower$2\"></${1:i}>",
+    "prefix": "fas-shower"
+  },
+  "fas-sign-in": {
+    "body": "<${1:i} className=\"fas fa-sign-in$2\"></${1:i}>",
+    "prefix": "fas-sign-in"
+  },
+  "fas-sign-in-alt": {
+    "body": "<${1:i} className=\"fas fa-sign-in-alt$2\"></${1:i}>",
+    "prefix": "fas-sign-in-alt"
+  },
+  "fas-sign-language": {
+    "body": "<${1:i} className=\"fas fa-sign-language$2\"></${1:i}>",
+    "prefix": "fas-sign-language"
+  },
+  "fas-sign-out": {
+    "body": "<${1:i} className=\"fas fa-sign-out$2\"></${1:i}>",
+    "prefix": "fas-sign-out"
+  },
+  "fas-sign-out-alt": {
+    "body": "<${1:i} className=\"fas fa-sign-out-alt$2\"></${1:i}>",
+    "prefix": "fas-sign-out-alt"
+  },
+  "fas-signal": {
+    "body": "<${1:i} className=\"fas fa-signal$2\"></${1:i}>",
+    "prefix": "fas-signal"
+  },
+  "fas-sitemap": {
+    "body": "<${1:i} className=\"fas fa-sitemap$2\"></${1:i}>",
+    "prefix": "fas-sitemap"
+  },
+  "fas-sliders-h": {
+    "body": "<${1:i} className=\"fas fa-sliders-h$2\"></${1:i}>",
+    "prefix": "fas-sliders-h"
+  },
+  "fas-sliders-h-square": {
+    "body": "<${1:i} className=\"fas fa-sliders-h-square$2\"></${1:i}>",
+    "prefix": "fas-sliders-h-square"
+  },
+  "fas-sliders-v": {
+    "body": "<${1:i} className=\"fas fa-sliders-v$2\"></${1:i}>",
+    "prefix": "fas-sliders-v"
+  },
+  "fas-sliders-v-square": {
+    "body": "<${1:i} className=\"fas fa-sliders-v-square$2\"></${1:i}>",
+    "prefix": "fas-sliders-v-square"
+  },
+  "fas-smile": {
+    "body": "<${1:i} className=\"fas fa-smile$2\"></${1:i}>",
+    "prefix": "fas-smile"
+  },
+  "fas-snowflake": {
+    "body": "<${1:i} className=\"fas fa-snowflake$2\"></${1:i}>",
+    "prefix": "fas-snowflake"
+  },
+  "fas-sort": {
+    "body": "<${1:i} className=\"fas fa-sort$2\"></${1:i}>",
+    "prefix": "fas-sort"
+  },
+  "fas-sort-alpha-down": {
+    "body": "<${1:i} className=\"fas fa-sort-alpha-down$2\"></${1:i}>",
+    "prefix": "fas-sort-alpha-down"
+  },
+  "fas-sort-alpha-up": {
+    "body": "<${1:i} className=\"fas fa-sort-alpha-up$2\"></${1:i}>",
+    "prefix": "fas-sort-alpha-up"
+  },
+  "fas-sort-amount-down": {
+    "body": "<${1:i} className=\"fas fa-sort-amount-down$2\"></${1:i}>",
+    "prefix": "fas-sort-amount-down"
+  },
+  "fas-sort-amount-up": {
+    "body": "<${1:i} className=\"fas fa-sort-amount-up$2\"></${1:i}>",
+    "prefix": "fas-sort-amount-up"
+  },
+  "fas-sort-down": {
+    "body": "<${1:i} className=\"fas fa-sort-down$2\"></${1:i}>",
+    "prefix": "fas-sort-down"
+  },
+  "fas-sort-numeric-down": {
+    "body": "<${1:i} className=\"fas fa-sort-numeric-down$2\"></${1:i}>",
+    "prefix": "fas-sort-numeric-down"
+  },
+  "fas-sort-numeric-up": {
+    "body": "<${1:i} className=\"fas fa-sort-numeric-up$2\"></${1:i}>",
+    "prefix": "fas-sort-numeric-up"
+  },
+  "fas-sort-up": {
+    "body": "<${1:i} className=\"fas fa-sort-up$2\"></${1:i}>",
+    "prefix": "fas-sort-up"
+  },
+  "fas-space-shuttle": {
+    "body": "<${1:i} className=\"fas fa-space-shuttle$2\"></${1:i}>",
+    "prefix": "fas-space-shuttle"
+  },
+  "fas-spade": {
+    "body": "<${1:i} className=\"fas fa-spade$2\"></${1:i}>",
+    "prefix": "fas-spade"
+  },
+  "fas-spinner": {
+    "body": "<${1:i} className=\"fas fa-spinner$2\"></${1:i}>",
+    "prefix": "fas-spinner"
+  },
+  "fas-spinner-third": {
+    "body": "<${1:i} className=\"fas fa-spinner-third$2\"></${1:i}>",
+    "prefix": "fas-spinner-third"
+  },
+  "fas-square": {
+    "body": "<${1:i} className=\"fas fa-square$2\"></${1:i}>",
+    "prefix": "fas-square"
+  },
+  "fas-star": {
+    "body": "<${1:i} className=\"fas fa-star$2\"></${1:i}>",
+    "prefix": "fas-star"
+  },
+  "fas-star-exclamation": {
+    "body": "<${1:i} className=\"fas fa-star-exclamation$2\"></${1:i}>",
+    "prefix": "fas-star-exclamation"
+  },
+  "fas-star-half": {
+    "body": "<${1:i} className=\"fas fa-star-half$2\"></${1:i}>",
+    "prefix": "fas-star-half"
+  },
+  "fas-step-backward": {
+    "body": "<${1:i} className=\"fas fa-step-backward$2\"></${1:i}>",
+    "prefix": "fas-step-backward"
+  },
+  "fas-step-forward": {
+    "body": "<${1:i} className=\"fas fa-step-forward$2\"></${1:i}>",
+    "prefix": "fas-step-forward"
+  },
+  "fas-stethoscope": {
+    "body": "<${1:i} className=\"fas fa-stethoscope$2\"></${1:i}>",
+    "prefix": "fas-stethoscope"
+  },
+  "fas-sticky-note": {
+    "body": "<${1:i} className=\"fas fa-sticky-note$2\"></${1:i}>",
+    "prefix": "fas-sticky-note"
+  },
+  "fas-stop": {
+    "body": "<${1:i} className=\"fas fa-stop$2\"></${1:i}>",
+    "prefix": "fas-stop"
+  },
+  "fas-stop-circle": {
+    "body": "<${1:i} className=\"fas fa-stop-circle$2\"></${1:i}>",
+    "prefix": "fas-stop-circle"
+  },
+  "fas-stopwatch": {
+    "body": "<${1:i} className=\"fas fa-stopwatch$2\"></${1:i}>",
+    "prefix": "fas-stopwatch"
+  },
+  "fas-street-view": {
+    "body": "<${1:i} className=\"fas fa-street-view$2\"></${1:i}>",
+    "prefix": "fas-street-view"
+  },
+  "fas-strikethrough": {
+    "body": "<${1:i} className=\"fas fa-strikethrough$2\"></${1:i}>",
+    "prefix": "fas-strikethrough"
+  },
+  "fas-subscript": {
+    "body": "<${1:i} className=\"fas fa-subscript$2\"></${1:i}>",
+    "prefix": "fas-subscript"
+  },
+  "fas-subway": {
+    "body": "<${1:i} className=\"fas fa-subway$2\"></${1:i}>",
+    "prefix": "fas-subway"
+  },
+  "fas-suitcase": {
+    "body": "<${1:i} className=\"fas fa-suitcase$2\"></${1:i}>",
+    "prefix": "fas-suitcase"
+  },
+  "fas-sun": {
+    "body": "<${1:i} className=\"fas fa-sun$2\"></${1:i}>",
+    "prefix": "fas-sun"
+  },
+  "fas-superscript": {
+    "body": "<${1:i} className=\"fas fa-superscript$2\"></${1:i}>",
+    "prefix": "fas-superscript"
+  },
+  "fas-sync": {
+    "body": "<${1:i} className=\"fas fa-sync$2\"></${1:i}>",
+    "prefix": "fas-sync"
+  },
+  "fas-sync-alt": {
+    "body": "<${1:i} className=\"fas fa-sync-alt$2\"></${1:i}>",
+    "prefix": "fas-sync-alt"
+  },
+  "fas-table": {
+    "body": "<${1:i} className=\"fas fa-table$2\"></${1:i}>",
+    "prefix": "fas-table"
+  },
+  "fas-tablet": {
+    "body": "<${1:i} className=\"fas fa-tablet$2\"></${1:i}>",
+    "prefix": "fas-tablet"
+  },
+  "fas-tablet-alt": {
+    "body": "<${1:i} className=\"fas fa-tablet-alt$2\"></${1:i}>",
+    "prefix": "fas-tablet-alt"
+  },
+  "fas-tablet-android": {
+    "body": "<${1:i} className=\"fas fa-tablet-android$2\"></${1:i}>",
+    "prefix": "fas-tablet-android"
+  },
+  "fas-tablet-android-alt": {
+    "body": "<${1:i} className=\"fas fa-tablet-android-alt$2\"></${1:i}>",
+    "prefix": "fas-tablet-android-alt"
+  },
+  "fas-tachometer": {
+    "body": "<${1:i} className=\"fas fa-tachometer$2\"></${1:i}>",
+    "prefix": "fas-tachometer"
+  },
+  "fas-tachometer-alt": {
+    "body": "<${1:i} className=\"fas fa-tachometer-alt$2\"></${1:i}>",
+    "prefix": "fas-tachometer-alt"
+  },
+  "fas-tag": {
+    "body": "<${1:i} className=\"fas fa-tag$2\"></${1:i}>",
+    "prefix": "fas-tag"
+  },
+  "fas-tags": {
+    "body": "<${1:i} className=\"fas fa-tags$2\"></${1:i}>",
+    "prefix": "fas-tags"
+  },
+  "fas-tasks": {
+    "body": "<${1:i} className=\"fas fa-tasks$2\"></${1:i}>",
+    "prefix": "fas-tasks"
+  },
+  "fas-taxi": {
+    "body": "<${1:i} className=\"fas fa-taxi$2\"></${1:i}>",
+    "prefix": "fas-taxi"
+  },
+  "fas-terminal": {
+    "body": "<${1:i} className=\"fas fa-terminal$2\"></${1:i}>",
+    "prefix": "fas-terminal"
+  },
+  "fas-text-height": {
+    "body": "<${1:i} className=\"fas fa-text-height$2\"></${1:i}>",
+    "prefix": "fas-text-height"
+  },
+  "fas-text-width": {
+    "body": "<${1:i} className=\"fas fa-text-width$2\"></${1:i}>",
+    "prefix": "fas-text-width"
+  },
+  "fas-th": {
+    "body": "<${1:i} className=\"fas fa-th$2\"></${1:i}>",
+    "prefix": "fas-th"
+  },
+  "fas-th-large": {
+    "body": "<${1:i} className=\"fas fa-th-large$2\"></${1:i}>",
+    "prefix": "fas-th-large"
+  },
+  "fas-th-list": {
+    "body": "<${1:i} className=\"fas fa-th-list$2\"></${1:i}>",
+    "prefix": "fas-th-list"
+  },
+  "fas-thermometer-empty": {
+    "body": "<${1:i} className=\"fas fa-thermometer-empty$2\"></${1:i}>",
+    "prefix": "fas-thermometer-empty"
+  },
+  "fas-thermometer-full": {
+    "body": "<${1:i} className=\"fas fa-thermometer-full$2\"></${1:i}>",
+    "prefix": "fas-thermometer-full"
+  },
+  "fas-thermometer-half": {
+    "body": "<${1:i} className=\"fas fa-thermometer-half$2\"></${1:i}>",
+    "prefix": "fas-thermometer-half"
+  },
+  "fas-thermometer-quarter": {
+    "body": "<${1:i} className=\"fas fa-thermometer-quarter$2\"></${1:i}>",
+    "prefix": "fas-thermometer-quarter"
+  },
+  "fas-thermometer-three-quarters": {
+    "body": "<${1:i} className=\"fas fa-thermometer-three-quarters$2\"></${1:i}>",
+    "prefix": "fas-thermometer-three-quarters"
+  },
+  "fas-thumbs-down": {
+    "body": "<${1:i} className=\"fas fa-thumbs-down$2\"></${1:i}>",
+    "prefix": "fas-thumbs-down"
+  },
+  "fas-thumbs-up": {
+    "body": "<${1:i} className=\"fas fa-thumbs-up$2\"></${1:i}>",
+    "prefix": "fas-thumbs-up"
+  },
+  "fas-thumbtack": {
+    "body": "<${1:i} className=\"fas fa-thumbtack$2\"></${1:i}>",
+    "prefix": "fas-thumbtack"
+  },
+  "fas-ticket": {
+    "body": "<${1:i} className=\"fas fa-ticket$2\"></${1:i}>",
+    "prefix": "fas-ticket"
+  },
+  "fas-ticket-alt": {
+    "body": "<${1:i} className=\"fas fa-ticket-alt$2\"></${1:i}>",
+    "prefix": "fas-ticket-alt"
+  },
+  "fas-times": {
+    "body": "<${1:i} className=\"fas fa-times$2\"></${1:i}>",
+    "prefix": "fas-times"
+  },
+  "fas-times-circle": {
+    "body": "<${1:i} className=\"fas fa-times-circle$2\"></${1:i}>",
+    "prefix": "fas-times-circle"
+  },
+  "fas-times-hexagon": {
+    "body": "<${1:i} className=\"fas fa-times-hexagon$2\"></${1:i}>",
+    "prefix": "fas-times-hexagon"
+  },
+  "fas-times-octagon": {
+    "body": "<${1:i} className=\"fas fa-times-octagon$2\"></${1:i}>",
+    "prefix": "fas-times-octagon"
+  },
+  "fas-times-square": {
+    "body": "<${1:i} className=\"fas fa-times-square$2\"></${1:i}>",
+    "prefix": "fas-times-square"
+  },
+  "fas-tint": {
+    "body": "<${1:i} className=\"fas fa-tint$2\"></${1:i}>",
+    "prefix": "fas-tint"
+  },
+  "fas-toggle-off": {
+    "body": "<${1:i} className=\"fas fa-toggle-off$2\"></${1:i}>",
+    "prefix": "fas-toggle-off"
+  },
+  "fas-toggle-on": {
+    "body": "<${1:i} className=\"fas fa-toggle-on$2\"></${1:i}>",
+    "prefix": "fas-toggle-on"
+  },
+  "fas-trademark": {
+    "body": "<${1:i} className=\"fas fa-trademark$2\"></${1:i}>",
+    "prefix": "fas-trademark"
+  },
+  "fas-train": {
+    "body": "<${1:i} className=\"fas fa-train$2\"></${1:i}>",
+    "prefix": "fas-train"
+  },
+  "fas-transgender": {
+    "body": "<${1:i} className=\"fas fa-transgender$2\"></${1:i}>",
+    "prefix": "fas-transgender"
+  },
+  "fas-transgender-alt": {
+    "body": "<${1:i} className=\"fas fa-transgender-alt$2\"></${1:i}>",
+    "prefix": "fas-transgender-alt"
+  },
+  "fas-trash": {
+    "body": "<${1:i} className=\"fas fa-trash$2\"></${1:i}>",
+    "prefix": "fas-trash"
+  },
+  "fas-trash-alt": {
+    "body": "<${1:i} className=\"fas fa-trash-alt$2\"></${1:i}>",
+    "prefix": "fas-trash-alt"
+  },
+  "fas-tree": {
+    "body": "<${1:i} className=\"fas fa-tree$2\"></${1:i}>",
+    "prefix": "fas-tree"
+  },
+  "fas-tree-alt": {
+    "body": "<${1:i} className=\"fas fa-tree-alt$2\"></${1:i}>",
+    "prefix": "fas-tree-alt"
+  },
+  "fas-triangle": {
+    "body": "<${1:i} className=\"fas fa-triangle$2\"></${1:i}>",
+    "prefix": "fas-triangle"
+  },
+  "fas-trophy": {
+    "body": "<${1:i} className=\"fas fa-trophy$2\"></${1:i}>",
+    "prefix": "fas-trophy"
+  },
+  "fas-trophy-alt": {
+    "body": "<${1:i} className=\"fas fa-trophy-alt$2\"></${1:i}>",
+    "prefix": "fas-trophy-alt"
+  },
+  "fas-truck": {
+    "body": "<${1:i} className=\"fas fa-truck$2\"></${1:i}>",
+    "prefix": "fas-truck"
+  },
+  "fas-tty": {
+    "body": "<${1:i} className=\"fas fa-tty$2\"></${1:i}>",
+    "prefix": "fas-tty"
+  },
+  "fas-tv": {
+    "body": "<${1:i} className=\"fas fa-tv$2\"></${1:i}>",
+    "prefix": "fas-tv"
+  },
+  "fas-tv-retro": {
+    "body": "<${1:i} className=\"fas fa-tv-retro$2\"></${1:i}>",
+    "prefix": "fas-tv-retro"
+  },
+  "fas-umbrella": {
+    "body": "<${1:i} className=\"fas fa-umbrella$2\"></${1:i}>",
+    "prefix": "fas-umbrella"
+  },
+  "fas-underline": {
+    "body": "<${1:i} className=\"fas fa-underline$2\"></${1:i}>",
+    "prefix": "fas-underline"
+  },
+  "fas-undo": {
+    "body": "<${1:i} className=\"fas fa-undo$2\"></${1:i}>",
+    "prefix": "fas-undo"
+  },
+  "fas-undo-alt": {
+    "body": "<${1:i} className=\"fas fa-undo-alt$2\"></${1:i}>",
+    "prefix": "fas-undo-alt"
+  },
+  "fas-universal-access": {
+    "body": "<${1:i} className=\"fas fa-universal-access$2\"></${1:i}>",
+    "prefix": "fas-universal-access"
+  },
+  "fas-university": {
+    "body": "<${1:i} className=\"fas fa-university$2\"></${1:i}>",
+    "prefix": "fas-university"
+  },
+  "fas-unlink": {
+    "body": "<${1:i} className=\"fas fa-unlink$2\"></${1:i}>",
+    "prefix": "fas-unlink"
+  },
+  "fas-unlock": {
+    "body": "<${1:i} className=\"fas fa-unlock$2\"></${1:i}>",
+    "prefix": "fas-unlock"
+  },
+  "fas-unlock-alt": {
+    "body": "<${1:i} className=\"fas fa-unlock-alt$2\"></${1:i}>",
+    "prefix": "fas-unlock-alt"
+  },
+  "fas-upload": {
+    "body": "<${1:i} className=\"fas fa-upload$2\"></${1:i}>",
+    "prefix": "fas-upload"
+  },
+  "fas-usd-circle": {
+    "body": "<${1:i} className=\"fas fa-usd-circle$2\"></${1:i}>",
+    "prefix": "fas-usd-circle"
+  },
+  "fas-usd-square": {
+    "body": "<${1:i} className=\"fas fa-usd-square$2\"></${1:i}>",
+    "prefix": "fas-usd-square"
+  },
+  "fas-user": {
+    "body": "<${1:i} className=\"fas fa-user$2\"></${1:i}>",
+    "prefix": "fas-user"
+  },
+  "fas-user-alt": {
+    "body": "<${1:i} className=\"fas fa-user-alt$2\"></${1:i}>",
+    "prefix": "fas-user-alt"
+  },
+  "fas-user-circle": {
+    "body": "<${1:i} className=\"fas fa-user-circle$2\"></${1:i}>",
+    "prefix": "fas-user-circle"
+  },
+  "fas-user-md": {
+    "body": "<${1:i} className=\"fas fa-user-md$2\"></${1:i}>",
+    "prefix": "fas-user-md"
+  },
+  "fas-user-plus": {
+    "body": "<${1:i} className=\"fas fa-user-plus$2\"></${1:i}>",
+    "prefix": "fas-user-plus"
+  },
+  "fas-user-secret": {
+    "body": "<${1:i} className=\"fas fa-user-secret$2\"></${1:i}>",
+    "prefix": "fas-user-secret"
+  },
+  "fas-user-times": {
+    "body": "<${1:i} className=\"fas fa-user-times$2\"></${1:i}>",
+    "prefix": "fas-user-times"
+  },
+  "fas-users": {
+    "body": "<${1:i} className=\"fas fa-users$2\"></${1:i}>",
+    "prefix": "fas-users"
+  },
+  "fas-utensil-fork": {
+    "body": "<${1:i} className=\"fas fa-utensil-fork$2\"></${1:i}>",
+    "prefix": "fas-utensil-fork"
+  },
+  "fas-utensil-knife": {
+    "body": "<${1:i} className=\"fas fa-utensil-knife$2\"></${1:i}>",
+    "prefix": "fas-utensil-knife"
+  },
+  "fas-utensil-spoon": {
+    "body": "<${1:i} className=\"fas fa-utensil-spoon$2\"></${1:i}>",
+    "prefix": "fas-utensil-spoon"
+  },
+  "fas-utensils": {
+    "body": "<${1:i} className=\"fas fa-utensils$2\"></${1:i}>",
+    "prefix": "fas-utensils"
+  },
+  "fas-utensils-alt": {
+    "body": "<${1:i} className=\"fas fa-utensils-alt$2\"></${1:i}>",
+    "prefix": "fas-utensils-alt"
+  },
+  "fas-venus": {
+    "body": "<${1:i} className=\"fas fa-venus$2\"></${1:i}>",
+    "prefix": "fas-venus"
+  },
+  "fas-venus-double": {
+    "body": "<${1:i} className=\"fas fa-venus-double$2\"></${1:i}>",
+    "prefix": "fas-venus-double"
+  },
+  "fas-venus-mars": {
+    "body": "<${1:i} className=\"fas fa-venus-mars$2\"></${1:i}>",
+    "prefix": "fas-venus-mars"
+  },
+  "fas-video": {
+    "body": "<${1:i} className=\"fas fa-video$2\"></${1:i}>",
+    "prefix": "fas-video"
+  },
+  "fas-volume-down": {
+    "body": "<${1:i} className=\"fas fa-volume-down$2\"></${1:i}>",
+    "prefix": "fas-volume-down"
+  },
+  "fas-volume-mute": {
+    "body": "<${1:i} className=\"fas fa-volume-mute$2\"></${1:i}>",
+    "prefix": "fas-volume-mute"
+  },
+  "fas-volume-off": {
+    "body": "<${1:i} className=\"fas fa-volume-off$2\"></${1:i}>",
+    "prefix": "fas-volume-off"
+  },
+  "fas-volume-up": {
+    "body": "<${1:i} className=\"fas fa-volume-up$2\"></${1:i}>",
+    "prefix": "fas-volume-up"
+  },
+  "fas-watch": {
+    "body": "<${1:i} className=\"fas fa-watch$2\"></${1:i}>",
+    "prefix": "fas-watch"
+  },
+  "fas-wheelchair": {
+    "body": "<${1:i} className=\"fas fa-wheelchair$2\"></${1:i}>",
+    "prefix": "fas-wheelchair"
+  },
+  "fas-wifi": {
+    "body": "<${1:i} className=\"fas fa-wifi$2\"></${1:i}>",
+    "prefix": "fas-wifi"
+  },
+  "fas-window": {
+    "body": "<${1:i} className=\"fas fa-window$2\"></${1:i}>",
+    "prefix": "fas-window"
+  },
+  "fas-window-alt": {
+    "body": "<${1:i} className=\"fas fa-window-alt$2\"></${1:i}>",
+    "prefix": "fas-window-alt"
+  },
+  "fas-window-close": {
+    "body": "<${1:i} className=\"fas fa-window-close$2\"></${1:i}>",
+    "prefix": "fas-window-close"
+  },
+  "fas-window-maximize": {
+    "body": "<${1:i} className=\"fas fa-window-maximize$2\"></${1:i}>",
+    "prefix": "fas-window-maximize"
+  },
+  "fas-window-minimize": {
+    "body": "<${1:i} className=\"fas fa-window-minimize$2\"></${1:i}>",
+    "prefix": "fas-window-minimize"
+  },
+  "fas-window-restore": {
+    "body": "<${1:i} className=\"fas fa-window-restore$2\"></${1:i}>",
+    "prefix": "fas-window-restore"
+  },
+  "fas-won-sign": {
+    "body": "<${1:i} className=\"fas fa-won-sign$2\"></${1:i}>",
+    "prefix": "fas-won-sign"
+  },
+  "fas-wrench": {
+    "body": "<${1:i} className=\"fas fa-wrench$2\"></${1:i}>",
+    "prefix": "fas-wrench"
+  },
+  "fas-yen-sign": {
+    "body": "<${1:i} className=\"fas fa-yen-sign$2\"></${1:i}>",
+    "prefix": "fas-yen-sign"
+  }
+}

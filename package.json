@@ -63,7 +63,15 @@
             },
             {
                 "language": "css",
-                "path": "./snippets/css/fa.json"
+                "path": "./snippets/css/fab.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/css/far.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/css/fas.json"
             },
             {
                 "language": "css",
@@ -167,7 +175,7 @@
             },
             {
                 "language": "html",
-                "path": "./snippets/html/fa.json"
+                "path": "./snippets/html/fab.json"
             },
             {
                 "language": "html",
@@ -271,7 +279,15 @@
             },
             {
                 "language": "less",
-                "path": "./snippets/css/fa.json"
+                "path": "./snippets/css/fab.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/css/far.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/css/fas.json"
             },
             {
                 "language": "less",
@@ -375,7 +391,7 @@
             },
             {
                 "language": "blade",
-                "path": "./snippets/html/fa.json"
+                "path": "./snippets/html/fab.json"
             },
             {
                 "language": "blade",
@@ -479,7 +495,15 @@
             },
             {
                 "language": "scss",
-                "path": "./snippets/css/fa.json"
+                "path": "./snippets/css/fab.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/css/far.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/css/fas.json"
             },
             {
                 "language": "scss",
@@ -587,7 +611,7 @@
             },
             {
                 "language": "javascriptreact",
-                "path": "./snippets/jsx/fa.json"
+                "path": "./snippets/jsx/fab.json"
             },
             {
                 "language": "javascriptreact",
@@ -703,7 +727,7 @@
             },
             {
                 "language": "vue",
-                "path": "./snippets/html/fa.json"
+                "path": "./snippets/html/fab.json"
             },
             {
                 "language": "vue",

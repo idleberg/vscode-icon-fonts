@@ -1,0 +1,2478 @@
+{
+  "far-address-book": {
+    "body": "content: '\\\\f2b9';",
+    "prefix": "far-address-book"
+  },
+  "far-address-card": {
+    "body": "content: '\\\\f2bb';",
+    "prefix": "far-address-card"
+  },
+  "far-adjust": {
+    "body": "content: '\\\\f042';",
+    "prefix": "far-adjust"
+  },
+  "far-alarm-clock": {
+    "body": "content: '\\\\f34e';",
+    "prefix": "far-alarm-clock"
+  },
+  "far-align-center": {
+    "body": "content: '\\\\f037';",
+    "prefix": "far-align-center"
+  },
+  "far-align-justify": {
+    "body": "content: '\\\\f039';",
+    "prefix": "far-align-justify"
+  },
+  "far-align-left": {
+    "body": "content: '\\\\f036';",
+    "prefix": "far-align-left"
+  },
+  "far-align-right": {
+    "body": "content: '\\\\f038';",
+    "prefix": "far-align-right"
+  },
+  "far-ambulance": {
+    "body": "content: '\\\\f0f9';",
+    "prefix": "far-ambulance"
+  },
+  "far-american-sign-language-interpreting": {
+    "body": "content: '\\\\f2a3';",
+    "prefix": "far-american-sign-language-interpreting"
+  },
+  "far-anchor": {
+    "body": "content: '\\\\f13d';",
+    "prefix": "far-anchor"
+  },
+  "far-angle-double-down": {
+    "body": "content: '\\\\f103';",
+    "prefix": "far-angle-double-down"
+  },
+  "far-angle-double-left": {
+    "body": "content: '\\\\f100';",
+    "prefix": "far-angle-double-left"
+  },
+  "far-angle-double-right": {
+    "body": "content: '\\\\f101';",
+    "prefix": "far-angle-double-right"
+  },
+  "far-angle-double-up": {
+    "body": "content: '\\\\f102';",
+    "prefix": "far-angle-double-up"
+  },
+  "far-angle-down": {
+    "body": "content: '\\\\f107';",
+    "prefix": "far-angle-down"
+  },
+  "far-angle-left": {
+    "body": "content: '\\\\f104';",
+    "prefix": "far-angle-left"
+  },
+  "far-angle-right": {
+    "body": "content: '\\\\f105';",
+    "prefix": "far-angle-right"
+  },
+  "far-angle-up": {
+    "body": "content: '\\\\f106';",
+    "prefix": "far-angle-up"
+  },
+  "far-archive": {
+    "body": "content: '\\\\f187';",
+    "prefix": "far-archive"
+  },
+  "far-arrow-alt-circle-down": {
+    "body": "content: '\\\\f358';",
+    "prefix": "far-arrow-alt-circle-down"
+  },
+  "far-arrow-alt-circle-left": {
+    "body": "content: '\\\\f359';",
+    "prefix": "far-arrow-alt-circle-left"
+  },
+  "far-arrow-alt-circle-right": {
+    "body": "content: '\\\\f35a';",
+    "prefix": "far-arrow-alt-circle-right"
+  },
+  "far-arrow-alt-circle-up": {
+    "body": "content: '\\\\f35b';",
+    "prefix": "far-arrow-alt-circle-up"
+  },
+  "far-arrow-alt-down": {
+    "body": "content: '\\\\f354';",
+    "prefix": "far-arrow-alt-down"
+  },
+  "far-arrow-alt-from-bottom": {
+    "body": "content: '\\\\f346';",
+    "prefix": "far-arrow-alt-from-bottom"
+  },
+  "far-arrow-alt-from-left": {
+    "body": "content: '\\\\f347';",
+    "prefix": "far-arrow-alt-from-left"
+  },
+  "far-arrow-alt-from-right": {
+    "body": "content: '\\\\f348';",
+    "prefix": "far-arrow-alt-from-right"
+  },
+  "far-arrow-alt-from-top": {
+    "body": "content: '\\\\f349';",
+    "prefix": "far-arrow-alt-from-top"
+  },
+  "far-arrow-alt-left": {
+    "body": "content: '\\\\f355';",
+    "prefix": "far-arrow-alt-left"
+  },
+  "far-arrow-alt-right": {
+    "body": "content: '\\\\f356';",
+    "prefix": "far-arrow-alt-right"
+  },
+  "far-arrow-alt-square-down": {
+    "body": "content: '\\\\f350';",
+    "prefix": "far-arrow-alt-square-down"
+  },
+  "far-arrow-alt-square-left": {
+    "body": "content: '\\\\f351';",
+    "prefix": "far-arrow-alt-square-left"
+  },
+  "far-arrow-alt-square-right": {
+    "body": "content: '\\\\f352';",
+    "prefix": "far-arrow-alt-square-right"
+  },
+  "far-arrow-alt-square-up": {
+    "body": "content: '\\\\f353';",
+    "prefix": "far-arrow-alt-square-up"
+  },
+  "far-arrow-alt-to-bottom": {
+    "body": "content: '\\\\f34a';",
+    "prefix": "far-arrow-alt-to-bottom"
+  },
+  "far-arrow-alt-to-left": {
+    "body": "content: '\\\\f34b';",
+    "prefix": "far-arrow-alt-to-left"
+  },
+  "far-arrow-alt-to-right": {
+    "body": "content: '\\\\f34c';",
+    "prefix": "far-arrow-alt-to-right"
+  },
+  "far-arrow-alt-to-top": {
+    "body": "content: '\\\\f34d';",
+    "prefix": "far-arrow-alt-to-top"
+  },
+  "far-arrow-alt-up": {
+    "body": "content: '\\\\f357';",
+    "prefix": "far-arrow-alt-up"
+  },
+  "far-arrow-circle-down": {
+    "body": "content: '\\\\f0ab';",
+    "prefix": "far-arrow-circle-down"
+  },
+  "far-arrow-circle-left": {
+    "body": "content: '\\\\f0a8';",
+    "prefix": "far-arrow-circle-left"
+  },
+  "far-arrow-circle-right": {
+    "body": "content: '\\\\f0a9';",
+    "prefix": "far-arrow-circle-right"
+  },
+  "far-arrow-circle-up": {
+    "body": "content: '\\\\f0aa';",
+    "prefix": "far-arrow-circle-up"
+  },
+  "far-arrow-down": {
+    "body": "content: '\\\\f063';",
+    "prefix": "far-arrow-down"
+  },
+  "far-arrow-from-bottom": {
+    "body": "content: '\\\\f342';",
+    "prefix": "far-arrow-from-bottom"
+  },
+  "far-arrow-from-left": {
+    "body": "content: '\\\\f343';",
+    "prefix": "far-arrow-from-left"
+  },
+  "far-arrow-from-right": {
+    "body": "content: '\\\\f344';",
+    "prefix": "far-arrow-from-right"
+  },
+  "far-arrow-from-top": {
+    "body": "content: '\\\\f345';",
+    "prefix": "far-arrow-from-top"
+  },
+  "far-arrow-left": {
+    "body": "content: '\\\\f060';",
+    "prefix": "far-arrow-left"
+  },
+  "far-arrow-right": {
+    "body": "content: '\\\\f061';",
+    "prefix": "far-arrow-right"
+  },
+  "far-arrow-square-down": {
+    "body": "content: '\\\\f339';",
+    "prefix": "far-arrow-square-down"
+  },
+  "far-arrow-square-left": {
+    "body": "content: '\\\\f33a';",
+    "prefix": "far-arrow-square-left"
+  },
+  "far-arrow-square-right": {
+    "body": "content: '\\\\f33b';",
+    "prefix": "far-arrow-square-right"
+  },
+  "far-arrow-square-up": {
+    "body": "content: '\\\\f33c';",
+    "prefix": "far-arrow-square-up"
+  },
+  "far-arrow-to-bottom": {
+    "body": "content: '\\\\f33d';",
+    "prefix": "far-arrow-to-bottom"
+  },
+  "far-arrow-to-left": {
+    "body": "content: '\\\\f33e';",
+    "prefix": "far-arrow-to-left"
+  },
+  "far-arrow-to-right": {
+    "body": "content: '\\\\f340';",
+    "prefix": "far-arrow-to-right"
+  },
+  "far-arrow-to-top": {
+    "body": "content: '\\\\f341';",
+    "prefix": "far-arrow-to-top"
+  },
+  "far-arrow-up": {
+    "body": "content: '\\\\f062';",
+    "prefix": "far-arrow-up"
+  },
+  "far-arrows": {
+    "body": "content: '\\\\f047';",
+    "prefix": "far-arrows"
+  },
+  "far-arrows-alt": {
+    "body": "content: '\\\\f0b2';",
+    "prefix": "far-arrows-alt"
+  },
+  "far-arrows-alt-h": {
+    "body": "content: '\\\\f337';",
+    "prefix": "far-arrows-alt-h"
+  },
+  "far-arrows-alt-v": {
+    "body": "content: '\\\\f338';",
+    "prefix": "far-arrows-alt-v"
+  },
+  "far-arrows-h": {
+    "body": "content: '\\\\f07e';",
+    "prefix": "far-arrows-h"
+  },
+  "far-arrows-v": {
+    "body": "content: '\\\\f07d';",
+    "prefix": "far-arrows-v"
+  },
+  "far-assistive-listening-systems": {
+    "body": "content: '\\\\f2a2';",
+    "prefix": "far-assistive-listening-systems"
+  },
+  "far-asterisk": {
+    "body": "content: '\\\\f069';",
+    "prefix": "far-asterisk"
+  },
+  "far-at": {
+    "body": "content: '\\\\f1fa';",
+    "prefix": "far-at"
+  },
+  "far-audio-description": {
+    "body": "content: '\\\\f29e';",
+    "prefix": "far-audio-description"
+  },
+  "far-backward": {
+    "body": "content: '\\\\f04a';",
+    "prefix": "far-backward"
+  },
+  "far-badge": {
+    "body": "content: '\\\\f335';",
+    "prefix": "far-badge"
+  },
+  "far-badge-check": {
+    "body": "content: '\\\\f336';",
+    "prefix": "far-badge-check"
+  },
+  "far-balance-scale": {
+    "body": "content: '\\\\f24e';",
+    "prefix": "far-balance-scale"
+  },
+  "far-ban": {
+    "body": "content: '\\\\f05e';",
+    "prefix": "far-ban"
+  },
+  "far-barcode": {
+    "body": "content: '\\\\f02a';",
+    "prefix": "far-barcode"
+  },
+  "far-bars": {
+    "body": "content: '\\\\f0c9';",
+    "prefix": "far-bars"
+  },
+  "far-bath": {
+    "body": "content: '\\\\f2cd';",
+    "prefix": "far-bath"
+  },
+  "far-battery-bolt": {
+    "body": "content: '\\\\f376';",
+    "prefix": "far-battery-bolt"
+  },
+  "far-battery-empty": {
+    "body": "content: '\\\\f244';",
+    "prefix": "far-battery-empty"
+  },
+  "far-battery-full": {
+    "body": "content: '\\\\f240';",
+    "prefix": "far-battery-full"
+  },
+  "far-battery-half": {
+    "body": "content: '\\\\f242';",
+    "prefix": "far-battery-half"
+  },
+  "far-battery-quarter": {
+    "body": "content: '\\\\f243';",
+    "prefix": "far-battery-quarter"
+  },
+  "far-battery-slash": {
+    "body": "content: '\\\\f377';",
+    "prefix": "far-battery-slash"
+  },
+  "far-battery-three-quarters": {
+    "body": "content: '\\\\f241';",
+    "prefix": "far-battery-three-quarters"
+  },
+  "far-bed": {
+    "body": "content: '\\\\f236';",
+    "prefix": "far-bed"
+  },
+  "far-beer": {
+    "body": "content: '\\\\f0fc';",
+    "prefix": "far-beer"
+  },
+  "far-bell": {
+    "body": "content: '\\\\f0f3';",
+    "prefix": "far-bell"
+  },
+  "far-bell-slash": {
+    "body": "content: '\\\\f1f6';",
+    "prefix": "far-bell-slash"
+  },
+  "far-bicycle": {
+    "body": "content: '\\\\f206';",
+    "prefix": "far-bicycle"
+  },
+  "far-binoculars": {
+    "body": "content: '\\\\f1e5';",
+    "prefix": "far-binoculars"
+  },
+  "far-birthday-cake": {
+    "body": "content: '\\\\f1fd';",
+    "prefix": "far-birthday-cake"
+  },
+  "far-blind": {
+    "body": "content: '\\\\f29d';",
+    "prefix": "far-blind"
+  },
+  "far-bold": {
+    "body": "content: '\\\\f032';",
+    "prefix": "far-bold"
+  },
+  "far-bolt": {
+    "body": "content: '\\\\f0e7';",
+    "prefix": "far-bolt"
+  },
+  "far-bomb": {
+    "body": "content: '\\\\f1e2';",
+    "prefix": "far-bomb"
+  },
+  "far-book": {
+    "body": "content: '\\\\f02d';",
+    "prefix": "far-book"
+  },
+  "far-bookmark": {
+    "body": "content: '\\\\f02e';",
+    "prefix": "far-bookmark"
+  },
+  "far-braille": {
+    "body": "content: '\\\\f2a1';",
+    "prefix": "far-braille"
+  },
+  "far-briefcase": {
+    "body": "content: '\\\\f0b1';",
+    "prefix": "far-briefcase"
+  },
+  "far-browser": {
+    "body": "content: '\\\\f37e';",
+    "prefix": "far-browser"
+  },
+  "far-bug": {
+    "body": "content: '\\\\f188';",
+    "prefix": "far-bug"
+  },
+  "far-building": {
+    "body": "content: '\\\\f1ad';",
+    "prefix": "far-building"
+  },
+  "far-bullhorn": {
+    "body": "content: '\\\\f0a1';",
+    "prefix": "far-bullhorn"
+  },
+  "far-bullseye": {
+    "body": "content: '\\\\f140';",
+    "prefix": "far-bullseye"
+  },
+  "far-bus": {
+    "body": "content: '\\\\f207';",
+    "prefix": "far-bus"
+  },
+  "far-calculator": {
+    "body": "content: '\\\\f1ec';",
+    "prefix": "far-calculator"
+  },
+  "far-calendar": {
+    "body": "content: '\\\\f133';",
+    "prefix": "far-calendar"
+  },
+  "far-calendar-alt": {
+    "body": "content: '\\\\f073';",
+    "prefix": "far-calendar-alt"
+  },
+  "far-calendar-check": {
+    "body": "content: '\\\\f274';",
+    "prefix": "far-calendar-check"
+  },
+  "far-calendar-edit": {
+    "body": "content: '\\\\f333';",
+    "prefix": "far-calendar-edit"
+  },
+  "far-calendar-exclamation": {
+    "body": "content: '\\\\f334';",
+    "prefix": "far-calendar-exclamation"
+  },
+  "far-calendar-minus": {
+    "body": "content: '\\\\f272';",
+    "prefix": "far-calendar-minus"
+  },
+  "far-calendar-plus": {
+    "body": "content: '\\\\f271';",
+    "prefix": "far-calendar-plus"
+  },
+  "far-calendar-times": {
+    "body": "content: '\\\\f273';",
+    "prefix": "far-calendar-times"
+  },
+  "far-camera": {
+    "body": "content: '\\\\f030';",
+    "prefix": "far-camera"
+  },
+  "far-camera-alt": {
+    "body": "content: '\\\\f332';",
+    "prefix": "far-camera-alt"
+  },
+  "far-camera-retro": {
+    "body": "content: '\\\\f083';",
+    "prefix": "far-camera-retro"
+  },
+  "far-car": {
+    "body": "content: '\\\\f1b9';",
+    "prefix": "far-car"
+  },
+  "far-caret-circle-down": {
+    "body": "content: '\\\\f32d';",
+    "prefix": "far-caret-circle-down"
+  },
+  "far-caret-circle-left": {
+    "body": "content: '\\\\f32e';",
+    "prefix": "far-caret-circle-left"
+  },
+  "far-caret-circle-right": {
+    "body": "content: '\\\\f330';",
+    "prefix": "far-caret-circle-right"
+  },
+  "far-caret-circle-up": {
+    "body": "content: '\\\\f331';",
+    "prefix": "far-caret-circle-up"
+  },
+  "far-caret-down": {
+    "body": "content: '\\\\f0d7';",
+    "prefix": "far-caret-down"
+  },
+  "far-caret-left": {
+    "body": "content: '\\\\f0d9';",
+    "prefix": "far-caret-left"
+  },
+  "far-caret-right": {
+    "body": "content: '\\\\f0da';",
+    "prefix": "far-caret-right"
+  },
+  "far-caret-square-down": {
+    "body": "content: '\\\\f150';",
+    "prefix": "far-caret-square-down"
+  },
+  "far-caret-square-left": {
+    "body": "content: '\\\\f191';",
+    "prefix": "far-caret-square-left"
+  },
+  "far-caret-square-right": {
+    "body": "content: '\\\\f152';",
+    "prefix": "far-caret-square-right"
+  },
+  "far-caret-square-up": {
+    "body": "content: '\\\\f151';",
+    "prefix": "far-caret-square-up"
+  },
+  "far-caret-up": {
+    "body": "content: '\\\\f0d8';",
+    "prefix": "far-caret-up"
+  },
+  "far-cart-arrow-down": {
+    "body": "content: '\\\\f218';",
+    "prefix": "far-cart-arrow-down"
+  },
+  "far-cart-plus": {
+    "body": "content: '\\\\f217';",
+    "prefix": "far-cart-plus"
+  },
+  "far-certificate": {
+    "body": "content: '\\\\f0a3';",
+    "prefix": "far-certificate"
+  },
+  "far-chart-area": {
+    "body": "content: '\\\\f1fe';",
+    "prefix": "far-chart-area"
+  },
+  "far-chart-bar": {
+    "body": "content: '\\\\f080';",
+    "prefix": "far-chart-bar"
+  },
+  "far-chart-line": {
+    "body": "content: '\\\\f201';",
+    "prefix": "far-chart-line"
+  },
+  "far-chart-pie": {
+    "body": "content: '\\\\f200';",
+    "prefix": "far-chart-pie"
+  },
+  "far-check": {
+    "body": "content: '\\\\f00c';",
+    "prefix": "far-check"
+  },
+  "far-check-circle": {
+    "body": "content: '\\\\f058';",
+    "prefix": "far-check-circle"
+  },
+  "far-check-square": {
+    "body": "content: '\\\\f14a';",
+    "prefix": "far-check-square"
+  },
+  "far-chevron-circle-down": {
+    "body": "content: '\\\\f13a';",
+    "prefix": "far-chevron-circle-down"
+  },
+  "far-chevron-circle-left": {
+    "body": "content: '\\\\f137';",
+    "prefix": "far-chevron-circle-left"
+  },
+  "far-chevron-circle-right": {
+    "body": "content: '\\\\f138';",
+    "prefix": "far-chevron-circle-right"
+  },
+  "far-chevron-circle-up": {
+    "body": "content: '\\\\f139';",
+    "prefix": "far-chevron-circle-up"
+  },
+  "far-chevron-double-down": {
+    "body": "content: '\\\\f322';",
+    "prefix": "far-chevron-double-down"
+  },
+  "far-chevron-double-left": {
+    "body": "content: '\\\\f323';",
+    "prefix": "far-chevron-double-left"
+  },
+  "far-chevron-double-right": {
+    "body": "content: '\\\\f324';",
+    "prefix": "far-chevron-double-right"
+  },
+  "far-chevron-double-up": {
+    "body": "content: '\\\\f325';",
+    "prefix": "far-chevron-double-up"
+  },
+  "far-chevron-down": {
+    "body": "content: '\\\\f078';",
+    "prefix": "far-chevron-down"
+  },
+  "far-chevron-left": {
+    "body": "content: '\\\\f053';",
+    "prefix": "far-chevron-left"
+  },
+  "far-chevron-right": {
+    "body": "content: '\\\\f054';",
+    "prefix": "far-chevron-right"
+  },
+  "far-chevron-square-down": {
+    "body": "content: '\\\\f329';",
+    "prefix": "far-chevron-square-down"
+  },
+  "far-chevron-square-left": {
+    "body": "content: '\\\\f32a';",
+    "prefix": "far-chevron-square-left"
+  },
+  "far-chevron-square-right": {
+    "body": "content: '\\\\f32b';",
+    "prefix": "far-chevron-square-right"
+  },
+  "far-chevron-square-up": {
+    "body": "content: '\\\\f32c';",
+    "prefix": "far-chevron-square-up"
+  },
+  "far-chevron-up": {
+    "body": "content: '\\\\f077';",
+    "prefix": "far-chevron-up"
+  },
+  "far-child": {
+    "body": "content: '\\\\f1ae';",
+    "prefix": "far-child"
+  },
+  "far-circle": {
+    "body": "content: '\\\\f111';",
+    "prefix": "far-circle"
+  },
+  "far-circle-notch": {
+    "body": "content: '\\\\f1ce';",
+    "prefix": "far-circle-notch"
+  },
+  "far-clipboard": {
+    "body": "content: '\\\\f328';",
+    "prefix": "far-clipboard"
+  },
+  "far-clock": {
+    "body": "content: '\\\\f017';",
+    "prefix": "far-clock"
+  },
+  "far-clone": {
+    "body": "content: '\\\\f24d';",
+    "prefix": "far-clone"
+  },
+  "far-closed-captioning": {
+    "body": "content: '\\\\f20a';",
+    "prefix": "far-closed-captioning"
+  },
+  "far-cloud": {
+    "body": "content: '\\\\f0c2';",
+    "prefix": "far-cloud"
+  },
+  "far-cloud-download": {
+    "body": "content: '\\\\f0ed';",
+    "prefix": "far-cloud-download"
+  },
+  "far-cloud-download-alt": {
+    "body": "content: '\\\\f381';",
+    "prefix": "far-cloud-download-alt"
+  },
+  "far-cloud-upload": {
+    "body": "content: '\\\\f0ee';",
+    "prefix": "far-cloud-upload"
+  },
+  "far-cloud-upload-alt": {
+    "body": "content: '\\\\f382';",
+    "prefix": "far-cloud-upload-alt"
+  },
+  "far-club": {
+    "body": "content: '\\\\f327';",
+    "prefix": "far-club"
+  },
+  "far-code": {
+    "body": "content: '\\\\f121';",
+    "prefix": "far-code"
+  },
+  "far-code-branch": {
+    "body": "content: '\\\\f126';",
+    "prefix": "far-code-branch"
+  },
+  "far-code-commit": {
+    "body": "content: '\\\\f386';",
+    "prefix": "far-code-commit"
+  },
+  "far-code-merge": {
+    "body": "content: '\\\\f387';",
+    "prefix": "far-code-merge"
+  },
+  "far-coffee": {
+    "body": "content: '\\\\f0f4';",
+    "prefix": "far-coffee"
+  },
+  "far-cog": {
+    "body": "content: '\\\\f013';",
+    "prefix": "far-cog"
+  },
+  "far-cogs": {
+    "body": "content: '\\\\f085';",
+    "prefix": "far-cogs"
+  },
+  "far-columns": {
+    "body": "content: '\\\\f0db';",
+    "prefix": "far-columns"
+  },
+  "far-comment": {
+    "body": "content: '\\\\f075';",
+    "prefix": "far-comment"
+  },
+  "far-comment-alt": {
+    "body": "content: '\\\\f27a';",
+    "prefix": "far-comment-alt"
+  },
+  "far-comments": {
+    "body": "content: '\\\\f086';",
+    "prefix": "far-comments"
+  },
+  "far-compass": {
+    "body": "content: '\\\\f14e';",
+    "prefix": "far-compass"
+  },
+  "far-compress": {
+    "body": "content: '\\\\f066';",
+    "prefix": "far-compress"
+  },
+  "far-compress-alt": {
+    "body": "content: '\\\\f422';",
+    "prefix": "far-compress-alt"
+  },
+  "far-compress-wide": {
+    "body": "content: '\\\\f326';",
+    "prefix": "far-compress-wide"
+  },
+  "far-copy": {
+    "body": "content: '\\\\f0c5';",
+    "prefix": "far-copy"
+  },
+  "far-copyright": {
+    "body": "content: '\\\\f1f9';",
+    "prefix": "far-copyright"
+  },
+  "far-credit-card": {
+    "body": "content: '\\\\f09d';",
+    "prefix": "far-credit-card"
+  },
+  "far-credit-card-blank": {
+    "body": "content: '\\\\f389';",
+    "prefix": "far-credit-card-blank"
+  },
+  "far-credit-card-front": {
+    "body": "content: '\\\\f38a';",
+    "prefix": "far-credit-card-front"
+  },
+  "far-crop": {
+    "body": "content: '\\\\f125';",
+    "prefix": "far-crop"
+  },
+  "far-crosshairs": {
+    "body": "content: '\\\\f05b';",
+    "prefix": "far-crosshairs"
+  },
+  "far-cube": {
+    "body": "content: '\\\\f1b2';",
+    "prefix": "far-cube"
+  },
+  "far-cubes": {
+    "body": "content: '\\\\f1b3';",
+    "prefix": "far-cubes"
+  },
+  "far-cut": {
+    "body": "content: '\\\\f0c4';",
+    "prefix": "far-cut"
+  },
+  "far-database": {
+    "body": "content: '\\\\f1c0';",
+    "prefix": "far-database"
+  },
+  "far-deaf": {
+    "body": "content: '\\\\f2a4';",
+    "prefix": "far-deaf"
+  },
+  "far-desktop": {
+    "body": "content: '\\\\f108';",
+    "prefix": "far-desktop"
+  },
+  "far-desktop-alt": {
+    "body": "content: '\\\\f390';",
+    "prefix": "far-desktop-alt"
+  },
+  "far-diamond": {
+    "body": "content: '\\\\f219';",
+    "prefix": "far-diamond"
+  },
+  "far-dollar-sign": {
+    "body": "content: '\\\\f155';",
+    "prefix": "far-dollar-sign"
+  },
+  "far-dot-circle": {
+    "body": "content: '\\\\f192';",
+    "prefix": "far-dot-circle"
+  },
+  "far-download": {
+    "body": "content: '\\\\f019';",
+    "prefix": "far-download"
+  },
+  "far-edit": {
+    "body": "content: '\\\\f044';",
+    "prefix": "far-edit"
+  },
+  "far-eject": {
+    "body": "content: '\\\\f052';",
+    "prefix": "far-eject"
+  },
+  "far-ellipsis-h": {
+    "body": "content: '\\\\f141';",
+    "prefix": "far-ellipsis-h"
+  },
+  "far-ellipsis-h-alt": {
+    "body": "content: '\\\\f39b';",
+    "prefix": "far-ellipsis-h-alt"
+  },
+  "far-ellipsis-v": {
+    "body": "content: '\\\\f142';",
+    "prefix": "far-ellipsis-v"
+  },
+  "far-ellipsis-v-alt": {
+    "body": "content: '\\\\f39c';",
+    "prefix": "far-ellipsis-v-alt"
+  },
+  "far-envelope": {
+    "body": "content: '\\\\f0e0';",
+    "prefix": "far-envelope"
+  },
+  "far-envelope-open": {
+    "body": "content: '\\\\f2b6';",
+    "prefix": "far-envelope-open"
+  },
+  "far-envelope-square": {
+    "body": "content: '\\\\f199';",
+    "prefix": "far-envelope-square"
+  },
+  "far-eraser": {
+    "body": "content: '\\\\f12d';",
+    "prefix": "far-eraser"
+  },
+  "far-euro-sign": {
+    "body": "content: '\\\\f153';",
+    "prefix": "far-euro-sign"
+  },
+  "far-exchange": {
+    "body": "content: '\\\\f0ec';",
+    "prefix": "far-exchange"
+  },
+  "far-exchange-alt": {
+    "body": "content: '\\\\f362';",
+    "prefix": "far-exchange-alt"
+  },
+  "far-exclamation": {
+    "body": "content: '\\\\f12a';",
+    "prefix": "far-exclamation"
+  },
+  "far-exclamation-circle": {
+    "body": "content: '\\\\f06a';",
+    "prefix": "far-exclamation-circle"
+  },
+  "far-exclamation-square": {
+    "body": "content: '\\\\f321';",
+    "prefix": "far-exclamation-square"
+  },
+  "far-exclamation-triangle": {
+    "body": "content: '\\\\f071';",
+    "prefix": "far-exclamation-triangle"
+  },
+  "far-expand": {
+    "body": "content: '\\\\f065';",
+    "prefix": "far-expand"
+  },
+  "far-expand-alt": {
+    "body": "content: '\\\\f424';",
+    "prefix": "far-expand-alt"
+  },
+  "far-expand-arrows": {
+    "body": "content: '\\\\f31d';",
+    "prefix": "far-expand-arrows"
+  },
+  "far-expand-arrows-alt": {
+    "body": "content: '\\\\f31e';",
+    "prefix": "far-expand-arrows-alt"
+  },
+  "far-expand-wide": {
+    "body": "content: '\\\\f320';",
+    "prefix": "far-expand-wide"
+  },
+  "far-external-link": {
+    "body": "content: '\\\\f08e';",
+    "prefix": "far-external-link"
+  },
+  "far-external-link-alt": {
+    "body": "content: '\\\\f35d';",
+    "prefix": "far-external-link-alt"
+  },
+  "far-external-link-square": {
+    "body": "content: '\\\\f14c';",
+    "prefix": "far-external-link-square"
+  },
+  "far-external-link-square-alt": {
+    "body": "content: '\\\\f360';",
+    "prefix": "far-external-link-square-alt"
+  },
+  "far-eye": {
+    "body": "content: '\\\\f06e';",
+    "prefix": "far-eye"
+  },
+  "far-eye-dropper": {
+    "body": "content: '\\\\f1fb';",
+    "prefix": "far-eye-dropper"
+  },
+  "far-eye-slash": {
+    "body": "content: '\\\\f070';",
+    "prefix": "far-eye-slash"
+  },
+  "far-fast-backward": {
+    "body": "content: '\\\\f049';",
+    "prefix": "far-fast-backward"
+  },
+  "far-fast-forward": {
+    "body": "content: '\\\\f050';",
+    "prefix": "far-fast-forward"
+  },
+  "far-fax": {
+    "body": "content: '\\\\f1ac';",
+    "prefix": "far-fax"
+  },
+  "far-female": {
+    "body": "content: '\\\\f182';",
+    "prefix": "far-female"
+  },
+  "far-fighter-jet": {
+    "body": "content: '\\\\f0fb';",
+    "prefix": "far-fighter-jet"
+  },
+  "far-file": {
+    "body": "content: '\\\\f15b';",
+    "prefix": "far-file"
+  },
+  "far-file-alt": {
+    "body": "content: '\\\\f15c';",
+    "prefix": "far-file-alt"
+  },
+  "far-file-archive": {
+    "body": "content: '\\\\f1c6';",
+    "prefix": "far-file-archive"
+  },
+  "far-file-audio": {
+    "body": "content: '\\\\f1c7';",
+    "prefix": "far-file-audio"
+  },
+  "far-file-check": {
+    "body": "content: '\\\\f316';",
+    "prefix": "far-file-check"
+  },
+  "far-file-code": {
+    "body": "content: '\\\\f1c9';",
+    "prefix": "far-file-code"
+  },
+  "far-file-edit": {
+    "body": "content: '\\\\f31c';",
+    "prefix": "far-file-edit"
+  },
+  "far-file-excel": {
+    "body": "content: '\\\\f1c3';",
+    "prefix": "far-file-excel"
+  },
+  "far-file-exclamation": {
+    "body": "content: '\\\\f31a';",
+    "prefix": "far-file-exclamation"
+  },
+  "far-file-image": {
+    "body": "content: '\\\\f1c5';",
+    "prefix": "far-file-image"
+  },
+  "far-file-minus": {
+    "body": "content: '\\\\f318';",
+    "prefix": "far-file-minus"
+  },
+  "far-file-pdf": {
+    "body": "content: '\\\\f1c1';",
+    "prefix": "far-file-pdf"
+  },
+  "far-file-plus": {
+    "body": "content: '\\\\f319';",
+    "prefix": "far-file-plus"
+  },
+  "far-file-powerpoint": {
+    "body": "content: '\\\\f1c4';",
+    "prefix": "far-file-powerpoint"
+  },
+  "far-file-times": {
+    "body": "content: '\\\\f317';",
+    "prefix": "far-file-times"
+  },
+  "far-file-video": {
+    "body": "content: '\\\\f1c8';",
+    "prefix": "far-file-video"
+  },
+  "far-file-word": {
+    "body": "content: '\\\\f1c2';",
+    "prefix": "far-file-word"
+  },
+  "far-film": {
+    "body": "content: '\\\\f008';",
+    "prefix": "far-film"
+  },
+  "far-film-alt": {
+    "body": "content: '\\\\f3a0';",
+    "prefix": "far-film-alt"
+  },
+  "far-filter": {
+    "body": "content: '\\\\f0b0';",
+    "prefix": "far-filter"
+  },
+  "far-fire": {
+    "body": "content: '\\\\f06d';",
+    "prefix": "far-fire"
+  },
+  "far-fire-extinguisher": {
+    "body": "content: '\\\\f134';",
+    "prefix": "far-fire-extinguisher"
+  },
+  "far-flag": {
+    "body": "content: '\\\\f024';",
+    "prefix": "far-flag"
+  },
+  "far-flag-checkered": {
+    "body": "content: '\\\\f11e';",
+    "prefix": "far-flag-checkered"
+  },
+  "far-flask": {
+    "body": "content: '\\\\f0c3';",
+    "prefix": "far-flask"
+  },
+  "far-folder": {
+    "body": "content: '\\\\f07b';",
+    "prefix": "far-folder"
+  },
+  "far-folder-open": {
+    "body": "content: '\\\\f07c';",
+    "prefix": "far-folder-open"
+  },
+  "far-font": {
+    "body": "content: '\\\\f031';",
+    "prefix": "far-font"
+  },
+  "far-forward": {
+    "body": "content: '\\\\f04e';",
+    "prefix": "far-forward"
+  },
+  "far-frown": {
+    "body": "content: '\\\\f119';",
+    "prefix": "far-frown"
+  },
+  "far-futbol": {
+    "body": "content: '\\\\f1e3';",
+    "prefix": "far-futbol"
+  },
+  "far-gamepad": {
+    "body": "content: '\\\\f11b';",
+    "prefix": "far-gamepad"
+  },
+  "far-gavel": {
+    "body": "content: '\\\\f0e3';",
+    "prefix": "far-gavel"
+  },
+  "far-gem": {
+    "body": "content: '\\\\f3a5';",
+    "prefix": "far-gem"
+  },
+  "far-genderless": {
+    "body": "content: '\\\\f22d';",
+    "prefix": "far-genderless"
+  },
+  "far-gift": {
+    "body": "content: '\\\\f06b';",
+    "prefix": "far-gift"
+  },
+  "far-glass-martini": {
+    "body": "content: '\\\\f000';",
+    "prefix": "far-glass-martini"
+  },
+  "far-globe": {
+    "body": "content: '\\\\f0ac';",
+    "prefix": "far-globe"
+  },
+  "far-graduation-cap": {
+    "body": "content: '\\\\f19d';",
+    "prefix": "far-graduation-cap"
+  },
+  "far-h-square": {
+    "body": "content: '\\\\f0fd';",
+    "prefix": "far-h-square"
+  },
+  "far-h1": {
+    "body": "content: '\\\\f313';",
+    "prefix": "far-h1"
+  },
+  "far-h2": {
+    "body": "content: '\\\\f314';",
+    "prefix": "far-h2"
+  },
+  "far-h3": {
+    "body": "content: '\\\\f315';",
+    "prefix": "far-h3"
+  },
+  "far-hand-lizard": {
+    "body": "content: '\\\\f258';",
+    "prefix": "far-hand-lizard"
+  },
+  "far-hand-paper": {
+    "body": "content: '\\\\f256';",
+    "prefix": "far-hand-paper"
+  },
+  "far-hand-peace": {
+    "body": "content: '\\\\f25b';",
+    "prefix": "far-hand-peace"
+  },
+  "far-hand-point-down": {
+    "body": "content: '\\\\f0a7';",
+    "prefix": "far-hand-point-down"
+  },
+  "far-hand-point-left": {
+    "body": "content: '\\\\f0a5';",
+    "prefix": "far-hand-point-left"
+  },
+  "far-hand-point-right": {
+    "body": "content: '\\\\f0a4';",
+    "prefix": "far-hand-point-right"
+  },
+  "far-hand-point-up": {
+    "body": "content: '\\\\f0a6';",
+    "prefix": "far-hand-point-up"
+  },
+  "far-hand-pointer": {
+    "body": "content: '\\\\f25a';",
+    "prefix": "far-hand-pointer"
+  },
+  "far-hand-rock": {
+    "body": "content: '\\\\f255';",
+    "prefix": "far-hand-rock"
+  },
+  "far-hand-scissors": {
+    "body": "content: '\\\\f257';",
+    "prefix": "far-hand-scissors"
+  },
+  "far-hand-spock": {
+    "body": "content: '\\\\f259';",
+    "prefix": "far-hand-spock"
+  },
+  "far-handshake": {
+    "body": "content: '\\\\f2b5';",
+    "prefix": "far-handshake"
+  },
+  "far-hashtag": {
+    "body": "content: '\\\\f292';",
+    "prefix": "far-hashtag"
+  },
+  "far-hdd": {
+    "body": "content: '\\\\f0a0';",
+    "prefix": "far-hdd"
+  },
+  "far-heading": {
+    "body": "content: '\\\\f1dc';",
+    "prefix": "far-heading"
+  },
+  "far-headphones": {
+    "body": "content: '\\\\f025';",
+    "prefix": "far-headphones"
+  },
+  "far-heart": {
+    "body": "content: '\\\\f004';",
+    "prefix": "far-heart"
+  },
+  "far-heartbeat": {
+    "body": "content: '\\\\f21e';",
+    "prefix": "far-heartbeat"
+  },
+  "far-hexagon": {
+    "body": "content: '\\\\f312';",
+    "prefix": "far-hexagon"
+  },
+  "far-history": {
+    "body": "content: '\\\\f1da';",
+    "prefix": "far-history"
+  },
+  "far-home": {
+    "body": "content: '\\\\f015';",
+    "prefix": "far-home"
+  },
+  "far-hospital": {
+    "body": "content: '\\\\f0f8';",
+    "prefix": "far-hospital"
+  },
+  "far-hourglass": {
+    "body": "content: '\\\\f254';",
+    "prefix": "far-hourglass"
+  },
+  "far-hourglass-end": {
+    "body": "content: '\\\\f253';",
+    "prefix": "far-hourglass-end"
+  },
+  "far-hourglass-half": {
+    "body": "content: '\\\\f252';",
+    "prefix": "far-hourglass-half"
+  },
+  "far-hourglass-start": {
+    "body": "content: '\\\\f251';",
+    "prefix": "far-hourglass-start"
+  },
+  "far-i-cursor": {
+    "body": "content: '\\\\f246';",
+    "prefix": "far-i-cursor"
+  },
+  "far-id-badge": {
+    "body": "content: '\\\\f2c1';",
+    "prefix": "far-id-badge"
+  },
+  "far-id-card": {
+    "body": "content: '\\\\f2c2';",
+    "prefix": "far-id-card"
+  },
+  "far-image": {
+    "body": "content: '\\\\f03e';",
+    "prefix": "far-image"
+  },
+  "far-images": {
+    "body": "content: '\\\\f302';",
+    "prefix": "far-images"
+  },
+  "far-inbox": {
+    "body": "content: '\\\\f01c';",
+    "prefix": "far-inbox"
+  },
+  "far-inbox-in": {
+    "body": "content: '\\\\f310';",
+    "prefix": "far-inbox-in"
+  },
+  "far-inbox-out": {
+    "body": "content: '\\\\f311';",
+    "prefix": "far-inbox-out"
+  },
+  "far-indent": {
+    "body": "content: '\\\\f03c';",
+    "prefix": "far-indent"
+  },
+  "far-industry": {
+    "body": "content: '\\\\f275';",
+    "prefix": "far-industry"
+  },
+  "far-industry-alt": {
+    "body": "content: '\\\\f3b3';",
+    "prefix": "far-industry-alt"
+  },
+  "far-info": {
+    "body": "content: '\\\\f129';",
+    "prefix": "far-info"
+  },
+  "far-info-circle": {
+    "body": "content: '\\\\f05a';",
+    "prefix": "far-info-circle"
+  },
+  "far-info-square": {
+    "body": "content: '\\\\f30f';",
+    "prefix": "far-info-square"
+  },
+  "far-italic": {
+    "body": "content: '\\\\f033';",
+    "prefix": "far-italic"
+  },
+  "far-jack-o-lantern": {
+    "body": "content: '\\\\f30e';",
+    "prefix": "far-jack-o-lantern"
+  },
+  "far-key": {
+    "body": "content: '\\\\f084';",
+    "prefix": "far-key"
+  },
+  "far-keyboard": {
+    "body": "content: '\\\\f11c';",
+    "prefix": "far-keyboard"
+  },
+  "far-language": {
+    "body": "content: '\\\\f1ab';",
+    "prefix": "far-language"
+  },
+  "far-laptop": {
+    "body": "content: '\\\\f109';",
+    "prefix": "far-laptop"
+  },
+  "far-leaf": {
+    "body": "content: '\\\\f06c';",
+    "prefix": "far-leaf"
+  },
+  "far-lemon": {
+    "body": "content: '\\\\f094';",
+    "prefix": "far-lemon"
+  },
+  "far-level-down": {
+    "body": "content: '\\\\f149';",
+    "prefix": "far-level-down"
+  },
+  "far-level-down-alt": {
+    "body": "content: '\\\\f3be';",
+    "prefix": "far-level-down-alt"
+  },
+  "far-level-up": {
+    "body": "content: '\\\\f148';",
+    "prefix": "far-level-up"
+  },
+  "far-level-up-alt": {
+    "body": "content: '\\\\f3bf';",
+    "prefix": "far-level-up-alt"
+  },
+  "far-life-ring": {
+    "body": "content: '\\\\f1cd';",
+    "prefix": "far-life-ring"
+  },
+  "far-lightbulb": {
+    "body": "content: '\\\\f0eb';",
+    "prefix": "far-lightbulb"
+  },
+  "far-link": {
+    "body": "content: '\\\\f0c1';",
+    "prefix": "far-link"
+  },
+  "far-lira-sign": {
+    "body": "content: '\\\\f195';",
+    "prefix": "far-lira-sign"
+  },
+  "far-list": {
+    "body": "content: '\\\\f03a';",
+    "prefix": "far-list"
+  },
+  "far-list-alt": {
+    "body": "content: '\\\\f022';",
+    "prefix": "far-list-alt"
+  },
+  "far-list-ol": {
+    "body": "content: '\\\\f0cb';",
+    "prefix": "far-list-ol"
+  },
+  "far-list-ul": {
+    "body": "content: '\\\\f0ca';",
+    "prefix": "far-list-ul"
+  },
+  "far-location-arrow": {
+    "body": "content: '\\\\f124';",
+    "prefix": "far-location-arrow"
+  },
+  "far-lock": {
+    "body": "content: '\\\\f023';",
+    "prefix": "far-lock"
+  },
+  "far-lock-alt": {
+    "body": "content: '\\\\f30d';",
+    "prefix": "far-lock-alt"
+  },
+  "far-lock-open": {
+    "body": "content: '\\\\f3c1';",
+    "prefix": "far-lock-open"
+  },
+  "far-lock-open-alt": {
+    "body": "content: '\\\\f3c2';",
+    "prefix": "far-lock-open-alt"
+  },
+  "far-long-arrow-alt-down": {
+    "body": "content: '\\\\f309';",
+    "prefix": "far-long-arrow-alt-down"
+  },
+  "far-long-arrow-alt-left": {
+    "body": "content: '\\\\f30a';",
+    "prefix": "far-long-arrow-alt-left"
+  },
+  "far-long-arrow-alt-right": {
+    "body": "content: '\\\\f30b';",
+    "prefix": "far-long-arrow-alt-right"
+  },
+  "far-long-arrow-alt-up": {
+    "body": "content: '\\\\f30c';",
+    "prefix": "far-long-arrow-alt-up"
+  },
+  "far-long-arrow-down": {
+    "body": "content: '\\\\f175';",
+    "prefix": "far-long-arrow-down"
+  },
+  "far-long-arrow-left": {
+    "body": "content: '\\\\f177';",
+    "prefix": "far-long-arrow-left"
+  },
+  "far-long-arrow-right": {
+    "body": "content: '\\\\f178';",
+    "prefix": "far-long-arrow-right"
+  },
+  "far-long-arrow-up": {
+    "body": "content: '\\\\f176';",
+    "prefix": "far-long-arrow-up"
+  },
+  "far-low-vision": {
+    "body": "content: '\\\\f2a8';",
+    "prefix": "far-low-vision"
+  },
+  "far-magic": {
+    "body": "content: '\\\\f0d0';",
+    "prefix": "far-magic"
+  },
+  "far-magnet": {
+    "body": "content: '\\\\f076';",
+    "prefix": "far-magnet"
+  },
+  "far-male": {
+    "body": "content: '\\\\f183';",
+    "prefix": "far-male"
+  },
+  "far-map": {
+    "body": "content: '\\\\f279';",
+    "prefix": "far-map"
+  },
+  "far-map-marker": {
+    "body": "content: '\\\\f041';",
+    "prefix": "far-map-marker"
+  },
+  "far-map-marker-alt": {
+    "body": "content: '\\\\f3c5';",
+    "prefix": "far-map-marker-alt"
+  },
+  "far-map-pin": {
+    "body": "content: '\\\\f276';",
+    "prefix": "far-map-pin"
+  },
+  "far-map-signs": {
+    "body": "content: '\\\\f277';",
+    "prefix": "far-map-signs"
+  },
+  "far-mars": {
+    "body": "content: '\\\\f222';",
+    "prefix": "far-mars"
+  },
+  "far-mars-double": {
+    "body": "content: '\\\\f227';",
+    "prefix": "far-mars-double"
+  },
+  "far-mars-stroke": {
+    "body": "content: '\\\\f229';",
+    "prefix": "far-mars-stroke"
+  },
+  "far-mars-stroke-h": {
+    "body": "content: '\\\\f22b';",
+    "prefix": "far-mars-stroke-h"
+  },
+  "far-mars-stroke-v": {
+    "body": "content: '\\\\f22a';",
+    "prefix": "far-mars-stroke-v"
+  },
+  "far-medkit": {
+    "body": "content: '\\\\f0fa';",
+    "prefix": "far-medkit"
+  },
+  "far-meh": {
+    "body": "content: '\\\\f11a';",
+    "prefix": "far-meh"
+  },
+  "far-mercury": {
+    "body": "content: '\\\\f223';",
+    "prefix": "far-mercury"
+  },
+  "far-microchip": {
+    "body": "content: '\\\\f2db';",
+    "prefix": "far-microchip"
+  },
+  "far-microphone": {
+    "body": "content: '\\\\f130';",
+    "prefix": "far-microphone"
+  },
+  "far-microphone-alt": {
+    "body": "content: '\\\\f3c9';",
+    "prefix": "far-microphone-alt"
+  },
+  "far-microphone-slash": {
+    "body": "content: '\\\\f131';",
+    "prefix": "far-microphone-slash"
+  },
+  "far-minus": {
+    "body": "content: '\\\\f068';",
+    "prefix": "far-minus"
+  },
+  "far-minus-circle": {
+    "body": "content: '\\\\f056';",
+    "prefix": "far-minus-circle"
+  },
+  "far-minus-hexagon": {
+    "body": "content: '\\\\f307';",
+    "prefix": "far-minus-hexagon"
+  },
+  "far-minus-octagon": {
+    "body": "content: '\\\\f308';",
+    "prefix": "far-minus-octagon"
+  },
+  "far-minus-square": {
+    "body": "content: '\\\\f146';",
+    "prefix": "far-minus-square"
+  },
+  "far-mobile": {
+    "body": "content: '\\\\f10b';",
+    "prefix": "far-mobile"
+  },
+  "far-mobile-alt": {
+    "body": "content: '\\\\f3cd';",
+    "prefix": "far-mobile-alt"
+  },
+  "far-mobile-android": {
+    "body": "content: '\\\\f3ce';",
+    "prefix": "far-mobile-android"
+  },
+  "far-mobile-android-alt": {
+    "body": "content: '\\\\f3cf';",
+    "prefix": "far-mobile-android-alt"
+  },
+  "far-money-bill": {
+    "body": "content: '\\\\f0d6';",
+    "prefix": "far-money-bill"
+  },
+  "far-money-bill-alt": {
+    "body": "content: '\\\\f3d1';",
+    "prefix": "far-money-bill-alt"
+  },
+  "far-moon": {
+    "body": "content: '\\\\f186';",
+    "prefix": "far-moon"
+  },
+  "far-motorcycle": {
+    "body": "content: '\\\\f21c';",
+    "prefix": "far-motorcycle"
+  },
+  "far-mouse-pointer": {
+    "body": "content: '\\\\f245';",
+    "prefix": "far-mouse-pointer"
+  },
+  "far-music": {
+    "body": "content: '\\\\f001';",
+    "prefix": "far-music"
+  },
+  "far-neuter": {
+    "body": "content: '\\\\f22c';",
+    "prefix": "far-neuter"
+  },
+  "far-newspaper": {
+    "body": "content: '\\\\f1ea';",
+    "prefix": "far-newspaper"
+  },
+  "far-object-group": {
+    "body": "content: '\\\\f247';",
+    "prefix": "far-object-group"
+  },
+  "far-object-ungroup": {
+    "body": "content: '\\\\f248';",
+    "prefix": "far-object-ungroup"
+  },
+  "far-octagon": {
+    "body": "content: '\\\\f306';",
+    "prefix": "far-octagon"
+  },
+  "far-outdent": {
+    "body": "content: '\\\\f03b';",
+    "prefix": "far-outdent"
+  },
+  "far-paint-brush": {
+    "body": "content: '\\\\f1fc';",
+    "prefix": "far-paint-brush"
+  },
+  "far-paper-plane": {
+    "body": "content: '\\\\f1d8';",
+    "prefix": "far-paper-plane"
+  },
+  "far-paperclip": {
+    "body": "content: '\\\\f0c6';",
+    "prefix": "far-paperclip"
+  },
+  "far-paragraph": {
+    "body": "content: '\\\\f1dd';",
+    "prefix": "far-paragraph"
+  },
+  "far-paste": {
+    "body": "content: '\\\\f0ea';",
+    "prefix": "far-paste"
+  },
+  "far-pause": {
+    "body": "content: '\\\\f04c';",
+    "prefix": "far-pause"
+  },
+  "far-pause-circle": {
+    "body": "content: '\\\\f28b';",
+    "prefix": "far-pause-circle"
+  },
+  "far-paw": {
+    "body": "content: '\\\\f1b0';",
+    "prefix": "far-paw"
+  },
+  "far-pen": {
+    "body": "content: '\\\\f304';",
+    "prefix": "far-pen"
+  },
+  "far-pen-alt": {
+    "body": "content: '\\\\f305';",
+    "prefix": "far-pen-alt"
+  },
+  "far-pen-square": {
+    "body": "content: '\\\\f14b';",
+    "prefix": "far-pen-square"
+  },
+  "far-pencil": {
+    "body": "content: '\\\\f040';",
+    "prefix": "far-pencil"
+  },
+  "far-pencil-alt": {
+    "body": "content: '\\\\f303';",
+    "prefix": "far-pencil-alt"
+  },
+  "far-percent": {
+    "body": "content: '\\\\f295';",
+    "prefix": "far-percent"
+  },
+  "far-phone": {
+    "body": "content: '\\\\f095';",
+    "prefix": "far-phone"
+  },
+  "far-phone-slash": {
+    "body": "content: '\\\\f3dd';",
+    "prefix": "far-phone-slash"
+  },
+  "far-phone-square": {
+    "body": "content: '\\\\f098';",
+    "prefix": "far-phone-square"
+  },
+  "far-phone-volume": {
+    "body": "content: '\\\\f2a0';",
+    "prefix": "far-phone-volume"
+  },
+  "far-plane": {
+    "body": "content: '\\\\f072';",
+    "prefix": "far-plane"
+  },
+  "far-plane-alt": {
+    "body": "content: '\\\\f3de';",
+    "prefix": "far-plane-alt"
+  },
+  "far-play": {
+    "body": "content: '\\\\f04b';",
+    "prefix": "far-play"
+  },
+  "far-play-circle": {
+    "body": "content: '\\\\f144';",
+    "prefix": "far-play-circle"
+  },
+  "far-plug": {
+    "body": "content: '\\\\f1e6';",
+    "prefix": "far-plug"
+  },
+  "far-plus": {
+    "body": "content: '\\\\f067';",
+    "prefix": "far-plus"
+  },
+  "far-plus-circle": {
+    "body": "content: '\\\\f055';",
+    "prefix": "far-plus-circle"
+  },
+  "far-plus-hexagon": {
+    "body": "content: '\\\\f300';",
+    "prefix": "far-plus-hexagon"
+  },
+  "far-plus-octagon": {
+    "body": "content: '\\\\f301';",
+    "prefix": "far-plus-octagon"
+  },
+  "far-plus-square": {
+    "body": "content: '\\\\f0fe';",
+    "prefix": "far-plus-square"
+  },
+  "far-podcast": {
+    "body": "content: '\\\\f2ce';",
+    "prefix": "far-podcast"
+  },
+  "far-poo": {
+    "body": "content: '\\\\f2fe';",
+    "prefix": "far-poo"
+  },
+  "far-portrait": {
+    "body": "content: '\\\\f3e0';",
+    "prefix": "far-portrait"
+  },
+  "far-pound-sign": {
+    "body": "content: '\\\\f154';",
+    "prefix": "far-pound-sign"
+  },
+  "far-power-off": {
+    "body": "content: '\\\\f011';",
+    "prefix": "far-power-off"
+  },
+  "far-print": {
+    "body": "content: '\\\\f02f';",
+    "prefix": "far-print"
+  },
+  "far-puzzle-piece": {
+    "body": "content: '\\\\f12e';",
+    "prefix": "far-puzzle-piece"
+  },
+  "far-qrcode": {
+    "body": "content: '\\\\f029';",
+    "prefix": "far-qrcode"
+  },
+  "far-question": {
+    "body": "content: '\\\\f128';",
+    "prefix": "far-question"
+  },
+  "far-question-circle": {
+    "body": "content: '\\\\f059';",
+    "prefix": "far-question-circle"
+  },
+  "far-question-square": {
+    "body": "content: '\\\\f2fd';",
+    "prefix": "far-question-square"
+  },
+  "far-quote-left": {
+    "body": "content: '\\\\f10d';",
+    "prefix": "far-quote-left"
+  },
+  "far-quote-right": {
+    "body": "content: '\\\\f10e';",
+    "prefix": "far-quote-right"
+  },
+  "far-random": {
+    "body": "content: '\\\\f074';",
+    "prefix": "far-random"
+  },
+  "far-rectangle-landscape": {
+    "body": "content: '\\\\f2fa';",
+    "prefix": "far-rectangle-landscape"
+  },
+  "far-rectangle-portrait": {
+    "body": "content: '\\\\f2fb';",
+    "prefix": "far-rectangle-portrait"
+  },
+  "far-rectangle-wide": {
+    "body": "content: '\\\\f2fc';",
+    "prefix": "far-rectangle-wide"
+  },
+  "far-recycle": {
+    "body": "content: '\\\\f1b8';",
+    "prefix": "far-recycle"
+  },
+  "far-redo": {
+    "body": "content: '\\\\f01e';",
+    "prefix": "far-redo"
+  },
+  "far-redo-alt": {
+    "body": "content: '\\\\f2f9';",
+    "prefix": "far-redo-alt"
+  },
+  "far-registered": {
+    "body": "content: '\\\\f25d';",
+    "prefix": "far-registered"
+  },
+  "far-repeat": {
+    "body": "content: '\\\\f363';",
+    "prefix": "far-repeat"
+  },
+  "far-repeat-1": {
+    "body": "content: '\\\\f365';",
+    "prefix": "far-repeat-1"
+  },
+  "far-repeat-1-alt": {
+    "body": "content: '\\\\f366';",
+    "prefix": "far-repeat-1-alt"
+  },
+  "far-repeat-alt": {
+    "body": "content: '\\\\f364';",
+    "prefix": "far-repeat-alt"
+  },
+  "far-reply": {
+    "body": "content: '\\\\f3e5';",
+    "prefix": "far-reply"
+  },
+  "far-reply-all": {
+    "body": "content: '\\\\f122';",
+    "prefix": "far-reply-all"
+  },
+  "far-retweet": {
+    "body": "content: '\\\\f079';",
+    "prefix": "far-retweet"
+  },
+  "far-retweet-alt": {
+    "body": "content: '\\\\f361';",
+    "prefix": "far-retweet-alt"
+  },
+  "far-road": {
+    "body": "content: '\\\\f018';",
+    "prefix": "far-road"
+  },
+  "far-rocket": {
+    "body": "content: '\\\\f135';",
+    "prefix": "far-rocket"
+  },
+  "far-rss": {
+    "body": "content: '\\\\f09e';",
+    "prefix": "far-rss"
+  },
+  "far-rss-square": {
+    "body": "content: '\\\\f143';",
+    "prefix": "far-rss-square"
+  },
+  "far-ruble-sign": {
+    "body": "content: '\\\\f158';",
+    "prefix": "far-ruble-sign"
+  },
+  "far-rupee-sign": {
+    "body": "content: '\\\\f156';",
+    "prefix": "far-rupee-sign"
+  },
+  "far-save": {
+    "body": "content: '\\\\f0c7';",
+    "prefix": "far-save"
+  },
+  "far-scrubber": {
+    "body": "content: '\\\\f2f8';",
+    "prefix": "far-scrubber"
+  },
+  "far-search": {
+    "body": "content: '\\\\f002';",
+    "prefix": "far-search"
+  },
+  "far-search-minus": {
+    "body": "content: '\\\\f010';",
+    "prefix": "far-search-minus"
+  },
+  "far-search-plus": {
+    "body": "content: '\\\\f00e';",
+    "prefix": "far-search-plus"
+  },
+  "far-server": {
+    "body": "content: '\\\\f233';",
+    "prefix": "far-server"
+  },
+  "far-share": {
+    "body": "content: '\\\\f064';",
+    "prefix": "far-share"
+  },
+  "far-share-all": {
+    "body": "content: '\\\\f367';",
+    "prefix": "far-share-all"
+  },
+  "far-share-alt": {
+    "body": "content: '\\\\f1e0';",
+    "prefix": "far-share-alt"
+  },
+  "far-share-alt-square": {
+    "body": "content: '\\\\f1e1';",
+    "prefix": "far-share-alt-square"
+  },
+  "far-share-square": {
+    "body": "content: '\\\\f14d';",
+    "prefix": "far-share-square"
+  },
+  "far-shekel-sign": {
+    "body": "content: '\\\\f20b';",
+    "prefix": "far-shekel-sign"
+  },
+  "far-shield": {
+    "body": "content: '\\\\f132';",
+    "prefix": "far-shield"
+  },
+  "far-shield-alt": {
+    "body": "content: '\\\\f3ed';",
+    "prefix": "far-shield-alt"
+  },
+  "far-shield-check": {
+    "body": "content: '\\\\f2f7';",
+    "prefix": "far-shield-check"
+  },
+  "far-ship": {
+    "body": "content: '\\\\f21a';",
+    "prefix": "far-ship"
+  },
+  "far-shopping-bag": {
+    "body": "content: '\\\\f290';",
+    "prefix": "far-shopping-bag"
+  },
+  "far-shopping-basket": {
+    "body": "content: '\\\\f291';",
+    "prefix": "far-shopping-basket"
+  },
+  "far-shopping-cart": {
+    "body": "content: '\\\\f07a';",
+    "prefix": "far-shopping-cart"
+  },
+  "far-shower": {
+    "body": "content: '\\\\f2cc';",
+    "prefix": "far-shower"
+  },
+  "far-sign-in": {
+    "body": "content: '\\\\f090';",
+    "prefix": "far-sign-in"
+  },
+  "far-sign-in-alt": {
+    "body": "content: '\\\\f2f6';",
+    "prefix": "far-sign-in-alt"
+  },
+  "far-sign-language": {
+    "body": "content: '\\\\f2a7';",
+    "prefix": "far-sign-language"
+  },
+  "far-sign-out": {
+    "body": "content: '\\\\f08b';",
+    "prefix": "far-sign-out"
+  },
+  "far-sign-out-alt": {
+    "body": "content: '\\\\f2f5';",
+    "prefix": "far-sign-out-alt"
+  },
+  "far-signal": {
+    "body": "content: '\\\\f012';",
+    "prefix": "far-signal"
+  },
+  "far-sitemap": {
+    "body": "content: '\\\\f0e8';",
+    "prefix": "far-sitemap"
+  },
+  "far-sliders-h": {
+    "body": "content: '\\\\f1de';",
+    "prefix": "far-sliders-h"
+  },
+  "far-sliders-h-square": {
+    "body": "content: '\\\\f3f0';",
+    "prefix": "far-sliders-h-square"
+  },
+  "far-sliders-v": {
+    "body": "content: '\\\\f3f1';",
+    "prefix": "far-sliders-v"
+  },
+  "far-sliders-v-square": {
+    "body": "content: '\\\\f3f2';",
+    "prefix": "far-sliders-v-square"
+  },
+  "far-smile": {
+    "body": "content: '\\\\f118';",
+    "prefix": "far-smile"
+  },
+  "far-snowflake": {
+    "body": "content: '\\\\f2dc';",
+    "prefix": "far-snowflake"
+  },
+  "far-sort": {
+    "body": "content: '\\\\f0dc';",
+    "prefix": "far-sort"
+  },
+  "far-sort-alpha-down": {
+    "body": "content: '\\\\f15d';",
+    "prefix": "far-sort-alpha-down"
+  },
+  "far-sort-alpha-up": {
+    "body": "content: '\\\\f15e';",
+    "prefix": "far-sort-alpha-up"
+  },
+  "far-sort-amount-down": {
+    "body": "content: '\\\\f160';",
+    "prefix": "far-sort-amount-down"
+  },
+  "far-sort-amount-up": {
+    "body": "content: '\\\\f161';",
+    "prefix": "far-sort-amount-up"
+  },
+  "far-sort-down": {
+    "body": "content: '\\\\f0dd';",
+    "prefix": "far-sort-down"
+  },
+  "far-sort-numeric-down": {
+    "body": "content: '\\\\f162';",
+    "prefix": "far-sort-numeric-down"
+  },
+  "far-sort-numeric-up": {
+    "body": "content: '\\\\f163';",
+    "prefix": "far-sort-numeric-up"
+  },
+  "far-sort-up": {
+    "body": "content: '\\\\f0de';",
+    "prefix": "far-sort-up"
+  },
+  "far-space-shuttle": {
+    "body": "content: '\\\\f197';",
+    "prefix": "far-space-shuttle"
+  },
+  "far-spade": {
+    "body": "content: '\\\\f2f4';",
+    "prefix": "far-spade"
+  },
+  "far-spinner": {
+    "body": "content: '\\\\f110';",
+    "prefix": "far-spinner"
+  },
+  "far-spinner-third": {
+    "body": "content: '\\\\f3f4';",
+    "prefix": "far-spinner-third"
+  },
+  "far-square": {
+    "body": "content: '\\\\f0c8';",
+    "prefix": "far-square"
+  },
+  "far-star": {
+    "body": "content: '\\\\f005';",
+    "prefix": "far-star"
+  },
+  "far-star-exclamation": {
+    "body": "content: '\\\\f2f3';",
+    "prefix": "far-star-exclamation"
+  },
+  "far-star-half": {
+    "body": "content: '\\\\f089';",
+    "prefix": "far-star-half"
+  },
+  "far-step-backward": {
+    "body": "content: '\\\\f048';",
+    "prefix": "far-step-backward"
+  },
+  "far-step-forward": {
+    "body": "content: '\\\\f051';",
+    "prefix": "far-step-forward"
+  },
+  "far-stethoscope": {
+    "body": "content: '\\\\f0f1';",
+    "prefix": "far-stethoscope"
+  },
+  "far-sticky-note": {
+    "body": "content: '\\\\f249';",
+    "prefix": "far-sticky-note"
+  },
+  "far-stop": {
+    "body": "content: '\\\\f04d';",
+    "prefix": "far-stop"
+  },
+  "far-stop-circle": {
+    "body": "content: '\\\\f28d';",
+    "prefix": "far-stop-circle"
+  },
+  "far-stopwatch": {
+    "body": "content: '\\\\f2f2';",
+    "prefix": "far-stopwatch"
+  },
+  "far-street-view": {
+    "body": "content: '\\\\f21d';",
+    "prefix": "far-street-view"
+  },
+  "far-strikethrough": {
+    "body": "content: '\\\\f0cc';",
+    "prefix": "far-strikethrough"
+  },
+  "far-subscript": {
+    "body": "content: '\\\\f12c';",
+    "prefix": "far-subscript"
+  },
+  "far-subway": {
+    "body": "content: '\\\\f239';",
+    "prefix": "far-subway"
+  },
+  "far-suitcase": {
+    "body": "content: '\\\\f0f2';",
+    "prefix": "far-suitcase"
+  },
+  "far-sun": {
+    "body": "content: '\\\\f185';",
+    "prefix": "far-sun"
+  },
+  "far-superscript": {
+    "body": "content: '\\\\f12b';",
+    "prefix": "far-superscript"
+  },
+  "far-sync": {
+    "body": "content: '\\\\f021';",
+    "prefix": "far-sync"
+  },
+  "far-sync-alt": {
+    "body": "content: '\\\\f2f1';",
+    "prefix": "far-sync-alt"
+  },
+  "far-table": {
+    "body": "content: '\\\\f0ce';",
+    "prefix": "far-table"
+  },
+  "far-tablet": {
+    "body": "content: '\\\\f10a';",
+    "prefix": "far-tablet"
+  },
+  "far-tablet-alt": {
+    "body": "content: '\\\\f3fa';",
+    "prefix": "far-tablet-alt"
+  },
+  "far-tablet-android": {
+    "body": "content: '\\\\f3fb';",
+    "prefix": "far-tablet-android"
+  },
+  "far-tablet-android-alt": {
+    "body": "content: '\\\\f3fc';",
+    "prefix": "far-tablet-android-alt"
+  },
+  "far-tachometer": {
+    "body": "content: '\\\\f0e4';",
+    "prefix": "far-tachometer"
+  },
+  "far-tachometer-alt": {
+    "body": "content: '\\\\f3fd';",
+    "prefix": "far-tachometer-alt"
+  },
+  "far-tag": {
+    "body": "content: '\\\\f02b';",
+    "prefix": "far-tag"
+  },
+  "far-tags": {
+    "body": "content: '\\\\f02c';",
+    "prefix": "far-tags"
+  },
+  "far-tasks": {
+    "body": "content: '\\\\f0ae';",
+    "prefix": "far-tasks"
+  },
+  "far-taxi": {
+    "body": "content: '\\\\f1ba';",
+    "prefix": "far-taxi"
+  },
+  "far-terminal": {
+    "body": "content: '\\\\f120';",
+    "prefix": "far-terminal"
+  },
+  "far-text-height": {
+    "body": "content: '\\\\f034';",
+    "prefix": "far-text-height"
+  },
+  "far-text-width": {
+    "body": "content: '\\\\f035';",
+    "prefix": "far-text-width"
+  },
+  "far-th": {
+    "body": "content: '\\\\f00a';",
+    "prefix": "far-th"
+  },
+  "far-th-large": {
+    "body": "content: '\\\\f009';",
+    "prefix": "far-th-large"
+  },
+  "far-th-list": {
+    "body": "content: '\\\\f00b';",
+    "prefix": "far-th-list"
+  },
+  "far-thermometer-empty": {
+    "body": "content: '\\\\f2cb';",
+    "prefix": "far-thermometer-empty"
+  },
+  "far-thermometer-full": {
+    "body": "content: '\\\\f2c7';",
+    "prefix": "far-thermometer-full"
+  },
+  "far-thermometer-half": {
+    "body": "content: '\\\\f2c9';",
+    "prefix": "far-thermometer-half"
+  },
+  "far-thermometer-quarter": {
+    "body": "content: '\\\\f2ca';",
+    "prefix": "far-thermometer-quarter"
+  },
+  "far-thermometer-three-quarters": {
+    "body": "content: '\\\\f2c8';",
+    "prefix": "far-thermometer-three-quarters"
+  },
+  "far-thumbs-down": {
+    "body": "content: '\\\\f165';",
+    "prefix": "far-thumbs-down"
+  },
+  "far-thumbs-up": {
+    "body": "content: '\\\\f164';",
+    "prefix": "far-thumbs-up"
+  },
+  "far-thumbtack": {
+    "body": "content: '\\\\f08d';",
+    "prefix": "far-thumbtack"
+  },
+  "far-ticket": {
+    "body": "content: '\\\\f145';",
+    "prefix": "far-ticket"
+  },
+  "far-ticket-alt": {
+    "body": "content: '\\\\f3ff';",
+    "prefix": "far-ticket-alt"
+  },
+  "far-times": {
+    "body": "content: '\\\\f00d';",
+    "prefix": "far-times"
+  },
+  "far-times-circle": {
+    "body": "content: '\\\\f057';",
+    "prefix": "far-times-circle"
+  },
+  "far-times-hexagon": {
+    "body": "content: '\\\\f2ee';",
+    "prefix": "far-times-hexagon"
+  },
+  "far-times-octagon": {
+    "body": "content: '\\\\f2f0';",
+    "prefix": "far-times-octagon"
+  },
+  "far-times-square": {
+    "body": "content: '\\\\f2d3';",
+    "prefix": "far-times-square"
+  },
+  "far-tint": {
+    "body": "content: '\\\\f043';",
+    "prefix": "far-tint"
+  },
+  "far-toggle-off": {
+    "body": "content: '\\\\f204';",
+    "prefix": "far-toggle-off"
+  },
+  "far-toggle-on": {
+    "body": "content: '\\\\f205';",
+    "prefix": "far-toggle-on"
+  },
+  "far-trademark": {
+    "body": "content: '\\\\f25c';",
+    "prefix": "far-trademark"
+  },
+  "far-train": {
+    "body": "content: '\\\\f238';",
+    "prefix": "far-train"
+  },
+  "far-transgender": {
+    "body": "content: '\\\\f224';",
+    "prefix": "far-transgender"
+  },
+  "far-transgender-alt": {
+    "body": "content: '\\\\f225';",
+    "prefix": "far-transgender-alt"
+  },
+  "far-trash": {
+    "body": "content: '\\\\f1f8';",
+    "prefix": "far-trash"
+  },
+  "far-trash-alt": {
+    "body": "content: '\\\\f2ed';",
+    "prefix": "far-trash-alt"
+  },
+  "far-tree": {
+    "body": "content: '\\\\f1bb';",
+    "prefix": "far-tree"
+  },
+  "far-tree-alt": {
+    "body": "content: '\\\\f400';",
+    "prefix": "far-tree-alt"
+  },
+  "far-triangle": {
+    "body": "content: '\\\\f2ec';",
+    "prefix": "far-triangle"
+  },
+  "far-trophy": {
+    "body": "content: '\\\\f091';",
+    "prefix": "far-trophy"
+  },
+  "far-trophy-alt": {
+    "body": "content: '\\\\f2eb';",
+    "prefix": "far-trophy-alt"
+  },
+  "far-truck": {
+    "body": "content: '\\\\f0d1';",
+    "prefix": "far-truck"
+  },
+  "far-tty": {
+    "body": "content: '\\\\f1e4';",
+    "prefix": "far-tty"
+  },
+  "far-tv": {
+    "body": "content: '\\\\f26c';",
+    "prefix": "far-tv"
+  },
+  "far-tv-retro": {
+    "body": "content: '\\\\f401';",
+    "prefix": "far-tv-retro"
+  },
+  "far-umbrella": {
+    "body": "content: '\\\\f0e9';",
+    "prefix": "far-umbrella"
+  },
+  "far-underline": {
+    "body": "content: '\\\\f0cd';",
+    "prefix": "far-underline"
+  },
+  "far-undo": {
+    "body": "content: '\\\\f0e2';",
+    "prefix": "far-undo"
+  },
+  "far-undo-alt": {
+    "body": "content: '\\\\f2ea';",
+    "prefix": "far-undo-alt"
+  },
+  "far-universal-access": {
+    "body": "content: '\\\\f29a';",
+    "prefix": "far-universal-access"
+  },
+  "far-university": {
+    "body": "content: '\\\\f19c';",
+    "prefix": "far-university"
+  },
+  "far-unlink": {
+    "body": "content: '\\\\f127';",
+    "prefix": "far-unlink"
+  },
+  "far-unlock": {
+    "body": "content: '\\\\f09c';",
+    "prefix": "far-unlock"
+  },
+  "far-unlock-alt": {
+    "body": "content: '\\\\f13e';",
+    "prefix": "far-unlock-alt"
+  },
+  "far-upload": {
+    "body": "content: '\\\\f093';",
+    "prefix": "far-upload"
+  },
+  "far-usd-circle": {
+    "body": "content: '\\\\f2e8';",
+    "prefix": "far-usd-circle"
+  },
+  "far-usd-square": {
+    "body": "content: '\\\\f2e9';",
+    "prefix": "far-usd-square"
+  },
+  "far-user": {
+    "body": "content: '\\\\f007';",
+    "prefix": "far-user"
+  },
+  "far-user-alt": {
+    "body": "content: '\\\\f406';",
+    "prefix": "far-user-alt"
+  },
+  "far-user-circle": {
+    "body": "content: '\\\\f2bd';",
+    "prefix": "far-user-circle"
+  },
+  "far-user-md": {
+    "body": "content: '\\\\f0f0';",
+    "prefix": "far-user-md"
+  },
+  "far-user-plus": {
+    "body": "content: '\\\\f234';",
+    "prefix": "far-user-plus"
+  },
+  "far-user-secret": {
+    "body": "content: '\\\\f21b';",
+    "prefix": "far-user-secret"
+  },
+  "far-user-times": {
+    "body": "content: '\\\\f235';",
+    "prefix": "far-user-times"
+  },
+  "far-users": {
+    "body": "content: '\\\\f0c0';",
+    "prefix": "far-users"
+  },
+  "far-utensil-fork": {
+    "body": "content: '\\\\f2e3';",
+    "prefix": "far-utensil-fork"
+  },
+  "far-utensil-knife": {
+    "body": "content: '\\\\f2e4';",
+    "prefix": "far-utensil-knife"
+  },
+  "far-utensil-spoon": {
+    "body": "content: '\\\\f2e5';",
+    "prefix": "far-utensil-spoon"
+  },
+  "far-utensils": {
+    "body": "content: '\\\\f2e7';",
+    "prefix": "far-utensils"
+  },
+  "far-utensils-alt": {
+    "body": "content: '\\\\f2e6';",
+    "prefix": "far-utensils-alt"
+  },
+  "far-venus": {
+    "body": "content: '\\\\f221';",
+    "prefix": "far-venus"
+  },
+  "far-venus-double": {
+    "body": "content: '\\\\f226';",
+    "prefix": "far-venus-double"
+  },
+  "far-venus-mars": {
+    "body": "content: '\\\\f228';",
+    "prefix": "far-venus-mars"
+  },
+  "far-video": {
+    "body": "content: '\\\\f03d';",
+    "prefix": "far-video"
+  },
+  "far-volume-down": {
+    "body": "content: '\\\\f027';",
+    "prefix": "far-volume-down"
+  },
+  "far-volume-mute": {
+    "body": "content: '\\\\f2e2';",
+    "prefix": "far-volume-mute"
+  },
+  "far-volume-off": {
+    "body": "content: '\\\\f026';",
+    "prefix": "far-volume-off"
+  },
+  "far-volume-up": {
+    "body": "content: '\\\\f028';",
+    "prefix": "far-volume-up"
+  },
+  "far-watch": {
+    "body": "content: '\\\\f2e1';",
+    "prefix": "far-watch"
+  },
+  "far-wheelchair": {
+    "body": "content: '\\\\f193';",
+    "prefix": "far-wheelchair"
+  },
+  "far-wifi": {
+    "body": "content: '\\\\f1eb';",
+    "prefix": "far-wifi"
+  },
+  "far-window": {
+    "body": "content: '\\\\f40e';",
+    "prefix": "far-window"
+  },
+  "far-window-alt": {
+    "body": "content: '\\\\f40f';",
+    "prefix": "far-window-alt"
+  },
+  "far-window-close": {
+    "body": "content: '\\\\f410';",
+    "prefix": "far-window-close"
+  },
+  "far-window-maximize": {
+    "body": "content: '\\\\f2d0';",
+    "prefix": "far-window-maximize"
+  },
+  "far-window-minimize": {
+    "body": "content: '\\\\f2d1';",
+    "prefix": "far-window-minimize"
+  },
+  "far-window-restore": {
+    "body": "content: '\\\\f2d2';",
+    "prefix": "far-window-restore"
+  },
+  "far-won-sign": {
+    "body": "content: '\\\\f159';",
+    "prefix": "far-won-sign"
+  },
+  "far-wrench": {
+    "body": "content: '\\\\f0ad';",
+    "prefix": "far-wrench"
+  },
+  "far-yen-sign": {
+    "body": "content: '\\\\f157';",
+    "prefix": "far-yen-sign"
+  }
+}

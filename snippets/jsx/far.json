@@ -1,0 +1,2478 @@
+{
+  "far-address-book": {
+    "body": "<${1:i} className=\"far fa-address-book$2\"></${1:i}>",
+    "prefix": "far-address-book"
+  },
+  "far-address-card": {
+    "body": "<${1:i} className=\"far fa-address-card$2\"></${1:i}>",
+    "prefix": "far-address-card"
+  },
+  "far-adjust": {
+    "body": "<${1:i} className=\"far fa-adjust$2\"></${1:i}>",
+    "prefix": "far-adjust"
+  },
+  "far-alarm-clock": {
+    "body": "<${1:i} className=\"far fa-alarm-clock$2\"></${1:i}>",
+    "prefix": "far-alarm-clock"
+  },
+  "far-align-center": {
+    "body": "<${1:i} className=\"far fa-align-center$2\"></${1:i}>",
+    "prefix": "far-align-center"
+  },
+  "far-align-justify": {
+    "body": "<${1:i} className=\"far fa-align-justify$2\"></${1:i}>",
+    "prefix": "far-align-justify"
+  },
+  "far-align-left": {
+    "body": "<${1:i} className=\"far fa-align-left$2\"></${1:i}>",
+    "prefix": "far-align-left"
+  },
+  "far-align-right": {
+    "body": "<${1:i} className=\"far fa-align-right$2\"></${1:i}>",
+    "prefix": "far-align-right"
+  },
+  "far-ambulance": {
+    "body": "<${1:i} className=\"far fa-ambulance$2\"></${1:i}>",
+    "prefix": "far-ambulance"
+  },
+  "far-american-sign-language-interpreting": {
+    "body": "<${1:i} className=\"far fa-american-sign-language-interpreting$2\"></${1:i}>",
+    "prefix": "far-american-sign-language-interpreting"
+  },
+  "far-anchor": {
+    "body": "<${1:i} className=\"far fa-anchor$2\"></${1:i}>",
+    "prefix": "far-anchor"
+  },
+  "far-angle-double-down": {
+    "body": "<${1:i} className=\"far fa-angle-double-down$2\"></${1:i}>",
+    "prefix": "far-angle-double-down"
+  },
+  "far-angle-double-left": {
+    "body": "<${1:i} className=\"far fa-angle-double-left$2\"></${1:i}>",
+    "prefix": "far-angle-double-left"
+  },
+  "far-angle-double-right": {
+    "body": "<${1:i} className=\"far fa-angle-double-right$2\"></${1:i}>",
+    "prefix": "far-angle-double-right"
+  },
+  "far-angle-double-up": {
+    "body": "<${1:i} className=\"far fa-angle-double-up$2\"></${1:i}>",
+    "prefix": "far-angle-double-up"
+  },
+  "far-angle-down": {
+    "body": "<${1:i} className=\"far fa-angle-down$2\"></${1:i}>",
+    "prefix": "far-angle-down"
+  },
+  "far-angle-left": {
+    "body": "<${1:i} className=\"far fa-angle-left$2\"></${1:i}>",
+    "prefix": "far-angle-left"
+  },
+  "far-angle-right": {
+    "body": "<${1:i} className=\"far fa-angle-right$2\"></${1:i}>",
+    "prefix": "far-angle-right"
+  },
+  "far-angle-up": {
+    "body": "<${1:i} className=\"far fa-angle-up$2\"></${1:i}>",
+    "prefix": "far-angle-up"
+  },
+  "far-archive": {
+    "body": "<${1:i} className=\"far fa-archive$2\"></${1:i}>",
+    "prefix": "far-archive"
+  },
+  "far-arrow-alt-circle-down": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-circle-down$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-circle-down"
+  },
+  "far-arrow-alt-circle-left": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-circle-left$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-circle-left"
+  },
+  "far-arrow-alt-circle-right": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-circle-right$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-circle-right"
+  },
+  "far-arrow-alt-circle-up": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-circle-up$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-circle-up"
+  },
+  "far-arrow-alt-down": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-down$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-down"
+  },
+  "far-arrow-alt-from-bottom": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-from-bottom$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-from-bottom"
+  },
+  "far-arrow-alt-from-left": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-from-left$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-from-left"
+  },
+  "far-arrow-alt-from-right": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-from-right$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-from-right"
+  },
+  "far-arrow-alt-from-top": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-from-top$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-from-top"
+  },
+  "far-arrow-alt-left": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-left$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-left"
+  },
+  "far-arrow-alt-right": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-right$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-right"
+  },
+  "far-arrow-alt-square-down": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-square-down$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-square-down"
+  },
+  "far-arrow-alt-square-left": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-square-left$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-square-left"
+  },
+  "far-arrow-alt-square-right": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-square-right$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-square-right"
+  },
+  "far-arrow-alt-square-up": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-square-up$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-square-up"
+  },
+  "far-arrow-alt-to-bottom": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-to-bottom$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-to-bottom"
+  },
+  "far-arrow-alt-to-left": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-to-left$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-to-left"
+  },
+  "far-arrow-alt-to-right": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-to-right$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-to-right"
+  },
+  "far-arrow-alt-to-top": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-to-top$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-to-top"
+  },
+  "far-arrow-alt-up": {
+    "body": "<${1:i} className=\"far fa-arrow-alt-up$2\"></${1:i}>",
+    "prefix": "far-arrow-alt-up"
+  },
+  "far-arrow-circle-down": {
+    "body": "<${1:i} className=\"far fa-arrow-circle-down$2\"></${1:i}>",
+    "prefix": "far-arrow-circle-down"
+  },
+  "far-arrow-circle-left": {
+    "body": "<${1:i} className=\"far fa-arrow-circle-left$2\"></${1:i}>",
+    "prefix": "far-arrow-circle-left"
+  },
+  "far-arrow-circle-right": {
+    "body": "<${1:i} className=\"far fa-arrow-circle-right$2\"></${1:i}>",
+    "prefix": "far-arrow-circle-right"
+  },
+  "far-arrow-circle-up": {
+    "body": "<${1:i} className=\"far fa-arrow-circle-up$2\"></${1:i}>",
+    "prefix": "far-arrow-circle-up"
+  },
+  "far-arrow-down": {
+    "body": "<${1:i} className=\"far fa-arrow-down$2\"></${1:i}>",
+    "prefix": "far-arrow-down"
+  },
+  "far-arrow-from-bottom": {
+    "body": "<${1:i} className=\"far fa-arrow-from-bottom$2\"></${1:i}>",
+    "prefix": "far-arrow-from-bottom"
+  },
+  "far-arrow-from-left": {
+    "body": "<${1:i} className=\"far fa-arrow-from-left$2\"></${1:i}>",
+    "prefix": "far-arrow-from-left"
+  },
+  "far-arrow-from-right": {
+    "body": "<${1:i} className=\"far fa-arrow-from-right$2\"></${1:i}>",
+    "prefix": "far-arrow-from-right"
+  },
+  "far-arrow-from-top": {
+    "body": "<${1:i} className=\"far fa-arrow-from-top$2\"></${1:i}>",
+    "prefix": "far-arrow-from-top"
+  },
+  "far-arrow-left": {
+    "body": "<${1:i} className=\"far fa-arrow-left$2\"></${1:i}>",
+    "prefix": "far-arrow-left"
+  },
+  "far-arrow-right": {
+    "body": "<${1:i} className=\"far fa-arrow-right$2\"></${1:i}>",
+    "prefix": "far-arrow-right"
+  },
+  "far-arrow-square-down": {
+    "body": "<${1:i} className=\"far fa-arrow-square-down$2\"></${1:i}>",
+    "prefix": "far-arrow-square-down"
+  },
+  "far-arrow-square-left": {
+    "body": "<${1:i} className=\"far fa-arrow-square-left$2\"></${1:i}>",
+    "prefix": "far-arrow-square-left"
+  },
+  "far-arrow-square-right": {
+    "body": "<${1:i} className=\"far fa-arrow-square-right$2\"></${1:i}>",
+    "prefix": "far-arrow-square-right"
+  },
+  "far-arrow-square-up": {
+    "body": "<${1:i} className=\"far fa-arrow-square-up$2\"></${1:i}>",
+    "prefix": "far-arrow-square-up"
+  },
+  "far-arrow-to-bottom": {
+    "body": "<${1:i} className=\"far fa-arrow-to-bottom$2\"></${1:i}>",
+    "prefix": "far-arrow-to-bottom"
+  },
+  "far-arrow-to-left": {
+    "body": "<${1:i} className=\"far fa-arrow-to-left$2\"></${1:i}>",
+    "prefix": "far-arrow-to-left"
+  },
+  "far-arrow-to-right": {
+    "body": "<${1:i} className=\"far fa-arrow-to-right$2\"></${1:i}>",
+    "prefix": "far-arrow-to-right"
+  },
+  "far-arrow-to-top": {
+    "body": "<${1:i} className=\"far fa-arrow-to-top$2\"></${1:i}>",
+    "prefix": "far-arrow-to-top"
+  },
+  "far-arrow-up": {
+    "body": "<${1:i} className=\"far fa-arrow-up$2\"></${1:i}>",
+    "prefix": "far-arrow-up"
+  },
+  "far-arrows": {
+    "body": "<${1:i} className=\"far fa-arrows$2\"></${1:i}>",
+    "prefix": "far-arrows"
+  },
+  "far-arrows-alt": {
+    "body": "<${1:i} className=\"far fa-arrows-alt$2\"></${1:i}>",
+    "prefix": "far-arrows-alt"
+  },
+  "far-arrows-alt-h": {
+    "body": "<${1:i} className=\"far fa-arrows-alt-h$2\"></${1:i}>",
+    "prefix": "far-arrows-alt-h"
+  },
+  "far-arrows-alt-v": {
+    "body": "<${1:i} className=\"far fa-arrows-alt-v$2\"></${1:i}>",
+    "prefix": "far-arrows-alt-v"
+  },
+  "far-arrows-h": {
+    "body": "<${1:i} className=\"far fa-arrows-h$2\"></${1:i}>",
+    "prefix": "far-arrows-h"
+  },
+  "far-arrows-v": {
+    "body": "<${1:i} className=\"far fa-arrows-v$2\"></${1:i}>",
+    "prefix": "far-arrows-v"
+  },
+  "far-assistive-listening-systems": {
+    "body": "<${1:i} className=\"far fa-assistive-listening-systems$2\"></${1:i}>",
+    "prefix": "far-assistive-listening-systems"
+  },
+  "far-asterisk": {
+    "body": "<${1:i} className=\"far fa-asterisk$2\"></${1:i}>",
+    "prefix": "far-asterisk"
+  },
+  "far-at": {
+    "body": "<${1:i} className=\"far fa-at$2\"></${1:i}>",
+    "prefix": "far-at"
+  },
+  "far-audio-description": {
+    "body": "<${1:i} className=\"far fa-audio-description$2\"></${1:i}>",
+    "prefix": "far-audio-description"
+  },
+  "far-backward": {
+    "body": "<${1:i} className=\"far fa-backward$2\"></${1:i}>",
+    "prefix": "far-backward"
+  },
+  "far-badge": {
+    "body": "<${1:i} className=\"far fa-badge$2\"></${1:i}>",
+    "prefix": "far-badge"
+  },
+  "far-badge-check": {
+    "body": "<${1:i} className=\"far fa-badge-check$2\"></${1:i}>",
+    "prefix": "far-badge-check"
+  },
+  "far-balance-scale": {
+    "body": "<${1:i} className=\"far fa-balance-scale$2\"></${1:i}>",
+    "prefix": "far-balance-scale"
+  },
+  "far-ban": {
+    "body": "<${1:i} className=\"far fa-ban$2\"></${1:i}>",
+    "prefix": "far-ban"
+  },
+  "far-barcode": {
+    "body": "<${1:i} className=\"far fa-barcode$2\"></${1:i}>",
+    "prefix": "far-barcode"
+  },
+  "far-bars": {
+    "body": "<${1:i} className=\"far fa-bars$2\"></${1:i}>",
+    "prefix": "far-bars"
+  },
+  "far-bath": {
+    "body": "<${1:i} className=\"far fa-bath$2\"></${1:i}>",
+    "prefix": "far-bath"
+  },
+  "far-battery-bolt": {
+    "body": "<${1:i} className=\"far fa-battery-bolt$2\"></${1:i}>",
+    "prefix": "far-battery-bolt"
+  },
+  "far-battery-empty": {
+    "body": "<${1:i} className=\"far fa-battery-empty$2\"></${1:i}>",
+    "prefix": "far-battery-empty"
+  },
+  "far-battery-full": {
+    "body": "<${1:i} className=\"far fa-battery-full$2\"></${1:i}>",
+    "prefix": "far-battery-full"
+  },
+  "far-battery-half": {
+    "body": "<${1:i} className=\"far fa-battery-half$2\"></${1:i}>",
+    "prefix": "far-battery-half"
+  },
+  "far-battery-quarter": {
+    "body": "<${1:i} className=\"far fa-battery-quarter$2\"></${1:i}>",
+    "prefix": "far-battery-quarter"
+  },
+  "far-battery-slash": {
+    "body": "<${1:i} className=\"far fa-battery-slash$2\"></${1:i}>",
+    "prefix": "far-battery-slash"
+  },
+  "far-battery-three-quarters": {
+    "body": "<${1:i} className=\"far fa-battery-three-quarters$2\"></${1:i}>",
+    "prefix": "far-battery-three-quarters"
+  },
+  "far-bed": {
+    "body": "<${1:i} className=\"far fa-bed$2\"></${1:i}>",
+    "prefix": "far-bed"
+  },
+  "far-beer": {
+    "body": "<${1:i} className=\"far fa-beer$2\"></${1:i}>",
+    "prefix": "far-beer"
+  },
+  "far-bell": {
+    "body": "<${1:i} className=\"far fa-bell$2\"></${1:i}>",
+    "prefix": "far-bell"
+  },
+  "far-bell-slash": {
+    "body": "<${1:i} className=\"far fa-bell-slash$2\"></${1:i}>",
+    "prefix": "far-bell-slash"
+  },
+  "far-bicycle": {
+    "body": "<${1:i} className=\"far fa-bicycle$2\"></${1:i}>",
+    "prefix": "far-bicycle"
+  },
+  "far-binoculars": {
+    "body": "<${1:i} className=\"far fa-binoculars$2\"></${1:i}>",
+    "prefix": "far-binoculars"
+  },
+  "far-birthday-cake": {
+    "body": "<${1:i} className=\"far fa-birthday-cake$2\"></${1:i}>",
+    "prefix": "far-birthday-cake"
+  },
+  "far-blind": {
+    "body": "<${1:i} className=\"far fa-blind$2\"></${1:i}>",
+    "prefix": "far-blind"
+  },
+  "far-bold": {
+    "body": "<${1:i} className=\"far fa-bold$2\"></${1:i}>",
+    "prefix": "far-bold"
+  },
+  "far-bolt": {
+    "body": "<${1:i} className=\"far fa-bolt$2\"></${1:i}>",
+    "prefix": "far-bolt"
+  },
+  "far-bomb": {
+    "body": "<${1:i} className=\"far fa-bomb$2\"></${1:i}>",
+    "prefix": "far-bomb"
+  },
+  "far-book": {
+    "body": "<${1:i} className=\"far fa-book$2\"></${1:i}>",
+    "prefix": "far-book"
+  },
+  "far-bookmark": {
+    "body": "<${1:i} className=\"far fa-bookmark$2\"></${1:i}>",
+    "prefix": "far-bookmark"
+  },
+  "far-braille": {
+    "body": "<${1:i} className=\"far fa-braille$2\"></${1:i}>",
+    "prefix": "far-braille"
+  },
+  "far-briefcase": {
+    "body": "<${1:i} className=\"far fa-briefcase$2\"></${1:i}>",
+    "prefix": "far-briefcase"
+  },
+  "far-browser": {
+    "body": "<${1:i} className=\"far fa-browser$2\"></${1:i}>",
+    "prefix": "far-browser"
+  },
+  "far-bug": {
+    "body": "<${1:i} className=\"far fa-bug$2\"></${1:i}>",
+    "prefix": "far-bug"
+  },
+  "far-building": {
+    "body": "<${1:i} className=\"far fa-building$2\"></${1:i}>",
+    "prefix": "far-building"
+  },
+  "far-bullhorn": {
+    "body": "<${1:i} className=\"far fa-bullhorn$2\"></${1:i}>",
+    "prefix": "far-bullhorn"
+  },
+  "far-bullseye": {
+    "body": "<${1:i} className=\"far fa-bullseye$2\"></${1:i}>",
+    "prefix": "far-bullseye"
+  },
+  "far-bus": {
+    "body": "<${1:i} className=\"far fa-bus$2\"></${1:i}>",
+    "prefix": "far-bus"
+  },
+  "far-calculator": {
+    "body": "<${1:i} className=\"far fa-calculator$2\"></${1:i}>",
+    "prefix": "far-calculator"
+  },
+  "far-calendar": {
+    "body": "<${1:i} className=\"far fa-calendar$2\"></${1:i}>",
+    "prefix": "far-calendar"
+  },
+  "far-calendar-alt": {
+    "body": "<${1:i} className=\"far fa-calendar-alt$2\"></${1:i}>",
+    "prefix": "far-calendar-alt"
+  },
+  "far-calendar-check": {
+    "body": "<${1:i} className=\"far fa-calendar-check$2\"></${1:i}>",
+    "prefix": "far-calendar-check"
+  },
+  "far-calendar-edit": {
+    "body": "<${1:i} className=\"far fa-calendar-edit$2\"></${1:i}>",
+    "prefix": "far-calendar-edit"
+  },
+  "far-calendar-exclamation": {
+    "body": "<${1:i} className=\"far fa-calendar-exclamation$2\"></${1:i}>",
+    "prefix": "far-calendar-exclamation"
+  },
+  "far-calendar-minus": {
+    "body": "<${1:i} className=\"far fa-calendar-minus$2\"></${1:i}>",
+    "prefix": "far-calendar-minus"
+  },
+  "far-calendar-plus": {
+    "body": "<${1:i} className=\"far fa-calendar-plus$2\"></${1:i}>",
+    "prefix": "far-calendar-plus"
+  },
+  "far-calendar-times": {
+    "body": "<${1:i} className=\"far fa-calendar-times$2\"></${1:i}>",
+    "prefix": "far-calendar-times"
+  },
+  "far-camera": {
+    "body": "<${1:i} className=\"far fa-camera$2\"></${1:i}>",
+    "prefix": "far-camera"
+  },
+  "far-camera-alt": {
+    "body": "<${1:i} className=\"far fa-camera-alt$2\"></${1:i}>",
+    "prefix": "far-camera-alt"
+  },
+  "far-camera-retro": {
+    "body": "<${1:i} className=\"far fa-camera-retro$2\"></${1:i}>",
+    "prefix": "far-camera-retro"
+  },
+  "far-car": {
+    "body": "<${1:i} className=\"far fa-car$2\"></${1:i}>",
+    "prefix": "far-car"
+  },
+  "far-caret-circle-down": {
+    "body": "<${1:i} className=\"far fa-caret-circle-down$2\"></${1:i}>",
+    "prefix": "far-caret-circle-down"
+  },
+  "far-caret-circle-left": {
+    "body": "<${1:i} className=\"far fa-caret-circle-left$2\"></${1:i}>",
+    "prefix": "far-caret-circle-left"
+  },
+  "far-caret-circle-right": {
+    "body": "<${1:i} className=\"far fa-caret-circle-right$2\"></${1:i}>",
+    "prefix": "far-caret-circle-right"
+  },
+  "far-caret-circle-up": {
+    "body": "<${1:i} className=\"far fa-caret-circle-up$2\"></${1:i}>",
+    "prefix": "far-caret-circle-up"
+  },
+  "far-caret-down": {
+    "body": "<${1:i} className=\"far fa-caret-down$2\"></${1:i}>",
+    "prefix": "far-caret-down"
+  },
+  "far-caret-left": {
+    "body": "<${1:i} className=\"far fa-caret-left$2\"></${1:i}>",
+    "prefix": "far-caret-left"
+  },
+  "far-caret-right": {
+    "body": "<${1:i} className=\"far fa-caret-right$2\"></${1:i}>",
+    "prefix": "far-caret-right"
+  },
+  "far-caret-square-down": {
+    "body": "<${1:i} className=\"far fa-caret-square-down$2\"></${1:i}>",
+    "prefix": "far-caret-square-down"
+  },
+  "far-caret-square-left": {
+    "body": "<${1:i} className=\"far fa-caret-square-left$2\"></${1:i}>",
+    "prefix": "far-caret-square-left"
+  },
+  "far-caret-square-right": {
+    "body": "<${1:i} className=\"far fa-caret-square-right$2\"></${1:i}>",
+    "prefix": "far-caret-square-right"
+  },
+  "far-caret-square-up": {
+    "body": "<${1:i} className=\"far fa-caret-square-up$2\"></${1:i}>",
+    "prefix": "far-caret-square-up"
+  },
+  "far-caret-up": {
+    "body": "<${1:i} className=\"far fa-caret-up$2\"></${1:i}>",
+    "prefix": "far-caret-up"
+  },
+  "far-cart-arrow-down": {
+    "body": "<${1:i} className=\"far fa-cart-arrow-down$2\"></${1:i}>",
+    "prefix": "far-cart-arrow-down"
+  },
+  "far-cart-plus": {
+    "body": "<${1:i} className=\"far fa-cart-plus$2\"></${1:i}>",
+    "prefix": "far-cart-plus"
+  },
+  "far-certificate": {
+    "body": "<${1:i} className=\"far fa-certificate$2\"></${1:i}>",
+    "prefix": "far-certificate"
+  },
+  "far-chart-area": {
+    "body": "<${1:i} className=\"far fa-chart-area$2\"></${1:i}>",
+    "prefix": "far-chart-area"
+  },
+  "far-chart-bar": {
+    "body": "<${1:i} className=\"far fa-chart-bar$2\"></${1:i}>",
+    "prefix": "far-chart-bar"
+  },
+  "far-chart-line": {
+    "body": "<${1:i} className=\"far fa-chart-line$2\"></${1:i}>",
+    "prefix": "far-chart-line"
+  },
+  "far-chart-pie": {
+    "body": "<${1:i} className=\"far fa-chart-pie$2\"></${1:i}>",
+    "prefix": "far-chart-pie"
+  },
+  "far-check": {
+    "body": "<${1:i} className=\"far fa-check$2\"></${1:i}>",
+    "prefix": "far-check"
+  },
+  "far-check-circle": {
+    "body": "<${1:i} className=\"far fa-check-circle$2\"></${1:i}>",
+    "prefix": "far-check-circle"
+  },
+  "far-check-square": {
+    "body": "<${1:i} className=\"far fa-check-square$2\"></${1:i}>",
+    "prefix": "far-check-square"
+  },
+  "far-chevron-circle-down": {
+    "body": "<${1:i} className=\"far fa-chevron-circle-down$2\"></${1:i}>",
+    "prefix": "far-chevron-circle-down"
+  },
+  "far-chevron-circle-left": {
+    "body": "<${1:i} className=\"far fa-chevron-circle-left$2\"></${1:i}>",
+    "prefix": "far-chevron-circle-left"
+  },
+  "far-chevron-circle-right": {
+    "body": "<${1:i} className=\"far fa-chevron-circle-right$2\"></${1:i}>",
+    "prefix": "far-chevron-circle-right"
+  },
+  "far-chevron-circle-up": {
+    "body": "<${1:i} className=\"far fa-chevron-circle-up$2\"></${1:i}>",
+    "prefix": "far-chevron-circle-up"
+  },
+  "far-chevron-double-down": {
+    "body": "<${1:i} className=\"far fa-chevron-double-down$2\"></${1:i}>",
+    "prefix": "far-chevron-double-down"
+  },
+  "far-chevron-double-left": {
+    "body": "<${1:i} className=\"far fa-chevron-double-left$2\"></${1:i}>",
+    "prefix": "far-chevron-double-left"
+  },
+  "far-chevron-double-right": {
+    "body": "<${1:i} className=\"far fa-chevron-double-right$2\"></${1:i}>",
+    "prefix": "far-chevron-double-right"
+  },
+  "far-chevron-double-up": {
+    "body": "<${1:i} className=\"far fa-chevron-double-up$2\"></${1:i}>",
+    "prefix": "far-chevron-double-up"
+  },
+  "far-chevron-down": {
+    "body": "<${1:i} className=\"far fa-chevron-down$2\"></${1:i}>",
+    "prefix": "far-chevron-down"
+  },
+  "far-chevron-left": {
+    "body": "<${1:i} className=\"far fa-chevron-left$2\"></${1:i}>",
+    "prefix": "far-chevron-left"
+  },
+  "far-chevron-right": {
+    "body": "<${1:i} className=\"far fa-chevron-right$2\"></${1:i}>",
+    "prefix": "far-chevron-right"
+  },
+  "far-chevron-square-down": {
+    "body": "<${1:i} className=\"far fa-chevron-square-down$2\"></${1:i}>",
+    "prefix": "far-chevron-square-down"
+  },
+  "far-chevron-square-left": {
+    "body": "<${1:i} className=\"far fa-chevron-square-left$2\"></${1:i}>",
+    "prefix": "far-chevron-square-left"
+  },
+  "far-chevron-square-right": {
+    "body": "<${1:i} className=\"far fa-chevron-square-right$2\"></${1:i}>",
+    "prefix": "far-chevron-square-right"
+  },
+  "far-chevron-square-up": {
+    "body": "<${1:i} className=\"far fa-chevron-square-up$2\"></${1:i}>",
+    "prefix": "far-chevron-square-up"
+  },
+  "far-chevron-up": {
+    "body": "<${1:i} className=\"far fa-chevron-up$2\"></${1:i}>",
+    "prefix": "far-chevron-up"
+  },
+  "far-child": {
+    "body": "<${1:i} className=\"far fa-child$2\"></${1:i}>",
+    "prefix": "far-child"
+  },
+  "far-circle": {
+    "body": "<${1:i} className=\"far fa-circle$2\"></${1:i}>",
+    "prefix": "far-circle"
+  },
+  "far-circle-notch": {
+    "body": "<${1:i} className=\"far fa-circle-notch$2\"></${1:i}>",
+    "prefix": "far-circle-notch"
+  },
+  "far-clipboard": {
+    "body": "<${1:i} className=\"far fa-clipboard$2\"></${1:i}>",
+    "prefix": "far-clipboard"
+  },
+  "far-clock": {
+    "body": "<${1:i} className=\"far fa-clock$2\"></${1:i}>",
+    "prefix": "far-clock"
+  },
+  "far-clone": {
+    "body": "<${1:i} className=\"far fa-clone$2\"></${1:i}>",
+    "prefix": "far-clone"
+  },
+  "far-closed-captioning": {
+    "body": "<${1:i} className=\"far fa-closed-captioning$2\"></${1:i}>",
+    "prefix": "far-closed-captioning"
+  },
+  "far-cloud": {
+    "body": "<${1:i} className=\"far fa-cloud$2\"></${1:i}>",
+    "prefix": "far-cloud"
+  },
+  "far-cloud-download": {
+    "body": "<${1:i} className=\"far fa-cloud-download$2\"></${1:i}>",
+    "prefix": "far-cloud-download"
+  },
+  "far-cloud-download-alt": {
+    "body": "<${1:i} className=\"far fa-cloud-download-alt$2\"></${1:i}>",
+    "prefix": "far-cloud-download-alt"
+  },
+  "far-cloud-upload": {
+    "body": "<${1:i} className=\"far fa-cloud-upload$2\"></${1:i}>",
+    "prefix": "far-cloud-upload"
+  },
+  "far-cloud-upload-alt": {
+    "body": "<${1:i} className=\"far fa-cloud-upload-alt$2\"></${1:i}>",
+    "prefix": "far-cloud-upload-alt"
+  },
+  "far-club": {
+    "body": "<${1:i} className=\"far fa-club$2\"></${1:i}>",
+    "prefix": "far-club"
+  },
+  "far-code": {
+    "body": "<${1:i} className=\"far fa-code$2\"></${1:i}>",
+    "prefix": "far-code"
+  },
+  "far-code-branch": {
+    "body": "<${1:i} className=\"far fa-code-branch$2\"></${1:i}>",
+    "prefix": "far-code-branch"
+  },
+  "far-code-commit": {
+    "body": "<${1:i} className=\"far fa-code-commit$2\"></${1:i}>",
+    "prefix": "far-code-commit"
+  },
+  "far-code-merge": {
+    "body": "<${1:i} className=\"far fa-code-merge$2\"></${1:i}>",
+    "prefix": "far-code-merge"
+  },
+  "far-coffee": {
+    "body": "<${1:i} className=\"far fa-coffee$2\"></${1:i}>",
+    "prefix": "far-coffee"
+  },
+  "far-cog": {
+    "body": "<${1:i} className=\"far fa-cog$2\"></${1:i}>",
+    "prefix": "far-cog"
+  },
+  "far-cogs": {
+    "body": "<${1:i} className=\"far fa-cogs$2\"></${1:i}>",
+    "prefix": "far-cogs"
+  },
+  "far-columns": {
+    "body": "<${1:i} className=\"far fa-columns$2\"></${1:i}>",
+    "prefix": "far-columns"
+  },
+  "far-comment": {
+    "body": "<${1:i} className=\"far fa-comment$2\"></${1:i}>",
+    "prefix": "far-comment"
+  },
+  "far-comment-alt": {
+    "body": "<${1:i} className=\"far fa-comment-alt$2\"></${1:i}>",
+    "prefix": "far-comment-alt"
+  },
+  "far-comments": {
+    "body": "<${1:i} className=\"far fa-comments$2\"></${1:i}>",
+    "prefix": "far-comments"
+  },
+  "far-compass": {
+    "body": "<${1:i} className=\"far fa-compass$2\"></${1:i}>",
+    "prefix": "far-compass"
+  },
+  "far-compress": {
+    "body": "<${1:i} className=\"far fa-compress$2\"></${1:i}>",
+    "prefix": "far-compress"
+  },
+  "far-compress-alt": {
+    "body": "<${1:i} className=\"far fa-compress-alt$2\"></${1:i}>",
+    "prefix": "far-compress-alt"
+  },
+  "far-compress-wide": {
+    "body": "<${1:i} className=\"far fa-compress-wide$2\"></${1:i}>",
+    "prefix": "far-compress-wide"
+  },
+  "far-copy": {
+    "body": "<${1:i} className=\"far fa-copy$2\"></${1:i}>",
+    "prefix": "far-copy"
+  },
+  "far-copyright": {
+    "body": "<${1:i} className=\"far fa-copyright$2\"></${1:i}>",
+    "prefix": "far-copyright"
+  },
+  "far-credit-card": {
+    "body": "<${1:i} className=\"far fa-credit-card$2\"></${1:i}>",
+    "prefix": "far-credit-card"
+  },
+  "far-credit-card-blank": {
+    "body": "<${1:i} className=\"far fa-credit-card-blank$2\"></${1:i}>",
+    "prefix": "far-credit-card-blank"
+  },
+  "far-credit-card-front": {
+    "body": "<${1:i} className=\"far fa-credit-card-front$2\"></${1:i}>",
+    "prefix": "far-credit-card-front"
+  },
+  "far-crop": {
+    "body": "<${1:i} className=\"far fa-crop$2\"></${1:i}>",
+    "prefix": "far-crop"
+  },
+  "far-crosshairs": {
+    "body": "<${1:i} className=\"far fa-crosshairs$2\"></${1:i}>",
+    "prefix": "far-crosshairs"
+  },
+  "far-cube": {
+    "body": "<${1:i} className=\"far fa-cube$2\"></${1:i}>",
+    "prefix": "far-cube"
+  },
+  "far-cubes": {
+    "body": "<${1:i} className=\"far fa-cubes$2\"></${1:i}>",
+    "prefix": "far-cubes"
+  },
+  "far-cut": {
+    "body": "<${1:i} className=\"far fa-cut$2\"></${1:i}>",
+    "prefix": "far-cut"
+  },
+  "far-database": {
+    "body": "<${1:i} className=\"far fa-database$2\"></${1:i}>",
+    "prefix": "far-database"
+  },
+  "far-deaf": {
+    "body": "<${1:i} className=\"far fa-deaf$2\"></${1:i}>",
+    "prefix": "far-deaf"
+  },
+  "far-desktop": {
+    "body": "<${1:i} className=\"far fa-desktop$2\"></${1:i}>",
+    "prefix": "far-desktop"
+  },
+  "far-desktop-alt": {
+    "body": "<${1:i} className=\"far fa-desktop-alt$2\"></${1:i}>",
+    "prefix": "far-desktop-alt"
+  },
+  "far-diamond": {
+    "body": "<${1:i} className=\"far fa-diamond$2\"></${1:i}>",
+    "prefix": "far-diamond"
+  },
+  "far-dollar-sign": {
+    "body": "<${1:i} className=\"far fa-dollar-sign$2\"></${1:i}>",
+    "prefix": "far-dollar-sign"
+  },
+  "far-dot-circle": {
+    "body": "<${1:i} className=\"far fa-dot-circle$2\"></${1:i}>",
+    "prefix": "far-dot-circle"
+  },
+  "far-download": {
+    "body": "<${1:i} className=\"far fa-download$2\"></${1:i}>",
+    "prefix": "far-download"
+  },
+  "far-edit": {
+    "body": "<${1:i} className=\"far fa-edit$2\"></${1:i}>",
+    "prefix": "far-edit"
+  },
+  "far-eject": {
+    "body": "<${1:i} className=\"far fa-eject$2\"></${1:i}>",
+    "prefix": "far-eject"
+  },
+  "far-ellipsis-h": {
+    "body": "<${1:i} className=\"far fa-ellipsis-h$2\"></${1:i}>",
+    "prefix": "far-ellipsis-h"
+  },
+  "far-ellipsis-h-alt": {
+    "body": "<${1:i} className=\"far fa-ellipsis-h-alt$2\"></${1:i}>",
+    "prefix": "far-ellipsis-h-alt"
+  },
+  "far-ellipsis-v": {
+    "body": "<${1:i} className=\"far fa-ellipsis-v$2\"></${1:i}>",
+    "prefix": "far-ellipsis-v"
+  },
+  "far-ellipsis-v-alt": {
+    "body": "<${1:i} className=\"far fa-ellipsis-v-alt$2\"></${1:i}>",
+    "prefix": "far-ellipsis-v-alt"
+  },
+  "far-envelope": {
+    "body": "<${1:i} className=\"far fa-envelope$2\"></${1:i}>",
+    "prefix": "far-envelope"
+  },
+  "far-envelope-open": {
+    "body": "<${1:i} className=\"far fa-envelope-open$2\"></${1:i}>",
+    "prefix": "far-envelope-open"
+  },
+  "far-envelope-square": {
+    "body": "<${1:i} className=\"far fa-envelope-square$2\"></${1:i}>",
+    "prefix": "far-envelope-square"
+  },
+  "far-eraser": {
+    "body": "<${1:i} className=\"far fa-eraser$2\"></${1:i}>",
+    "prefix": "far-eraser"
+  },
+  "far-euro-sign": {
+    "body": "<${1:i} className=\"far fa-euro-sign$2\"></${1:i}>",
+    "prefix": "far-euro-sign"
+  },
+  "far-exchange": {
+    "body": "<${1:i} className=\"far fa-exchange$2\"></${1:i}>",
+    "prefix": "far-exchange"
+  },
+  "far-exchange-alt": {
+    "body": "<${1:i} className=\"far fa-exchange-alt$2\"></${1:i}>",
+    "prefix": "far-exchange-alt"
+  },
+  "far-exclamation": {
+    "body": "<${1:i} className=\"far fa-exclamation$2\"></${1:i}>",
+    "prefix": "far-exclamation"
+  },
+  "far-exclamation-circle": {
+    "body": "<${1:i} className=\"far fa-exclamation-circle$2\"></${1:i}>",
+    "prefix": "far-exclamation-circle"
+  },
+  "far-exclamation-square": {
+    "body": "<${1:i} className=\"far fa-exclamation-square$2\"></${1:i}>",
+    "prefix": "far-exclamation-square"
+  },
+  "far-exclamation-triangle": {
+    "body": "<${1:i} className=\"far fa-exclamation-triangle$2\"></${1:i}>",
+    "prefix": "far-exclamation-triangle"
+  },
+  "far-expand": {
+    "body": "<${1:i} className=\"far fa-expand$2\"></${1:i}>",
+    "prefix": "far-expand"
+  },
+  "far-expand-alt": {
+    "body": "<${1:i} className=\"far fa-expand-alt$2\"></${1:i}>",
+    "prefix": "far-expand-alt"
+  },
+  "far-expand-arrows": {
+    "body": "<${1:i} className=\"far fa-expand-arrows$2\"></${1:i}>",
+    "prefix": "far-expand-arrows"
+  },
+  "far-expand-arrows-alt": {
+    "body": "<${1:i} className=\"far fa-expand-arrows-alt$2\"></${1:i}>",
+    "prefix": "far-expand-arrows-alt"
+  },
+  "far-expand-wide": {
+    "body": "<${1:i} className=\"far fa-expand-wide$2\"></${1:i}>",
+    "prefix": "far-expand-wide"
+  },
+  "far-external-link": {
+    "body": "<${1:i} className=\"far fa-external-link$2\"></${1:i}>",
+    "prefix": "far-external-link"
+  },
+  "far-external-link-alt": {
+    "body": "<${1:i} className=\"far fa-external-link-alt$2\"></${1:i}>",
+    "prefix": "far-external-link-alt"
+  },
+  "far-external-link-square": {
+    "body": "<${1:i} className=\"far fa-external-link-square$2\"></${1:i}>",
+    "prefix": "far-external-link-square"
+  },
+  "far-external-link-square-alt": {
+    "body": "<${1:i} className=\"far fa-external-link-square-alt$2\"></${1:i}>",
+    "prefix": "far-external-link-square-alt"
+  },
+  "far-eye": {
+    "body": "<${1:i} className=\"far fa-eye$2\"></${1:i}>",
+    "prefix": "far-eye"
+  },
+  "far-eye-dropper": {
+    "body": "<${1:i} className=\"far fa-eye-dropper$2\"></${1:i}>",
+    "prefix": "far-eye-dropper"
+  },
+  "far-eye-slash": {
+    "body": "<${1:i} className=\"far fa-eye-slash$2\"></${1:i}>",
+    "prefix": "far-eye-slash"
+  },
+  "far-fart-backward": {
+    "body": "<${1:i} className=\"far fa-fart-backward$2\"></${1:i}>",
+    "prefix": "far-fart-backward"
+  },
+  "far-fart-forward": {
+    "body": "<${1:i} className=\"far fa-fart-forward$2\"></${1:i}>",
+    "prefix": "far-fart-forward"
+  },
+  "far-fax": {
+    "body": "<${1:i} className=\"far fa-fax$2\"></${1:i}>",
+    "prefix": "far-fax"
+  },
+  "far-female": {
+    "body": "<${1:i} className=\"far fa-female$2\"></${1:i}>",
+    "prefix": "far-female"
+  },
+  "far-fighter-jet": {
+    "body": "<${1:i} className=\"far fa-fighter-jet$2\"></${1:i}>",
+    "prefix": "far-fighter-jet"
+  },
+  "far-file": {
+    "body": "<${1:i} className=\"far fa-file$2\"></${1:i}>",
+    "prefix": "far-file"
+  },
+  "far-file-alt": {
+    "body": "<${1:i} className=\"far fa-file-alt$2\"></${1:i}>",
+    "prefix": "far-file-alt"
+  },
+  "far-file-archive": {
+    "body": "<${1:i} className=\"far fa-file-archive$2\"></${1:i}>",
+    "prefix": "far-file-archive"
+  },
+  "far-file-audio": {
+    "body": "<${1:i} className=\"far fa-file-audio$2\"></${1:i}>",
+    "prefix": "far-file-audio"
+  },
+  "far-file-check": {
+    "body": "<${1:i} className=\"far fa-file-check$2\"></${1:i}>",
+    "prefix": "far-file-check"
+  },
+  "far-file-code": {
+    "body": "<${1:i} className=\"far fa-file-code$2\"></${1:i}>",
+    "prefix": "far-file-code"
+  },
+  "far-file-edit": {
+    "body": "<${1:i} className=\"far fa-file-edit$2\"></${1:i}>",
+    "prefix": "far-file-edit"
+  },
+  "far-file-excel": {
+    "body": "<${1:i} className=\"far fa-file-excel$2\"></${1:i}>",
+    "prefix": "far-file-excel"
+  },
+  "far-file-exclamation": {
+    "body": "<${1:i} className=\"far fa-file-exclamation$2\"></${1:i}>",
+    "prefix": "far-file-exclamation"
+  },
+  "far-file-image": {
+    "body": "<${1:i} className=\"far fa-file-image$2\"></${1:i}>",
+    "prefix": "far-file-image"
+  },
+  "far-file-minus": {
+    "body": "<${1:i} className=\"far fa-file-minus$2\"></${1:i}>",
+    "prefix": "far-file-minus"
+  },
+  "far-file-pdf": {
+    "body": "<${1:i} className=\"far fa-file-pdf$2\"></${1:i}>",
+    "prefix": "far-file-pdf"
+  },
+  "far-file-plus": {
+    "body": "<${1:i} className=\"far fa-file-plus$2\"></${1:i}>",
+    "prefix": "far-file-plus"
+  },
+  "far-file-powerpoint": {
+    "body": "<${1:i} className=\"far fa-file-powerpoint$2\"></${1:i}>",
+    "prefix": "far-file-powerpoint"
+  },
+  "far-file-times": {
+    "body": "<${1:i} className=\"far fa-file-times$2\"></${1:i}>",
+    "prefix": "far-file-times"
+  },
+  "far-file-video": {
+    "body": "<${1:i} className=\"far fa-file-video$2\"></${1:i}>",
+    "prefix": "far-file-video"
+  },
+  "far-file-word": {
+    "body": "<${1:i} className=\"far fa-file-word$2\"></${1:i}>",
+    "prefix": "far-file-word"
+  },
+  "far-film": {
+    "body": "<${1:i} className=\"far fa-film$2\"></${1:i}>",
+    "prefix": "far-film"
+  },
+  "far-film-alt": {
+    "body": "<${1:i} className=\"far fa-film-alt$2\"></${1:i}>",
+    "prefix": "far-film-alt"
+  },
+  "far-filter": {
+    "body": "<${1:i} className=\"far fa-filter$2\"></${1:i}>",
+    "prefix": "far-filter"
+  },
+  "far-fire": {
+    "body": "<${1:i} className=\"far fa-fire$2\"></${1:i}>",
+    "prefix": "far-fire"
+  },
+  "far-fire-extinguisher": {
+    "body": "<${1:i} className=\"far fa-fire-extinguisher$2\"></${1:i}>",
+    "prefix": "far-fire-extinguisher"
+  },
+  "far-flag": {
+    "body": "<${1:i} className=\"far fa-flag$2\"></${1:i}>",
+    "prefix": "far-flag"
+  },
+  "far-flag-checkered": {
+    "body": "<${1:i} className=\"far fa-flag-checkered$2\"></${1:i}>",
+    "prefix": "far-flag-checkered"
+  },
+  "far-flask": {
+    "body": "<${1:i} className=\"far fa-flask$2\"></${1:i}>",
+    "prefix": "far-flask"
+  },
+  "far-folder": {
+    "body": "<${1:i} className=\"far fa-folder$2\"></${1:i}>",
+    "prefix": "far-folder"
+  },
+  "far-folder-open": {
+    "body": "<${1:i} className=\"far fa-folder-open$2\"></${1:i}>",
+    "prefix": "far-folder-open"
+  },
+  "far-font": {
+    "body": "<${1:i} className=\"far fa-font$2\"></${1:i}>",
+    "prefix": "far-font"
+  },
+  "far-forward": {
+    "body": "<${1:i} className=\"far fa-forward$2\"></${1:i}>",
+    "prefix": "far-forward"
+  },
+  "far-frown": {
+    "body": "<${1:i} className=\"far fa-frown$2\"></${1:i}>",
+    "prefix": "far-frown"
+  },
+  "far-futbol": {
+    "body": "<${1:i} className=\"far fa-futbol$2\"></${1:i}>",
+    "prefix": "far-futbol"
+  },
+  "far-gamepad": {
+    "body": "<${1:i} className=\"far fa-gamepad$2\"></${1:i}>",
+    "prefix": "far-gamepad"
+  },
+  "far-gavel": {
+    "body": "<${1:i} className=\"far fa-gavel$2\"></${1:i}>",
+    "prefix": "far-gavel"
+  },
+  "far-gem": {
+    "body": "<${1:i} className=\"far fa-gem$2\"></${1:i}>",
+    "prefix": "far-gem"
+  },
+  "far-genderless": {
+    "body": "<${1:i} className=\"far fa-genderless$2\"></${1:i}>",
+    "prefix": "far-genderless"
+  },
+  "far-gift": {
+    "body": "<${1:i} className=\"far fa-gift$2\"></${1:i}>",
+    "prefix": "far-gift"
+  },
+  "far-glass-martini": {
+    "body": "<${1:i} className=\"far fa-glass-martini$2\"></${1:i}>",
+    "prefix": "far-glass-martini"
+  },
+  "far-globe": {
+    "body": "<${1:i} className=\"far fa-globe$2\"></${1:i}>",
+    "prefix": "far-globe"
+  },
+  "far-graduation-cap": {
+    "body": "<${1:i} className=\"far fa-graduation-cap$2\"></${1:i}>",
+    "prefix": "far-graduation-cap"
+  },
+  "far-h-square": {
+    "body": "<${1:i} className=\"far fa-h-square$2\"></${1:i}>",
+    "prefix": "far-h-square"
+  },
+  "far-h1": {
+    "body": "<${1:i} className=\"far fa-h1$2\"></${1:i}>",
+    "prefix": "far-h1"
+  },
+  "far-h2": {
+    "body": "<${1:i} className=\"far fa-h2$2\"></${1:i}>",
+    "prefix": "far-h2"
+  },
+  "far-h3": {
+    "body": "<${1:i} className=\"far fa-h3$2\"></${1:i}>",
+    "prefix": "far-h3"
+  },
+  "far-hand-lizard": {
+    "body": "<${1:i} className=\"far fa-hand-lizard$2\"></${1:i}>",
+    "prefix": "far-hand-lizard"
+  },
+  "far-hand-paper": {
+    "body": "<${1:i} className=\"far fa-hand-paper$2\"></${1:i}>",
+    "prefix": "far-hand-paper"
+  },
+  "far-hand-peace": {
+    "body": "<${1:i} className=\"far fa-hand-peace$2\"></${1:i}>",
+    "prefix": "far-hand-peace"
+  },
+  "far-hand-point-down": {
+    "body": "<${1:i} className=\"far fa-hand-point-down$2\"></${1:i}>",
+    "prefix": "far-hand-point-down"
+  },
+  "far-hand-point-left": {
+    "body": "<${1:i} className=\"far fa-hand-point-left$2\"></${1:i}>",
+    "prefix": "far-hand-point-left"
+  },
+  "far-hand-point-right": {
+    "body": "<${1:i} className=\"far fa-hand-point-right$2\"></${1:i}>",
+    "prefix": "far-hand-point-right"
+  },
+  "far-hand-point-up": {
+    "body": "<${1:i} className=\"far fa-hand-point-up$2\"></${1:i}>",
+    "prefix": "far-hand-point-up"
+  },
+  "far-hand-pointer": {
+    "body": "<${1:i} className=\"far fa-hand-pointer$2\"></${1:i}>",
+    "prefix": "far-hand-pointer"
+  },
+  "far-hand-rock": {
+    "body": "<${1:i} className=\"far fa-hand-rock$2\"></${1:i}>",
+    "prefix": "far-hand-rock"
+  },
+  "far-hand-scissors": {
+    "body": "<${1:i} className=\"far fa-hand-scissors$2\"></${1:i}>",
+    "prefix": "far-hand-scissors"
+  },
+  "far-hand-spock": {
+    "body": "<${1:i} className=\"far fa-hand-spock$2\"></${1:i}>",
+    "prefix": "far-hand-spock"
+  },
+  "far-handshake": {
+    "body": "<${1:i} className=\"far fa-handshake$2\"></${1:i}>",
+    "prefix": "far-handshake"
+  },
+  "far-hashtag": {
+    "body": "<${1:i} className=\"far fa-hashtag$2\"></${1:i}>",
+    "prefix": "far-hashtag"
+  },
+  "far-hdd": {
+    "body": "<${1:i} className=\"far fa-hdd$2\"></${1:i}>",
+    "prefix": "far-hdd"
+  },
+  "far-heading": {
+    "body": "<${1:i} className=\"far fa-heading$2\"></${1:i}>",
+    "prefix": "far-heading"
+  },
+  "far-headphones": {
+    "body": "<${1:i} className=\"far fa-headphones$2\"></${1:i}>",
+    "prefix": "far-headphones"
+  },
+  "far-heart": {
+    "body": "<${1:i} className=\"far fa-heart$2\"></${1:i}>",
+    "prefix": "far-heart"
+  },
+  "far-heartbeat": {
+    "body": "<${1:i} className=\"far fa-heartbeat$2\"></${1:i}>",
+    "prefix": "far-heartbeat"
+  },
+  "far-hexagon": {
+    "body": "<${1:i} className=\"far fa-hexagon$2\"></${1:i}>",
+    "prefix": "far-hexagon"
+  },
+  "far-history": {
+    "body": "<${1:i} className=\"far fa-history$2\"></${1:i}>",
+    "prefix": "far-history"
+  },
+  "far-home": {
+    "body": "<${1:i} className=\"far fa-home$2\"></${1:i}>",
+    "prefix": "far-home"
+  },
+  "far-hospital": {
+    "body": "<${1:i} className=\"far fa-hospital$2\"></${1:i}>",
+    "prefix": "far-hospital"
+  },
+  "far-hourglass": {
+    "body": "<${1:i} className=\"far fa-hourglass$2\"></${1:i}>",
+    "prefix": "far-hourglass"
+  },
+  "far-hourglass-end": {
+    "body": "<${1:i} className=\"far fa-hourglass-end$2\"></${1:i}>",
+    "prefix": "far-hourglass-end"
+  },
+  "far-hourglass-half": {
+    "body": "<${1:i} className=\"far fa-hourglass-half$2\"></${1:i}>",
+    "prefix": "far-hourglass-half"
+  },
+  "far-hourglass-start": {
+    "body": "<${1:i} className=\"far fa-hourglass-start$2\"></${1:i}>",
+    "prefix": "far-hourglass-start"
+  },
+  "far-i-cursor": {
+    "body": "<${1:i} className=\"far fa-i-cursor$2\"></${1:i}>",
+    "prefix": "far-i-cursor"
+  },
+  "far-id-badge": {
+    "body": "<${1:i} className=\"far fa-id-badge$2\"></${1:i}>",
+    "prefix": "far-id-badge"
+  },
+  "far-id-card": {
+    "body": "<${1:i} className=\"far fa-id-card$2\"></${1:i}>",
+    "prefix": "far-id-card"
+  },
+  "far-image": {
+    "body": "<${1:i} className=\"far fa-image$2\"></${1:i}>",
+    "prefix": "far-image"
+  },
+  "far-images": {
+    "body": "<${1:i} className=\"far fa-images$2\"></${1:i}>",
+    "prefix": "far-images"
+  },
+  "far-inbox": {
+    "body": "<${1:i} className=\"far fa-inbox$2\"></${1:i}>",
+    "prefix": "far-inbox"
+  },
+  "far-inbox-in": {
+    "body": "<${1:i} className=\"far fa-inbox-in$2\"></${1:i}>",
+    "prefix": "far-inbox-in"
+  },
+  "far-inbox-out": {
+    "body": "<${1:i} className=\"far fa-inbox-out$2\"></${1:i}>",
+    "prefix": "far-inbox-out"
+  },
+  "far-indent": {
+    "body": "<${1:i} className=\"far fa-indent$2\"></${1:i}>",
+    "prefix": "far-indent"
+  },
+  "far-industry": {
+    "body": "<${1:i} className=\"far fa-industry$2\"></${1:i}>",
+    "prefix": "far-industry"
+  },
+  "far-industry-alt": {
+    "body": "<${1:i} className=\"far fa-industry-alt$2\"></${1:i}>",
+    "prefix": "far-industry-alt"
+  },
+  "far-info": {
+    "body": "<${1:i} className=\"far fa-info$2\"></${1:i}>",
+    "prefix": "far-info"
+  },
+  "far-info-circle": {
+    "body": "<${1:i} className=\"far fa-info-circle$2\"></${1:i}>",
+    "prefix": "far-info-circle"
+  },
+  "far-info-square": {
+    "body": "<${1:i} className=\"far fa-info-square$2\"></${1:i}>",
+    "prefix": "far-info-square"
+  },
+  "far-italic": {
+    "body": "<${1:i} className=\"far fa-italic$2\"></${1:i}>",
+    "prefix": "far-italic"
+  },
+  "far-jack-o-lantern": {
+    "body": "<${1:i} className=\"far fa-jack-o-lantern$2\"></${1:i}>",
+    "prefix": "far-jack-o-lantern"
+  },
+  "far-key": {
+    "body": "<${1:i} className=\"far fa-key$2\"></${1:i}>",
+    "prefix": "far-key"
+  },
+  "far-keyboard": {
+    "body": "<${1:i} className=\"far fa-keyboard$2\"></${1:i}>",
+    "prefix": "far-keyboard"
+  },
+  "far-language": {
+    "body": "<${1:i} className=\"far fa-language$2\"></${1:i}>",
+    "prefix": "far-language"
+  },
+  "far-laptop": {
+    "body": "<${1:i} className=\"far fa-laptop$2\"></${1:i}>",
+    "prefix": "far-laptop"
+  },
+  "far-leaf": {
+    "body": "<${1:i} className=\"far fa-leaf$2\"></${1:i}>",
+    "prefix": "far-leaf"
+  },
+  "far-lemon": {
+    "body": "<${1:i} className=\"far fa-lemon$2\"></${1:i}>",
+    "prefix": "far-lemon"
+  },
+  "far-level-down": {
+    "body": "<${1:i} className=\"far fa-level-down$2\"></${1:i}>",
+    "prefix": "far-level-down"
+  },
+  "far-level-down-alt": {
+    "body": "<${1:i} className=\"far fa-level-down-alt$2\"></${1:i}>",
+    "prefix": "far-level-down-alt"
+  },
+  "far-level-up": {
+    "body": "<${1:i} className=\"far fa-level-up$2\"></${1:i}>",
+    "prefix": "far-level-up"
+  },
+  "far-level-up-alt": {
+    "body": "<${1:i} className=\"far fa-level-up-alt$2\"></${1:i}>",
+    "prefix": "far-level-up-alt"
+  },
+  "far-life-ring": {
+    "body": "<${1:i} className=\"far fa-life-ring$2\"></${1:i}>",
+    "prefix": "far-life-ring"
+  },
+  "far-lightbulb": {
+    "body": "<${1:i} className=\"far fa-lightbulb$2\"></${1:i}>",
+    "prefix": "far-lightbulb"
+  },
+  "far-link": {
+    "body": "<${1:i} className=\"far fa-link$2\"></${1:i}>",
+    "prefix": "far-link"
+  },
+  "far-lira-sign": {
+    "body": "<${1:i} className=\"far fa-lira-sign$2\"></${1:i}>",
+    "prefix": "far-lira-sign"
+  },
+  "far-list": {
+    "body": "<${1:i} className=\"far fa-list$2\"></${1:i}>",
+    "prefix": "far-list"
+  },
+  "far-list-alt": {
+    "body": "<${1:i} className=\"far fa-list-alt$2\"></${1:i}>",
+    "prefix": "far-list-alt"
+  },
+  "far-list-ol": {
+    "body": "<${1:i} className=\"far fa-list-ol$2\"></${1:i}>",
+    "prefix": "far-list-ol"
+  },
+  "far-list-ul": {
+    "body": "<${1:i} className=\"far fa-list-ul$2\"></${1:i}>",
+    "prefix": "far-list-ul"
+  },
+  "far-location-arrow": {
+    "body": "<${1:i} className=\"far fa-location-arrow$2\"></${1:i}>",
+    "prefix": "far-location-arrow"
+  },
+  "far-lock": {
+    "body": "<${1:i} className=\"far fa-lock$2\"></${1:i}>",
+    "prefix": "far-lock"
+  },
+  "far-lock-alt": {
+    "body": "<${1:i} className=\"far fa-lock-alt$2\"></${1:i}>",
+    "prefix": "far-lock-alt"
+  },
+  "far-lock-open": {
+    "body": "<${1:i} className=\"far fa-lock-open$2\"></${1:i}>",
+    "prefix": "far-lock-open"
+  },
+  "far-lock-open-alt": {
+    "body": "<${1:i} className=\"far fa-lock-open-alt$2\"></${1:i}>",
+    "prefix": "far-lock-open-alt"
+  },
+  "far-long-arrow-alt-down": {
+    "body": "<${1:i} className=\"far fa-long-arrow-alt-down$2\"></${1:i}>",
+    "prefix": "far-long-arrow-alt-down"
+  },
+  "far-long-arrow-alt-left": {
+    "body": "<${1:i} className=\"far fa-long-arrow-alt-left$2\"></${1:i}>",
+    "prefix": "far-long-arrow-alt-left"
+  },
+  "far-long-arrow-alt-right": {
+    "body": "<${1:i} className=\"far fa-long-arrow-alt-right$2\"></${1:i}>",
+    "prefix": "far-long-arrow-alt-right"
+  },
+  "far-long-arrow-alt-up": {
+    "body": "<${1:i} className=\"far fa-long-arrow-alt-up$2\"></${1:i}>",
+    "prefix": "far-long-arrow-alt-up"
+  },
+  "far-long-arrow-down": {
+    "body": "<${1:i} className=\"far fa-long-arrow-down$2\"></${1:i}>",
+    "prefix": "far-long-arrow-down"
+  },
+  "far-long-arrow-left": {
+    "body": "<${1:i} className=\"far fa-long-arrow-left$2\"></${1:i}>",
+    "prefix": "far-long-arrow-left"
+  },
+  "far-long-arrow-right": {
+    "body": "<${1:i} className=\"far fa-long-arrow-right$2\"></${1:i}>",
+    "prefix": "far-long-arrow-right"
+  },
+  "far-long-arrow-up": {
+    "body": "<${1:i} className=\"far fa-long-arrow-up$2\"></${1:i}>",
+    "prefix": "far-long-arrow-up"
+  },
+  "far-low-vision": {
+    "body": "<${1:i} className=\"far fa-low-vision$2\"></${1:i}>",
+    "prefix": "far-low-vision"
+  },
+  "far-magic": {
+    "body": "<${1:i} className=\"far fa-magic$2\"></${1:i}>",
+    "prefix": "far-magic"
+  },
+  "far-magnet": {
+    "body": "<${1:i} className=\"far fa-magnet$2\"></${1:i}>",
+    "prefix": "far-magnet"
+  },
+  "far-male": {
+    "body": "<${1:i} className=\"far fa-male$2\"></${1:i}>",
+    "prefix": "far-male"
+  },
+  "far-map": {
+    "body": "<${1:i} className=\"far fa-map$2\"></${1:i}>",
+    "prefix": "far-map"
+  },
+  "far-map-marker": {
+    "body": "<${1:i} className=\"far fa-map-marker$2\"></${1:i}>",
+    "prefix": "far-map-marker"
+  },
+  "far-map-marker-alt": {
+    "body": "<${1:i} className=\"far fa-map-marker-alt$2\"></${1:i}>",
+    "prefix": "far-map-marker-alt"
+  },
+  "far-map-pin": {
+    "body": "<${1:i} className=\"far fa-map-pin$2\"></${1:i}>",
+    "prefix": "far-map-pin"
+  },
+  "far-map-signs": {
+    "body": "<${1:i} className=\"far fa-map-signs$2\"></${1:i}>",
+    "prefix": "far-map-signs"
+  },
+  "far-mars": {
+    "body": "<${1:i} className=\"far fa-mars$2\"></${1:i}>",
+    "prefix": "far-mars"
+  },
+  "far-mars-double": {
+    "body": "<${1:i} className=\"far fa-mars-double$2\"></${1:i}>",
+    "prefix": "far-mars-double"
+  },
+  "far-mars-stroke": {
+    "body": "<${1:i} className=\"far fa-mars-stroke$2\"></${1:i}>",
+    "prefix": "far-mars-stroke"
+  },
+  "far-mars-stroke-h": {
+    "body": "<${1:i} className=\"far fa-mars-stroke-h$2\"></${1:i}>",
+    "prefix": "far-mars-stroke-h"
+  },
+  "far-mars-stroke-v": {
+    "body": "<${1:i} className=\"far fa-mars-stroke-v$2\"></${1:i}>",
+    "prefix": "far-mars-stroke-v"
+  },
+  "far-medkit": {
+    "body": "<${1:i} className=\"far fa-medkit$2\"></${1:i}>",
+    "prefix": "far-medkit"
+  },
+  "far-meh": {
+    "body": "<${1:i} className=\"far fa-meh$2\"></${1:i}>",
+    "prefix": "far-meh"
+  },
+  "far-mercury": {
+    "body": "<${1:i} className=\"far fa-mercury$2\"></${1:i}>",
+    "prefix": "far-mercury"
+  },
+  "far-microchip": {
+    "body": "<${1:i} className=\"far fa-microchip$2\"></${1:i}>",
+    "prefix": "far-microchip"
+  },
+  "far-microphone": {
+    "body": "<${1:i} className=\"far fa-microphone$2\"></${1:i}>",
+    "prefix": "far-microphone"
+  },
+  "far-microphone-alt": {
+    "body": "<${1:i} className=\"far fa-microphone-alt$2\"></${1:i}>",
+    "prefix": "far-microphone-alt"
+  },
+  "far-microphone-slash": {
+    "body": "<${1:i} className=\"far fa-microphone-slash$2\"></${1:i}>",
+    "prefix": "far-microphone-slash"
+  },
+  "far-minus": {
+    "body": "<${1:i} className=\"far fa-minus$2\"></${1:i}>",
+    "prefix": "far-minus"
+  },
+  "far-minus-circle": {
+    "body": "<${1:i} className=\"far fa-minus-circle$2\"></${1:i}>",
+    "prefix": "far-minus-circle"
+  },
+  "far-minus-hexagon": {
+    "body": "<${1:i} className=\"far fa-minus-hexagon$2\"></${1:i}>",
+    "prefix": "far-minus-hexagon"
+  },
+  "far-minus-octagon": {
+    "body": "<${1:i} className=\"far fa-minus-octagon$2\"></${1:i}>",
+    "prefix": "far-minus-octagon"
+  },
+  "far-minus-square": {
+    "body": "<${1:i} className=\"far fa-minus-square$2\"></${1:i}>",
+    "prefix": "far-minus-square"
+  },
+  "far-mobile": {
+    "body": "<${1:i} className=\"far fa-mobile$2\"></${1:i}>",
+    "prefix": "far-mobile"
+  },
+  "far-mobile-alt": {
+    "body": "<${1:i} className=\"far fa-mobile-alt$2\"></${1:i}>",
+    "prefix": "far-mobile-alt"
+  },
+  "far-mobile-android": {
+    "body": "<${1:i} className=\"far fa-mobile-android$2\"></${1:i}>",
+    "prefix": "far-mobile-android"
+  },
+  "far-mobile-android-alt": {
+    "body": "<${1:i} className=\"far fa-mobile-android-alt$2\"></${1:i}>",
+    "prefix": "far-mobile-android-alt"
+  },
+  "far-money-bill": {
+    "body": "<${1:i} className=\"far fa-money-bill$2\"></${1:i}>",
+    "prefix": "far-money-bill"
+  },
+  "far-money-bill-alt": {
+    "body": "<${1:i} className=\"far fa-money-bill-alt$2\"></${1:i}>",
+    "prefix": "far-money-bill-alt"
+  },
+  "far-moon": {
+    "body": "<${1:i} className=\"far fa-moon$2\"></${1:i}>",
+    "prefix": "far-moon"
+  },
+  "far-motorcycle": {
+    "body": "<${1:i} className=\"far fa-motorcycle$2\"></${1:i}>",
+    "prefix": "far-motorcycle"
+  },
+  "far-mouse-pointer": {
+    "body": "<${1:i} className=\"far fa-mouse-pointer$2\"></${1:i}>",
+    "prefix": "far-mouse-pointer"
+  },
+  "far-music": {
+    "body": "<${1:i} className=\"far fa-music$2\"></${1:i}>",
+    "prefix": "far-music"
+  },
+  "far-neuter": {
+    "body": "<${1:i} className=\"far fa-neuter$2\"></${1:i}>",
+    "prefix": "far-neuter"
+  },
+  "far-newspaper": {
+    "body": "<${1:i} className=\"far fa-newspaper$2\"></${1:i}>",
+    "prefix": "far-newspaper"
+  },
+  "far-object-group": {
+    "body": "<${1:i} className=\"far fa-object-group$2\"></${1:i}>",
+    "prefix": "far-object-group"
+  },
+  "far-object-ungroup": {
+    "body": "<${1:i} className=\"far fa-object-ungroup$2\"></${1:i}>",
+    "prefix": "far-object-ungroup"
+  },
+  "far-octagon": {
+    "body": "<${1:i} className=\"far fa-octagon$2\"></${1:i}>",
+    "prefix": "far-octagon"
+  },
+  "far-outdent": {
+    "body": "<${1:i} className=\"far fa-outdent$2\"></${1:i}>",
+    "prefix": "far-outdent"
+  },
+  "far-paint-brush": {
+    "body": "<${1:i} className=\"far fa-paint-brush$2\"></${1:i}>",
+    "prefix": "far-paint-brush"
+  },
+  "far-paper-plane": {
+    "body": "<${1:i} className=\"far fa-paper-plane$2\"></${1:i}>",
+    "prefix": "far-paper-plane"
+  },
+  "far-paperclip": {
+    "body": "<${1:i} className=\"far fa-paperclip$2\"></${1:i}>",
+    "prefix": "far-paperclip"
+  },
+  "far-paragraph": {
+    "body": "<${1:i} className=\"far fa-paragraph$2\"></${1:i}>",
+    "prefix": "far-paragraph"
+  },
+  "far-paste": {
+    "body": "<${1:i} className=\"far fa-paste$2\"></${1:i}>",
+    "prefix": "far-paste"
+  },
+  "far-pause": {
+    "body": "<${1:i} className=\"far fa-pause$2\"></${1:i}>",
+    "prefix": "far-pause"
+  },
+  "far-pause-circle": {
+    "body": "<${1:i} className=\"far fa-pause-circle$2\"></${1:i}>",
+    "prefix": "far-pause-circle"
+  },
+  "far-paw": {
+    "body": "<${1:i} className=\"far fa-paw$2\"></${1:i}>",
+    "prefix": "far-paw"
+  },
+  "far-pen": {
+    "body": "<${1:i} className=\"far fa-pen$2\"></${1:i}>",
+    "prefix": "far-pen"
+  },
+  "far-pen-alt": {
+    "body": "<${1:i} className=\"far fa-pen-alt$2\"></${1:i}>",
+    "prefix": "far-pen-alt"
+  },
+  "far-pen-square": {
+    "body": "<${1:i} className=\"far fa-pen-square$2\"></${1:i}>",
+    "prefix": "far-pen-square"
+  },
+  "far-pencil": {
+    "body": "<${1:i} className=\"far fa-pencil$2\"></${1:i}>",
+    "prefix": "far-pencil"
+  },
+  "far-pencil-alt": {
+    "body": "<${1:i} className=\"far fa-pencil-alt$2\"></${1:i}>",
+    "prefix": "far-pencil-alt"
+  },
+  "far-percent": {
+    "body": "<${1:i} className=\"far fa-percent$2\"></${1:i}>",
+    "prefix": "far-percent"
+  },
+  "far-phone": {
+    "body": "<${1:i} className=\"far fa-phone$2\"></${1:i}>",
+    "prefix": "far-phone"
+  },
+  "far-phone-slash": {
+    "body": "<${1:i} className=\"far fa-phone-slash$2\"></${1:i}>",
+    "prefix": "far-phone-slash"
+  },
+  "far-phone-square": {
+    "body": "<${1:i} className=\"far fa-phone-square$2\"></${1:i}>",
+    "prefix": "far-phone-square"
+  },
+  "far-phone-volume": {
+    "body": "<${1:i} className=\"far fa-phone-volume$2\"></${1:i}>",
+    "prefix": "far-phone-volume"
+  },
+  "far-plane": {
+    "body": "<${1:i} className=\"far fa-plane$2\"></${1:i}>",
+    "prefix": "far-plane"
+  },
+  "far-plane-alt": {
+    "body": "<${1:i} className=\"far fa-plane-alt$2\"></${1:i}>",
+    "prefix": "far-plane-alt"
+  },
+  "far-play": {
+    "body": "<${1:i} className=\"far fa-play$2\"></${1:i}>",
+    "prefix": "far-play"
+  },
+  "far-play-circle": {
+    "body": "<${1:i} className=\"far fa-play-circle$2\"></${1:i}>",
+    "prefix": "far-play-circle"
+  },
+  "far-plug": {
+    "body": "<${1:i} className=\"far fa-plug$2\"></${1:i}>",
+    "prefix": "far-plug"
+  },
+  "far-plus": {
+    "body": "<${1:i} className=\"far fa-plus$2\"></${1:i}>",
+    "prefix": "far-plus"
+  },
+  "far-plus-circle": {
+    "body": "<${1:i} className=\"far fa-plus-circle$2\"></${1:i}>",
+    "prefix": "far-plus-circle"
+  },
+  "far-plus-hexagon": {
+    "body": "<${1:i} className=\"far fa-plus-hexagon$2\"></${1:i}>",
+    "prefix": "far-plus-hexagon"
+  },
+  "far-plus-octagon": {
+    "body": "<${1:i} className=\"far fa-plus-octagon$2\"></${1:i}>",
+    "prefix": "far-plus-octagon"
+  },
+  "far-plus-square": {
+    "body": "<${1:i} className=\"far fa-plus-square$2\"></${1:i}>",
+    "prefix": "far-plus-square"
+  },
+  "far-podcast": {
+    "body": "<${1:i} className=\"far fa-podcast$2\"></${1:i}>",
+    "prefix": "far-podcast"
+  },
+  "far-poo": {
+    "body": "<${1:i} className=\"far fa-poo$2\"></${1:i}>",
+    "prefix": "far-poo"
+  },
+  "far-portrait": {
+    "body": "<${1:i} className=\"far fa-portrait$2\"></${1:i}>",
+    "prefix": "far-portrait"
+  },
+  "far-pound-sign": {
+    "body": "<${1:i} className=\"far fa-pound-sign$2\"></${1:i}>",
+    "prefix": "far-pound-sign"
+  },
+  "far-power-off": {
+    "body": "<${1:i} className=\"far fa-power-off$2\"></${1:i}>",
+    "prefix": "far-power-off"
+  },
+  "far-print": {
+    "body": "<${1:i} className=\"far fa-print$2\"></${1:i}>",
+    "prefix": "far-print"
+  },
+  "far-puzzle-piece": {
+    "body": "<${1:i} className=\"far fa-puzzle-piece$2\"></${1:i}>",
+    "prefix": "far-puzzle-piece"
+  },
+  "far-qrcode": {
+    "body": "<${1:i} className=\"far fa-qrcode$2\"></${1:i}>",
+    "prefix": "far-qrcode"
+  },
+  "far-question": {
+    "body": "<${1:i} className=\"far fa-question$2\"></${1:i}>",
+    "prefix": "far-question"
+  },
+  "far-question-circle": {
+    "body": "<${1:i} className=\"far fa-question-circle$2\"></${1:i}>",
+    "prefix": "far-question-circle"
+  },
+  "far-question-square": {
+    "body": "<${1:i} className=\"far fa-question-square$2\"></${1:i}>",
+    "prefix": "far-question-square"
+  },
+  "far-quote-left": {
+    "body": "<${1:i} className=\"far fa-quote-left$2\"></${1:i}>",
+    "prefix": "far-quote-left"
+  },
+  "far-quote-right": {
+    "body": "<${1:i} className=\"far fa-quote-right$2\"></${1:i}>",
+    "prefix": "far-quote-right"
+  },
+  "far-random": {
+    "body": "<${1:i} className=\"far fa-random$2\"></${1:i}>",
+    "prefix": "far-random"
+  },
+  "far-rectangle-landscape": {
+    "body": "<${1:i} className=\"far fa-rectangle-landscape$2\"></${1:i}>",
+    "prefix": "far-rectangle-landscape"
+  },
+  "far-rectangle-portrait": {
+    "body": "<${1:i} className=\"far fa-rectangle-portrait$2\"></${1:i}>",
+    "prefix": "far-rectangle-portrait"
+  },
+  "far-rectangle-wide": {
+    "body": "<${1:i} className=\"far fa-rectangle-wide$2\"></${1:i}>",
+    "prefix": "far-rectangle-wide"
+  },
+  "far-recycle": {
+    "body": "<${1:i} className=\"far fa-recycle$2\"></${1:i}>",
+    "prefix": "far-recycle"
+  },
+  "far-redo": {
+    "body": "<${1:i} className=\"far fa-redo$2\"></${1:i}>",
+    "prefix": "far-redo"
+  },
+  "far-redo-alt": {
+    "body": "<${1:i} className=\"far fa-redo-alt$2\"></${1:i}>",
+    "prefix": "far-redo-alt"
+  },
+  "far-registered": {
+    "body": "<${1:i} className=\"far fa-registered$2\"></${1:i}>",
+    "prefix": "far-registered"
+  },
+  "far-repeat": {
+    "body": "<${1:i} className=\"far fa-repeat$2\"></${1:i}>",
+    "prefix": "far-repeat"
+  },
+  "far-repeat-1": {
+    "body": "<${1:i} className=\"far fa-repeat-1$2\"></${1:i}>",
+    "prefix": "far-repeat-1"
+  },
+  "far-repeat-1-alt": {
+    "body": "<${1:i} className=\"far fa-repeat-1-alt$2\"></${1:i}>",
+    "prefix": "far-repeat-1-alt"
+  },
+  "far-repeat-alt": {
+    "body": "<${1:i} className=\"far fa-repeat-alt$2\"></${1:i}>",
+    "prefix": "far-repeat-alt"
+  },
+  "far-reply": {
+    "body": "<${1:i} className=\"far fa-reply$2\"></${1:i}>",
+    "prefix": "far-reply"
+  },
+  "far-reply-all": {
+    "body": "<${1:i} className=\"far fa-reply-all$2\"></${1:i}>",
+    "prefix": "far-reply-all"
+  },
+  "far-retweet": {
+    "body": "<${1:i} className=\"far fa-retweet$2\"></${1:i}>",
+    "prefix": "far-retweet"
+  },
+  "far-retweet-alt": {
+    "body": "<${1:i} className=\"far fa-retweet-alt$2\"></${1:i}>",
+    "prefix": "far-retweet-alt"
+  },
+  "far-road": {
+    "body": "<${1:i} className=\"far fa-road$2\"></${1:i}>",
+    "prefix": "far-road"
+  },
+  "far-rocket": {
+    "body": "<${1:i} className=\"far fa-rocket$2\"></${1:i}>",
+    "prefix": "far-rocket"
+  },
+  "far-rss": {
+    "body": "<${1:i} className=\"far fa-rss$2\"></${1:i}>",
+    "prefix": "far-rss"
+  },
+  "far-rss-square": {
+    "body": "<${1:i} className=\"far fa-rss-square$2\"></${1:i}>",
+    "prefix": "far-rss-square"
+  },
+  "far-ruble-sign": {
+    "body": "<${1:i} className=\"far fa-ruble-sign$2\"></${1:i}>",
+    "prefix": "far-ruble-sign"
+  },
+  "far-rupee-sign": {
+    "body": "<${1:i} className=\"far fa-rupee-sign$2\"></${1:i}>",
+    "prefix": "far-rupee-sign"
+  },
+  "far-save": {
+    "body": "<${1:i} className=\"far fa-save$2\"></${1:i}>",
+    "prefix": "far-save"
+  },
+  "far-scrubber": {
+    "body": "<${1:i} className=\"far fa-scrubber$2\"></${1:i}>",
+    "prefix": "far-scrubber"
+  },
+  "far-search": {
+    "body": "<${1:i} className=\"far fa-search$2\"></${1:i}>",
+    "prefix": "far-search"
+  },
+  "far-search-minus": {
+    "body": "<${1:i} className=\"far fa-search-minus$2\"></${1:i}>",
+    "prefix": "far-search-minus"
+  },
+  "far-search-plus": {
+    "body": "<${1:i} className=\"far fa-search-plus$2\"></${1:i}>",
+    "prefix": "far-search-plus"
+  },
+  "far-server": {
+    "body": "<${1:i} className=\"far fa-server$2\"></${1:i}>",
+    "prefix": "far-server"
+  },
+  "far-share": {
+    "body": "<${1:i} className=\"far fa-share$2\"></${1:i}>",
+    "prefix": "far-share"
+  },
+  "far-share-all": {
+    "body": "<${1:i} className=\"far fa-share-all$2\"></${1:i}>",
+    "prefix": "far-share-all"
+  },
+  "far-share-alt": {
+    "body": "<${1:i} className=\"far fa-share-alt$2\"></${1:i}>",
+    "prefix": "far-share-alt"
+  },
+  "far-share-alt-square": {
+    "body": "<${1:i} className=\"far fa-share-alt-square$2\"></${1:i}>",
+    "prefix": "far-share-alt-square"
+  },
+  "far-share-square": {
+    "body": "<${1:i} className=\"far fa-share-square$2\"></${1:i}>",
+    "prefix": "far-share-square"
+  },
+  "far-shekel-sign": {
+    "body": "<${1:i} className=\"far fa-shekel-sign$2\"></${1:i}>",
+    "prefix": "far-shekel-sign"
+  },
+  "far-shield": {
+    "body": "<${1:i} className=\"far fa-shield$2\"></${1:i}>",
+    "prefix": "far-shield"
+  },
+  "far-shield-alt": {
+    "body": "<${1:i} className=\"far fa-shield-alt$2\"></${1:i}>",
+    "prefix": "far-shield-alt"
+  },
+  "far-shield-check": {
+    "body": "<${1:i} className=\"far fa-shield-check$2\"></${1:i}>",
+    "prefix": "far-shield-check"
+  },
+  "far-ship": {
+    "body": "<${1:i} className=\"far fa-ship$2\"></${1:i}>",
+    "prefix": "far-ship"
+  },
+  "far-shopping-bag": {
+    "body": "<${1:i} className=\"far fa-shopping-bag$2\"></${1:i}>",
+    "prefix": "far-shopping-bag"
+  },
+  "far-shopping-basket": {
+    "body": "<${1:i} className=\"far fa-shopping-basket$2\"></${1:i}>",
+    "prefix": "far-shopping-basket"
+  },
+  "far-shopping-cart": {
+    "body": "<${1:i} className=\"far fa-shopping-cart$2\"></${1:i}>",
+    "prefix": "far-shopping-cart"
+  },
+  "far-shower": {
+    "body": "<${1:i} className=\"far fa-shower$2\"></${1:i}>",
+    "prefix": "far-shower"
+  },
+  "far-sign-in": {
+    "body": "<${1:i} className=\"far fa-sign-in$2\"></${1:i}>",
+    "prefix": "far-sign-in"
+  },
+  "far-sign-in-alt": {
+    "body": "<${1:i} className=\"far fa-sign-in-alt$2\"></${1:i}>",
+    "prefix": "far-sign-in-alt"
+  },
+  "far-sign-language": {
+    "body": "<${1:i} className=\"far fa-sign-language$2\"></${1:i}>",
+    "prefix": "far-sign-language"
+  },
+  "far-sign-out": {
+    "body": "<${1:i} className=\"far fa-sign-out$2\"></${1:i}>",
+    "prefix": "far-sign-out"
+  },
+  "far-sign-out-alt": {
+    "body": "<${1:i} className=\"far fa-sign-out-alt$2\"></${1:i}>",
+    "prefix": "far-sign-out-alt"
+  },
+  "far-signal": {
+    "body": "<${1:i} className=\"far fa-signal$2\"></${1:i}>",
+    "prefix": "far-signal"
+  },
+  "far-sitemap": {
+    "body": "<${1:i} className=\"far fa-sitemap$2\"></${1:i}>",
+    "prefix": "far-sitemap"
+  },
+  "far-sliders-h": {
+    "body": "<${1:i} className=\"far fa-sliders-h$2\"></${1:i}>",
+    "prefix": "far-sliders-h"
+  },
+  "far-sliders-h-square": {
+    "body": "<${1:i} className=\"far fa-sliders-h-square$2\"></${1:i}>",
+    "prefix": "far-sliders-h-square"
+  },
+  "far-sliders-v": {
+    "body": "<${1:i} className=\"far fa-sliders-v$2\"></${1:i}>",
+    "prefix": "far-sliders-v"
+  },
+  "far-sliders-v-square": {
+    "body": "<${1:i} className=\"far fa-sliders-v-square$2\"></${1:i}>",
+    "prefix": "far-sliders-v-square"
+  },
+  "far-smile": {
+    "body": "<${1:i} className=\"far fa-smile$2\"></${1:i}>",
+    "prefix": "far-smile"
+  },
+  "far-snowflake": {
+    "body": "<${1:i} className=\"far fa-snowflake$2\"></${1:i}>",
+    "prefix": "far-snowflake"
+  },
+  "far-sort": {
+    "body": "<${1:i} className=\"far fa-sort$2\"></${1:i}>",
+    "prefix": "far-sort"
+  },
+  "far-sort-alpha-down": {
+    "body": "<${1:i} className=\"far fa-sort-alpha-down$2\"></${1:i}>",
+    "prefix": "far-sort-alpha-down"
+  },
+  "far-sort-alpha-up": {
+    "body": "<${1:i} className=\"far fa-sort-alpha-up$2\"></${1:i}>",
+    "prefix": "far-sort-alpha-up"
+  },
+  "far-sort-amount-down": {
+    "body": "<${1:i} className=\"far fa-sort-amount-down$2\"></${1:i}>",
+    "prefix": "far-sort-amount-down"
+  },
+  "far-sort-amount-up": {
+    "body": "<${1:i} className=\"far fa-sort-amount-up$2\"></${1:i}>",
+    "prefix": "far-sort-amount-up"
+  },
+  "far-sort-down": {
+    "body": "<${1:i} className=\"far fa-sort-down$2\"></${1:i}>",
+    "prefix": "far-sort-down"
+  },
+  "far-sort-numeric-down": {
+    "body": "<${1:i} className=\"far fa-sort-numeric-down$2\"></${1:i}>",
+    "prefix": "far-sort-numeric-down"
+  },
+  "far-sort-numeric-up": {
+    "body": "<${1:i} className=\"far fa-sort-numeric-up$2\"></${1:i}>",
+    "prefix": "far-sort-numeric-up"
+  },
+  "far-sort-up": {
+    "body": "<${1:i} className=\"far fa-sort-up$2\"></${1:i}>",
+    "prefix": "far-sort-up"
+  },
+  "far-space-shuttle": {
+    "body": "<${1:i} className=\"far fa-space-shuttle$2\"></${1:i}>",
+    "prefix": "far-space-shuttle"
+  },
+  "far-spade": {
+    "body": "<${1:i} className=\"far fa-spade$2\"></${1:i}>",
+    "prefix": "far-spade"
+  },
+  "far-spinner": {
+    "body": "<${1:i} className=\"far fa-spinner$2\"></${1:i}>",
+    "prefix": "far-spinner"
+  },
+  "far-spinner-third": {
+    "body": "<${1:i} className=\"far fa-spinner-third$2\"></${1:i}>",
+    "prefix": "far-spinner-third"
+  },
+  "far-square": {
+    "body": "<${1:i} className=\"far fa-square$2\"></${1:i}>",
+    "prefix": "far-square"
+  },
+  "far-star": {
+    "body": "<${1:i} className=\"far fa-star$2\"></${1:i}>",
+    "prefix": "far-star"
+  },
+  "far-star-exclamation": {
+    "body": "<${1:i} className=\"far fa-star-exclamation$2\"></${1:i}>",
+    "prefix": "far-star-exclamation"
+  },
+  "far-star-half": {
+    "body": "<${1:i} className=\"far fa-star-half$2\"></${1:i}>",
+    "prefix": "far-star-half"
+  },
+  "far-step-backward": {
+    "body": "<${1:i} className=\"far fa-step-backward$2\"></${1:i}>",
+    "prefix": "far-step-backward"
+  },
+  "far-step-forward": {
+    "body": "<${1:i} className=\"far fa-step-forward$2\"></${1:i}>",
+    "prefix": "far-step-forward"
+  },
+  "far-stethoscope": {
+    "body": "<${1:i} className=\"far fa-stethoscope$2\"></${1:i}>",
+    "prefix": "far-stethoscope"
+  },
+  "far-sticky-note": {
+    "body": "<${1:i} className=\"far fa-sticky-note$2\"></${1:i}>",
+    "prefix": "far-sticky-note"
+  },
+  "far-stop": {
+    "body": "<${1:i} className=\"far fa-stop$2\"></${1:i}>",
+    "prefix": "far-stop"
+  },
+  "far-stop-circle": {
+    "body": "<${1:i} className=\"far fa-stop-circle$2\"></${1:i}>",
+    "prefix": "far-stop-circle"
+  },
+  "far-stopwatch": {
+    "body": "<${1:i} className=\"far fa-stopwatch$2\"></${1:i}>",
+    "prefix": "far-stopwatch"
+  },
+  "far-street-view": {
+    "body": "<${1:i} className=\"far fa-street-view$2\"></${1:i}>",
+    "prefix": "far-street-view"
+  },
+  "far-strikethrough": {
+    "body": "<${1:i} className=\"far fa-strikethrough$2\"></${1:i}>",
+    "prefix": "far-strikethrough"
+  },
+  "far-subscript": {
+    "body": "<${1:i} className=\"far fa-subscript$2\"></${1:i}>",
+    "prefix": "far-subscript"
+  },
+  "far-subway": {
+    "body": "<${1:i} className=\"far fa-subway$2\"></${1:i}>",
+    "prefix": "far-subway"
+  },
+  "far-suitcase": {
+    "body": "<${1:i} className=\"far fa-suitcase$2\"></${1:i}>",
+    "prefix": "far-suitcase"
+  },
+  "far-sun": {
+    "body": "<${1:i} className=\"far fa-sun$2\"></${1:i}>",
+    "prefix": "far-sun"
+  },
+  "far-superscript": {
+    "body": "<${1:i} className=\"far fa-superscript$2\"></${1:i}>",
+    "prefix": "far-superscript"
+  },
+  "far-sync": {
+    "body": "<${1:i} className=\"far fa-sync$2\"></${1:i}>",
+    "prefix": "far-sync"
+  },
+  "far-sync-alt": {
+    "body": "<${1:i} className=\"far fa-sync-alt$2\"></${1:i}>",
+    "prefix": "far-sync-alt"
+  },
+  "far-table": {
+    "body": "<${1:i} className=\"far fa-table$2\"></${1:i}>",
+    "prefix": "far-table"
+  },
+  "far-tablet": {
+    "body": "<${1:i} className=\"far fa-tablet$2\"></${1:i}>",
+    "prefix": "far-tablet"
+  },
+  "far-tablet-alt": {
+    "body": "<${1:i} className=\"far fa-tablet-alt$2\"></${1:i}>",
+    "prefix": "far-tablet-alt"
+  },
+  "far-tablet-android": {
+    "body": "<${1:i} className=\"far fa-tablet-android$2\"></${1:i}>",
+    "prefix": "far-tablet-android"
+  },
+  "far-tablet-android-alt": {
+    "body": "<${1:i} className=\"far fa-tablet-android-alt$2\"></${1:i}>",
+    "prefix": "far-tablet-android-alt"
+  },
+  "far-tachometer": {
+    "body": "<${1:i} className=\"far fa-tachometer$2\"></${1:i}>",
+    "prefix": "far-tachometer"
+  },
+  "far-tachometer-alt": {
+    "body": "<${1:i} className=\"far fa-tachometer-alt$2\"></${1:i}>",
+    "prefix": "far-tachometer-alt"
+  },
+  "far-tag": {
+    "body": "<${1:i} className=\"far fa-tag$2\"></${1:i}>",
+    "prefix": "far-tag"
+  },
+  "far-tags": {
+    "body": "<${1:i} className=\"far fa-tags$2\"></${1:i}>",
+    "prefix": "far-tags"
+  },
+  "far-tasks": {
+    "body": "<${1:i} className=\"far fa-tasks$2\"></${1:i}>",
+    "prefix": "far-tasks"
+  },
+  "far-taxi": {
+    "body": "<${1:i} className=\"far fa-taxi$2\"></${1:i}>",
+    "prefix": "far-taxi"
+  },
+  "far-terminal": {
+    "body": "<${1:i} className=\"far fa-terminal$2\"></${1:i}>",
+    "prefix": "far-terminal"
+  },
+  "far-text-height": {
+    "body": "<${1:i} className=\"far fa-text-height$2\"></${1:i}>",
+    "prefix": "far-text-height"
+  },
+  "far-text-width": {
+    "body": "<${1:i} className=\"far fa-text-width$2\"></${1:i}>",
+    "prefix": "far-text-width"
+  },
+  "far-th": {
+    "body": "<${1:i} className=\"far fa-th$2\"></${1:i}>",
+    "prefix": "far-th"
+  },
+  "far-th-large": {
+    "body": "<${1:i} className=\"far fa-th-large$2\"></${1:i}>",
+    "prefix": "far-th-large"
+  },
+  "far-th-list": {
+    "body": "<${1:i} className=\"far fa-th-list$2\"></${1:i}>",
+    "prefix": "far-th-list"
+  },
+  "far-thermometer-empty": {
+    "body": "<${1:i} className=\"far fa-thermometer-empty$2\"></${1:i}>",
+    "prefix": "far-thermometer-empty"
+  },
+  "far-thermometer-full": {
+    "body": "<${1:i} className=\"far fa-thermometer-full$2\"></${1:i}>",
+    "prefix": "far-thermometer-full"
+  },
+  "far-thermometer-half": {
+    "body": "<${1:i} className=\"far fa-thermometer-half$2\"></${1:i}>",
+    "prefix": "far-thermometer-half"
+  },
+  "far-thermometer-quarter": {
+    "body": "<${1:i} className=\"far fa-thermometer-quarter$2\"></${1:i}>",
+    "prefix": "far-thermometer-quarter"
+  },
+  "far-thermometer-three-quarters": {
+    "body": "<${1:i} className=\"far fa-thermometer-three-quarters$2\"></${1:i}>",
+    "prefix": "far-thermometer-three-quarters"
+  },
+  "far-thumbs-down": {
+    "body": "<${1:i} className=\"far fa-thumbs-down$2\"></${1:i}>",
+    "prefix": "far-thumbs-down"
+  },
+  "far-thumbs-up": {
+    "body": "<${1:i} className=\"far fa-thumbs-up$2\"></${1:i}>",
+    "prefix": "far-thumbs-up"
+  },
+  "far-thumbtack": {
+    "body": "<${1:i} className=\"far fa-thumbtack$2\"></${1:i}>",
+    "prefix": "far-thumbtack"
+  },
+  "far-ticket": {
+    "body": "<${1:i} className=\"far fa-ticket$2\"></${1:i}>",
+    "prefix": "far-ticket"
+  },
+  "far-ticket-alt": {
+    "body": "<${1:i} className=\"far fa-ticket-alt$2\"></${1:i}>",
+    "prefix": "far-ticket-alt"
+  },
+  "far-times": {
+    "body": "<${1:i} className=\"far fa-times$2\"></${1:i}>",
+    "prefix": "far-times"
+  },
+  "far-times-circle": {
+    "body": "<${1:i} className=\"far fa-times-circle$2\"></${1:i}>",
+    "prefix": "far-times-circle"
+  },
+  "far-times-hexagon": {
+    "body": "<${1:i} className=\"far fa-times-hexagon$2\"></${1:i}>",
+    "prefix": "far-times-hexagon"
+  },
+  "far-times-octagon": {
+    "body": "<${1:i} className=\"far fa-times-octagon$2\"></${1:i}>",
+    "prefix": "far-times-octagon"
+  },
+  "far-times-square": {
+    "body": "<${1:i} className=\"far fa-times-square$2\"></${1:i}>",
+    "prefix": "far-times-square"
+  },
+  "far-tint": {
+    "body": "<${1:i} className=\"far fa-tint$2\"></${1:i}>",
+    "prefix": "far-tint"
+  },
+  "far-toggle-off": {
+    "body": "<${1:i} className=\"far fa-toggle-off$2\"></${1:i}>",
+    "prefix": "far-toggle-off"
+  },
+  "far-toggle-on": {
+    "body": "<${1:i} className=\"far fa-toggle-on$2\"></${1:i}>",
+    "prefix": "far-toggle-on"
+  },
+  "far-trademark": {
+    "body": "<${1:i} className=\"far fa-trademark$2\"></${1:i}>",
+    "prefix": "far-trademark"
+  },
+  "far-train": {
+    "body": "<${1:i} className=\"far fa-train$2\"></${1:i}>",
+    "prefix": "far-train"
+  },
+  "far-transgender": {
+    "body": "<${1:i} className=\"far fa-transgender$2\"></${1:i}>",
+    "prefix": "far-transgender"
+  },
+  "far-transgender-alt": {
+    "body": "<${1:i} className=\"far fa-transgender-alt$2\"></${1:i}>",
+    "prefix": "far-transgender-alt"
+  },
+  "far-trash": {
+    "body": "<${1:i} className=\"far fa-trash$2\"></${1:i}>",
+    "prefix": "far-trash"
+  },
+  "far-trash-alt": {
+    "body": "<${1:i} className=\"far fa-trash-alt$2\"></${1:i}>",
+    "prefix": "far-trash-alt"
+  },
+  "far-tree": {
+    "body": "<${1:i} className=\"far fa-tree$2\"></${1:i}>",
+    "prefix": "far-tree"
+  },
+  "far-tree-alt": {
+    "body": "<${1:i} className=\"far fa-tree-alt$2\"></${1:i}>",
+    "prefix": "far-tree-alt"
+  },
+  "far-triangle": {
+    "body": "<${1:i} className=\"far fa-triangle$2\"></${1:i}>",
+    "prefix": "far-triangle"
+  },
+  "far-trophy": {
+    "body": "<${1:i} className=\"far fa-trophy$2\"></${1:i}>",
+    "prefix": "far-trophy"
+  },
+  "far-trophy-alt": {
+    "body": "<${1:i} className=\"far fa-trophy-alt$2\"></${1:i}>",
+    "prefix": "far-trophy-alt"
+  },
+  "far-truck": {
+    "body": "<${1:i} className=\"far fa-truck$2\"></${1:i}>",
+    "prefix": "far-truck"
+  },
+  "far-tty": {
+    "body": "<${1:i} className=\"far fa-tty$2\"></${1:i}>",
+    "prefix": "far-tty"
+  },
+  "far-tv": {
+    "body": "<${1:i} className=\"far fa-tv$2\"></${1:i}>",
+    "prefix": "far-tv"
+  },
+  "far-tv-retro": {
+    "body": "<${1:i} className=\"far fa-tv-retro$2\"></${1:i}>",
+    "prefix": "far-tv-retro"
+  },
+  "far-umbrella": {
+    "body": "<${1:i} className=\"far fa-umbrella$2\"></${1:i}>",
+    "prefix": "far-umbrella"
+  },
+  "far-underline": {
+    "body": "<${1:i} className=\"far fa-underline$2\"></${1:i}>",
+    "prefix": "far-underline"
+  },
+  "far-undo": {
+    "body": "<${1:i} className=\"far fa-undo$2\"></${1:i}>",
+    "prefix": "far-undo"
+  },
+  "far-undo-alt": {
+    "body": "<${1:i} className=\"far fa-undo-alt$2\"></${1:i}>",
+    "prefix": "far-undo-alt"
+  },
+  "far-universal-access": {
+    "body": "<${1:i} className=\"far fa-universal-access$2\"></${1:i}>",
+    "prefix": "far-universal-access"
+  },
+  "far-university": {
+    "body": "<${1:i} className=\"far fa-university$2\"></${1:i}>",
+    "prefix": "far-university"
+  },
+  "far-unlink": {
+    "body": "<${1:i} className=\"far fa-unlink$2\"></${1:i}>",
+    "prefix": "far-unlink"
+  },
+  "far-unlock": {
+    "body": "<${1:i} className=\"far fa-unlock$2\"></${1:i}>",
+    "prefix": "far-unlock"
+  },
+  "far-unlock-alt": {
+    "body": "<${1:i} className=\"far fa-unlock-alt$2\"></${1:i}>",
+    "prefix": "far-unlock-alt"
+  },
+  "far-upload": {
+    "body": "<${1:i} className=\"far fa-upload$2\"></${1:i}>",
+    "prefix": "far-upload"
+  },
+  "far-usd-circle": {
+    "body": "<${1:i} className=\"far fa-usd-circle$2\"></${1:i}>",
+    "prefix": "far-usd-circle"
+  },
+  "far-usd-square": {
+    "body": "<${1:i} className=\"far fa-usd-square$2\"></${1:i}>",
+    "prefix": "far-usd-square"
+  },
+  "far-user": {
+    "body": "<${1:i} className=\"far fa-user$2\"></${1:i}>",
+    "prefix": "far-user"
+  },
+  "far-user-alt": {
+    "body": "<${1:i} className=\"far fa-user-alt$2\"></${1:i}>",
+    "prefix": "far-user-alt"
+  },
+  "far-user-circle": {
+    "body": "<${1:i} className=\"far fa-user-circle$2\"></${1:i}>",
+    "prefix": "far-user-circle"
+  },
+  "far-user-md": {
+    "body": "<${1:i} className=\"far fa-user-md$2\"></${1:i}>",
+    "prefix": "far-user-md"
+  },
+  "far-user-plus": {
+    "body": "<${1:i} className=\"far fa-user-plus$2\"></${1:i}>",
+    "prefix": "far-user-plus"
+  },
+  "far-user-secret": {
+    "body": "<${1:i} className=\"far fa-user-secret$2\"></${1:i}>",
+    "prefix": "far-user-secret"
+  },
+  "far-user-times": {
+    "body": "<${1:i} className=\"far fa-user-times$2\"></${1:i}>",
+    "prefix": "far-user-times"
+  },
+  "far-users": {
+    "body": "<${1:i} className=\"far fa-users$2\"></${1:i}>",
+    "prefix": "far-users"
+  },
+  "far-utensil-fork": {
+    "body": "<${1:i} className=\"far fa-utensil-fork$2\"></${1:i}>",
+    "prefix": "far-utensil-fork"
+  },
+  "far-utensil-knife": {
+    "body": "<${1:i} className=\"far fa-utensil-knife$2\"></${1:i}>",
+    "prefix": "far-utensil-knife"
+  },
+  "far-utensil-spoon": {
+    "body": "<${1:i} className=\"far fa-utensil-spoon$2\"></${1:i}>",
+    "prefix": "far-utensil-spoon"
+  },
+  "far-utensils": {
+    "body": "<${1:i} className=\"far fa-utensils$2\"></${1:i}>",
+    "prefix": "far-utensils"
+  },
+  "far-utensils-alt": {
+    "body": "<${1:i} className=\"far fa-utensils-alt$2\"></${1:i}>",
+    "prefix": "far-utensils-alt"
+  },
+  "far-venus": {
+    "body": "<${1:i} className=\"far fa-venus$2\"></${1:i}>",
+    "prefix": "far-venus"
+  },
+  "far-venus-double": {
+    "body": "<${1:i} className=\"far fa-venus-double$2\"></${1:i}>",
+    "prefix": "far-venus-double"
+  },
+  "far-venus-mars": {
+    "body": "<${1:i} className=\"far fa-venus-mars$2\"></${1:i}>",
+    "prefix": "far-venus-mars"
+  },
+  "far-video": {
+    "body": "<${1:i} className=\"far fa-video$2\"></${1:i}>",
+    "prefix": "far-video"
+  },
+  "far-volume-down": {
+    "body": "<${1:i} className=\"far fa-volume-down$2\"></${1:i}>",
+    "prefix": "far-volume-down"
+  },
+  "far-volume-mute": {
+    "body": "<${1:i} className=\"far fa-volume-mute$2\"></${1:i}>",
+    "prefix": "far-volume-mute"
+  },
+  "far-volume-off": {
+    "body": "<${1:i} className=\"far fa-volume-off$2\"></${1:i}>",
+    "prefix": "far-volume-off"
+  },
+  "far-volume-up": {
+    "body": "<${1:i} className=\"far fa-volume-up$2\"></${1:i}>",
+    "prefix": "far-volume-up"
+  },
+  "far-watch": {
+    "body": "<${1:i} className=\"far fa-watch$2\"></${1:i}>",
+    "prefix": "far-watch"
+  },
+  "far-wheelchair": {
+    "body": "<${1:i} className=\"far fa-wheelchair$2\"></${1:i}>",
+    "prefix": "far-wheelchair"
+  },
+  "far-wifi": {
+    "body": "<${1:i} className=\"far fa-wifi$2\"></${1:i}>",
+    "prefix": "far-wifi"
+  },
+  "far-window": {
+    "body": "<${1:i} className=\"far fa-window$2\"></${1:i}>",
+    "prefix": "far-window"
+  },
+  "far-window-alt": {
+    "body": "<${1:i} className=\"far fa-window-alt$2\"></${1:i}>",
+    "prefix": "far-window-alt"
+  },
+  "far-window-close": {
+    "body": "<${1:i} className=\"far fa-window-close$2\"></${1:i}>",
+    "prefix": "far-window-close"
+  },
+  "far-window-maximize": {
+    "body": "<${1:i} className=\"far fa-window-maximize$2\"></${1:i}>",
+    "prefix": "far-window-maximize"
+  },
+  "far-window-minimize": {
+    "body": "<${1:i} className=\"far fa-window-minimize$2\"></${1:i}>",
+    "prefix": "far-window-minimize"
+  },
+  "far-window-restore": {
+    "body": "<${1:i} className=\"far fa-window-restore$2\"></${1:i}>",
+    "prefix": "far-window-restore"
+  },
+  "far-won-sign": {
+    "body": "<${1:i} className=\"far fa-won-sign$2\"></${1:i}>",
+    "prefix": "far-won-sign"
+  },
+  "far-wrench": {
+    "body": "<${1:i} className=\"far fa-wrench$2\"></${1:i}>",
+    "prefix": "far-wrench"
+  },
+  "far-yen-sign": {
+    "body": "<${1:i} className=\"far fa-yen-sign$2\"></${1:i}>",
+    "prefix": "far-yen-sign"
+  }
+}

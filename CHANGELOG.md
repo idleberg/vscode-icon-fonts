@@ -1,3 +1,12 @@
+# v1.9.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.9.1)
+
+- fix prefixes
+- fix linter location
+
+# v1.9.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.9.0)
+
+- bump Font Awesome to v5.0.0
+
 # v1.8.2 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.8.2)
 
 - update development toolchain

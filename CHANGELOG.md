@@ -1,3 +1,8 @@
+# v1.10.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.10.0)
+
+- add Font Awesome 5 helpers
+- activate Font Awesome snippet contributions
+
 # v1.9.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.9.1)
 
 - fix prefixes

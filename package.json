@@ -175,7 +175,19 @@
             },
             {
                 "language": "html",
+                "path": "./snippets/html/fa-helpers.json"
+            },
+            {
+                "language": "html",
                 "path": "./snippets/html/fab.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/far.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/fas.json"
             },
             {
                 "language": "html",
@@ -391,7 +403,19 @@
             },
             {
                 "language": "blade",
+                "path": "./snippets/html/fa-helpers.json"
+            },
+            {
+                "language": "blade",
                 "path": "./snippets/html/fab.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/far.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/farjson"
             },
             {
                 "language": "blade",
@@ -615,6 +639,14 @@
             },
             {
                 "language": "javascriptreact",
+                "path": "./snippets/jsx/far.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/fas.json"
+            },
+            {
+                "language": "javascriptreact",
                 "path": "./snippets/jsx/fi.json"
             },
             {
@@ -727,7 +759,19 @@
             },
             {
                 "language": "vue",
+                "path": "./snippets/jsx/fa-helpers.json"
+            },
+            {
+                "language": "vue",
                 "path": "./snippets/html/fab.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/far.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/fas.json"
             },
             {
                 "language": "vue",

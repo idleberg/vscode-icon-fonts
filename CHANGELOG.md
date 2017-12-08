@@ -1,3 +1,7 @@
+# v1.10.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.10.1)
+
+- update Font Awesome helpers
+
 # v1.10.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.10.0)
 
 - add Font Awesome 5 helpers

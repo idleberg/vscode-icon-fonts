@@ -6,7 +6,7 @@
 [![Travis](https://img.shields.io/travis/idleberg/vscode-icon-fonts.svg?style=flat-square)](https://travis-ci.org/idleberg/vscode-icon-fonts)
 [![David](https://img.shields.io/david/dev/idleberg/vscode-icon-fonts.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-icon-fonts?type=dev)
 
-**Note:** *As of v1.9, this package supports all __Font Awesome v5__ icons. If you need to continue the old __Font Awesome v4__ icons, please install the [`vscode-fonts-legacy`](https://github.com/idleberg/vscode-icon-fonts-legacy) package via Extension Marketplace!*
+**Note:** *As of v1.9, this package supports all __Font Awesome v5__ icons. If you need to continue the old __Font Awesome v4__ icons, please install the [`icon-fonts-legacy`](https://github.com/idleberg/vscode-icon-fonts-legacy) package via Extension Marketplace!*
 
 Snippets for a variety of icon fonts ([see details](https://github.com/idleberg/vscode-icon-fonts#prefixes)).
 

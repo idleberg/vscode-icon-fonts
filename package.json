@@ -415,7 +415,7 @@
             },
             {
                 "language": "blade",
-                "path": "./snippets/html/farjson"
+                "path": "./snippets/html/far.json"
             },
             {
                 "language": "blade",
@@ -857,6 +857,9 @@
         "vscode:prepublish": "gulp build"
     },
     "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-raster": "^0.2.0",
+        "gulp-rename": "^1.2.2",
         "vscode": "^1.1.2",
         "vscode-linter": "^0.1.0"
     }

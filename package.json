@@ -18,9 +18,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/idleberg/vscode-icon-fonts.git"
+        "url": "https://github.com/idleberg/vscode-icon-fonts"
     },
-    "homepage": "https://github.com/idleberg/vscode-icon-fonts",
+    "homepage": "https://github.com/idleberg/vscode-icon-fonts#readme",
     "bugs": {
         "url": "https://github.com/idleberg/vscode-icon-fonts/issues"
     },
@@ -853,17 +853,11 @@
     },
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
-        "test": "gulp lint",
+        "test": "vscode-linter",
         "vscode:prepublish": "gulp build"
     },
     "devDependencies": {
-        "gulp": "github:gulpjs/gulp#4.0",
-        "gulp-debug": "^3.1.0",
-        "gulp-eslint": "^4.0.0",
-        "gulp-jsonlint": "^1.2.0",
-        "gulp-raster": "^0.2.0",
-        "gulp-rename": "^1.2.2",
-        "gulp-xml-validator": "^0.1.2",
-        "vscode": "^1.1.2"
+        "vscode": "^1.1.2",
+        "vscode-linter": "^0.1.0"
     }
 }

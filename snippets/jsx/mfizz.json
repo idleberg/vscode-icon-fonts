@@ -4,6 +4,11 @@
     "description": "<i>",
     "prefix": "mfizz-3dprint"
   },
+  "mfizz-alpinelinux": {
+    "body": "<${1:i} className=\"mfizz-alpinelinux$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mfizz-alpinelinux"
+  },
   "mfizz-amex": {
     "body": "<${1:i} className=\"mfizz-amex$2\"></${1:i}>$0",
     "description": "<i>",
@@ -238,6 +243,16 @@
     "body": "<${1:i} className=\"mfizz-gnome$2\"></${1:i}>$0",
     "description": "<i>",
     "prefix": "mfizz-gnome"
+  },
+  "mfizz-go": {
+    "body": "<${1:i} className=\"mfizz-go$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mfizz-go"
+  },
+  "mfizz-go-alt": {
+    "body": "<${1:i} className=\"mfizz-go-alt$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mfizz-go-alt"
   },
   "mfizz-google": {
     "body": "<${1:i} className=\"mfizz-google$2\"></${1:i}>$0",
@@ -613,6 +628,11 @@
     "body": "<${1:i} className=\"mfizz-ruby-on-rails-alt$2\"></${1:i}>$0",
     "description": "<i>",
     "prefix": "mfizz-ruby-on-rails-alt"
+  },
+  "mfizz-rust": {
+    "body": "<${1:i} className=\"mfizz-rust$2\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mfizz-rust"
   },
   "mfizz-satellite": {
     "body": "<${1:i} className=\"mfizz-satellite$2\"></${1:i}>$0",

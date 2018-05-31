@@ -1,3 +1,12 @@
+# v1.11.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.11.0)
+
+- add Material Design Icons (Official)
+- bump Font Logos (formerly Font Linux) to v0.11
+- bump Material Design Icons to v2.4.85
+- bump Font Mfizz to v2.4.1
+- bump PaymentFont to v1.2.5
+- update devDependencies
+
 # v1.10.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.10.1)
 
 - update Font Awesome helpers

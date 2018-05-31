@@ -227,6 +227,10 @@
             },
             {
                 "language": "html",
+                "path": "./snippets/html/mio.json"
+            },
+            {
+                "language": "html",
                 "path": "./snippets/html/octicon.json"
             },
             {
@@ -452,6 +456,10 @@
             {
                 "language": "blade",
                 "path": "./snippets/html/mfizz.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/mio.json"
             },
             {
                 "language": "blade",
@@ -687,6 +695,10 @@
             },
             {
                 "language": "javascriptreact",
+                "path": "./snippets/jsx/mio.json"
+            },
+            {
+                "language": "javascriptreact",
                 "path": "./snippets/jsx/octicon.json"
             },
             {
@@ -808,6 +820,10 @@
             {
                 "language": "vue",
                 "path": "./snippets/html/mfizz.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/mio.json"
             },
             {
                 "language": "vue",

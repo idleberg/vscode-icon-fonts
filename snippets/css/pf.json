@@ -1,482 +1,350 @@
 {
+  "pf-alipay": {
+    "body": "content: '\\\\f064';$0"
+  },
   "pf-amazon": {
-    "body": "content: '\\\\f000';",
-    "description": "content",
-    "prefix": "pf-amazon"
+    "body": "content: '\\\\f000';$0"
+  },
+  "pf-amazon-pay": {
+    "body": "content: '\\\\f072';$0"
+  },
+  "pf-amazon-pay-alt": {
+    "body": "content: '\\\\f073';$0"
   },
   "pf-american-express": {
-    "body": "content: '\\\\f001';",
-    "description": "content",
-    "prefix": "pf-american-express"
+    "body": "content: '\\\\f001';$0"
   },
   "pf-american-express-alt": {
-    "body": "content: '\\\\f002';",
-    "description": "content",
-    "prefix": "pf-american-express-alt"
+    "body": "content: '\\\\f002';$0"
   },
   "pf-apple-pay": {
-    "body": "content: '\\\\f04c';",
-    "description": "content",
-    "prefix": "pf-apple-pay"
+    "body": "content: '\\\\f04c';$0"
   },
   "pf-atm": {
-    "body": "content: '\\\\f003';",
-    "description": "content",
-    "prefix": "pf-atm"
+    "body": "content: '\\\\f003';$0"
   },
   "pf-bancontact-mister-cash": {
-    "body": "content: '\\\\f050';",
-    "description": "content",
-    "prefix": "pf-bancontact-mister-cash"
+    "body": "content: '\\\\f050';$0"
   },
   "pf-bank-transfer": {
-    "body": "content: '\\\\f005';",
-    "description": "content",
-    "prefix": "pf-bank-transfer"
+    "body": "content: '\\\\f005';$0"
   },
   "pf-bankomat": {
-    "body": "content: '\\\\f004';",
-    "description": "content",
-    "prefix": "pf-bankomat"
+    "body": "content: '\\\\f004';$0"
   },
   "pf-bitcoin": {
-    "body": "content: '\\\\f006';",
-    "description": "content",
-    "prefix": "pf-bitcoin"
+    "body": "content: '\\\\f006';$0"
   },
   "pf-bitcoin-sign": {
-    "body": "content: '\\\\f007';",
-    "description": "content",
-    "prefix": "pf-bitcoin-sign"
+    "body": "content: '\\\\f007';$0"
+  },
+  "pf-bitpay": {
+    "body": "content: '\\\\f061';$0"
+  },
+  "pf-bpay": {
+    "body": "content: '\\\\f06b';$0"
   },
   "pf-braintree": {
-    "body": "content: '\\\\f008';",
-    "description": "content",
-    "prefix": "pf-braintree"
+    "body": "content: '\\\\f008';$0"
   },
   "pf-btc": {
-    "body": "content: '\\\\f009';",
-    "description": "content",
-    "prefix": "pf-btc"
+    "body": "content: '\\\\f009';$0"
   },
   "pf-card": {
-    "body": "content: '\\\\f00a';",
-    "description": "content",
-    "prefix": "pf-card"
+    "body": "content: '\\\\f00a';$0"
   },
   "pf-carta-si": {
-    "body": "content: '\\\\f00b';",
-    "description": "content",
-    "prefix": "pf-carta-si"
+    "body": "content: '\\\\f00b';$0"
   },
   "pf-cash": {
-    "body": "content: '\\\\f00c';",
-    "description": "content",
-    "prefix": "pf-cash"
+    "body": "content: '\\\\f00c';$0"
   },
   "pf-cash-on-delivery": {
-    "body": "content: '\\\\f00d';",
-    "description": "content",
-    "prefix": "pf-cash-on-delivery"
+    "body": "content: '\\\\f00d';$0"
   },
   "pf-cash-on-pickup": {
-    "body": "content: '\\\\f053';",
-    "description": "content",
-    "prefix": "pf-cash-on-pickup"
+    "body": "content: '\\\\f053';$0"
   },
   "pf-cashcloud": {
-    "body": "content: '\\\\f05e';",
-    "description": "content",
-    "prefix": "pf-cashcloud"
+    "body": "content: '\\\\f05e';$0"
   },
   "pf-cb": {
-    "body": "content: '\\\\f00e';",
-    "description": "content",
-    "prefix": "pf-cb"
+    "body": "content: '\\\\f00e';$0"
   },
   "pf-cirrus": {
-    "body": "content: '\\\\f00f';",
-    "description": "content",
-    "prefix": "pf-cirrus"
+    "body": "content: '\\\\f00f';$0"
   },
   "pf-cirrus-alt": {
-    "body": "content: '\\\\f010';",
-    "description": "content",
-    "prefix": "pf-cirrus-alt"
+    "body": "content: '\\\\f010';$0"
   },
   "pf-clickandbuy": {
-    "body": "content: '\\\\f011';",
-    "description": "content",
-    "prefix": "pf-clickandbuy"
+    "body": "content: '\\\\f011';$0"
+  },
+  "pf-contactless": {
+    "body": "content: '\\\\f06c';$0"
+  },
+  "pf-contactless-alt": {
+    "body": "content: '\\\\f06d';$0"
   },
   "pf-credit-card": {
-    "body": "content: '\\\\f012';",
-    "description": "content",
-    "prefix": "pf-credit-card"
+    "body": "content: '\\\\f012';$0"
   },
   "pf-dankort": {
-    "body": "content: '\\\\f04f';",
-    "description": "content",
-    "prefix": "pf-dankort"
+    "body": "content: '\\\\f04f';$0"
   },
   "pf-diners": {
-    "body": "content: '\\\\f013';",
-    "description": "content",
-    "prefix": "pf-diners"
+    "body": "content: '\\\\f013';$0"
+  },
+  "pf-diners-alt": {
+    "body": "content: '\\\\f065';$0"
+  },
+  "pf-direct-debit": {
+    "body": "content: '\\\\f069';$0"
   },
   "pf-discover": {
-    "body": "content: '\\\\f014';",
-    "description": "content",
-    "prefix": "pf-discover"
+    "body": "content: '\\\\f014';$0"
   },
   "pf-ec": {
-    "body": "content: '\\\\f015';",
-    "description": "content",
-    "prefix": "pf-ec"
+    "body": "content: '\\\\f015';$0"
   },
   "pf-elo": {
-    "body": "content: '\\\\f055';",
-    "description": "content",
-    "prefix": "pf-elo"
+    "body": "content: '\\\\f055';$0"
   },
   "pf-elo-alt": {
-    "body": "content: '\\\\f056';",
-    "description": "content",
-    "prefix": "pf-elo-alt"
+    "body": "content: '\\\\f056';$0"
   },
   "pf-eps": {
-    "body": "content: '\\\\f016';",
-    "description": "content",
-    "prefix": "pf-eps"
+    "body": "content: '\\\\f016';$0"
+  },
+  "pf-eth": {
+    "body": "content: '\\\\f06e';$0"
   },
   "pf-eur": {
-    "body": "content: '\\\\f017';",
-    "description": "content",
-    "prefix": "pf-eur"
+    "body": "content: '\\\\f017';$0"
   },
   "pf-facture": {
-    "body": "content: '\\\\f018';",
-    "description": "content",
-    "prefix": "pf-facture"
+    "body": "content: '\\\\f018';$0"
   },
   "pf-fattura": {
-    "body": "content: '\\\\f019';",
-    "description": "content",
-    "prefix": "pf-fattura"
+    "body": "content: '\\\\f019';$0"
   },
   "pf-flattr": {
-    "body": "content: '\\\\f01a';",
-    "description": "content",
-    "prefix": "pf-flattr"
+    "body": "content: '\\\\f01a';$0"
   },
   "pf-gbp": {
-    "body": "content: '\\\\f01f';",
-    "description": "content",
-    "prefix": "pf-gbp"
+    "body": "content: '\\\\f01e';$0"
   },
   "pf-giropay": {
-    "body": "content: '\\\\f01b';",
-    "description": "content",
-    "prefix": "pf-giropay"
-  },
-  "pf-gittip": {
-    "body": "content: '\\\\f01c';",
-    "description": "content",
-    "prefix": "pf-gittip"
+    "body": "content: '\\\\f01b';$0"
   },
   "pf-google-wallet": {
-    "body": "content: '\\\\f01d';",
-    "description": "content",
-    "prefix": "pf-google-wallet"
+    "body": "content: '\\\\f01c';$0"
   },
   "pf-google-wallet-alt": {
-    "body": "content: '\\\\f01e';",
-    "description": "content",
-    "prefix": "pf-google-wallet-alt"
+    "body": "content: '\\\\f01d';$0"
   },
   "pf-gratipay": {
-    "body": "content: '\\\\f01c';",
-    "description": "content",
-    "prefix": "pf-gratipay"
+    "body": "content: '\\\\f01f';$0"
   },
   "pf-gratipay-sign": {
-    "body": "content: '\\\\f05c';",
-    "description": "content",
-    "prefix": "pf-gratipay-sign"
+    "body": "content: '\\\\f05c';$0"
+  },
+  "pf-hipercard": {
+    "body": "content: '\\\\f066';$0"
   },
   "pf-ideal": {
-    "body": "content: '\\\\f020';",
-    "description": "content",
-    "prefix": "pf-ideal"
+    "body": "content: '\\\\f020';$0"
   },
   "pf-ils": {
-    "body": "content: '\\\\f021';",
-    "description": "content",
-    "prefix": "pf-ils"
+    "body": "content: '\\\\f021';$0"
   },
   "pf-inr": {
-    "body": "content: '\\\\f022';",
-    "description": "content",
-    "prefix": "pf-inr"
+    "body": "content: '\\\\f022';$0"
   },
   "pf-interac": {
-    "body": "content: '\\\\f04d';",
-    "description": "content",
-    "prefix": "pf-interac"
+    "body": "content: '\\\\f04d';$0"
+  },
+  "pf-interac-alt": {
+    "body": "content: '\\\\f05f';$0"
   },
   "pf-invoice": {
-    "body": "content: '\\\\f023';",
-    "description": "content",
-    "prefix": "pf-invoice"
+    "body": "content: '\\\\f023';$0"
   },
   "pf-invoice-sign": {
-    "body": "content: '\\\\f024';",
-    "description": "content",
-    "prefix": "pf-invoice-sign"
+    "body": "content: '\\\\f024';$0"
   },
   "pf-invoice-sign-alt": {
-    "body": "content: '\\\\f025';",
-    "description": "content",
-    "prefix": "pf-invoice-sign-alt"
+    "body": "content: '\\\\f025';$0"
   },
   "pf-invoice-sign-alt-o": {
-    "body": "content: '\\\\f026';",
-    "description": "content",
-    "prefix": "pf-invoice-sign-alt-o"
+    "body": "content: '\\\\f026';$0"
   },
   "pf-invoice-sign-o": {
-    "body": "content: '\\\\f027';",
-    "description": "content",
-    "prefix": "pf-invoice-sign-o"
+    "body": "content: '\\\\f027';$0"
   },
   "pf-jcb": {
-    "body": "content: '\\\\f028';",
-    "description": "content",
-    "prefix": "pf-jcb"
+    "body": "content: '\\\\f028';$0"
   },
   "pf-jpy": {
-    "body": "content: '\\\\f029';",
-    "description": "content",
-    "prefix": "pf-jpy"
+    "body": "content: '\\\\f029';$0"
+  },
+  "pf-klarna": {
+    "body": "content: '\\\\f060';$0"
   },
   "pf-krw": {
-    "body": "content: '\\\\f02a';",
-    "description": "content",
-    "prefix": "pf-krw"
+    "body": "content: '\\\\f02a';$0"
+  },
+  "pf-ltc": {
+    "body": "content: '\\\\f06f';$0"
   },
   "pf-maestro": {
-    "body": "content: '\\\\f02b';",
-    "description": "content",
-    "prefix": "pf-maestro"
+    "body": "content: '\\\\f02b';$0"
   },
   "pf-maestro-alt": {
-    "body": "content: '\\\\f02c';",
-    "description": "content",
-    "prefix": "pf-maestro-alt"
+    "body": "content: '\\\\f02c';$0"
   },
   "pf-mastercard": {
-    "body": "content: '\\\\f02d';",
-    "description": "content",
-    "prefix": "pf-mastercard"
+    "body": "content: '\\\\f02d';$0"
   },
   "pf-mastercard-alt": {
-    "body": "content: '\\\\f02e';",
-    "description": "content",
-    "prefix": "pf-mastercard-alt"
+    "body": "content: '\\\\f02e';$0"
   },
   "pf-mastercard-securecode": {
-    "body": "content: '\\\\f02f';",
-    "description": "content",
-    "prefix": "pf-mastercard-securecode"
+    "body": "content: '\\\\f02f';$0"
   },
   "pf-mercado-pago": {
-    "body": "content: '\\\\f058';",
-    "description": "content",
-    "prefix": "pf-mercado-pago"
+    "body": "content: '\\\\f058';$0"
   },
   "pf-mercado-pago-sign": {
-    "body": "content: '\\\\f059';",
-    "description": "content",
-    "prefix": "pf-mercado-pago-sign"
+    "body": "content: '\\\\f059';$0"
   },
   "pf-moip": {
-    "body": "content: '\\\\f051';",
-    "description": "content",
-    "prefix": "pf-moip"
+    "body": "content: '\\\\f051';$0"
   },
   "pf-multibanco": {
-    "body": "content: '\\\\f05b';",
-    "description": "content",
-    "prefix": "pf-multibanco"
+    "body": "content: '\\\\f05b';$0"
   },
   "pf-ogone": {
-    "body": "content: '\\\\f030';",
-    "description": "content",
-    "prefix": "pf-ogone"
+    "body": "content: '\\\\f030';$0"
   },
   "pf-pagseguro": {
-    "body": "content: '\\\\f052';",
-    "description": "content",
-    "prefix": "pf-pagseguro"
+    "body": "content: '\\\\f052';$0"
   },
   "pf-paybox": {
-    "body": "content: '\\\\f031';",
-    "description": "content",
-    "prefix": "pf-paybox"
+    "body": "content: '\\\\f031';$0"
   },
   "pf-paylife": {
-    "body": "content: '\\\\f032';",
-    "description": "content",
-    "prefix": "pf-paylife"
+    "body": "content: '\\\\f032';$0"
   },
   "pf-paymill": {
-    "body": "content: '\\\\f04e';",
-    "description": "content",
-    "prefix": "pf-paymill"
+    "body": "content: '\\\\f04e';$0"
   },
   "pf-paypal": {
-    "body": "content: '\\\\f033';",
-    "description": "content",
-    "prefix": "pf-paypal"
+    "body": "content: '\\\\f033';$0"
   },
   "pf-paypal-alt": {
-    "body": "content: '\\\\f034';",
-    "description": "content",
-    "prefix": "pf-paypal-alt"
+    "body": "content: '\\\\f034';$0"
   },
   "pf-paysafecard": {
-    "body": "content: '\\\\f035';",
-    "description": "content",
-    "prefix": "pf-paysafecard"
+    "body": "content: '\\\\f035';$0"
   },
   "pf-payshop": {
-    "body": "content: '\\\\f05a';",
-    "description": "content",
-    "prefix": "pf-payshop"
+    "body": "content: '\\\\f05a';$0"
   },
   "pf-payu": {
-    "body": "content: '\\\\f057';",
-    "description": "content",
-    "prefix": "pf-payu"
+    "body": "content: '\\\\f057';$0"
   },
   "pf-postepay": {
-    "body": "content: '\\\\f036';",
-    "description": "content",
-    "prefix": "pf-postepay"
+    "body": "content: '\\\\f036';$0"
   },
   "pf-quick": {
-    "body": "content: '\\\\f037';",
-    "description": "content",
-    "prefix": "pf-quick"
+    "body": "content: '\\\\f037';$0"
   },
   "pf-rechnung": {
-    "body": "content: '\\\\f038';",
-    "description": "content",
-    "prefix": "pf-rechnung"
+    "body": "content: '\\\\f038';$0"
   },
   "pf-ripple": {
-    "body": "content: '\\\\f039';",
-    "description": "content",
-    "prefix": "pf-ripple"
+    "body": "content: '\\\\f039';$0"
   },
   "pf-rub": {
-    "body": "content: '\\\\f03a';",
-    "description": "content",
-    "prefix": "pf-rub"
+    "body": "content: '\\\\f03a';$0"
   },
   "pf-sage": {
-    "body": "content: '\\\\f054';",
-    "description": "content",
-    "prefix": "pf-sage"
+    "body": "content: '\\\\f054';$0"
   },
   "pf-sepa": {
-    "body": "content: '\\\\f04a';",
-    "description": "content",
-    "prefix": "pf-sepa"
+    "body": "content: '\\\\f04a';$0"
   },
   "pf-sepa-alt": {
-    "body": "content: '\\\\f04b';",
-    "description": "content",
-    "prefix": "pf-sepa-alt"
+    "body": "content: '\\\\f04b';$0"
+  },
+  "pf-shopify": {
+    "body": "content: '\\\\f068';$0"
   },
   "pf-six": {
-    "body": "content: '\\\\f05d';",
-    "description": "content",
-    "prefix": "pf-six"
+    "body": "content: '\\\\f05d';$0"
   },
   "pf-skrill": {
-    "body": "content: '\\\\f03b';",
-    "description": "content",
-    "prefix": "pf-skrill"
+    "body": "content: '\\\\f03b';$0"
+  },
+  "pf-skrill-alt": {
+    "body": "content: '\\\\f067';$0"
+  },
+  "pf-sodexo": {
+    "body": "content: '\\\\f06a';$0"
   },
   "pf-sofort": {
-    "body": "content: '\\\\f03c';",
-    "description": "content",
-    "prefix": "pf-sofort"
+    "body": "content: '\\\\f03c';$0"
   },
   "pf-square": {
-    "body": "content: '\\\\f03d';",
-    "description": "content",
-    "prefix": "pf-square"
+    "body": "content: '\\\\f03d';$0"
   },
   "pf-stripe": {
-    "body": "content: '\\\\f03e';",
-    "description": "content",
-    "prefix": "pf-stripe"
+    "body": "content: '\\\\f03e';$0"
   },
   "pf-truste": {
-    "body": "content: '\\\\f03f';",
-    "description": "content",
-    "prefix": "pf-truste"
+    "body": "content: '\\\\f03f';$0"
   },
   "pf-try": {
-    "body": "content: '\\\\f040';",
-    "description": "content",
-    "prefix": "pf-try"
+    "body": "content: '\\\\f040';$0"
   },
   "pf-unionpay": {
-    "body": "content: '\\\\f041';",
-    "description": "content",
-    "prefix": "pf-unionpay"
+    "body": "content: '\\\\f041';$0"
   },
   "pf-usd": {
-    "body": "content: '\\\\f042';",
-    "description": "content",
-    "prefix": "pf-usd"
+    "body": "content: '\\\\f042';$0"
+  },
+  "pf-venmo": {
+    "body": "content: '\\\\f062';$0"
   },
   "pf-verified-by-visa": {
-    "body": "content: '\\\\f043';",
-    "description": "content",
-    "prefix": "pf-verified-by-visa"
+    "body": "content: '\\\\f043';$0"
   },
   "pf-verisign": {
-    "body": "content: '\\\\f044';",
-    "description": "content",
-    "prefix": "pf-verisign"
+    "body": "content: '\\\\f044';$0"
   },
   "pf-visa": {
-    "body": "content: '\\\\f045';",
-    "description": "content",
-    "prefix": "pf-visa"
+    "body": "content: '\\\\f045';$0"
+  },
+  "pf-visa-debit": {
+    "body": "content: '\\\\f063';$0"
   },
   "pf-visa-electron": {
-    "body": "content: '\\\\f046';",
-    "description": "content",
-    "prefix": "pf-visa-electron"
+    "body": "content: '\\\\f046';$0"
+  },
+  "pf-visa-pay": {
+    "body": "content: '\\\\f070';$0"
+  },
+  "pf-wechat-pay": {
+    "body": "content: '\\\\f071';$0"
   },
   "pf-western-union": {
-    "body": "content: '\\\\f047';",
-    "description": "content",
-    "prefix": "pf-western-union"
+    "body": "content: '\\\\f047';$0"
   },
   "pf-western-union-alt": {
-    "body": "content: '\\\\f048';",
-    "description": "content",
-    "prefix": "pf-western-union-alt"
+    "body": "content: '\\\\f048';$0"
   },
   "pf-wirecard": {
-    "body": "content: '\\\\f049';",
-    "description": "content",
-    "prefix": "pf-wirecard"
+    "body": "content: '\\\\f049';$0"
   }
 }

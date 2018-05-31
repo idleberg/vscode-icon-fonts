@@ -54,6 +54,11 @@
     "description": "<i>",
     "prefix": "fl-fedora-inverse"
   },
+  "fl-flathub": {
+    "body": "<${1:i} className=\"fl-flathub\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-flathub"
+  },
   "fl-freebsd": {
     "body": "<${1:i} className=\"fl-freebsd\"></${1:i}>$2",
     "description": "<i>",
@@ -63,6 +68,11 @@
     "body": "<${1:i} className=\"fl-gentoo\"></${1:i}>$2",
     "description": "<i>",
     "prefix": "fl-gentoo"
+  },
+  "fl-gnu-guix": {
+    "body": "<${1:i} className=\"fl-gnu-guix\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-gnu-guix"
   },
   "fl-linuxmint": {
     "body": "<${1:i} className=\"fl-linuxmint\"></${1:i}>$2",
@@ -123,6 +133,11 @@
     "body": "<${1:i} className=\"fl-slackware-inverse\"></${1:i}>$2",
     "description": "<i>",
     "prefix": "fl-slackware-inverse"
+  },
+  "fl-snappy": {
+    "body": "<${1:i} className=\"fl-snappy\"></${1:i}>$2",
+    "description": "<i>",
+    "prefix": "fl-snappy"
   },
   "fl-tux": {
     "body": "<${1:i} className=\"fl-tux\"></${1:i}>$2",

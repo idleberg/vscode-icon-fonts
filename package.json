@@ -870,7 +870,7 @@
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "vscode-linter",
-        "vscode:prepublish": "gulp build"
+        "vscode:prepublish": "gulp test"
     },
     "devDependencies": {
         "gulp": "^4.0.0",

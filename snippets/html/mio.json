@@ -1,0 +1,4662 @@
+{
+  "3d_rotation": {
+    "body": "<${1:i} class=\"${2:baseline}-3d_rotation$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-3d_rotation"
+  },
+  "ac_unit": {
+    "body": "<${1:i} class=\"${2:baseline}-ac_unit$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-ac_unit"
+  },
+  "access_alarm": {
+    "body": "<${1:i} class=\"${2:baseline}-access_alarm$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-access_alarm"
+  },
+  "access_alarms": {
+    "body": "<${1:i} class=\"${2:baseline}-access_alarms$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-access_alarms"
+  },
+  "access_time": {
+    "body": "<${1:i} class=\"${2:baseline}-access_time$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-access_time"
+  },
+  "accessibility": {
+    "body": "<${1:i} class=\"${2:baseline}-accessibility$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-accessibility"
+  },
+  "accessible": {
+    "body": "<${1:i} class=\"${2:baseline}-accessible$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-accessible"
+  },
+  "account_balance": {
+    "body": "<${1:i} class=\"${2:baseline}-account_balance$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-account_balance"
+  },
+  "account_balance_wallet": {
+    "body": "<${1:i} class=\"${2:baseline}-account_balance_wallet$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-account_balance_wallet"
+  },
+  "account_box": {
+    "body": "<${1:i} class=\"${2:baseline}-account_box$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-account_box"
+  },
+  "account_circle": {
+    "body": "<${1:i} class=\"${2:baseline}-account_circle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-account_circle"
+  },
+  "adb": {
+    "body": "<${1:i} class=\"${2:baseline}-adb$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-adb"
+  },
+  "add": {
+    "body": "<${1:i} class=\"${2:baseline}-add$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-add"
+  },
+  "add_a_photo": {
+    "body": "<${1:i} class=\"${2:baseline}-add_a_photo$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-add_a_photo"
+  },
+  "add_alarm": {
+    "body": "<${1:i} class=\"${2:baseline}-add_alarm$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-add_alarm"
+  },
+  "add_alert": {
+    "body": "<${1:i} class=\"${2:baseline}-add_alert$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-add_alert"
+  },
+  "add_box": {
+    "body": "<${1:i} class=\"${2:baseline}-add_box$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-add_box"
+  },
+  "add_circle": {
+    "body": "<${1:i} class=\"${2:baseline}-add_circle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-add_circle"
+  },
+  "add_circle_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-add_circle_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-add_circle_outline"
+  },
+  "add_location": {
+    "body": "<${1:i} class=\"${2:baseline}-add_location$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-add_location"
+  },
+  "add_shopping_cart": {
+    "body": "<${1:i} class=\"${2:baseline}-add_shopping_cart$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-add_shopping_cart"
+  },
+  "add_to_photos": {
+    "body": "<${1:i} class=\"${2:baseline}-add_to_photos$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-add_to_photos"
+  },
+  "add_to_queue": {
+    "body": "<${1:i} class=\"${2:baseline}-add_to_queue$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-add_to_queue"
+  },
+  "adjust": {
+    "body": "<${1:i} class=\"${2:baseline}-adjust$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-adjust"
+  },
+  "airline_seat_flat": {
+    "body": "<${1:i} class=\"${2:baseline}-airline_seat_flat$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-airline_seat_flat"
+  },
+  "airline_seat_flat_angled": {
+    "body": "<${1:i} class=\"${2:baseline}-airline_seat_flat_angled$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-airline_seat_flat_angled"
+  },
+  "airline_seat_individual_suite": {
+    "body": "<${1:i} class=\"${2:baseline}-airline_seat_individual_suite$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-airline_seat_individual_suite"
+  },
+  "airline_seat_legroom_extra": {
+    "body": "<${1:i} class=\"${2:baseline}-airline_seat_legroom_extra$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-airline_seat_legroom_extra"
+  },
+  "airline_seat_legroom_normal": {
+    "body": "<${1:i} class=\"${2:baseline}-airline_seat_legroom_normal$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-airline_seat_legroom_normal"
+  },
+  "airline_seat_legroom_reduced": {
+    "body": "<${1:i} class=\"${2:baseline}-airline_seat_legroom_reduced$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-airline_seat_legroom_reduced"
+  },
+  "airline_seat_recline_extra": {
+    "body": "<${1:i} class=\"${2:baseline}-airline_seat_recline_extra$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-airline_seat_recline_extra"
+  },
+  "airline_seat_recline_normal": {
+    "body": "<${1:i} class=\"${2:baseline}-airline_seat_recline_normal$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-airline_seat_recline_normal"
+  },
+  "airplanemode_active": {
+    "body": "<${1:i} class=\"${2:baseline}-airplanemode_active$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-airplanemode_active"
+  },
+  "airplanemode_inactive": {
+    "body": "<${1:i} class=\"${2:baseline}-airplanemode_inactive$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-airplanemode_inactive"
+  },
+  "airplay": {
+    "body": "<${1:i} class=\"${2:baseline}-airplay$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-airplay"
+  },
+  "airport_shuttle": {
+    "body": "<${1:i} class=\"${2:baseline}-airport_shuttle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-airport_shuttle"
+  },
+  "alarm": {
+    "body": "<${1:i} class=\"${2:baseline}-alarm$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-alarm"
+  },
+  "alarm_add": {
+    "body": "<${1:i} class=\"${2:baseline}-alarm_add$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-alarm_add"
+  },
+  "alarm_off": {
+    "body": "<${1:i} class=\"${2:baseline}-alarm_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-alarm_off"
+  },
+  "alarm_on": {
+    "body": "<${1:i} class=\"${2:baseline}-alarm_on$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-alarm_on"
+  },
+  "album": {
+    "body": "<${1:i} class=\"${2:baseline}-album$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-album"
+  },
+  "all_inclusive": {
+    "body": "<${1:i} class=\"${2:baseline}-all_inclusive$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-all_inclusive"
+  },
+  "all_out": {
+    "body": "<${1:i} class=\"${2:baseline}-all_out$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-all_out"
+  },
+  "android": {
+    "body": "<${1:i} class=\"${2:baseline}-android$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-android"
+  },
+  "announcement": {
+    "body": "<${1:i} class=\"${2:baseline}-announcement$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-announcement"
+  },
+  "apps": {
+    "body": "<${1:i} class=\"${2:baseline}-apps$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-apps"
+  },
+  "archive": {
+    "body": "<${1:i} class=\"${2:baseline}-archive$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-archive"
+  },
+  "arrow_back": {
+    "body": "<${1:i} class=\"${2:baseline}-arrow_back$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-arrow_back"
+  },
+  "arrow_downward": {
+    "body": "<${1:i} class=\"${2:baseline}-arrow_downward$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-arrow_downward"
+  },
+  "arrow_drop_down": {
+    "body": "<${1:i} class=\"${2:baseline}-arrow_drop_down$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-arrow_drop_down"
+  },
+  "arrow_drop_down_circle": {
+    "body": "<${1:i} class=\"${2:baseline}-arrow_drop_down_circle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-arrow_drop_down_circle"
+  },
+  "arrow_drop_up": {
+    "body": "<${1:i} class=\"${2:baseline}-arrow_drop_up$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-arrow_drop_up"
+  },
+  "arrow_forward": {
+    "body": "<${1:i} class=\"${2:baseline}-arrow_forward$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-arrow_forward"
+  },
+  "arrow_upward": {
+    "body": "<${1:i} class=\"${2:baseline}-arrow_upward$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-arrow_upward"
+  },
+  "art_track": {
+    "body": "<${1:i} class=\"${2:baseline}-art_track$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-art_track"
+  },
+  "aspect_ratio": {
+    "body": "<${1:i} class=\"${2:baseline}-aspect_ratio$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-aspect_ratio"
+  },
+  "assessment": {
+    "body": "<${1:i} class=\"${2:baseline}-assessment$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-assessment"
+  },
+  "assignment": {
+    "body": "<${1:i} class=\"${2:baseline}-assignment$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-assignment"
+  },
+  "assignment_ind": {
+    "body": "<${1:i} class=\"${2:baseline}-assignment_ind$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-assignment_ind"
+  },
+  "assignment_late": {
+    "body": "<${1:i} class=\"${2:baseline}-assignment_late$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-assignment_late"
+  },
+  "assignment_return": {
+    "body": "<${1:i} class=\"${2:baseline}-assignment_return$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-assignment_return"
+  },
+  "assignment_returned": {
+    "body": "<${1:i} class=\"${2:baseline}-assignment_returned$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-assignment_returned"
+  },
+  "assignment_turned_in": {
+    "body": "<${1:i} class=\"${2:baseline}-assignment_turned_in$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-assignment_turned_in"
+  },
+  "assistant": {
+    "body": "<${1:i} class=\"${2:baseline}-assistant$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-assistant"
+  },
+  "assistant_photo": {
+    "body": "<${1:i} class=\"${2:baseline}-assistant_photo$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-assistant_photo"
+  },
+  "attach_file": {
+    "body": "<${1:i} class=\"${2:baseline}-attach_file$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-attach_file"
+  },
+  "attach_money": {
+    "body": "<${1:i} class=\"${2:baseline}-attach_money$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-attach_money"
+  },
+  "attachment": {
+    "body": "<${1:i} class=\"${2:baseline}-attachment$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-attachment"
+  },
+  "audiotrack": {
+    "body": "<${1:i} class=\"${2:baseline}-audiotrack$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-audiotrack"
+  },
+  "autorenew": {
+    "body": "<${1:i} class=\"${2:baseline}-autorenew$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-autorenew"
+  },
+  "av_timer": {
+    "body": "<${1:i} class=\"${2:baseline}-av_timer$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-av_timer"
+  },
+  "backspace": {
+    "body": "<${1:i} class=\"${2:baseline}-backspace$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-backspace"
+  },
+  "backup": {
+    "body": "<${1:i} class=\"${2:baseline}-backup$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-backup"
+  },
+  "battery_alert": {
+    "body": "<${1:i} class=\"${2:baseline}-battery_alert$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-battery_alert"
+  },
+  "battery_charging_full": {
+    "body": "<${1:i} class=\"${2:baseline}-battery_charging_full$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-battery_charging_full"
+  },
+  "battery_full": {
+    "body": "<${1:i} class=\"${2:baseline}-battery_full$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-battery_full"
+  },
+  "battery_std": {
+    "body": "<${1:i} class=\"${2:baseline}-battery_std$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-battery_std"
+  },
+  "battery_unknown": {
+    "body": "<${1:i} class=\"${2:baseline}-battery_unknown$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-battery_unknown"
+  },
+  "beach_access": {
+    "body": "<${1:i} class=\"${2:baseline}-beach_access$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-beach_access"
+  },
+  "beenhere": {
+    "body": "<${1:i} class=\"${2:baseline}-beenhere$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-beenhere"
+  },
+  "block": {
+    "body": "<${1:i} class=\"${2:baseline}-block$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-block"
+  },
+  "bluetooth": {
+    "body": "<${1:i} class=\"${2:baseline}-bluetooth$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-bluetooth"
+  },
+  "bluetooth_audio": {
+    "body": "<${1:i} class=\"${2:baseline}-bluetooth_audio$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-bluetooth_audio"
+  },
+  "bluetooth_connected": {
+    "body": "<${1:i} class=\"${2:baseline}-bluetooth_connected$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-bluetooth_connected"
+  },
+  "bluetooth_disabled": {
+    "body": "<${1:i} class=\"${2:baseline}-bluetooth_disabled$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-bluetooth_disabled"
+  },
+  "bluetooth_searching": {
+    "body": "<${1:i} class=\"${2:baseline}-bluetooth_searching$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-bluetooth_searching"
+  },
+  "blur_circular": {
+    "body": "<${1:i} class=\"${2:baseline}-blur_circular$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-blur_circular"
+  },
+  "blur_linear": {
+    "body": "<${1:i} class=\"${2:baseline}-blur_linear$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-blur_linear"
+  },
+  "blur_off": {
+    "body": "<${1:i} class=\"${2:baseline}-blur_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-blur_off"
+  },
+  "blur_on": {
+    "body": "<${1:i} class=\"${2:baseline}-blur_on$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-blur_on"
+  },
+  "book": {
+    "body": "<${1:i} class=\"${2:baseline}-book$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-book"
+  },
+  "bookmark": {
+    "body": "<${1:i} class=\"${2:baseline}-bookmark$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-bookmark"
+  },
+  "bookmark_border": {
+    "body": "<${1:i} class=\"${2:baseline}-bookmark_border$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-bookmark_border"
+  },
+  "border_all": {
+    "body": "<${1:i} class=\"${2:baseline}-border_all$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-border_all"
+  },
+  "border_bottom": {
+    "body": "<${1:i} class=\"${2:baseline}-border_bottom$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-border_bottom"
+  },
+  "border_clear": {
+    "body": "<${1:i} class=\"${2:baseline}-border_clear$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-border_clear"
+  },
+  "border_color": {
+    "body": "<${1:i} class=\"${2:baseline}-border_color$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-border_color"
+  },
+  "border_horizontal": {
+    "body": "<${1:i} class=\"${2:baseline}-border_horizontal$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-border_horizontal"
+  },
+  "border_inner": {
+    "body": "<${1:i} class=\"${2:baseline}-border_inner$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-border_inner"
+  },
+  "border_left": {
+    "body": "<${1:i} class=\"${2:baseline}-border_left$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-border_left"
+  },
+  "border_outer": {
+    "body": "<${1:i} class=\"${2:baseline}-border_outer$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-border_outer"
+  },
+  "border_right": {
+    "body": "<${1:i} class=\"${2:baseline}-border_right$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-border_right"
+  },
+  "border_style": {
+    "body": "<${1:i} class=\"${2:baseline}-border_style$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-border_style"
+  },
+  "border_top": {
+    "body": "<${1:i} class=\"${2:baseline}-border_top$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-border_top"
+  },
+  "border_vertical": {
+    "body": "<${1:i} class=\"${2:baseline}-border_vertical$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-border_vertical"
+  },
+  "branding_watermark": {
+    "body": "<${1:i} class=\"${2:baseline}-branding_watermark$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-branding_watermark"
+  },
+  "brightness_1": {
+    "body": "<${1:i} class=\"${2:baseline}-brightness_1$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-brightness_1"
+  },
+  "brightness_2": {
+    "body": "<${1:i} class=\"${2:baseline}-brightness_2$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-brightness_2"
+  },
+  "brightness_3": {
+    "body": "<${1:i} class=\"${2:baseline}-brightness_3$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-brightness_3"
+  },
+  "brightness_4": {
+    "body": "<${1:i} class=\"${2:baseline}-brightness_4$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-brightness_4"
+  },
+  "brightness_5": {
+    "body": "<${1:i} class=\"${2:baseline}-brightness_5$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-brightness_5"
+  },
+  "brightness_6": {
+    "body": "<${1:i} class=\"${2:baseline}-brightness_6$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-brightness_6"
+  },
+  "brightness_7": {
+    "body": "<${1:i} class=\"${2:baseline}-brightness_7$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-brightness_7"
+  },
+  "brightness_auto": {
+    "body": "<${1:i} class=\"${2:baseline}-brightness_auto$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-brightness_auto"
+  },
+  "brightness_high": {
+    "body": "<${1:i} class=\"${2:baseline}-brightness_high$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-brightness_high"
+  },
+  "brightness_low": {
+    "body": "<${1:i} class=\"${2:baseline}-brightness_low$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-brightness_low"
+  },
+  "brightness_medium": {
+    "body": "<${1:i} class=\"${2:baseline}-brightness_medium$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-brightness_medium"
+  },
+  "broken_image": {
+    "body": "<${1:i} class=\"${2:baseline}-broken_image$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-broken_image"
+  },
+  "brush": {
+    "body": "<${1:i} class=\"${2:baseline}-brush$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-brush"
+  },
+  "bubble_chart": {
+    "body": "<${1:i} class=\"${2:baseline}-bubble_chart$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-bubble_chart"
+  },
+  "bug_report": {
+    "body": "<${1:i} class=\"${2:baseline}-bug_report$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-bug_report"
+  },
+  "build": {
+    "body": "<${1:i} class=\"${2:baseline}-build$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-build"
+  },
+  "burst_mode": {
+    "body": "<${1:i} class=\"${2:baseline}-burst_mode$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-burst_mode"
+  },
+  "business": {
+    "body": "<${1:i} class=\"${2:baseline}-business$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-business"
+  },
+  "business_center": {
+    "body": "<${1:i} class=\"${2:baseline}-business_center$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-business_center"
+  },
+  "cached": {
+    "body": "<${1:i} class=\"${2:baseline}-cached$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-cached"
+  },
+  "cake": {
+    "body": "<${1:i} class=\"${2:baseline}-cake$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-cake"
+  },
+  "call": {
+    "body": "<${1:i} class=\"${2:baseline}-call$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-call"
+  },
+  "call_end": {
+    "body": "<${1:i} class=\"${2:baseline}-call_end$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-call_end"
+  },
+  "call_made": {
+    "body": "<${1:i} class=\"${2:baseline}-call_made$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-call_made"
+  },
+  "call_merge": {
+    "body": "<${1:i} class=\"${2:baseline}-call_merge$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-call_merge"
+  },
+  "call_missed": {
+    "body": "<${1:i} class=\"${2:baseline}-call_missed$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-call_missed"
+  },
+  "call_missed_outgoing": {
+    "body": "<${1:i} class=\"${2:baseline}-call_missed_outgoing$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-call_missed_outgoing"
+  },
+  "call_received": {
+    "body": "<${1:i} class=\"${2:baseline}-call_received$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-call_received"
+  },
+  "call_split": {
+    "body": "<${1:i} class=\"${2:baseline}-call_split$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-call_split"
+  },
+  "call_to_action": {
+    "body": "<${1:i} class=\"${2:baseline}-call_to_action$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-call_to_action"
+  },
+  "camera": {
+    "body": "<${1:i} class=\"${2:baseline}-camera$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-camera"
+  },
+  "camera_alt": {
+    "body": "<${1:i} class=\"${2:baseline}-camera_alt$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-camera_alt"
+  },
+  "camera_enhance": {
+    "body": "<${1:i} class=\"${2:baseline}-camera_enhance$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-camera_enhance"
+  },
+  "camera_front": {
+    "body": "<${1:i} class=\"${2:baseline}-camera_front$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-camera_front"
+  },
+  "camera_rear": {
+    "body": "<${1:i} class=\"${2:baseline}-camera_rear$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-camera_rear"
+  },
+  "camera_roll": {
+    "body": "<${1:i} class=\"${2:baseline}-camera_roll$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-camera_roll"
+  },
+  "cancel": {
+    "body": "<${1:i} class=\"${2:baseline}-cancel$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-cancel"
+  },
+  "card_giftcard": {
+    "body": "<${1:i} class=\"${2:baseline}-card_giftcard$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-card_giftcard"
+  },
+  "card_membership": {
+    "body": "<${1:i} class=\"${2:baseline}-card_membership$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-card_membership"
+  },
+  "card_travel": {
+    "body": "<${1:i} class=\"${2:baseline}-card_travel$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-card_travel"
+  },
+  "casino": {
+    "body": "<${1:i} class=\"${2:baseline}-casino$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-casino"
+  },
+  "cast": {
+    "body": "<${1:i} class=\"${2:baseline}-cast$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-cast"
+  },
+  "cast_connected": {
+    "body": "<${1:i} class=\"${2:baseline}-cast_connected$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-cast_connected"
+  },
+  "center_focus_strong": {
+    "body": "<${1:i} class=\"${2:baseline}-center_focus_strong$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-center_focus_strong"
+  },
+  "center_focus_weak": {
+    "body": "<${1:i} class=\"${2:baseline}-center_focus_weak$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-center_focus_weak"
+  },
+  "change_history": {
+    "body": "<${1:i} class=\"${2:baseline}-change_history$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-change_history"
+  },
+  "chat": {
+    "body": "<${1:i} class=\"${2:baseline}-chat$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-chat"
+  },
+  "chat_bubble": {
+    "body": "<${1:i} class=\"${2:baseline}-chat_bubble$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-chat_bubble"
+  },
+  "chat_bubble_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-chat_bubble_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-chat_bubble_outline"
+  },
+  "check": {
+    "body": "<${1:i} class=\"${2:baseline}-check$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-check"
+  },
+  "check_box": {
+    "body": "<${1:i} class=\"${2:baseline}-check_box$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-check_box"
+  },
+  "check_box_outline_blank": {
+    "body": "<${1:i} class=\"${2:baseline}-check_box_outline_blank$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-check_box_outline_blank"
+  },
+  "check_circle": {
+    "body": "<${1:i} class=\"${2:baseline}-check_circle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-check_circle"
+  },
+  "chevron_left": {
+    "body": "<${1:i} class=\"${2:baseline}-chevron_left$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-chevron_left"
+  },
+  "chevron_right": {
+    "body": "<${1:i} class=\"${2:baseline}-chevron_right$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-chevron_right"
+  },
+  "child_care": {
+    "body": "<${1:i} class=\"${2:baseline}-child_care$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-child_care"
+  },
+  "child_friendly": {
+    "body": "<${1:i} class=\"${2:baseline}-child_friendly$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-child_friendly"
+  },
+  "chrome_reader_mode": {
+    "body": "<${1:i} class=\"${2:baseline}-chrome_reader_mode$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-chrome_reader_mode"
+  },
+  "class": {
+    "body": "<${1:i} class=\"${2:baseline}-class$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-class"
+  },
+  "clear": {
+    "body": "<${1:i} class=\"${2:baseline}-clear$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-clear"
+  },
+  "clear_all": {
+    "body": "<${1:i} class=\"${2:baseline}-clear_all$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-clear_all"
+  },
+  "close": {
+    "body": "<${1:i} class=\"${2:baseline}-close$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-close"
+  },
+  "closed_caption": {
+    "body": "<${1:i} class=\"${2:baseline}-closed_caption$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-closed_caption"
+  },
+  "cloud": {
+    "body": "<${1:i} class=\"${2:baseline}-cloud$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-cloud"
+  },
+  "cloud_circle": {
+    "body": "<${1:i} class=\"${2:baseline}-cloud_circle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-cloud_circle"
+  },
+  "cloud_done": {
+    "body": "<${1:i} class=\"${2:baseline}-cloud_done$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-cloud_done"
+  },
+  "cloud_download": {
+    "body": "<${1:i} class=\"${2:baseline}-cloud_download$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-cloud_download"
+  },
+  "cloud_off": {
+    "body": "<${1:i} class=\"${2:baseline}-cloud_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-cloud_off"
+  },
+  "cloud_queue": {
+    "body": "<${1:i} class=\"${2:baseline}-cloud_queue$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-cloud_queue"
+  },
+  "cloud_upload": {
+    "body": "<${1:i} class=\"${2:baseline}-cloud_upload$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-cloud_upload"
+  },
+  "code": {
+    "body": "<${1:i} class=\"${2:baseline}-code$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-code"
+  },
+  "collections": {
+    "body": "<${1:i} class=\"${2:baseline}-collections$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-collections"
+  },
+  "collections_bookmark": {
+    "body": "<${1:i} class=\"${2:baseline}-collections_bookmark$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-collections_bookmark"
+  },
+  "color_lens": {
+    "body": "<${1:i} class=\"${2:baseline}-color_lens$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-color_lens"
+  },
+  "colorize": {
+    "body": "<${1:i} class=\"${2:baseline}-colorize$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-colorize"
+  },
+  "comment": {
+    "body": "<${1:i} class=\"${2:baseline}-comment$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-comment"
+  },
+  "compare": {
+    "body": "<${1:i} class=\"${2:baseline}-compare$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-compare"
+  },
+  "compare_arrows": {
+    "body": "<${1:i} class=\"${2:baseline}-compare_arrows$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-compare_arrows"
+  },
+  "computer": {
+    "body": "<${1:i} class=\"${2:baseline}-computer$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-computer"
+  },
+  "confirmation_number": {
+    "body": "<${1:i} class=\"${2:baseline}-confirmation_number$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-confirmation_number"
+  },
+  "contact_mail": {
+    "body": "<${1:i} class=\"${2:baseline}-contact_mail$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-contact_mail"
+  },
+  "contact_phone": {
+    "body": "<${1:i} class=\"${2:baseline}-contact_phone$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-contact_phone"
+  },
+  "contacts": {
+    "body": "<${1:i} class=\"${2:baseline}-contacts$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-contacts"
+  },
+  "content_copy": {
+    "body": "<${1:i} class=\"${2:baseline}-content_copy$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-content_copy"
+  },
+  "content_cut": {
+    "body": "<${1:i} class=\"${2:baseline}-content_cut$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-content_cut"
+  },
+  "content_paste": {
+    "body": "<${1:i} class=\"${2:baseline}-content_paste$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-content_paste"
+  },
+  "control_point": {
+    "body": "<${1:i} class=\"${2:baseline}-control_point$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-control_point"
+  },
+  "control_point_duplicate": {
+    "body": "<${1:i} class=\"${2:baseline}-control_point_duplicate$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-control_point_duplicate"
+  },
+  "copyright": {
+    "body": "<${1:i} class=\"${2:baseline}-copyright$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-copyright"
+  },
+  "create": {
+    "body": "<${1:i} class=\"${2:baseline}-create$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-create"
+  },
+  "create_new_folder": {
+    "body": "<${1:i} class=\"${2:baseline}-create_new_folder$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-create_new_folder"
+  },
+  "credit_card": {
+    "body": "<${1:i} class=\"${2:baseline}-credit_card$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-credit_card"
+  },
+  "crop": {
+    "body": "<${1:i} class=\"${2:baseline}-crop$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-crop"
+  },
+  "crop_16_9": {
+    "body": "<${1:i} class=\"${2:baseline}-crop_16_9$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-crop_16_9"
+  },
+  "crop_3_2": {
+    "body": "<${1:i} class=\"${2:baseline}-crop_3_2$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-crop_3_2"
+  },
+  "crop_5_4": {
+    "body": "<${1:i} class=\"${2:baseline}-crop_5_4$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-crop_5_4"
+  },
+  "crop_7_5": {
+    "body": "<${1:i} class=\"${2:baseline}-crop_7_5$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-crop_7_5"
+  },
+  "crop_din": {
+    "body": "<${1:i} class=\"${2:baseline}-crop_din$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-crop_din"
+  },
+  "crop_free": {
+    "body": "<${1:i} class=\"${2:baseline}-crop_free$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-crop_free"
+  },
+  "crop_landscape": {
+    "body": "<${1:i} class=\"${2:baseline}-crop_landscape$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-crop_landscape"
+  },
+  "crop_original": {
+    "body": "<${1:i} class=\"${2:baseline}-crop_original$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-crop_original"
+  },
+  "crop_portrait": {
+    "body": "<${1:i} class=\"${2:baseline}-crop_portrait$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-crop_portrait"
+  },
+  "crop_rotate": {
+    "body": "<${1:i} class=\"${2:baseline}-crop_rotate$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-crop_rotate"
+  },
+  "crop_square": {
+    "body": "<${1:i} class=\"${2:baseline}-crop_square$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-crop_square"
+  },
+  "dashboard": {
+    "body": "<${1:i} class=\"${2:baseline}-dashboard$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-dashboard"
+  },
+  "data_usage": {
+    "body": "<${1:i} class=\"${2:baseline}-data_usage$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-data_usage"
+  },
+  "date_range": {
+    "body": "<${1:i} class=\"${2:baseline}-date_range$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-date_range"
+  },
+  "dehaze": {
+    "body": "<${1:i} class=\"${2:baseline}-dehaze$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-dehaze"
+  },
+  "delete": {
+    "body": "<${1:i} class=\"${2:baseline}-delete$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-delete"
+  },
+  "delete_forever": {
+    "body": "<${1:i} class=\"${2:baseline}-delete_forever$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-delete_forever"
+  },
+  "delete_sweep": {
+    "body": "<${1:i} class=\"${2:baseline}-delete_sweep$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-delete_sweep"
+  },
+  "description": {
+    "body": "<${1:i} class=\"${2:baseline}-description$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-description"
+  },
+  "desktop_mac": {
+    "body": "<${1:i} class=\"${2:baseline}-desktop_mac$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-desktop_mac"
+  },
+  "desktop_windows": {
+    "body": "<${1:i} class=\"${2:baseline}-desktop_windows$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-desktop_windows"
+  },
+  "details": {
+    "body": "<${1:i} class=\"${2:baseline}-details$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-details"
+  },
+  "developer_board": {
+    "body": "<${1:i} class=\"${2:baseline}-developer_board$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-developer_board"
+  },
+  "developer_mode": {
+    "body": "<${1:i} class=\"${2:baseline}-developer_mode$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-developer_mode"
+  },
+  "device_hub": {
+    "body": "<${1:i} class=\"${2:baseline}-device_hub$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-device_hub"
+  },
+  "devices": {
+    "body": "<${1:i} class=\"${2:baseline}-devices$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-devices"
+  },
+  "devices_other": {
+    "body": "<${1:i} class=\"${2:baseline}-devices_other$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-devices_other"
+  },
+  "dialer_sip": {
+    "body": "<${1:i} class=\"${2:baseline}-dialer_sip$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-dialer_sip"
+  },
+  "dialpad": {
+    "body": "<${1:i} class=\"${2:baseline}-dialpad$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-dialpad"
+  },
+  "directions": {
+    "body": "<${1:i} class=\"${2:baseline}-directions$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-directions"
+  },
+  "directions_bike": {
+    "body": "<${1:i} class=\"${2:baseline}-directions_bike$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-directions_bike"
+  },
+  "directions_boat": {
+    "body": "<${1:i} class=\"${2:baseline}-directions_boat$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-directions_boat"
+  },
+  "directions_bus": {
+    "body": "<${1:i} class=\"${2:baseline}-directions_bus$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-directions_bus"
+  },
+  "directions_car": {
+    "body": "<${1:i} class=\"${2:baseline}-directions_car$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-directions_car"
+  },
+  "directions_railway": {
+    "body": "<${1:i} class=\"${2:baseline}-directions_railway$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-directions_railway"
+  },
+  "directions_run": {
+    "body": "<${1:i} class=\"${2:baseline}-directions_run$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-directions_run"
+  },
+  "directions_subway": {
+    "body": "<${1:i} class=\"${2:baseline}-directions_subway$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-directions_subway"
+  },
+  "directions_transit": {
+    "body": "<${1:i} class=\"${2:baseline}-directions_transit$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-directions_transit"
+  },
+  "directions_walk": {
+    "body": "<${1:i} class=\"${2:baseline}-directions_walk$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-directions_walk"
+  },
+  "disc_full": {
+    "body": "<${1:i} class=\"${2:baseline}-disc_full$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-disc_full"
+  },
+  "dns": {
+    "body": "<${1:i} class=\"${2:baseline}-dns$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-dns"
+  },
+  "do_not_disturb": {
+    "body": "<${1:i} class=\"${2:baseline}-do_not_disturb$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-do_not_disturb"
+  },
+  "do_not_disturb_alt": {
+    "body": "<${1:i} class=\"${2:baseline}-do_not_disturb_alt$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-do_not_disturb_alt"
+  },
+  "do_not_disturb_off": {
+    "body": "<${1:i} class=\"${2:baseline}-do_not_disturb_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-do_not_disturb_off"
+  },
+  "do_not_disturb_on": {
+    "body": "<${1:i} class=\"${2:baseline}-do_not_disturb_on$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-do_not_disturb_on"
+  },
+  "dock": {
+    "body": "<${1:i} class=\"${2:baseline}-dock$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-dock"
+  },
+  "domain": {
+    "body": "<${1:i} class=\"${2:baseline}-domain$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-domain"
+  },
+  "done": {
+    "body": "<${1:i} class=\"${2:baseline}-done$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-done"
+  },
+  "done_all": {
+    "body": "<${1:i} class=\"${2:baseline}-done_all$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-done_all"
+  },
+  "donut_large": {
+    "body": "<${1:i} class=\"${2:baseline}-donut_large$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-donut_large"
+  },
+  "donut_small": {
+    "body": "<${1:i} class=\"${2:baseline}-donut_small$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-donut_small"
+  },
+  "drafts": {
+    "body": "<${1:i} class=\"${2:baseline}-drafts$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-drafts"
+  },
+  "drag_handle": {
+    "body": "<${1:i} class=\"${2:baseline}-drag_handle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-drag_handle"
+  },
+  "drive_eta": {
+    "body": "<${1:i} class=\"${2:baseline}-drive_eta$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-drive_eta"
+  },
+  "dvr": {
+    "body": "<${1:i} class=\"${2:baseline}-dvr$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-dvr"
+  },
+  "edit": {
+    "body": "<${1:i} class=\"${2:baseline}-edit$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-edit"
+  },
+  "edit_location": {
+    "body": "<${1:i} class=\"${2:baseline}-edit_location$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-edit_location"
+  },
+  "eject": {
+    "body": "<${1:i} class=\"${2:baseline}-eject$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-eject"
+  },
+  "email": {
+    "body": "<${1:i} class=\"${2:baseline}-email$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-email"
+  },
+  "enhanced_encryption": {
+    "body": "<${1:i} class=\"${2:baseline}-enhanced_encryption$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-enhanced_encryption"
+  },
+  "equalizer": {
+    "body": "<${1:i} class=\"${2:baseline}-equalizer$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-equalizer"
+  },
+  "error": {
+    "body": "<${1:i} class=\"${2:baseline}-error$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-error"
+  },
+  "error_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-error_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-error_outline"
+  },
+  "euro_symbol": {
+    "body": "<${1:i} class=\"${2:baseline}-euro_symbol$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-euro_symbol"
+  },
+  "ev_station": {
+    "body": "<${1:i} class=\"${2:baseline}-ev_station$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-ev_station"
+  },
+  "event": {
+    "body": "<${1:i} class=\"${2:baseline}-event$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-event"
+  },
+  "event_available": {
+    "body": "<${1:i} class=\"${2:baseline}-event_available$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-event_available"
+  },
+  "event_busy": {
+    "body": "<${1:i} class=\"${2:baseline}-event_busy$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-event_busy"
+  },
+  "event_note": {
+    "body": "<${1:i} class=\"${2:baseline}-event_note$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-event_note"
+  },
+  "event_seat": {
+    "body": "<${1:i} class=\"${2:baseline}-event_seat$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-event_seat"
+  },
+  "exit_to_app": {
+    "body": "<${1:i} class=\"${2:baseline}-exit_to_app$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-exit_to_app"
+  },
+  "expand_less": {
+    "body": "<${1:i} class=\"${2:baseline}-expand_less$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-expand_less"
+  },
+  "expand_more": {
+    "body": "<${1:i} class=\"${2:baseline}-expand_more$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-expand_more"
+  },
+  "explicit": {
+    "body": "<${1:i} class=\"${2:baseline}-explicit$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-explicit"
+  },
+  "explore": {
+    "body": "<${1:i} class=\"${2:baseline}-explore$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-explore"
+  },
+  "exposure": {
+    "body": "<${1:i} class=\"${2:baseline}-exposure$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-exposure"
+  },
+  "exposure_neg_1": {
+    "body": "<${1:i} class=\"${2:baseline}-exposure_neg_1$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-exposure_neg_1"
+  },
+  "exposure_neg_2": {
+    "body": "<${1:i} class=\"${2:baseline}-exposure_neg_2$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-exposure_neg_2"
+  },
+  "exposure_plus_1": {
+    "body": "<${1:i} class=\"${2:baseline}-exposure_plus_1$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-exposure_plus_1"
+  },
+  "exposure_plus_2": {
+    "body": "<${1:i} class=\"${2:baseline}-exposure_plus_2$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-exposure_plus_2"
+  },
+  "exposure_zero": {
+    "body": "<${1:i} class=\"${2:baseline}-exposure_zero$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-exposure_zero"
+  },
+  "extension": {
+    "body": "<${1:i} class=\"${2:baseline}-extension$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-extension"
+  },
+  "face": {
+    "body": "<${1:i} class=\"${2:baseline}-face$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-face"
+  },
+  "fast_forward": {
+    "body": "<${1:i} class=\"${2:baseline}-fast_forward$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-fast_forward"
+  },
+  "fast_rewind": {
+    "body": "<${1:i} class=\"${2:baseline}-fast_rewind$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-fast_rewind"
+  },
+  "favorite": {
+    "body": "<${1:i} class=\"${2:baseline}-favorite$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-favorite"
+  },
+  "favorite_border": {
+    "body": "<${1:i} class=\"${2:baseline}-favorite_border$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-favorite_border"
+  },
+  "featured_play_list": {
+    "body": "<${1:i} class=\"${2:baseline}-featured_play_list$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-featured_play_list"
+  },
+  "featured_video": {
+    "body": "<${1:i} class=\"${2:baseline}-featured_video$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-featured_video"
+  },
+  "feedback": {
+    "body": "<${1:i} class=\"${2:baseline}-feedback$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-feedback"
+  },
+  "fiber_dvr": {
+    "body": "<${1:i} class=\"${2:baseline}-fiber_dvr$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-fiber_dvr"
+  },
+  "fiber_manual_record": {
+    "body": "<${1:i} class=\"${2:baseline}-fiber_manual_record$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-fiber_manual_record"
+  },
+  "fiber_new": {
+    "body": "<${1:i} class=\"${2:baseline}-fiber_new$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-fiber_new"
+  },
+  "fiber_pin": {
+    "body": "<${1:i} class=\"${2:baseline}-fiber_pin$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-fiber_pin"
+  },
+  "fiber_smart_record": {
+    "body": "<${1:i} class=\"${2:baseline}-fiber_smart_record$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-fiber_smart_record"
+  },
+  "file_download": {
+    "body": "<${1:i} class=\"${2:baseline}-file_download$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-file_download"
+  },
+  "file_upload": {
+    "body": "<${1:i} class=\"${2:baseline}-file_upload$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-file_upload"
+  },
+  "filter": {
+    "body": "<${1:i} class=\"${2:baseline}-filter$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter"
+  },
+  "filter_1": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_1$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_1"
+  },
+  "filter_2": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_2$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_2"
+  },
+  "filter_3": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_3$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_3"
+  },
+  "filter_4": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_4$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_4"
+  },
+  "filter_5": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_5$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_5"
+  },
+  "filter_6": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_6$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_6"
+  },
+  "filter_7": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_7$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_7"
+  },
+  "filter_8": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_8$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_8"
+  },
+  "filter_9": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_9$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_9"
+  },
+  "filter_9_plus": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_9_plus$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_9_plus"
+  },
+  "filter_b_and_w": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_b_and_w$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_b_and_w"
+  },
+  "filter_center_focus": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_center_focus$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_center_focus"
+  },
+  "filter_drama": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_drama$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_drama"
+  },
+  "filter_frames": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_frames$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_frames"
+  },
+  "filter_hdr": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_hdr$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_hdr"
+  },
+  "filter_list": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_list$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_list"
+  },
+  "filter_none": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_none$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_none"
+  },
+  "filter_tilt_shift": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_tilt_shift$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_tilt_shift"
+  },
+  "filter_vintage": {
+    "body": "<${1:i} class=\"${2:baseline}-filter_vintage$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-filter_vintage"
+  },
+  "find_in_page": {
+    "body": "<${1:i} class=\"${2:baseline}-find_in_page$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-find_in_page"
+  },
+  "find_replace": {
+    "body": "<${1:i} class=\"${2:baseline}-find_replace$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-find_replace"
+  },
+  "fingerprint": {
+    "body": "<${1:i} class=\"${2:baseline}-fingerprint$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-fingerprint"
+  },
+  "first_page": {
+    "body": "<${1:i} class=\"${2:baseline}-first_page$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-first_page"
+  },
+  "fitness_center": {
+    "body": "<${1:i} class=\"${2:baseline}-fitness_center$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-fitness_center"
+  },
+  "flag": {
+    "body": "<${1:i} class=\"${2:baseline}-flag$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-flag"
+  },
+  "flare": {
+    "body": "<${1:i} class=\"${2:baseline}-flare$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-flare"
+  },
+  "flash_auto": {
+    "body": "<${1:i} class=\"${2:baseline}-flash_auto$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-flash_auto"
+  },
+  "flash_off": {
+    "body": "<${1:i} class=\"${2:baseline}-flash_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-flash_off"
+  },
+  "flash_on": {
+    "body": "<${1:i} class=\"${2:baseline}-flash_on$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-flash_on"
+  },
+  "flight": {
+    "body": "<${1:i} class=\"${2:baseline}-flight$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-flight"
+  },
+  "flight_land": {
+    "body": "<${1:i} class=\"${2:baseline}-flight_land$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-flight_land"
+  },
+  "flight_takeoff": {
+    "body": "<${1:i} class=\"${2:baseline}-flight_takeoff$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-flight_takeoff"
+  },
+  "flip": {
+    "body": "<${1:i} class=\"${2:baseline}-flip$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-flip"
+  },
+  "flip_to_back": {
+    "body": "<${1:i} class=\"${2:baseline}-flip_to_back$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-flip_to_back"
+  },
+  "flip_to_front": {
+    "body": "<${1:i} class=\"${2:baseline}-flip_to_front$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-flip_to_front"
+  },
+  "folder": {
+    "body": "<${1:i} class=\"${2:baseline}-folder$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-folder"
+  },
+  "folder_open": {
+    "body": "<${1:i} class=\"${2:baseline}-folder_open$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-folder_open"
+  },
+  "folder_shared": {
+    "body": "<${1:i} class=\"${2:baseline}-folder_shared$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-folder_shared"
+  },
+  "folder_special": {
+    "body": "<${1:i} class=\"${2:baseline}-folder_special$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-folder_special"
+  },
+  "font_download": {
+    "body": "<${1:i} class=\"${2:baseline}-font_download$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-font_download"
+  },
+  "format_align_center": {
+    "body": "<${1:i} class=\"${2:baseline}-format_align_center$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_align_center"
+  },
+  "format_align_justify": {
+    "body": "<${1:i} class=\"${2:baseline}-format_align_justify$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_align_justify"
+  },
+  "format_align_left": {
+    "body": "<${1:i} class=\"${2:baseline}-format_align_left$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_align_left"
+  },
+  "format_align_right": {
+    "body": "<${1:i} class=\"${2:baseline}-format_align_right$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_align_right"
+  },
+  "format_bold": {
+    "body": "<${1:i} class=\"${2:baseline}-format_bold$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_bold"
+  },
+  "format_clear": {
+    "body": "<${1:i} class=\"${2:baseline}-format_clear$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_clear"
+  },
+  "format_color_fill": {
+    "body": "<${1:i} class=\"${2:baseline}-format_color_fill$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_color_fill"
+  },
+  "format_color_reset": {
+    "body": "<${1:i} class=\"${2:baseline}-format_color_reset$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_color_reset"
+  },
+  "format_color_text": {
+    "body": "<${1:i} class=\"${2:baseline}-format_color_text$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_color_text"
+  },
+  "format_indent_decrease": {
+    "body": "<${1:i} class=\"${2:baseline}-format_indent_decrease$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_indent_decrease"
+  },
+  "format_indent_increase": {
+    "body": "<${1:i} class=\"${2:baseline}-format_indent_increase$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_indent_increase"
+  },
+  "format_italic": {
+    "body": "<${1:i} class=\"${2:baseline}-format_italic$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_italic"
+  },
+  "format_line_spacing": {
+    "body": "<${1:i} class=\"${2:baseline}-format_line_spacing$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_line_spacing"
+  },
+  "format_list_bulleted": {
+    "body": "<${1:i} class=\"${2:baseline}-format_list_bulleted$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_list_bulleted"
+  },
+  "format_list_numbered": {
+    "body": "<${1:i} class=\"${2:baseline}-format_list_numbered$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_list_numbered"
+  },
+  "format_paint": {
+    "body": "<${1:i} class=\"${2:baseline}-format_paint$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_paint"
+  },
+  "format_quote": {
+    "body": "<${1:i} class=\"${2:baseline}-format_quote$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_quote"
+  },
+  "format_shapes": {
+    "body": "<${1:i} class=\"${2:baseline}-format_shapes$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_shapes"
+  },
+  "format_size": {
+    "body": "<${1:i} class=\"${2:baseline}-format_size$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_size"
+  },
+  "format_strikethrough": {
+    "body": "<${1:i} class=\"${2:baseline}-format_strikethrough$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_strikethrough"
+  },
+  "format_textdirection_l_to_r": {
+    "body": "<${1:i} class=\"${2:baseline}-format_textdirection_l_to_r$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_textdirection_l_to_r"
+  },
+  "format_textdirection_r_to_l": {
+    "body": "<${1:i} class=\"${2:baseline}-format_textdirection_r_to_l$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_textdirection_r_to_l"
+  },
+  "format_underlined": {
+    "body": "<${1:i} class=\"${2:baseline}-format_underlined$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-format_underlined"
+  },
+  "forum": {
+    "body": "<${1:i} class=\"${2:baseline}-forum$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-forum"
+  },
+  "forward": {
+    "body": "<${1:i} class=\"${2:baseline}-forward$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-forward"
+  },
+  "forward_10": {
+    "body": "<${1:i} class=\"${2:baseline}-forward_10$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-forward_10"
+  },
+  "forward_30": {
+    "body": "<${1:i} class=\"${2:baseline}-forward_30$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-forward_30"
+  },
+  "forward_5": {
+    "body": "<${1:i} class=\"${2:baseline}-forward_5$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-forward_5"
+  },
+  "free_breakfast": {
+    "body": "<${1:i} class=\"${2:baseline}-free_breakfast$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-free_breakfast"
+  },
+  "fullscreen": {
+    "body": "<${1:i} class=\"${2:baseline}-fullscreen$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-fullscreen"
+  },
+  "fullscreen_exit": {
+    "body": "<${1:i} class=\"${2:baseline}-fullscreen_exit$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-fullscreen_exit"
+  },
+  "functions": {
+    "body": "<${1:i} class=\"${2:baseline}-functions$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-functions"
+  },
+  "g_translate": {
+    "body": "<${1:i} class=\"${2:baseline}-g_translate$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-g_translate"
+  },
+  "gamepad": {
+    "body": "<${1:i} class=\"${2:baseline}-gamepad$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-gamepad"
+  },
+  "games": {
+    "body": "<${1:i} class=\"${2:baseline}-games$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-games"
+  },
+  "gavel": {
+    "body": "<${1:i} class=\"${2:baseline}-gavel$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-gavel"
+  },
+  "gesture": {
+    "body": "<${1:i} class=\"${2:baseline}-gesture$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-gesture"
+  },
+  "get_app": {
+    "body": "<${1:i} class=\"${2:baseline}-get_app$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-get_app"
+  },
+  "gif": {
+    "body": "<${1:i} class=\"${2:baseline}-gif$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-gif"
+  },
+  "golf_course": {
+    "body": "<${1:i} class=\"${2:baseline}-golf_course$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-golf_course"
+  },
+  "gps_fixed": {
+    "body": "<${1:i} class=\"${2:baseline}-gps_fixed$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-gps_fixed"
+  },
+  "gps_not_fixed": {
+    "body": "<${1:i} class=\"${2:baseline}-gps_not_fixed$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-gps_not_fixed"
+  },
+  "gps_off": {
+    "body": "<${1:i} class=\"${2:baseline}-gps_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-gps_off"
+  },
+  "grade": {
+    "body": "<${1:i} class=\"${2:baseline}-grade$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-grade"
+  },
+  "gradient": {
+    "body": "<${1:i} class=\"${2:baseline}-gradient$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-gradient"
+  },
+  "grain": {
+    "body": "<${1:i} class=\"${2:baseline}-grain$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-grain"
+  },
+  "graphic_eq": {
+    "body": "<${1:i} class=\"${2:baseline}-graphic_eq$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-graphic_eq"
+  },
+  "grid_off": {
+    "body": "<${1:i} class=\"${2:baseline}-grid_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-grid_off"
+  },
+  "grid_on": {
+    "body": "<${1:i} class=\"${2:baseline}-grid_on$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-grid_on"
+  },
+  "group": {
+    "body": "<${1:i} class=\"${2:baseline}-group$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-group"
+  },
+  "group_add": {
+    "body": "<${1:i} class=\"${2:baseline}-group_add$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-group_add"
+  },
+  "group_work": {
+    "body": "<${1:i} class=\"${2:baseline}-group_work$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-group_work"
+  },
+  "hd": {
+    "body": "<${1:i} class=\"${2:baseline}-hd$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-hd"
+  },
+  "hdr_off": {
+    "body": "<${1:i} class=\"${2:baseline}-hdr_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-hdr_off"
+  },
+  "hdr_on": {
+    "body": "<${1:i} class=\"${2:baseline}-hdr_on$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-hdr_on"
+  },
+  "hdr_strong": {
+    "body": "<${1:i} class=\"${2:baseline}-hdr_strong$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-hdr_strong"
+  },
+  "hdr_weak": {
+    "body": "<${1:i} class=\"${2:baseline}-hdr_weak$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-hdr_weak"
+  },
+  "headset": {
+    "body": "<${1:i} class=\"${2:baseline}-headset$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-headset"
+  },
+  "headset_mic": {
+    "body": "<${1:i} class=\"${2:baseline}-headset_mic$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-headset_mic"
+  },
+  "healing": {
+    "body": "<${1:i} class=\"${2:baseline}-healing$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-healing"
+  },
+  "hearing": {
+    "body": "<${1:i} class=\"${2:baseline}-hearing$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-hearing"
+  },
+  "help": {
+    "body": "<${1:i} class=\"${2:baseline}-help$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-help"
+  },
+  "help_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-help_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-help_outline"
+  },
+  "high_quality": {
+    "body": "<${1:i} class=\"${2:baseline}-high_quality$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-high_quality"
+  },
+  "highlight": {
+    "body": "<${1:i} class=\"${2:baseline}-highlight$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-highlight"
+  },
+  "highlight_off": {
+    "body": "<${1:i} class=\"${2:baseline}-highlight_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-highlight_off"
+  },
+  "history": {
+    "body": "<${1:i} class=\"${2:baseline}-history$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-history"
+  },
+  "home": {
+    "body": "<${1:i} class=\"${2:baseline}-home$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-home"
+  },
+  "hot_tub": {
+    "body": "<${1:i} class=\"${2:baseline}-hot_tub$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-hot_tub"
+  },
+  "hotel": {
+    "body": "<${1:i} class=\"${2:baseline}-hotel$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-hotel"
+  },
+  "hourglass_empty": {
+    "body": "<${1:i} class=\"${2:baseline}-hourglass_empty$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-hourglass_empty"
+  },
+  "hourglass_full": {
+    "body": "<${1:i} class=\"${2:baseline}-hourglass_full$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-hourglass_full"
+  },
+  "http": {
+    "body": "<${1:i} class=\"${2:baseline}-http$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-http"
+  },
+  "https": {
+    "body": "<${1:i} class=\"${2:baseline}-https$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-https"
+  },
+  "image": {
+    "body": "<${1:i} class=\"${2:baseline}-image$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-image"
+  },
+  "image_aspect_ratio": {
+    "body": "<${1:i} class=\"${2:baseline}-image_aspect_ratio$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-image_aspect_ratio"
+  },
+  "import_contacts": {
+    "body": "<${1:i} class=\"${2:baseline}-import_contacts$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-import_contacts"
+  },
+  "import_export": {
+    "body": "<${1:i} class=\"${2:baseline}-import_export$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-import_export"
+  },
+  "important_devices": {
+    "body": "<${1:i} class=\"${2:baseline}-important_devices$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-important_devices"
+  },
+  "inbox": {
+    "body": "<${1:i} class=\"${2:baseline}-inbox$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-inbox"
+  },
+  "indeterminate_check_box": {
+    "body": "<${1:i} class=\"${2:baseline}-indeterminate_check_box$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-indeterminate_check_box"
+  },
+  "info": {
+    "body": "<${1:i} class=\"${2:baseline}-info$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-info"
+  },
+  "info_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-info_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-info_outline"
+  },
+  "input": {
+    "body": "<${1:i} class=\"${2:baseline}-input$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-input"
+  },
+  "insert_chart": {
+    "body": "<${1:i} class=\"${2:baseline}-insert_chart$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-insert_chart"
+  },
+  "insert_comment": {
+    "body": "<${1:i} class=\"${2:baseline}-insert_comment$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-insert_comment"
+  },
+  "insert_drive_file": {
+    "body": "<${1:i} class=\"${2:baseline}-insert_drive_file$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-insert_drive_file"
+  },
+  "insert_emoticon": {
+    "body": "<${1:i} class=\"${2:baseline}-insert_emoticon$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-insert_emoticon"
+  },
+  "insert_invitation": {
+    "body": "<${1:i} class=\"${2:baseline}-insert_invitation$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-insert_invitation"
+  },
+  "insert_link": {
+    "body": "<${1:i} class=\"${2:baseline}-insert_link$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-insert_link"
+  },
+  "insert_photo": {
+    "body": "<${1:i} class=\"${2:baseline}-insert_photo$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-insert_photo"
+  },
+  "invert_colors": {
+    "body": "<${1:i} class=\"${2:baseline}-invert_colors$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-invert_colors"
+  },
+  "invert_colors_off": {
+    "body": "<${1:i} class=\"${2:baseline}-invert_colors_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-invert_colors_off"
+  },
+  "iso": {
+    "body": "<${1:i} class=\"${2:baseline}-iso$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-iso"
+  },
+  "keyboard": {
+    "body": "<${1:i} class=\"${2:baseline}-keyboard$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-keyboard"
+  },
+  "keyboard_arrow_down": {
+    "body": "<${1:i} class=\"${2:baseline}-keyboard_arrow_down$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-keyboard_arrow_down"
+  },
+  "keyboard_arrow_left": {
+    "body": "<${1:i} class=\"${2:baseline}-keyboard_arrow_left$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-keyboard_arrow_left"
+  },
+  "keyboard_arrow_right": {
+    "body": "<${1:i} class=\"${2:baseline}-keyboard_arrow_right$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-keyboard_arrow_right"
+  },
+  "keyboard_arrow_up": {
+    "body": "<${1:i} class=\"${2:baseline}-keyboard_arrow_up$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-keyboard_arrow_up"
+  },
+  "keyboard_backspace": {
+    "body": "<${1:i} class=\"${2:baseline}-keyboard_backspace$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-keyboard_backspace"
+  },
+  "keyboard_capslock": {
+    "body": "<${1:i} class=\"${2:baseline}-keyboard_capslock$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-keyboard_capslock"
+  },
+  "keyboard_hide": {
+    "body": "<${1:i} class=\"${2:baseline}-keyboard_hide$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-keyboard_hide"
+  },
+  "keyboard_return": {
+    "body": "<${1:i} class=\"${2:baseline}-keyboard_return$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-keyboard_return"
+  },
+  "keyboard_tab": {
+    "body": "<${1:i} class=\"${2:baseline}-keyboard_tab$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-keyboard_tab"
+  },
+  "keyboard_voice": {
+    "body": "<${1:i} class=\"${2:baseline}-keyboard_voice$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-keyboard_voice"
+  },
+  "kitchen": {
+    "body": "<${1:i} class=\"${2:baseline}-kitchen$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-kitchen"
+  },
+  "label": {
+    "body": "<${1:i} class=\"${2:baseline}-label$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-label"
+  },
+  "label_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-label_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-label_outline"
+  },
+  "landscape": {
+    "body": "<${1:i} class=\"${2:baseline}-landscape$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-landscape"
+  },
+  "language": {
+    "body": "<${1:i} class=\"${2:baseline}-language$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-language"
+  },
+  "laptop": {
+    "body": "<${1:i} class=\"${2:baseline}-laptop$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-laptop"
+  },
+  "laptop_chromebook": {
+    "body": "<${1:i} class=\"${2:baseline}-laptop_chromebook$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-laptop_chromebook"
+  },
+  "laptop_mac": {
+    "body": "<${1:i} class=\"${2:baseline}-laptop_mac$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-laptop_mac"
+  },
+  "laptop_windows": {
+    "body": "<${1:i} class=\"${2:baseline}-laptop_windows$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-laptop_windows"
+  },
+  "last_page": {
+    "body": "<${1:i} class=\"${2:baseline}-last_page$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-last_page"
+  },
+  "launch": {
+    "body": "<${1:i} class=\"${2:baseline}-launch$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-launch"
+  },
+  "layers": {
+    "body": "<${1:i} class=\"${2:baseline}-layers$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-layers"
+  },
+  "layers_clear": {
+    "body": "<${1:i} class=\"${2:baseline}-layers_clear$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-layers_clear"
+  },
+  "leak_add": {
+    "body": "<${1:i} class=\"${2:baseline}-leak_add$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-leak_add"
+  },
+  "leak_remove": {
+    "body": "<${1:i} class=\"${2:baseline}-leak_remove$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-leak_remove"
+  },
+  "lens": {
+    "body": "<${1:i} class=\"${2:baseline}-lens$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-lens"
+  },
+  "library_add": {
+    "body": "<${1:i} class=\"${2:baseline}-library_add$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-library_add"
+  },
+  "library_books": {
+    "body": "<${1:i} class=\"${2:baseline}-library_books$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-library_books"
+  },
+  "library_music": {
+    "body": "<${1:i} class=\"${2:baseline}-library_music$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-library_music"
+  },
+  "lightbulb_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-lightbulb_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-lightbulb_outline"
+  },
+  "line_style": {
+    "body": "<${1:i} class=\"${2:baseline}-line_style$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-line_style"
+  },
+  "line_weight": {
+    "body": "<${1:i} class=\"${2:baseline}-line_weight$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-line_weight"
+  },
+  "linear_scale": {
+    "body": "<${1:i} class=\"${2:baseline}-linear_scale$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-linear_scale"
+  },
+  "link": {
+    "body": "<${1:i} class=\"${2:baseline}-link$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-link"
+  },
+  "linked_camera": {
+    "body": "<${1:i} class=\"${2:baseline}-linked_camera$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-linked_camera"
+  },
+  "list": {
+    "body": "<${1:i} class=\"${2:baseline}-list$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-list"
+  },
+  "live_help": {
+    "body": "<${1:i} class=\"${2:baseline}-live_help$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-live_help"
+  },
+  "live_tv": {
+    "body": "<${1:i} class=\"${2:baseline}-live_tv$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-live_tv"
+  },
+  "local_activity": {
+    "body": "<${1:i} class=\"${2:baseline}-local_activity$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_activity"
+  },
+  "local_airport": {
+    "body": "<${1:i} class=\"${2:baseline}-local_airport$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_airport"
+  },
+  "local_atm": {
+    "body": "<${1:i} class=\"${2:baseline}-local_atm$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_atm"
+  },
+  "local_bar": {
+    "body": "<${1:i} class=\"${2:baseline}-local_bar$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_bar"
+  },
+  "local_cafe": {
+    "body": "<${1:i} class=\"${2:baseline}-local_cafe$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_cafe"
+  },
+  "local_car_wash": {
+    "body": "<${1:i} class=\"${2:baseline}-local_car_wash$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_car_wash"
+  },
+  "local_convenience_store": {
+    "body": "<${1:i} class=\"${2:baseline}-local_convenience_store$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_convenience_store"
+  },
+  "local_dining": {
+    "body": "<${1:i} class=\"${2:baseline}-local_dining$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_dining"
+  },
+  "local_drink": {
+    "body": "<${1:i} class=\"${2:baseline}-local_drink$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_drink"
+  },
+  "local_florist": {
+    "body": "<${1:i} class=\"${2:baseline}-local_florist$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_florist"
+  },
+  "local_gas_station": {
+    "body": "<${1:i} class=\"${2:baseline}-local_gas_station$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_gas_station"
+  },
+  "local_grocery_store": {
+    "body": "<${1:i} class=\"${2:baseline}-local_grocery_store$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_grocery_store"
+  },
+  "local_hospital": {
+    "body": "<${1:i} class=\"${2:baseline}-local_hospital$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_hospital"
+  },
+  "local_hotel": {
+    "body": "<${1:i} class=\"${2:baseline}-local_hotel$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_hotel"
+  },
+  "local_laundry_service": {
+    "body": "<${1:i} class=\"${2:baseline}-local_laundry_service$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_laundry_service"
+  },
+  "local_library": {
+    "body": "<${1:i} class=\"${2:baseline}-local_library$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_library"
+  },
+  "local_mall": {
+    "body": "<${1:i} class=\"${2:baseline}-local_mall$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_mall"
+  },
+  "local_movies": {
+    "body": "<${1:i} class=\"${2:baseline}-local_movies$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_movies"
+  },
+  "local_offer": {
+    "body": "<${1:i} class=\"${2:baseline}-local_offer$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_offer"
+  },
+  "local_parking": {
+    "body": "<${1:i} class=\"${2:baseline}-local_parking$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_parking"
+  },
+  "local_pharmacy": {
+    "body": "<${1:i} class=\"${2:baseline}-local_pharmacy$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_pharmacy"
+  },
+  "local_phone": {
+    "body": "<${1:i} class=\"${2:baseline}-local_phone$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_phone"
+  },
+  "local_pizza": {
+    "body": "<${1:i} class=\"${2:baseline}-local_pizza$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_pizza"
+  },
+  "local_play": {
+    "body": "<${1:i} class=\"${2:baseline}-local_play$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_play"
+  },
+  "local_post_office": {
+    "body": "<${1:i} class=\"${2:baseline}-local_post_office$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_post_office"
+  },
+  "local_printshop": {
+    "body": "<${1:i} class=\"${2:baseline}-local_printshop$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_printshop"
+  },
+  "local_see": {
+    "body": "<${1:i} class=\"${2:baseline}-local_see$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_see"
+  },
+  "local_shipping": {
+    "body": "<${1:i} class=\"${2:baseline}-local_shipping$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_shipping"
+  },
+  "local_taxi": {
+    "body": "<${1:i} class=\"${2:baseline}-local_taxi$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-local_taxi"
+  },
+  "location_city": {
+    "body": "<${1:i} class=\"${2:baseline}-location_city$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-location_city"
+  },
+  "location_disabled": {
+    "body": "<${1:i} class=\"${2:baseline}-location_disabled$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-location_disabled"
+  },
+  "location_off": {
+    "body": "<${1:i} class=\"${2:baseline}-location_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-location_off"
+  },
+  "location_on": {
+    "body": "<${1:i} class=\"${2:baseline}-location_on$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-location_on"
+  },
+  "location_searching": {
+    "body": "<${1:i} class=\"${2:baseline}-location_searching$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-location_searching"
+  },
+  "lock": {
+    "body": "<${1:i} class=\"${2:baseline}-lock$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-lock"
+  },
+  "lock_open": {
+    "body": "<${1:i} class=\"${2:baseline}-lock_open$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-lock_open"
+  },
+  "lock_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-lock_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-lock_outline"
+  },
+  "looks": {
+    "body": "<${1:i} class=\"${2:baseline}-looks$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-looks"
+  },
+  "looks_3": {
+    "body": "<${1:i} class=\"${2:baseline}-looks_3$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-looks_3"
+  },
+  "looks_4": {
+    "body": "<${1:i} class=\"${2:baseline}-looks_4$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-looks_4"
+  },
+  "looks_5": {
+    "body": "<${1:i} class=\"${2:baseline}-looks_5$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-looks_5"
+  },
+  "looks_6": {
+    "body": "<${1:i} class=\"${2:baseline}-looks_6$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-looks_6"
+  },
+  "looks_one": {
+    "body": "<${1:i} class=\"${2:baseline}-looks_one$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-looks_one"
+  },
+  "looks_two": {
+    "body": "<${1:i} class=\"${2:baseline}-looks_two$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-looks_two"
+  },
+  "loop": {
+    "body": "<${1:i} class=\"${2:baseline}-loop$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-loop"
+  },
+  "loupe": {
+    "body": "<${1:i} class=\"${2:baseline}-loupe$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-loupe"
+  },
+  "low_priority": {
+    "body": "<${1:i} class=\"${2:baseline}-low_priority$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-low_priority"
+  },
+  "loyalty": {
+    "body": "<${1:i} class=\"${2:baseline}-loyalty$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-loyalty"
+  },
+  "mail": {
+    "body": "<${1:i} class=\"${2:baseline}-mail$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-mail"
+  },
+  "mail_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-mail_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-mail_outline"
+  },
+  "map": {
+    "body": "<${1:i} class=\"${2:baseline}-map$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-map"
+  },
+  "markunread": {
+    "body": "<${1:i} class=\"${2:baseline}-markunread$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-markunread"
+  },
+  "markunread_mailbox": {
+    "body": "<${1:i} class=\"${2:baseline}-markunread_mailbox$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-markunread_mailbox"
+  },
+  "memory": {
+    "body": "<${1:i} class=\"${2:baseline}-memory$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-memory"
+  },
+  "menu": {
+    "body": "<${1:i} class=\"${2:baseline}-menu$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-menu"
+  },
+  "merge_type": {
+    "body": "<${1:i} class=\"${2:baseline}-merge_type$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-merge_type"
+  },
+  "message": {
+    "body": "<${1:i} class=\"${2:baseline}-message$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-message"
+  },
+  "mic": {
+    "body": "<${1:i} class=\"${2:baseline}-mic$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-mic"
+  },
+  "mic_none": {
+    "body": "<${1:i} class=\"${2:baseline}-mic_none$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-mic_none"
+  },
+  "mic_off": {
+    "body": "<${1:i} class=\"${2:baseline}-mic_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-mic_off"
+  },
+  "mms": {
+    "body": "<${1:i} class=\"${2:baseline}-mms$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-mms"
+  },
+  "mode_comment": {
+    "body": "<${1:i} class=\"${2:baseline}-mode_comment$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-mode_comment"
+  },
+  "mode_edit": {
+    "body": "<${1:i} class=\"${2:baseline}-mode_edit$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-mode_edit"
+  },
+  "monetization_on": {
+    "body": "<${1:i} class=\"${2:baseline}-monetization_on$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-monetization_on"
+  },
+  "money_off": {
+    "body": "<${1:i} class=\"${2:baseline}-money_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-money_off"
+  },
+  "monochrome_photos": {
+    "body": "<${1:i} class=\"${2:baseline}-monochrome_photos$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-monochrome_photos"
+  },
+  "mood": {
+    "body": "<${1:i} class=\"${2:baseline}-mood$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-mood"
+  },
+  "mood_bad": {
+    "body": "<${1:i} class=\"${2:baseline}-mood_bad$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-mood_bad"
+  },
+  "more": {
+    "body": "<${1:i} class=\"${2:baseline}-more$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-more"
+  },
+  "more_horiz": {
+    "body": "<${1:i} class=\"${2:baseline}-more_horiz$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-more_horiz"
+  },
+  "more_vert": {
+    "body": "<${1:i} class=\"${2:baseline}-more_vert$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-more_vert"
+  },
+  "motorcycle": {
+    "body": "<${1:i} class=\"${2:baseline}-motorcycle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-motorcycle"
+  },
+  "mouse": {
+    "body": "<${1:i} class=\"${2:baseline}-mouse$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-mouse"
+  },
+  "move_to_inbox": {
+    "body": "<${1:i} class=\"${2:baseline}-move_to_inbox$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-move_to_inbox"
+  },
+  "movie": {
+    "body": "<${1:i} class=\"${2:baseline}-movie$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-movie"
+  },
+  "movie_creation": {
+    "body": "<${1:i} class=\"${2:baseline}-movie_creation$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-movie_creation"
+  },
+  "movie_filter": {
+    "body": "<${1:i} class=\"${2:baseline}-movie_filter$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-movie_filter"
+  },
+  "multiline_chart": {
+    "body": "<${1:i} class=\"${2:baseline}-multiline_chart$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-multiline_chart"
+  },
+  "music_note": {
+    "body": "<${1:i} class=\"${2:baseline}-music_note$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-music_note"
+  },
+  "music_video": {
+    "body": "<${1:i} class=\"${2:baseline}-music_video$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-music_video"
+  },
+  "my_location": {
+    "body": "<${1:i} class=\"${2:baseline}-my_location$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-my_location"
+  },
+  "nature": {
+    "body": "<${1:i} class=\"${2:baseline}-nature$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-nature"
+  },
+  "nature_people": {
+    "body": "<${1:i} class=\"${2:baseline}-nature_people$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-nature_people"
+  },
+  "navigate_before": {
+    "body": "<${1:i} class=\"${2:baseline}-navigate_before$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-navigate_before"
+  },
+  "navigate_next": {
+    "body": "<${1:i} class=\"${2:baseline}-navigate_next$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-navigate_next"
+  },
+  "navigation": {
+    "body": "<${1:i} class=\"${2:baseline}-navigation$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-navigation"
+  },
+  "near_me": {
+    "body": "<${1:i} class=\"${2:baseline}-near_me$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-near_me"
+  },
+  "network_cell": {
+    "body": "<${1:i} class=\"${2:baseline}-network_cell$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-network_cell"
+  },
+  "network_check": {
+    "body": "<${1:i} class=\"${2:baseline}-network_check$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-network_check"
+  },
+  "network_locked": {
+    "body": "<${1:i} class=\"${2:baseline}-network_locked$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-network_locked"
+  },
+  "network_wifi": {
+    "body": "<${1:i} class=\"${2:baseline}-network_wifi$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-network_wifi"
+  },
+  "new_releases": {
+    "body": "<${1:i} class=\"${2:baseline}-new_releases$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-new_releases"
+  },
+  "next_week": {
+    "body": "<${1:i} class=\"${2:baseline}-next_week$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-next_week"
+  },
+  "nfc": {
+    "body": "<${1:i} class=\"${2:baseline}-nfc$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-nfc"
+  },
+  "no_encryption": {
+    "body": "<${1:i} class=\"${2:baseline}-no_encryption$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-no_encryption"
+  },
+  "no_sim": {
+    "body": "<${1:i} class=\"${2:baseline}-no_sim$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-no_sim"
+  },
+  "not_interested": {
+    "body": "<${1:i} class=\"${2:baseline}-not_interested$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-not_interested"
+  },
+  "note": {
+    "body": "<${1:i} class=\"${2:baseline}-note$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-note"
+  },
+  "note_add": {
+    "body": "<${1:i} class=\"${2:baseline}-note_add$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-note_add"
+  },
+  "notifications": {
+    "body": "<${1:i} class=\"${2:baseline}-notifications$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-notifications"
+  },
+  "notifications_active": {
+    "body": "<${1:i} class=\"${2:baseline}-notifications_active$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-notifications_active"
+  },
+  "notifications_none": {
+    "body": "<${1:i} class=\"${2:baseline}-notifications_none$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-notifications_none"
+  },
+  "notifications_off": {
+    "body": "<${1:i} class=\"${2:baseline}-notifications_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-notifications_off"
+  },
+  "notifications_paused": {
+    "body": "<${1:i} class=\"${2:baseline}-notifications_paused$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-notifications_paused"
+  },
+  "offline_pin": {
+    "body": "<${1:i} class=\"${2:baseline}-offline_pin$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-offline_pin"
+  },
+  "ondemand_video": {
+    "body": "<${1:i} class=\"${2:baseline}-ondemand_video$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-ondemand_video"
+  },
+  "opacity": {
+    "body": "<${1:i} class=\"${2:baseline}-opacity$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-opacity"
+  },
+  "open_in_browser": {
+    "body": "<${1:i} class=\"${2:baseline}-open_in_browser$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-open_in_browser"
+  },
+  "open_in_new": {
+    "body": "<${1:i} class=\"${2:baseline}-open_in_new$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-open_in_new"
+  },
+  "open_with": {
+    "body": "<${1:i} class=\"${2:baseline}-open_with$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-open_with"
+  },
+  "pages": {
+    "body": "<${1:i} class=\"${2:baseline}-pages$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-pages"
+  },
+  "pageview": {
+    "body": "<${1:i} class=\"${2:baseline}-pageview$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-pageview"
+  },
+  "palette": {
+    "body": "<${1:i} class=\"${2:baseline}-palette$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-palette"
+  },
+  "pan_tool": {
+    "body": "<${1:i} class=\"${2:baseline}-pan_tool$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-pan_tool"
+  },
+  "panorama": {
+    "body": "<${1:i} class=\"${2:baseline}-panorama$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-panorama"
+  },
+  "panorama_fish_eye": {
+    "body": "<${1:i} class=\"${2:baseline}-panorama_fish_eye$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-panorama_fish_eye"
+  },
+  "panorama_horizontal": {
+    "body": "<${1:i} class=\"${2:baseline}-panorama_horizontal$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-panorama_horizontal"
+  },
+  "panorama_vertical": {
+    "body": "<${1:i} class=\"${2:baseline}-panorama_vertical$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-panorama_vertical"
+  },
+  "panorama_wide_angle": {
+    "body": "<${1:i} class=\"${2:baseline}-panorama_wide_angle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-panorama_wide_angle"
+  },
+  "party_mode": {
+    "body": "<${1:i} class=\"${2:baseline}-party_mode$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-party_mode"
+  },
+  "pause": {
+    "body": "<${1:i} class=\"${2:baseline}-pause$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-pause"
+  },
+  "pause_circle_filled": {
+    "body": "<${1:i} class=\"${2:baseline}-pause_circle_filled$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-pause_circle_filled"
+  },
+  "pause_circle_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-pause_circle_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-pause_circle_outline"
+  },
+  "payment": {
+    "body": "<${1:i} class=\"${2:baseline}-payment$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-payment"
+  },
+  "people": {
+    "body": "<${1:i} class=\"${2:baseline}-people$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-people"
+  },
+  "people_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-people_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-people_outline"
+  },
+  "perm_camera_mic": {
+    "body": "<${1:i} class=\"${2:baseline}-perm_camera_mic$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-perm_camera_mic"
+  },
+  "perm_contact_calendar": {
+    "body": "<${1:i} class=\"${2:baseline}-perm_contact_calendar$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-perm_contact_calendar"
+  },
+  "perm_data_setting": {
+    "body": "<${1:i} class=\"${2:baseline}-perm_data_setting$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-perm_data_setting"
+  },
+  "perm_device_information": {
+    "body": "<${1:i} class=\"${2:baseline}-perm_device_information$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-perm_device_information"
+  },
+  "perm_identity": {
+    "body": "<${1:i} class=\"${2:baseline}-perm_identity$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-perm_identity"
+  },
+  "perm_media": {
+    "body": "<${1:i} class=\"${2:baseline}-perm_media$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-perm_media"
+  },
+  "perm_phone_msg": {
+    "body": "<${1:i} class=\"${2:baseline}-perm_phone_msg$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-perm_phone_msg"
+  },
+  "perm_scan_wifi": {
+    "body": "<${1:i} class=\"${2:baseline}-perm_scan_wifi$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-perm_scan_wifi"
+  },
+  "person": {
+    "body": "<${1:i} class=\"${2:baseline}-person$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-person"
+  },
+  "person_add": {
+    "body": "<${1:i} class=\"${2:baseline}-person_add$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-person_add"
+  },
+  "person_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-person_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-person_outline"
+  },
+  "person_pin": {
+    "body": "<${1:i} class=\"${2:baseline}-person_pin$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-person_pin"
+  },
+  "person_pin_circle": {
+    "body": "<${1:i} class=\"${2:baseline}-person_pin_circle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-person_pin_circle"
+  },
+  "personal_video": {
+    "body": "<${1:i} class=\"${2:baseline}-personal_video$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-personal_video"
+  },
+  "pets": {
+    "body": "<${1:i} class=\"${2:baseline}-pets$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-pets"
+  },
+  "phone": {
+    "body": "<${1:i} class=\"${2:baseline}-phone$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phone"
+  },
+  "phone_android": {
+    "body": "<${1:i} class=\"${2:baseline}-phone_android$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phone_android"
+  },
+  "phone_bluetooth_speaker": {
+    "body": "<${1:i} class=\"${2:baseline}-phone_bluetooth_speaker$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phone_bluetooth_speaker"
+  },
+  "phone_forwarded": {
+    "body": "<${1:i} class=\"${2:baseline}-phone_forwarded$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phone_forwarded"
+  },
+  "phone_in_talk": {
+    "body": "<${1:i} class=\"${2:baseline}-phone_in_talk$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phone_in_talk"
+  },
+  "phone_iphone": {
+    "body": "<${1:i} class=\"${2:baseline}-phone_iphone$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phone_iphone"
+  },
+  "phone_locked": {
+    "body": "<${1:i} class=\"${2:baseline}-phone_locked$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phone_locked"
+  },
+  "phone_missed": {
+    "body": "<${1:i} class=\"${2:baseline}-phone_missed$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phone_missed"
+  },
+  "phone_paused": {
+    "body": "<${1:i} class=\"${2:baseline}-phone_paused$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phone_paused"
+  },
+  "phonelink": {
+    "body": "<${1:i} class=\"${2:baseline}-phonelink$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phonelink"
+  },
+  "phonelink_erase": {
+    "body": "<${1:i} class=\"${2:baseline}-phonelink_erase$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phonelink_erase"
+  },
+  "phonelink_lock": {
+    "body": "<${1:i} class=\"${2:baseline}-phonelink_lock$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phonelink_lock"
+  },
+  "phonelink_off": {
+    "body": "<${1:i} class=\"${2:baseline}-phonelink_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phonelink_off"
+  },
+  "phonelink_ring": {
+    "body": "<${1:i} class=\"${2:baseline}-phonelink_ring$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phonelink_ring"
+  },
+  "phonelink_setup": {
+    "body": "<${1:i} class=\"${2:baseline}-phonelink_setup$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-phonelink_setup"
+  },
+  "photo": {
+    "body": "<${1:i} class=\"${2:baseline}-photo$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-photo"
+  },
+  "photo_album": {
+    "body": "<${1:i} class=\"${2:baseline}-photo_album$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-photo_album"
+  },
+  "photo_camera": {
+    "body": "<${1:i} class=\"${2:baseline}-photo_camera$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-photo_camera"
+  },
+  "photo_filter": {
+    "body": "<${1:i} class=\"${2:baseline}-photo_filter$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-photo_filter"
+  },
+  "photo_library": {
+    "body": "<${1:i} class=\"${2:baseline}-photo_library$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-photo_library"
+  },
+  "photo_size_select_actual": {
+    "body": "<${1:i} class=\"${2:baseline}-photo_size_select_actual$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-photo_size_select_actual"
+  },
+  "photo_size_select_large": {
+    "body": "<${1:i} class=\"${2:baseline}-photo_size_select_large$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-photo_size_select_large"
+  },
+  "photo_size_select_small": {
+    "body": "<${1:i} class=\"${2:baseline}-photo_size_select_small$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-photo_size_select_small"
+  },
+  "picture_as_pdf": {
+    "body": "<${1:i} class=\"${2:baseline}-picture_as_pdf$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-picture_as_pdf"
+  },
+  "picture_in_picture": {
+    "body": "<${1:i} class=\"${2:baseline}-picture_in_picture$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-picture_in_picture"
+  },
+  "picture_in_picture_alt": {
+    "body": "<${1:i} class=\"${2:baseline}-picture_in_picture_alt$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-picture_in_picture_alt"
+  },
+  "pie_chart": {
+    "body": "<${1:i} class=\"${2:baseline}-pie_chart$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-pie_chart"
+  },
+  "pie_chart_outlined": {
+    "body": "<${1:i} class=\"${2:baseline}-pie_chart_outlined$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-pie_chart_outlined"
+  },
+  "pin_drop": {
+    "body": "<${1:i} class=\"${2:baseline}-pin_drop$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-pin_drop"
+  },
+  "place": {
+    "body": "<${1:i} class=\"${2:baseline}-place$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-place"
+  },
+  "play_arrow": {
+    "body": "<${1:i} class=\"${2:baseline}-play_arrow$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-play_arrow"
+  },
+  "play_circle_filled": {
+    "body": "<${1:i} class=\"${2:baseline}-play_circle_filled$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-play_circle_filled"
+  },
+  "play_circle_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-play_circle_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-play_circle_outline"
+  },
+  "play_for_work": {
+    "body": "<${1:i} class=\"${2:baseline}-play_for_work$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-play_for_work"
+  },
+  "playlist_add": {
+    "body": "<${1:i} class=\"${2:baseline}-playlist_add$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-playlist_add"
+  },
+  "playlist_add_check": {
+    "body": "<${1:i} class=\"${2:baseline}-playlist_add_check$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-playlist_add_check"
+  },
+  "playlist_play": {
+    "body": "<${1:i} class=\"${2:baseline}-playlist_play$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-playlist_play"
+  },
+  "plus_one": {
+    "body": "<${1:i} class=\"${2:baseline}-plus_one$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-plus_one"
+  },
+  "poll": {
+    "body": "<${1:i} class=\"${2:baseline}-poll$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-poll"
+  },
+  "polymer": {
+    "body": "<${1:i} class=\"${2:baseline}-polymer$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-polymer"
+  },
+  "pool": {
+    "body": "<${1:i} class=\"${2:baseline}-pool$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-pool"
+  },
+  "portable_wifi_off": {
+    "body": "<${1:i} class=\"${2:baseline}-portable_wifi_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-portable_wifi_off"
+  },
+  "portrait": {
+    "body": "<${1:i} class=\"${2:baseline}-portrait$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-portrait"
+  },
+  "power": {
+    "body": "<${1:i} class=\"${2:baseline}-power$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-power"
+  },
+  "power_input": {
+    "body": "<${1:i} class=\"${2:baseline}-power_input$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-power_input"
+  },
+  "power_settings_new": {
+    "body": "<${1:i} class=\"${2:baseline}-power_settings_new$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-power_settings_new"
+  },
+  "pregnant_woman": {
+    "body": "<${1:i} class=\"${2:baseline}-pregnant_woman$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-pregnant_woman"
+  },
+  "present_to_all": {
+    "body": "<${1:i} class=\"${2:baseline}-present_to_all$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-present_to_all"
+  },
+  "print": {
+    "body": "<${1:i} class=\"${2:baseline}-print$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-print"
+  },
+  "priority_high": {
+    "body": "<${1:i} class=\"${2:baseline}-priority_high$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-priority_high"
+  },
+  "public": {
+    "body": "<${1:i} class=\"${2:baseline}-public$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-public"
+  },
+  "publish": {
+    "body": "<${1:i} class=\"${2:baseline}-publish$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-publish"
+  },
+  "query_builder": {
+    "body": "<${1:i} class=\"${2:baseline}-query_builder$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-query_builder"
+  },
+  "question_answer": {
+    "body": "<${1:i} class=\"${2:baseline}-question_answer$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-question_answer"
+  },
+  "queue": {
+    "body": "<${1:i} class=\"${2:baseline}-queue$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-queue"
+  },
+  "queue_music": {
+    "body": "<${1:i} class=\"${2:baseline}-queue_music$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-queue_music"
+  },
+  "queue_play_next": {
+    "body": "<${1:i} class=\"${2:baseline}-queue_play_next$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-queue_play_next"
+  },
+  "radio": {
+    "body": "<${1:i} class=\"${2:baseline}-radio$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-radio"
+  },
+  "radio_button_checked": {
+    "body": "<${1:i} class=\"${2:baseline}-radio_button_checked$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-radio_button_checked"
+  },
+  "radio_button_unchecked": {
+    "body": "<${1:i} class=\"${2:baseline}-radio_button_unchecked$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-radio_button_unchecked"
+  },
+  "rate_review": {
+    "body": "<${1:i} class=\"${2:baseline}-rate_review$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-rate_review"
+  },
+  "receipt": {
+    "body": "<${1:i} class=\"${2:baseline}-receipt$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-receipt"
+  },
+  "recent_actors": {
+    "body": "<${1:i} class=\"${2:baseline}-recent_actors$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-recent_actors"
+  },
+  "record_voice_over": {
+    "body": "<${1:i} class=\"${2:baseline}-record_voice_over$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-record_voice_over"
+  },
+  "redeem": {
+    "body": "<${1:i} class=\"${2:baseline}-redeem$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-redeem"
+  },
+  "redo": {
+    "body": "<${1:i} class=\"${2:baseline}-redo$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-redo"
+  },
+  "refresh": {
+    "body": "<${1:i} class=\"${2:baseline}-refresh$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-refresh"
+  },
+  "remove": {
+    "body": "<${1:i} class=\"${2:baseline}-remove$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-remove"
+  },
+  "remove_circle": {
+    "body": "<${1:i} class=\"${2:baseline}-remove_circle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-remove_circle"
+  },
+  "remove_circle_outline": {
+    "body": "<${1:i} class=\"${2:baseline}-remove_circle_outline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-remove_circle_outline"
+  },
+  "remove_from_queue": {
+    "body": "<${1:i} class=\"${2:baseline}-remove_from_queue$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-remove_from_queue"
+  },
+  "remove_red_eye": {
+    "body": "<${1:i} class=\"${2:baseline}-remove_red_eye$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-remove_red_eye"
+  },
+  "remove_shopping_cart": {
+    "body": "<${1:i} class=\"${2:baseline}-remove_shopping_cart$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-remove_shopping_cart"
+  },
+  "reorder": {
+    "body": "<${1:i} class=\"${2:baseline}-reorder$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-reorder"
+  },
+  "repeat": {
+    "body": "<${1:i} class=\"${2:baseline}-repeat$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-repeat"
+  },
+  "repeat_one": {
+    "body": "<${1:i} class=\"${2:baseline}-repeat_one$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-repeat_one"
+  },
+  "replay": {
+    "body": "<${1:i} class=\"${2:baseline}-replay$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-replay"
+  },
+  "replay_10": {
+    "body": "<${1:i} class=\"${2:baseline}-replay_10$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-replay_10"
+  },
+  "replay_30": {
+    "body": "<${1:i} class=\"${2:baseline}-replay_30$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-replay_30"
+  },
+  "replay_5": {
+    "body": "<${1:i} class=\"${2:baseline}-replay_5$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-replay_5"
+  },
+  "reply": {
+    "body": "<${1:i} class=\"${2:baseline}-reply$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-reply"
+  },
+  "reply_all": {
+    "body": "<${1:i} class=\"${2:baseline}-reply_all$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-reply_all"
+  },
+  "report": {
+    "body": "<${1:i} class=\"${2:baseline}-report$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-report"
+  },
+  "report_problem": {
+    "body": "<${1:i} class=\"${2:baseline}-report_problem$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-report_problem"
+  },
+  "restaurant": {
+    "body": "<${1:i} class=\"${2:baseline}-restaurant$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-restaurant"
+  },
+  "restaurant_menu": {
+    "body": "<${1:i} class=\"${2:baseline}-restaurant_menu$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-restaurant_menu"
+  },
+  "restore": {
+    "body": "<${1:i} class=\"${2:baseline}-restore$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-restore"
+  },
+  "restore_page": {
+    "body": "<${1:i} class=\"${2:baseline}-restore_page$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-restore_page"
+  },
+  "ring_volume": {
+    "body": "<${1:i} class=\"${2:baseline}-ring_volume$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-ring_volume"
+  },
+  "room": {
+    "body": "<${1:i} class=\"${2:baseline}-room$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-room"
+  },
+  "room_service": {
+    "body": "<${1:i} class=\"${2:baseline}-room_service$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-room_service"
+  },
+  "rotate_90_degrees_ccw": {
+    "body": "<${1:i} class=\"${2:baseline}-rotate_90_degrees_ccw$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-rotate_90_degrees_ccw"
+  },
+  "rotate_left": {
+    "body": "<${1:i} class=\"${2:baseline}-rotate_left$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-rotate_left"
+  },
+  "rotate_right": {
+    "body": "<${1:i} class=\"${2:baseline}-rotate_right$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-rotate_right"
+  },
+  "rounded_corner": {
+    "body": "<${1:i} class=\"${2:baseline}-rounded_corner$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-rounded_corner"
+  },
+  "router": {
+    "body": "<${1:i} class=\"${2:baseline}-router$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-router"
+  },
+  "rowing": {
+    "body": "<${1:i} class=\"${2:baseline}-rowing$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-rowing"
+  },
+  "rss_feed": {
+    "body": "<${1:i} class=\"${2:baseline}-rss_feed$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-rss_feed"
+  },
+  "rv_hookup": {
+    "body": "<${1:i} class=\"${2:baseline}-rv_hookup$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-rv_hookup"
+  },
+  "satellite": {
+    "body": "<${1:i} class=\"${2:baseline}-satellite$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-satellite"
+  },
+  "save": {
+    "body": "<${1:i} class=\"${2:baseline}-save$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-save"
+  },
+  "scanner": {
+    "body": "<${1:i} class=\"${2:baseline}-scanner$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-scanner"
+  },
+  "schedule": {
+    "body": "<${1:i} class=\"${2:baseline}-schedule$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-schedule"
+  },
+  "school": {
+    "body": "<${1:i} class=\"${2:baseline}-school$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-school"
+  },
+  "screen_lock_landscape": {
+    "body": "<${1:i} class=\"${2:baseline}-screen_lock_landscape$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-screen_lock_landscape"
+  },
+  "screen_lock_portrait": {
+    "body": "<${1:i} class=\"${2:baseline}-screen_lock_portrait$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-screen_lock_portrait"
+  },
+  "screen_lock_rotation": {
+    "body": "<${1:i} class=\"${2:baseline}-screen_lock_rotation$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-screen_lock_rotation"
+  },
+  "screen_rotation": {
+    "body": "<${1:i} class=\"${2:baseline}-screen_rotation$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-screen_rotation"
+  },
+  "screen_share": {
+    "body": "<${1:i} class=\"${2:baseline}-screen_share$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-screen_share"
+  },
+  "sd_card": {
+    "body": "<${1:i} class=\"${2:baseline}-sd_card$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sd_card"
+  },
+  "sd_storage": {
+    "body": "<${1:i} class=\"${2:baseline}-sd_storage$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sd_storage"
+  },
+  "search": {
+    "body": "<${1:i} class=\"${2:baseline}-search$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-search"
+  },
+  "security": {
+    "body": "<${1:i} class=\"${2:baseline}-security$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-security"
+  },
+  "select_all": {
+    "body": "<${1:i} class=\"${2:baseline}-select_all$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-select_all"
+  },
+  "send": {
+    "body": "<${1:i} class=\"${2:baseline}-send$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-send"
+  },
+  "sentiment_dissatisfied": {
+    "body": "<${1:i} class=\"${2:baseline}-sentiment_dissatisfied$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sentiment_dissatisfied"
+  },
+  "sentiment_neutral": {
+    "body": "<${1:i} class=\"${2:baseline}-sentiment_neutral$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sentiment_neutral"
+  },
+  "sentiment_satisfied": {
+    "body": "<${1:i} class=\"${2:baseline}-sentiment_satisfied$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sentiment_satisfied"
+  },
+  "sentiment_very_dissatisfied": {
+    "body": "<${1:i} class=\"${2:baseline}-sentiment_very_dissatisfied$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sentiment_very_dissatisfied"
+  },
+  "sentiment_very_satisfied": {
+    "body": "<${1:i} class=\"${2:baseline}-sentiment_very_satisfied$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sentiment_very_satisfied"
+  },
+  "settings": {
+    "body": "<${1:i} class=\"${2:baseline}-settings$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings"
+  },
+  "settings_applications": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_applications$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_applications"
+  },
+  "settings_backup_restore": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_backup_restore$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_backup_restore"
+  },
+  "settings_bluetooth": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_bluetooth$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_bluetooth"
+  },
+  "settings_brightness": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_brightness$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_brightness"
+  },
+  "settings_cell": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_cell$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_cell"
+  },
+  "settings_ethernet": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_ethernet$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_ethernet"
+  },
+  "settings_input_antenna": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_input_antenna$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_input_antenna"
+  },
+  "settings_input_component": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_input_component$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_input_component"
+  },
+  "settings_input_composite": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_input_composite$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_input_composite"
+  },
+  "settings_input_hdmi": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_input_hdmi$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_input_hdmi"
+  },
+  "settings_input_svideo": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_input_svideo$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_input_svideo"
+  },
+  "settings_overscan": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_overscan$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_overscan"
+  },
+  "settings_phone": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_phone$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_phone"
+  },
+  "settings_power": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_power$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_power"
+  },
+  "settings_remote": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_remote$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_remote"
+  },
+  "settings_system_daydream": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_system_daydream$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_system_daydream"
+  },
+  "settings_voice": {
+    "body": "<${1:i} class=\"${2:baseline}-settings_voice$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-settings_voice"
+  },
+  "share": {
+    "body": "<${1:i} class=\"${2:baseline}-share$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-share"
+  },
+  "shop": {
+    "body": "<${1:i} class=\"${2:baseline}-shop$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-shop"
+  },
+  "shop_two": {
+    "body": "<${1:i} class=\"${2:baseline}-shop_two$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-shop_two"
+  },
+  "shopping_basket": {
+    "body": "<${1:i} class=\"${2:baseline}-shopping_basket$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-shopping_basket"
+  },
+  "shopping_cart": {
+    "body": "<${1:i} class=\"${2:baseline}-shopping_cart$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-shopping_cart"
+  },
+  "short_text": {
+    "body": "<${1:i} class=\"${2:baseline}-short_text$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-short_text"
+  },
+  "show_chart": {
+    "body": "<${1:i} class=\"${2:baseline}-show_chart$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-show_chart"
+  },
+  "shuffle": {
+    "body": "<${1:i} class=\"${2:baseline}-shuffle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-shuffle"
+  },
+  "signal_cellular_4_bar": {
+    "body": "<${1:i} class=\"${2:baseline}-signal_cellular_4_bar$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-signal_cellular_4_bar"
+  },
+  "signal_cellular_connected_no_internet_4_bar": {
+    "body": "<${1:i} class=\"${2:baseline}-signal_cellular_connected_no_internet_4_bar$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-signal_cellular_connected_no_internet_4_bar"
+  },
+  "signal_cellular_no_sim": {
+    "body": "<${1:i} class=\"${2:baseline}-signal_cellular_no_sim$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-signal_cellular_no_sim"
+  },
+  "signal_cellular_null": {
+    "body": "<${1:i} class=\"${2:baseline}-signal_cellular_null$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-signal_cellular_null"
+  },
+  "signal_cellular_off": {
+    "body": "<${1:i} class=\"${2:baseline}-signal_cellular_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-signal_cellular_off"
+  },
+  "signal_wifi_4_bar": {
+    "body": "<${1:i} class=\"${2:baseline}-signal_wifi_4_bar$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-signal_wifi_4_bar"
+  },
+  "signal_wifi_4_bar_lock": {
+    "body": "<${1:i} class=\"${2:baseline}-signal_wifi_4_bar_lock$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-signal_wifi_4_bar_lock"
+  },
+  "signal_wifi_off": {
+    "body": "<${1:i} class=\"${2:baseline}-signal_wifi_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-signal_wifi_off"
+  },
+  "sim_card": {
+    "body": "<${1:i} class=\"${2:baseline}-sim_card$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sim_card"
+  },
+  "sim_card_alert": {
+    "body": "<${1:i} class=\"${2:baseline}-sim_card_alert$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sim_card_alert"
+  },
+  "skip_next": {
+    "body": "<${1:i} class=\"${2:baseline}-skip_next$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-skip_next"
+  },
+  "skip_previous": {
+    "body": "<${1:i} class=\"${2:baseline}-skip_previous$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-skip_previous"
+  },
+  "slideshow": {
+    "body": "<${1:i} class=\"${2:baseline}-slideshow$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-slideshow"
+  },
+  "slow_motion_video": {
+    "body": "<${1:i} class=\"${2:baseline}-slow_motion_video$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-slow_motion_video"
+  },
+  "smartphone": {
+    "body": "<${1:i} class=\"${2:baseline}-smartphone$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-smartphone"
+  },
+  "smoke_free": {
+    "body": "<${1:i} class=\"${2:baseline}-smoke_free$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-smoke_free"
+  },
+  "smoking_rooms": {
+    "body": "<${1:i} class=\"${2:baseline}-smoking_rooms$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-smoking_rooms"
+  },
+  "sms": {
+    "body": "<${1:i} class=\"${2:baseline}-sms$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sms"
+  },
+  "sms_failed": {
+    "body": "<${1:i} class=\"${2:baseline}-sms_failed$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sms_failed"
+  },
+  "snooze": {
+    "body": "<${1:i} class=\"${2:baseline}-snooze$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-snooze"
+  },
+  "sort": {
+    "body": "<${1:i} class=\"${2:baseline}-sort$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sort"
+  },
+  "sort_by_alpha": {
+    "body": "<${1:i} class=\"${2:baseline}-sort_by_alpha$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sort_by_alpha"
+  },
+  "spa": {
+    "body": "<${1:i} class=\"${2:baseline}-spa$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-spa"
+  },
+  "space_bar": {
+    "body": "<${1:i} class=\"${2:baseline}-space_bar$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-space_bar"
+  },
+  "speaker": {
+    "body": "<${1:i} class=\"${2:baseline}-speaker$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-speaker"
+  },
+  "speaker_group": {
+    "body": "<${1:i} class=\"${2:baseline}-speaker_group$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-speaker_group"
+  },
+  "speaker_notes": {
+    "body": "<${1:i} class=\"${2:baseline}-speaker_notes$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-speaker_notes"
+  },
+  "speaker_notes_off": {
+    "body": "<${1:i} class=\"${2:baseline}-speaker_notes_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-speaker_notes_off"
+  },
+  "speaker_phone": {
+    "body": "<${1:i} class=\"${2:baseline}-speaker_phone$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-speaker_phone"
+  },
+  "spellcheck": {
+    "body": "<${1:i} class=\"${2:baseline}-spellcheck$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-spellcheck"
+  },
+  "star": {
+    "body": "<${1:i} class=\"${2:baseline}-star$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-star"
+  },
+  "star_border": {
+    "body": "<${1:i} class=\"${2:baseline}-star_border$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-star_border"
+  },
+  "star_half": {
+    "body": "<${1:i} class=\"${2:baseline}-star_half$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-star_half"
+  },
+  "stars": {
+    "body": "<${1:i} class=\"${2:baseline}-stars$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-stars"
+  },
+  "stay_current_landscape": {
+    "body": "<${1:i} class=\"${2:baseline}-stay_current_landscape$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-stay_current_landscape"
+  },
+  "stay_current_portrait": {
+    "body": "<${1:i} class=\"${2:baseline}-stay_current_portrait$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-stay_current_portrait"
+  },
+  "stay_primary_landscape": {
+    "body": "<${1:i} class=\"${2:baseline}-stay_primary_landscape$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-stay_primary_landscape"
+  },
+  "stay_primary_portrait": {
+    "body": "<${1:i} class=\"${2:baseline}-stay_primary_portrait$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-stay_primary_portrait"
+  },
+  "stop": {
+    "body": "<${1:i} class=\"${2:baseline}-stop$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-stop"
+  },
+  "stop_screen_share": {
+    "body": "<${1:i} class=\"${2:baseline}-stop_screen_share$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-stop_screen_share"
+  },
+  "storage": {
+    "body": "<${1:i} class=\"${2:baseline}-storage$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-storage"
+  },
+  "store": {
+    "body": "<${1:i} class=\"${2:baseline}-store$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-store"
+  },
+  "store_mall_directory": {
+    "body": "<${1:i} class=\"${2:baseline}-store_mall_directory$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-store_mall_directory"
+  },
+  "straighten": {
+    "body": "<${1:i} class=\"${2:baseline}-straighten$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-straighten"
+  },
+  "streetview": {
+    "body": "<${1:i} class=\"${2:baseline}-streetview$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-streetview"
+  },
+  "strikethrough_s": {
+    "body": "<${1:i} class=\"${2:baseline}-strikethrough_s$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-strikethrough_s"
+  },
+  "style": {
+    "body": "<${1:i} class=\"${2:baseline}-style$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-style"
+  },
+  "subdirectory_arrow_left": {
+    "body": "<${1:i} class=\"${2:baseline}-subdirectory_arrow_left$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-subdirectory_arrow_left"
+  },
+  "subdirectory_arrow_right": {
+    "body": "<${1:i} class=\"${2:baseline}-subdirectory_arrow_right$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-subdirectory_arrow_right"
+  },
+  "subject": {
+    "body": "<${1:i} class=\"${2:baseline}-subject$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-subject"
+  },
+  "subscriptions": {
+    "body": "<${1:i} class=\"${2:baseline}-subscriptions$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-subscriptions"
+  },
+  "subtitles": {
+    "body": "<${1:i} class=\"${2:baseline}-subtitles$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-subtitles"
+  },
+  "subway": {
+    "body": "<${1:i} class=\"${2:baseline}-subway$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-subway"
+  },
+  "supervisor_account": {
+    "body": "<${1:i} class=\"${2:baseline}-supervisor_account$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-supervisor_account"
+  },
+  "surround_sound": {
+    "body": "<${1:i} class=\"${2:baseline}-surround_sound$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-surround_sound"
+  },
+  "swap_calls": {
+    "body": "<${1:i} class=\"${2:baseline}-swap_calls$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-swap_calls"
+  },
+  "swap_horiz": {
+    "body": "<${1:i} class=\"${2:baseline}-swap_horiz$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-swap_horiz"
+  },
+  "swap_vert": {
+    "body": "<${1:i} class=\"${2:baseline}-swap_vert$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-swap_vert"
+  },
+  "swap_vertical_circle": {
+    "body": "<${1:i} class=\"${2:baseline}-swap_vertical_circle$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-swap_vertical_circle"
+  },
+  "switch_camera": {
+    "body": "<${1:i} class=\"${2:baseline}-switch_camera$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-switch_camera"
+  },
+  "switch_video": {
+    "body": "<${1:i} class=\"${2:baseline}-switch_video$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-switch_video"
+  },
+  "sync": {
+    "body": "<${1:i} class=\"${2:baseline}-sync$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sync"
+  },
+  "sync_disabled": {
+    "body": "<${1:i} class=\"${2:baseline}-sync_disabled$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sync_disabled"
+  },
+  "sync_problem": {
+    "body": "<${1:i} class=\"${2:baseline}-sync_problem$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-sync_problem"
+  },
+  "system_update": {
+    "body": "<${1:i} class=\"${2:baseline}-system_update$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-system_update"
+  },
+  "system_update_alt": {
+    "body": "<${1:i} class=\"${2:baseline}-system_update_alt$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-system_update_alt"
+  },
+  "tab": {
+    "body": "<${1:i} class=\"${2:baseline}-tab$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-tab"
+  },
+  "tab_unselected": {
+    "body": "<${1:i} class=\"${2:baseline}-tab_unselected$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-tab_unselected"
+  },
+  "tablet": {
+    "body": "<${1:i} class=\"${2:baseline}-tablet$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-tablet"
+  },
+  "tablet_android": {
+    "body": "<${1:i} class=\"${2:baseline}-tablet_android$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-tablet_android"
+  },
+  "tablet_mac": {
+    "body": "<${1:i} class=\"${2:baseline}-tablet_mac$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-tablet_mac"
+  },
+  "tag_faces": {
+    "body": "<${1:i} class=\"${2:baseline}-tag_faces$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-tag_faces"
+  },
+  "tap_and_play": {
+    "body": "<${1:i} class=\"${2:baseline}-tap_and_play$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-tap_and_play"
+  },
+  "terrain": {
+    "body": "<${1:i} class=\"${2:baseline}-terrain$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-terrain"
+  },
+  "text_fields": {
+    "body": "<${1:i} class=\"${2:baseline}-text_fields$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-text_fields"
+  },
+  "text_format": {
+    "body": "<${1:i} class=\"${2:baseline}-text_format$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-text_format"
+  },
+  "textsms": {
+    "body": "<${1:i} class=\"${2:baseline}-textsms$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-textsms"
+  },
+  "texture": {
+    "body": "<${1:i} class=\"${2:baseline}-texture$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-texture"
+  },
+  "theaters": {
+    "body": "<${1:i} class=\"${2:baseline}-theaters$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-theaters"
+  },
+  "thumb_down": {
+    "body": "<${1:i} class=\"${2:baseline}-thumb_down$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-thumb_down"
+  },
+  "thumb_up": {
+    "body": "<${1:i} class=\"${2:baseline}-thumb_up$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-thumb_up"
+  },
+  "thumbs_up_down": {
+    "body": "<${1:i} class=\"${2:baseline}-thumbs_up_down$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-thumbs_up_down"
+  },
+  "time_to_leave": {
+    "body": "<${1:i} class=\"${2:baseline}-time_to_leave$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-time_to_leave"
+  },
+  "timelapse": {
+    "body": "<${1:i} class=\"${2:baseline}-timelapse$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-timelapse"
+  },
+  "timeline": {
+    "body": "<${1:i} class=\"${2:baseline}-timeline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-timeline"
+  },
+  "timer": {
+    "body": "<${1:i} class=\"${2:baseline}-timer$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-timer"
+  },
+  "timer_10": {
+    "body": "<${1:i} class=\"${2:baseline}-timer_10$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-timer_10"
+  },
+  "timer_3": {
+    "body": "<${1:i} class=\"${2:baseline}-timer_3$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-timer_3"
+  },
+  "timer_off": {
+    "body": "<${1:i} class=\"${2:baseline}-timer_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-timer_off"
+  },
+  "title": {
+    "body": "<${1:i} class=\"${2:baseline}-title$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-title"
+  },
+  "toc": {
+    "body": "<${1:i} class=\"${2:baseline}-toc$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-toc"
+  },
+  "today": {
+    "body": "<${1:i} class=\"${2:baseline}-today$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-today"
+  },
+  "toll": {
+    "body": "<${1:i} class=\"${2:baseline}-toll$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-toll"
+  },
+  "tonality": {
+    "body": "<${1:i} class=\"${2:baseline}-tonality$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-tonality"
+  },
+  "touch_app": {
+    "body": "<${1:i} class=\"${2:baseline}-touch_app$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-touch_app"
+  },
+  "toys": {
+    "body": "<${1:i} class=\"${2:baseline}-toys$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-toys"
+  },
+  "track_changes": {
+    "body": "<${1:i} class=\"${2:baseline}-track_changes$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-track_changes"
+  },
+  "traffic": {
+    "body": "<${1:i} class=\"${2:baseline}-traffic$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-traffic"
+  },
+  "train": {
+    "body": "<${1:i} class=\"${2:baseline}-train$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-train"
+  },
+  "tram": {
+    "body": "<${1:i} class=\"${2:baseline}-tram$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-tram"
+  },
+  "transfer_within_a_station": {
+    "body": "<${1:i} class=\"${2:baseline}-transfer_within_a_station$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-transfer_within_a_station"
+  },
+  "transform": {
+    "body": "<${1:i} class=\"${2:baseline}-transform$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-transform"
+  },
+  "translate": {
+    "body": "<${1:i} class=\"${2:baseline}-translate$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-translate"
+  },
+  "trending_down": {
+    "body": "<${1:i} class=\"${2:baseline}-trending_down$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-trending_down"
+  },
+  "trending_flat": {
+    "body": "<${1:i} class=\"${2:baseline}-trending_flat$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-trending_flat"
+  },
+  "trending_up": {
+    "body": "<${1:i} class=\"${2:baseline}-trending_up$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-trending_up"
+  },
+  "tune": {
+    "body": "<${1:i} class=\"${2:baseline}-tune$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-tune"
+  },
+  "turned_in": {
+    "body": "<${1:i} class=\"${2:baseline}-turned_in$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-turned_in"
+  },
+  "turned_in_not": {
+    "body": "<${1:i} class=\"${2:baseline}-turned_in_not$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-turned_in_not"
+  },
+  "tv": {
+    "body": "<${1:i} class=\"${2:baseline}-tv$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-tv"
+  },
+  "unarchive": {
+    "body": "<${1:i} class=\"${2:baseline}-unarchive$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-unarchive"
+  },
+  "undo": {
+    "body": "<${1:i} class=\"${2:baseline}-undo$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-undo"
+  },
+  "unfold_less": {
+    "body": "<${1:i} class=\"${2:baseline}-unfold_less$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-unfold_less"
+  },
+  "unfold_more": {
+    "body": "<${1:i} class=\"${2:baseline}-unfold_more$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-unfold_more"
+  },
+  "update": {
+    "body": "<${1:i} class=\"${2:baseline}-update$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-update"
+  },
+  "usb": {
+    "body": "<${1:i} class=\"${2:baseline}-usb$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-usb"
+  },
+  "verified_user": {
+    "body": "<${1:i} class=\"${2:baseline}-verified_user$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-verified_user"
+  },
+  "vertical_align_bottom": {
+    "body": "<${1:i} class=\"${2:baseline}-vertical_align_bottom$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-vertical_align_bottom"
+  },
+  "vertical_align_center": {
+    "body": "<${1:i} class=\"${2:baseline}-vertical_align_center$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-vertical_align_center"
+  },
+  "vertical_align_top": {
+    "body": "<${1:i} class=\"${2:baseline}-vertical_align_top$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-vertical_align_top"
+  },
+  "vibration": {
+    "body": "<${1:i} class=\"${2:baseline}-vibration$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-vibration"
+  },
+  "video_call": {
+    "body": "<${1:i} class=\"${2:baseline}-video_call$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-video_call"
+  },
+  "video_label": {
+    "body": "<${1:i} class=\"${2:baseline}-video_label$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-video_label"
+  },
+  "video_library": {
+    "body": "<${1:i} class=\"${2:baseline}-video_library$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-video_library"
+  },
+  "videocam": {
+    "body": "<${1:i} class=\"${2:baseline}-videocam$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-videocam"
+  },
+  "videocam_off": {
+    "body": "<${1:i} class=\"${2:baseline}-videocam_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-videocam_off"
+  },
+  "videogame_asset": {
+    "body": "<${1:i} class=\"${2:baseline}-videogame_asset$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-videogame_asset"
+  },
+  "view_agenda": {
+    "body": "<${1:i} class=\"${2:baseline}-view_agenda$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_agenda"
+  },
+  "view_array": {
+    "body": "<${1:i} class=\"${2:baseline}-view_array$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_array"
+  },
+  "view_carousel": {
+    "body": "<${1:i} class=\"${2:baseline}-view_carousel$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_carousel"
+  },
+  "view_column": {
+    "body": "<${1:i} class=\"${2:baseline}-view_column$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_column"
+  },
+  "view_comfy": {
+    "body": "<${1:i} class=\"${2:baseline}-view_comfy$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_comfy"
+  },
+  "view_compact": {
+    "body": "<${1:i} class=\"${2:baseline}-view_compact$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_compact"
+  },
+  "view_day": {
+    "body": "<${1:i} class=\"${2:baseline}-view_day$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_day"
+  },
+  "view_headline": {
+    "body": "<${1:i} class=\"${2:baseline}-view_headline$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_headline"
+  },
+  "view_list": {
+    "body": "<${1:i} class=\"${2:baseline}-view_list$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_list"
+  },
+  "view_module": {
+    "body": "<${1:i} class=\"${2:baseline}-view_module$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_module"
+  },
+  "view_quilt": {
+    "body": "<${1:i} class=\"${2:baseline}-view_quilt$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_quilt"
+  },
+  "view_stream": {
+    "body": "<${1:i} class=\"${2:baseline}-view_stream$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_stream"
+  },
+  "view_week": {
+    "body": "<${1:i} class=\"${2:baseline}-view_week$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-view_week"
+  },
+  "vignette": {
+    "body": "<${1:i} class=\"${2:baseline}-vignette$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-vignette"
+  },
+  "visibility": {
+    "body": "<${1:i} class=\"${2:baseline}-visibility$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-visibility"
+  },
+  "visibility_off": {
+    "body": "<${1:i} class=\"${2:baseline}-visibility_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-visibility_off"
+  },
+  "voice_chat": {
+    "body": "<${1:i} class=\"${2:baseline}-voice_chat$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-voice_chat"
+  },
+  "voicemail": {
+    "body": "<${1:i} class=\"${2:baseline}-voicemail$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-voicemail"
+  },
+  "volume_down": {
+    "body": "<${1:i} class=\"${2:baseline}-volume_down$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-volume_down"
+  },
+  "volume_mute": {
+    "body": "<${1:i} class=\"${2:baseline}-volume_mute$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-volume_mute"
+  },
+  "volume_off": {
+    "body": "<${1:i} class=\"${2:baseline}-volume_off$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-volume_off"
+  },
+  "volume_up": {
+    "body": "<${1:i} class=\"${2:baseline}-volume_up$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-volume_up"
+  },
+  "vpn_key": {
+    "body": "<${1:i} class=\"${2:baseline}-vpn_key$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-vpn_key"
+  },
+  "vpn_lock": {
+    "body": "<${1:i} class=\"${2:baseline}-vpn_lock$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-vpn_lock"
+  },
+  "wallpaper": {
+    "body": "<${1:i} class=\"${2:baseline}-wallpaper$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-wallpaper"
+  },
+  "warning": {
+    "body": "<${1:i} class=\"${2:baseline}-warning$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-warning"
+  },
+  "watch": {
+    "body": "<${1:i} class=\"${2:baseline}-watch$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-watch"
+  },
+  "watch_later": {
+    "body": "<${1:i} class=\"${2:baseline}-watch_later$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-watch_later"
+  },
+  "wb_auto": {
+    "body": "<${1:i} class=\"${2:baseline}-wb_auto$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-wb_auto"
+  },
+  "wb_cloudy": {
+    "body": "<${1:i} class=\"${2:baseline}-wb_cloudy$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-wb_cloudy"
+  },
+  "wb_incandescent": {
+    "body": "<${1:i} class=\"${2:baseline}-wb_incandescent$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-wb_incandescent"
+  },
+  "wb_iridescent": {
+    "body": "<${1:i} class=\"${2:baseline}-wb_iridescent$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-wb_iridescent"
+  },
+  "wb_sunny": {
+    "body": "<${1:i} class=\"${2:baseline}-wb_sunny$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-wb_sunny"
+  },
+  "wc": {
+    "body": "<${1:i} class=\"${2:baseline}-wc$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-wc"
+  },
+  "web": {
+    "body": "<${1:i} class=\"${2:baseline}-web$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-web"
+  },
+  "web_asset": {
+    "body": "<${1:i} class=\"${2:baseline}-web_asset$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-web_asset"
+  },
+  "weekend": {
+    "body": "<${1:i} class=\"${2:baseline}-weekend$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-weekend"
+  },
+  "whatshot": {
+    "body": "<${1:i} class=\"${2:baseline}-whatshot$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-whatshot"
+  },
+  "widgets": {
+    "body": "<${1:i} class=\"${2:baseline}-widgets$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-widgets"
+  },
+  "wifi": {
+    "body": "<${1:i} class=\"${2:baseline}-wifi$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-wifi"
+  },
+  "wifi_lock": {
+    "body": "<${1:i} class=\"${2:baseline}-wifi_lock$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-wifi_lock"
+  },
+  "wifi_tethering": {
+    "body": "<${1:i} class=\"${2:baseline}-wifi_tethering$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-wifi_tethering"
+  },
+  "work": {
+    "body": "<${1:i} class=\"${2:baseline}-work$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-work"
+  },
+  "wrap_text": {
+    "body": "<${1:i} class=\"${2:baseline}-wrap_text$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-wrap_text"
+  },
+  "youtube_searched_for": {
+    "body": "<${1:i} class=\"${2:baseline}-youtube_searched_for$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-youtube_searched_for"
+  },
+  "zoom_in": {
+    "body": "<${1:i} class=\"${2:baseline}-zoom_in$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-zoom_in"
+  },
+  "zoom_out": {
+    "body": "<${1:i} class=\"${2:baseline}-zoom_out$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-zoom_out"
+  },
+  "zoom_out_map": {
+    "body": "<${1:i} class=\"${2:baseline}-zoom_out_map$3\"></${1:i}>$0",
+    "description": "<i>",
+    "prefix": "mio-zoom_out_map"
+  }
+}

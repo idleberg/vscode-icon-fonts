@@ -1,1397 +1,2922 @@
 {
-  "wi-alien": {
-    "body": "<${1:i} className=\"wi wi-alien$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-alien"
-  },
-  "wi-barometer": {
-    "body": "<${1:i} className=\"wi wi-barometer$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-barometer"
-  },
-  "wi-celsius": {
-    "body": "<${1:i} className=\"wi wi-celsius$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-celsius"
-  },
-  "wi-cloud": {
-    "body": "<${1:i} className=\"wi wi-cloud$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-cloud"
-  },
-  "wi-cloud-down": {
-    "body": "<${1:i} className=\"wi wi-cloud-down$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-cloud-down"
-  },
-  "wi-cloud-refresh": {
-    "body": "<${1:i} className=\"wi wi-cloud-refresh$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-cloud-refresh"
-  },
-  "wi-cloud-up": {
-    "body": "<${1:i} className=\"wi wi-cloud-up$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-cloud-up"
-  },
-  "wi-cloudy": {
-    "body": "<${1:i} className=\"wi wi-cloudy$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-cloudy"
-  },
-  "wi-cloudy-gusts": {
-    "body": "<${1:i} className=\"wi wi-cloudy-gusts$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-cloudy-gusts"
-  },
-  "wi-cloudy-windy": {
-    "body": "<${1:i} className=\"wi wi-cloudy-windy$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-cloudy-windy"
-  },
-  "wi-day-cloudy": {
-    "body": "<${1:i} className=\"wi wi-day-cloudy$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-cloudy"
-  },
-  "wi-day-cloudy-gusts": {
-    "body": "<${1:i} className=\"wi wi-day-cloudy-gusts$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-cloudy-gusts"
-  },
-  "wi-day-cloudy-high": {
-    "body": "<${1:i} className=\"wi wi-day-cloudy-high$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-cloudy-high"
-  },
-  "wi-day-cloudy-windy": {
-    "body": "<${1:i} className=\"wi wi-day-cloudy-windy$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-cloudy-windy"
-  },
-  "wi-day-fog": {
-    "body": "<${1:i} className=\"wi wi-day-fog$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-fog"
-  },
-  "wi-day-hail": {
-    "body": "<${1:i} className=\"wi wi-day-hail$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-hail"
-  },
-  "wi-day-haze": {
-    "body": "<${1:i} className=\"wi wi-day-haze$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-haze"
-  },
-  "wi-day-light-wind": {
-    "body": "<${1:i} className=\"wi wi-day-light-wind$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-light-wind"
-  },
-  "wi-day-lightning": {
-    "body": "<${1:i} className=\"wi wi-day-lightning$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-lightning"
-  },
-  "wi-day-rain": {
-    "body": "<${1:i} className=\"wi wi-day-rain$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-rain"
-  },
-  "wi-day-rain-mix": {
-    "body": "<${1:i} className=\"wi wi-day-rain-mix$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-rain-mix"
-  },
-  "wi-day-rain-wind": {
-    "body": "<${1:i} className=\"wi wi-day-rain-wind$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-rain-wind"
-  },
-  "wi-day-showers": {
-    "body": "<${1:i} className=\"wi wi-day-showers$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-showers"
-  },
-  "wi-day-sleet": {
-    "body": "<${1:i} className=\"wi wi-day-sleet$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-sleet"
-  },
-  "wi-day-sleet-storm": {
-    "body": "<${1:i} className=\"wi wi-day-sleet-storm$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-sleet-storm"
-  },
-  "wi-day-snow": {
-    "body": "<${1:i} className=\"wi wi-day-snow$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-snow"
-  },
-  "wi-day-snow-thunderstorm": {
-    "body": "<${1:i} className=\"wi wi-day-snow-thunderstorm$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-snow-thunderstorm"
-  },
-  "wi-day-snow-wind": {
-    "body": "<${1:i} className=\"wi wi-day-snow-wind$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-snow-wind"
-  },
-  "wi-day-sprinkle": {
-    "body": "<${1:i} className=\"wi wi-day-sprinkle$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-sprinkle"
-  },
-  "wi-day-storm-showers": {
-    "body": "<${1:i} className=\"wi wi-day-storm-showers$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-storm-showers"
-  },
-  "wi-day-sunny": {
-    "body": "<${1:i} className=\"wi wi-day-sunny$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-sunny"
-  },
-  "wi-day-sunny-overcast": {
-    "body": "<${1:i} className=\"wi wi-day-sunny-overcast$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-sunny-overcast"
-  },
-  "wi-day-thunderstorm": {
-    "body": "<${1:i} className=\"wi wi-day-thunderstorm$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-thunderstorm"
-  },
-  "wi-day-windy": {
-    "body": "<${1:i} className=\"wi wi-day-windy$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-day-windy"
-  },
-  "wi-degrees": {
-    "body": "<${1:i} className=\"wi wi-degrees$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-degrees"
-  },
-  "wi-direction-down": {
-    "body": "<${1:i} className=\"wi wi-direction-down$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-direction-down"
-  },
-  "wi-direction-down-left": {
-    "body": "<${1:i} className=\"wi wi-direction-down-left$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-direction-down-left"
-  },
-  "wi-direction-down-right": {
-    "body": "<${1:i} className=\"wi wi-direction-down-right$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-direction-down-right"
-  },
-  "wi-direction-left": {
-    "body": "<${1:i} className=\"wi wi-direction-left$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-direction-left"
-  },
-  "wi-direction-right": {
-    "body": "<${1:i} className=\"wi wi-direction-right$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-direction-right"
-  },
-  "wi-direction-up": {
-    "body": "<${1:i} className=\"wi wi-direction-up$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-direction-up"
-  },
-  "wi-direction-up-left": {
-    "body": "<${1:i} className=\"wi wi-direction-up-left$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-direction-up-left"
-  },
-  "wi-direction-up-right": {
-    "body": "<${1:i} className=\"wi wi-direction-up-right$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-direction-up-right"
-  },
-  "wi-dust": {
-    "body": "<${1:i} className=\"wi wi-dust$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-dust"
-  },
-  "wi-earthquake": {
-    "body": "<${1:i} className=\"wi wi-earthquake$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-earthquake"
-  },
-  "wi-fahrenheit": {
-    "body": "<${1:i} className=\"wi wi-fahrenheit$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-fahrenheit"
-  },
-  "wi-fire": {
-    "body": "<${1:i} className=\"wi wi-fire$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-fire"
-  },
-  "wi-flood": {
-    "body": "<${1:i} className=\"wi wi-flood$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-flood"
-  },
-  "wi-fog": {
-    "body": "<${1:i} className=\"wi wi-fog$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-fog"
-  },
-  "wi-from-e": {
-    "body": "<${1:i} className=\"wi wi-from-e$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-e"
-  },
-  "wi-from-ene": {
-    "body": "<${1:i} className=\"wi wi-from-ene$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-ene"
-  },
-  "wi-from-ese": {
-    "body": "<${1:i} className=\"wi wi-from-ese$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-ese"
-  },
-  "wi-from-n": {
-    "body": "<${1:i} className=\"wi wi-from-n$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-n"
-  },
-  "wi-from-ne": {
-    "body": "<${1:i} className=\"wi wi-from-ne$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-ne"
-  },
-  "wi-from-nne": {
-    "body": "<${1:i} className=\"wi wi-from-nne$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-nne"
-  },
-  "wi-from-nnw": {
-    "body": "<${1:i} className=\"wi wi-from-nnw$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-nnw"
-  },
-  "wi-from-nw": {
-    "body": "<${1:i} className=\"wi wi-from-nw$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-nw"
-  },
-  "wi-from-s": {
-    "body": "<${1:i} className=\"wi wi-from-s$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-s"
-  },
-  "wi-from-se": {
-    "body": "<${1:i} className=\"wi wi-from-se$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-se"
-  },
-  "wi-from-sse": {
-    "body": "<${1:i} className=\"wi wi-from-sse$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-sse"
-  },
-  "wi-from-ssw": {
-    "body": "<${1:i} className=\"wi wi-from-ssw$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-ssw"
-  },
-  "wi-from-sw": {
-    "body": "<${1:i} className=\"wi wi-from-sw$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-sw"
-  },
-  "wi-from-w": {
-    "body": "<${1:i} className=\"wi wi-from-w$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-w"
-  },
-  "wi-from-wnw": {
-    "body": "<${1:i} className=\"wi wi-from-wnw$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-wnw"
-  },
-  "wi-from-wsw": {
-    "body": "<${1:i} className=\"wi wi-from-wsw$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-from-wsw"
-  },
-  "wi-gale-warning": {
-    "body": "<${1:i} className=\"wi wi-gale-warning$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-gale-warning"
-  },
-  "wi-hail": {
-    "body": "<${1:i} className=\"wi wi-hail$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-hail"
-  },
-  "wi-horizon": {
-    "body": "<${1:i} className=\"wi wi-horizon$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-horizon"
-  },
-  "wi-horizon-alt": {
-    "body": "<${1:i} className=\"wi wi-horizon-alt$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-horizon-alt"
-  },
-  "wi-hot": {
-    "body": "<${1:i} className=\"wi wi-hot$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-hot"
-  },
-  "wi-humidity": {
-    "body": "<${1:i} className=\"wi wi-humidity$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-humidity"
-  },
-  "wi-hurricane": {
-    "body": "<${1:i} className=\"wi wi-hurricane$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-hurricane"
-  },
-  "wi-hurricane-warning": {
-    "body": "<${1:i} className=\"wi wi-hurricane-warning$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-hurricane-warning"
-  },
-  "wi-lightning": {
-    "body": "<${1:i} className=\"wi wi-lightning$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-lightning"
-  },
-  "wi-lunar-eclipse": {
-    "body": "<${1:i} className=\"wi wi-lunar-eclipse$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-lunar-eclipse"
-  },
-  "wi-meteor": {
-    "body": "<${1:i} className=\"wi wi-meteor$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-meteor"
-  },
-  "wi-moon-0": {
-    "body": "<${1:i} className=\"wi wi-moon-0$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-0"
-  },
-  "wi-moon-1": {
-    "body": "<${1:i} className=\"wi wi-moon-1$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-1"
-  },
-  "wi-moon-10": {
-    "body": "<${1:i} className=\"wi wi-moon-10$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-10"
-  },
-  "wi-moon-11": {
-    "body": "<${1:i} className=\"wi wi-moon-11$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-11"
-  },
-  "wi-moon-12": {
-    "body": "<${1:i} className=\"wi wi-moon-12$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-12"
-  },
-  "wi-moon-13": {
-    "body": "<${1:i} className=\"wi wi-moon-13$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-13"
-  },
-  "wi-moon-14": {
-    "body": "<${1:i} className=\"wi wi-moon-14$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-14"
-  },
-  "wi-moon-15": {
-    "body": "<${1:i} className=\"wi wi-moon-15$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-15"
-  },
-  "wi-moon-16": {
-    "body": "<${1:i} className=\"wi wi-moon-16$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-16"
-  },
-  "wi-moon-17": {
-    "body": "<${1:i} className=\"wi wi-moon-17$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-17"
-  },
-  "wi-moon-18": {
-    "body": "<${1:i} className=\"wi wi-moon-18$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-18"
-  },
-  "wi-moon-19": {
-    "body": "<${1:i} className=\"wi wi-moon-19$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-19"
-  },
-  "wi-moon-2": {
-    "body": "<${1:i} className=\"wi wi-moon-2$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-2"
-  },
-  "wi-moon-20": {
-    "body": "<${1:i} className=\"wi wi-moon-20$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-20"
-  },
-  "wi-moon-21": {
-    "body": "<${1:i} className=\"wi wi-moon-21$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-21"
-  },
-  "wi-moon-22": {
-    "body": "<${1:i} className=\"wi wi-moon-22$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-22"
-  },
-  "wi-moon-23": {
-    "body": "<${1:i} className=\"wi wi-moon-23$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-23"
-  },
-  "wi-moon-24": {
-    "body": "<${1:i} className=\"wi wi-moon-24$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-24"
-  },
-  "wi-moon-25": {
-    "body": "<${1:i} className=\"wi wi-moon-25$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-25"
-  },
-  "wi-moon-26": {
-    "body": "<${1:i} className=\"wi wi-moon-26$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-26"
-  },
-  "wi-moon-27": {
-    "body": "<${1:i} className=\"wi wi-moon-27$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-27"
-  },
-  "wi-moon-3": {
-    "body": "<${1:i} className=\"wi wi-moon-3$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-3"
-  },
-  "wi-moon-4": {
-    "body": "<${1:i} className=\"wi wi-moon-4$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-4"
-  },
-  "wi-moon-5": {
-    "body": "<${1:i} className=\"wi wi-moon-5$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-5"
-  },
-  "wi-moon-6": {
-    "body": "<${1:i} className=\"wi wi-moon-6$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-6"
-  },
-  "wi-moon-7": {
-    "body": "<${1:i} className=\"wi wi-moon-7$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-7"
-  },
-  "wi-moon-8": {
-    "body": "<${1:i} className=\"wi wi-moon-8$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-8"
-  },
-  "wi-moon-9": {
-    "body": "<${1:i} className=\"wi wi-moon-9$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-9"
-  },
-  "wi-moon-alt-first-quarter": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-first-quarter$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-first-quarter"
-  },
-  "wi-moon-alt-full": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-full$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-full"
-  },
-  "wi-moon-alt-new": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-new$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-new"
-  },
-  "wi-moon-alt-third-quarter": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-third-quarter$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-third-quarter"
-  },
-  "wi-moon-alt-waning-crescent-1": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waning-crescent-1$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waning-crescent-1"
-  },
-  "wi-moon-alt-waning-crescent-2": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waning-crescent-2$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waning-crescent-2"
-  },
-  "wi-moon-alt-waning-crescent-3": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waning-crescent-3$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waning-crescent-3"
-  },
-  "wi-moon-alt-waning-crescent-4": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waning-crescent-4$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waning-crescent-4"
-  },
-  "wi-moon-alt-waning-crescent-5": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waning-crescent-5$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waning-crescent-5"
-  },
-  "wi-moon-alt-waning-crescent-6": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waning-crescent-6$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waning-crescent-6"
-  },
-  "wi-moon-alt-waning-gibbous-1": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waning-gibbous-1$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waning-gibbous-1"
-  },
-  "wi-moon-alt-waning-gibbous-2": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waning-gibbous-2$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waning-gibbous-2"
-  },
-  "wi-moon-alt-waning-gibbous-3": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waning-gibbous-3$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waning-gibbous-3"
-  },
-  "wi-moon-alt-waning-gibbous-4": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waning-gibbous-4$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waning-gibbous-4"
-  },
-  "wi-moon-alt-waning-gibbous-5": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waning-gibbous-5$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waning-gibbous-5"
-  },
-  "wi-moon-alt-waning-gibbous-6": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waning-gibbous-6$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waning-gibbous-6"
-  },
-  "wi-moon-alt-waxing-crescent-1": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waxing-crescent-1$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waxing-crescent-1"
-  },
-  "wi-moon-alt-waxing-crescent-2": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waxing-crescent-2$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waxing-crescent-2"
-  },
-  "wi-moon-alt-waxing-crescent-3": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waxing-crescent-3$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waxing-crescent-3"
-  },
-  "wi-moon-alt-waxing-crescent-4": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waxing-crescent-4$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waxing-crescent-4"
-  },
-  "wi-moon-alt-waxing-crescent-5": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waxing-crescent-5$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waxing-crescent-5"
-  },
-  "wi-moon-alt-waxing-crescent-6": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waxing-crescent-6$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waxing-crescent-6"
-  },
-  "wi-moon-alt-waxing-gibbous-1": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waxing-gibbous-1$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waxing-gibbous-1"
-  },
-  "wi-moon-alt-waxing-gibbous-2": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waxing-gibbous-2$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waxing-gibbous-2"
-  },
-  "wi-moon-alt-waxing-gibbous-3": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waxing-gibbous-3$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waxing-gibbous-3"
-  },
-  "wi-moon-alt-waxing-gibbous-4": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waxing-gibbous-4$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waxing-gibbous-4"
-  },
-  "wi-moon-alt-waxing-gibbous-5": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waxing-gibbous-5$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waxing-gibbous-5"
-  },
-  "wi-moon-alt-waxing-gibbous-6": {
-    "body": "<${1:i} className=\"wi wi-moon-alt-waxing-gibbous-6$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-alt-waxing-gibbous-6"
-  },
-  "wi-moon-first-quarter": {
-    "body": "<${1:i} className=\"wi wi-moon-first-quarter$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-first-quarter"
-  },
-  "wi-moon-full": {
-    "body": "<${1:i} className=\"wi wi-moon-full$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-full"
-  },
-  "wi-moon-new": {
-    "body": "<${1:i} className=\"wi wi-moon-new$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-new"
-  },
-  "wi-moon-third-quarter": {
-    "body": "<${1:i} className=\"wi wi-moon-third-quarter$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-third-quarter"
-  },
-  "wi-moon-waning-crescent-1": {
-    "body": "<${1:i} className=\"wi wi-moon-waning-crescent-1$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waning-crescent-1"
-  },
-  "wi-moon-waning-crescent-2": {
-    "body": "<${1:i} className=\"wi wi-moon-waning-crescent-2$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waning-crescent-2"
-  },
-  "wi-moon-waning-crescent-3": {
-    "body": "<${1:i} className=\"wi wi-moon-waning-crescent-3$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waning-crescent-3"
-  },
-  "wi-moon-waning-crescent-4": {
-    "body": "<${1:i} className=\"wi wi-moon-waning-crescent-4$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waning-crescent-4"
-  },
-  "wi-moon-waning-crescent-5": {
-    "body": "<${1:i} className=\"wi wi-moon-waning-crescent-5$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waning-crescent-5"
-  },
-  "wi-moon-waning-crescent-6": {
-    "body": "<${1:i} className=\"wi wi-moon-waning-crescent-6$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waning-crescent-6"
-  },
-  "wi-moon-waning-gibbous-1": {
-    "body": "<${1:i} className=\"wi wi-moon-waning-gibbous-1$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waning-gibbous-1"
-  },
-  "wi-moon-waning-gibbous-2": {
-    "body": "<${1:i} className=\"wi wi-moon-waning-gibbous-2$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waning-gibbous-2"
-  },
-  "wi-moon-waning-gibbous-3": {
-    "body": "<${1:i} className=\"wi wi-moon-waning-gibbous-3$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waning-gibbous-3"
-  },
-  "wi-moon-waning-gibbous-4": {
-    "body": "<${1:i} className=\"wi wi-moon-waning-gibbous-4$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waning-gibbous-4"
-  },
-  "wi-moon-waning-gibbous-5": {
-    "body": "<${1:i} className=\"wi wi-moon-waning-gibbous-5$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waning-gibbous-5"
-  },
-  "wi-moon-waning-gibbous-6": {
-    "body": "<${1:i} className=\"wi wi-moon-waning-gibbous-6$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waning-gibbous-6"
-  },
-  "wi-moon-waxing-crescent-1": {
-    "body": "<${1:i} className=\"wi wi-moon-waxing-crescent-1$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waxing-crescent-1"
-  },
-  "wi-moon-waxing-crescent-2": {
-    "body": "<${1:i} className=\"wi wi-moon-waxing-crescent-2$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waxing-crescent-2"
-  },
-  "wi-moon-waxing-crescent-3": {
-    "body": "<${1:i} className=\"wi wi-moon-waxing-crescent-3$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waxing-crescent-3"
-  },
-  "wi-moon-waxing-crescent-4": {
-    "body": "<${1:i} className=\"wi wi-moon-waxing-crescent-4$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waxing-crescent-4"
-  },
-  "wi-moon-waxing-crescent-5": {
-    "body": "<${1:i} className=\"wi wi-moon-waxing-crescent-5$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waxing-crescent-5"
-  },
-  "wi-moon-waxing-crescent-6": {
-    "body": "<${1:i} className=\"wi wi-moon-waxing-crescent-6$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waxing-crescent-6"
-  },
-  "wi-moon-waxing-gibbous-1": {
-    "body": "<${1:i} className=\"wi wi-moon-waxing-gibbous-1$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waxing-gibbous-1"
-  },
-  "wi-moon-waxing-gibbous-2": {
-    "body": "<${1:i} className=\"wi wi-moon-waxing-gibbous-2$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waxing-gibbous-2"
-  },
-  "wi-moon-waxing-gibbous-3": {
-    "body": "<${1:i} className=\"wi wi-moon-waxing-gibbous-3$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waxing-gibbous-3"
-  },
-  "wi-moon-waxing-gibbous-4": {
-    "body": "<${1:i} className=\"wi wi-moon-waxing-gibbous-4$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waxing-gibbous-4"
-  },
-  "wi-moon-waxing-gibbous-5": {
-    "body": "<${1:i} className=\"wi wi-moon-waxing-gibbous-5$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waxing-gibbous-5"
-  },
-  "wi-moon-waxing-gibbous-6": {
-    "body": "<${1:i} className=\"wi wi-moon-waxing-gibbous-6$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moon-waxing-gibbous-6"
-  },
-  "wi-moonrise": {
-    "body": "<${1:i} className=\"wi wi-moonrise$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moonrise"
-  },
-  "wi-moonset": {
-    "body": "<${1:i} className=\"wi wi-moonset$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-moonset"
-  },
-  "wi-na": {
-    "body": "<${1:i} className=\"wi wi-na$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-na"
-  },
-  "wi-night-alt-cloudy": {
-    "body": "<${1:i} className=\"wi wi-night-alt-cloudy$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-cloudy"
-  },
-  "wi-night-alt-cloudy-gusts": {
-    "body": "<${1:i} className=\"wi wi-night-alt-cloudy-gusts$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-cloudy-gusts"
-  },
-  "wi-night-alt-cloudy-high": {
-    "body": "<${1:i} className=\"wi wi-night-alt-cloudy-high$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-cloudy-high"
-  },
-  "wi-night-alt-cloudy-windy": {
-    "body": "<${1:i} className=\"wi wi-night-alt-cloudy-windy$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-cloudy-windy"
-  },
-  "wi-night-alt-hail": {
-    "body": "<${1:i} className=\"wi wi-night-alt-hail$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-hail"
-  },
-  "wi-night-alt-lightning": {
-    "body": "<${1:i} className=\"wi wi-night-alt-lightning$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-lightning"
-  },
-  "wi-night-alt-partly-cloudy": {
-    "body": "<${1:i} className=\"wi wi-night-alt-partly-cloudy$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-partly-cloudy"
-  },
-  "wi-night-alt-rain": {
-    "body": "<${1:i} className=\"wi wi-night-alt-rain$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-rain"
-  },
-  "wi-night-alt-rain-mix": {
-    "body": "<${1:i} className=\"wi wi-night-alt-rain-mix$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-rain-mix"
-  },
-  "wi-night-alt-rain-wind": {
-    "body": "<${1:i} className=\"wi wi-night-alt-rain-wind$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-rain-wind"
-  },
-  "wi-night-alt-showers": {
-    "body": "<${1:i} className=\"wi wi-night-alt-showers$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-showers"
-  },
-  "wi-night-alt-sleet": {
-    "body": "<${1:i} className=\"wi wi-night-alt-sleet$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-sleet"
-  },
-  "wi-night-alt-sleet-storm": {
-    "body": "<${1:i} className=\"wi wi-night-alt-sleet-storm$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-sleet-storm"
-  },
-  "wi-night-alt-snow": {
-    "body": "<${1:i} className=\"wi wi-night-alt-snow$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-snow"
-  },
-  "wi-night-alt-snow-thunderstorm": {
-    "body": "<${1:i} className=\"wi wi-night-alt-snow-thunderstorm$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-snow-thunderstorm"
-  },
-  "wi-night-alt-snow-wind": {
-    "body": "<${1:i} className=\"wi wi-night-alt-snow-wind$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-snow-wind"
-  },
-  "wi-night-alt-sprinkle": {
-    "body": "<${1:i} className=\"wi wi-night-alt-sprinkle$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-sprinkle"
-  },
-  "wi-night-alt-storm-showers": {
-    "body": "<${1:i} className=\"wi wi-night-alt-storm-showers$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-storm-showers"
-  },
-  "wi-night-alt-thunderstorm": {
-    "body": "<${1:i} className=\"wi wi-night-alt-thunderstorm$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-alt-thunderstorm"
-  },
-  "wi-night-clear": {
-    "body": "<${1:i} className=\"wi wi-night-clear$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-clear"
-  },
-  "wi-night-cloudy": {
-    "body": "<${1:i} className=\"wi wi-night-cloudy$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-cloudy"
-  },
-  "wi-night-cloudy-gusts": {
-    "body": "<${1:i} className=\"wi wi-night-cloudy-gusts$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-cloudy-gusts"
-  },
-  "wi-night-cloudy-high": {
-    "body": "<${1:i} className=\"wi wi-night-cloudy-high$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-cloudy-high"
-  },
-  "wi-night-cloudy-windy": {
-    "body": "<${1:i} className=\"wi wi-night-cloudy-windy$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-cloudy-windy"
-  },
-  "wi-night-fog": {
-    "body": "<${1:i} className=\"wi wi-night-fog$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-fog"
-  },
-  "wi-night-hail": {
-    "body": "<${1:i} className=\"wi wi-night-hail$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-hail"
-  },
-  "wi-night-lightning": {
-    "body": "<${1:i} className=\"wi wi-night-lightning$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-lightning"
-  },
-  "wi-night-partly-cloudy": {
-    "body": "<${1:i} className=\"wi wi-night-partly-cloudy$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-partly-cloudy"
-  },
-  "wi-night-rain": {
-    "body": "<${1:i} className=\"wi wi-night-rain$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-rain"
-  },
-  "wi-night-rain-mix": {
-    "body": "<${1:i} className=\"wi wi-night-rain-mix$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-rain-mix"
-  },
-  "wi-night-rain-wind": {
-    "body": "<${1:i} className=\"wi wi-night-rain-wind$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-rain-wind"
-  },
-  "wi-night-showers": {
-    "body": "<${1:i} className=\"wi wi-night-showers$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-showers"
-  },
-  "wi-night-sleet": {
-    "body": "<${1:i} className=\"wi wi-night-sleet$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-sleet"
-  },
-  "wi-night-sleet-storm": {
-    "body": "<${1:i} className=\"wi wi-night-sleet-storm$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-sleet-storm"
-  },
-  "wi-night-snow": {
-    "body": "<${1:i} className=\"wi wi-night-snow$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-snow"
-  },
-  "wi-night-snow-thunderstorm": {
-    "body": "<${1:i} className=\"wi wi-night-snow-thunderstorm$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-snow-thunderstorm"
-  },
-  "wi-night-snow-wind": {
-    "body": "<${1:i} className=\"wi wi-night-snow-wind$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-snow-wind"
-  },
-  "wi-night-sprinkle": {
-    "body": "<${1:i} className=\"wi wi-night-sprinkle$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-sprinkle"
-  },
-  "wi-night-storm-showers": {
-    "body": "<${1:i} className=\"wi wi-night-storm-showers$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-storm-showers"
-  },
-  "wi-night-thunderstorm": {
-    "body": "<${1:i} className=\"wi wi-night-thunderstorm$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-night-thunderstorm"
-  },
-  "wi-rain": {
-    "body": "<${1:i} className=\"wi wi-rain$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-rain"
-  },
-  "wi-rain-mix": {
-    "body": "<${1:i} className=\"wi wi-rain-mix$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-rain-mix"
-  },
-  "wi-rain-wind": {
-    "body": "<${1:i} className=\"wi wi-rain-wind$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-rain-wind"
-  },
-  "wi-raindrop": {
-    "body": "<${1:i} className=\"wi wi-raindrop$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-raindrop"
-  },
-  "wi-raindrops": {
-    "body": "<${1:i} className=\"wi wi-raindrops$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-raindrops"
-  },
-  "wi-refresh": {
-    "body": "<${1:i} className=\"wi wi-refresh$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-refresh"
-  },
-  "wi-refresh-alt": {
-    "body": "<${1:i} className=\"wi wi-refresh-alt$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-refresh-alt"
-  },
-  "wi-sandstorm": {
-    "body": "<${1:i} className=\"wi wi-sandstorm$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-sandstorm"
-  },
-  "wi-showers": {
-    "body": "<${1:i} className=\"wi wi-showers$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-showers"
-  },
-  "wi-sleet": {
-    "body": "<${1:i} className=\"wi wi-sleet$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-sleet"
-  },
-  "wi-small-craft-advisory": {
-    "body": "<${1:i} className=\"wi wi-small-craft-advisory$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-small-craft-advisory"
-  },
-  "wi-smog": {
-    "body": "<${1:i} className=\"wi wi-smog$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-smog"
-  },
-  "wi-smoke": {
-    "body": "<${1:i} className=\"wi wi-smoke$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-smoke"
-  },
-  "wi-snow": {
-    "body": "<${1:i} className=\"wi wi-snow$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-snow"
-  },
-  "wi-snow-wind": {
-    "body": "<${1:i} className=\"wi wi-snow-wind$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-snow-wind"
-  },
-  "wi-snowflake-cold": {
-    "body": "<${1:i} className=\"wi wi-snowflake-cold$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-snowflake-cold"
-  },
-  "wi-solar-eclipse": {
-    "body": "<${1:i} className=\"wi wi-solar-eclipse$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-solar-eclipse"
-  },
-  "wi-sprinkle": {
-    "body": "<${1:i} className=\"wi wi-sprinkle$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-sprinkle"
-  },
-  "wi-stars": {
-    "body": "<${1:i} className=\"wi wi-stars$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-stars"
-  },
-  "wi-storm-showers": {
-    "body": "<${1:i} className=\"wi wi-storm-showers$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-storm-showers"
-  },
-  "wi-storm-warning": {
-    "body": "<${1:i} className=\"wi wi-storm-warning$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-storm-warning"
-  },
-  "wi-strong-wind": {
-    "body": "<${1:i} className=\"wi wi-strong-wind$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-strong-wind"
-  },
-  "wi-sunrise": {
-    "body": "<${1:i} className=\"wi wi-sunrise$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-sunrise"
-  },
-  "wi-sunset": {
-    "body": "<${1:i} className=\"wi wi-sunset$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-sunset"
-  },
-  "wi-thermometer": {
-    "body": "<${1:i} className=\"wi wi-thermometer$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-thermometer"
-  },
-  "wi-thermometer-exterior": {
-    "body": "<${1:i} className=\"wi wi-thermometer-exterior$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-thermometer-exterior"
-  },
-  "wi-thermometer-internal": {
-    "body": "<${1:i} className=\"wi wi-thermometer-internal$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-thermometer-internal"
-  },
-  "wi-thunderstorm": {
-    "body": "<${1:i} className=\"wi wi-thunderstorm$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-thunderstorm"
-  },
-  "wi-time-1": {
-    "body": "<${1:i} className=\"wi wi-time-1$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-time-1"
-  },
-  "wi-time-10": {
-    "body": "<${1:i} className=\"wi wi-time-10$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-time-10"
-  },
-  "wi-time-11": {
-    "body": "<${1:i} className=\"wi wi-time-11$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-time-11"
-  },
-  "wi-time-12": {
-    "body": "<${1:i} className=\"wi wi-time-12$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-time-12"
-  },
-  "wi-time-2": {
-    "body": "<${1:i} className=\"wi wi-time-2$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-time-2"
-  },
-  "wi-time-3": {
-    "body": "<${1:i} className=\"wi wi-time-3$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-time-3"
-  },
-  "wi-time-4": {
-    "body": "<${1:i} className=\"wi wi-time-4$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-time-4"
-  },
-  "wi-time-5": {
-    "body": "<${1:i} className=\"wi wi-time-5$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-time-5"
-  },
-  "wi-time-6": {
-    "body": "<${1:i} className=\"wi wi-time-6$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-time-6"
-  },
-  "wi-time-7": {
-    "body": "<${1:i} className=\"wi wi-time-7$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-time-7"
-  },
-  "wi-time-8": {
-    "body": "<${1:i} className=\"wi wi-time-8$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-time-8"
-  },
-  "wi-time-9": {
-    "body": "<${1:i} className=\"wi wi-time-9$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-time-9"
-  },
-  "wi-tornado": {
-    "body": "<${1:i} className=\"wi wi-tornado$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-tornado"
-  },
-  "wi-towards-e": {
-    "body": "<${1:i} className=\"wi wi-towards-e$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-e"
-  },
-  "wi-towards-ene": {
-    "body": "<${1:i} className=\"wi wi-towards-ene$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-ene"
-  },
-  "wi-towards-ese": {
-    "body": "<${1:i} className=\"wi wi-towards-ese$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-ese"
-  },
-  "wi-towards-n": {
-    "body": "<${1:i} className=\"wi wi-towards-n$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-n"
-  },
-  "wi-towards-ne": {
-    "body": "<${1:i} className=\"wi wi-towards-ne$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-ne"
-  },
-  "wi-towards-nne": {
-    "body": "<${1:i} className=\"wi wi-towards-nne$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-nne"
-  },
-  "wi-towards-nnw": {
-    "body": "<${1:i} className=\"wi wi-towards-nnw$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-nnw"
-  },
-  "wi-towards-nw": {
-    "body": "<${1:i} className=\"wi wi-towards-nw$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-nw"
-  },
-  "wi-towards-s": {
-    "body": "<${1:i} className=\"wi wi-towards-s$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-s"
-  },
-  "wi-towards-se": {
-    "body": "<${1:i} className=\"wi wi-towards-se$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-se"
-  },
-  "wi-towards-sse": {
-    "body": "<${1:i} className=\"wi wi-towards-sse$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-sse"
-  },
-  "wi-towards-ssw": {
-    "body": "<${1:i} className=\"wi wi-towards-ssw$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-ssw"
-  },
-  "wi-towards-sw": {
-    "body": "<${1:i} className=\"wi wi-towards-sw$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-sw"
-  },
-  "wi-towards-w": {
-    "body": "<${1:i} className=\"wi wi-towards-w$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-w"
-  },
-  "wi-towards-wnw": {
-    "body": "<${1:i} className=\"wi wi-towards-wnw$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-wnw"
-  },
-  "wi-towards-wsw": {
-    "body": "<${1:i} className=\"wi wi-towards-wsw$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-towards-wsw"
-  },
-  "wi-train": {
-    "body": "<${1:i} className=\"wi wi-train$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-train"
-  },
-  "wi-tsunami": {
-    "body": "<${1:i} className=\"wi wi-tsunami$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-tsunami"
-  },
-  "wi-umbrella": {
-    "body": "<${1:i} className=\"wi wi-umbrella$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-umbrella"
-  },
-  "wi-volcano": {
-    "body": "<${1:i} className=\"wi wi-volcano$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-volcano"
-  },
-  "wi-wind-beaufort-0": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-0$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-0"
-  },
-  "wi-wind-beaufort-1": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-1$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-1"
-  },
-  "wi-wind-beaufort-10": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-10$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-10"
-  },
-  "wi-wind-beaufort-11": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-11$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-11"
-  },
-  "wi-wind-beaufort-12": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-12$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-12"
-  },
-  "wi-wind-beaufort-2": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-2$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-2"
-  },
-  "wi-wind-beaufort-3": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-3$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-3"
-  },
-  "wi-wind-beaufort-4": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-4$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-4"
-  },
-  "wi-wind-beaufort-5": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-5$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-5"
-  },
-  "wi-wind-beaufort-6": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-6$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-6"
-  },
-  "wi-wind-beaufort-7": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-7$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-7"
-  },
-  "wi-wind-beaufort-8": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-8$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-8"
-  },
-  "wi-wind-beaufort-9": {
-    "body": "<${1:i} className=\"wi wi-wind-beaufort-9$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-beaufort-9"
-  },
-  "wi-wind-direction": {
-    "body": "<${1:i} className=\"wi wi-wind-direction$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-wind-direction"
-  },
-  "wi-windy": {
-    "body": "<${1:i} className=\"wi wi-windy$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "wi-windy"
-  }
+    "wi-day-sunny": {
+        "body": "<${1:i} className=\"wi wi-day-sunny$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-sunny"
+    },
+    "wi-day-cloudy": {
+        "body": "<${1:i} className=\"wi wi-day-cloudy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-cloudy"
+    },
+    "wi-day-cloudy-gusts": {
+        "body": "<${1:i} className=\"wi wi-day-cloudy-gusts$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-cloudy-gusts"
+    },
+    "wi-day-cloudy-windy": {
+        "body": "<${1:i} className=\"wi wi-day-cloudy-windy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-cloudy-windy"
+    },
+    "wi-day-fog": {
+        "body": "<${1:i} className=\"wi wi-day-fog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-fog"
+    },
+    "wi-day-hail": {
+        "body": "<${1:i} className=\"wi wi-day-hail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-hail"
+    },
+    "wi-day-haze": {
+        "body": "<${1:i} className=\"wi wi-day-haze$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-haze"
+    },
+    "wi-day-lightning": {
+        "body": "<${1:i} className=\"wi wi-day-lightning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-lightning"
+    },
+    "wi-day-rain": {
+        "body": "<${1:i} className=\"wi wi-day-rain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-rain"
+    },
+    "wi-day-rain-mix": {
+        "body": "<${1:i} className=\"wi wi-day-rain-mix$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-rain-mix"
+    },
+    "wi-day-rain-wind": {
+        "body": "<${1:i} className=\"wi wi-day-rain-wind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-rain-wind"
+    },
+    "wi-day-showers": {
+        "body": "<${1:i} className=\"wi wi-day-showers$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-showers"
+    },
+    "wi-day-sleet": {
+        "body": "<${1:i} className=\"wi wi-day-sleet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-sleet"
+    },
+    "wi-day-sleet-storm": {
+        "body": "<${1:i} className=\"wi wi-day-sleet-storm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-sleet-storm"
+    },
+    "wi-day-snow": {
+        "body": "<${1:i} className=\"wi wi-day-snow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-snow"
+    },
+    "wi-day-snow-thunderstorm": {
+        "body": "<${1:i} className=\"wi wi-day-snow-thunderstorm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-snow-thunderstorm"
+    },
+    "wi-day-snow-wind": {
+        "body": "<${1:i} className=\"wi wi-day-snow-wind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-snow-wind"
+    },
+    "wi-day-sprinkle": {
+        "body": "<${1:i} className=\"wi wi-day-sprinkle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-sprinkle"
+    },
+    "wi-day-storm-showers": {
+        "body": "<${1:i} className=\"wi wi-day-storm-showers$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-storm-showers"
+    },
+    "wi-day-sunny-overcast": {
+        "body": "<${1:i} className=\"wi wi-day-sunny-overcast$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-sunny-overcast"
+    },
+    "wi-day-thunderstorm": {
+        "body": "<${1:i} className=\"wi wi-day-thunderstorm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-thunderstorm"
+    },
+    "wi-day-windy": {
+        "body": "<${1:i} className=\"wi wi-day-windy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-windy"
+    },
+    "wi-solar-eclipse": {
+        "body": "<${1:i} className=\"wi wi-solar-eclipse$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-solar-eclipse"
+    },
+    "wi-hot": {
+        "body": "<${1:i} className=\"wi wi-hot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-hot"
+    },
+    "wi-day-cloudy-high": {
+        "body": "<${1:i} className=\"wi wi-day-cloudy-high$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-cloudy-high"
+    },
+    "wi-day-light-wind": {
+        "body": "<${1:i} className=\"wi wi-day-light-wind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-day-light-wind"
+    },
+    "wi-night-clear": {
+        "body": "<${1:i} className=\"wi wi-night-clear$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-clear"
+    },
+    "wi-night-alt-cloudy": {
+        "body": "<${1:i} className=\"wi wi-night-alt-cloudy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-cloudy"
+    },
+    "wi-night-alt-cloudy-gusts": {
+        "body": "<${1:i} className=\"wi wi-night-alt-cloudy-gusts$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-cloudy-gusts"
+    },
+    "wi-night-alt-cloudy-windy": {
+        "body": "<${1:i} className=\"wi wi-night-alt-cloudy-windy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-cloudy-windy"
+    },
+    "wi-night-alt-hail": {
+        "body": "<${1:i} className=\"wi wi-night-alt-hail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-hail"
+    },
+    "wi-night-alt-lightning": {
+        "body": "<${1:i} className=\"wi wi-night-alt-lightning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-lightning"
+    },
+    "wi-night-alt-rain": {
+        "body": "<${1:i} className=\"wi wi-night-alt-rain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-rain"
+    },
+    "wi-night-alt-rain-mix": {
+        "body": "<${1:i} className=\"wi wi-night-alt-rain-mix$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-rain-mix"
+    },
+    "wi-night-alt-rain-wind": {
+        "body": "<${1:i} className=\"wi wi-night-alt-rain-wind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-rain-wind"
+    },
+    "wi-night-alt-showers": {
+        "body": "<${1:i} className=\"wi wi-night-alt-showers$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-showers"
+    },
+    "wi-night-alt-sleet": {
+        "body": "<${1:i} className=\"wi wi-night-alt-sleet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-sleet"
+    },
+    "wi-night-alt-sleet-storm": {
+        "body": "<${1:i} className=\"wi wi-night-alt-sleet-storm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-sleet-storm"
+    },
+    "wi-night-alt-snow": {
+        "body": "<${1:i} className=\"wi wi-night-alt-snow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-snow"
+    },
+    "wi-night-alt-snow-thunderstorm": {
+        "body": "<${1:i} className=\"wi wi-night-alt-snow-thunderstorm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-snow-thunderstorm"
+    },
+    "wi-night-alt-snow-wind": {
+        "body": "<${1:i} className=\"wi wi-night-alt-snow-wind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-snow-wind"
+    },
+    "wi-night-alt-sprinkle": {
+        "body": "<${1:i} className=\"wi wi-night-alt-sprinkle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-sprinkle"
+    },
+    "wi-night-alt-storm-showers": {
+        "body": "<${1:i} className=\"wi wi-night-alt-storm-showers$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-storm-showers"
+    },
+    "wi-night-alt-thunderstorm": {
+        "body": "<${1:i} className=\"wi wi-night-alt-thunderstorm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-thunderstorm"
+    },
+    "wi-night-cloudy": {
+        "body": "<${1:i} className=\"wi wi-night-cloudy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-cloudy"
+    },
+    "wi-night-cloudy-gusts": {
+        "body": "<${1:i} className=\"wi wi-night-cloudy-gusts$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-cloudy-gusts"
+    },
+    "wi-night-cloudy-windy": {
+        "body": "<${1:i} className=\"wi wi-night-cloudy-windy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-cloudy-windy"
+    },
+    "wi-night-fog": {
+        "body": "<${1:i} className=\"wi wi-night-fog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-fog"
+    },
+    "wi-night-hail": {
+        "body": "<${1:i} className=\"wi wi-night-hail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-hail"
+    },
+    "wi-night-lightning": {
+        "body": "<${1:i} className=\"wi wi-night-lightning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-lightning"
+    },
+    "wi-night-partly-cloudy": {
+        "body": "<${1:i} className=\"wi wi-night-partly-cloudy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-partly-cloudy"
+    },
+    "wi-night-rain": {
+        "body": "<${1:i} className=\"wi wi-night-rain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-rain"
+    },
+    "wi-night-rain-mix": {
+        "body": "<${1:i} className=\"wi wi-night-rain-mix$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-rain-mix"
+    },
+    "wi-night-rain-wind": {
+        "body": "<${1:i} className=\"wi wi-night-rain-wind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-rain-wind"
+    },
+    "wi-night-showers": {
+        "body": "<${1:i} className=\"wi wi-night-showers$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-showers"
+    },
+    "wi-night-sleet": {
+        "body": "<${1:i} className=\"wi wi-night-sleet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-sleet"
+    },
+    "wi-night-sleet-storm": {
+        "body": "<${1:i} className=\"wi wi-night-sleet-storm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-sleet-storm"
+    },
+    "wi-night-snow": {
+        "body": "<${1:i} className=\"wi wi-night-snow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-snow"
+    },
+    "wi-night-snow-thunderstorm": {
+        "body": "<${1:i} className=\"wi wi-night-snow-thunderstorm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-snow-thunderstorm"
+    },
+    "wi-night-snow-wind": {
+        "body": "<${1:i} className=\"wi wi-night-snow-wind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-snow-wind"
+    },
+    "wi-night-sprinkle": {
+        "body": "<${1:i} className=\"wi wi-night-sprinkle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-sprinkle"
+    },
+    "wi-night-storm-showers": {
+        "body": "<${1:i} className=\"wi wi-night-storm-showers$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-storm-showers"
+    },
+    "wi-night-thunderstorm": {
+        "body": "<${1:i} className=\"wi wi-night-thunderstorm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-thunderstorm"
+    },
+    "wi-lunar-eclipse": {
+        "body": "<${1:i} className=\"wi wi-lunar-eclipse$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-lunar-eclipse"
+    },
+    "wi-stars": {
+        "body": "<${1:i} className=\"wi wi-stars$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-stars"
+    },
+    "wi-storm-showers": {
+        "body": "<${1:i} className=\"wi wi-storm-showers$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-storm-showers"
+    },
+    "wi-thunderstorm": {
+        "body": "<${1:i} className=\"wi wi-thunderstorm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-thunderstorm"
+    },
+    "wi-night-alt-cloudy-high": {
+        "body": "<${1:i} className=\"wi wi-night-alt-cloudy-high$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-cloudy-high"
+    },
+    "wi-night-cloudy-high": {
+        "body": "<${1:i} className=\"wi wi-night-cloudy-high$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-cloudy-high"
+    },
+    "wi-night-alt-partly-cloudy": {
+        "body": "<${1:i} className=\"wi wi-night-alt-partly-cloudy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-night-alt-partly-cloudy"
+    },
+    "wi-cloud": {
+        "body": "<${1:i} className=\"wi wi-cloud$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-cloud"
+    },
+    "wi-cloudy": {
+        "body": "<${1:i} className=\"wi wi-cloudy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-cloudy"
+    },
+    "wi-cloudy-gusts": {
+        "body": "<${1:i} className=\"wi wi-cloudy-gusts$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-cloudy-gusts"
+    },
+    "wi-cloudy-windy": {
+        "body": "<${1:i} className=\"wi wi-cloudy-windy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-cloudy-windy"
+    },
+    "wi-fog": {
+        "body": "<${1:i} className=\"wi wi-fog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-fog"
+    },
+    "wi-hail": {
+        "body": "<${1:i} className=\"wi wi-hail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-hail"
+    },
+    "wi-rain": {
+        "body": "<${1:i} className=\"wi wi-rain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-rain"
+    },
+    "wi-rain-mix": {
+        "body": "<${1:i} className=\"wi wi-rain-mix$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-rain-mix"
+    },
+    "wi-rain-wind": {
+        "body": "<${1:i} className=\"wi wi-rain-wind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-rain-wind"
+    },
+    "wi-showers": {
+        "body": "<${1:i} className=\"wi wi-showers$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-showers"
+    },
+    "wi-sleet": {
+        "body": "<${1:i} className=\"wi wi-sleet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-sleet"
+    },
+    "wi-snow": {
+        "body": "<${1:i} className=\"wi wi-snow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-snow"
+    },
+    "wi-sprinkle": {
+        "body": "<${1:i} className=\"wi wi-sprinkle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-sprinkle"
+    },
+    "wi-snow-wind": {
+        "body": "<${1:i} className=\"wi wi-snow-wind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-snow-wind"
+    },
+    "wi-smog": {
+        "body": "<${1:i} className=\"wi wi-smog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-smog"
+    },
+    "wi-smoke": {
+        "body": "<${1:i} className=\"wi wi-smoke$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-smoke"
+    },
+    "wi-lightning": {
+        "body": "<${1:i} className=\"wi wi-lightning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-lightning"
+    },
+    "wi-raindrops": {
+        "body": "<${1:i} className=\"wi wi-raindrops$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-raindrops"
+    },
+    "wi-raindrop": {
+        "body": "<${1:i} className=\"wi wi-raindrop$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-raindrop"
+    },
+    "wi-dust": {
+        "body": "<${1:i} className=\"wi wi-dust$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-dust"
+    },
+    "wi-snowflake-cold": {
+        "body": "<${1:i} className=\"wi wi-snowflake-cold$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-snowflake-cold"
+    },
+    "wi-windy": {
+        "body": "<${1:i} className=\"wi wi-windy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-windy"
+    },
+    "wi-strong-wind": {
+        "body": "<${1:i} className=\"wi wi-strong-wind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-strong-wind"
+    },
+    "wi-sandstorm": {
+        "body": "<${1:i} className=\"wi wi-sandstorm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-sandstorm"
+    },
+    "wi-earthquake": {
+        "body": "<${1:i} className=\"wi wi-earthquake$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-earthquake"
+    },
+    "wi-fire": {
+        "body": "<${1:i} className=\"wi wi-fire$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-fire"
+    },
+    "wi-flood": {
+        "body": "<${1:i} className=\"wi wi-flood$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-flood"
+    },
+    "wi-meteor": {
+        "body": "<${1:i} className=\"wi wi-meteor$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-meteor"
+    },
+    "wi-tsunami": {
+        "body": "<${1:i} className=\"wi wi-tsunami$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-tsunami"
+    },
+    "wi-volcano": {
+        "body": "<${1:i} className=\"wi wi-volcano$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-volcano"
+    },
+    "wi-hurricane": {
+        "body": "<${1:i} className=\"wi wi-hurricane$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-hurricane"
+    },
+    "wi-tornado": {
+        "body": "<${1:i} className=\"wi wi-tornado$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-tornado"
+    },
+    "wi-small-craft-advisory": {
+        "body": "<${1:i} className=\"wi wi-small-craft-advisory$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-small-craft-advisory"
+    },
+    "wi-gale-warning": {
+        "body": "<${1:i} className=\"wi wi-gale-warning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-gale-warning"
+    },
+    "wi-storm-warning": {
+        "body": "<${1:i} className=\"wi wi-storm-warning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-storm-warning"
+    },
+    "wi-hurricane-warning": {
+        "body": "<${1:i} className=\"wi wi-hurricane-warning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-hurricane-warning"
+    },
+    "wi-wind-direction": {
+        "body": "<${1:i} className=\"wi wi-wind-direction$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-direction"
+    },
+    "wi-alien": {
+        "body": "<${1:i} className=\"wi wi-alien$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-alien"
+    },
+    "wi-celsius": {
+        "body": "<${1:i} className=\"wi wi-celsius$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-celsius"
+    },
+    "wi-fahrenheit": {
+        "body": "<${1:i} className=\"wi wi-fahrenheit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-fahrenheit"
+    },
+    "wi-degrees": {
+        "body": "<${1:i} className=\"wi wi-degrees$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-degrees"
+    },
+    "wi-thermometer": {
+        "body": "<${1:i} className=\"wi wi-thermometer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-thermometer"
+    },
+    "wi-thermometer-exterior": {
+        "body": "<${1:i} className=\"wi wi-thermometer-exterior$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-thermometer-exterior"
+    },
+    "wi-thermometer-internal": {
+        "body": "<${1:i} className=\"wi wi-thermometer-internal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-thermometer-internal"
+    },
+    "wi-cloud-down": {
+        "body": "<${1:i} className=\"wi wi-cloud-down$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-cloud-down"
+    },
+    "wi-cloud-up": {
+        "body": "<${1:i} className=\"wi wi-cloud-up$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-cloud-up"
+    },
+    "wi-cloud-refresh": {
+        "body": "<${1:i} className=\"wi wi-cloud-refresh$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-cloud-refresh"
+    },
+    "wi-horizon": {
+        "body": "<${1:i} className=\"wi wi-horizon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-horizon"
+    },
+    "wi-horizon-alt": {
+        "body": "<${1:i} className=\"wi wi-horizon-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-horizon-alt"
+    },
+    "wi-sunrise": {
+        "body": "<${1:i} className=\"wi wi-sunrise$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-sunrise"
+    },
+    "wi-sunset": {
+        "body": "<${1:i} className=\"wi wi-sunset$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-sunset"
+    },
+    "wi-moonrise": {
+        "body": "<${1:i} className=\"wi wi-moonrise$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moonrise"
+    },
+    "wi-moonset": {
+        "body": "<${1:i} className=\"wi wi-moonset$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moonset"
+    },
+    "wi-refresh": {
+        "body": "<${1:i} className=\"wi wi-refresh$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-refresh"
+    },
+    "wi-refresh-alt": {
+        "body": "<${1:i} className=\"wi wi-refresh-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-refresh-alt"
+    },
+    "wi-umbrella": {
+        "body": "<${1:i} className=\"wi wi-umbrella$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-umbrella"
+    },
+    "wi-barometer": {
+        "body": "<${1:i} className=\"wi wi-barometer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-barometer"
+    },
+    "wi-humidity": {
+        "body": "<${1:i} className=\"wi wi-humidity$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-humidity"
+    },
+    "wi-na": {
+        "body": "<${1:i} className=\"wi wi-na$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-na"
+    },
+    "wi-train": {
+        "body": "<${1:i} className=\"wi wi-train$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-train"
+    },
+    "wi-moon-new": {
+        "body": "<${1:i} className=\"wi wi-moon-new$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-new"
+    },
+    "wi-moon-waxing-crescent-1": {
+        "body": "<${1:i} className=\"wi wi-moon-waxing-crescent-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waxing-crescent-1"
+    },
+    "wi-moon-waxing-crescent-2": {
+        "body": "<${1:i} className=\"wi wi-moon-waxing-crescent-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waxing-crescent-2"
+    },
+    "wi-moon-waxing-crescent-3": {
+        "body": "<${1:i} className=\"wi wi-moon-waxing-crescent-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waxing-crescent-3"
+    },
+    "wi-moon-waxing-crescent-4": {
+        "body": "<${1:i} className=\"wi wi-moon-waxing-crescent-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waxing-crescent-4"
+    },
+    "wi-moon-waxing-crescent-5": {
+        "body": "<${1:i} className=\"wi wi-moon-waxing-crescent-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waxing-crescent-5"
+    },
+    "wi-moon-waxing-crescent-6": {
+        "body": "<${1:i} className=\"wi wi-moon-waxing-crescent-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waxing-crescent-6"
+    },
+    "wi-moon-first-quarter": {
+        "body": "<${1:i} className=\"wi wi-moon-first-quarter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-first-quarter"
+    },
+    "wi-moon-waxing-gibbous-1": {
+        "body": "<${1:i} className=\"wi wi-moon-waxing-gibbous-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waxing-gibbous-1"
+    },
+    "wi-moon-waxing-gibbous-2": {
+        "body": "<${1:i} className=\"wi wi-moon-waxing-gibbous-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waxing-gibbous-2"
+    },
+    "wi-moon-waxing-gibbous-3": {
+        "body": "<${1:i} className=\"wi wi-moon-waxing-gibbous-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waxing-gibbous-3"
+    },
+    "wi-moon-waxing-gibbous-4": {
+        "body": "<${1:i} className=\"wi wi-moon-waxing-gibbous-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waxing-gibbous-4"
+    },
+    "wi-moon-waxing-gibbous-5": {
+        "body": "<${1:i} className=\"wi wi-moon-waxing-gibbous-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waxing-gibbous-5"
+    },
+    "wi-moon-waxing-gibbous-6": {
+        "body": "<${1:i} className=\"wi wi-moon-waxing-gibbous-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waxing-gibbous-6"
+    },
+    "wi-moon-full": {
+        "body": "<${1:i} className=\"wi wi-moon-full$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-full"
+    },
+    "wi-moon-waning-gibbous-1": {
+        "body": "<${1:i} className=\"wi wi-moon-waning-gibbous-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waning-gibbous-1"
+    },
+    "wi-moon-waning-gibbous-2": {
+        "body": "<${1:i} className=\"wi wi-moon-waning-gibbous-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waning-gibbous-2"
+    },
+    "wi-moon-waning-gibbous-3": {
+        "body": "<${1:i} className=\"wi wi-moon-waning-gibbous-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waning-gibbous-3"
+    },
+    "wi-moon-waning-gibbous-4": {
+        "body": "<${1:i} className=\"wi wi-moon-waning-gibbous-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waning-gibbous-4"
+    },
+    "wi-moon-waning-gibbous-5": {
+        "body": "<${1:i} className=\"wi wi-moon-waning-gibbous-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waning-gibbous-5"
+    },
+    "wi-moon-waning-gibbous-6": {
+        "body": "<${1:i} className=\"wi wi-moon-waning-gibbous-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waning-gibbous-6"
+    },
+    "wi-moon-third-quarter": {
+        "body": "<${1:i} className=\"wi wi-moon-third-quarter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-third-quarter"
+    },
+    "wi-moon-waning-crescent-1": {
+        "body": "<${1:i} className=\"wi wi-moon-waning-crescent-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waning-crescent-1"
+    },
+    "wi-moon-waning-crescent-2": {
+        "body": "<${1:i} className=\"wi wi-moon-waning-crescent-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waning-crescent-2"
+    },
+    "wi-moon-waning-crescent-3": {
+        "body": "<${1:i} className=\"wi wi-moon-waning-crescent-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waning-crescent-3"
+    },
+    "wi-moon-waning-crescent-4": {
+        "body": "<${1:i} className=\"wi wi-moon-waning-crescent-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waning-crescent-4"
+    },
+    "wi-moon-waning-crescent-5": {
+        "body": "<${1:i} className=\"wi wi-moon-waning-crescent-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waning-crescent-5"
+    },
+    "wi-moon-waning-crescent-6": {
+        "body": "<${1:i} className=\"wi wi-moon-waning-crescent-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-waning-crescent-6"
+    },
+    "wi-moon-alt-new": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-new$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-new"
+    },
+    "wi-moon-alt-waxing-crescent-1": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waxing-crescent-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waxing-crescent-1"
+    },
+    "wi-moon-alt-waxing-crescent-2": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waxing-crescent-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waxing-crescent-2"
+    },
+    "wi-moon-alt-waxing-crescent-3": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waxing-crescent-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waxing-crescent-3"
+    },
+    "wi-moon-alt-waxing-crescent-4": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waxing-crescent-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waxing-crescent-4"
+    },
+    "wi-moon-alt-waxing-crescent-5": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waxing-crescent-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waxing-crescent-5"
+    },
+    "wi-moon-alt-waxing-crescent-6": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waxing-crescent-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waxing-crescent-6"
+    },
+    "wi-moon-alt-first-quarter": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-first-quarter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-first-quarter"
+    },
+    "wi-moon-alt-waxing-gibbous-1": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waxing-gibbous-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waxing-gibbous-1"
+    },
+    "wi-moon-alt-waxing-gibbous-2": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waxing-gibbous-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waxing-gibbous-2"
+    },
+    "wi-moon-alt-waxing-gibbous-3": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waxing-gibbous-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waxing-gibbous-3"
+    },
+    "wi-moon-alt-waxing-gibbous-4": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waxing-gibbous-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waxing-gibbous-4"
+    },
+    "wi-moon-alt-waxing-gibbous-5": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waxing-gibbous-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waxing-gibbous-5"
+    },
+    "wi-moon-alt-waxing-gibbous-6": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waxing-gibbous-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waxing-gibbous-6"
+    },
+    "wi-moon-alt-full": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-full$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-full"
+    },
+    "wi-moon-alt-waning-gibbous-1": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waning-gibbous-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waning-gibbous-1"
+    },
+    "wi-moon-alt-waning-gibbous-2": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waning-gibbous-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waning-gibbous-2"
+    },
+    "wi-moon-alt-waning-gibbous-3": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waning-gibbous-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waning-gibbous-3"
+    },
+    "wi-moon-alt-waning-gibbous-4": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waning-gibbous-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waning-gibbous-4"
+    },
+    "wi-moon-alt-waning-gibbous-5": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waning-gibbous-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waning-gibbous-5"
+    },
+    "wi-moon-alt-waning-gibbous-6": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waning-gibbous-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waning-gibbous-6"
+    },
+    "wi-moon-alt-third-quarter": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-third-quarter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-third-quarter"
+    },
+    "wi-moon-alt-waning-crescent-1": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waning-crescent-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waning-crescent-1"
+    },
+    "wi-moon-alt-waning-crescent-2": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waning-crescent-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waning-crescent-2"
+    },
+    "wi-moon-alt-waning-crescent-3": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waning-crescent-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waning-crescent-3"
+    },
+    "wi-moon-alt-waning-crescent-4": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waning-crescent-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waning-crescent-4"
+    },
+    "wi-moon-alt-waning-crescent-5": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waning-crescent-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waning-crescent-5"
+    },
+    "wi-moon-alt-waning-crescent-6": {
+        "body": "<${1:i} className=\"wi wi-moon-alt-waning-crescent-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-alt-waning-crescent-6"
+    },
+    "wi-moon-0": {
+        "body": "<${1:i} className=\"wi wi-moon-0$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-0"
+    },
+    "wi-moon-1": {
+        "body": "<${1:i} className=\"wi wi-moon-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-1"
+    },
+    "wi-moon-2": {
+        "body": "<${1:i} className=\"wi wi-moon-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-2"
+    },
+    "wi-moon-3": {
+        "body": "<${1:i} className=\"wi wi-moon-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-3"
+    },
+    "wi-moon-4": {
+        "body": "<${1:i} className=\"wi wi-moon-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-4"
+    },
+    "wi-moon-5": {
+        "body": "<${1:i} className=\"wi wi-moon-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-5"
+    },
+    "wi-moon-6": {
+        "body": "<${1:i} className=\"wi wi-moon-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-6"
+    },
+    "wi-moon-7": {
+        "body": "<${1:i} className=\"wi wi-moon-7$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-7"
+    },
+    "wi-moon-8": {
+        "body": "<${1:i} className=\"wi wi-moon-8$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-8"
+    },
+    "wi-moon-9": {
+        "body": "<${1:i} className=\"wi wi-moon-9$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-9"
+    },
+    "wi-moon-10": {
+        "body": "<${1:i} className=\"wi wi-moon-10$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-10"
+    },
+    "wi-moon-11": {
+        "body": "<${1:i} className=\"wi wi-moon-11$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-11"
+    },
+    "wi-moon-12": {
+        "body": "<${1:i} className=\"wi wi-moon-12$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-12"
+    },
+    "wi-moon-13": {
+        "body": "<${1:i} className=\"wi wi-moon-13$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-13"
+    },
+    "wi-moon-14": {
+        "body": "<${1:i} className=\"wi wi-moon-14$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-14"
+    },
+    "wi-moon-15": {
+        "body": "<${1:i} className=\"wi wi-moon-15$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-15"
+    },
+    "wi-moon-16": {
+        "body": "<${1:i} className=\"wi wi-moon-16$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-16"
+    },
+    "wi-moon-17": {
+        "body": "<${1:i} className=\"wi wi-moon-17$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-17"
+    },
+    "wi-moon-18": {
+        "body": "<${1:i} className=\"wi wi-moon-18$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-18"
+    },
+    "wi-moon-19": {
+        "body": "<${1:i} className=\"wi wi-moon-19$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-19"
+    },
+    "wi-moon-20": {
+        "body": "<${1:i} className=\"wi wi-moon-20$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-20"
+    },
+    "wi-moon-21": {
+        "body": "<${1:i} className=\"wi wi-moon-21$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-21"
+    },
+    "wi-moon-22": {
+        "body": "<${1:i} className=\"wi wi-moon-22$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-22"
+    },
+    "wi-moon-23": {
+        "body": "<${1:i} className=\"wi wi-moon-23$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-23"
+    },
+    "wi-moon-24": {
+        "body": "<${1:i} className=\"wi wi-moon-24$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-24"
+    },
+    "wi-moon-25": {
+        "body": "<${1:i} className=\"wi wi-moon-25$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-25"
+    },
+    "wi-moon-26": {
+        "body": "<${1:i} className=\"wi wi-moon-26$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-26"
+    },
+    "wi-moon-27": {
+        "body": "<${1:i} className=\"wi wi-moon-27$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-moon-27"
+    },
+    "wi-time-1": {
+        "body": "<${1:i} className=\"wi wi-time-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-time-1"
+    },
+    "wi-time-2": {
+        "body": "<${1:i} className=\"wi wi-time-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-time-2"
+    },
+    "wi-time-3": {
+        "body": "<${1:i} className=\"wi wi-time-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-time-3"
+    },
+    "wi-time-4": {
+        "body": "<${1:i} className=\"wi wi-time-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-time-4"
+    },
+    "wi-time-5": {
+        "body": "<${1:i} className=\"wi wi-time-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-time-5"
+    },
+    "wi-time-6": {
+        "body": "<${1:i} className=\"wi wi-time-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-time-6"
+    },
+    "wi-time-7": {
+        "body": "<${1:i} className=\"wi wi-time-7$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-time-7"
+    },
+    "wi-time-8": {
+        "body": "<${1:i} className=\"wi wi-time-8$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-time-8"
+    },
+    "wi-time-9": {
+        "body": "<${1:i} className=\"wi wi-time-9$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-time-9"
+    },
+    "wi-time-10": {
+        "body": "<${1:i} className=\"wi wi-time-10$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-time-10"
+    },
+    "wi-time-11": {
+        "body": "<${1:i} className=\"wi wi-time-11$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-time-11"
+    },
+    "wi-time-12": {
+        "body": "<${1:i} className=\"wi wi-time-12$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-time-12"
+    },
+    "wi-direction-up": {
+        "body": "<${1:i} className=\"wi wi-direction-up$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-direction-up"
+    },
+    "wi-direction-up-right": {
+        "body": "<${1:i} className=\"wi wi-direction-up-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-direction-up-right"
+    },
+    "wi-direction-right": {
+        "body": "<${1:i} className=\"wi wi-direction-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-direction-right"
+    },
+    "wi-direction-down-right": {
+        "body": "<${1:i} className=\"wi wi-direction-down-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-direction-down-right"
+    },
+    "wi-direction-down": {
+        "body": "<${1:i} className=\"wi wi-direction-down$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-direction-down"
+    },
+    "wi-direction-down-left": {
+        "body": "<${1:i} className=\"wi wi-direction-down-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-direction-down-left"
+    },
+    "wi-direction-left": {
+        "body": "<${1:i} className=\"wi wi-direction-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-direction-left"
+    },
+    "wi-direction-up-left": {
+        "body": "<${1:i} className=\"wi wi-direction-up-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-direction-up-left"
+    },
+    "wi-wind-beaufort-0": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-0$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-0"
+    },
+    "wi-wind-beaufort-1": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-1"
+    },
+    "wi-wind-beaufort-2": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-2"
+    },
+    "wi-wind-beaufort-3": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-3"
+    },
+    "wi-wind-beaufort-4": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-4"
+    },
+    "wi-wind-beaufort-5": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-5"
+    },
+    "wi-wind-beaufort-6": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-6"
+    },
+    "wi-wind-beaufort-7": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-7$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-7"
+    },
+    "wi-wind-beaufort-8": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-8$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-8"
+    },
+    "wi-wind-beaufort-9": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-9$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-9"
+    },
+    "wi-wind-beaufort-10": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-10$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-10"
+    },
+    "wi-wind-beaufort-11": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-11$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-11"
+    },
+    "wi-wind-beaufort-12": {
+        "body": "<${1:i} className=\"wi wi-wind-beaufort-12$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wind-beaufort-12"
+    },
+    "wi-yahoo-0": {
+        "body": "<${1:i} className=\"wi wi-yahoo-0$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-0"
+    },
+    "wi-yahoo-1": {
+        "body": "<${1:i} className=\"wi wi-yahoo-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-1"
+    },
+    "wi-yahoo-2": {
+        "body": "<${1:i} className=\"wi wi-yahoo-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-2"
+    },
+    "wi-yahoo-3": {
+        "body": "<${1:i} className=\"wi wi-yahoo-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-3"
+    },
+    "wi-yahoo-4": {
+        "body": "<${1:i} className=\"wi wi-yahoo-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-4"
+    },
+    "wi-yahoo-5": {
+        "body": "<${1:i} className=\"wi wi-yahoo-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-5"
+    },
+    "wi-yahoo-6": {
+        "body": "<${1:i} className=\"wi wi-yahoo-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-6"
+    },
+    "wi-yahoo-7": {
+        "body": "<${1:i} className=\"wi wi-yahoo-7$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-7"
+    },
+    "wi-yahoo-8": {
+        "body": "<${1:i} className=\"wi wi-yahoo-8$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-8"
+    },
+    "wi-yahoo-9": {
+        "body": "<${1:i} className=\"wi wi-yahoo-9$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-9"
+    },
+    "wi-yahoo-10": {
+        "body": "<${1:i} className=\"wi wi-yahoo-10$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-10"
+    },
+    "wi-yahoo-11": {
+        "body": "<${1:i} className=\"wi wi-yahoo-11$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-11"
+    },
+    "wi-yahoo-12": {
+        "body": "<${1:i} className=\"wi wi-yahoo-12$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-12"
+    },
+    "wi-yahoo-13": {
+        "body": "<${1:i} className=\"wi wi-yahoo-13$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-13"
+    },
+    "wi-yahoo-14": {
+        "body": "<${1:i} className=\"wi wi-yahoo-14$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-14"
+    },
+    "wi-yahoo-15": {
+        "body": "<${1:i} className=\"wi wi-yahoo-15$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-15"
+    },
+    "wi-yahoo-16": {
+        "body": "<${1:i} className=\"wi wi-yahoo-16$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-16"
+    },
+    "wi-yahoo-17": {
+        "body": "<${1:i} className=\"wi wi-yahoo-17$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-17"
+    },
+    "wi-yahoo-18": {
+        "body": "<${1:i} className=\"wi wi-yahoo-18$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-18"
+    },
+    "wi-yahoo-19": {
+        "body": "<${1:i} className=\"wi wi-yahoo-19$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-19"
+    },
+    "wi-yahoo-20": {
+        "body": "<${1:i} className=\"wi wi-yahoo-20$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-20"
+    },
+    "wi-yahoo-21": {
+        "body": "<${1:i} className=\"wi wi-yahoo-21$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-21"
+    },
+    "wi-yahoo-22": {
+        "body": "<${1:i} className=\"wi wi-yahoo-22$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-22"
+    },
+    "wi-yahoo-23": {
+        "body": "<${1:i} className=\"wi wi-yahoo-23$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-23"
+    },
+    "wi-yahoo-24": {
+        "body": "<${1:i} className=\"wi wi-yahoo-24$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-24"
+    },
+    "wi-yahoo-25": {
+        "body": "<${1:i} className=\"wi wi-yahoo-25$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-25"
+    },
+    "wi-yahoo-26": {
+        "body": "<${1:i} className=\"wi wi-yahoo-26$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-26"
+    },
+    "wi-yahoo-27": {
+        "body": "<${1:i} className=\"wi wi-yahoo-27$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-27"
+    },
+    "wi-yahoo-28": {
+        "body": "<${1:i} className=\"wi wi-yahoo-28$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-28"
+    },
+    "wi-yahoo-29": {
+        "body": "<${1:i} className=\"wi wi-yahoo-29$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-29"
+    },
+    "wi-yahoo-30": {
+        "body": "<${1:i} className=\"wi wi-yahoo-30$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-30"
+    },
+    "wi-yahoo-31": {
+        "body": "<${1:i} className=\"wi wi-yahoo-31$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-31"
+    },
+    "wi-yahoo-32": {
+        "body": "<${1:i} className=\"wi wi-yahoo-32$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-32"
+    },
+    "wi-yahoo-33": {
+        "body": "<${1:i} className=\"wi wi-yahoo-33$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-33"
+    },
+    "wi-yahoo-34": {
+        "body": "<${1:i} className=\"wi wi-yahoo-34$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-34"
+    },
+    "wi-yahoo-35": {
+        "body": "<${1:i} className=\"wi wi-yahoo-35$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-35"
+    },
+    "wi-yahoo-36": {
+        "body": "<${1:i} className=\"wi wi-yahoo-36$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-36"
+    },
+    "wi-yahoo-37": {
+        "body": "<${1:i} className=\"wi wi-yahoo-37$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-37"
+    },
+    "wi-yahoo-38": {
+        "body": "<${1:i} className=\"wi wi-yahoo-38$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-38"
+    },
+    "wi-yahoo-39": {
+        "body": "<${1:i} className=\"wi wi-yahoo-39$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-39"
+    },
+    "wi-yahoo-40": {
+        "body": "<${1:i} className=\"wi wi-yahoo-40$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-40"
+    },
+    "wi-yahoo-41": {
+        "body": "<${1:i} className=\"wi wi-yahoo-41$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-41"
+    },
+    "wi-yahoo-42": {
+        "body": "<${1:i} className=\"wi wi-yahoo-42$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-42"
+    },
+    "wi-yahoo-43": {
+        "body": "<${1:i} className=\"wi wi-yahoo-43$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-43"
+    },
+    "wi-yahoo-44": {
+        "body": "<${1:i} className=\"wi wi-yahoo-44$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-44"
+    },
+    "wi-yahoo-45": {
+        "body": "<${1:i} className=\"wi wi-yahoo-45$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-45"
+    },
+    "wi-yahoo-46": {
+        "body": "<${1:i} className=\"wi wi-yahoo-46$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-46"
+    },
+    "wi-yahoo-47": {
+        "body": "<${1:i} className=\"wi wi-yahoo-47$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-47"
+    },
+    "wi-yahoo-3200": {
+        "body": "<${1:i} className=\"wi wi-yahoo-3200$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-yahoo-3200"
+    },
+    "wi-forecast-io-clear-day": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-clear-day$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-clear-day"
+    },
+    "wi-forecast-io-clear-night": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-clear-night$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-clear-night"
+    },
+    "wi-forecast-io-rain": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-rain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-rain"
+    },
+    "wi-forecast-io-snow": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-snow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-snow"
+    },
+    "wi-forecast-io-sleet": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-sleet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-sleet"
+    },
+    "wi-forecast-io-wind": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-wind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-wind"
+    },
+    "wi-forecast-io-fog": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-fog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-fog"
+    },
+    "wi-forecast-io-cloudy": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-cloudy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-cloudy"
+    },
+    "wi-forecast-io-partly-cloudy-day": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-partly-cloudy-day$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-partly-cloudy-day"
+    },
+    "wi-forecast-io-partly-cloudy-night": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-partly-cloudy-night$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-partly-cloudy-night"
+    },
+    "wi-forecast-io-hail": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-hail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-hail"
+    },
+    "wi-forecast-io-thunderstorm": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-thunderstorm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-thunderstorm"
+    },
+    "wi-forecast-io-tornado": {
+        "body": "<${1:i} className=\"wi wi-forecast-io-tornado$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-forecast-io-tornado"
+    },
+    "wi-wmo4680-0": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-0$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-0"
+    },
+    "wi-wmo4680-1": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-1"
+    },
+    "wi-wmo4680-2": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-2"
+    },
+    "wi-wmo4680-3": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-3"
+    },
+    "wi-wmo4680-4": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-4"
+    },
+    "wi-wmo4680-5": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-5"
+    },
+    "wi-wmo4680-10": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-10$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-10"
+    },
+    "wi-wmo4680-11": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-11$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-11"
+    },
+    "wi-wmo4680-12": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-12$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-12"
+    },
+    "wi-wmo4680-18": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-18$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-18"
+    },
+    "wi-wmo4680-20": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-20$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-20"
+    },
+    "wi-wmo4680-21": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-21$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-21"
+    },
+    "wi-wmo4680-22": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-22$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-22"
+    },
+    "wi-wmo4680-23": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-23$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-23"
+    },
+    "wi-wmo4680-24": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-24$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-24"
+    },
+    "wi-wmo4680-25": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-25$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-25"
+    },
+    "wi-wmo4680-26": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-26$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-26"
+    },
+    "wi-wmo4680-27": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-27$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-27"
+    },
+    "wi-wmo4680-28": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-28$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-28"
+    },
+    "wi-wmo4680-29": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-29$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-29"
+    },
+    "wi-wmo4680-30": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-30$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-30"
+    },
+    "wi-wmo4680-31": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-31$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-31"
+    },
+    "wi-wmo4680-32": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-32$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-32"
+    },
+    "wi-wmo4680-33": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-33$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-33"
+    },
+    "wi-wmo4680-34": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-34$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-34"
+    },
+    "wi-wmo4680-35": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-35$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-35"
+    },
+    "wi-wmo4680-40": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-40$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-40"
+    },
+    "wi-wmo4680-41": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-41$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-41"
+    },
+    "wi-wmo4680-42": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-42$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-42"
+    },
+    "wi-wmo4680-43": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-43$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-43"
+    },
+    "wi-wmo4680-44": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-44$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-44"
+    },
+    "wi-wmo4680-45": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-45$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-45"
+    },
+    "wi-wmo4680-46": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-46$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-46"
+    },
+    "wi-wmo4680-47": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-47$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-47"
+    },
+    "wi-wmo4680-48": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-48$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-48"
+    },
+    "wi-wmo4680-50": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-50$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-50"
+    },
+    "wi-wmo4680-51": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-51$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-51"
+    },
+    "wi-wmo4680-52": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-52$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-52"
+    },
+    "wi-wmo4680-53": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-53$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-53"
+    },
+    "wi-wmo4680-54": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-54$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-54"
+    },
+    "wi-wmo4680-55": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-55$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-55"
+    },
+    "wi-wmo4680-56": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-56$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-56"
+    },
+    "wi-wmo4680-57": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-57$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-57"
+    },
+    "wi-wmo4680-58": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-58$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-58"
+    },
+    "wi-wmo4680-60": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-60$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-60"
+    },
+    "wi-wmo4680-61": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-61$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-61"
+    },
+    "wi-wmo4680-62": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-62$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-62"
+    },
+    "wi-wmo4680-63": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-63$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-63"
+    },
+    "wi-wmo4680-64": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-64$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-64"
+    },
+    "wi-wmo4680-65": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-65$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-65"
+    },
+    "wi-wmo4680-66": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-66$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-66"
+    },
+    "wi-wmo4680-67": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-67$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-67"
+    },
+    "wi-wmo4680-68": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-68$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-68"
+    },
+    "wi-wmo4680-70": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-70$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-70"
+    },
+    "wi-wmo4680-71": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-71$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-71"
+    },
+    "wi-wmo4680-72": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-72$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-72"
+    },
+    "wi-wmo4680-73": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-73$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-73"
+    },
+    "wi-wmo4680-74": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-74$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-74"
+    },
+    "wi-wmo4680-75": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-75$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-75"
+    },
+    "wi-wmo4680-76": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-76$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-76"
+    },
+    "wi-wmo4680-77": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-77$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-77"
+    },
+    "wi-wmo4680-78": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-78$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-78"
+    },
+    "wi-wmo4680-80": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-80$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-80"
+    },
+    "wi-wmo4680-81": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-81$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-81"
+    },
+    "wi-wmo4680-82": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-82$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-82"
+    },
+    "wi-wmo4680-83": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-83$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-83"
+    },
+    "wi-wmo4680-84": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-84$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-84"
+    },
+    "wi-wmo4680-85": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-85$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-85"
+    },
+    "wi-wmo4680-86": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-86$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-86"
+    },
+    "wi-wmo4680-87": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-87$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-87"
+    },
+    "wi-wmo4680-89": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-89$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-89"
+    },
+    "wi-wmo4680-90": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-90$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-90"
+    },
+    "wi-wmo4680-91": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-91$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-91"
+    },
+    "wi-wmo4680-92": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-92$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-92"
+    },
+    "wi-wmo4680-93": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-93$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-93"
+    },
+    "wi-wmo4680-94": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-94$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-94"
+    },
+    "wi-wmo4680-95": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-95$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-95"
+    },
+    "wi-wmo4680-96": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-96$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-96"
+    },
+    "wi-wmo4680-99": {
+        "body": "<${1:i} className=\"wi wi-wmo4680-99$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wmo4680-99"
+    },
+    "wi-owm-200": {
+        "body": "<${1:i} className=\"wi wi-owm-200$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-200"
+    },
+    "wi-owm-201": {
+        "body": "<${1:i} className=\"wi wi-owm-201$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-201"
+    },
+    "wi-owm-202": {
+        "body": "<${1:i} className=\"wi wi-owm-202$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-202"
+    },
+    "wi-owm-210": {
+        "body": "<${1:i} className=\"wi wi-owm-210$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-210"
+    },
+    "wi-owm-211": {
+        "body": "<${1:i} className=\"wi wi-owm-211$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-211"
+    },
+    "wi-owm-212": {
+        "body": "<${1:i} className=\"wi wi-owm-212$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-212"
+    },
+    "wi-owm-221": {
+        "body": "<${1:i} className=\"wi wi-owm-221$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-221"
+    },
+    "wi-owm-230": {
+        "body": "<${1:i} className=\"wi wi-owm-230$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-230"
+    },
+    "wi-owm-231": {
+        "body": "<${1:i} className=\"wi wi-owm-231$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-231"
+    },
+    "wi-owm-232": {
+        "body": "<${1:i} className=\"wi wi-owm-232$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-232"
+    },
+    "wi-owm-300": {
+        "body": "<${1:i} className=\"wi wi-owm-300$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-300"
+    },
+    "wi-owm-301": {
+        "body": "<${1:i} className=\"wi wi-owm-301$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-301"
+    },
+    "wi-owm-302": {
+        "body": "<${1:i} className=\"wi wi-owm-302$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-302"
+    },
+    "wi-owm-310": {
+        "body": "<${1:i} className=\"wi wi-owm-310$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-310"
+    },
+    "wi-owm-311": {
+        "body": "<${1:i} className=\"wi wi-owm-311$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-311"
+    },
+    "wi-owm-312": {
+        "body": "<${1:i} className=\"wi wi-owm-312$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-312"
+    },
+    "wi-owm-313": {
+        "body": "<${1:i} className=\"wi wi-owm-313$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-313"
+    },
+    "wi-owm-314": {
+        "body": "<${1:i} className=\"wi wi-owm-314$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-314"
+    },
+    "wi-owm-321": {
+        "body": "<${1:i} className=\"wi wi-owm-321$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-321"
+    },
+    "wi-owm-500": {
+        "body": "<${1:i} className=\"wi wi-owm-500$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-500"
+    },
+    "wi-owm-501": {
+        "body": "<${1:i} className=\"wi wi-owm-501$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-501"
+    },
+    "wi-owm-502": {
+        "body": "<${1:i} className=\"wi wi-owm-502$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-502"
+    },
+    "wi-owm-503": {
+        "body": "<${1:i} className=\"wi wi-owm-503$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-503"
+    },
+    "wi-owm-504": {
+        "body": "<${1:i} className=\"wi wi-owm-504$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-504"
+    },
+    "wi-owm-511": {
+        "body": "<${1:i} className=\"wi wi-owm-511$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-511"
+    },
+    "wi-owm-520": {
+        "body": "<${1:i} className=\"wi wi-owm-520$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-520"
+    },
+    "wi-owm-521": {
+        "body": "<${1:i} className=\"wi wi-owm-521$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-521"
+    },
+    "wi-owm-522": {
+        "body": "<${1:i} className=\"wi wi-owm-522$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-522"
+    },
+    "wi-owm-531": {
+        "body": "<${1:i} className=\"wi wi-owm-531$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-531"
+    },
+    "wi-owm-600": {
+        "body": "<${1:i} className=\"wi wi-owm-600$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-600"
+    },
+    "wi-owm-601": {
+        "body": "<${1:i} className=\"wi wi-owm-601$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-601"
+    },
+    "wi-owm-602": {
+        "body": "<${1:i} className=\"wi wi-owm-602$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-602"
+    },
+    "wi-owm-611": {
+        "body": "<${1:i} className=\"wi wi-owm-611$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-611"
+    },
+    "wi-owm-612": {
+        "body": "<${1:i} className=\"wi wi-owm-612$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-612"
+    },
+    "wi-owm-615": {
+        "body": "<${1:i} className=\"wi wi-owm-615$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-615"
+    },
+    "wi-owm-616": {
+        "body": "<${1:i} className=\"wi wi-owm-616$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-616"
+    },
+    "wi-owm-620": {
+        "body": "<${1:i} className=\"wi wi-owm-620$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-620"
+    },
+    "wi-owm-621": {
+        "body": "<${1:i} className=\"wi wi-owm-621$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-621"
+    },
+    "wi-owm-622": {
+        "body": "<${1:i} className=\"wi wi-owm-622$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-622"
+    },
+    "wi-owm-701": {
+        "body": "<${1:i} className=\"wi wi-owm-701$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-701"
+    },
+    "wi-owm-711": {
+        "body": "<${1:i} className=\"wi wi-owm-711$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-711"
+    },
+    "wi-owm-721": {
+        "body": "<${1:i} className=\"wi wi-owm-721$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-721"
+    },
+    "wi-owm-731": {
+        "body": "<${1:i} className=\"wi wi-owm-731$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-731"
+    },
+    "wi-owm-741": {
+        "body": "<${1:i} className=\"wi wi-owm-741$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-741"
+    },
+    "wi-owm-761": {
+        "body": "<${1:i} className=\"wi wi-owm-761$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-761"
+    },
+    "wi-owm-762": {
+        "body": "<${1:i} className=\"wi wi-owm-762$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-762"
+    },
+    "wi-owm-771": {
+        "body": "<${1:i} className=\"wi wi-owm-771$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-771"
+    },
+    "wi-owm-781": {
+        "body": "<${1:i} className=\"wi wi-owm-781$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-781"
+    },
+    "wi-owm-800": {
+        "body": "<${1:i} className=\"wi wi-owm-800$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-800"
+    },
+    "wi-owm-801": {
+        "body": "<${1:i} className=\"wi wi-owm-801$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-801"
+    },
+    "wi-owm-802": {
+        "body": "<${1:i} className=\"wi wi-owm-802$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-802"
+    },
+    "wi-owm-803": {
+        "body": "<${1:i} className=\"wi wi-owm-803$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-803"
+    },
+    "wi-owm-804": {
+        "body": "<${1:i} className=\"wi wi-owm-804$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-804"
+    },
+    "wi-owm-900": {
+        "body": "<${1:i} className=\"wi wi-owm-900$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-900"
+    },
+    "wi-owm-901": {
+        "body": "<${1:i} className=\"wi wi-owm-901$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-901"
+    },
+    "wi-owm-902": {
+        "body": "<${1:i} className=\"wi wi-owm-902$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-902"
+    },
+    "wi-owm-903": {
+        "body": "<${1:i} className=\"wi wi-owm-903$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-903"
+    },
+    "wi-owm-904": {
+        "body": "<${1:i} className=\"wi wi-owm-904$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-904"
+    },
+    "wi-owm-905": {
+        "body": "<${1:i} className=\"wi wi-owm-905$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-905"
+    },
+    "wi-owm-906": {
+        "body": "<${1:i} className=\"wi wi-owm-906$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-906"
+    },
+    "wi-owm-957": {
+        "body": "<${1:i} className=\"wi wi-owm-957$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-957"
+    },
+    "wi-owm-day-200": {
+        "body": "<${1:i} className=\"wi wi-owm-day-200$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-200"
+    },
+    "wi-owm-day-201": {
+        "body": "<${1:i} className=\"wi wi-owm-day-201$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-201"
+    },
+    "wi-owm-day-202": {
+        "body": "<${1:i} className=\"wi wi-owm-day-202$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-202"
+    },
+    "wi-owm-day-210": {
+        "body": "<${1:i} className=\"wi wi-owm-day-210$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-210"
+    },
+    "wi-owm-day-211": {
+        "body": "<${1:i} className=\"wi wi-owm-day-211$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-211"
+    },
+    "wi-owm-day-212": {
+        "body": "<${1:i} className=\"wi wi-owm-day-212$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-212"
+    },
+    "wi-owm-day-221": {
+        "body": "<${1:i} className=\"wi wi-owm-day-221$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-221"
+    },
+    "wi-owm-day-230": {
+        "body": "<${1:i} className=\"wi wi-owm-day-230$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-230"
+    },
+    "wi-owm-day-231": {
+        "body": "<${1:i} className=\"wi wi-owm-day-231$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-231"
+    },
+    "wi-owm-day-232": {
+        "body": "<${1:i} className=\"wi wi-owm-day-232$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-232"
+    },
+    "wi-owm-day-300": {
+        "body": "<${1:i} className=\"wi wi-owm-day-300$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-300"
+    },
+    "wi-owm-day-301": {
+        "body": "<${1:i} className=\"wi wi-owm-day-301$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-301"
+    },
+    "wi-owm-day-302": {
+        "body": "<${1:i} className=\"wi wi-owm-day-302$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-302"
+    },
+    "wi-owm-day-310": {
+        "body": "<${1:i} className=\"wi wi-owm-day-310$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-310"
+    },
+    "wi-owm-day-311": {
+        "body": "<${1:i} className=\"wi wi-owm-day-311$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-311"
+    },
+    "wi-owm-day-312": {
+        "body": "<${1:i} className=\"wi wi-owm-day-312$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-312"
+    },
+    "wi-owm-day-313": {
+        "body": "<${1:i} className=\"wi wi-owm-day-313$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-313"
+    },
+    "wi-owm-day-314": {
+        "body": "<${1:i} className=\"wi wi-owm-day-314$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-314"
+    },
+    "wi-owm-day-321": {
+        "body": "<${1:i} className=\"wi wi-owm-day-321$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-321"
+    },
+    "wi-owm-day-500": {
+        "body": "<${1:i} className=\"wi wi-owm-day-500$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-500"
+    },
+    "wi-owm-day-501": {
+        "body": "<${1:i} className=\"wi wi-owm-day-501$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-501"
+    },
+    "wi-owm-day-502": {
+        "body": "<${1:i} className=\"wi wi-owm-day-502$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-502"
+    },
+    "wi-owm-day-503": {
+        "body": "<${1:i} className=\"wi wi-owm-day-503$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-503"
+    },
+    "wi-owm-day-504": {
+        "body": "<${1:i} className=\"wi wi-owm-day-504$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-504"
+    },
+    "wi-owm-day-511": {
+        "body": "<${1:i} className=\"wi wi-owm-day-511$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-511"
+    },
+    "wi-owm-day-520": {
+        "body": "<${1:i} className=\"wi wi-owm-day-520$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-520"
+    },
+    "wi-owm-day-521": {
+        "body": "<${1:i} className=\"wi wi-owm-day-521$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-521"
+    },
+    "wi-owm-day-522": {
+        "body": "<${1:i} className=\"wi wi-owm-day-522$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-522"
+    },
+    "wi-owm-day-531": {
+        "body": "<${1:i} className=\"wi wi-owm-day-531$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-531"
+    },
+    "wi-owm-day-600": {
+        "body": "<${1:i} className=\"wi wi-owm-day-600$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-600"
+    },
+    "wi-owm-day-601": {
+        "body": "<${1:i} className=\"wi wi-owm-day-601$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-601"
+    },
+    "wi-owm-day-602": {
+        "body": "<${1:i} className=\"wi wi-owm-day-602$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-602"
+    },
+    "wi-owm-day-611": {
+        "body": "<${1:i} className=\"wi wi-owm-day-611$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-611"
+    },
+    "wi-owm-day-612": {
+        "body": "<${1:i} className=\"wi wi-owm-day-612$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-612"
+    },
+    "wi-owm-day-615": {
+        "body": "<${1:i} className=\"wi wi-owm-day-615$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-615"
+    },
+    "wi-owm-day-616": {
+        "body": "<${1:i} className=\"wi wi-owm-day-616$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-616"
+    },
+    "wi-owm-day-620": {
+        "body": "<${1:i} className=\"wi wi-owm-day-620$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-620"
+    },
+    "wi-owm-day-621": {
+        "body": "<${1:i} className=\"wi wi-owm-day-621$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-621"
+    },
+    "wi-owm-day-622": {
+        "body": "<${1:i} className=\"wi wi-owm-day-622$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-622"
+    },
+    "wi-owm-day-701": {
+        "body": "<${1:i} className=\"wi wi-owm-day-701$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-701"
+    },
+    "wi-owm-day-711": {
+        "body": "<${1:i} className=\"wi wi-owm-day-711$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-711"
+    },
+    "wi-owm-day-721": {
+        "body": "<${1:i} className=\"wi wi-owm-day-721$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-721"
+    },
+    "wi-owm-day-731": {
+        "body": "<${1:i} className=\"wi wi-owm-day-731$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-731"
+    },
+    "wi-owm-day-741": {
+        "body": "<${1:i} className=\"wi wi-owm-day-741$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-741"
+    },
+    "wi-owm-day-761": {
+        "body": "<${1:i} className=\"wi wi-owm-day-761$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-761"
+    },
+    "wi-owm-day-762": {
+        "body": "<${1:i} className=\"wi wi-owm-day-762$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-762"
+    },
+    "wi-owm-day-781": {
+        "body": "<${1:i} className=\"wi wi-owm-day-781$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-781"
+    },
+    "wi-owm-day-800": {
+        "body": "<${1:i} className=\"wi wi-owm-day-800$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-800"
+    },
+    "wi-owm-day-801": {
+        "body": "<${1:i} className=\"wi wi-owm-day-801$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-801"
+    },
+    "wi-owm-day-802": {
+        "body": "<${1:i} className=\"wi wi-owm-day-802$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-802"
+    },
+    "wi-owm-day-803": {
+        "body": "<${1:i} className=\"wi wi-owm-day-803$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-803"
+    },
+    "wi-owm-day-804": {
+        "body": "<${1:i} className=\"wi wi-owm-day-804$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-804"
+    },
+    "wi-owm-day-900": {
+        "body": "<${1:i} className=\"wi wi-owm-day-900$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-900"
+    },
+    "wi-owm-day-902": {
+        "body": "<${1:i} className=\"wi wi-owm-day-902$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-902"
+    },
+    "wi-owm-day-903": {
+        "body": "<${1:i} className=\"wi wi-owm-day-903$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-903"
+    },
+    "wi-owm-day-904": {
+        "body": "<${1:i} className=\"wi wi-owm-day-904$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-904"
+    },
+    "wi-owm-day-906": {
+        "body": "<${1:i} className=\"wi wi-owm-day-906$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-906"
+    },
+    "wi-owm-day-957": {
+        "body": "<${1:i} className=\"wi wi-owm-day-957$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-day-957"
+    },
+    "wi-owm-night-200": {
+        "body": "<${1:i} className=\"wi wi-owm-night-200$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-200"
+    },
+    "wi-owm-night-201": {
+        "body": "<${1:i} className=\"wi wi-owm-night-201$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-201"
+    },
+    "wi-owm-night-202": {
+        "body": "<${1:i} className=\"wi wi-owm-night-202$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-202"
+    },
+    "wi-owm-night-210": {
+        "body": "<${1:i} className=\"wi wi-owm-night-210$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-210"
+    },
+    "wi-owm-night-211": {
+        "body": "<${1:i} className=\"wi wi-owm-night-211$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-211"
+    },
+    "wi-owm-night-212": {
+        "body": "<${1:i} className=\"wi wi-owm-night-212$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-212"
+    },
+    "wi-owm-night-221": {
+        "body": "<${1:i} className=\"wi wi-owm-night-221$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-221"
+    },
+    "wi-owm-night-230": {
+        "body": "<${1:i} className=\"wi wi-owm-night-230$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-230"
+    },
+    "wi-owm-night-231": {
+        "body": "<${1:i} className=\"wi wi-owm-night-231$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-231"
+    },
+    "wi-owm-night-232": {
+        "body": "<${1:i} className=\"wi wi-owm-night-232$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-232"
+    },
+    "wi-owm-night-300": {
+        "body": "<${1:i} className=\"wi wi-owm-night-300$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-300"
+    },
+    "wi-owm-night-301": {
+        "body": "<${1:i} className=\"wi wi-owm-night-301$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-301"
+    },
+    "wi-owm-night-302": {
+        "body": "<${1:i} className=\"wi wi-owm-night-302$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-302"
+    },
+    "wi-owm-night-310": {
+        "body": "<${1:i} className=\"wi wi-owm-night-310$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-310"
+    },
+    "wi-owm-night-311": {
+        "body": "<${1:i} className=\"wi wi-owm-night-311$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-311"
+    },
+    "wi-owm-night-312": {
+        "body": "<${1:i} className=\"wi wi-owm-night-312$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-312"
+    },
+    "wi-owm-night-313": {
+        "body": "<${1:i} className=\"wi wi-owm-night-313$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-313"
+    },
+    "wi-owm-night-314": {
+        "body": "<${1:i} className=\"wi wi-owm-night-314$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-314"
+    },
+    "wi-owm-night-321": {
+        "body": "<${1:i} className=\"wi wi-owm-night-321$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-321"
+    },
+    "wi-owm-night-500": {
+        "body": "<${1:i} className=\"wi wi-owm-night-500$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-500"
+    },
+    "wi-owm-night-501": {
+        "body": "<${1:i} className=\"wi wi-owm-night-501$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-501"
+    },
+    "wi-owm-night-502": {
+        "body": "<${1:i} className=\"wi wi-owm-night-502$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-502"
+    },
+    "wi-owm-night-503": {
+        "body": "<${1:i} className=\"wi wi-owm-night-503$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-503"
+    },
+    "wi-owm-night-504": {
+        "body": "<${1:i} className=\"wi wi-owm-night-504$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-504"
+    },
+    "wi-owm-night-511": {
+        "body": "<${1:i} className=\"wi wi-owm-night-511$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-511"
+    },
+    "wi-owm-night-520": {
+        "body": "<${1:i} className=\"wi wi-owm-night-520$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-520"
+    },
+    "wi-owm-night-521": {
+        "body": "<${1:i} className=\"wi wi-owm-night-521$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-521"
+    },
+    "wi-owm-night-522": {
+        "body": "<${1:i} className=\"wi wi-owm-night-522$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-522"
+    },
+    "wi-owm-night-531": {
+        "body": "<${1:i} className=\"wi wi-owm-night-531$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-531"
+    },
+    "wi-owm-night-600": {
+        "body": "<${1:i} className=\"wi wi-owm-night-600$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-600"
+    },
+    "wi-owm-night-601": {
+        "body": "<${1:i} className=\"wi wi-owm-night-601$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-601"
+    },
+    "wi-owm-night-602": {
+        "body": "<${1:i} className=\"wi wi-owm-night-602$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-602"
+    },
+    "wi-owm-night-611": {
+        "body": "<${1:i} className=\"wi wi-owm-night-611$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-611"
+    },
+    "wi-owm-night-612": {
+        "body": "<${1:i} className=\"wi wi-owm-night-612$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-612"
+    },
+    "wi-owm-night-615": {
+        "body": "<${1:i} className=\"wi wi-owm-night-615$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-615"
+    },
+    "wi-owm-night-616": {
+        "body": "<${1:i} className=\"wi wi-owm-night-616$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-616"
+    },
+    "wi-owm-night-620": {
+        "body": "<${1:i} className=\"wi wi-owm-night-620$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-620"
+    },
+    "wi-owm-night-621": {
+        "body": "<${1:i} className=\"wi wi-owm-night-621$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-621"
+    },
+    "wi-owm-night-622": {
+        "body": "<${1:i} className=\"wi wi-owm-night-622$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-622"
+    },
+    "wi-owm-night-701": {
+        "body": "<${1:i} className=\"wi wi-owm-night-701$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-701"
+    },
+    "wi-owm-night-711": {
+        "body": "<${1:i} className=\"wi wi-owm-night-711$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-711"
+    },
+    "wi-owm-night-721": {
+        "body": "<${1:i} className=\"wi wi-owm-night-721$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-721"
+    },
+    "wi-owm-night-731": {
+        "body": "<${1:i} className=\"wi wi-owm-night-731$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-731"
+    },
+    "wi-owm-night-741": {
+        "body": "<${1:i} className=\"wi wi-owm-night-741$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-741"
+    },
+    "wi-owm-night-761": {
+        "body": "<${1:i} className=\"wi wi-owm-night-761$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-761"
+    },
+    "wi-owm-night-762": {
+        "body": "<${1:i} className=\"wi wi-owm-night-762$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-762"
+    },
+    "wi-owm-night-781": {
+        "body": "<${1:i} className=\"wi wi-owm-night-781$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-781"
+    },
+    "wi-owm-night-800": {
+        "body": "<${1:i} className=\"wi wi-owm-night-800$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-800"
+    },
+    "wi-owm-night-801": {
+        "body": "<${1:i} className=\"wi wi-owm-night-801$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-801"
+    },
+    "wi-owm-night-802": {
+        "body": "<${1:i} className=\"wi wi-owm-night-802$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-802"
+    },
+    "wi-owm-night-803": {
+        "body": "<${1:i} className=\"wi wi-owm-night-803$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-803"
+    },
+    "wi-owm-night-804": {
+        "body": "<${1:i} className=\"wi wi-owm-night-804$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-804"
+    },
+    "wi-owm-night-900": {
+        "body": "<${1:i} className=\"wi wi-owm-night-900$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-900"
+    },
+    "wi-owm-night-902": {
+        "body": "<${1:i} className=\"wi wi-owm-night-902$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-902"
+    },
+    "wi-owm-night-903": {
+        "body": "<${1:i} className=\"wi wi-owm-night-903$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-903"
+    },
+    "wi-owm-night-904": {
+        "body": "<${1:i} className=\"wi wi-owm-night-904$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-904"
+    },
+    "wi-owm-night-906": {
+        "body": "<${1:i} className=\"wi wi-owm-night-906$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-906"
+    },
+    "wi-owm-night-957": {
+        "body": "<${1:i} className=\"wi wi-owm-night-957$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-owm-night-957"
+    },
+    "wi-wu-chanceflurries": {
+        "body": "<${1:i} className=\"wi wi-wu-chanceflurries$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-chanceflurries"
+    },
+    "wi-wu-chancerain": {
+        "body": "<${1:i} className=\"wi wi-wu-chancerain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-chancerain"
+    },
+    "wi-wu-chancesleat": {
+        "body": "<${1:i} className=\"wi wi-wu-chancesleat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-chancesleat"
+    },
+    "wi-wu-chancesnow": {
+        "body": "<${1:i} className=\"wi wi-wu-chancesnow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-chancesnow"
+    },
+    "wi-wu-chancetstorms": {
+        "body": "<${1:i} className=\"wi wi-wu-chancetstorms$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-chancetstorms"
+    },
+    "wi-wu-clear": {
+        "body": "<${1:i} className=\"wi wi-wu-clear$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-clear"
+    },
+    "wi-wu-cloudy": {
+        "body": "<${1:i} className=\"wi wi-wu-cloudy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-cloudy"
+    },
+    "wi-wu-flurries": {
+        "body": "<${1:i} className=\"wi wi-wu-flurries$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-flurries"
+    },
+    "wi-wu-hazy": {
+        "body": "<${1:i} className=\"wi wi-wu-hazy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-hazy"
+    },
+    "wi-wu-mostlycloudy": {
+        "body": "<${1:i} className=\"wi wi-wu-mostlycloudy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-mostlycloudy"
+    },
+    "wi-wu-mostlysunny": {
+        "body": "<${1:i} className=\"wi wi-wu-mostlysunny$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-mostlysunny"
+    },
+    "wi-wu-partlycloudy": {
+        "body": "<${1:i} className=\"wi wi-wu-partlycloudy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-partlycloudy"
+    },
+    "wi-wu-partlysunny": {
+        "body": "<${1:i} className=\"wi wi-wu-partlysunny$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-partlysunny"
+    },
+    "wi-wu-rain": {
+        "body": "<${1:i} className=\"wi wi-wu-rain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-rain"
+    },
+    "wi-wu-sleat": {
+        "body": "<${1:i} className=\"wi wi-wu-sleat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-sleat"
+    },
+    "wi-wu-snow": {
+        "body": "<${1:i} className=\"wi wi-wu-snow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-snow"
+    },
+    "wi-wu-sunny": {
+        "body": "<${1:i} className=\"wi wi-wu-sunny$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-sunny"
+    },
+    "wi-wu-tstorms": {
+        "body": "<${1:i} className=\"wi wi-wu-tstorms$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-tstorms"
+    },
+    "wi-wu-unknown": {
+        "body": "<${1:i} className=\"wi wi-wu-unknown$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "wi-wu-unknown"
+    }
 }

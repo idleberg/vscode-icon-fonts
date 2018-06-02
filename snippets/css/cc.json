@@ -1,207 +1,192 @@
 {
-  "cc-blank": {
-    "body": "content: '\\\\0038';",
-    "description": "content",
-    "prefix": "cc-blank"
-  },
-  "cc-by": {
-    "body": "content: '\\\\0062';",
-    "description": "content",
-    "prefix": "cc-by"
-  },
-  "cc-by-nc": {
-    "body": "content: '\\\\004E';",
-    "description": "content",
-    "prefix": "cc-by-nc"
-  },
-  "cc-by-nc-eu": {
-    "body": "content: '\\\\0045';",
-    "description": "content",
-    "prefix": "cc-by-nc-eu"
-  },
-  "cc-by-nc-jp": {
-    "body": "content: '\\\\004A';",
-    "description": "content",
-    "prefix": "cc-by-nc-jp"
-  },
-  "cc-by-nc-nd": {
-    "body": "content: '\\\\0052';",
-    "description": "content",
-    "prefix": "cc-by-nc-nd"
-  },
-  "cc-by-nc-nd-eu": {
-    "body": "content: '\\\\0046';",
-    "description": "content",
-    "prefix": "cc-by-nc-nd-eu"
-  },
-  "cc-by-nc-nd-jp": {
-    "body": "content: '\\\\004B';",
-    "description": "content",
-    "prefix": "cc-by-nc-nd-jp"
-  },
-  "cc-by-nc-sa": {
-    "body": "content: '\\\\0036';",
-    "description": "content",
-    "prefix": "cc-by-nc-sa"
-  },
-  "cc-by-nc-sa-eu": {
-    "body": "content: '\\\\0047';",
-    "description": "content",
-    "prefix": "cc-by-nc-sa-eu"
-  },
-  "cc-by-nc-sa-jp": {
-    "body": "content: '\\\\004C';",
-    "description": "content",
-    "prefix": "cc-by-nc-sa-jp"
-  },
-  "cc-by-nd": {
-    "body": "content: '\\\\0044';",
-    "description": "content",
-    "prefix": "cc-by-nd"
-  },
-  "cc-by-sa": {
-    "body": "content: '\\\\0053';",
-    "description": "content",
-    "prefix": "cc-by-sa"
-  },
-  "cc-by-sa-nd": {
-    "body": "content: '\\\\0034';",
-    "description": "content",
-    "prefix": "cc-by-sa-nd"
-  },
-  "cc-cc": {
-    "body": "content: '\\\\0063';",
-    "description": "content",
-    "prefix": "cc-cc"
-  },
-  "cc-eight": {
-    "body": "content: '\\\\0038';",
-    "description": "content",
-    "prefix": "cc-eight"
-  },
-  "cc-five": {
-    "body": "content: '\\\\0035';",
-    "description": "content",
-    "prefix": "cc-five"
-  },
-  "cc-four": {
-    "body": "content: '\\\\0034';",
-    "description": "content",
-    "prefix": "cc-four"
-  },
-  "cc-logo": {
-    "body": "content: '\\\\0043';",
-    "description": "content",
-    "prefix": "cc-logo"
-  },
-  "cc-nc": {
-    "body": "content: '\\\\006E';",
-    "description": "content",
-    "prefix": "cc-nc"
-  },
-  "cc-nc-eu": {
-    "body": "content: '\\\\0065';",
-    "description": "content",
-    "prefix": "cc-nc-eu"
-  },
-  "cc-nc-jp": {
-    "body": "content: '\\\\006A';",
-    "description": "content",
-    "prefix": "cc-nc-jp"
-  },
-  "cc-nd": {
-    "body": "content: '\\\\0064';",
-    "description": "content",
-    "prefix": "cc-nd"
-  },
-  "cc-nine": {
-    "body": "content: '\\\\0039';",
-    "description": "content",
-    "prefix": "cc-nine"
-  },
-  "cc-one": {
-    "body": "content: '\\\\0031';",
-    "description": "content",
-    "prefix": "cc-one"
-  },
-  "cc-pd": {
-    "body": "content: '\\\\0070';",
-    "description": "content",
-    "prefix": "cc-pd"
-  },
-  "cc-pd-alt": {
-    "body": "content: '\\\\0071';",
-    "description": "content",
-    "prefix": "cc-pd-alt"
-  },
-  "cc-public": {
-    "body": "content: '\\\\0039';",
-    "description": "content",
-    "prefix": "cc-public"
-  },
-  "cc-publicdomain": {
-    "body": "content: '\\\\004F';",
-    "description": "content",
-    "prefix": "cc-publicdomain"
-  },
-  "cc-remix": {
-    "body": "content: '\\\\0072';",
-    "description": "content",
-    "prefix": "cc-remix"
-  },
-  "cc-sa": {
-    "body": "content: '\\\\0061';",
-    "description": "content",
-    "prefix": "cc-sa"
-  },
-  "cc-sampling": {
-    "body": "content: '\\\\006D';",
-    "description": "content",
-    "prefix": "cc-sampling"
-  },
-  "cc-seven": {
-    "body": "content: '\\\\0037';",
-    "description": "content",
-    "prefix": "cc-seven"
-  },
-  "cc-share": {
-    "body": "content: '\\\\0073';",
-    "description": "content",
-    "prefix": "cc-share"
-  },
-  "cc-six": {
-    "body": "content: '\\\\0036';",
-    "description": "content",
-    "prefix": "cc-six"
-  },
-  "cc-small-by": {
-    "body": "content: '\\\\0032';",
-    "description": "content",
-    "prefix": "cc-small-by"
-  },
-  "cc-srr": {
-    "body": "content: '\\\\0031';",
-    "description": "content",
-    "prefix": "cc-srr"
-  },
-  "cc-three": {
-    "body": "content: '\\\\0033';",
-    "description": "content",
-    "prefix": "cc-three"
-  },
-  "cc-two": {
-    "body": "content: '\\\\0032';",
-    "description": "content",
-    "prefix": "cc-two"
-  },
-  "cc-zero": {
-    "body": "content: '\\\\0030';",
-    "description": "content",
-    "prefix": "cc-zero"
-  },
-  "cc-zero-public": {
-    "body": "content: '\\\\0030';",
-    "description": "content",
-    "prefix": "cc-zero-public"
-  }
+    "cc-sa": {
+        "body": "content: '\\\\0061';$0",
+        "description": "content",
+        "prefix": "cc-sa"
+    },
+    "cc-by": {
+        "body": "content: '\\\\0062';$0",
+        "description": "content",
+        "prefix": "cc-by"
+    },
+    "cc-cc": {
+        "body": "content: '\\\\0063';$0",
+        "description": "content",
+        "prefix": "cc-cc"
+    },
+    "cc-nd": {
+        "body": "content: '\\\\0064';$0",
+        "description": "content",
+        "prefix": "cc-nd"
+    },
+    "cc-nc-eu": {
+        "body": "content: '\\\\0065';$0",
+        "description": "content",
+        "prefix": "cc-nc-eu"
+    },
+    "cc-nc-jp": {
+        "body": "content: '\\\\006A';$0",
+        "description": "content",
+        "prefix": "cc-nc-jp"
+    },
+    "cc-sampling": {
+        "body": "content: '\\\\006D';$0",
+        "description": "content",
+        "prefix": "cc-sampling"
+    },
+    "cc-nc": {
+        "body": "content: '\\\\006E';$0",
+        "description": "content",
+        "prefix": "cc-nc"
+    },
+    "cc-zero": {
+        "body": "content: '\\\\006F';$0",
+        "description": "content",
+        "prefix": "cc-zero"
+    },
+    "cc-pd": {
+        "body": "content: '\\\\0070';$0",
+        "description": "content",
+        "prefix": "cc-pd"
+    },
+    "cc-pd-alt": {
+        "body": "content: '\\\\0071';$0",
+        "description": "content",
+        "prefix": "cc-pd-alt"
+    },
+    "cc-remix": {
+        "body": "content: '\\\\0072';$0",
+        "description": "content",
+        "prefix": "cc-remix"
+    },
+    "cc-share": {
+        "body": "content: '\\\\0073';$0",
+        "description": "content",
+        "prefix": "cc-share"
+    },
+    "cc-srr": {
+        "body": "content: '\\\\0041';$0",
+        "description": "content",
+        "prefix": "cc-srr"
+    },
+    "cc-BY": {
+        "body": "content: '\\\\0042';$0",
+        "description": "content",
+        "prefix": "cc-BY"
+    },
+    "cc-logo": {
+        "body": "content: '\\\\0043';$0",
+        "description": "content",
+        "prefix": "cc-logo"
+    },
+    "cc-by-nd": {
+        "body": "content: '\\\\0044';$0",
+        "description": "content",
+        "prefix": "cc-by-nd"
+    },
+    "cc-by-nc-eu": {
+        "body": "content: '\\\\0045';$0",
+        "description": "content",
+        "prefix": "cc-by-nc-eu"
+    },
+    "cc-by-nc-nd-eu": {
+        "body": "content: '\\\\0046';$0",
+        "description": "content",
+        "prefix": "cc-by-nc-nd-eu"
+    },
+    "cc-by-nc-sa-eu": {
+        "body": "content: '\\\\0047';$0",
+        "description": "content",
+        "prefix": "cc-by-nc-sa-eu"
+    },
+    "cc-by-nc-jp": {
+        "body": "content: '\\\\004A';$0",
+        "description": "content",
+        "prefix": "cc-by-nc-jp"
+    },
+    "cc-by-nc-nd-jp": {
+        "body": "content: '\\\\004B';$0",
+        "description": "content",
+        "prefix": "cc-by-nc-nd-jp"
+    },
+    "cc-by-nc-sa-jp": {
+        "body": "content: '\\\\004C';$0",
+        "description": "content",
+        "prefix": "cc-by-nc-sa-jp"
+    },
+    "cc-by-nc-sa": {
+        "body": "content: '\\\\004D';$0",
+        "description": "content",
+        "prefix": "cc-by-nc-sa"
+    },
+    "cc-by-nc": {
+        "body": "content: '\\\\004E';$0",
+        "description": "content",
+        "prefix": "cc-by-nc"
+    },
+    "cc-publicdomain": {
+        "body": "content: '\\\\004F';$0",
+        "description": "content",
+        "prefix": "cc-publicdomain"
+    },
+    "cc-by-nc-nd": {
+        "body": "content: '\\\\0052';$0",
+        "description": "content",
+        "prefix": "cc-by-nc-nd"
+    },
+    "cc-by-sa": {
+        "body": "content: '\\\\0053';$0",
+        "description": "content",
+        "prefix": "cc-by-sa"
+    },
+    "cc-ZERO": {
+        "body": "content: '\\\\0030';$0",
+        "description": "content",
+        "prefix": "cc-ZERO"
+    },
+    "cc-ONE": {
+        "body": "content: '\\\\0031';$0",
+        "description": "content",
+        "prefix": "cc-ONE"
+    },
+    "cc-TWO": {
+        "body": "content: '\\\\0032';$0",
+        "description": "content",
+        "prefix": "cc-TWO"
+    },
+    "cc-THREE": {
+        "body": "content: '\\\\0033';$0",
+        "description": "content",
+        "prefix": "cc-THREE"
+    },
+    "cc-FOUR": {
+        "body": "content: '\\\\0034';$0",
+        "description": "content",
+        "prefix": "cc-FOUR"
+    },
+    "cc-FIVE": {
+        "body": "content: '\\\\0035';$0",
+        "description": "content",
+        "prefix": "cc-FIVE"
+    },
+    "cc-SIX": {
+        "body": "content: '\\\\0036';$0",
+        "description": "content",
+        "prefix": "cc-SIX"
+    },
+    "cc-SEVEN": {
+        "body": "content: '\\\\0037';$0",
+        "description": "content",
+        "prefix": "cc-SEVEN"
+    },
+    "cc-EIGHT": {
+        "body": "content: '\\\\0038';$0",
+        "description": "content",
+        "prefix": "cc-EIGHT"
+    },
+    "cc-NINE": {
+        "body": "content: '\\\\0039';$0",
+        "description": "content",
+        "prefix": "cc-NINE"
+    }
 }

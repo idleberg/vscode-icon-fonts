@@ -1,67 +1,192 @@
 {
-  "cc-by": {
-    "body": "<${1:i} class=\"cc cc-by$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-by"
-  },
-  "cc-cc": {
-    "body": "<${1:i} class=\"cc cc-cc$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-cc"
-  },
-  "cc-nc-eu": {
-    "body": "<${1:i} class=\"cc cc-nc-eu$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-nc-eu"
-  },
-  "cc-nc-jp": {
-    "body": "<${1:i} class=\"cc cc-nc-jp$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-nc-jp"
-  },
-  "cc-nc": {
-    "body": "<${1:i} class=\"cc cc-nc$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-nc"
-  },
-  "cc-nd": {
-    "body": "<${1:i} class=\"cc cc-nd$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-nd"
-  },
-  "cc-pd-alt": {
-    "body": "<${1:i} class=\"cc cc-pd-alt$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-pd-alt"
-  },
-  "cc-pd": {
-    "body": "<${1:i} class=\"cc cc-pd$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-pd"
-  },
-  "cc-remix": {
-    "body": "<${1:i} class=\"cc cc-remix$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-remix"
-  },
-  "cc-sa": {
-    "body": "<${1:i} class=\"cc cc-sa$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-sa"
-  },
-  "cc-sampling": {
-    "body": "<${1:i} class=\"cc cc-sampling$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-sampling"
-  },
-  "cc-share": {
-    "body": "<${1:i} class=\"cc cc-share$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-share"
-  },
-  "cc-zero": {
-    "body": "<${1:i} class=\"cc cc-zero$2\"></${1:i}>$0",
-    "description": "<i>",
-    "prefix": "cc-zero"
-  }
+    "cc-sa": {
+        "body": "<${1:i} class=\"cc cc-sa\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-sa"
+    },
+    "cc-by": {
+        "body": "<${1:i} class=\"cc cc-by\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-by"
+    },
+    "cc-cc": {
+        "body": "<${1:i} class=\"cc cc-cc\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-cc"
+    },
+    "cc-nd": {
+        "body": "<${1:i} class=\"cc cc-nd\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-nd"
+    },
+    "cc-nc-eu": {
+        "body": "<${1:i} class=\"cc cc-nc-eu\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-nc-eu"
+    },
+    "cc-nc-jp": {
+        "body": "<${1:i} class=\"cc cc-nc-jp\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-nc-jp"
+    },
+    "cc-sampling": {
+        "body": "<${1:i} class=\"cc cc-sampling\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-sampling"
+    },
+    "cc-nc": {
+        "body": "<${1:i} class=\"cc cc-nc\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-nc"
+    },
+    "cc-zero": {
+        "body": "<${1:i} class=\"cc cc-zero\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-zero"
+    },
+    "cc-pd": {
+        "body": "<${1:i} class=\"cc cc-pd\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-pd"
+    },
+    "cc-pd-alt": {
+        "body": "<${1:i} class=\"cc cc-pd-alt\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-pd-alt"
+    },
+    "cc-remix": {
+        "body": "<${1:i} class=\"cc cc-remix\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-remix"
+    },
+    "cc-share": {
+        "body": "<${1:i} class=\"cc cc-share\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-share"
+    },
+    "cc-srr": {
+        "body": "<${1:i} class=\"cc cc-srr\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-srr"
+    },
+    "cc-BY": {
+        "body": "<${1:i} class=\"cc cc-BY\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-BY"
+    },
+    "cc-logo": {
+        "body": "<${1:i} class=\"cc cc-logo\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-logo"
+    },
+    "cc-by-nd": {
+        "body": "<${1:i} class=\"cc cc-by-nd\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-by-nd"
+    },
+    "cc-by-nc-eu": {
+        "body": "<${1:i} class=\"cc cc-by-nc-eu\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-by-nc-eu"
+    },
+    "cc-by-nc-nd-eu": {
+        "body": "<${1:i} class=\"cc cc-by-nc-nd-eu\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-by-nc-nd-eu"
+    },
+    "cc-by-nc-sa-eu": {
+        "body": "<${1:i} class=\"cc cc-by-nc-sa-eu\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-by-nc-sa-eu"
+    },
+    "cc-by-nc-jp": {
+        "body": "<${1:i} class=\"cc cc-by-nc-jp\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-by-nc-jp"
+    },
+    "cc-by-nc-nd-jp": {
+        "body": "<${1:i} class=\"cc cc-by-nc-nd-jp\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-by-nc-nd-jp"
+    },
+    "cc-by-nc-sa-jp": {
+        "body": "<${1:i} class=\"cc cc-by-nc-sa-jp\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-by-nc-sa-jp"
+    },
+    "cc-by-nc-sa": {
+        "body": "<${1:i} class=\"cc cc-by-nc-sa\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-by-nc-sa"
+    },
+    "cc-by-nc": {
+        "body": "<${1:i} class=\"cc cc-by-nc\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-by-nc"
+    },
+    "cc-publicdomain": {
+        "body": "<${1:i} class=\"cc cc-publicdomain\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-publicdomain"
+    },
+    "cc-by-nc-nd": {
+        "body": "<${1:i} class=\"cc cc-by-nc-nd\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-by-nc-nd"
+    },
+    "cc-by-sa": {
+        "body": "<${1:i} class=\"cc cc-by-sa\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-by-sa"
+    },
+    "cc-ZERO": {
+        "body": "<${1:i} class=\"cc cc-ZERO\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-ZERO"
+    },
+    "cc-ONE": {
+        "body": "<${1:i} class=\"cc cc-ONE\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-ONE"
+    },
+    "cc-TWO": {
+        "body": "<${1:i} class=\"cc cc-TWO\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-TWO"
+    },
+    "cc-THREE": {
+        "body": "<${1:i} class=\"cc cc-THREE\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-THREE"
+    },
+    "cc-FOUR": {
+        "body": "<${1:i} class=\"cc cc-FOUR\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-FOUR"
+    },
+    "cc-FIVE": {
+        "body": "<${1:i} class=\"cc cc-FIVE\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-FIVE"
+    },
+    "cc-SIX": {
+        "body": "<${1:i} class=\"cc cc-SIX\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-SIX"
+    },
+    "cc-SEVEN": {
+        "body": "<${1:i} class=\"cc cc-SEVEN\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-SEVEN"
+    },
+    "cc-EIGHT": {
+        "body": "<${1:i} class=\"cc cc-EIGHT\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-EIGHT"
+    },
+    "cc-NINE": {
+        "body": "<${1:i} class=\"cc cc-NINE\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "cc-NINE"
+    }
 }

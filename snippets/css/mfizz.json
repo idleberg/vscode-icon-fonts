@@ -1,787 +1,687 @@
 {
-  "mfizz-3dprint": {
-    "body": "content: '\\\\f100';",
-    "description": "content",
-    "prefix": "mfizz-3dprint"
-  },
-  "mfizz-alpinelinux": {
-    "body": "content: '\\\\f101';",
-    "description": "content",
-    "prefix": "mfizz-alpinelinux"
-  },
-  "mfizz-amex": {
-    "body": "content: '\\\\f326';",
-    "description": "content",
-    "prefix": "mfizz-amex"
-  },
-  "mfizz-angular": {
-    "body": "content: '\\\\f101';",
-    "description": "content",
-    "prefix": "mfizz-angular"
-  },
-  "mfizz-antenna": {
-    "body": "content: '\\\\f102';",
-    "description": "content",
-    "prefix": "mfizz-antenna"
-  },
-  "mfizz-apache": {
-    "body": "content: '\\\\f103';",
-    "description": "content",
-    "prefix": "mfizz-apache"
-  },
-  "mfizz-archlinux": {
-    "body": "content: '\\\\f104';",
-    "description": "content",
-    "prefix": "mfizz-archlinux"
-  },
-  "mfizz-aws": {
-    "body": "content: '\\\\f105';",
-    "description": "content",
-    "prefix": "mfizz-aws"
-  },
-  "mfizz-bandcamp": {
-    "body": "content: '\\\\f32b';",
-    "description": "content",
-    "prefix": "mfizz-bandcamp"
-  },
-  "mfizz-blackberry": {
-    "body": "content: '\\\\f106';",
-    "description": "content",
-    "prefix": "mfizz-blackberry"
-  },
-  "mfizz-blogger": {
-    "body": "content: '\\\\f314';",
-    "description": "content",
-    "prefix": "mfizz-blogger"
-  },
-  "mfizz-blogger-rect": {
-    "body": "content: '\\\\f315';",
-    "description": "content",
-    "prefix": "mfizz-blogger-rect"
-  },
-  "mfizz-bomb": {
-    "body": "content: '\\\\f107';",
-    "description": "content",
-    "prefix": "mfizz-bomb"
-  },
-  "mfizz-box": {
-    "body": "content: '\\\\f321';",
-    "description": "content",
-    "prefix": "mfizz-box"
-  },
-  "mfizz-box-rect": {
-    "body": "content: '\\\\f322';",
-    "description": "content",
-    "prefix": "mfizz-box-rect"
-  },
-  "mfizz-c": {
-    "body": "content: '\\\\f108';",
-    "description": "content",
-    "prefix": "mfizz-c"
-  },
-  "mfizz-cassandra": {
-    "body": "content: '\\\\f109';",
-    "description": "content",
-    "prefix": "mfizz-cassandra"
-  },
-  "mfizz-centos": {
-    "body": "content: '\\\\f10a';",
-    "description": "content",
-    "prefix": "mfizz-centos"
-  },
-  "mfizz-clojure": {
-    "body": "content: '\\\\f10b';",
-    "description": "content",
-    "prefix": "mfizz-clojure"
-  },
-  "mfizz-codepen": {
-    "body": "content: '\\\\f32c';",
-    "description": "content",
-    "prefix": "mfizz-codepen"
-  },
-  "mfizz-coffee-bean": {
-    "body": "content: '\\\\f10c';",
-    "description": "content",
-    "prefix": "mfizz-coffee-bean"
-  },
-  "mfizz-cplusplus": {
-    "body": "content: '\\\\f10d';",
-    "description": "content",
-    "prefix": "mfizz-cplusplus"
-  },
-  "mfizz-csharp": {
-    "body": "content: '\\\\f10e';",
-    "description": "content",
-    "prefix": "mfizz-csharp"
-  },
-  "mfizz-css": {
-    "body": "content: '\\\\f10f';",
-    "description": "content",
-    "prefix": "mfizz-css"
-  },
-  "mfizz-database": {
-    "body": "content: '\\\\f110';",
-    "description": "content",
-    "prefix": "mfizz-database"
-  },
-  "mfizz-database-alt": {
-    "body": "content: '\\\\f111';",
-    "description": "content",
-    "prefix": "mfizz-database-alt"
-  },
-  "mfizz-database-alt2": {
-    "body": "content: '\\\\f112';",
-    "description": "content",
-    "prefix": "mfizz-database-alt2"
-  },
-  "mfizz-debian": {
-    "body": "content: '\\\\f113';",
-    "description": "content",
-    "prefix": "mfizz-debian"
-  },
-  "mfizz-deviantart": {
-    "body": "content: '\\\\f316';",
-    "description": "content",
-    "prefix": "mfizz-deviantart"
-  },
-  "mfizz-diigo": {
-    "body": "content: '\\\\f320';",
-    "description": "content",
-    "prefix": "mfizz-diigo"
-  },
-  "mfizz-discover": {
-    "body": "content: '\\\\f327';",
-    "description": "content",
-    "prefix": "mfizz-discover"
-  },
-  "mfizz-docker": {
-    "body": "content: '\\\\f114';",
-    "description": "content",
-    "prefix": "mfizz-docker"
-  },
-  "mfizz-dreamhost": {
-    "body": "content: '\\\\f115';",
-    "description": "content",
-    "prefix": "mfizz-dreamhost"
-  },
-  "mfizz-elixir": {
-    "body": "content: '\\\\f116';",
-    "description": "content",
-    "prefix": "mfizz-elixir"
-  },
-  "mfizz-erlang": {
-    "body": "content: '\\\\f117';",
-    "description": "content",
-    "prefix": "mfizz-erlang"
-  },
-  "mfizz-exherbo": {
-    "body": "content: '\\\\f118';",
-    "description": "content",
-    "prefix": "mfizz-exherbo"
-  },
-  "mfizz-facebook": {
-    "body": "content: '\\\\f300';",
-    "description": "content",
-    "prefix": "mfizz-facebook"
-  },
-  "mfizz-facebook-rect": {
-    "body": "content: '\\\\f301';",
-    "description": "content",
-    "prefix": "mfizz-facebook-rect"
-  },
-  "mfizz-fedora": {
-    "body": "content: '\\\\f119';",
-    "description": "content",
-    "prefix": "mfizz-fedora"
-  },
-  "mfizz-fire-alt": {
-    "body": "content: '\\\\f11a';",
-    "description": "content",
-    "prefix": "mfizz-fire-alt"
-  },
-  "mfizz-freebsd": {
-    "body": "content: '\\\\f11b';",
-    "description": "content",
-    "prefix": "mfizz-freebsd"
-  },
-  "mfizz-friendfeed": {
-    "body": "content: '\\\\f312';",
-    "description": "content",
-    "prefix": "mfizz-friendfeed"
-  },
-  "mfizz-friendfeed-rect": {
-    "body": "content: '\\\\f313';",
-    "description": "content",
-    "prefix": "mfizz-friendfeed-rect"
-  },
-  "mfizz-gentoo": {
-    "body": "content: '\\\\f11c';",
-    "description": "content",
-    "prefix": "mfizz-gentoo"
-  },
-  "mfizz-ghost": {
-    "body": "content: '\\\\f11d';",
-    "description": "content",
-    "prefix": "mfizz-ghost"
-  },
-  "mfizz-git": {
-    "body": "content: '\\\\f11e';",
-    "description": "content",
-    "prefix": "mfizz-git"
-  },
-  "mfizz-github": {
-    "body": "content: '\\\\f308';",
-    "description": "content",
-    "prefix": "mfizz-github"
-  },
-  "mfizz-github-text": {
-    "body": "content: '\\\\f307';",
-    "description": "content",
-    "prefix": "mfizz-github-text"
-  },
-  "mfizz-gnome": {
-    "body": "content: '\\\\f11f';",
-    "description": "content",
-    "prefix": "mfizz-gnome"
-  },
-  "mfizz-go": {
-    "body": "content: '\\\\f12c';",
-    "description": "content",
-    "prefix": "mfizz-go"
-  },
-  "mfizz-go-alt": {
-    "body": "content: '\\\\f12d';",
-    "description": "content",
-    "prefix": "mfizz-go-alt"
-  },
-  "mfizz-google": {
-    "body": "content: '\\\\f120';",
-    "description": "content",
-    "prefix": "mfizz-google"
-  },
-  "mfizz-google-alt": {
-    "body": "content: '\\\\f121';",
-    "description": "content",
-    "prefix": "mfizz-google-alt"
-  },
-  "mfizz-google-code": {
-    "body": "content: '\\\\f122';",
-    "description": "content",
-    "prefix": "mfizz-google-code"
-  },
-  "mfizz-google-developers": {
-    "body": "content: '\\\\f123';",
-    "description": "content",
-    "prefix": "mfizz-google-developers"
-  },
-  "mfizz-googleplus-rect": {
-    "body": "content: '\\\\f309';",
-    "description": "content",
-    "prefix": "mfizz-googleplus-rect"
-  },
-  "mfizz-gradle": {
-    "body": "content: '\\\\f124';",
-    "description": "content",
-    "prefix": "mfizz-gradle"
-  },
-  "mfizz-grails": {
-    "body": "content: '\\\\f125';",
-    "description": "content",
-    "prefix": "mfizz-grails"
-  },
-  "mfizz-grails-alt": {
-    "body": "content: '\\\\f126';",
-    "description": "content",
-    "prefix": "mfizz-grails-alt"
-  },
-  "mfizz-grunt": {
-    "body": "content: '\\\\f127';",
-    "description": "content",
-    "prefix": "mfizz-grunt"
-  },
-  "mfizz-hadoop": {
-    "body": "content: '\\\\f128';",
-    "description": "content",
-    "prefix": "mfizz-hadoop"
-  },
-  "mfizz-haskell": {
-    "body": "content: '\\\\f129';",
-    "description": "content",
-    "prefix": "mfizz-haskell"
-  },
-  "mfizz-heroku": {
-    "body": "content: '\\\\f12a';",
-    "description": "content",
-    "prefix": "mfizz-heroku"
-  },
-  "mfizz-houzz": {
-    "body": "content: '\\\\f32a';",
-    "description": "content",
-    "prefix": "mfizz-houzz"
-  },
-  "mfizz-html": {
-    "body": "content: '\\\\f12b';",
-    "description": "content",
-    "prefix": "mfizz-html"
-  },
-  "mfizz-icq": {
-    "body": "content: '\\\\f304';",
-    "description": "content",
-    "prefix": "mfizz-icq"
-  },
-  "mfizz-instagram": {
-    "body": "content: '\\\\f31e';",
-    "description": "content",
-    "prefix": "mfizz-instagram"
-  },
-  "mfizz-instagram-filled": {
-    "body": "content: '\\\\f31f';",
-    "description": "content",
-    "prefix": "mfizz-instagram-filled"
-  },
-  "mfizz-iphone": {
-    "body": "content: '\\\\f12c';",
-    "description": "content",
-    "prefix": "mfizz-iphone"
-  },
-  "mfizz-jabber": {
-    "body": "content: '\\\\f317';",
-    "description": "content",
-    "prefix": "mfizz-jabber"
-  },
-  "mfizz-java": {
-    "body": "content: '\\\\f12d';",
-    "description": "content",
-    "prefix": "mfizz-java"
-  },
-  "mfizz-java-bold": {
-    "body": "content: '\\\\f12e';",
-    "description": "content",
-    "prefix": "mfizz-java-bold"
-  },
-  "mfizz-java-duke": {
-    "body": "content: '\\\\f12f';",
-    "description": "content",
-    "prefix": "mfizz-java-duke"
-  },
-  "mfizz-javascript": {
-    "body": "content: '\\\\f130';",
-    "description": "content",
-    "prefix": "mfizz-javascript"
-  },
-  "mfizz-javascript-alt": {
-    "body": "content: '\\\\f131';",
-    "description": "content",
-    "prefix": "mfizz-javascript-alt"
-  },
-  "mfizz-jetty": {
-    "body": "content: '\\\\f132';",
-    "description": "content",
-    "prefix": "mfizz-jetty"
-  },
-  "mfizz-kde": {
-    "body": "content: '\\\\f133';",
-    "description": "content",
-    "prefix": "mfizz-kde"
-  },
-  "mfizz-laravel": {
-    "body": "content: '\\\\f134';",
-    "description": "content",
-    "prefix": "mfizz-laravel"
-  },
-  "mfizz-lastfm": {
-    "body": "content: '\\\\f318';",
-    "description": "content",
-    "prefix": "mfizz-lastfm"
-  },
-  "mfizz-lastfm-rect": {
-    "body": "content: '\\\\f319';",
-    "description": "content",
-    "prefix": "mfizz-lastfm-rect"
-  },
-  "mfizz-line-graph": {
-    "body": "content: '\\\\f135';",
-    "description": "content",
-    "prefix": "mfizz-line-graph"
-  },
-  "mfizz-linkedin": {
-    "body": "content: '\\\\f31a';",
-    "description": "content",
-    "prefix": "mfizz-linkedin"
-  },
-  "mfizz-linkedin-rect": {
-    "body": "content: '\\\\f31b';",
-    "description": "content",
-    "prefix": "mfizz-linkedin-rect"
-  },
-  "mfizz-linux-mint": {
-    "body": "content: '\\\\f136';",
-    "description": "content",
-    "prefix": "mfizz-linux-mint"
-  },
-  "mfizz-looking": {
-    "body": "content: '\\\\f137';",
-    "description": "content",
-    "prefix": "mfizz-looking"
-  },
-  "mfizz-mariadb": {
-    "body": "content: '\\\\f138';",
-    "description": "content",
-    "prefix": "mfizz-mariadb"
-  },
-  "mfizz-mastercard": {
-    "body": "content: '\\\\f329';",
-    "description": "content",
-    "prefix": "mfizz-mastercard"
-  },
-  "mfizz-maven": {
-    "body": "content: '\\\\f139';",
-    "description": "content",
-    "prefix": "mfizz-maven"
-  },
-  "mfizz-microscope": {
-    "body": "content: '\\\\f13a';",
-    "description": "content",
-    "prefix": "mfizz-microscope"
-  },
-  "mfizz-mobile-device": {
-    "body": "content: '\\\\f13b';",
-    "description": "content",
-    "prefix": "mfizz-mobile-device"
-  },
-  "mfizz-mobile-phone-alt": {
-    "body": "content: '\\\\f13c';",
-    "description": "content",
-    "prefix": "mfizz-mobile-phone-alt"
-  },
-  "mfizz-mobile-phone-broadcast": {
-    "body": "content: '\\\\f13d';",
-    "description": "content",
-    "prefix": "mfizz-mobile-phone-broadcast"
-  },
-  "mfizz-mongodb": {
-    "body": "content: '\\\\f13e';",
-    "description": "content",
-    "prefix": "mfizz-mongodb"
-  },
-  "mfizz-mssql": {
-    "body": "content: '\\\\f13f';",
-    "description": "content",
-    "prefix": "mfizz-mssql"
-  },
-  "mfizz-mysql": {
-    "body": "content: '\\\\f140';",
-    "description": "content",
-    "prefix": "mfizz-mysql"
-  },
-  "mfizz-mysql-alt": {
-    "body": "content: '\\\\f141';",
-    "description": "content",
-    "prefix": "mfizz-mysql-alt"
-  },
-  "mfizz-netbsd": {
-    "body": "content: '\\\\f142';",
-    "description": "content",
-    "prefix": "mfizz-netbsd"
-  },
-  "mfizz-nginx": {
-    "body": "content: '\\\\f143';",
-    "description": "content",
-    "prefix": "mfizz-nginx"
-  },
-  "mfizz-nginx-alt": {
-    "body": "content: '\\\\f144';",
-    "description": "content",
-    "prefix": "mfizz-nginx-alt"
-  },
-  "mfizz-nginx-alt2": {
-    "body": "content: '\\\\f145';",
-    "description": "content",
-    "prefix": "mfizz-nginx-alt2"
-  },
-  "mfizz-nodejs": {
-    "body": "content: '\\\\f146';",
-    "description": "content",
-    "prefix": "mfizz-nodejs"
-  },
-  "mfizz-objc": {
-    "body": "content: '\\\\f147';",
-    "description": "content",
-    "prefix": "mfizz-objc"
-  },
-  "mfizz-odnoklassniki": {
-    "body": "content: '\\\\f30c';",
-    "description": "content",
-    "prefix": "mfizz-odnoklassniki"
-  },
-  "mfizz-odnoklassniki-rect": {
-    "body": "content: '\\\\f30d';",
-    "description": "content",
-    "prefix": "mfizz-odnoklassniki-rect"
-  },
-  "mfizz-oracle": {
-    "body": "content: '\\\\f148';",
-    "description": "content",
-    "prefix": "mfizz-oracle"
-  },
-  "mfizz-oracle-alt": {
-    "body": "content: '\\\\f149';",
-    "description": "content",
-    "prefix": "mfizz-oracle-alt"
-  },
-  "mfizz-osx": {
-    "body": "content: '\\\\f14a';",
-    "description": "content",
-    "prefix": "mfizz-osx"
-  },
-  "mfizz-perl": {
-    "body": "content: '\\\\f14b';",
-    "description": "content",
-    "prefix": "mfizz-perl"
-  },
-  "mfizz-phone-alt": {
-    "body": "content: '\\\\f14c';",
-    "description": "content",
-    "prefix": "mfizz-phone-alt"
-  },
-  "mfizz-phone-gap": {
-    "body": "content: '\\\\f14d';",
-    "description": "content",
-    "prefix": "mfizz-phone-gap"
-  },
-  "mfizz-phone-retro": {
-    "body": "content: '\\\\f14e';",
-    "description": "content",
-    "prefix": "mfizz-phone-retro"
-  },
-  "mfizz-php": {
-    "body": "content: '\\\\f14f';",
-    "description": "content",
-    "prefix": "mfizz-php"
-  },
-  "mfizz-php-alt": {
-    "body": "content: '\\\\f150';",
-    "description": "content",
-    "prefix": "mfizz-php-alt"
-  },
-  "mfizz-picasa": {
-    "body": "content: '\\\\f31c';",
-    "description": "content",
-    "prefix": "mfizz-picasa"
-  },
-  "mfizz-playframework": {
-    "body": "content: '\\\\f151';",
-    "description": "content",
-    "prefix": "mfizz-playframework"
-  },
-  "mfizz-playframework-alt": {
-    "body": "content: '\\\\f152';",
-    "description": "content",
-    "prefix": "mfizz-playframework-alt"
-  },
-  "mfizz-plone": {
-    "body": "content: '\\\\f153';",
-    "description": "content",
-    "prefix": "mfizz-plone"
-  },
-  "mfizz-postgres": {
-    "body": "content: '\\\\f154';",
-    "description": "content",
-    "prefix": "mfizz-postgres"
-  },
-  "mfizz-postgres-alt": {
-    "body": "content: '\\\\f155';",
-    "description": "content",
-    "prefix": "mfizz-postgres-alt"
-  },
-  "mfizz-python": {
-    "body": "content: '\\\\f156';",
-    "description": "content",
-    "prefix": "mfizz-python"
-  },
-  "mfizz-raspberrypi": {
-    "body": "content: '\\\\f157';",
-    "description": "content",
-    "prefix": "mfizz-raspberrypi"
-  },
-  "mfizz-redhat": {
-    "body": "content: '\\\\f158';",
-    "description": "content",
-    "prefix": "mfizz-redhat"
-  },
-  "mfizz-redis": {
-    "body": "content: '\\\\f159';",
-    "description": "content",
-    "prefix": "mfizz-redis"
-  },
-  "mfizz-ruby": {
-    "body": "content: '\\\\f15a';",
-    "description": "content",
-    "prefix": "mfizz-ruby"
-  },
-  "mfizz-ruby-on-rails": {
-    "body": "content: '\\\\f15b';",
-    "description": "content",
-    "prefix": "mfizz-ruby-on-rails"
-  },
-  "mfizz-ruby-on-rails-alt": {
-    "body": "content: '\\\\f15c';",
-    "description": "content",
-    "prefix": "mfizz-ruby-on-rails-alt"
-  },
-  "mfizz-rust": {
-    "body": "content: '\\\\f174';",
-    "description": "content",
-    "prefix": "mfizz-rust"
-  },
-  "mfizz-satellite": {
-    "body": "content: '\\\\f15d';",
-    "description": "content",
-    "prefix": "mfizz-satellite"
-  },
-  "mfizz-scala": {
-    "body": "content: '\\\\f15e';",
-    "description": "content",
-    "prefix": "mfizz-scala"
-  },
-  "mfizz-scala-alt": {
-    "body": "content: '\\\\f15f';",
-    "description": "content",
-    "prefix": "mfizz-scala-alt"
-  },
-  "mfizz-script": {
-    "body": "content: '\\\\f160';",
-    "description": "content",
-    "prefix": "mfizz-script"
-  },
-  "mfizz-script-alt": {
-    "body": "content: '\\\\f161';",
-    "description": "content",
-    "prefix": "mfizz-script-alt"
-  },
-  "mfizz-shell": {
-    "body": "content: '\\\\f162';",
-    "description": "content",
-    "prefix": "mfizz-shell"
-  },
-  "mfizz-skype": {
-    "body": "content: '\\\\f30b';",
-    "description": "content",
-    "prefix": "mfizz-skype"
-  },
-  "mfizz-solaris": {
-    "body": "content: '\\\\f163';",
-    "description": "content",
-    "prefix": "mfizz-solaris"
-  },
-  "mfizz-splatter": {
-    "body": "content: '\\\\f164';",
-    "description": "content",
-    "prefix": "mfizz-splatter"
-  },
-  "mfizz-spring": {
-    "body": "content: '\\\\f165';",
-    "description": "content",
-    "prefix": "mfizz-spring"
-  },
-  "mfizz-suse": {
-    "body": "content: '\\\\f166';",
-    "description": "content",
-    "prefix": "mfizz-suse"
-  },
-  "mfizz-svg": {
-    "body": "content: '\\\\f167';",
-    "description": "content",
-    "prefix": "mfizz-svg"
-  },
-  "mfizz-symfony": {
-    "body": "content: '\\\\f168';",
-    "description": "content",
-    "prefix": "mfizz-symfony"
-  },
-  "mfizz-tomcat": {
-    "body": "content: '\\\\f169';",
-    "description": "content",
-    "prefix": "mfizz-tomcat"
-  },
-  "mfizz-tudou": {
-    "body": "content: '\\\\f323';",
-    "description": "content",
-    "prefix": "mfizz-tudou"
-  },
-  "mfizz-tumblr": {
-    "body": "content: '\\\\f311';",
-    "description": "content",
-    "prefix": "mfizz-tumblr"
-  },
-  "mfizz-tumblr-rect": {
-    "body": "content: '\\\\f310';",
-    "description": "content",
-    "prefix": "mfizz-tumblr-rect"
-  },
-  "mfizz-twitter": {
-    "body": "content: '\\\\f302';",
-    "description": "content",
-    "prefix": "mfizz-twitter"
-  },
-  "mfizz-twitter-bird": {
-    "body": "content: '\\\\f303';",
-    "description": "content",
-    "prefix": "mfizz-twitter-bird"
-  },
-  "mfizz-ubuntu": {
-    "body": "content: '\\\\f16a';",
-    "description": "content",
-    "prefix": "mfizz-ubuntu"
-  },
-  "mfizz-vimeo": {
-    "body": "content: '\\\\f30f';",
-    "description": "content",
-    "prefix": "mfizz-vimeo"
-  },
-  "mfizz-vimeo-rect": {
-    "body": "content: '\\\\f30e';",
-    "description": "content",
-    "prefix": "mfizz-vimeo-rect"
-  },
-  "mfizz-visa": {
-    "body": "content: '\\\\f328';",
-    "description": "content",
-    "prefix": "mfizz-visa"
-  },
-  "mfizz-vkontakte-rect": {
-    "body": "content: '\\\\f30a';",
-    "description": "content",
-    "prefix": "mfizz-vkontakte-rect"
-  },
-  "mfizz-win8": {
-    "body": "content: '\\\\f325';",
-    "description": "content",
-    "prefix": "mfizz-win8"
-  },
-  "mfizz-wireless": {
-    "body": "content: '\\\\f16b';",
-    "description": "content",
-    "prefix": "mfizz-wireless"
-  },
-  "mfizz-wordpress": {
-    "body": "content: '\\\\f16c';",
-    "description": "content",
-    "prefix": "mfizz-wordpress"
-  },
-  "mfizz-yandex": {
-    "body": "content: '\\\\f305';",
-    "description": "content",
-    "prefix": "mfizz-yandex"
-  },
-  "mfizz-yandex-rect": {
-    "body": "content: '\\\\f306';",
-    "description": "content",
-    "prefix": "mfizz-yandex-rect"
-  },
-  "mfizz-youku": {
-    "body": "content: '\\\\f324';",
-    "description": "content",
-    "prefix": "mfizz-youku"
-  }
+    "icon-3dprint": {
+        "body": "content: '\\\\f100';$0",
+        "description": "content",
+        "prefix": "icon-3dprint"
+    },
+    "icon-alpinelinux": {
+        "body": "content: '\\\\f101';$0",
+        "description": "content",
+        "prefix": "icon-alpinelinux"
+    },
+    "icon-angular": {
+        "body": "content: '\\\\f102';$0",
+        "description": "content",
+        "prefix": "icon-angular"
+    },
+    "icon-angular-alt": {
+        "body": "content: '\\\\f103';$0",
+        "description": "content",
+        "prefix": "icon-angular-alt"
+    },
+    "icon-antenna": {
+        "body": "content: '\\\\f104';$0",
+        "description": "content",
+        "prefix": "icon-antenna"
+    },
+    "icon-apache": {
+        "body": "content: '\\\\f105';$0",
+        "description": "content",
+        "prefix": "icon-apache"
+    },
+    "icon-archlinux": {
+        "body": "content: '\\\\f106';$0",
+        "description": "content",
+        "prefix": "icon-archlinux"
+    },
+    "icon-aws": {
+        "body": "content: '\\\\f107';$0",
+        "description": "content",
+        "prefix": "icon-aws"
+    },
+    "icon-azure": {
+        "body": "content: '\\\\f108';$0",
+        "description": "content",
+        "prefix": "icon-azure"
+    },
+    "icon-backbone": {
+        "body": "content: '\\\\f109';$0",
+        "description": "content",
+        "prefix": "icon-backbone"
+    },
+    "icon-blackberry": {
+        "body": "content: '\\\\f10a';$0",
+        "description": "content",
+        "prefix": "icon-blackberry"
+    },
+    "icon-bomb": {
+        "body": "content: '\\\\f10b';$0",
+        "description": "content",
+        "prefix": "icon-bomb"
+    },
+    "icon-bootstrap": {
+        "body": "content: '\\\\f10c';$0",
+        "description": "content",
+        "prefix": "icon-bootstrap"
+    },
+    "icon-c": {
+        "body": "content: '\\\\f10d';$0",
+        "description": "content",
+        "prefix": "icon-c"
+    },
+    "icon-cassandra": {
+        "body": "content: '\\\\f10e';$0",
+        "description": "content",
+        "prefix": "icon-cassandra"
+    },
+    "icon-centos": {
+        "body": "content: '\\\\f10f';$0",
+        "description": "content",
+        "prefix": "icon-centos"
+    },
+    "icon-clojure": {
+        "body": "content: '\\\\f110';$0",
+        "description": "content",
+        "prefix": "icon-clojure"
+    },
+    "icon-codeigniter": {
+        "body": "content: '\\\\f111';$0",
+        "description": "content",
+        "prefix": "icon-codeigniter"
+    },
+    "icon-codepen": {
+        "body": "content: '\\\\f112';$0",
+        "description": "content",
+        "prefix": "icon-codepen"
+    },
+    "icon-coffee-bean": {
+        "body": "content: '\\\\f113';$0",
+        "description": "content",
+        "prefix": "icon-coffee-bean"
+    },
+    "icon-cplusplus": {
+        "body": "content: '\\\\f114';$0",
+        "description": "content",
+        "prefix": "icon-cplusplus"
+    },
+    "icon-csharp": {
+        "body": "content: '\\\\f115';$0",
+        "description": "content",
+        "prefix": "icon-csharp"
+    },
+    "icon-css": {
+        "body": "content: '\\\\f116';$0",
+        "description": "content",
+        "prefix": "icon-css"
+    },
+    "icon-css3": {
+        "body": "content: '\\\\f117';$0",
+        "description": "content",
+        "prefix": "icon-css3"
+    },
+    "icon-css3-alt": {
+        "body": "content: '\\\\f118';$0",
+        "description": "content",
+        "prefix": "icon-css3-alt"
+    },
+    "icon-d3": {
+        "body": "content: '\\\\f119';$0",
+        "description": "content",
+        "prefix": "icon-d3"
+    },
+    "icon-database": {
+        "body": "content: '\\\\f11a';$0",
+        "description": "content",
+        "prefix": "icon-database"
+    },
+    "icon-database-alt": {
+        "body": "content: '\\\\f11b';$0",
+        "description": "content",
+        "prefix": "icon-database-alt"
+    },
+    "icon-database-alt2": {
+        "body": "content: '\\\\f11c';$0",
+        "description": "content",
+        "prefix": "icon-database-alt2"
+    },
+    "icon-debian": {
+        "body": "content: '\\\\f11d';$0",
+        "description": "content",
+        "prefix": "icon-debian"
+    },
+    "icon-docker": {
+        "body": "content: '\\\\f11e';$0",
+        "description": "content",
+        "prefix": "icon-docker"
+    },
+    "icon-dreamhost": {
+        "body": "content: '\\\\f11f';$0",
+        "description": "content",
+        "prefix": "icon-dreamhost"
+    },
+    "icon-elixir": {
+        "body": "content: '\\\\f120';$0",
+        "description": "content",
+        "prefix": "icon-elixir"
+    },
+    "icon-elm": {
+        "body": "content: '\\\\f121';$0",
+        "description": "content",
+        "prefix": "icon-elm"
+    },
+    "icon-erlang": {
+        "body": "content: '\\\\f122';$0",
+        "description": "content",
+        "prefix": "icon-erlang"
+    },
+    "icon-exherbo": {
+        "body": "content: '\\\\f123';$0",
+        "description": "content",
+        "prefix": "icon-exherbo"
+    },
+    "icon-fedora": {
+        "body": "content: '\\\\f124';$0",
+        "description": "content",
+        "prefix": "icon-fedora"
+    },
+    "icon-fire-alt": {
+        "body": "content: '\\\\f125';$0",
+        "description": "content",
+        "prefix": "icon-fire-alt"
+    },
+    "icon-freebsd": {
+        "body": "content: '\\\\f126';$0",
+        "description": "content",
+        "prefix": "icon-freebsd"
+    },
+    "icon-freecodecamp": {
+        "body": "content: '\\\\f127';$0",
+        "description": "content",
+        "prefix": "icon-freecodecamp"
+    },
+    "icon-gentoo": {
+        "body": "content: '\\\\f128';$0",
+        "description": "content",
+        "prefix": "icon-gentoo"
+    },
+    "icon-ghost": {
+        "body": "content: '\\\\f129';$0",
+        "description": "content",
+        "prefix": "icon-ghost"
+    },
+    "icon-git": {
+        "body": "content: '\\\\f12a';$0",
+        "description": "content",
+        "prefix": "icon-git"
+    },
+    "icon-gnome": {
+        "body": "content: '\\\\f12b';$0",
+        "description": "content",
+        "prefix": "icon-gnome"
+    },
+    "icon-go": {
+        "body": "content: '\\\\f12c';$0",
+        "description": "content",
+        "prefix": "icon-go"
+    },
+    "icon-go-alt": {
+        "body": "content: '\\\\f12d';$0",
+        "description": "content",
+        "prefix": "icon-go-alt"
+    },
+    "icon-google": {
+        "body": "content: '\\\\f12e';$0",
+        "description": "content",
+        "prefix": "icon-google"
+    },
+    "icon-google-alt": {
+        "body": "content: '\\\\f12f';$0",
+        "description": "content",
+        "prefix": "icon-google-alt"
+    },
+    "icon-google-code": {
+        "body": "content: '\\\\f130';$0",
+        "description": "content",
+        "prefix": "icon-google-code"
+    },
+    "icon-google-developers": {
+        "body": "content: '\\\\f131';$0",
+        "description": "content",
+        "prefix": "icon-google-developers"
+    },
+    "icon-gradle": {
+        "body": "content: '\\\\f132';$0",
+        "description": "content",
+        "prefix": "icon-gradle"
+    },
+    "icon-grails": {
+        "body": "content: '\\\\f133';$0",
+        "description": "content",
+        "prefix": "icon-grails"
+    },
+    "icon-grails-alt": {
+        "body": "content: '\\\\f134';$0",
+        "description": "content",
+        "prefix": "icon-grails-alt"
+    },
+    "icon-grunt": {
+        "body": "content: '\\\\f135';$0",
+        "description": "content",
+        "prefix": "icon-grunt"
+    },
+    "icon-gulp": {
+        "body": "content: '\\\\f136';$0",
+        "description": "content",
+        "prefix": "icon-gulp"
+    },
+    "icon-gulp-alt": {
+        "body": "content: '\\\\f137';$0",
+        "description": "content",
+        "prefix": "icon-gulp-alt"
+    },
+    "icon-hadoop": {
+        "body": "content: '\\\\f138';$0",
+        "description": "content",
+        "prefix": "icon-hadoop"
+    },
+    "icon-haskell": {
+        "body": "content: '\\\\f139';$0",
+        "description": "content",
+        "prefix": "icon-haskell"
+    },
+    "icon-heroku": {
+        "body": "content: '\\\\f13a';$0",
+        "description": "content",
+        "prefix": "icon-heroku"
+    },
+    "icon-html": {
+        "body": "content: '\\\\f13b';$0",
+        "description": "content",
+        "prefix": "icon-html"
+    },
+    "icon-html5": {
+        "body": "content: '\\\\f13c';$0",
+        "description": "content",
+        "prefix": "icon-html5"
+    },
+    "icon-html5-alt": {
+        "body": "content: '\\\\f13d';$0",
+        "description": "content",
+        "prefix": "icon-html5-alt"
+    },
+    "icon-iphone": {
+        "body": "content: '\\\\f13e';$0",
+        "description": "content",
+        "prefix": "icon-iphone"
+    },
+    "icon-java": {
+        "body": "content: '\\\\f13f';$0",
+        "description": "content",
+        "prefix": "icon-java"
+    },
+    "icon-java-bold": {
+        "body": "content: '\\\\f140';$0",
+        "description": "content",
+        "prefix": "icon-java-bold"
+    },
+    "icon-java-duke": {
+        "body": "content: '\\\\f141';$0",
+        "description": "content",
+        "prefix": "icon-java-duke"
+    },
+    "icon-javascript": {
+        "body": "content: '\\\\f142';$0",
+        "description": "content",
+        "prefix": "icon-javascript"
+    },
+    "icon-javascript-alt": {
+        "body": "content: '\\\\f143';$0",
+        "description": "content",
+        "prefix": "icon-javascript-alt"
+    },
+    "icon-jetty": {
+        "body": "content: '\\\\f144';$0",
+        "description": "content",
+        "prefix": "icon-jetty"
+    },
+    "icon-jquery": {
+        "body": "content: '\\\\f145';$0",
+        "description": "content",
+        "prefix": "icon-jquery"
+    },
+    "icon-kde": {
+        "body": "content: '\\\\f146';$0",
+        "description": "content",
+        "prefix": "icon-kde"
+    },
+    "icon-laravel": {
+        "body": "content: '\\\\f147';$0",
+        "description": "content",
+        "prefix": "icon-laravel"
+    },
+    "icon-line-graph": {
+        "body": "content: '\\\\f148';$0",
+        "description": "content",
+        "prefix": "icon-line-graph"
+    },
+    "icon-linux-mint": {
+        "body": "content: '\\\\f149';$0",
+        "description": "content",
+        "prefix": "icon-linux-mint"
+    },
+    "icon-looking": {
+        "body": "content: '\\\\f14a';$0",
+        "description": "content",
+        "prefix": "icon-looking"
+    },
+    "icon-magento": {
+        "body": "content: '\\\\f14b';$0",
+        "description": "content",
+        "prefix": "icon-magento"
+    },
+    "icon-mariadb": {
+        "body": "content: '\\\\f14c';$0",
+        "description": "content",
+        "prefix": "icon-mariadb"
+    },
+    "icon-maven": {
+        "body": "content: '\\\\f14d';$0",
+        "description": "content",
+        "prefix": "icon-maven"
+    },
+    "icon-microscope": {
+        "body": "content: '\\\\f14e';$0",
+        "description": "content",
+        "prefix": "icon-microscope"
+    },
+    "icon-mobile-device": {
+        "body": "content: '\\\\f14f';$0",
+        "description": "content",
+        "prefix": "icon-mobile-device"
+    },
+    "icon-mobile-phone-alt": {
+        "body": "content: '\\\\f150';$0",
+        "description": "content",
+        "prefix": "icon-mobile-phone-alt"
+    },
+    "icon-mobile-phone-broadcast": {
+        "body": "content: '\\\\f151';$0",
+        "description": "content",
+        "prefix": "icon-mobile-phone-broadcast"
+    },
+    "icon-mongodb": {
+        "body": "content: '\\\\f152';$0",
+        "description": "content",
+        "prefix": "icon-mongodb"
+    },
+    "icon-mssql": {
+        "body": "content: '\\\\f153';$0",
+        "description": "content",
+        "prefix": "icon-mssql"
+    },
+    "icon-mysql": {
+        "body": "content: '\\\\f154';$0",
+        "description": "content",
+        "prefix": "icon-mysql"
+    },
+    "icon-mysql-alt": {
+        "body": "content: '\\\\f155';$0",
+        "description": "content",
+        "prefix": "icon-mysql-alt"
+    },
+    "icon-netbsd": {
+        "body": "content: '\\\\f156';$0",
+        "description": "content",
+        "prefix": "icon-netbsd"
+    },
+    "icon-nginx": {
+        "body": "content: '\\\\f157';$0",
+        "description": "content",
+        "prefix": "icon-nginx"
+    },
+    "icon-nginx-alt": {
+        "body": "content: '\\\\f158';$0",
+        "description": "content",
+        "prefix": "icon-nginx-alt"
+    },
+    "icon-nginx-alt2": {
+        "body": "content: '\\\\f159';$0",
+        "description": "content",
+        "prefix": "icon-nginx-alt2"
+    },
+    "icon-nodejs": {
+        "body": "content: '\\\\f15a';$0",
+        "description": "content",
+        "prefix": "icon-nodejs"
+    },
+    "icon-npm": {
+        "body": "content: '\\\\f15b';$0",
+        "description": "content",
+        "prefix": "icon-npm"
+    },
+    "icon-objc": {
+        "body": "content: '\\\\f15c';$0",
+        "description": "content",
+        "prefix": "icon-objc"
+    },
+    "icon-openshift": {
+        "body": "content: '\\\\f15d';$0",
+        "description": "content",
+        "prefix": "icon-openshift"
+    },
+    "icon-oracle": {
+        "body": "content: '\\\\f15e';$0",
+        "description": "content",
+        "prefix": "icon-oracle"
+    },
+    "icon-oracle-alt": {
+        "body": "content: '\\\\f15f';$0",
+        "description": "content",
+        "prefix": "icon-oracle-alt"
+    },
+    "icon-osx": {
+        "body": "content: '\\\\f160';$0",
+        "description": "content",
+        "prefix": "icon-osx"
+    },
+    "icon-perl": {
+        "body": "content: '\\\\f161';$0",
+        "description": "content",
+        "prefix": "icon-perl"
+    },
+    "icon-phone-alt": {
+        "body": "content: '\\\\f162';$0",
+        "description": "content",
+        "prefix": "icon-phone-alt"
+    },
+    "icon-phone-gap": {
+        "body": "content: '\\\\f163';$0",
+        "description": "content",
+        "prefix": "icon-phone-gap"
+    },
+    "icon-phone-retro": {
+        "body": "content: '\\\\f164';$0",
+        "description": "content",
+        "prefix": "icon-phone-retro"
+    },
+    "icon-php": {
+        "body": "content: '\\\\f165';$0",
+        "description": "content",
+        "prefix": "icon-php"
+    },
+    "icon-php-alt": {
+        "body": "content: '\\\\f166';$0",
+        "description": "content",
+        "prefix": "icon-php-alt"
+    },
+    "icon-playframework": {
+        "body": "content: '\\\\f167';$0",
+        "description": "content",
+        "prefix": "icon-playframework"
+    },
+    "icon-playframework-alt": {
+        "body": "content: '\\\\f168';$0",
+        "description": "content",
+        "prefix": "icon-playframework-alt"
+    },
+    "icon-plone": {
+        "body": "content: '\\\\f169';$0",
+        "description": "content",
+        "prefix": "icon-plone"
+    },
+    "icon-postgres": {
+        "body": "content: '\\\\f16a';$0",
+        "description": "content",
+        "prefix": "icon-postgres"
+    },
+    "icon-postgres-alt": {
+        "body": "content: '\\\\f16b';$0",
+        "description": "content",
+        "prefix": "icon-postgres-alt"
+    },
+    "icon-python": {
+        "body": "content: '\\\\f16c';$0",
+        "description": "content",
+        "prefix": "icon-python"
+    },
+    "icon-raspberrypi": {
+        "body": "content: '\\\\f16d';$0",
+        "description": "content",
+        "prefix": "icon-raspberrypi"
+    },
+    "icon-reactjs": {
+        "body": "content: '\\\\f16e';$0",
+        "description": "content",
+        "prefix": "icon-reactjs"
+    },
+    "icon-redhat": {
+        "body": "content: '\\\\f16f';$0",
+        "description": "content",
+        "prefix": "icon-redhat"
+    },
+    "icon-redis": {
+        "body": "content: '\\\\f170';$0",
+        "description": "content",
+        "prefix": "icon-redis"
+    },
+    "icon-ruby": {
+        "body": "content: '\\\\f171';$0",
+        "description": "content",
+        "prefix": "icon-ruby"
+    },
+    "icon-ruby-on-rails": {
+        "body": "content: '\\\\f172';$0",
+        "description": "content",
+        "prefix": "icon-ruby-on-rails"
+    },
+    "icon-ruby-on-rails-alt": {
+        "body": "content: '\\\\f173';$0",
+        "description": "content",
+        "prefix": "icon-ruby-on-rails-alt"
+    },
+    "icon-rust": {
+        "body": "content: '\\\\f174';$0",
+        "description": "content",
+        "prefix": "icon-rust"
+    },
+    "icon-sass": {
+        "body": "content: '\\\\f175';$0",
+        "description": "content",
+        "prefix": "icon-sass"
+    },
+    "icon-satellite": {
+        "body": "content: '\\\\f176';$0",
+        "description": "content",
+        "prefix": "icon-satellite"
+    },
+    "icon-scala": {
+        "body": "content: '\\\\f177';$0",
+        "description": "content",
+        "prefix": "icon-scala"
+    },
+    "icon-scala-alt": {
+        "body": "content: '\\\\f178';$0",
+        "description": "content",
+        "prefix": "icon-scala-alt"
+    },
+    "icon-script": {
+        "body": "content: '\\\\f179';$0",
+        "description": "content",
+        "prefix": "icon-script"
+    },
+    "icon-script-alt": {
+        "body": "content: '\\\\f17a';$0",
+        "description": "content",
+        "prefix": "icon-script-alt"
+    },
+    "icon-shell": {
+        "body": "content: '\\\\f17b';$0",
+        "description": "content",
+        "prefix": "icon-shell"
+    },
+    "icon-sitefinity": {
+        "body": "content: '\\\\f17c';$0",
+        "description": "content",
+        "prefix": "icon-sitefinity"
+    },
+    "icon-solaris": {
+        "body": "content: '\\\\f17d';$0",
+        "description": "content",
+        "prefix": "icon-solaris"
+    },
+    "icon-splatter": {
+        "body": "content: '\\\\f17e';$0",
+        "description": "content",
+        "prefix": "icon-splatter"
+    },
+    "icon-spring": {
+        "body": "content: '\\\\f17f';$0",
+        "description": "content",
+        "prefix": "icon-spring"
+    },
+    "icon-suse": {
+        "body": "content: '\\\\f180';$0",
+        "description": "content",
+        "prefix": "icon-suse"
+    },
+    "icon-svg": {
+        "body": "content: '\\\\f181';$0",
+        "description": "content",
+        "prefix": "icon-svg"
+    },
+    "icon-symfony": {
+        "body": "content: '\\\\f182';$0",
+        "description": "content",
+        "prefix": "icon-symfony"
+    },
+    "icon-tomcat": {
+        "body": "content: '\\\\f183';$0",
+        "description": "content",
+        "prefix": "icon-tomcat"
+    },
+    "icon-ubuntu": {
+        "body": "content: '\\\\f184';$0",
+        "description": "content",
+        "prefix": "icon-ubuntu"
+    },
+    "icon-unity": {
+        "body": "content: '\\\\f185';$0",
+        "description": "content",
+        "prefix": "icon-unity"
+    },
+    "icon-wireless": {
+        "body": "content: '\\\\f186';$0",
+        "description": "content",
+        "prefix": "icon-wireless"
+    },
+    "icon-wordpress": {
+        "body": "content: '\\\\f187';$0",
+        "description": "content",
+        "prefix": "icon-wordpress"
+    },
+    "icon-x11": {
+        "body": "content: '\\\\f188';$0",
+        "description": "content",
+        "prefix": "icon-x11"
+    }
 }

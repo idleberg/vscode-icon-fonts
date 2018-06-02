@@ -1,3 +1,11 @@
+# v2.0.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.0.0)
+
+- remove icon fonts (available in [legacy package](https://github.com/idleberg/vscode-icon-fonts-legacy))
+    - Semantic UI
+    - Brandico Icons
+    - IcoFont
+- auto-generate snippets
+
 # v1.11.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/1.11.0)
 
 - add Material Design Icons (Official)

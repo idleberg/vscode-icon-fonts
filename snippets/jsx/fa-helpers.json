@@ -1,0 +1,32 @@
+{
+  "fa-layers": {
+    "body": "<${1:span} className=\"fa-layers$2\">\n\t$3\n</${1:span>$0",
+    "description": "<span>",
+    "prefix": "fa-layers"
+  },
+  "fa-layers-counter": {
+    "body": "<${1:span} className=\"fa-layers-counter$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "fa-layers-counter"
+  },
+  "fa-layers-text": {
+    "body": "<${1:span} className=\"fa-layers-text$2\"></${1:span}>$0",
+    "description": "<span>",
+    "prefix": "fa-layers-text"
+  },
+  "fa-li": {
+    "body": "<li><span className=\"fa-li\">$1</span></li>$0",
+    "description": "<li>",
+    "prefix": "fa-li"
+  },
+  "fa-mask": {
+    "body": "<${1:span} className=\"fa-${2:4x}$3\">\n\t$4\n</${1:span>$0",
+    "description": "<span>",
+    "prefix": "fa-mask"
+  },
+  "fa-ul": {
+    "body": "<${1:ul} className=\"fa-ul$2\">\n\t$3\n</${1:ul>$0",
+    "description": "<ul>",
+    "prefix": "fa-ul"
+  }
+}

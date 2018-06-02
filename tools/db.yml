@@ -145,6 +145,24 @@ fonts:
   tag: i
   options: false
 
+- id: foundation-icons
+  slug: fi
+  directory: fi
+  github: zurb/foundation-icons
+  files:
+  - foundation_icons_social/stylesheets/social_foundicons.css
+  - foundation_icons_accessibility/stylesheets/accessibility_foundicons.css
+  - foundation_icons_general/stylesheets/general_foundicons.css
+  - foundation_icons_general_enclosed/stylesheets/general_enclosed_foundicons.css
+  pattern:
+    before: .foundicon-
+    after: :before
+  classes:
+    before: ''
+    after: ''
+  tag: i
+  options: false
+
 - id: glyphicon
   slug: glyphicon
   directory: bootstrap
@@ -173,17 +191,27 @@ fonts:
   tag: span
   options: false
 
-- id: foundation-icons
-  slug: fi
-  directory: fi
-  github: zurb/foundation-icons
-  files:
-  - foundation_icons_social/stylesheets/social_foundicons.css
-  - foundation_icons_accessibility/stylesheets/accessibility_foundicons.css
-  - foundation_icons_general/stylesheets/general_foundicons.css
-  - foundation_icons_general_enclosed/stylesheets/general_enclosed_foundicons.css
+- id: ionicons
+  slug: ion
+  directory: ion
+  github: driftyco/ionicons
+  files: css/ionicons.css
   pattern:
-    before: .foundicon-
+    before: .ion-
+    after: :before
+  classes:
+    before: ''
+    after: ''
+  tag: i
+  options: false
+
+- id: icono
+  slug: icono
+  directory: icono
+  github: saeedalipoor/icono
+  files: dist/icono.min.css
+  pattern:
+    before: .ion-
     after: :before
   classes:
     before: ''
@@ -201,20 +229,6 @@ fonts:
     after: :before
   classes:
     before: 'mdi'
-    after: ''
-  tag: i
-  options: false
-
-- id: ionicons
-  slug: ion
-  directory: ion
-  github: driftyco/ionicons
-  files: css/ionicons.css
-  pattern:
-    before: .ion-
-    after: :before
-  classes:
-    before: ''
     after: ''
   tag: i
   options: false

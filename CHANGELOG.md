@@ -1,3 +1,7 @@
+# v2.0.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.0.1)
+
+- fix slow install process
+
 # v2.0.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.0.0)
 
 - remove icon fonts (available in [legacy package](https://github.com/idleberg/vscode-icon-fonts-legacy))

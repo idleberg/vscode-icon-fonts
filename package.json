@@ -9,6 +9,12 @@
         "name": "Jan T. Sott",
         "url": "http://github.com/idleberg"
     },
+    "scripts": {
+        "build": "cd tools && yarn && node build",
+        "postinstall": "node ./node_modules/vscode/bin/install",
+        "test": "vscode-linter",
+        "vscode:prepublish": "npm build"
+    },
     "keywords": [
         "icon font",
         "icon fonts",
@@ -783,17 +789,12 @@
             }
         ]
     },
-    "scripts": {
-        "build": "cd tools && yarn && node build",
-        "postinstall": "node ./node_modules/vscode/bin/install",
-        "test": "vscode-linter",
-        "vscode:prepublish": "npm build"
-    },
     "devDependencies": {
         "gulp": "^4.0.0",
         "gulp-raster": "^0.2.0",
         "gulp-rename": "^1.2.2",
+        "husky": "^0.14.3",
         "vscode": "^1.1.2",
-        "vscode-linter": "^0.1.0"
+        "vscode-linter": "^0.2.1"
     }
 }

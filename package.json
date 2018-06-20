@@ -2,7 +2,7 @@
     "name": "icon-fonts",
     "displayName": "Icon Fonts",
     "description": "Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!",
-    "version": "2.0.2",
+    "version": "2.0.1",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
@@ -10,11 +10,10 @@
         "url": "http://github.com/idleberg"
     },
     "scripts": {
-        "build": "cd tools && yarn && node build",
+        "build": "gulp && cd tools && yarn && node build",
         "postinstall": "node ./node_modules/vscode/bin/install",
         "precommit": "npm run test",
-        "test": "vscode-linter",
-        "vscode:prepublish": "gulp"
+        "test": "vscode-linter"
     },
     "keywords": [
         "icon font",

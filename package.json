@@ -13,7 +13,8 @@
         "build": "gulp && cd tools && yarn && node build",
         "postinstall": "node ./node_modules/vscode/bin/install",
         "precommit": "npm run test",
-        "test": "vscode-linter"
+        "test": "vscode-linter",
+        "vscode:prepublish": "gulp"
     },
     "keywords": [
         "icon font",

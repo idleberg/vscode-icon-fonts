@@ -159,6 +159,11 @@
         "description": "<i>",
         "prefix": "far-angle-up"
     },
+    "far-angry": {
+        "body": "<${1:i} class=\"far fa-angry$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-angry"
+    },
     "far-angrycreative": {
         "body": "<${1:i} class=\"far fa-angrycreative$2\"></${1:i}>$0",
         "description": "<i>",
@@ -198,6 +203,11 @@
         "body": "<${1:i} class=\"far fa-archive$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-archive"
+    },
+    "far-archway": {
+        "body": "<${1:i} class=\"far fa-archway$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-archway"
     },
     "far-arrow-alt-circle-down": {
         "body": "<${1:i} class=\"far fa-arrow-alt-circle-down$2\"></${1:i}>$0",
@@ -449,6 +459,11 @@
         "description": "<i>",
         "prefix": "far-at"
     },
+    "far-atlas": {
+        "body": "<${1:i} class=\"far fa-atlas$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-atlas"
+    },
     "far-audible": {
         "body": "<${1:i} class=\"far fa-audible$2\"></${1:i}>$0",
         "description": "<i>",
@@ -474,10 +489,20 @@
         "description": "<i>",
         "prefix": "far-aviato"
     },
+    "far-award": {
+        "body": "<${1:i} class=\"far fa-award$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-award"
+    },
     "far-aws": {
         "body": "<${1:i} class=\"far fa-aws$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-aws"
+    },
+    "far-backspace": {
+        "body": "<${1:i} class=\"far fa-backspace$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-backspace"
     },
     "far-backward": {
         "body": "<${1:i} class=\"far fa-backward$2\"></${1:i}>$0",
@@ -639,6 +664,11 @@
         "description": "<i>",
         "prefix": "far-bell-slash"
     },
+    "far-bezier-curve": {
+        "body": "<${1:i} class=\"far fa-bezier-curve$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bezier-curve"
+    },
     "far-bicycle": {
         "body": "<${1:i} class=\"far fa-bicycle$2\"></${1:i}>$0",
         "description": "<i>",
@@ -733,6 +763,11 @@
         "body": "<${1:i} class=\"far fa-bomb$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-bomb"
+    },
+    "far-bong": {
+        "body": "<${1:i} class=\"far fa-bong$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bong"
     },
     "far-book": {
         "body": "<${1:i} class=\"far fa-book$2\"></${1:i}>$0",
@@ -854,6 +889,11 @@
         "description": "<i>",
         "prefix": "far-browser"
     },
+    "far-brush": {
+        "body": "<${1:i} class=\"far fa-brush$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-brush"
+    },
     "far-btc": {
         "body": "<${1:i} class=\"far fa-btc$2\"></${1:i}>$0",
         "description": "<i>",
@@ -893,6 +933,11 @@
         "body": "<${1:i} class=\"far fa-bus$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-bus"
+    },
+    "far-bus-alt": {
+        "body": "<${1:i} class=\"far fa-bus-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bus-alt"
     },
     "far-buysellads": {
         "body": "<${1:i} class=\"far fa-buysellads$2\"></${1:i}>$0",
@@ -958,6 +1003,11 @@
         "body": "<${1:i} class=\"far fa-camera-retro$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-camera-retro"
+    },
+    "far-cannabis": {
+        "body": "<${1:i} class=\"far fa-cannabis$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-cannabis"
     },
     "far-capsules": {
         "body": "<${1:i} class=\"far fa-capsules$2\"></${1:i}>$0",
@@ -1138,6 +1188,11 @@
         "body": "<${1:i} class=\"far fa-check-circle$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-check-circle"
+    },
+    "far-check-double": {
+        "body": "<${1:i} class=\"far fa-check-double$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-check-double"
     },
     "far-check-square": {
         "body": "<${1:i} class=\"far fa-check-square$2\"></${1:i}>$0",
@@ -1404,6 +1459,11 @@
         "description": "<i>",
         "prefix": "far-club"
     },
+    "far-cocktail": {
+        "body": "<${1:i} class=\"far fa-cocktail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-cocktail"
+    },
     "far-code": {
         "body": "<${1:i} class=\"far fa-code$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1604,6 +1664,11 @@
         "description": "<i>",
         "prefix": "far-compress-wide"
     },
+    "far-concierge-bell": {
+        "body": "<${1:i} class=\"far fa-concierge-bell$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-concierge-bell"
+    },
     "far-connectdevelop": {
         "body": "<${1:i} class=\"far fa-connectdevelop$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1628,6 +1693,16 @@
         "body": "<${1:i} class=\"far fa-conveyor-belt-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-conveyor-belt-alt"
+    },
+    "far-cookie": {
+        "body": "<${1:i} class=\"far fa-cookie$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-cookie"
+    },
+    "far-cookie-bite": {
+        "body": "<${1:i} class=\"far fa-cookie-bite$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-cookie-bite"
     },
     "far-copy": {
         "body": "<${1:i} class=\"far fa-copy$2\"></${1:i}>$0",
@@ -1743,6 +1818,11 @@
         "body": "<${1:i} class=\"far fa-crop$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-crop"
+    },
+    "far-crop-alt": {
+        "body": "<${1:i} class=\"far fa-crop-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-crop-alt"
     },
     "far-crosshairs": {
         "body": "<${1:i} class=\"far fa-crosshairs$2\"></${1:i}>$0",
@@ -1899,6 +1979,11 @@
         "description": "<i>",
         "prefix": "far-digital-ocean"
     },
+    "far-digital-tachograph": {
+        "body": "<${1:i} class=\"far fa-digital-tachograph$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-digital-tachograph"
+    },
     "far-discord": {
         "body": "<${1:i} class=\"far fa-discord$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1913,6 +1998,11 @@
         "body": "<${1:i} class=\"far fa-divide$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-divide"
+    },
+    "far-dizzy": {
+        "body": "<${1:i} class=\"far fa-dizzy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-dizzy"
     },
     "far-dna": {
         "body": "<${1:i} class=\"far fa-dna$2\"></${1:i}>$0",
@@ -1994,6 +2084,11 @@
         "description": "<i>",
         "prefix": "far-draft2digital"
     },
+    "far-drafting-compass": {
+        "body": "<${1:i} class=\"far fa-drafting-compass$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-drafting-compass"
+    },
     "far-dribbble": {
         "body": "<${1:i} class=\"far fa-dribbble$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2008,6 +2103,16 @@
         "body": "<${1:i} class=\"far fa-dropbox$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-dropbox"
+    },
+    "far-drum": {
+        "body": "<${1:i} class=\"far fa-drum$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-drum"
+    },
+    "far-drum-steelpan": {
+        "body": "<${1:i} class=\"far fa-drum-steelpan$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-drum-steelpan"
     },
     "far-drupal": {
         "body": "<${1:i} class=\"far fa-drupal$2\"></${1:i}>$0",
@@ -2269,6 +2374,11 @@
         "description": "<i>",
         "prefix": "far-feather"
     },
+    "far-feather-alt": {
+        "body": "<${1:i} class=\"far fa-feather-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-feather-alt"
+    },
     "far-female": {
         "body": "<${1:i} class=\"far fa-female$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2314,6 +2424,16 @@
         "description": "<i>",
         "prefix": "far-file-code"
     },
+    "far-file-contract": {
+        "body": "<${1:i} class=\"far fa-file-contract$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-file-contract"
+    },
+    "far-file-download": {
+        "body": "<${1:i} class=\"far fa-file-download$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-file-download"
+    },
     "far-file-edit": {
         "body": "<${1:i} class=\"far fa-file-edit$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2329,10 +2449,30 @@
         "description": "<i>",
         "prefix": "far-file-exclamation"
     },
+    "far-file-export": {
+        "body": "<${1:i} class=\"far fa-file-export$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-file-export"
+    },
     "far-file-image": {
         "body": "<${1:i} class=\"far fa-file-image$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-file-image"
+    },
+    "far-file-import": {
+        "body": "<${1:i} class=\"far fa-file-import$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-file-import"
+    },
+    "far-file-invoice": {
+        "body": "<${1:i} class=\"far fa-file-invoice$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-file-invoice"
+    },
+    "far-file-invoice-dollar": {
+        "body": "<${1:i} class=\"far fa-file-invoice-dollar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-file-invoice-dollar"
     },
     "far-file-medical": {
         "body": "<${1:i} class=\"far fa-file-medical$2\"></${1:i}>$0",
@@ -2364,10 +2504,25 @@
         "description": "<i>",
         "prefix": "far-file-powerpoint"
     },
+    "far-file-prescription": {
+        "body": "<${1:i} class=\"far fa-file-prescription$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-file-prescription"
+    },
+    "far-file-signature": {
+        "body": "<${1:i} class=\"far fa-file-signature$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-file-signature"
+    },
     "far-file-times": {
         "body": "<${1:i} class=\"far fa-file-times$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-file-times"
+    },
+    "far-file-upload": {
+        "body": "<${1:i} class=\"far fa-file-upload$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-file-upload"
     },
     "far-file-video": {
         "body": "<${1:i} class=\"far fa-file-video$2\"></${1:i}>$0",
@@ -2378,6 +2533,16 @@
         "body": "<${1:i} class=\"far fa-file-word$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-file-word"
+    },
+    "far-fill": {
+        "body": "<${1:i} class=\"far fa-fill$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-fill"
+    },
+    "far-fill-drip": {
+        "body": "<${1:i} class=\"far fa-fill-drip$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-fill-drip"
     },
     "far-film": {
         "body": "<${1:i} class=\"far fa-film$2\"></${1:i}>$0",
@@ -2393,6 +2558,11 @@
         "body": "<${1:i} class=\"far fa-filter$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-filter"
+    },
+    "far-fingerprint": {
+        "body": "<${1:i} class=\"far fa-fingerprint$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-fingerprint"
     },
     "far-fire": {
         "body": "<${1:i} class=\"far fa-fire$2\"></${1:i}>$0",
@@ -2429,6 +2599,11 @@
         "description": "<i>",
         "prefix": "far-firstdraft"
     },
+    "far-fish": {
+        "body": "<${1:i} class=\"far fa-fish$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-fish"
+    },
     "far-flag": {
         "body": "<${1:i} class=\"far fa-flag$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2453,6 +2628,11 @@
         "body": "<${1:i} class=\"far fa-flipboard$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-flipboard"
+    },
+    "far-flushed": {
+        "body": "<${1:i} class=\"far fa-flushed$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-flushed"
     },
     "far-fly": {
         "body": "<${1:i} class=\"far fa-fly$2\"></${1:i}>$0",
@@ -2569,6 +2749,11 @@
         "description": "<i>",
         "prefix": "far-frown"
     },
+    "far-frown-open": {
+        "body": "<${1:i} class=\"far fa-frown-open$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-frown-open"
+    },
     "far-fulcrum": {
         "body": "<${1:i} class=\"far fa-fulcrum$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2679,6 +2864,11 @@
         "description": "<i>",
         "prefix": "far-glass-martini"
     },
+    "far-glass-martini-alt": {
+        "body": "<${1:i} class=\"far fa-glass-martini-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-glass-martini-alt"
+    },
     "far-glasses": {
         "body": "<${1:i} class=\"far fa-glasses$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2698,6 +2888,21 @@
         "body": "<${1:i} class=\"far fa-globe$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-globe"
+    },
+    "far-globe-africa": {
+        "body": "<${1:i} class=\"far fa-globe-africa$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-globe-africa"
+    },
+    "far-globe-americas": {
+        "body": "<${1:i} class=\"far fa-globe-americas$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-globe-americas"
+    },
+    "far-globe-asia": {
+        "body": "<${1:i} class=\"far fa-globe-asia$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-globe-asia"
     },
     "far-gofore": {
         "body": "<${1:i} class=\"far fa-gofore$2\"></${1:i}>$0",
@@ -2783,6 +2988,86 @@
         "body": "<${1:i} class=\"far fa-greater-than-equal$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-greater-than-equal"
+    },
+    "far-grimace": {
+        "body": "<${1:i} class=\"far fa-grimace$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grimace"
+    },
+    "far-grin": {
+        "body": "<${1:i} class=\"far fa-grin$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin"
+    },
+    "far-grin-alt": {
+        "body": "<${1:i} class=\"far fa-grin-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin-alt"
+    },
+    "far-grin-beam": {
+        "body": "<${1:i} class=\"far fa-grin-beam$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin-beam"
+    },
+    "far-grin-beam-sweat": {
+        "body": "<${1:i} class=\"far fa-grin-beam-sweat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin-beam-sweat"
+    },
+    "far-grin-hearts": {
+        "body": "<${1:i} class=\"far fa-grin-hearts$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin-hearts"
+    },
+    "far-grin-squint": {
+        "body": "<${1:i} class=\"far fa-grin-squint$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin-squint"
+    },
+    "far-grin-squint-tears": {
+        "body": "<${1:i} class=\"far fa-grin-squint-tears$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin-squint-tears"
+    },
+    "far-grin-stars": {
+        "body": "<${1:i} class=\"far fa-grin-stars$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin-stars"
+    },
+    "far-grin-tears": {
+        "body": "<${1:i} class=\"far fa-grin-tears$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin-tears"
+    },
+    "far-grin-tongue": {
+        "body": "<${1:i} class=\"far fa-grin-tongue$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin-tongue"
+    },
+    "far-grin-tongue-squint": {
+        "body": "<${1:i} class=\"far fa-grin-tongue-squint$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin-tongue-squint"
+    },
+    "far-grin-tongue-wink": {
+        "body": "<${1:i} class=\"far fa-grin-tongue-wink$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin-tongue-wink"
+    },
+    "far-grin-wink": {
+        "body": "<${1:i} class=\"far fa-grin-wink$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grin-wink"
+    },
+    "far-grip-horizontal": {
+        "body": "<${1:i} class=\"far fa-grip-horizontal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grip-horizontal"
+    },
+    "far-grip-vertical": {
+        "body": "<${1:i} class=\"far fa-grip-vertical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-grip-vertical"
     },
     "far-gripfire": {
         "body": "<${1:i} class=\"far fa-gripfire$2\"></${1:i}>$0",
@@ -2974,6 +3259,16 @@
         "description": "<i>",
         "prefix": "far-headphones"
     },
+    "far-headphones-alt": {
+        "body": "<${1:i} class=\"far fa-headphones-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-headphones-alt"
+    },
+    "far-headset": {
+        "body": "<${1:i} class=\"far fa-headset$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-headset"
+    },
     "far-heart": {
         "body": "<${1:i} class=\"far fa-heart$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3003,6 +3298,11 @@
         "body": "<${1:i} class=\"far fa-hexagon$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-hexagon"
+    },
+    "far-highlighter": {
+        "body": "<${1:i} class=\"far fa-highlighter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-highlighter"
     },
     "far-hips": {
         "body": "<${1:i} class=\"far fa-hips$2\"></${1:i}>$0",
@@ -3044,6 +3344,11 @@
         "description": "<i>",
         "prefix": "far-hooli"
     },
+    "far-hornbill": {
+        "body": "<${1:i} class=\"far fa-hornbill$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-hornbill"
+    },
     "far-hospital": {
         "body": "<${1:i} class=\"far fa-hospital$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3058,6 +3363,16 @@
         "body": "<${1:i} class=\"far fa-hospital-symbol$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-hospital-symbol"
+    },
+    "far-hot-tub": {
+        "body": "<${1:i} class=\"far fa-hot-tub$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-hot-tub"
+    },
+    "far-hotel": {
+        "body": "<${1:i} class=\"far fa-hotel$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-hotel"
     },
     "far-hotjar": {
         "body": "<${1:i} class=\"far fa-hotjar$2\"></${1:i}>$0",
@@ -3244,6 +3559,11 @@
         "description": "<i>",
         "prefix": "far-joget"
     },
+    "far-joint": {
+        "body": "<${1:i} class=\"far fa-joint$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-joint"
+    },
     "far-joomla": {
         "body": "<${1:i} class=\"far fa-joomla$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3294,6 +3614,21 @@
         "description": "<i>",
         "prefix": "far-kickstarter-k"
     },
+    "far-kiss": {
+        "body": "<${1:i} class=\"far fa-kiss$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-kiss"
+    },
+    "far-kiss-beam": {
+        "body": "<${1:i} class=\"far fa-kiss-beam$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-kiss-beam"
+    },
+    "far-kiss-wink-heart": {
+        "body": "<${1:i} class=\"far fa-kiss-wink-heart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-kiss-wink-heart"
+    },
     "far-kiwi-bird": {
         "body": "<${1:i} class=\"far fa-kiwi-bird$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3333,6 +3668,26 @@
         "body": "<${1:i} class=\"far fa-lastfm-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-lastfm-square"
+    },
+    "far-laugh": {
+        "body": "<${1:i} class=\"far fa-laugh$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-laugh"
+    },
+    "far-laugh-beam": {
+        "body": "<${1:i} class=\"far fa-laugh-beam$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-laugh-beam"
+    },
+    "far-laugh-squint": {
+        "body": "<${1:i} class=\"far fa-laugh-squint$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-laugh-squint"
+    },
+    "far-laugh-wink": {
+        "body": "<${1:i} class=\"far fa-laugh-wink$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-laugh-wink"
     },
     "far-leaf": {
         "body": "<${1:i} class=\"far fa-leaf$2\"></${1:i}>$0",
@@ -3534,6 +3889,11 @@
         "description": "<i>",
         "prefix": "far-luchador"
     },
+    "far-luggage-cart": {
+        "body": "<${1:i} class=\"far fa-luggage-cart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-luggage-cart"
+    },
     "far-lyft": {
         "body": "<${1:i} class=\"far fa-lyft$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3554,6 +3914,11 @@
         "description": "<i>",
         "prefix": "far-magnet"
     },
+    "far-mailchimp": {
+        "body": "<${1:i} class=\"far fa-mailchimp$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-mailchimp"
+    },
     "far-male": {
         "body": "<${1:i} class=\"far fa-male$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3568,6 +3933,16 @@
         "body": "<${1:i} class=\"far fa-map$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-map"
+    },
+    "far-map-marked": {
+        "body": "<${1:i} class=\"far fa-map-marked$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-map-marked"
+    },
+    "far-map-marked-alt": {
+        "body": "<${1:i} class=\"far fa-map-marked-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-map-marked-alt"
     },
     "far-map-marker": {
         "body": "<${1:i} class=\"far fa-map-marker$2\"></${1:i}>$0",
@@ -3588,6 +3963,11 @@
         "body": "<${1:i} class=\"far fa-map-signs$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-map-signs"
+    },
+    "far-marker": {
+        "body": "<${1:i} class=\"far fa-marker$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-marker"
     },
     "far-mars": {
         "body": "<${1:i} class=\"far fa-mars$2\"></${1:i}>$0",
@@ -3624,6 +4004,11 @@
         "description": "<i>",
         "prefix": "far-maxcdn"
     },
+    "far-medal": {
+        "body": "<${1:i} class=\"far fa-medal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-medal"
+    },
     "far-medapps": {
         "body": "<${1:i} class=\"far fa-medapps$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3654,10 +4039,25 @@
         "description": "<i>",
         "prefix": "far-meetup"
     },
+    "far-megaport": {
+        "body": "<${1:i} class=\"far fa-megaport$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-megaport"
+    },
     "far-meh": {
         "body": "<${1:i} class=\"far fa-meh$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-meh"
+    },
+    "far-meh-blank": {
+        "body": "<${1:i} class=\"far fa-meh-blank$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-meh-blank"
+    },
+    "far-meh-rolling-eyes": {
+        "body": "<${1:i} class=\"far fa-meh-rolling-eyes$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-meh-rolling-eyes"
     },
     "far-memory": {
         "body": "<${1:i} class=\"far fa-memory$2\"></${1:i}>$0",
@@ -3799,10 +4199,20 @@
         "description": "<i>",
         "prefix": "far-money-check-alt"
     },
+    "far-monument": {
+        "body": "<${1:i} class=\"far fa-monument$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-monument"
+    },
     "far-moon": {
         "body": "<${1:i} class=\"far fa-moon$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-moon"
+    },
+    "far-mortar-pestle": {
+        "body": "<${1:i} class=\"far fa-mortar-pestle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-mortar-pestle"
     },
     "far-motorcycle": {
         "body": "<${1:i} class=\"far fa-motorcycle$2\"></${1:i}>$0",
@@ -3833,6 +4243,11 @@
         "body": "<${1:i} class=\"far fa-newspaper$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-newspaper"
+    },
+    "far-nimblr": {
+        "body": "<${1:i} class=\"far fa-nimblr$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-nimblr"
     },
     "far-nintendo-switch": {
         "body": "<${1:i} class=\"far fa-nintendo-switch$2\"></${1:i}>$0",
@@ -3949,6 +4364,16 @@
         "description": "<i>",
         "prefix": "far-paint-brush"
     },
+    "far-paint-brush-alt": {
+        "body": "<${1:i} class=\"far fa-paint-brush-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-paint-brush-alt"
+    },
+    "far-paint-roller": {
+        "body": "<${1:i} class=\"far fa-paint-roller$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-paint-roller"
+    },
     "far-palette": {
         "body": "<${1:i} class=\"far fa-palette$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3994,6 +4419,11 @@
         "description": "<i>",
         "prefix": "far-parking"
     },
+    "far-passport": {
+        "body": "<${1:i} class=\"far fa-passport$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-passport"
+    },
     "far-paste": {
         "body": "<${1:i} class=\"far fa-paste$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4034,6 +4464,16 @@
         "description": "<i>",
         "prefix": "far-pen-alt"
     },
+    "far-pen-fancy": {
+        "body": "<${1:i} class=\"far fa-pen-fancy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-pen-fancy"
+    },
+    "far-pen-nib": {
+        "body": "<${1:i} class=\"far fa-pen-nib$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-pen-nib"
+    },
     "far-pen-square": {
         "body": "<${1:i} class=\"far fa-pen-square$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4048,6 +4488,11 @@
         "body": "<${1:i} class=\"far fa-pencil-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-pencil-alt"
+    },
+    "far-pencil-ruler": {
+        "body": "<${1:i} class=\"far fa-pencil-ruler$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-pencil-ruler"
     },
     "far-pennant": {
         "body": "<${1:i} class=\"far fa-pennant$2\"></${1:i}>$0",
@@ -4189,6 +4634,16 @@
         "description": "<i>",
         "prefix": "far-plane-alt"
     },
+    "far-plane-arrival": {
+        "body": "<${1:i} class=\"far fa-plane-arrival$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-plane-arrival"
+    },
+    "far-plane-departure": {
+        "body": "<${1:i} class=\"far fa-plane-departure$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-plane-departure"
+    },
     "far-play": {
         "body": "<${1:i} class=\"far fa-play$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4258,6 +4713,11 @@
         "body": "<${1:i} class=\"far fa-power-off$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-power-off"
+    },
+    "far-prescription": {
+        "body": "<${1:i} class=\"far fa-prescription$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-prescription"
     },
     "far-prescription-bottle": {
         "body": "<${1:i} class=\"far fa-prescription-bottle$2\"></${1:i}>$0",
@@ -4519,6 +4979,11 @@
         "description": "<i>",
         "prefix": "far-retweet-alt"
     },
+    "far-rev": {
+        "body": "<${1:i} class=\"far fa-rev$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-rev"
+    },
     "far-ribbon": {
         "body": "<${1:i} class=\"far fa-ribbon$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4593,6 +5058,16 @@
         "body": "<${1:i} class=\"far fa-rupee-sign$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-rupee-sign"
+    },
+    "far-sad-cry": {
+        "body": "<${1:i} class=\"far fa-sad-cry$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sad-cry"
+    },
+    "far-sad-tear": {
+        "body": "<${1:i} class=\"far fa-sad-tear$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sad-tear"
     },
     "far-safari": {
         "body": "<${1:i} class=\"far fa-safari$2\"></${1:i}>$0",
@@ -4779,10 +5254,20 @@
         "description": "<i>",
         "prefix": "far-shopping-cart"
     },
+    "far-shopware": {
+        "body": "<${1:i} class=\"far fa-shopware$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-shopware"
+    },
     "far-shower": {
         "body": "<${1:i} class=\"far fa-shower$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-shower"
+    },
+    "far-shuttle-van": {
+        "body": "<${1:i} class=\"far fa-shuttle-van$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-shuttle-van"
     },
     "far-shuttlecock": {
         "body": "<${1:i} class=\"far fa-shuttlecock$2\"></${1:i}>$0",
@@ -4823,6 +5308,11 @@
         "body": "<${1:i} class=\"far fa-signal$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-signal"
+    },
+    "far-signature": {
+        "body": "<${1:i} class=\"far fa-signature$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-signature"
     },
     "far-simplybuilt": {
         "body": "<${1:i} class=\"far fa-simplybuilt$2\"></${1:i}>$0",
@@ -4899,10 +5389,20 @@
         "description": "<i>",
         "prefix": "far-smile"
     },
+    "far-smile-beam": {
+        "body": "<${1:i} class=\"far fa-smile-beam$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-smile-beam"
+    },
     "far-smile-plus": {
         "body": "<${1:i} class=\"far fa-smile-plus$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-smile-plus"
+    },
+    "far-smile-wink": {
+        "body": "<${1:i} class=\"far fa-smile-wink$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-smile-wink"
     },
     "far-smoking": {
         "body": "<${1:i} class=\"far fa-smoking$2\"></${1:i}>$0",
@@ -4933,6 +5433,11 @@
         "body": "<${1:i} class=\"far fa-snowflake$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-snowflake"
+    },
+    "far-solar-panel": {
+        "body": "<${1:i} class=\"far fa-solar-panel$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-solar-panel"
     },
     "far-sort": {
         "body": "<${1:i} class=\"far fa-sort$2\"></${1:i}>$0",
@@ -4984,6 +5489,11 @@
         "description": "<i>",
         "prefix": "far-soundcloud"
     },
+    "far-spa": {
+        "body": "<${1:i} class=\"far fa-spa$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-spa"
+    },
     "far-space-shuttle": {
         "body": "<${1:i} class=\"far fa-space-shuttle$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5009,10 +5519,20 @@
         "description": "<i>",
         "prefix": "far-spinner-third"
     },
+    "far-splotch": {
+        "body": "<${1:i} class=\"far fa-splotch$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-splotch"
+    },
     "far-spotify": {
         "body": "<${1:i} class=\"far fa-spotify$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-spotify"
+    },
+    "far-spray-can": {
+        "body": "<${1:i} class=\"far fa-spray-can$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-spray-can"
     },
     "far-square": {
         "body": "<${1:i} class=\"far fa-square$2\"></${1:i}>$0",
@@ -5024,6 +5544,11 @@
         "description": "<i>",
         "prefix": "far-square-full"
     },
+    "far-squarespace": {
+        "body": "<${1:i} class=\"far fa-squarespace$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-squarespace"
+    },
     "far-stack-exchange": {
         "body": "<${1:i} class=\"far fa-stack-exchange$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5033,6 +5558,11 @@
         "body": "<${1:i} class=\"far fa-stack-overflow$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-stack-overflow"
+    },
+    "far-stamp": {
+        "body": "<${1:i} class=\"far fa-stamp$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-stamp"
     },
     "far-star": {
         "body": "<${1:i} class=\"far fa-star$2\"></${1:i}>$0",
@@ -5048,6 +5578,11 @@
         "body": "<${1:i} class=\"far fa-star-half$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-star-half"
+    },
+    "far-star-half-alt": {
+        "body": "<${1:i} class=\"far fa-star-half-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-star-half-alt"
     },
     "far-staylinked": {
         "body": "<${1:i} class=\"far fa-staylinked$2\"></${1:i}>$0",
@@ -5184,6 +5719,11 @@
         "description": "<i>",
         "prefix": "far-suitcase"
     },
+    "far-suitcase-rolling": {
+        "body": "<${1:i} class=\"far fa-suitcase-rolling$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-suitcase-rolling"
+    },
     "far-sun": {
         "body": "<${1:i} class=\"far fa-sun$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5203,6 +5743,26 @@
         "body": "<${1:i} class=\"far fa-supple$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-supple"
+    },
+    "far-surprise": {
+        "body": "<${1:i} class=\"far fa-surprise$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-surprise"
+    },
+    "far-swatchbook": {
+        "body": "<${1:i} class=\"far fa-swatchbook$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-swatchbook"
+    },
+    "far-swimmer": {
+        "body": "<${1:i} class=\"far fa-swimmer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-swimmer"
+    },
+    "far-swimming-pool": {
+        "body": "<${1:i} class=\"far fa-swimming-pool$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-swimming-pool"
     },
     "far-sync": {
         "body": "<${1:i} class=\"far fa-sync$2\"></${1:i}>$0",
@@ -5349,6 +5909,11 @@
         "description": "<i>",
         "prefix": "far-th-list"
     },
+    "far-themeco": {
+        "body": "<${1:i} class=\"far fa-themeco$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-themeco"
+    },
     "far-themeisle": {
         "body": "<${1:i} class=\"far fa-themeisle$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5439,6 +6004,16 @@
         "description": "<i>",
         "prefix": "far-tint"
     },
+    "far-tint-slash": {
+        "body": "<${1:i} class=\"far fa-tint-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tint-slash"
+    },
+    "far-tired": {
+        "body": "<${1:i} class=\"far fa-tired$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tired"
+    },
     "far-toggle-off": {
         "body": "<${1:i} class=\"far fa-toggle-off$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5453,6 +6028,11 @@
         "body": "<${1:i} class=\"far fa-toolbox$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-toolbox"
+    },
+    "far-tooth": {
+        "body": "<${1:i} class=\"far fa-tooth$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tooth"
     },
     "far-trade-federation": {
         "body": "<${1:i} class=\"far fa-trade-federation$2\"></${1:i}>$0",
@@ -5618,6 +6198,11 @@
         "body": "<${1:i} class=\"far fa-umbrella$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-umbrella"
+    },
+    "far-umbrella-beach": {
+        "body": "<${1:i} class=\"far fa-umbrella-beach$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-umbrella-beach"
     },
     "far-underline": {
         "body": "<${1:i} class=\"far fa-underline$2\"></${1:i}>$0",
@@ -5844,6 +6429,11 @@
         "description": "<i>",
         "prefix": "far-vaadin"
     },
+    "far-vector-square": {
+        "body": "<${1:i} class=\"far fa-vector-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-vector-square"
+    },
     "far-venus": {
         "body": "<${1:i} class=\"far fa-venus$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5989,6 +6579,11 @@
         "description": "<i>",
         "prefix": "far-watch"
     },
+    "far-weebly": {
+        "body": "<${1:i} class=\"far fa-weebly$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-weebly"
+    },
     "far-weibo": {
         "body": "<${1:i} class=\"far fa-weibo$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5998,6 +6593,11 @@
         "body": "<${1:i} class=\"far fa-weight$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-weight"
+    },
+    "far-weight-hanging": {
+        "body": "<${1:i} class=\"far fa-weight-hanging$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-weight-hanging"
     },
     "far-weixin": {
         "body": "<${1:i} class=\"far fa-weixin$2\"></${1:i}>$0",
@@ -6078,6 +6678,16 @@
         "body": "<${1:i} class=\"far fa-wine-glass$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-wine-glass"
+    },
+    "far-wine-glass-alt": {
+        "body": "<${1:i} class=\"far fa-wine-glass-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-wine-glass-alt"
+    },
+    "far-wix": {
+        "body": "<${1:i} class=\"far fa-wix$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-wix"
     },
     "far-wolf-pack-battalion": {
         "body": "<${1:i} class=\"far fa-wolf-pack-battalion$2\"></${1:i}>$0",

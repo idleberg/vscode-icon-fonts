@@ -1,3 +1,7 @@
+# v2.0.2 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.0.2)
+
+- bump Font Awesome Pro to v5.1.0
+
 # v2.0.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.0.1)
 
 - fix slow install process

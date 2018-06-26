@@ -59,6 +59,7 @@ Snippets are limited to the `html`, `css|less|sass|scss|stylus`, `jsx`, `blade` 
 Prefix           | Icon Font                           | Version | cdnjs | jsDelivr
 -----------------|-------------------------------------|---------|-------|---------
 `ai`              | [Android Icons][ai]                     | 1.0.0   | 🚫    | 🚫
+`bx`              | [BoxIcons][bx]                          | -       | 🚫    | 🚫
 `cc`              | [Creative Commons Icon Font][cc]        | 1.2.1   | ✅    | ✅
 `dashicons`       | [WordPress Dashicons][dashicons]        | –       | 🚫    | 🚫
 `devicons`        | [Devicons][devicons]                    | 1.8.0   | ✅    | ✅
@@ -111,6 +112,7 @@ This work is licensed under [The MIT License](https://opensource.org/licenses/MI
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/vscode-icon-fonts) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
 
 [ai]: https://github.com/opoloo/androidicons
+[bx]: https://github.com/atisawd/boxicons
 [cc]: https://github.com/cc-icons/cc-icons
 [dashicons]: https://github.com/WordPress/dashicons
 [devicons]: https://github.com/vorillaz/devicons

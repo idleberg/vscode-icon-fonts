@@ -1,3 +1,7 @@
+# v2.1.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.1.0)
+
+- add BoxIcons
+
 # v2.0.2 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.0.2)
 
 - bump Font Awesome Pro to v5.1.0

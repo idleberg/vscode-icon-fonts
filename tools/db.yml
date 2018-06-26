@@ -13,6 +13,20 @@ fonts:
   tag: span
   options: false
 
+- id: boxicons
+  slug: bx
+  directory: boxicons
+  github: atisawd/boxicons
+  files: static/css/boxicons.css
+  pattern:
+    before: .bx-
+    after: :before
+  classes:
+    before: 'bx'
+    after: ''
+  tag: i
+  options: true
+
 - id: cc-icons
   slug: cc
   directory: cc

@@ -1,0 +1,2152 @@
+{
+    "bx-adjust": {
+        "body": "<${1:i} class=\"bx bx-adjust$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-adjust"
+    },
+    "bx-alarm": {
+        "body": "<${1:i} class=\"bx bx-alarm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-alarm"
+    },
+    "bx-alarm-off": {
+        "body": "<${1:i} class=\"bx bx-alarm-off$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-alarm-off"
+    },
+    "bx-album": {
+        "body": "<${1:i} class=\"bx bx-album$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-album"
+    },
+    "bx-align-left": {
+        "body": "<${1:i} class=\"bx bx-align-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-align-left"
+    },
+    "bx-align-middle": {
+        "body": "<${1:i} class=\"bx bx-align-middle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-align-middle"
+    },
+    "bx-align-right": {
+        "body": "<${1:i} class=\"bx bx-align-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-align-right"
+    },
+    "bx-anchor": {
+        "body": "<${1:i} class=\"bx bx-anchor$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-anchor"
+    },
+    "bx-aperture": {
+        "body": "<${1:i} class=\"bx bx-aperture$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-aperture"
+    },
+    "bx-archive": {
+        "body": "<${1:i} class=\"bx bx-archive$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-archive"
+    },
+    "bx-archive-in": {
+        "body": "<${1:i} class=\"bx bx-archive-in$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-archive-in"
+    },
+    "bx-archive-out": {
+        "body": "<${1:i} class=\"bx bx-archive-out$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-archive-out"
+    },
+    "bx-arrow-back": {
+        "body": "<${1:i} class=\"bx bx-arrow-back$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-arrow-back"
+    },
+    "bx-asterisk": {
+        "body": "<${1:i} class=\"bx bx-asterisk$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-asterisk"
+    },
+    "bx-at": {
+        "body": "<${1:i} class=\"bx bx-at$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-at"
+    },
+    "bx-award": {
+        "body": "<${1:i} class=\"bx bx-award$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-award"
+    },
+    "bx-bar-chart": {
+        "body": "<${1:i} class=\"bx bx-bar-chart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bar-chart"
+    },
+    "bx-bar-chart-alt": {
+        "body": "<${1:i} class=\"bx bx-bar-chart-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bar-chart-alt"
+    },
+    "bx-bar-chart-square": {
+        "body": "<${1:i} class=\"bx bx-bar-chart-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bar-chart-square"
+    },
+    "bx-barcode": {
+        "body": "<${1:i} class=\"bx bx-barcode$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-barcode"
+    },
+    "bx-basketball": {
+        "body": "<${1:i} class=\"bx bx-basketball$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-basketball"
+    },
+    "bx-battery": {
+        "body": "<${1:i} class=\"bx bx-battery$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-battery"
+    },
+    "bx-battery-charging": {
+        "body": "<${1:i} class=\"bx bx-battery-charging$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-battery-charging"
+    },
+    "bx-battery-full": {
+        "body": "<${1:i} class=\"bx bx-battery-full$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-battery-full"
+    },
+    "bx-battery-low": {
+        "body": "<${1:i} class=\"bx bx-battery-low$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-battery-low"
+    },
+    "bx-behance": {
+        "body": "<${1:i} class=\"bx bx-behance$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-behance"
+    },
+    "bx-bell": {
+        "body": "<${1:i} class=\"bx bx-bell$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bell"
+    },
+    "bx-bell-minus": {
+        "body": "<${1:i} class=\"bx bx-bell-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bell-minus"
+    },
+    "bx-bell-off": {
+        "body": "<${1:i} class=\"bx bx-bell-off$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bell-off"
+    },
+    "bx-bell-plus": {
+        "body": "<${1:i} class=\"bx bx-bell-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bell-plus"
+    },
+    "bx-bitcoin": {
+        "body": "<${1:i} class=\"bx bx-bitcoin$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bitcoin"
+    },
+    "bx-block": {
+        "body": "<${1:i} class=\"bx bx-block$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-block"
+    },
+    "bx-bluetooth": {
+        "body": "<${1:i} class=\"bx bx-bluetooth$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bluetooth"
+    },
+    "bx-body": {
+        "body": "<${1:i} class=\"bx bx-body$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-body"
+    },
+    "bx-bold": {
+        "body": "<${1:i} class=\"bx bx-bold$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bold"
+    },
+    "bx-bolt": {
+        "body": "<${1:i} class=\"bx bx-bolt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bolt"
+    },
+    "bx-book": {
+        "body": "<${1:i} class=\"bx bx-book$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-book"
+    },
+    "bx-book-bookmark": {
+        "body": "<${1:i} class=\"bx bx-book-bookmark$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-book-bookmark"
+    },
+    "bx-bookmark": {
+        "body": "<${1:i} class=\"bx bx-bookmark$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bookmark"
+    },
+    "bx-bookmark-minus": {
+        "body": "<${1:i} class=\"bx bx-bookmark-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bookmark-minus"
+    },
+    "bx-bookmark-plus": {
+        "body": "<${1:i} class=\"bx bx-bookmark-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bookmark-plus"
+    },
+    "bx-bookmarks": {
+        "body": "<${1:i} class=\"bx bx-bookmarks$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bookmarks"
+    },
+    "bx-book-open": {
+        "body": "<${1:i} class=\"bx bx-book-open$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-book-open"
+    },
+    "bx-briefcase": {
+        "body": "<${1:i} class=\"bx bx-briefcase$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-briefcase"
+    },
+    "bx-briefcase-alt": {
+        "body": "<${1:i} class=\"bx bx-briefcase-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-briefcase-alt"
+    },
+    "bx-broadcast": {
+        "body": "<${1:i} class=\"bx bx-broadcast$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-broadcast"
+    },
+    "bx-bug": {
+        "body": "<${1:i} class=\"bx bx-bug$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bug"
+    },
+    "bx-building": {
+        "body": "<${1:i} class=\"bx bx-building$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-building"
+    },
+    "bx-bulb": {
+        "body": "<${1:i} class=\"bx bx-bulb$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bulb"
+    },
+    "bx-bullseye": {
+        "body": "<${1:i} class=\"bx bx-bullseye$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bullseye"
+    },
+    "bx-buoy": {
+        "body": "<${1:i} class=\"bx bx-buoy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-buoy"
+    },
+    "bx-calculator": {
+        "body": "<${1:i} class=\"bx bx-calculator$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-calculator"
+    },
+    "bx-calendar": {
+        "body": "<${1:i} class=\"bx bx-calendar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-calendar"
+    },
+    "bx-calendar-add": {
+        "body": "<${1:i} class=\"bx bx-calendar-add$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-calendar-add"
+    },
+    "bx-calendar-alt": {
+        "body": "<${1:i} class=\"bx bx-calendar-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-calendar-alt"
+    },
+    "bx-calendar-check": {
+        "body": "<${1:i} class=\"bx bx-calendar-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-calendar-check"
+    },
+    "bx-calendar-minus": {
+        "body": "<${1:i} class=\"bx bx-calendar-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-calendar-minus"
+    },
+    "bx-calendar-remove": {
+        "body": "<${1:i} class=\"bx bx-calendar-remove$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-calendar-remove"
+    },
+    "bx-camera": {
+        "body": "<${1:i} class=\"bx bx-camera$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-camera"
+    },
+    "bx-camera-alt": {
+        "body": "<${1:i} class=\"bx bx-camera-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-camera-alt"
+    },
+    "bx-camera-off": {
+        "body": "<${1:i} class=\"bx bx-camera-off$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-camera-off"
+    },
+    "bx-capsule": {
+        "body": "<${1:i} class=\"bx bx-capsule$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-capsule"
+    },
+    "bx-captions": {
+        "body": "<${1:i} class=\"bx bx-captions$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-captions"
+    },
+    "bx-carousel": {
+        "body": "<${1:i} class=\"bx bx-carousel$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-carousel"
+    },
+    "bx-cart": {
+        "body": "<${1:i} class=\"bx bx-cart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cart"
+    },
+    "bx-cast": {
+        "body": "<${1:i} class=\"bx bx-cast$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cast"
+    },
+    "bx-chalkboard": {
+        "body": "<${1:i} class=\"bx bx-chalkboard$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chalkboard"
+    },
+    "bx-chart": {
+        "body": "<${1:i} class=\"bx bx-chart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chart"
+    },
+    "bx-check": {
+        "body": "<${1:i} class=\"bx bx-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-check"
+    },
+    "bx-checkbox": {
+        "body": "<${1:i} class=\"bx bx-checkbox$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-checkbox"
+    },
+    "bx-checkbox-checked": {
+        "body": "<${1:i} class=\"bx bx-checkbox-checked$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-checkbox-checked"
+    },
+    "bx-checkbox-square": {
+        "body": "<${1:i} class=\"bx bx-checkbox-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-checkbox-square"
+    },
+    "bx-chevron-down": {
+        "body": "<${1:i} class=\"bx bx-chevron-down$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevron-down"
+    },
+    "bx-chevron-left": {
+        "body": "<${1:i} class=\"bx bx-chevron-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevron-left"
+    },
+    "bx-chevron-right": {
+        "body": "<${1:i} class=\"bx bx-chevron-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevron-right"
+    },
+    "bx-chevrons-down": {
+        "body": "<${1:i} class=\"bx bx-chevrons-down$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevrons-down"
+    },
+    "bx-chevrons-left": {
+        "body": "<${1:i} class=\"bx bx-chevrons-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevrons-left"
+    },
+    "bx-chevrons-right": {
+        "body": "<${1:i} class=\"bx bx-chevrons-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevrons-right"
+    },
+    "bx-chevrons-up": {
+        "body": "<${1:i} class=\"bx bx-chevrons-up$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevrons-up"
+    },
+    "bx-chevron-up": {
+        "body": "<${1:i} class=\"bx bx-chevron-up$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevron-up"
+    },
+    "bx-chip": {
+        "body": "<${1:i} class=\"bx bx-chip$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chip"
+    },
+    "bx-chrome": {
+        "body": "<${1:i} class=\"bx bx-chrome$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chrome"
+    },
+    "bx-clipboard": {
+        "body": "<${1:i} class=\"bx bx-clipboard$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-clipboard"
+    },
+    "bx-closet": {
+        "body": "<${1:i} class=\"bx bx-closet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-closet"
+    },
+    "bx-cloud": {
+        "body": "<${1:i} class=\"bx bx-cloud$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cloud"
+    },
+    "bx-cloud-download": {
+        "body": "<${1:i} class=\"bx bx-cloud-download$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cloud-download"
+    },
+    "bx-cloud-drizzle": {
+        "body": "<${1:i} class=\"bx bx-cloud-drizzle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cloud-drizzle"
+    },
+    "bx-cloud-lightning": {
+        "body": "<${1:i} class=\"bx bx-cloud-lightning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cloud-lightning"
+    },
+    "bx-cloud-light-rain": {
+        "body": "<${1:i} class=\"bx bx-cloud-light-rain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cloud-light-rain"
+    },
+    "bx-cloud-rain": {
+        "body": "<${1:i} class=\"bx bx-cloud-rain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cloud-rain"
+    },
+    "bx-cloud-snow": {
+        "body": "<${1:i} class=\"bx bx-cloud-snow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cloud-snow"
+    },
+    "bx-cloud-upload": {
+        "body": "<${1:i} class=\"bx bx-cloud-upload$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cloud-upload"
+    },
+    "bx-code": {
+        "body": "<${1:i} class=\"bx bx-code$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-code"
+    },
+    "bx-code-curly": {
+        "body": "<${1:i} class=\"bx bx-code-curly$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-code-curly"
+    },
+    "bx-codepen": {
+        "body": "<${1:i} class=\"bx bx-codepen$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-codepen"
+    },
+    "bx-coffee": {
+        "body": "<${1:i} class=\"bx bx-coffee$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-coffee"
+    },
+    "bx-cog": {
+        "body": "<${1:i} class=\"bx bx-cog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cog"
+    },
+    "bx-collapse": {
+        "body": "<${1:i} class=\"bx bx-collapse$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-collapse"
+    },
+    "bx-collection": {
+        "body": "<${1:i} class=\"bx bx-collection$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-collection"
+    },
+    "bx-columns": {
+        "body": "<${1:i} class=\"bx bx-columns$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-columns"
+    },
+    "bx-command": {
+        "body": "<${1:i} class=\"bx bx-command$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-command"
+    },
+    "bx-compass": {
+        "body": "<${1:i} class=\"bx bx-compass$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-compass"
+    },
+    "bx-contact": {
+        "body": "<${1:i} class=\"bx bx-contact$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-contact"
+    },
+    "bx-copy": {
+        "body": "<${1:i} class=\"bx bx-copy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-copy"
+    },
+    "bx-copyright": {
+        "body": "<${1:i} class=\"bx bx-copyright$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-copyright"
+    },
+    "bx-coupon": {
+        "body": "<${1:i} class=\"bx bx-coupon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-coupon"
+    },
+    "bx-credit-card": {
+        "body": "<${1:i} class=\"bx bx-credit-card$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-credit-card"
+    },
+    "bx-crop": {
+        "body": "<${1:i} class=\"bx bx-crop$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-crop"
+    },
+    "bx-crosshair": {
+        "body": "<${1:i} class=\"bx bx-crosshair$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-crosshair"
+    },
+    "bx-crown": {
+        "body": "<${1:i} class=\"bx bx-crown$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-crown"
+    },
+    "bx-cube": {
+        "body": "<${1:i} class=\"bx bx-cube$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cube"
+    },
+    "bx-cut": {
+        "body": "<${1:i} class=\"bx bx-cut$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cut"
+    },
+    "bx-data": {
+        "body": "<${1:i} class=\"bx bx-data$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-data"
+    },
+    "bx-desktop": {
+        "body": "<${1:i} class=\"bx bx-desktop$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-desktop"
+    },
+    "bx-detail": {
+        "body": "<${1:i} class=\"bx bx-detail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-detail"
+    },
+    "bx-diamond": {
+        "body": "<${1:i} class=\"bx bx-diamond$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-diamond"
+    },
+    "bx-directions": {
+        "body": "<${1:i} class=\"bx bx-directions$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-directions"
+    },
+    "bx-discount": {
+        "body": "<${1:i} class=\"bx bx-discount$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-discount"
+    },
+    "bx-dislike": {
+        "body": "<${1:i} class=\"bx bx-dislike$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dislike"
+    },
+    "bx-dock-bottom": {
+        "body": "<${1:i} class=\"bx bx-dock-bottom$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dock-bottom"
+    },
+    "bx-dock-left": {
+        "body": "<${1:i} class=\"bx bx-dock-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dock-left"
+    },
+    "bx-dock-right": {
+        "body": "<${1:i} class=\"bx bx-dock-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dock-right"
+    },
+    "bx-dock-top": {
+        "body": "<${1:i} class=\"bx bx-dock-top$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dock-top"
+    },
+    "bx-dollar": {
+        "body": "<${1:i} class=\"bx bx-dollar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dollar"
+    },
+    "bx-dollar-circle": {
+        "body": "<${1:i} class=\"bx bx-dollar-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dollar-circle"
+    },
+    "bx-dots-horizontal": {
+        "body": "<${1:i} class=\"bx bx-dots-horizontal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dots-horizontal"
+    },
+    "bx-dots-horizontal-rounded": {
+        "body": "<${1:i} class=\"bx bx-dots-horizontal-rounded$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dots-horizontal-rounded"
+    },
+    "bx-dots-vertical": {
+        "body": "<${1:i} class=\"bx bx-dots-vertical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dots-vertical"
+    },
+    "bx-dots-vertical-rounded": {
+        "body": "<${1:i} class=\"bx bx-dots-vertical-rounded$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dots-vertical-rounded"
+    },
+    "bx-down-arrow-circle": {
+        "body": "<${1:i} class=\"bx bx-down-arrow-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-down-arrow-circle"
+    },
+    "bx-down-arrow-outline": {
+        "body": "<${1:i} class=\"bx bx-down-arrow-outline$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-down-arrow-outline"
+    },
+    "bx-download": {
+        "body": "<${1:i} class=\"bx bx-download$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-download"
+    },
+    "bx-download-alt": {
+        "body": "<${1:i} class=\"bx bx-download-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-download-alt"
+    },
+    "bx-downvote": {
+        "body": "<${1:i} class=\"bx bx-downvote$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-downvote"
+    },
+    "bx-dribbble": {
+        "body": "<${1:i} class=\"bx bx-dribbble$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dribbble"
+    },
+    "bx-drink": {
+        "body": "<${1:i} class=\"bx bx-drink$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-drink"
+    },
+    "bx-droplet": {
+        "body": "<${1:i} class=\"bx bx-droplet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-droplet"
+    },
+    "bx-duplicate": {
+        "body": "<${1:i} class=\"bx bx-duplicate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-duplicate"
+    },
+    "bx-edit": {
+        "body": "<${1:i} class=\"bx bx-edit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-edit"
+    },
+    "bx-eject": {
+        "body": "<${1:i} class=\"bx bx-eject$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-eject"
+    },
+    "bx-envelope": {
+        "body": "<${1:i} class=\"bx bx-envelope$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-envelope"
+    },
+    "bx-eraser": {
+        "body": "<${1:i} class=\"bx bx-eraser$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-eraser"
+    },
+    "bx-error": {
+        "body": "<${1:i} class=\"bx bx-error$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-error"
+    },
+    "bx-error-circle": {
+        "body": "<${1:i} class=\"bx bx-error-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-error-circle"
+    },
+    "bx-exclamation": {
+        "body": "<${1:i} class=\"bx bx-exclamation$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-exclamation"
+    },
+    "bx-exit-fullscreen": {
+        "body": "<${1:i} class=\"bx bx-exit-fullscreen$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-exit-fullscreen"
+    },
+    "bx-expand": {
+        "body": "<${1:i} class=\"bx bx-expand$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-expand"
+    },
+    "bx-export": {
+        "body": "<${1:i} class=\"bx bx-export$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-export"
+    },
+    "bx-eyedropper": {
+        "body": "<${1:i} class=\"bx bx-eyedropper$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-eyedropper"
+    },
+    "bx-facebook": {
+        "body": "<${1:i} class=\"bx bx-facebook$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-facebook"
+    },
+    "bx-facebook-alt": {
+        "body": "<${1:i} class=\"bx bx-facebook-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-facebook-alt"
+    },
+    "bx-fast-forward": {
+        "body": "<${1:i} class=\"bx bx-fast-forward$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-fast-forward"
+    },
+    "bx-fast-forward-circle": {
+        "body": "<${1:i} class=\"bx bx-fast-forward-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-fast-forward-circle"
+    },
+    "bx-female": {
+        "body": "<${1:i} class=\"bx bx-female$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-female"
+    },
+    "bx-file": {
+        "body": "<${1:i} class=\"bx bx-file$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-file"
+    },
+    "bx-file-add": {
+        "body": "<${1:i} class=\"bx bx-file-add$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-file-add"
+    },
+    "bx-file-image": {
+        "body": "<${1:i} class=\"bx bx-file-image$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-file-image"
+    },
+    "bx-files": {
+        "body": "<${1:i} class=\"bx bx-files$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-files"
+    },
+    "bx-film": {
+        "body": "<${1:i} class=\"bx bx-film$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-film"
+    },
+    "bx-filter": {
+        "body": "<${1:i} class=\"bx bx-filter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-filter"
+    },
+    "bx-filter-alt": {
+        "body": "<${1:i} class=\"bx bx-filter-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-filter-alt"
+    },
+    "bx-first-aid": {
+        "body": "<${1:i} class=\"bx bx-first-aid$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-first-aid"
+    },
+    "bx-first-page": {
+        "body": "<${1:i} class=\"bx bx-first-page$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-first-page"
+    },
+    "bx-flag": {
+        "body": "<${1:i} class=\"bx bx-flag$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-flag"
+    },
+    "bx-flag-alt": {
+        "body": "<${1:i} class=\"bx bx-flag-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-flag-alt"
+    },
+    "bx-flask": {
+        "body": "<${1:i} class=\"bx bx-flask$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-flask"
+    },
+    "bx-folder": {
+        "body": "<${1:i} class=\"bx bx-folder$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-folder"
+    },
+    "bx-folder-minus": {
+        "body": "<${1:i} class=\"bx bx-folder-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-folder-minus"
+    },
+    "bx-folder-open": {
+        "body": "<${1:i} class=\"bx bx-folder-open$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-folder-open"
+    },
+    "bx-folder-plus": {
+        "body": "<${1:i} class=\"bx bx-folder-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-folder-plus"
+    },
+    "bx-font": {
+        "body": "<${1:i} class=\"bx bx-font$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-font"
+    },
+    "bx-fullscreen": {
+        "body": "<${1:i} class=\"bx bx-fullscreen$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-fullscreen"
+    },
+    "bx-gift": {
+        "body": "<${1:i} class=\"bx bx-gift$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-gift"
+    },
+    "bx-git-branch": {
+        "body": "<${1:i} class=\"bx bx-git-branch$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-git-branch"
+    },
+    "bx-git-commit": {
+        "body": "<${1:i} class=\"bx bx-git-commit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-git-commit"
+    },
+    "bx-git-compare": {
+        "body": "<${1:i} class=\"bx bx-git-compare$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-git-compare"
+    },
+    "bx-github": {
+        "body": "<${1:i} class=\"bx bx-github$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-github"
+    },
+    "bx-git-merge": {
+        "body": "<${1:i} class=\"bx bx-git-merge$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-git-merge"
+    },
+    "bx-git-pull-request": {
+        "body": "<${1:i} class=\"bx bx-git-pull-request$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-git-pull-request"
+    },
+    "bx-git-repo-forked": {
+        "body": "<${1:i} class=\"bx bx-git-repo-forked$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-git-repo-forked"
+    },
+    "bx-globe": {
+        "body": "<${1:i} class=\"bx bx-globe$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-globe"
+    },
+    "bx-globe-alt": {
+        "body": "<${1:i} class=\"bx bx-globe-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-globe-alt"
+    },
+    "bx-google": {
+        "body": "<${1:i} class=\"bx bx-google$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-google"
+    },
+    "bx-grid": {
+        "body": "<${1:i} class=\"bx bx-grid$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-grid"
+    },
+    "bx-grid-alt": {
+        "body": "<${1:i} class=\"bx bx-grid-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-grid-alt"
+    },
+    "bx-group": {
+        "body": "<${1:i} class=\"bx bx-group$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-group"
+    },
+    "bx-hash": {
+        "body": "<${1:i} class=\"bx bx-hash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-hash"
+    },
+    "bx-hdd": {
+        "body": "<${1:i} class=\"bx bx-hdd$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-hdd"
+    },
+    "bx-heading": {
+        "body": "<${1:i} class=\"bx bx-heading$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-heading"
+    },
+    "bx-headphone": {
+        "body": "<${1:i} class=\"bx bx-headphone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-headphone"
+    },
+    "bx-heart": {
+        "body": "<${1:i} class=\"bx bx-heart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-heart"
+    },
+    "bx-hexagon": {
+        "body": "<${1:i} class=\"bx bx-hexagon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-hexagon"
+    },
+    "bx-hide": {
+        "body": "<${1:i} class=\"bx bx-hide$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-hide"
+    },
+    "bx-history": {
+        "body": "<${1:i} class=\"bx bx-history$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-history"
+    },
+    "bx-home": {
+        "body": "<${1:i} class=\"bx bx-home$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-home"
+    },
+    "bx-home-alt": {
+        "body": "<${1:i} class=\"bx bx-home-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-home-alt"
+    },
+    "bx-horizontal-center": {
+        "body": "<${1:i} class=\"bx bx-horizontal-center$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-horizontal-center"
+    },
+    "bx-hot": {
+        "body": "<${1:i} class=\"bx bx-hot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-hot"
+    },
+    "bx-hourglass": {
+        "body": "<${1:i} class=\"bx bx-hourglass$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-hourglass"
+    },
+    "bx-idea": {
+        "body": "<${1:i} class=\"bx bx-idea$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-idea"
+    },
+    "bx-image": {
+        "body": "<${1:i} class=\"bx bx-image$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-image"
+    },
+    "bx-image-alt": {
+        "body": "<${1:i} class=\"bx bx-image-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-image-alt"
+    },
+    "bx-images": {
+        "body": "<${1:i} class=\"bx bx-images$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-images"
+    },
+    "bx-import": {
+        "body": "<${1:i} class=\"bx bx-import$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-import"
+    },
+    "bx-inbox": {
+        "body": "<${1:i} class=\"bx bx-inbox$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-inbox"
+    },
+    "bx-infinite": {
+        "body": "<${1:i} class=\"bx bx-infinite$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-infinite"
+    },
+    "bx-info": {
+        "body": "<${1:i} class=\"bx bx-info$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-info"
+    },
+    "bx-info-circle": {
+        "body": "<${1:i} class=\"bx bx-info-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-info-circle"
+    },
+    "bx-instagram": {
+        "body": "<${1:i} class=\"bx bx-instagram$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-instagram"
+    },
+    "bx-italic": {
+        "body": "<${1:i} class=\"bx bx-italic$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-italic"
+    },
+    "bx-joystick": {
+        "body": "<${1:i} class=\"bx bx-joystick$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-joystick"
+    },
+    "bx-joystick-alt": {
+        "body": "<${1:i} class=\"bx bx-joystick-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-joystick-alt"
+    },
+    "bx-justify": {
+        "body": "<${1:i} class=\"bx bx-justify$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-justify"
+    },
+    "bx-key": {
+        "body": "<${1:i} class=\"bx bx-key$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-key"
+    },
+    "bx-laptop": {
+        "body": "<${1:i} class=\"bx bx-laptop$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-laptop"
+    },
+    "bx-last-page": {
+        "body": "<${1:i} class=\"bx bx-last-page$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-last-page"
+    },
+    "bx-layer": {
+        "body": "<${1:i} class=\"bx bx-layer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-layer"
+    },
+    "bx-layout": {
+        "body": "<${1:i} class=\"bx bx-layout$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-layout"
+    },
+    "bx-left-arrow-circle": {
+        "body": "<${1:i} class=\"bx bx-left-arrow-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-left-arrow-circle"
+    },
+    "bx-left-arrow-outline": {
+        "body": "<${1:i} class=\"bx bx-left-arrow-outline$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-left-arrow-outline"
+    },
+    "bx-left-bottom-arrow-circle": {
+        "body": "<${1:i} class=\"bx bx-left-bottom-arrow-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-left-bottom-arrow-circle"
+    },
+    "bx-left-indent": {
+        "body": "<${1:i} class=\"bx bx-left-indent$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-left-indent"
+    },
+    "bx-left-top-arrow-circle": {
+        "body": "<${1:i} class=\"bx bx-left-top-arrow-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-left-top-arrow-circle"
+    },
+    "bx-like": {
+        "body": "<${1:i} class=\"bx bx-like$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-like"
+    },
+    "bx-link": {
+        "body": "<${1:i} class=\"bx bx-link$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-link"
+    },
+    "bx-link-alt": {
+        "body": "<${1:i} class=\"bx bx-link-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-link-alt"
+    },
+    "bx-linkedin": {
+        "body": "<${1:i} class=\"bx bx-linkedin$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-linkedin"
+    },
+    "bx-link-external": {
+        "body": "<${1:i} class=\"bx bx-link-external$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-link-external"
+    },
+    "bx-list": {
+        "body": "<${1:i} class=\"bx bx-list$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-list"
+    },
+    "bx-list-add": {
+        "body": "<${1:i} class=\"bx bx-list-add$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-list-add"
+    },
+    "bx-list-alt": {
+        "body": "<${1:i} class=\"bx bx-list-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-list-alt"
+    },
+    "bx-list-bullet": {
+        "body": "<${1:i} class=\"bx bx-list-bullet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-list-bullet"
+    },
+    "bx-list-check": {
+        "body": "<${1:i} class=\"bx bx-list-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-list-check"
+    },
+    "bx-list-remove": {
+        "body": "<${1:i} class=\"bx bx-list-remove$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-list-remove"
+    },
+    "bx-loader": {
+        "body": "<${1:i} class=\"bx bx-loader$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-loader"
+    },
+    "bx-lock": {
+        "body": "<${1:i} class=\"bx bx-lock$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-lock"
+    },
+    "bx-lock-open": {
+        "body": "<${1:i} class=\"bx bx-lock-open$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-lock-open"
+    },
+    "bx-log-in": {
+        "body": "<${1:i} class=\"bx bx-log-in$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-log-in"
+    },
+    "bx-log-out": {
+        "body": "<${1:i} class=\"bx bx-log-out$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-log-out"
+    },
+    "bx-male": {
+        "body": "<${1:i} class=\"bx bx-male$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-male"
+    },
+    "bx-map": {
+        "body": "<${1:i} class=\"bx bx-map$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-map"
+    },
+    "bx-map-alt": {
+        "body": "<${1:i} class=\"bx bx-map-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-map-alt"
+    },
+    "bx-map-pin": {
+        "body": "<${1:i} class=\"bx bx-map-pin$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-map-pin"
+    },
+    "bx-menu": {
+        "body": "<${1:i} class=\"bx bx-menu$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-menu"
+    },
+    "bx-message": {
+        "body": "<${1:i} class=\"bx bx-message$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message"
+    },
+    "bx-message-alt": {
+        "body": "<${1:i} class=\"bx bx-message-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-alt"
+    },
+    "bx-message-detail": {
+        "body": "<${1:i} class=\"bx bx-message-detail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-detail"
+    },
+    "bx-message-rounded": {
+        "body": "<${1:i} class=\"bx bx-message-rounded$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-rounded"
+    },
+    "bx-message-rounded-alt": {
+        "body": "<${1:i} class=\"bx bx-message-rounded-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-rounded-alt"
+    },
+    "bx-microphone": {
+        "body": "<${1:i} class=\"bx bx-microphone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-microphone"
+    },
+    "bx-microphone-off": {
+        "body": "<${1:i} class=\"bx bx-microphone-off$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-microphone-off"
+    },
+    "bx-minus": {
+        "body": "<${1:i} class=\"bx bx-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-minus"
+    },
+    "bx-minus-circle": {
+        "body": "<${1:i} class=\"bx bx-minus-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-minus-circle"
+    },
+    "bx-mobile": {
+        "body": "<${1:i} class=\"bx bx-mobile$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-mobile"
+    },
+    "bx-mobile-alt": {
+        "body": "<${1:i} class=\"bx bx-mobile-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-mobile-alt"
+    },
+    "bx-mobile-message": {
+        "body": "<${1:i} class=\"bx bx-mobile-message$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-mobile-message"
+    },
+    "bx-moon": {
+        "body": "<${1:i} class=\"bx bx-moon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-moon"
+    },
+    "bx-mouse": {
+        "body": "<${1:i} class=\"bx bx-mouse$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-mouse"
+    },
+    "bx-move": {
+        "body": "<${1:i} class=\"bx bx-move$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-move"
+    },
+    "bx-music": {
+        "body": "<${1:i} class=\"bx bx-music$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-music"
+    },
+    "bx-navigation": {
+        "body": "<${1:i} class=\"bx bx-navigation$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-navigation"
+    },
+    "bx-news": {
+        "body": "<${1:i} class=\"bx bx-news$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-news"
+    },
+    "bx-newsletter": {
+        "body": "<${1:i} class=\"bx bx-newsletter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-newsletter"
+    },
+    "bx-notification": {
+        "body": "<${1:i} class=\"bx bx-notification$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-notification"
+    },
+    "bx-notification-off": {
+        "body": "<${1:i} class=\"bx bx-notification-off$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-notification-off"
+    },
+    "bx-octagon": {
+        "body": "<${1:i} class=\"bx bx-octagon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-octagon"
+    },
+    "bx-package": {
+        "body": "<${1:i} class=\"bx bx-package$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-package"
+    },
+    "bx-paperclip": {
+        "body": "<${1:i} class=\"bx bx-paperclip$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-paperclip"
+    },
+    "bx-paper-plane": {
+        "body": "<${1:i} class=\"bx bx-paper-plane$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-paper-plane"
+    },
+    "bx-paragraph": {
+        "body": "<${1:i} class=\"bx bx-paragraph$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-paragraph"
+    },
+    "bx-paste": {
+        "body": "<${1:i} class=\"bx bx-paste$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-paste"
+    },
+    "bx-pause": {
+        "body": "<${1:i} class=\"bx bx-pause$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-pause"
+    },
+    "bx-pause-circle": {
+        "body": "<${1:i} class=\"bx bx-pause-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-pause-circle"
+    },
+    "bx-pen": {
+        "body": "<${1:i} class=\"bx bx-pen$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-pen"
+    },
+    "bx-pencil": {
+        "body": "<${1:i} class=\"bx bx-pencil$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-pencil"
+    },
+    "bx-phone": {
+        "body": "<${1:i} class=\"bx bx-phone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-phone"
+    },
+    "bx-phone-call": {
+        "body": "<${1:i} class=\"bx bx-phone-call$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-phone-call"
+    },
+    "bx-phone-incoming": {
+        "body": "<${1:i} class=\"bx bx-phone-incoming$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-phone-incoming"
+    },
+    "bx-phone-outgoing": {
+        "body": "<${1:i} class=\"bx bx-phone-outgoing$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-phone-outgoing"
+    },
+    "bx-pie-chart": {
+        "body": "<${1:i} class=\"bx bx-pie-chart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-pie-chart"
+    },
+    "bx-pie-chart-alt": {
+        "body": "<${1:i} class=\"bx bx-pie-chart-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-pie-chart-alt"
+    },
+    "bx-pin": {
+        "body": "<${1:i} class=\"bx bx-pin$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-pin"
+    },
+    "bx-play": {
+        "body": "<${1:i} class=\"bx bx-play$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-play"
+    },
+    "bx-play-circle": {
+        "body": "<${1:i} class=\"bx bx-play-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-play-circle"
+    },
+    "bx-playlist": {
+        "body": "<${1:i} class=\"bx bx-playlist$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-playlist"
+    },
+    "bx-plug": {
+        "body": "<${1:i} class=\"bx bx-plug$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-plug"
+    },
+    "bx-plus": {
+        "body": "<${1:i} class=\"bx bx-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-plus"
+    },
+    "bx-plus-circle": {
+        "body": "<${1:i} class=\"bx bx-plus-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-plus-circle"
+    },
+    "bx-poll": {
+        "body": "<${1:i} class=\"bx bx-poll$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-poll"
+    },
+    "bx-popular": {
+        "body": "<${1:i} class=\"bx bx-popular$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-popular"
+    },
+    "bx-power-off": {
+        "body": "<${1:i} class=\"bx bx-power-off$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-power-off"
+    },
+    "bx-printer": {
+        "body": "<${1:i} class=\"bx bx-printer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-printer"
+    },
+    "bx-pulse": {
+        "body": "<${1:i} class=\"bx bx-pulse$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-pulse"
+    },
+    "bx-purchase-tag": {
+        "body": "<${1:i} class=\"bx bx-purchase-tag$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-purchase-tag"
+    },
+    "bx-question-mark": {
+        "body": "<${1:i} class=\"bx bx-question-mark$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-question-mark"
+    },
+    "bx-quote-left": {
+        "body": "<${1:i} class=\"bx bx-quote-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-quote-left"
+    },
+    "bx-quote-right": {
+        "body": "<${1:i} class=\"bx bx-quote-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-quote-right"
+    },
+    "bx-radar": {
+        "body": "<${1:i} class=\"bx bx-radar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-radar"
+    },
+    "bx-radio": {
+        "body": "<${1:i} class=\"bx bx-radio$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-radio"
+    },
+    "bx-radio-circle": {
+        "body": "<${1:i} class=\"bx bx-radio-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-radio-circle"
+    },
+    "bx-radio-circle-marked": {
+        "body": "<${1:i} class=\"bx bx-radio-circle-marked$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-radio-circle-marked"
+    },
+    "bx-rectangle": {
+        "body": "<${1:i} class=\"bx bx-rectangle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-rectangle"
+    },
+    "bx-redo": {
+        "body": "<${1:i} class=\"bx bx-redo$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-redo"
+    },
+    "bx-rename": {
+        "body": "<${1:i} class=\"bx bx-rename$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-rename"
+    },
+    "bx-reply": {
+        "body": "<${1:i} class=\"bx bx-reply$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-reply"
+    },
+    "bx-reply-all": {
+        "body": "<${1:i} class=\"bx bx-reply-all$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-reply-all"
+    },
+    "bx-repost": {
+        "body": "<${1:i} class=\"bx bx-repost$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-repost"
+    },
+    "bx-reset": {
+        "body": "<${1:i} class=\"bx bx-reset$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-reset"
+    },
+    "bx-revision": {
+        "body": "<${1:i} class=\"bx bx-revision$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-revision"
+    },
+    "bx-rewind": {
+        "body": "<${1:i} class=\"bx bx-rewind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-rewind"
+    },
+    "bx-ribbon": {
+        "body": "<${1:i} class=\"bx bx-ribbon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-ribbon"
+    },
+    "bx-right-arrow-circle": {
+        "body": "<${1:i} class=\"bx bx-right-arrow-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-right-arrow-circle"
+    },
+    "bx-right-arrow-outline": {
+        "body": "<${1:i} class=\"bx bx-right-arrow-outline$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-right-arrow-outline"
+    },
+    "bx-right-down-arrow-circle": {
+        "body": "<${1:i} class=\"bx bx-right-down-arrow-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-right-down-arrow-circle"
+    },
+    "bx-right-indent": {
+        "body": "<${1:i} class=\"bx bx-right-indent$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-right-indent"
+    },
+    "bx-right-top-arrow-circle": {
+        "body": "<${1:i} class=\"bx bx-right-top-arrow-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-right-top-arrow-circle"
+    },
+    "bx-rotate": {
+        "body": "<${1:i} class=\"bx bx-rotate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-rotate"
+    },
+    "bx-rss": {
+        "body": "<${1:i} class=\"bx bx-rss$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-rss"
+    },
+    "bx-ruler": {
+        "body": "<${1:i} class=\"bx bx-ruler$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-ruler"
+    },
+    "bx-save": {
+        "body": "<${1:i} class=\"bx bx-save$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-save"
+    },
+    "bx-screenshot": {
+        "body": "<${1:i} class=\"bx bx-screenshot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-screenshot"
+    },
+    "bx-search": {
+        "body": "<${1:i} class=\"bx bx-search$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-search"
+    },
+    "bx-select-arrows": {
+        "body": "<${1:i} class=\"bx bx-select-arrows$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-select-arrows"
+    },
+    "bx-selection": {
+        "body": "<${1:i} class=\"bx bx-selection$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-selection"
+    },
+    "bx-select-multiple": {
+        "body": "<${1:i} class=\"bx bx-select-multiple$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-select-multiple"
+    },
+    "bx-send": {
+        "body": "<${1:i} class=\"bx bx-send$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-send"
+    },
+    "bx-server": {
+        "body": "<${1:i} class=\"bx bx-server$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-server"
+    },
+    "bx-share": {
+        "body": "<${1:i} class=\"bx bx-share$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-share"
+    },
+    "bx-share-alt": {
+        "body": "<${1:i} class=\"bx bx-share-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-share-alt"
+    },
+    "bx-shield": {
+        "body": "<${1:i} class=\"bx bx-shield$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-shield"
+    },
+    "bx-shield-alt": {
+        "body": "<${1:i} class=\"bx bx-shield-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-shield-alt"
+    },
+    "bx-shopping-bag": {
+        "body": "<${1:i} class=\"bx bx-shopping-bag$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-shopping-bag"
+    },
+    "bx-shopping-bag-alt": {
+        "body": "<${1:i} class=\"bx bx-shopping-bag-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-shopping-bag-alt"
+    },
+    "bx-show": {
+        "body": "<${1:i} class=\"bx bx-show$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-show"
+    },
+    "bx-shuffle": {
+        "body": "<${1:i} class=\"bx bx-shuffle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-shuffle"
+    },
+    "bx-shuffle-alt": {
+        "body": "<${1:i} class=\"bx bx-shuffle-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-shuffle-alt"
+    },
+    "bx-sidebar": {
+        "body": "<${1:i} class=\"bx bx-sidebar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-sidebar"
+    },
+    "bx-sitemap": {
+        "body": "<${1:i} class=\"bx bx-sitemap$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-sitemap"
+    },
+    "bx-skip-next": {
+        "body": "<${1:i} class=\"bx bx-skip-next$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-skip-next"
+    },
+    "bx-skip-next-circle": {
+        "body": "<${1:i} class=\"bx bx-skip-next-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-skip-next-circle"
+    },
+    "bx-skip-previous": {
+        "body": "<${1:i} class=\"bx bx-skip-previous$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-skip-previous"
+    },
+    "bx-skip-previous-circle": {
+        "body": "<${1:i} class=\"bx bx-skip-previous-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-skip-previous-circle"
+    },
+    "bx-slider": {
+        "body": "<${1:i} class=\"bx bx-slider$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-slider"
+    },
+    "bx-smiley-happy": {
+        "body": "<${1:i} class=\"bx bx-smiley-happy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-smiley-happy"
+    },
+    "bx-smiley-meh": {
+        "body": "<${1:i} class=\"bx bx-smiley-meh$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-smiley-meh"
+    },
+    "bx-smiley-sad": {
+        "body": "<${1:i} class=\"bx bx-smiley-sad$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-smiley-sad"
+    },
+    "bx-snowflake": {
+        "body": "<${1:i} class=\"bx bx-snowflake$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-snowflake"
+    },
+    "bx-sort": {
+        "body": "<${1:i} class=\"bx bx-sort$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-sort"
+    },
+    "bx-spreadsheet": {
+        "body": "<${1:i} class=\"bx bx-spreadsheet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-spreadsheet"
+    },
+    "bx-star": {
+        "body": "<${1:i} class=\"bx bx-star$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-star"
+    },
+    "bx-station": {
+        "body": "<${1:i} class=\"bx bx-station$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-station"
+    },
+    "bx-stop": {
+        "body": "<${1:i} class=\"bx bx-stop$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-stop"
+    },
+    "bx-stop-circle": {
+        "body": "<${1:i} class=\"bx bx-stop-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-stop-circle"
+    },
+    "bx-stopwatch": {
+        "body": "<${1:i} class=\"bx bx-stopwatch$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-stopwatch"
+    },
+    "bx-store": {
+        "body": "<${1:i} class=\"bx bx-store$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-store"
+    },
+    "bx-stumble-upon": {
+        "body": "<${1:i} class=\"bx bx-stumble-upon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-stumble-upon"
+    },
+    "bx-subdirectory-left": {
+        "body": "<${1:i} class=\"bx bx-subdirectory-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-subdirectory-left"
+    },
+    "bx-subdirectory-right": {
+        "body": "<${1:i} class=\"bx bx-subdirectory-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-subdirectory-right"
+    },
+    "bx-sun": {
+        "body": "<${1:i} class=\"bx bx-sun$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-sun"
+    },
+    "bx-support": {
+        "body": "<${1:i} class=\"bx bx-support$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-support"
+    },
+    "bx-sync": {
+        "body": "<${1:i} class=\"bx bx-sync$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-sync"
+    },
+    "bx-tab": {
+        "body": "<${1:i} class=\"bx bx-tab$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-tab"
+    },
+    "bx-table": {
+        "body": "<${1:i} class=\"bx bx-table$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-table"
+    },
+    "bx-tag": {
+        "body": "<${1:i} class=\"bx bx-tag$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-tag"
+    },
+    "bx-tag-remove": {
+        "body": "<${1:i} class=\"bx bx-tag-remove$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-tag-remove"
+    },
+    "bx-target-lock": {
+        "body": "<${1:i} class=\"bx bx-target-lock$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-target-lock"
+    },
+    "bx-task": {
+        "body": "<${1:i} class=\"bx bx-task$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-task"
+    },
+    "bx-tennis-ball": {
+        "body": "<${1:i} class=\"bx bx-tennis-ball$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-tennis-ball"
+    },
+    "bx-terminal": {
+        "body": "<${1:i} class=\"bx bx-terminal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-terminal"
+    },
+    "bx-text": {
+        "body": "<${1:i} class=\"bx bx-text$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-text"
+    },
+    "bx-thermometer": {
+        "body": "<${1:i} class=\"bx bx-thermometer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-thermometer"
+    },
+    "bx-time": {
+        "body": "<${1:i} class=\"bx bx-time$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-time"
+    },
+    "bx-timer": {
+        "body": "<${1:i} class=\"bx bx-timer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-timer"
+    },
+    "bx-toggle": {
+        "body": "<${1:i} class=\"bx bx-toggle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-toggle"
+    },
+    "bx-toggle-left": {
+        "body": "<${1:i} class=\"bx bx-toggle-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-toggle-left"
+    },
+    "bx-toggle-right": {
+        "body": "<${1:i} class=\"bx bx-toggle-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-toggle-right"
+    },
+    "bx-torch": {
+        "body": "<${1:i} class=\"bx bx-torch$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-torch"
+    },
+    "bx-to-top": {
+        "body": "<${1:i} class=\"bx bx-to-top$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-to-top"
+    },
+    "bx-trash": {
+        "body": "<${1:i} class=\"bx bx-trash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-trash"
+    },
+    "bx-trash-alt": {
+        "body": "<${1:i} class=\"bx bx-trash-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-trash-alt"
+    },
+    "bx-trending-down": {
+        "body": "<${1:i} class=\"bx bx-trending-down$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-trending-down"
+    },
+    "bx-trending-up": {
+        "body": "<${1:i} class=\"bx bx-trending-up$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-trending-up"
+    },
+    "bx-triangle": {
+        "body": "<${1:i} class=\"bx bx-triangle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-triangle"
+    },
+    "bx-trophy": {
+        "body": "<${1:i} class=\"bx bx-trophy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-trophy"
+    },
+    "bx-truck": {
+        "body": "<${1:i} class=\"bx bx-truck$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-truck"
+    },
+    "bx-tumblr": {
+        "body": "<${1:i} class=\"bx bx-tumblr$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-tumblr"
+    },
+    "bx-tv": {
+        "body": "<${1:i} class=\"bx bx-tv$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-tv"
+    },
+    "bx-twitter": {
+        "body": "<${1:i} class=\"bx bx-twitter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-twitter"
+    },
+    "bx-umbrella": {
+        "body": "<${1:i} class=\"bx bx-umbrella$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-umbrella"
+    },
+    "bx-underline": {
+        "body": "<${1:i} class=\"bx bx-underline$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-underline"
+    },
+    "bx-undo": {
+        "body": "<${1:i} class=\"bx bx-undo$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-undo"
+    },
+    "bx-up-arrow-circle": {
+        "body": "<${1:i} class=\"bx bx-up-arrow-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-up-arrow-circle"
+    },
+    "bx-up-arrow-outline": {
+        "body": "<${1:i} class=\"bx bx-up-arrow-outline$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-up-arrow-outline"
+    },
+    "bx-upload": {
+        "body": "<${1:i} class=\"bx bx-upload$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-upload"
+    },
+    "bx-upvote": {
+        "body": "<${1:i} class=\"bx bx-upvote$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-upvote"
+    },
+    "bx-usb": {
+        "body": "<${1:i} class=\"bx bx-usb$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-usb"
+    },
+    "bx-user": {
+        "body": "<${1:i} class=\"bx bx-user$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-user"
+    },
+    "bx-user-check": {
+        "body": "<${1:i} class=\"bx bx-user-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-user-check"
+    },
+    "bx-user-circle": {
+        "body": "<${1:i} class=\"bx bx-user-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-user-circle"
+    },
+    "bx-user-detail": {
+        "body": "<${1:i} class=\"bx bx-user-detail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-user-detail"
+    },
+    "bx-user-minus": {
+        "body": "<${1:i} class=\"bx bx-user-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-user-minus"
+    },
+    "bx-user-plus": {
+        "body": "<${1:i} class=\"bx bx-user-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-user-plus"
+    },
+    "bx-user-remove": {
+        "body": "<${1:i} class=\"bx bx-user-remove$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-user-remove"
+    },
+    "bx-vertical-center": {
+        "body": "<${1:i} class=\"bx bx-vertical-center$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-vertical-center"
+    },
+    "bx-video": {
+        "body": "<${1:i} class=\"bx bx-video$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-video"
+    },
+    "bx-video-off": {
+        "body": "<${1:i} class=\"bx bx-video-off$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-video-off"
+    },
+    "bx-videos": {
+        "body": "<${1:i} class=\"bx bx-videos$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-videos"
+    },
+    "bx-vimeo": {
+        "body": "<${1:i} class=\"bx bx-vimeo$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-vimeo"
+    },
+    "bx-voicemail": {
+        "body": "<${1:i} class=\"bx bx-voicemail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-voicemail"
+    },
+    "bx-volume": {
+        "body": "<${1:i} class=\"bx bx-volume$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-volume"
+    },
+    "bx-volume-full": {
+        "body": "<${1:i} class=\"bx bx-volume-full$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-volume-full"
+    },
+    "bx-volume-low": {
+        "body": "<${1:i} class=\"bx bx-volume-low$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-volume-low"
+    },
+    "bx-volume-mute": {
+        "body": "<${1:i} class=\"bx bx-volume-mute$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-volume-mute"
+    },
+    "bx-wallet": {
+        "body": "<${1:i} class=\"bx bx-wallet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-wallet"
+    },
+    "bx-watch": {
+        "body": "<${1:i} class=\"bx bx-watch$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-watch"
+    },
+    "bx-watch-alt": {
+        "body": "<${1:i} class=\"bx bx-watch-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-watch-alt"
+    },
+    "bx-whatsapp": {
+        "body": "<${1:i} class=\"bx bx-whatsapp$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-whatsapp"
+    },
+    "bx-widget": {
+        "body": "<${1:i} class=\"bx bx-widget$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-widget"
+    },
+    "bx-wifi": {
+        "body": "<${1:i} class=\"bx bx-wifi$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-wifi"
+    },
+    "bx-window": {
+        "body": "<${1:i} class=\"bx bx-window$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-window"
+    },
+    "bx-window-close": {
+        "body": "<${1:i} class=\"bx bx-window-close$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-window-close"
+    },
+    "bx-window-open": {
+        "body": "<${1:i} class=\"bx bx-window-open$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-window-open"
+    },
+    "bx-windows": {
+        "body": "<${1:i} class=\"bx bx-windows$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-windows"
+    },
+    "bx-world": {
+        "body": "<${1:i} class=\"bx bx-world$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-world"
+    },
+    "bx-x": {
+        "body": "<${1:i} class=\"bx bx-x$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-x"
+    },
+    "bx-x-circle": {
+        "body": "<${1:i} class=\"bx bx-x-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-x-circle"
+    },
+    "bx-youtube": {
+        "body": "<${1:i} class=\"bx bx-youtube$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-youtube"
+    },
+    "bx-zap": {
+        "body": "<${1:i} class=\"bx bx-zap$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-zap"
+    },
+    "bx-zoom-in": {
+        "body": "<${1:i} class=\"bx bx-zoom-in$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-zoom-in"
+    },
+    "bx-zoom-out": {
+        "body": "<${1:i} class=\"bx bx-zoom-out$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-zoom-out"
+    }
+}

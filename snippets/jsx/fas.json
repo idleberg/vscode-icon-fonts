@@ -44,6 +44,11 @@
         "description": "<i>",
         "prefix": "fas-affiliatetheme"
     },
+    "fas-air-freshener": {
+        "body": "<${1:i} className=\"fas fas-air-freshener$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-air-freshener"
+    },
     "fas-alarm-clock": {
         "body": "<${1:i} className=\"fas fas-alarm-clock$2\"></${1:i}>$0",
         "description": "<i>",
@@ -193,6 +198,11 @@
         "body": "<${1:i} className=\"fas fas-apple$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-apple"
+    },
+    "fas-apple-alt": {
+        "body": "<${1:i} className=\"fas fas-apple-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-apple-alt"
     },
     "fas-apple-pay": {
         "body": "<${1:i} className=\"fas fas-apple-pay$2\"></${1:i}>$0",
@@ -464,6 +474,16 @@
         "description": "<i>",
         "prefix": "fas-atlas"
     },
+    "fas-atom": {
+        "body": "<${1:i} className=\"fas fas-atom$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-atom"
+    },
+    "fas-atom-alt": {
+        "body": "<${1:i} className=\"fas fas-atom-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-atom-alt"
+    },
     "fas-audible": {
         "body": "<${1:i} className=\"fas fas-audible$2\"></${1:i}>$0",
         "description": "<i>",
@@ -498,6 +518,11 @@
         "body": "<${1:i} className=\"fas fas-aws$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-aws"
+    },
+    "fas-backpack": {
+        "body": "<${1:i} className=\"fas fas-backpack$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-backpack"
     },
     "fas-backspace": {
         "body": "<${1:i} className=\"fas fas-backspace$2\"></${1:i}>$0",
@@ -659,6 +684,16 @@
         "description": "<i>",
         "prefix": "fas-bell"
     },
+    "fas-bell-school": {
+        "body": "<${1:i} className=\"fas fas-bell-school$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-bell-school"
+    },
+    "fas-bell-school-slash": {
+        "body": "<${1:i} className=\"fas fas-bell-school-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-bell-school-slash"
+    },
     "fas-bell-slash": {
         "body": "<${1:i} className=\"fas fas-bell-slash$2\"></${1:i}>$0",
         "description": "<i>",
@@ -764,6 +799,16 @@
         "description": "<i>",
         "prefix": "fas-bomb"
     },
+    "fas-bone": {
+        "body": "<${1:i} className=\"fas fas-bone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-bone"
+    },
+    "fas-bone-break": {
+        "body": "<${1:i} className=\"fas fas-bone-break$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-bone-break"
+    },
     "fas-bong": {
         "body": "<${1:i} className=\"fas fas-bong$2\"></${1:i}>$0",
         "description": "<i>",
@@ -773,6 +818,11 @@
         "body": "<${1:i} className=\"fas fas-book$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-book"
+    },
+    "fas-book-alt": {
+        "body": "<${1:i} className=\"fas fas-book-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-book-alt"
     },
     "fas-book-heart": {
         "body": "<${1:i} className=\"fas fas-book-heart$2\"></${1:i}>$0",
@@ -784,10 +834,20 @@
         "description": "<i>",
         "prefix": "fas-book-open"
     },
+    "fas-book-reader": {
+        "body": "<${1:i} className=\"fas fas-book-reader$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-book-reader"
+    },
     "fas-bookmark": {
         "body": "<${1:i} className=\"fas fas-bookmark$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-bookmark"
+    },
+    "fas-books": {
+        "body": "<${1:i} className=\"fas fas-books$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-books"
     },
     "fas-bowling-ball": {
         "body": "<${1:i} className=\"fas fas-bowling-ball$2\"></${1:i}>$0",
@@ -864,6 +924,11 @@
         "description": "<i>",
         "prefix": "fas-braille"
     },
+    "fas-brain": {
+        "body": "<${1:i} className=\"fas fas-brain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-brain"
+    },
     "fas-briefcase": {
         "body": "<${1:i} className=\"fas fas-briefcase$2\"></${1:i}>$0",
         "description": "<i>",
@@ -938,6 +1003,11 @@
         "body": "<${1:i} className=\"fas fas-bus-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-bus-alt"
+    },
+    "fas-bus-school": {
+        "body": "<${1:i} className=\"fas fas-bus-school$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-bus-school"
     },
     "fas-buysellads": {
         "body": "<${1:i} className=\"fas fas-buysellads$2\"></${1:i}>$0",
@@ -1018,6 +1088,51 @@
         "body": "<${1:i} className=\"fas fas-car$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-car"
+    },
+    "fas-car-alt": {
+        "body": "<${1:i} className=\"fas fas-car-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-car-alt"
+    },
+    "fas-car-battery": {
+        "body": "<${1:i} className=\"fas fas-car-battery$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-car-battery"
+    },
+    "fas-car-bump": {
+        "body": "<${1:i} className=\"fas fas-car-bump$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-car-bump"
+    },
+    "fas-car-crash": {
+        "body": "<${1:i} className=\"fas fas-car-crash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-car-crash"
+    },
+    "fas-car-garage": {
+        "body": "<${1:i} className=\"fas fas-car-garage$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-car-garage"
+    },
+    "fas-car-mechanic": {
+        "body": "<${1:i} className=\"fas fas-car-mechanic$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-car-mechanic"
+    },
+    "fas-car-side": {
+        "body": "<${1:i} className=\"fas fas-car-side$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-car-side"
+    },
+    "fas-car-tilt": {
+        "body": "<${1:i} className=\"fas fas-car-tilt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-car-tilt"
+    },
+    "fas-car-wash": {
+        "body": "<${1:i} className=\"fas fas-car-wash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-car-wash"
     },
     "fas-caret-circle-down": {
         "body": "<${1:i} className=\"fas fas-caret-circle-down$2\"></${1:i}>$0",
@@ -1158,6 +1273,11 @@
         "body": "<${1:i} className=\"fas fas-chalkboard-teacher$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-chalkboard-teacher"
+    },
+    "fas-charging-station": {
+        "body": "<${1:i} className=\"fas fas-charging-station$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-charging-station"
     },
     "fas-chart-area": {
         "body": "<${1:i} className=\"fas fas-chart-area$2\"></${1:i}>$0",
@@ -1398,6 +1518,11 @@
         "body": "<${1:i} className=\"fas fas-clipboard-list$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-clipboard-list"
+    },
+    "fas-clipboard-prescription": {
+        "body": "<${1:i} className=\"fas fas-clipboard-prescription$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-clipboard-prescription"
     },
     "fas-clock": {
         "body": "<${1:i} className=\"fas fas-clock$2\"></${1:i}>$0",
@@ -1648,6 +1773,11 @@
         "body": "<${1:i} className=\"fas fas-compass$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-compass"
+    },
+    "fas-compass-slash": {
+        "body": "<${1:i} className=\"fas fas-compass-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-compass-slash"
     },
     "fas-compress": {
         "body": "<${1:i} className=\"fas fas-compress$2\"></${1:i}>$0",
@@ -1984,6 +2114,16 @@
         "description": "<i>",
         "prefix": "fas-digital-tachograph"
     },
+    "fas-diploma": {
+        "body": "<${1:i} className=\"fas fas-diploma$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-diploma"
+    },
+    "fas-directions": {
+        "body": "<${1:i} className=\"fas fas-directions$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-directions"
+    },
     "fas-discord": {
         "body": "<${1:i} className=\"fas fas-discord$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2008,6 +2148,11 @@
         "body": "<${1:i} className=\"fas fas-dna$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-dna"
+    },
+    "fas-do-not-enter": {
+        "body": "<${1:i} className=\"fas fas-do-not-enter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-do-not-enter"
     },
     "fas-dochub": {
         "body": "<${1:i} className=\"fas fas-dochub$2\"></${1:i}>$0",
@@ -2089,6 +2234,21 @@
         "description": "<i>",
         "prefix": "fas-drafting-compass"
     },
+    "fas-draw-circle": {
+        "body": "<${1:i} className=\"fas fas-draw-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-draw-circle"
+    },
+    "fas-draw-polygon": {
+        "body": "<${1:i} className=\"fas fas-draw-polygon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-draw-polygon"
+    },
+    "fas-draw-square": {
+        "body": "<${1:i} className=\"fas fas-draw-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-draw-square"
+    },
     "fas-dribbble": {
         "body": "<${1:i} className=\"fas fas-dribbble$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2128,6 +2288,11 @@
         "body": "<${1:i} className=\"fas fas-dyalog$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-dyalog"
+    },
+    "fas-ear": {
+        "body": "<${1:i} className=\"fas fas-ear$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-ear"
     },
     "fas-earlybirds": {
         "body": "<${1:i} className=\"fas fas-earlybirds$2\"></${1:i}>$0",
@@ -2179,6 +2344,11 @@
         "description": "<i>",
         "prefix": "fas-ellipsis-v-alt"
     },
+    "fas-ello": {
+        "body": "<${1:i} className=\"fas fas-ello$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-ello"
+    },
     "fas-ember": {
         "body": "<${1:i} className=\"fas fas-ember$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2188,6 +2358,11 @@
         "body": "<${1:i} className=\"fas fas-empire$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-empire"
+    },
+    "fas-engine-warning": {
+        "body": "<${1:i} className=\"fas fas-engine-warning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-engine-warning"
     },
     "fas-envelope": {
         "body": "<${1:i} className=\"fas fas-envelope$2\"></${1:i}>$0",
@@ -2413,6 +2588,11 @@
         "body": "<${1:i} className=\"fas fas-file-audio$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-file-audio"
+    },
+    "fas-file-certificate": {
+        "body": "<${1:i} className=\"fas fas-file-certificate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-file-certificate"
     },
     "fas-file-check": {
         "body": "<${1:i} className=\"fas fas-file-check$2\"></${1:i}>$0",
@@ -2784,6 +2964,11 @@
         "description": "<i>",
         "prefix": "fas-gas-pump"
     },
+    "fas-gas-pump-slash": {
+        "body": "<${1:i} className=\"fas fas-gas-pump-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-gas-pump-slash"
+    },
     "fas-gavel": {
         "body": "<${1:i} className=\"fas fas-gavel$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2874,6 +3059,11 @@
         "description": "<i>",
         "prefix": "fas-glasses"
     },
+    "fas-glasses-alt": {
+        "body": "<${1:i} className=\"fas fas-glasses-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-glasses-alt"
+    },
     "fas-glide": {
         "body": "<${1:i} className=\"fas fas-glide$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2903,6 +3093,11 @@
         "body": "<${1:i} className=\"fas fas-globe-asia$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-globe-asia"
+    },
+    "fas-globe-stand": {
+        "body": "<${1:i} className=\"fas fas-globe-stand$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-globe-stand"
     },
     "fas-gofore": {
         "body": "<${1:i} className=\"fas fas-gofore$2\"></${1:i}>$0",
@@ -3114,6 +3309,11 @@
         "description": "<i>",
         "prefix": "fas-hacker-news-square"
     },
+    "fas-hackerrank": {
+        "body": "<${1:i} className=\"fas fas-hackerrank$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-hackerrank"
+    },
     "fas-hand-heart": {
         "body": "<${1:i} className=\"fas fas-hand-heart$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3278,6 +3478,11 @@
         "body": "<${1:i} className=\"fas fas-heart-circle$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-heart-circle"
+    },
+    "fas-heart-rate": {
+        "body": "<${1:i} className=\"fas fas-heart-rate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-heart-rate"
     },
     "fas-heart-square": {
         "body": "<${1:i} className=\"fas fas-heart-square$2\"></${1:i}>$0",
@@ -3499,6 +3704,11 @@
         "description": "<i>",
         "prefix": "fas-info-square"
     },
+    "fas-inhaler": {
+        "body": "<${1:i} className=\"fas fas-inhaler$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-inhaler"
+    },
     "fas-instagram": {
         "body": "<${1:i} className=\"fas fas-instagram$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3584,6 +3794,11 @@
         "description": "<i>",
         "prefix": "fas-jsfiddle"
     },
+    "fas-kaggle": {
+        "body": "<${1:i} className=\"fas fas-kaggle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-kaggle"
+    },
     "fas-key": {
         "body": "<${1:i} className=\"fas fas-key$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3613,6 +3828,11 @@
         "body": "<${1:i} className=\"fas fas-kickstarter-k$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-kickstarter-k"
+    },
+    "fas-kidneys": {
+        "body": "<${1:i} className=\"fas fas-kidneys$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-kidneys"
     },
     "fas-kiss": {
         "body": "<${1:i} className=\"fas fas-kiss$2\"></${1:i}>$0",
@@ -3654,6 +3874,11 @@
         "description": "<i>",
         "prefix": "fas-laptop"
     },
+    "fas-laptop-code": {
+        "body": "<${1:i} className=\"fas fas-laptop-code$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-laptop-code"
+    },
     "fas-laravel": {
         "body": "<${1:i} className=\"fas fas-laravel$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3688,6 +3913,21 @@
         "body": "<${1:i} className=\"fas fas-laugh-wink$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-laugh-wink"
+    },
+    "fas-layer-group": {
+        "body": "<${1:i} className=\"fas fas-layer-group$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-layer-group"
+    },
+    "fas-layer-minus": {
+        "body": "<${1:i} className=\"fas fas-layer-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-layer-minus"
+    },
+    "fas-layer-plus": {
+        "body": "<${1:i} className=\"fas fas-layer-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-layer-plus"
     },
     "fas-leaf": {
         "body": "<${1:i} className=\"fas fas-leaf$2\"></${1:i}>$0",
@@ -3784,6 +4024,11 @@
         "description": "<i>",
         "prefix": "fas-linux"
     },
+    "fas-lips": {
+        "body": "<${1:i} className=\"fas fas-lips$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-lips"
+    },
     "fas-lira-sign": {
         "body": "<${1:i} className=\"fas fas-lira-sign$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3809,10 +4054,25 @@
         "description": "<i>",
         "prefix": "fas-list-ul"
     },
+    "fas-location": {
+        "body": "<${1:i} className=\"fas fas-location$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-location"
+    },
     "fas-location-arrow": {
         "body": "<${1:i} className=\"fas fas-location-arrow$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-location-arrow"
+    },
+    "fas-location-circle": {
+        "body": "<${1:i} className=\"fas fas-location-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-location-circle"
+    },
+    "fas-location-slash": {
+        "body": "<${1:i} className=\"fas fas-location-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-location-slash"
     },
     "fas-lock": {
         "body": "<${1:i} className=\"fas fas-lock$2\"></${1:i}>$0",
@@ -3894,6 +4154,11 @@
         "description": "<i>",
         "prefix": "fas-luggage-cart"
     },
+    "fas-lungs": {
+        "body": "<${1:i} className=\"fas fas-lungs$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-lungs"
+    },
     "fas-lyft": {
         "body": "<${1:i} className=\"fas fas-lyft$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3954,6 +4219,56 @@
         "description": "<i>",
         "prefix": "fas-map-marker-alt"
     },
+    "fas-map-marker-alt-slash": {
+        "body": "<${1:i} className=\"fas fas-map-marker-alt-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-map-marker-alt-slash"
+    },
+    "fas-map-marker-check": {
+        "body": "<${1:i} className=\"fas fas-map-marker-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-map-marker-check"
+    },
+    "fas-map-marker-edit": {
+        "body": "<${1:i} className=\"fas fas-map-marker-edit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-map-marker-edit"
+    },
+    "fas-map-marker-exclamation": {
+        "body": "<${1:i} className=\"fas fas-map-marker-exclamation$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-map-marker-exclamation"
+    },
+    "fas-map-marker-minus": {
+        "body": "<${1:i} className=\"fas fas-map-marker-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-map-marker-minus"
+    },
+    "fas-map-marker-plus": {
+        "body": "<${1:i} className=\"fas fas-map-marker-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-map-marker-plus"
+    },
+    "fas-map-marker-question": {
+        "body": "<${1:i} className=\"fas fas-map-marker-question$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-map-marker-question"
+    },
+    "fas-map-marker-slash": {
+        "body": "<${1:i} className=\"fas fas-map-marker-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-map-marker-slash"
+    },
+    "fas-map-marker-smile": {
+        "body": "<${1:i} className=\"fas fas-map-marker-smile$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-map-marker-smile"
+    },
+    "fas-map-marker-times": {
+        "body": "<${1:i} className=\"fas fas-map-marker-times$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-map-marker-times"
+    },
     "fas-map-pin": {
         "body": "<${1:i} className=\"fas fas-map-pin$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3963,6 +4278,11 @@
         "body": "<${1:i} className=\"fas fas-map-signs$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-map-signs"
+    },
+    "fas-markdown": {
+        "body": "<${1:i} className=\"fas fas-markdown$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-markdown"
     },
     "fas-marker": {
         "body": "<${1:i} className=\"fas fas-marker$2\"></${1:i}>$0",
@@ -4094,6 +4414,11 @@
         "description": "<i>",
         "prefix": "fas-microphone-slash"
     },
+    "fas-microscope": {
+        "body": "<${1:i} className=\"fas fas-microscope$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-microscope"
+    },
     "fas-microsoft": {
         "body": "<${1:i} className=\"fas fas-microsoft$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4199,6 +4524,11 @@
         "description": "<i>",
         "prefix": "fas-money-check-alt"
     },
+    "fas-monitor-heart-rate": {
+        "body": "<${1:i} className=\"fas fas-monitor-heart-rate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-monitor-heart-rate"
+    },
     "fas-monument": {
         "body": "<${1:i} className=\"fas fas-monument$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4233,6 +4563,11 @@
         "body": "<${1:i} className=\"fas fas-napster$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-napster"
+    },
+    "fas-neos": {
+        "body": "<${1:i} className=\"fas fas-neos$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-neos"
     },
     "fas-neuter": {
         "body": "<${1:i} className=\"fas fas-neuter$2\"></${1:i}>$0",
@@ -4313,6 +4648,16 @@
         "body": "<${1:i} className=\"fas fas-odnoklassniki-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-odnoklassniki-square"
+    },
+    "fas-oil-can": {
+        "body": "<${1:i} className=\"fas fas-oil-can$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-oil-can"
+    },
+    "fas-oil-temp": {
+        "body": "<${1:i} className=\"fas fas-oil-temp$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-oil-temp"
     },
     "fas-old-republic": {
         "body": "<${1:i} className=\"fas fas-old-republic$2\"></${1:i}>$0",
@@ -4419,6 +4764,21 @@
         "description": "<i>",
         "prefix": "fas-parking"
     },
+    "fas-parking-circle": {
+        "body": "<${1:i} className=\"fas fas-parking-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-parking-circle"
+    },
+    "fas-parking-circle-slash": {
+        "body": "<${1:i} className=\"fas fas-parking-circle-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-parking-circle-slash"
+    },
+    "fas-parking-slash": {
+        "body": "<${1:i} className=\"fas fas-parking-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-parking-slash"
+    },
     "fas-passport": {
         "body": "<${1:i} className=\"fas fas-passport$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4488,6 +4848,11 @@
         "body": "<${1:i} className=\"fas fas-pencil-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-pencil-alt"
+    },
+    "fas-pencil-paintbrush": {
+        "body": "<${1:i} className=\"fas fas-pencil-paintbrush$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-pencil-paintbrush"
     },
     "fas-pencil-ruler": {
         "body": "<${1:i} className=\"fas fas-pencil-ruler$2\"></${1:i}>$0",
@@ -4698,6 +5063,11 @@
         "body": "<${1:i} className=\"fas fas-poo$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-poo"
+    },
+    "fas-poop": {
+        "body": "<${1:i} className=\"fas fas-poop$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-poop"
     },
     "fas-portrait": {
         "body": "<${1:i} className=\"fas fas-portrait$2\"></${1:i}>$0",
@@ -5019,6 +5389,16 @@
         "description": "<i>",
         "prefix": "fas-route"
     },
+    "fas-route-highway": {
+        "body": "<${1:i} className=\"fas fas-route-highway$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-route-highway"
+    },
+    "fas-route-interstate": {
+        "body": "<${1:i} className=\"fas fas-route-interstate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-route-interstate"
+    },
     "fas-rss": {
         "body": "<${1:i} className=\"fas fas-rss$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5048,6 +5428,11 @@
         "body": "<${1:i} className=\"fas fas-ruler-horizontal$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-ruler-horizontal"
+    },
+    "fas-ruler-triangle": {
+        "body": "<${1:i} className=\"fas fas-ruler-triangle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-ruler-triangle"
     },
     "fas-ruler-vertical": {
         "body": "<${1:i} className=\"fas fas-ruler-vertical$2\"></${1:i}>$0",
@@ -5083,6 +5468,16 @@
         "body": "<${1:i} className=\"fas fas-save$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-save"
+    },
+    "fas-scalpel": {
+        "body": "<${1:i} className=\"fas fas-scalpel$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-scalpel"
+    },
+    "fas-scalpel-path": {
+        "body": "<${1:i} className=\"fas fas-scalpel-path$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-scalpel-path"
     },
     "fas-scanner": {
         "body": "<${1:i} className=\"fas fas-scanner$2\"></${1:i}>$0",
@@ -5168,6 +5563,11 @@
         "body": "<${1:i} className=\"fas fas-servicestack$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-servicestack"
+    },
+    "fas-shapes": {
+        "body": "<${1:i} className=\"fas fas-shapes$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-shapes"
     },
     "fas-share": {
         "body": "<${1:i} className=\"fas fas-share$2\"></${1:i}>$0",
@@ -5333,6 +5733,11 @@
         "body": "<${1:i} className=\"fas fas-sith$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-sith"
+    },
+    "fas-skeleton": {
+        "body": "<${1:i} className=\"fas fas-skeleton$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-skeleton"
     },
     "fas-skull": {
         "body": "<${1:i} className=\"fas fas-skull$2\"></${1:i}>$0",
@@ -5584,6 +5989,11 @@
         "description": "<i>",
         "prefix": "fas-star-half-alt"
     },
+    "fas-star-of-life": {
+        "body": "<${1:i} className=\"fas fas-star-of-life$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-star-of-life"
+    },
     "fas-staylinked": {
         "body": "<${1:i} className=\"fas fas-staylinked$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5603,6 +6013,11 @@
         "body": "<${1:i} className=\"fas fas-steam-symbol$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-steam-symbol"
+    },
+    "fas-steering-wheel": {
+        "body": "<${1:i} className=\"fas fas-steering-wheel$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-steering-wheel"
     },
     "fas-step-backward": {
         "body": "<${1:i} className=\"fas fas-step-backward$2\"></${1:i}>$0",
@@ -5628,6 +6043,11 @@
         "body": "<${1:i} className=\"fas fas-sticky-note$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-sticky-note"
+    },
+    "fas-stomach": {
+        "body": "<${1:i} className=\"fas fas-stomach$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-stomach"
     },
     "fas-stop": {
         "body": "<${1:i} className=\"fas fas-stop$2\"></${1:i}>$0",
@@ -5829,6 +6249,56 @@
         "description": "<i>",
         "prefix": "fas-tachometer-alt"
     },
+    "fas-tachometer-alt-average": {
+        "body": "<${1:i} className=\"fas fas-tachometer-alt-average$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tachometer-alt-average"
+    },
+    "fas-tachometer-alt-fast": {
+        "body": "<${1:i} className=\"fas fas-tachometer-alt-fast$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tachometer-alt-fast"
+    },
+    "fas-tachometer-alt-fastest": {
+        "body": "<${1:i} className=\"fas fas-tachometer-alt-fastest$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tachometer-alt-fastest"
+    },
+    "fas-tachometer-alt-slow": {
+        "body": "<${1:i} className=\"fas fas-tachometer-alt-slow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tachometer-alt-slow"
+    },
+    "fas-tachometer-alt-slowest": {
+        "body": "<${1:i} className=\"fas fas-tachometer-alt-slowest$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tachometer-alt-slowest"
+    },
+    "fas-tachometer-average": {
+        "body": "<${1:i} className=\"fas fas-tachometer-average$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tachometer-average"
+    },
+    "fas-tachometer-fast": {
+        "body": "<${1:i} className=\"fas fas-tachometer-fast$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tachometer-fast"
+    },
+    "fas-tachometer-fastest": {
+        "body": "<${1:i} className=\"fas fas-tachometer-fastest$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tachometer-fastest"
+    },
+    "fas-tachometer-slow": {
+        "body": "<${1:i} className=\"fas fas-tachometer-slow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tachometer-slow"
+    },
+    "fas-tachometer-slowest": {
+        "body": "<${1:i} className=\"fas fas-tachometer-slowest$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tachometer-slowest"
+    },
     "fas-tag": {
         "body": "<${1:i} className=\"fas fas-tag$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5858,6 +6328,16 @@
         "body": "<${1:i} className=\"fas fas-teamspeak$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-teamspeak"
+    },
+    "fas-teeth": {
+        "body": "<${1:i} className=\"fas fas-teeth$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-teeth"
+    },
+    "fas-teeth-open": {
+        "body": "<${1:i} className=\"fas fas-teeth-open$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-teeth-open"
     },
     "fas-telegram": {
         "body": "<${1:i} className=\"fas fas-telegram$2\"></${1:i}>$0",
@@ -5908,6 +6388,11 @@
         "body": "<${1:i} className=\"fas fas-th-list$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-th-list"
+    },
+    "fas-theater-masks": {
+        "body": "<${1:i} className=\"fas fas-theater-masks$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-theater-masks"
     },
     "fas-themeco": {
         "body": "<${1:i} className=\"fas fas-themeco$2\"></${1:i}>$0",
@@ -6009,6 +6494,26 @@
         "description": "<i>",
         "prefix": "fas-tint-slash"
     },
+    "fas-tire": {
+        "body": "<${1:i} className=\"fas fas-tire$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tire"
+    },
+    "fas-tire-flat": {
+        "body": "<${1:i} className=\"fas fas-tire-flat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tire-flat"
+    },
+    "fas-tire-pressure-warning": {
+        "body": "<${1:i} className=\"fas fas-tire-pressure-warning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tire-pressure-warning"
+    },
+    "fas-tire-rugged": {
+        "body": "<${1:i} className=\"fas fas-tire-rugged$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tire-rugged"
+    },
     "fas-tired": {
         "body": "<${1:i} className=\"fas fas-tired$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6034,6 +6539,11 @@
         "description": "<i>",
         "prefix": "fas-tooth"
     },
+    "fas-toothbrush": {
+        "body": "<${1:i} className=\"fas fas-toothbrush$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-toothbrush"
+    },
     "fas-trade-federation": {
         "body": "<${1:i} className=\"fas fas-trade-federation$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6043,6 +6553,31 @@
         "body": "<${1:i} className=\"fas fas-trademark$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-trademark"
+    },
+    "fas-traffic-cone": {
+        "body": "<${1:i} className=\"fas fas-traffic-cone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-traffic-cone"
+    },
+    "fas-traffic-light": {
+        "body": "<${1:i} className=\"fas fas-traffic-light$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-traffic-light"
+    },
+    "fas-traffic-light-go": {
+        "body": "<${1:i} className=\"fas fas-traffic-light-go$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-traffic-light-go"
+    },
+    "fas-traffic-light-slow": {
+        "body": "<${1:i} className=\"fas fas-traffic-light-slow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-traffic-light-slow"
+    },
+    "fas-traffic-light-stop": {
+        "body": "<${1:i} className=\"fas fas-traffic-light-stop$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-traffic-light-stop"
     },
     "fas-train": {
         "body": "<${1:i} className=\"fas fas-train$2\"></${1:i}>$0",
@@ -6124,10 +6659,20 @@
         "description": "<i>",
         "prefix": "fas-truck-loading"
     },
+    "fas-truck-monster": {
+        "body": "<${1:i} className=\"fas fas-truck-monster$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-truck-monster"
+    },
     "fas-truck-moving": {
         "body": "<${1:i} className=\"fas fas-truck-moving$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-truck-moving"
+    },
+    "fas-truck-pickup": {
+        "body": "<${1:i} className=\"fas fas-truck-pickup$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-truck-pickup"
     },
     "fas-truck-ramp": {
         "body": "<${1:i} className=\"fas fas-truck-ramp$2\"></${1:i}>$0",
@@ -6389,6 +6934,11 @@
         "description": "<i>",
         "prefix": "fas-users"
     },
+    "fas-users-class": {
+        "body": "<${1:i} className=\"fas fas-users-class$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-users-class"
+    },
     "fas-users-cog": {
         "body": "<${1:i} className=\"fas fas-users-cog$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6578,6 +7128,11 @@
         "body": "<${1:i} className=\"fas fas-watch$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-watch"
+    },
+    "fas-watch-fitness": {
+        "body": "<${1:i} className=\"fas fas-watch-fitness$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-watch-fitness"
     },
     "fas-weebly": {
         "body": "<${1:i} className=\"fas fas-weebly$2\"></${1:i}>$0",
@@ -6793,5 +7348,10 @@
         "body": "<${1:i} className=\"fas fas-youtube-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-youtube-square"
+    },
+    "fas-zhihu": {
+        "body": "<${1:i} className=\"fas fas-zhihu$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-zhihu"
     }
 }

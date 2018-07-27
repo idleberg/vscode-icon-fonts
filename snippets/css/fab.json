@@ -44,6 +44,11 @@
         "description": "content",
         "prefix": "fab-affiliatetheme"
     },
+    "fab-air-freshener": {
+        "body": "content: '\\\\f5d0';$0",
+        "description": "content",
+        "prefix": "fab-air-freshener"
+    },
     "fab-alarm-clock": {
         "body": "content: '\\\\f34e';$0",
         "description": "content",
@@ -193,6 +198,11 @@
         "body": "content: '\\\\f179';$0",
         "description": "content",
         "prefix": "fab-apple"
+    },
+    "fab-apple-alt": {
+        "body": "content: '\\\\f5d1';$0",
+        "description": "content",
+        "prefix": "fab-apple-alt"
     },
     "fab-apple-pay": {
         "body": "content: '\\\\f415';$0",
@@ -464,6 +474,16 @@
         "description": "content",
         "prefix": "fab-atlas"
     },
+    "fab-atom": {
+        "body": "content: '\\\\f5d2';$0",
+        "description": "content",
+        "prefix": "fab-atom"
+    },
+    "fab-atom-alt": {
+        "body": "content: '\\\\f5d3';$0",
+        "description": "content",
+        "prefix": "fab-atom-alt"
+    },
     "fab-audible": {
         "body": "content: '\\\\f373';$0",
         "description": "content",
@@ -498,6 +518,11 @@
         "body": "content: '\\\\f375';$0",
         "description": "content",
         "prefix": "fab-aws"
+    },
+    "fab-backpack": {
+        "body": "content: '\\\\f5d4';$0",
+        "description": "content",
+        "prefix": "fab-backpack"
     },
     "fab-backspace": {
         "body": "content: '\\\\f55a';$0",
@@ -659,6 +684,16 @@
         "description": "content",
         "prefix": "fab-bell"
     },
+    "fab-bell-school": {
+        "body": "content: '\\\\f5d5';$0",
+        "description": "content",
+        "prefix": "fab-bell-school"
+    },
+    "fab-bell-school-slash": {
+        "body": "content: '\\\\f5d6';$0",
+        "description": "content",
+        "prefix": "fab-bell-school-slash"
+    },
     "fab-bell-slash": {
         "body": "content: '\\\\f1f6';$0",
         "description": "content",
@@ -764,6 +799,16 @@
         "description": "content",
         "prefix": "fab-bomb"
     },
+    "fab-bone": {
+        "body": "content: '\\\\f5d7';$0",
+        "description": "content",
+        "prefix": "fab-bone"
+    },
+    "fab-bone-break": {
+        "body": "content: '\\\\f5d8';$0",
+        "description": "content",
+        "prefix": "fab-bone-break"
+    },
     "fab-bong": {
         "body": "content: '\\\\f55c';$0",
         "description": "content",
@@ -773,6 +818,11 @@
         "body": "content: '\\\\f02d';$0",
         "description": "content",
         "prefix": "fab-book"
+    },
+    "fab-book-alt": {
+        "body": "content: '\\\\f5d9';$0",
+        "description": "content",
+        "prefix": "fab-book-alt"
     },
     "fab-book-heart": {
         "body": "content: '\\\\f499';$0",
@@ -784,10 +834,20 @@
         "description": "content",
         "prefix": "fab-book-open"
     },
+    "fab-book-reader": {
+        "body": "content: '\\\\f5da';$0",
+        "description": "content",
+        "prefix": "fab-book-reader"
+    },
     "fab-bookmark": {
         "body": "content: '\\\\f02e';$0",
         "description": "content",
         "prefix": "fab-bookmark"
+    },
+    "fab-books": {
+        "body": "content: '\\\\f5db';$0",
+        "description": "content",
+        "prefix": "fab-books"
     },
     "fab-bowling-ball": {
         "body": "content: '\\\\f436';$0",
@@ -864,6 +924,11 @@
         "description": "content",
         "prefix": "fab-braille"
     },
+    "fab-brain": {
+        "body": "content: '\\\\f5dc';$0",
+        "description": "content",
+        "prefix": "fab-brain"
+    },
     "fab-briefcase": {
         "body": "content: '\\\\f0b1';$0",
         "description": "content",
@@ -938,6 +1003,11 @@
         "body": "content: '\\\\f55e';$0",
         "description": "content",
         "prefix": "fab-bus-alt"
+    },
+    "fab-bus-school": {
+        "body": "content: '\\\\f5dd';$0",
+        "description": "content",
+        "prefix": "fab-bus-school"
     },
     "fab-buysellads": {
         "body": "content: '\\\\f20d';$0",
@@ -1018,6 +1088,51 @@
         "body": "content: '\\\\f1b9';$0",
         "description": "content",
         "prefix": "fab-car"
+    },
+    "fab-car-alt": {
+        "body": "content: '\\\\f5de';$0",
+        "description": "content",
+        "prefix": "fab-car-alt"
+    },
+    "fab-car-battery": {
+        "body": "content: '\\\\f5df';$0",
+        "description": "content",
+        "prefix": "fab-car-battery"
+    },
+    "fab-car-bump": {
+        "body": "content: '\\\\f5e0';$0",
+        "description": "content",
+        "prefix": "fab-car-bump"
+    },
+    "fab-car-crash": {
+        "body": "content: '\\\\f5e1';$0",
+        "description": "content",
+        "prefix": "fab-car-crash"
+    },
+    "fab-car-garage": {
+        "body": "content: '\\\\f5e2';$0",
+        "description": "content",
+        "prefix": "fab-car-garage"
+    },
+    "fab-car-mechanic": {
+        "body": "content: '\\\\f5e3';$0",
+        "description": "content",
+        "prefix": "fab-car-mechanic"
+    },
+    "fab-car-side": {
+        "body": "content: '\\\\f5e4';$0",
+        "description": "content",
+        "prefix": "fab-car-side"
+    },
+    "fab-car-tilt": {
+        "body": "content: '\\\\f5e5';$0",
+        "description": "content",
+        "prefix": "fab-car-tilt"
+    },
+    "fab-car-wash": {
+        "body": "content: '\\\\f5e6';$0",
+        "description": "content",
+        "prefix": "fab-car-wash"
     },
     "fab-caret-circle-down": {
         "body": "content: '\\\\f32d';$0",
@@ -1158,6 +1273,11 @@
         "body": "content: '\\\\f51c';$0",
         "description": "content",
         "prefix": "fab-chalkboard-teacher"
+    },
+    "fab-charging-station": {
+        "body": "content: '\\\\f5e7';$0",
+        "description": "content",
+        "prefix": "fab-charging-station"
     },
     "fab-chart-area": {
         "body": "content: '\\\\f1fe';$0",
@@ -1398,6 +1518,11 @@
         "body": "content: '\\\\f46d';$0",
         "description": "content",
         "prefix": "fab-clipboard-list"
+    },
+    "fab-clipboard-prescription": {
+        "body": "content: '\\\\f5e8';$0",
+        "description": "content",
+        "prefix": "fab-clipboard-prescription"
     },
     "fab-clock": {
         "body": "content: '\\\\f017';$0",
@@ -1648,6 +1773,11 @@
         "body": "content: '\\\\f14e';$0",
         "description": "content",
         "prefix": "fab-compass"
+    },
+    "fab-compass-slash": {
+        "body": "content: '\\\\f5e9';$0",
+        "description": "content",
+        "prefix": "fab-compass-slash"
     },
     "fab-compress": {
         "body": "content: '\\\\f066';$0",
@@ -1984,6 +2114,16 @@
         "description": "content",
         "prefix": "fab-digital-tachograph"
     },
+    "fab-diploma": {
+        "body": "content: '\\\\f5ea';$0",
+        "description": "content",
+        "prefix": "fab-diploma"
+    },
+    "fab-directions": {
+        "body": "content: '\\\\f5eb';$0",
+        "description": "content",
+        "prefix": "fab-directions"
+    },
     "fab-discord": {
         "body": "content: '\\\\f392';$0",
         "description": "content",
@@ -2008,6 +2148,11 @@
         "body": "content: '\\\\f471';$0",
         "description": "content",
         "prefix": "fab-dna"
+    },
+    "fab-do-not-enter": {
+        "body": "content: '\\\\f5ec';$0",
+        "description": "content",
+        "prefix": "fab-do-not-enter"
     },
     "fab-dochub": {
         "body": "content: '\\\\f394';$0",
@@ -2089,6 +2234,21 @@
         "description": "content",
         "prefix": "fab-drafting-compass"
     },
+    "fab-draw-circle": {
+        "body": "content: '\\\\f5ed';$0",
+        "description": "content",
+        "prefix": "fab-draw-circle"
+    },
+    "fab-draw-polygon": {
+        "body": "content: '\\\\f5ee';$0",
+        "description": "content",
+        "prefix": "fab-draw-polygon"
+    },
+    "fab-draw-square": {
+        "body": "content: '\\\\f5ef';$0",
+        "description": "content",
+        "prefix": "fab-draw-square"
+    },
     "fab-dribbble": {
         "body": "content: '\\\\f17d';$0",
         "description": "content",
@@ -2128,6 +2288,11 @@
         "body": "content: '\\\\f399';$0",
         "description": "content",
         "prefix": "fab-dyalog"
+    },
+    "fab-ear": {
+        "body": "content: '\\\\f5f0';$0",
+        "description": "content",
+        "prefix": "fab-ear"
     },
     "fab-earlybirds": {
         "body": "content: '\\\\f39a';$0",
@@ -2179,6 +2344,11 @@
         "description": "content",
         "prefix": "fab-ellipsis-v-alt"
     },
+    "fab-ello": {
+        "body": "content: '\\\\f5f1';$0",
+        "description": "content",
+        "prefix": "fab-ello"
+    },
     "fab-ember": {
         "body": "content: '\\\\f423';$0",
         "description": "content",
@@ -2188,6 +2358,11 @@
         "body": "content: '\\\\f1d1';$0",
         "description": "content",
         "prefix": "fab-empire"
+    },
+    "fab-engine-warning": {
+        "body": "content: '\\\\f5f2';$0",
+        "description": "content",
+        "prefix": "fab-engine-warning"
     },
     "fab-envelope": {
         "body": "content: '\\\\f0e0';$0",
@@ -2413,6 +2588,11 @@
         "body": "content: '\\\\f1c7';$0",
         "description": "content",
         "prefix": "fab-file-audio"
+    },
+    "fab-file-certificate": {
+        "body": "content: '\\\\f5f3';$0",
+        "description": "content",
+        "prefix": "fab-file-certificate"
     },
     "fab-file-check": {
         "body": "content: '\\\\f316';$0",
@@ -2784,6 +2964,11 @@
         "description": "content",
         "prefix": "fab-gas-pump"
     },
+    "fab-gas-pump-slash": {
+        "body": "content: '\\\\f5f4';$0",
+        "description": "content",
+        "prefix": "fab-gas-pump-slash"
+    },
     "fab-gavel": {
         "body": "content: '\\\\f0e3';$0",
         "description": "content",
@@ -2874,6 +3059,11 @@
         "description": "content",
         "prefix": "fab-glasses"
     },
+    "fab-glasses-alt": {
+        "body": "content: '\\\\f5f5';$0",
+        "description": "content",
+        "prefix": "fab-glasses-alt"
+    },
     "fab-glide": {
         "body": "content: '\\\\f2a5';$0",
         "description": "content",
@@ -2903,6 +3093,11 @@
         "body": "content: '\\\\f57e';$0",
         "description": "content",
         "prefix": "fab-globe-asia"
+    },
+    "fab-globe-stand": {
+        "body": "content: '\\\\f5f6';$0",
+        "description": "content",
+        "prefix": "fab-globe-stand"
     },
     "fab-gofore": {
         "body": "content: '\\\\f3a7';$0",
@@ -3114,6 +3309,11 @@
         "description": "content",
         "prefix": "fab-hacker-news-square"
     },
+    "fab-hackerrank": {
+        "body": "content: '\\\\f5f7';$0",
+        "description": "content",
+        "prefix": "fab-hackerrank"
+    },
     "fab-hand-heart": {
         "body": "content: '\\\\f4bc';$0",
         "description": "content",
@@ -3278,6 +3478,11 @@
         "body": "content: '\\\\f4c7';$0",
         "description": "content",
         "prefix": "fab-heart-circle"
+    },
+    "fab-heart-rate": {
+        "body": "content: '\\\\f5f8';$0",
+        "description": "content",
+        "prefix": "fab-heart-rate"
     },
     "fab-heart-square": {
         "body": "content: '\\\\f4c8';$0",
@@ -3499,6 +3704,11 @@
         "description": "content",
         "prefix": "fab-info-square"
     },
+    "fab-inhaler": {
+        "body": "content: '\\\\f5f9';$0",
+        "description": "content",
+        "prefix": "fab-inhaler"
+    },
     "fab-instagram": {
         "body": "content: '\\\\f16d';$0",
         "description": "content",
@@ -3584,6 +3794,11 @@
         "description": "content",
         "prefix": "fab-jsfiddle"
     },
+    "fab-kaggle": {
+        "body": "content: '\\\\f5fa';$0",
+        "description": "content",
+        "prefix": "fab-kaggle"
+    },
     "fab-key": {
         "body": "content: '\\\\f084';$0",
         "description": "content",
@@ -3613,6 +3828,11 @@
         "body": "content: '\\\\f3bc';$0",
         "description": "content",
         "prefix": "fab-kickstarter-k"
+    },
+    "fab-kidneys": {
+        "body": "content: '\\\\f5fb';$0",
+        "description": "content",
+        "prefix": "fab-kidneys"
     },
     "fab-kiss": {
         "body": "content: '\\\\f596';$0",
@@ -3654,6 +3874,11 @@
         "description": "content",
         "prefix": "fab-laptop"
     },
+    "fab-laptop-code": {
+        "body": "content: '\\\\f5fc';$0",
+        "description": "content",
+        "prefix": "fab-laptop-code"
+    },
     "fab-laravel": {
         "body": "content: '\\\\f3bd';$0",
         "description": "content",
@@ -3688,6 +3913,21 @@
         "body": "content: '\\\\f59c';$0",
         "description": "content",
         "prefix": "fab-laugh-wink"
+    },
+    "fab-layer-group": {
+        "body": "content: '\\\\f5fd';$0",
+        "description": "content",
+        "prefix": "fab-layer-group"
+    },
+    "fab-layer-minus": {
+        "body": "content: '\\\\f5fe';$0",
+        "description": "content",
+        "prefix": "fab-layer-minus"
+    },
+    "fab-layer-plus": {
+        "body": "content: '\\\\f5ff';$0",
+        "description": "content",
+        "prefix": "fab-layer-plus"
     },
     "fab-leaf": {
         "body": "content: '\\\\f06c';$0",
@@ -3784,6 +4024,11 @@
         "description": "content",
         "prefix": "fab-linux"
     },
+    "fab-lips": {
+        "body": "content: '\\\\f600';$0",
+        "description": "content",
+        "prefix": "fab-lips"
+    },
     "fab-lira-sign": {
         "body": "content: '\\\\f195';$0",
         "description": "content",
@@ -3809,10 +4054,25 @@
         "description": "content",
         "prefix": "fab-list-ul"
     },
+    "fab-location": {
+        "body": "content: '\\\\f601';$0",
+        "description": "content",
+        "prefix": "fab-location"
+    },
     "fab-location-arrow": {
         "body": "content: '\\\\f124';$0",
         "description": "content",
         "prefix": "fab-location-arrow"
+    },
+    "fab-location-circle": {
+        "body": "content: '\\\\f602';$0",
+        "description": "content",
+        "prefix": "fab-location-circle"
+    },
+    "fab-location-slash": {
+        "body": "content: '\\\\f603';$0",
+        "description": "content",
+        "prefix": "fab-location-slash"
     },
     "fab-lock": {
         "body": "content: '\\\\f023';$0",
@@ -3894,6 +4154,11 @@
         "description": "content",
         "prefix": "fab-luggage-cart"
     },
+    "fab-lungs": {
+        "body": "content: '\\\\f604';$0",
+        "description": "content",
+        "prefix": "fab-lungs"
+    },
     "fab-lyft": {
         "body": "content: '\\\\f3c3';$0",
         "description": "content",
@@ -3954,6 +4219,56 @@
         "description": "content",
         "prefix": "fab-map-marker-alt"
     },
+    "fab-map-marker-alt-slash": {
+        "body": "content: '\\\\f605';$0",
+        "description": "content",
+        "prefix": "fab-map-marker-alt-slash"
+    },
+    "fab-map-marker-check": {
+        "body": "content: '\\\\f606';$0",
+        "description": "content",
+        "prefix": "fab-map-marker-check"
+    },
+    "fab-map-marker-edit": {
+        "body": "content: '\\\\f607';$0",
+        "description": "content",
+        "prefix": "fab-map-marker-edit"
+    },
+    "fab-map-marker-exclamation": {
+        "body": "content: '\\\\f608';$0",
+        "description": "content",
+        "prefix": "fab-map-marker-exclamation"
+    },
+    "fab-map-marker-minus": {
+        "body": "content: '\\\\f609';$0",
+        "description": "content",
+        "prefix": "fab-map-marker-minus"
+    },
+    "fab-map-marker-plus": {
+        "body": "content: '\\\\f60a';$0",
+        "description": "content",
+        "prefix": "fab-map-marker-plus"
+    },
+    "fab-map-marker-question": {
+        "body": "content: '\\\\f60b';$0",
+        "description": "content",
+        "prefix": "fab-map-marker-question"
+    },
+    "fab-map-marker-slash": {
+        "body": "content: '\\\\f60c';$0",
+        "description": "content",
+        "prefix": "fab-map-marker-slash"
+    },
+    "fab-map-marker-smile": {
+        "body": "content: '\\\\f60d';$0",
+        "description": "content",
+        "prefix": "fab-map-marker-smile"
+    },
+    "fab-map-marker-times": {
+        "body": "content: '\\\\f60e';$0",
+        "description": "content",
+        "prefix": "fab-map-marker-times"
+    },
     "fab-map-pin": {
         "body": "content: '\\\\f276';$0",
         "description": "content",
@@ -3963,6 +4278,11 @@
         "body": "content: '\\\\f277';$0",
         "description": "content",
         "prefix": "fab-map-signs"
+    },
+    "fab-markdown": {
+        "body": "content: '\\\\f60f';$0",
+        "description": "content",
+        "prefix": "fab-markdown"
     },
     "fab-marker": {
         "body": "content: '\\\\f5a1';$0",
@@ -4094,6 +4414,11 @@
         "description": "content",
         "prefix": "fab-microphone-slash"
     },
+    "fab-microscope": {
+        "body": "content: '\\\\f610';$0",
+        "description": "content",
+        "prefix": "fab-microscope"
+    },
     "fab-microsoft": {
         "body": "content: '\\\\f3ca';$0",
         "description": "content",
@@ -4199,6 +4524,11 @@
         "description": "content",
         "prefix": "fab-money-check-alt"
     },
+    "fab-monitor-heart-rate": {
+        "body": "content: '\\\\f611';$0",
+        "description": "content",
+        "prefix": "fab-monitor-heart-rate"
+    },
     "fab-monument": {
         "body": "content: '\\\\f5a6';$0",
         "description": "content",
@@ -4233,6 +4563,11 @@
         "body": "content: '\\\\f3d2';$0",
         "description": "content",
         "prefix": "fab-napster"
+    },
+    "fab-neos": {
+        "body": "content: '\\\\f612';$0",
+        "description": "content",
+        "prefix": "fab-neos"
     },
     "fab-neuter": {
         "body": "content: '\\\\f22c';$0",
@@ -4313,6 +4648,16 @@
         "body": "content: '\\\\f264';$0",
         "description": "content",
         "prefix": "fab-odnoklassniki-square"
+    },
+    "fab-oil-can": {
+        "body": "content: '\\\\f613';$0",
+        "description": "content",
+        "prefix": "fab-oil-can"
+    },
+    "fab-oil-temp": {
+        "body": "content: '\\\\f614';$0",
+        "description": "content",
+        "prefix": "fab-oil-temp"
     },
     "fab-old-republic": {
         "body": "content: '\\\\f510';$0",
@@ -4419,6 +4764,21 @@
         "description": "content",
         "prefix": "fab-parking"
     },
+    "fab-parking-circle": {
+        "body": "content: '\\\\f615';$0",
+        "description": "content",
+        "prefix": "fab-parking-circle"
+    },
+    "fab-parking-circle-slash": {
+        "body": "content: '\\\\f616';$0",
+        "description": "content",
+        "prefix": "fab-parking-circle-slash"
+    },
+    "fab-parking-slash": {
+        "body": "content: '\\\\f617';$0",
+        "description": "content",
+        "prefix": "fab-parking-slash"
+    },
     "fab-passport": {
         "body": "content: '\\\\f5ab';$0",
         "description": "content",
@@ -4488,6 +4848,11 @@
         "body": "content: '\\\\f303';$0",
         "description": "content",
         "prefix": "fab-pencil-alt"
+    },
+    "fab-pencil-paintbrush": {
+        "body": "content: '\\\\f618';$0",
+        "description": "content",
+        "prefix": "fab-pencil-paintbrush"
     },
     "fab-pencil-ruler": {
         "body": "content: '\\\\f5ae';$0",
@@ -4698,6 +5063,11 @@
         "body": "content: '\\\\f2fe';$0",
         "description": "content",
         "prefix": "fab-poo"
+    },
+    "fab-poop": {
+        "body": "content: '\\\\f619';$0",
+        "description": "content",
+        "prefix": "fab-poop"
     },
     "fab-portrait": {
         "body": "content: '\\\\f3e0';$0",
@@ -5019,6 +5389,16 @@
         "description": "content",
         "prefix": "fab-route"
     },
+    "fab-route-highway": {
+        "body": "content: '\\\\f61a';$0",
+        "description": "content",
+        "prefix": "fab-route-highway"
+    },
+    "fab-route-interstate": {
+        "body": "content: '\\\\f61b';$0",
+        "description": "content",
+        "prefix": "fab-route-interstate"
+    },
     "fab-rss": {
         "body": "content: '\\\\f09e';$0",
         "description": "content",
@@ -5048,6 +5428,11 @@
         "body": "content: '\\\\f547';$0",
         "description": "content",
         "prefix": "fab-ruler-horizontal"
+    },
+    "fab-ruler-triangle": {
+        "body": "content: '\\\\f61c';$0",
+        "description": "content",
+        "prefix": "fab-ruler-triangle"
     },
     "fab-ruler-vertical": {
         "body": "content: '\\\\f548';$0",
@@ -5083,6 +5468,16 @@
         "body": "content: '\\\\f0c7';$0",
         "description": "content",
         "prefix": "fab-save"
+    },
+    "fab-scalpel": {
+        "body": "content: '\\\\f61d';$0",
+        "description": "content",
+        "prefix": "fab-scalpel"
+    },
+    "fab-scalpel-path": {
+        "body": "content: '\\\\f61e';$0",
+        "description": "content",
+        "prefix": "fab-scalpel-path"
     },
     "fab-scanner": {
         "body": "content: '\\\\f488';$0",
@@ -5168,6 +5563,11 @@
         "body": "content: '\\\\f3ec';$0",
         "description": "content",
         "prefix": "fab-servicestack"
+    },
+    "fab-shapes": {
+        "body": "content: '\\\\f61f';$0",
+        "description": "content",
+        "prefix": "fab-shapes"
     },
     "fab-share": {
         "body": "content: '\\\\f064';$0",
@@ -5333,6 +5733,11 @@
         "body": "content: '\\\\f512';$0",
         "description": "content",
         "prefix": "fab-sith"
+    },
+    "fab-skeleton": {
+        "body": "content: '\\\\f620';$0",
+        "description": "content",
+        "prefix": "fab-skeleton"
     },
     "fab-skull": {
         "body": "content: '\\\\f54c';$0",
@@ -5584,6 +5989,11 @@
         "description": "content",
         "prefix": "fab-star-half-alt"
     },
+    "fab-star-of-life": {
+        "body": "content: '\\\\f621';$0",
+        "description": "content",
+        "prefix": "fab-star-of-life"
+    },
     "fab-staylinked": {
         "body": "content: '\\\\f3f5';$0",
         "description": "content",
@@ -5603,6 +6013,11 @@
         "body": "content: '\\\\f3f6';$0",
         "description": "content",
         "prefix": "fab-steam-symbol"
+    },
+    "fab-steering-wheel": {
+        "body": "content: '\\\\f622';$0",
+        "description": "content",
+        "prefix": "fab-steering-wheel"
     },
     "fab-step-backward": {
         "body": "content: '\\\\f048';$0",
@@ -5628,6 +6043,11 @@
         "body": "content: '\\\\f249';$0",
         "description": "content",
         "prefix": "fab-sticky-note"
+    },
+    "fab-stomach": {
+        "body": "content: '\\\\f623';$0",
+        "description": "content",
+        "prefix": "fab-stomach"
     },
     "fab-stop": {
         "body": "content: '\\\\f04d';$0",
@@ -5829,6 +6249,56 @@
         "description": "content",
         "prefix": "fab-tachometer-alt"
     },
+    "fab-tachometer-alt-average": {
+        "body": "content: '\\\\f624';$0",
+        "description": "content",
+        "prefix": "fab-tachometer-alt-average"
+    },
+    "fab-tachometer-alt-fast": {
+        "body": "content: '\\\\f625';$0",
+        "description": "content",
+        "prefix": "fab-tachometer-alt-fast"
+    },
+    "fab-tachometer-alt-fastest": {
+        "body": "content: '\\\\f626';$0",
+        "description": "content",
+        "prefix": "fab-tachometer-alt-fastest"
+    },
+    "fab-tachometer-alt-slow": {
+        "body": "content: '\\\\f627';$0",
+        "description": "content",
+        "prefix": "fab-tachometer-alt-slow"
+    },
+    "fab-tachometer-alt-slowest": {
+        "body": "content: '\\\\f628';$0",
+        "description": "content",
+        "prefix": "fab-tachometer-alt-slowest"
+    },
+    "fab-tachometer-average": {
+        "body": "content: '\\\\f629';$0",
+        "description": "content",
+        "prefix": "fab-tachometer-average"
+    },
+    "fab-tachometer-fast": {
+        "body": "content: '\\\\f62a';$0",
+        "description": "content",
+        "prefix": "fab-tachometer-fast"
+    },
+    "fab-tachometer-fastest": {
+        "body": "content: '\\\\f62b';$0",
+        "description": "content",
+        "prefix": "fab-tachometer-fastest"
+    },
+    "fab-tachometer-slow": {
+        "body": "content: '\\\\f62c';$0",
+        "description": "content",
+        "prefix": "fab-tachometer-slow"
+    },
+    "fab-tachometer-slowest": {
+        "body": "content: '\\\\f62d';$0",
+        "description": "content",
+        "prefix": "fab-tachometer-slowest"
+    },
     "fab-tag": {
         "body": "content: '\\\\f02b';$0",
         "description": "content",
@@ -5858,6 +6328,16 @@
         "body": "content: '\\\\f4f9';$0",
         "description": "content",
         "prefix": "fab-teamspeak"
+    },
+    "fab-teeth": {
+        "body": "content: '\\\\f62e';$0",
+        "description": "content",
+        "prefix": "fab-teeth"
+    },
+    "fab-teeth-open": {
+        "body": "content: '\\\\f62f';$0",
+        "description": "content",
+        "prefix": "fab-teeth-open"
     },
     "fab-telegram": {
         "body": "content: '\\\\f2c6';$0",
@@ -5908,6 +6388,11 @@
         "body": "content: '\\\\f00b';$0",
         "description": "content",
         "prefix": "fab-th-list"
+    },
+    "fab-theater-masks": {
+        "body": "content: '\\\\f630';$0",
+        "description": "content",
+        "prefix": "fab-theater-masks"
     },
     "fab-themeco": {
         "body": "content: '\\\\f5c6';$0",
@@ -6009,6 +6494,26 @@
         "description": "content",
         "prefix": "fab-tint-slash"
     },
+    "fab-tire": {
+        "body": "content: '\\\\f631';$0",
+        "description": "content",
+        "prefix": "fab-tire"
+    },
+    "fab-tire-flat": {
+        "body": "content: '\\\\f632';$0",
+        "description": "content",
+        "prefix": "fab-tire-flat"
+    },
+    "fab-tire-pressure-warning": {
+        "body": "content: '\\\\f633';$0",
+        "description": "content",
+        "prefix": "fab-tire-pressure-warning"
+    },
+    "fab-tire-rugged": {
+        "body": "content: '\\\\f634';$0",
+        "description": "content",
+        "prefix": "fab-tire-rugged"
+    },
     "fab-tired": {
         "body": "content: '\\\\f5c8';$0",
         "description": "content",
@@ -6034,6 +6539,11 @@
         "description": "content",
         "prefix": "fab-tooth"
     },
+    "fab-toothbrush": {
+        "body": "content: '\\\\f635';$0",
+        "description": "content",
+        "prefix": "fab-toothbrush"
+    },
     "fab-trade-federation": {
         "body": "content: '\\\\f513';$0",
         "description": "content",
@@ -6043,6 +6553,31 @@
         "body": "content: '\\\\f25c';$0",
         "description": "content",
         "prefix": "fab-trademark"
+    },
+    "fab-traffic-cone": {
+        "body": "content: '\\\\f636';$0",
+        "description": "content",
+        "prefix": "fab-traffic-cone"
+    },
+    "fab-traffic-light": {
+        "body": "content: '\\\\f637';$0",
+        "description": "content",
+        "prefix": "fab-traffic-light"
+    },
+    "fab-traffic-light-go": {
+        "body": "content: '\\\\f638';$0",
+        "description": "content",
+        "prefix": "fab-traffic-light-go"
+    },
+    "fab-traffic-light-slow": {
+        "body": "content: '\\\\f639';$0",
+        "description": "content",
+        "prefix": "fab-traffic-light-slow"
+    },
+    "fab-traffic-light-stop": {
+        "body": "content: '\\\\f63a';$0",
+        "description": "content",
+        "prefix": "fab-traffic-light-stop"
     },
     "fab-train": {
         "body": "content: '\\\\f238';$0",
@@ -6124,10 +6659,20 @@
         "description": "content",
         "prefix": "fab-truck-loading"
     },
+    "fab-truck-monster": {
+        "body": "content: '\\\\f63b';$0",
+        "description": "content",
+        "prefix": "fab-truck-monster"
+    },
     "fab-truck-moving": {
         "body": "content: '\\\\f4df';$0",
         "description": "content",
         "prefix": "fab-truck-moving"
+    },
+    "fab-truck-pickup": {
+        "body": "content: '\\\\f63c';$0",
+        "description": "content",
+        "prefix": "fab-truck-pickup"
     },
     "fab-truck-ramp": {
         "body": "content: '\\\\f4e0';$0",
@@ -6389,6 +6934,11 @@
         "description": "content",
         "prefix": "fab-users"
     },
+    "fab-users-class": {
+        "body": "content: '\\\\f63d';$0",
+        "description": "content",
+        "prefix": "fab-users-class"
+    },
     "fab-users-cog": {
         "body": "content: '\\\\f509';$0",
         "description": "content",
@@ -6578,6 +7128,11 @@
         "body": "content: '\\\\f2e1';$0",
         "description": "content",
         "prefix": "fab-watch"
+    },
+    "fab-watch-fitness": {
+        "body": "content: '\\\\f63e';$0",
+        "description": "content",
+        "prefix": "fab-watch-fitness"
     },
     "fab-weebly": {
         "body": "content: '\\\\f5cc';$0",
@@ -6793,5 +7348,10 @@
         "body": "content: '\\\\f431';$0",
         "description": "content",
         "prefix": "fab-youtube-square"
+    },
+    "fab-zhihu": {
+        "body": "content: '\\\\f63f';$0",
+        "description": "content",
+        "prefix": "fab-zhihu"
     }
 }

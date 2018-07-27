@@ -44,6 +44,11 @@
         "description": "content",
         "prefix": "fas-affiliatetheme"
     },
+    "fas-air-freshener": {
+        "body": "content: '\\\\f5d0';$0",
+        "description": "content",
+        "prefix": "fas-air-freshener"
+    },
     "fas-alarm-clock": {
         "body": "content: '\\\\f34e';$0",
         "description": "content",
@@ -193,6 +198,11 @@
         "body": "content: '\\\\f179';$0",
         "description": "content",
         "prefix": "fas-apple"
+    },
+    "fas-apple-alt": {
+        "body": "content: '\\\\f5d1';$0",
+        "description": "content",
+        "prefix": "fas-apple-alt"
     },
     "fas-apple-pay": {
         "body": "content: '\\\\f415';$0",
@@ -464,6 +474,16 @@
         "description": "content",
         "prefix": "fas-atlas"
     },
+    "fas-atom": {
+        "body": "content: '\\\\f5d2';$0",
+        "description": "content",
+        "prefix": "fas-atom"
+    },
+    "fas-atom-alt": {
+        "body": "content: '\\\\f5d3';$0",
+        "description": "content",
+        "prefix": "fas-atom-alt"
+    },
     "fas-audible": {
         "body": "content: '\\\\f373';$0",
         "description": "content",
@@ -498,6 +518,11 @@
         "body": "content: '\\\\f375';$0",
         "description": "content",
         "prefix": "fas-aws"
+    },
+    "fas-backpack": {
+        "body": "content: '\\\\f5d4';$0",
+        "description": "content",
+        "prefix": "fas-backpack"
     },
     "fas-backspace": {
         "body": "content: '\\\\f55a';$0",
@@ -659,6 +684,16 @@
         "description": "content",
         "prefix": "fas-bell"
     },
+    "fas-bell-school": {
+        "body": "content: '\\\\f5d5';$0",
+        "description": "content",
+        "prefix": "fas-bell-school"
+    },
+    "fas-bell-school-slash": {
+        "body": "content: '\\\\f5d6';$0",
+        "description": "content",
+        "prefix": "fas-bell-school-slash"
+    },
     "fas-bell-slash": {
         "body": "content: '\\\\f1f6';$0",
         "description": "content",
@@ -764,6 +799,16 @@
         "description": "content",
         "prefix": "fas-bomb"
     },
+    "fas-bone": {
+        "body": "content: '\\\\f5d7';$0",
+        "description": "content",
+        "prefix": "fas-bone"
+    },
+    "fas-bone-break": {
+        "body": "content: '\\\\f5d8';$0",
+        "description": "content",
+        "prefix": "fas-bone-break"
+    },
     "fas-bong": {
         "body": "content: '\\\\f55c';$0",
         "description": "content",
@@ -773,6 +818,11 @@
         "body": "content: '\\\\f02d';$0",
         "description": "content",
         "prefix": "fas-book"
+    },
+    "fas-book-alt": {
+        "body": "content: '\\\\f5d9';$0",
+        "description": "content",
+        "prefix": "fas-book-alt"
     },
     "fas-book-heart": {
         "body": "content: '\\\\f499';$0",
@@ -784,10 +834,20 @@
         "description": "content",
         "prefix": "fas-book-open"
     },
+    "fas-book-reader": {
+        "body": "content: '\\\\f5da';$0",
+        "description": "content",
+        "prefix": "fas-book-reader"
+    },
     "fas-bookmark": {
         "body": "content: '\\\\f02e';$0",
         "description": "content",
         "prefix": "fas-bookmark"
+    },
+    "fas-books": {
+        "body": "content: '\\\\f5db';$0",
+        "description": "content",
+        "prefix": "fas-books"
     },
     "fas-bowling-ball": {
         "body": "content: '\\\\f436';$0",
@@ -864,6 +924,11 @@
         "description": "content",
         "prefix": "fas-braille"
     },
+    "fas-brain": {
+        "body": "content: '\\\\f5dc';$0",
+        "description": "content",
+        "prefix": "fas-brain"
+    },
     "fas-briefcase": {
         "body": "content: '\\\\f0b1';$0",
         "description": "content",
@@ -938,6 +1003,11 @@
         "body": "content: '\\\\f55e';$0",
         "description": "content",
         "prefix": "fas-bus-alt"
+    },
+    "fas-bus-school": {
+        "body": "content: '\\\\f5dd';$0",
+        "description": "content",
+        "prefix": "fas-bus-school"
     },
     "fas-buysellads": {
         "body": "content: '\\\\f20d';$0",
@@ -1018,6 +1088,51 @@
         "body": "content: '\\\\f1b9';$0",
         "description": "content",
         "prefix": "fas-car"
+    },
+    "fas-car-alt": {
+        "body": "content: '\\\\f5de';$0",
+        "description": "content",
+        "prefix": "fas-car-alt"
+    },
+    "fas-car-battery": {
+        "body": "content: '\\\\f5df';$0",
+        "description": "content",
+        "prefix": "fas-car-battery"
+    },
+    "fas-car-bump": {
+        "body": "content: '\\\\f5e0';$0",
+        "description": "content",
+        "prefix": "fas-car-bump"
+    },
+    "fas-car-crash": {
+        "body": "content: '\\\\f5e1';$0",
+        "description": "content",
+        "prefix": "fas-car-crash"
+    },
+    "fas-car-garage": {
+        "body": "content: '\\\\f5e2';$0",
+        "description": "content",
+        "prefix": "fas-car-garage"
+    },
+    "fas-car-mechanic": {
+        "body": "content: '\\\\f5e3';$0",
+        "description": "content",
+        "prefix": "fas-car-mechanic"
+    },
+    "fas-car-side": {
+        "body": "content: '\\\\f5e4';$0",
+        "description": "content",
+        "prefix": "fas-car-side"
+    },
+    "fas-car-tilt": {
+        "body": "content: '\\\\f5e5';$0",
+        "description": "content",
+        "prefix": "fas-car-tilt"
+    },
+    "fas-car-wash": {
+        "body": "content: '\\\\f5e6';$0",
+        "description": "content",
+        "prefix": "fas-car-wash"
     },
     "fas-caret-circle-down": {
         "body": "content: '\\\\f32d';$0",
@@ -1158,6 +1273,11 @@
         "body": "content: '\\\\f51c';$0",
         "description": "content",
         "prefix": "fas-chalkboard-teacher"
+    },
+    "fas-charging-station": {
+        "body": "content: '\\\\f5e7';$0",
+        "description": "content",
+        "prefix": "fas-charging-station"
     },
     "fas-chart-area": {
         "body": "content: '\\\\f1fe';$0",
@@ -1398,6 +1518,11 @@
         "body": "content: '\\\\f46d';$0",
         "description": "content",
         "prefix": "fas-clipboard-list"
+    },
+    "fas-clipboard-prescription": {
+        "body": "content: '\\\\f5e8';$0",
+        "description": "content",
+        "prefix": "fas-clipboard-prescription"
     },
     "fas-clock": {
         "body": "content: '\\\\f017';$0",
@@ -1648,6 +1773,11 @@
         "body": "content: '\\\\f14e';$0",
         "description": "content",
         "prefix": "fas-compass"
+    },
+    "fas-compass-slash": {
+        "body": "content: '\\\\f5e9';$0",
+        "description": "content",
+        "prefix": "fas-compass-slash"
     },
     "fas-compress": {
         "body": "content: '\\\\f066';$0",
@@ -1984,6 +2114,16 @@
         "description": "content",
         "prefix": "fas-digital-tachograph"
     },
+    "fas-diploma": {
+        "body": "content: '\\\\f5ea';$0",
+        "description": "content",
+        "prefix": "fas-diploma"
+    },
+    "fas-directions": {
+        "body": "content: '\\\\f5eb';$0",
+        "description": "content",
+        "prefix": "fas-directions"
+    },
     "fas-discord": {
         "body": "content: '\\\\f392';$0",
         "description": "content",
@@ -2008,6 +2148,11 @@
         "body": "content: '\\\\f471';$0",
         "description": "content",
         "prefix": "fas-dna"
+    },
+    "fas-do-not-enter": {
+        "body": "content: '\\\\f5ec';$0",
+        "description": "content",
+        "prefix": "fas-do-not-enter"
     },
     "fas-dochub": {
         "body": "content: '\\\\f394';$0",
@@ -2089,6 +2234,21 @@
         "description": "content",
         "prefix": "fas-drafting-compass"
     },
+    "fas-draw-circle": {
+        "body": "content: '\\\\f5ed';$0",
+        "description": "content",
+        "prefix": "fas-draw-circle"
+    },
+    "fas-draw-polygon": {
+        "body": "content: '\\\\f5ee';$0",
+        "description": "content",
+        "prefix": "fas-draw-polygon"
+    },
+    "fas-draw-square": {
+        "body": "content: '\\\\f5ef';$0",
+        "description": "content",
+        "prefix": "fas-draw-square"
+    },
     "fas-dribbble": {
         "body": "content: '\\\\f17d';$0",
         "description": "content",
@@ -2128,6 +2288,11 @@
         "body": "content: '\\\\f399';$0",
         "description": "content",
         "prefix": "fas-dyalog"
+    },
+    "fas-ear": {
+        "body": "content: '\\\\f5f0';$0",
+        "description": "content",
+        "prefix": "fas-ear"
     },
     "fas-earlybirds": {
         "body": "content: '\\\\f39a';$0",
@@ -2179,6 +2344,11 @@
         "description": "content",
         "prefix": "fas-ellipsis-v-alt"
     },
+    "fas-ello": {
+        "body": "content: '\\\\f5f1';$0",
+        "description": "content",
+        "prefix": "fas-ello"
+    },
     "fas-ember": {
         "body": "content: '\\\\f423';$0",
         "description": "content",
@@ -2188,6 +2358,11 @@
         "body": "content: '\\\\f1d1';$0",
         "description": "content",
         "prefix": "fas-empire"
+    },
+    "fas-engine-warning": {
+        "body": "content: '\\\\f5f2';$0",
+        "description": "content",
+        "prefix": "fas-engine-warning"
     },
     "fas-envelope": {
         "body": "content: '\\\\f0e0';$0",
@@ -2413,6 +2588,11 @@
         "body": "content: '\\\\f1c7';$0",
         "description": "content",
         "prefix": "fas-file-audio"
+    },
+    "fas-file-certificate": {
+        "body": "content: '\\\\f5f3';$0",
+        "description": "content",
+        "prefix": "fas-file-certificate"
     },
     "fas-file-check": {
         "body": "content: '\\\\f316';$0",
@@ -2784,6 +2964,11 @@
         "description": "content",
         "prefix": "fas-gas-pump"
     },
+    "fas-gas-pump-slash": {
+        "body": "content: '\\\\f5f4';$0",
+        "description": "content",
+        "prefix": "fas-gas-pump-slash"
+    },
     "fas-gavel": {
         "body": "content: '\\\\f0e3';$0",
         "description": "content",
@@ -2874,6 +3059,11 @@
         "description": "content",
         "prefix": "fas-glasses"
     },
+    "fas-glasses-alt": {
+        "body": "content: '\\\\f5f5';$0",
+        "description": "content",
+        "prefix": "fas-glasses-alt"
+    },
     "fas-glide": {
         "body": "content: '\\\\f2a5';$0",
         "description": "content",
@@ -2903,6 +3093,11 @@
         "body": "content: '\\\\f57e';$0",
         "description": "content",
         "prefix": "fas-globe-asia"
+    },
+    "fas-globe-stand": {
+        "body": "content: '\\\\f5f6';$0",
+        "description": "content",
+        "prefix": "fas-globe-stand"
     },
     "fas-gofore": {
         "body": "content: '\\\\f3a7';$0",
@@ -3114,6 +3309,11 @@
         "description": "content",
         "prefix": "fas-hacker-news-square"
     },
+    "fas-hackerrank": {
+        "body": "content: '\\\\f5f7';$0",
+        "description": "content",
+        "prefix": "fas-hackerrank"
+    },
     "fas-hand-heart": {
         "body": "content: '\\\\f4bc';$0",
         "description": "content",
@@ -3278,6 +3478,11 @@
         "body": "content: '\\\\f4c7';$0",
         "description": "content",
         "prefix": "fas-heart-circle"
+    },
+    "fas-heart-rate": {
+        "body": "content: '\\\\f5f8';$0",
+        "description": "content",
+        "prefix": "fas-heart-rate"
     },
     "fas-heart-square": {
         "body": "content: '\\\\f4c8';$0",
@@ -3499,6 +3704,11 @@
         "description": "content",
         "prefix": "fas-info-square"
     },
+    "fas-inhaler": {
+        "body": "content: '\\\\f5f9';$0",
+        "description": "content",
+        "prefix": "fas-inhaler"
+    },
     "fas-instagram": {
         "body": "content: '\\\\f16d';$0",
         "description": "content",
@@ -3584,6 +3794,11 @@
         "description": "content",
         "prefix": "fas-jsfiddle"
     },
+    "fas-kaggle": {
+        "body": "content: '\\\\f5fa';$0",
+        "description": "content",
+        "prefix": "fas-kaggle"
+    },
     "fas-key": {
         "body": "content: '\\\\f084';$0",
         "description": "content",
@@ -3613,6 +3828,11 @@
         "body": "content: '\\\\f3bc';$0",
         "description": "content",
         "prefix": "fas-kickstarter-k"
+    },
+    "fas-kidneys": {
+        "body": "content: '\\\\f5fb';$0",
+        "description": "content",
+        "prefix": "fas-kidneys"
     },
     "fas-kiss": {
         "body": "content: '\\\\f596';$0",
@@ -3654,6 +3874,11 @@
         "description": "content",
         "prefix": "fas-laptop"
     },
+    "fas-laptop-code": {
+        "body": "content: '\\\\f5fc';$0",
+        "description": "content",
+        "prefix": "fas-laptop-code"
+    },
     "fas-laravel": {
         "body": "content: '\\\\f3bd';$0",
         "description": "content",
@@ -3688,6 +3913,21 @@
         "body": "content: '\\\\f59c';$0",
         "description": "content",
         "prefix": "fas-laugh-wink"
+    },
+    "fas-layer-group": {
+        "body": "content: '\\\\f5fd';$0",
+        "description": "content",
+        "prefix": "fas-layer-group"
+    },
+    "fas-layer-minus": {
+        "body": "content: '\\\\f5fe';$0",
+        "description": "content",
+        "prefix": "fas-layer-minus"
+    },
+    "fas-layer-plus": {
+        "body": "content: '\\\\f5ff';$0",
+        "description": "content",
+        "prefix": "fas-layer-plus"
     },
     "fas-leaf": {
         "body": "content: '\\\\f06c';$0",
@@ -3784,6 +4024,11 @@
         "description": "content",
         "prefix": "fas-linux"
     },
+    "fas-lips": {
+        "body": "content: '\\\\f600';$0",
+        "description": "content",
+        "prefix": "fas-lips"
+    },
     "fas-lira-sign": {
         "body": "content: '\\\\f195';$0",
         "description": "content",
@@ -3809,10 +4054,25 @@
         "description": "content",
         "prefix": "fas-list-ul"
     },
+    "fas-location": {
+        "body": "content: '\\\\f601';$0",
+        "description": "content",
+        "prefix": "fas-location"
+    },
     "fas-location-arrow": {
         "body": "content: '\\\\f124';$0",
         "description": "content",
         "prefix": "fas-location-arrow"
+    },
+    "fas-location-circle": {
+        "body": "content: '\\\\f602';$0",
+        "description": "content",
+        "prefix": "fas-location-circle"
+    },
+    "fas-location-slash": {
+        "body": "content: '\\\\f603';$0",
+        "description": "content",
+        "prefix": "fas-location-slash"
     },
     "fas-lock": {
         "body": "content: '\\\\f023';$0",
@@ -3894,6 +4154,11 @@
         "description": "content",
         "prefix": "fas-luggage-cart"
     },
+    "fas-lungs": {
+        "body": "content: '\\\\f604';$0",
+        "description": "content",
+        "prefix": "fas-lungs"
+    },
     "fas-lyft": {
         "body": "content: '\\\\f3c3';$0",
         "description": "content",
@@ -3954,6 +4219,56 @@
         "description": "content",
         "prefix": "fas-map-marker-alt"
     },
+    "fas-map-marker-alt-slash": {
+        "body": "content: '\\\\f605';$0",
+        "description": "content",
+        "prefix": "fas-map-marker-alt-slash"
+    },
+    "fas-map-marker-check": {
+        "body": "content: '\\\\f606';$0",
+        "description": "content",
+        "prefix": "fas-map-marker-check"
+    },
+    "fas-map-marker-edit": {
+        "body": "content: '\\\\f607';$0",
+        "description": "content",
+        "prefix": "fas-map-marker-edit"
+    },
+    "fas-map-marker-exclamation": {
+        "body": "content: '\\\\f608';$0",
+        "description": "content",
+        "prefix": "fas-map-marker-exclamation"
+    },
+    "fas-map-marker-minus": {
+        "body": "content: '\\\\f609';$0",
+        "description": "content",
+        "prefix": "fas-map-marker-minus"
+    },
+    "fas-map-marker-plus": {
+        "body": "content: '\\\\f60a';$0",
+        "description": "content",
+        "prefix": "fas-map-marker-plus"
+    },
+    "fas-map-marker-question": {
+        "body": "content: '\\\\f60b';$0",
+        "description": "content",
+        "prefix": "fas-map-marker-question"
+    },
+    "fas-map-marker-slash": {
+        "body": "content: '\\\\f60c';$0",
+        "description": "content",
+        "prefix": "fas-map-marker-slash"
+    },
+    "fas-map-marker-smile": {
+        "body": "content: '\\\\f60d';$0",
+        "description": "content",
+        "prefix": "fas-map-marker-smile"
+    },
+    "fas-map-marker-times": {
+        "body": "content: '\\\\f60e';$0",
+        "description": "content",
+        "prefix": "fas-map-marker-times"
+    },
     "fas-map-pin": {
         "body": "content: '\\\\f276';$0",
         "description": "content",
@@ -3963,6 +4278,11 @@
         "body": "content: '\\\\f277';$0",
         "description": "content",
         "prefix": "fas-map-signs"
+    },
+    "fas-markdown": {
+        "body": "content: '\\\\f60f';$0",
+        "description": "content",
+        "prefix": "fas-markdown"
     },
     "fas-marker": {
         "body": "content: '\\\\f5a1';$0",
@@ -4094,6 +4414,11 @@
         "description": "content",
         "prefix": "fas-microphone-slash"
     },
+    "fas-microscope": {
+        "body": "content: '\\\\f610';$0",
+        "description": "content",
+        "prefix": "fas-microscope"
+    },
     "fas-microsoft": {
         "body": "content: '\\\\f3ca';$0",
         "description": "content",
@@ -4199,6 +4524,11 @@
         "description": "content",
         "prefix": "fas-money-check-alt"
     },
+    "fas-monitor-heart-rate": {
+        "body": "content: '\\\\f611';$0",
+        "description": "content",
+        "prefix": "fas-monitor-heart-rate"
+    },
     "fas-monument": {
         "body": "content: '\\\\f5a6';$0",
         "description": "content",
@@ -4233,6 +4563,11 @@
         "body": "content: '\\\\f3d2';$0",
         "description": "content",
         "prefix": "fas-napster"
+    },
+    "fas-neos": {
+        "body": "content: '\\\\f612';$0",
+        "description": "content",
+        "prefix": "fas-neos"
     },
     "fas-neuter": {
         "body": "content: '\\\\f22c';$0",
@@ -4313,6 +4648,16 @@
         "body": "content: '\\\\f264';$0",
         "description": "content",
         "prefix": "fas-odnoklassniki-square"
+    },
+    "fas-oil-can": {
+        "body": "content: '\\\\f613';$0",
+        "description": "content",
+        "prefix": "fas-oil-can"
+    },
+    "fas-oil-temp": {
+        "body": "content: '\\\\f614';$0",
+        "description": "content",
+        "prefix": "fas-oil-temp"
     },
     "fas-old-republic": {
         "body": "content: '\\\\f510';$0",
@@ -4419,6 +4764,21 @@
         "description": "content",
         "prefix": "fas-parking"
     },
+    "fas-parking-circle": {
+        "body": "content: '\\\\f615';$0",
+        "description": "content",
+        "prefix": "fas-parking-circle"
+    },
+    "fas-parking-circle-slash": {
+        "body": "content: '\\\\f616';$0",
+        "description": "content",
+        "prefix": "fas-parking-circle-slash"
+    },
+    "fas-parking-slash": {
+        "body": "content: '\\\\f617';$0",
+        "description": "content",
+        "prefix": "fas-parking-slash"
+    },
     "fas-passport": {
         "body": "content: '\\\\f5ab';$0",
         "description": "content",
@@ -4488,6 +4848,11 @@
         "body": "content: '\\\\f303';$0",
         "description": "content",
         "prefix": "fas-pencil-alt"
+    },
+    "fas-pencil-paintbrush": {
+        "body": "content: '\\\\f618';$0",
+        "description": "content",
+        "prefix": "fas-pencil-paintbrush"
     },
     "fas-pencil-ruler": {
         "body": "content: '\\\\f5ae';$0",
@@ -4698,6 +5063,11 @@
         "body": "content: '\\\\f2fe';$0",
         "description": "content",
         "prefix": "fas-poo"
+    },
+    "fas-poop": {
+        "body": "content: '\\\\f619';$0",
+        "description": "content",
+        "prefix": "fas-poop"
     },
     "fas-portrait": {
         "body": "content: '\\\\f3e0';$0",
@@ -5019,6 +5389,16 @@
         "description": "content",
         "prefix": "fas-route"
     },
+    "fas-route-highway": {
+        "body": "content: '\\\\f61a';$0",
+        "description": "content",
+        "prefix": "fas-route-highway"
+    },
+    "fas-route-interstate": {
+        "body": "content: '\\\\f61b';$0",
+        "description": "content",
+        "prefix": "fas-route-interstate"
+    },
     "fas-rss": {
         "body": "content: '\\\\f09e';$0",
         "description": "content",
@@ -5048,6 +5428,11 @@
         "body": "content: '\\\\f547';$0",
         "description": "content",
         "prefix": "fas-ruler-horizontal"
+    },
+    "fas-ruler-triangle": {
+        "body": "content: '\\\\f61c';$0",
+        "description": "content",
+        "prefix": "fas-ruler-triangle"
     },
     "fas-ruler-vertical": {
         "body": "content: '\\\\f548';$0",
@@ -5083,6 +5468,16 @@
         "body": "content: '\\\\f0c7';$0",
         "description": "content",
         "prefix": "fas-save"
+    },
+    "fas-scalpel": {
+        "body": "content: '\\\\f61d';$0",
+        "description": "content",
+        "prefix": "fas-scalpel"
+    },
+    "fas-scalpel-path": {
+        "body": "content: '\\\\f61e';$0",
+        "description": "content",
+        "prefix": "fas-scalpel-path"
     },
     "fas-scanner": {
         "body": "content: '\\\\f488';$0",
@@ -5168,6 +5563,11 @@
         "body": "content: '\\\\f3ec';$0",
         "description": "content",
         "prefix": "fas-servicestack"
+    },
+    "fas-shapes": {
+        "body": "content: '\\\\f61f';$0",
+        "description": "content",
+        "prefix": "fas-shapes"
     },
     "fas-share": {
         "body": "content: '\\\\f064';$0",
@@ -5333,6 +5733,11 @@
         "body": "content: '\\\\f512';$0",
         "description": "content",
         "prefix": "fas-sith"
+    },
+    "fas-skeleton": {
+        "body": "content: '\\\\f620';$0",
+        "description": "content",
+        "prefix": "fas-skeleton"
     },
     "fas-skull": {
         "body": "content: '\\\\f54c';$0",
@@ -5584,6 +5989,11 @@
         "description": "content",
         "prefix": "fas-star-half-alt"
     },
+    "fas-star-of-life": {
+        "body": "content: '\\\\f621';$0",
+        "description": "content",
+        "prefix": "fas-star-of-life"
+    },
     "fas-staylinked": {
         "body": "content: '\\\\f3f5';$0",
         "description": "content",
@@ -5603,6 +6013,11 @@
         "body": "content: '\\\\f3f6';$0",
         "description": "content",
         "prefix": "fas-steam-symbol"
+    },
+    "fas-steering-wheel": {
+        "body": "content: '\\\\f622';$0",
+        "description": "content",
+        "prefix": "fas-steering-wheel"
     },
     "fas-step-backward": {
         "body": "content: '\\\\f048';$0",
@@ -5628,6 +6043,11 @@
         "body": "content: '\\\\f249';$0",
         "description": "content",
         "prefix": "fas-sticky-note"
+    },
+    "fas-stomach": {
+        "body": "content: '\\\\f623';$0",
+        "description": "content",
+        "prefix": "fas-stomach"
     },
     "fas-stop": {
         "body": "content: '\\\\f04d';$0",
@@ -5829,6 +6249,56 @@
         "description": "content",
         "prefix": "fas-tachometer-alt"
     },
+    "fas-tachometer-alt-average": {
+        "body": "content: '\\\\f624';$0",
+        "description": "content",
+        "prefix": "fas-tachometer-alt-average"
+    },
+    "fas-tachometer-alt-fast": {
+        "body": "content: '\\\\f625';$0",
+        "description": "content",
+        "prefix": "fas-tachometer-alt-fast"
+    },
+    "fas-tachometer-alt-fastest": {
+        "body": "content: '\\\\f626';$0",
+        "description": "content",
+        "prefix": "fas-tachometer-alt-fastest"
+    },
+    "fas-tachometer-alt-slow": {
+        "body": "content: '\\\\f627';$0",
+        "description": "content",
+        "prefix": "fas-tachometer-alt-slow"
+    },
+    "fas-tachometer-alt-slowest": {
+        "body": "content: '\\\\f628';$0",
+        "description": "content",
+        "prefix": "fas-tachometer-alt-slowest"
+    },
+    "fas-tachometer-average": {
+        "body": "content: '\\\\f629';$0",
+        "description": "content",
+        "prefix": "fas-tachometer-average"
+    },
+    "fas-tachometer-fast": {
+        "body": "content: '\\\\f62a';$0",
+        "description": "content",
+        "prefix": "fas-tachometer-fast"
+    },
+    "fas-tachometer-fastest": {
+        "body": "content: '\\\\f62b';$0",
+        "description": "content",
+        "prefix": "fas-tachometer-fastest"
+    },
+    "fas-tachometer-slow": {
+        "body": "content: '\\\\f62c';$0",
+        "description": "content",
+        "prefix": "fas-tachometer-slow"
+    },
+    "fas-tachometer-slowest": {
+        "body": "content: '\\\\f62d';$0",
+        "description": "content",
+        "prefix": "fas-tachometer-slowest"
+    },
     "fas-tag": {
         "body": "content: '\\\\f02b';$0",
         "description": "content",
@@ -5858,6 +6328,16 @@
         "body": "content: '\\\\f4f9';$0",
         "description": "content",
         "prefix": "fas-teamspeak"
+    },
+    "fas-teeth": {
+        "body": "content: '\\\\f62e';$0",
+        "description": "content",
+        "prefix": "fas-teeth"
+    },
+    "fas-teeth-open": {
+        "body": "content: '\\\\f62f';$0",
+        "description": "content",
+        "prefix": "fas-teeth-open"
     },
     "fas-telegram": {
         "body": "content: '\\\\f2c6';$0",
@@ -5908,6 +6388,11 @@
         "body": "content: '\\\\f00b';$0",
         "description": "content",
         "prefix": "fas-th-list"
+    },
+    "fas-theater-masks": {
+        "body": "content: '\\\\f630';$0",
+        "description": "content",
+        "prefix": "fas-theater-masks"
     },
     "fas-themeco": {
         "body": "content: '\\\\f5c6';$0",
@@ -6009,6 +6494,26 @@
         "description": "content",
         "prefix": "fas-tint-slash"
     },
+    "fas-tire": {
+        "body": "content: '\\\\f631';$0",
+        "description": "content",
+        "prefix": "fas-tire"
+    },
+    "fas-tire-flat": {
+        "body": "content: '\\\\f632';$0",
+        "description": "content",
+        "prefix": "fas-tire-flat"
+    },
+    "fas-tire-pressure-warning": {
+        "body": "content: '\\\\f633';$0",
+        "description": "content",
+        "prefix": "fas-tire-pressure-warning"
+    },
+    "fas-tire-rugged": {
+        "body": "content: '\\\\f634';$0",
+        "description": "content",
+        "prefix": "fas-tire-rugged"
+    },
     "fas-tired": {
         "body": "content: '\\\\f5c8';$0",
         "description": "content",
@@ -6034,6 +6539,11 @@
         "description": "content",
         "prefix": "fas-tooth"
     },
+    "fas-toothbrush": {
+        "body": "content: '\\\\f635';$0",
+        "description": "content",
+        "prefix": "fas-toothbrush"
+    },
     "fas-trade-federation": {
         "body": "content: '\\\\f513';$0",
         "description": "content",
@@ -6043,6 +6553,31 @@
         "body": "content: '\\\\f25c';$0",
         "description": "content",
         "prefix": "fas-trademark"
+    },
+    "fas-traffic-cone": {
+        "body": "content: '\\\\f636';$0",
+        "description": "content",
+        "prefix": "fas-traffic-cone"
+    },
+    "fas-traffic-light": {
+        "body": "content: '\\\\f637';$0",
+        "description": "content",
+        "prefix": "fas-traffic-light"
+    },
+    "fas-traffic-light-go": {
+        "body": "content: '\\\\f638';$0",
+        "description": "content",
+        "prefix": "fas-traffic-light-go"
+    },
+    "fas-traffic-light-slow": {
+        "body": "content: '\\\\f639';$0",
+        "description": "content",
+        "prefix": "fas-traffic-light-slow"
+    },
+    "fas-traffic-light-stop": {
+        "body": "content: '\\\\f63a';$0",
+        "description": "content",
+        "prefix": "fas-traffic-light-stop"
     },
     "fas-train": {
         "body": "content: '\\\\f238';$0",
@@ -6124,10 +6659,20 @@
         "description": "content",
         "prefix": "fas-truck-loading"
     },
+    "fas-truck-monster": {
+        "body": "content: '\\\\f63b';$0",
+        "description": "content",
+        "prefix": "fas-truck-monster"
+    },
     "fas-truck-moving": {
         "body": "content: '\\\\f4df';$0",
         "description": "content",
         "prefix": "fas-truck-moving"
+    },
+    "fas-truck-pickup": {
+        "body": "content: '\\\\f63c';$0",
+        "description": "content",
+        "prefix": "fas-truck-pickup"
     },
     "fas-truck-ramp": {
         "body": "content: '\\\\f4e0';$0",
@@ -6389,6 +6934,11 @@
         "description": "content",
         "prefix": "fas-users"
     },
+    "fas-users-class": {
+        "body": "content: '\\\\f63d';$0",
+        "description": "content",
+        "prefix": "fas-users-class"
+    },
     "fas-users-cog": {
         "body": "content: '\\\\f509';$0",
         "description": "content",
@@ -6578,6 +7128,11 @@
         "body": "content: '\\\\f2e1';$0",
         "description": "content",
         "prefix": "fas-watch"
+    },
+    "fas-watch-fitness": {
+        "body": "content: '\\\\f63e';$0",
+        "description": "content",
+        "prefix": "fas-watch-fitness"
     },
     "fas-weebly": {
         "body": "content: '\\\\f5cc';$0",
@@ -6793,5 +7348,10 @@
         "body": "content: '\\\\f431';$0",
         "description": "content",
         "prefix": "fas-youtube-square"
+    },
+    "fas-zhihu": {
+        "body": "content: '\\\\f63f';$0",
+        "description": "content",
+        "prefix": "fas-zhihu"
     }
 }

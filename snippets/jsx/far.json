@@ -44,6 +44,11 @@
         "description": "<i>",
         "prefix": "far-affiliatetheme"
     },
+    "far-air-freshener": {
+        "body": "<${1:i} className=\"far far-air-freshener$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-air-freshener"
+    },
     "far-alarm-clock": {
         "body": "<${1:i} className=\"far far-alarm-clock$2\"></${1:i}>$0",
         "description": "<i>",
@@ -193,6 +198,11 @@
         "body": "<${1:i} className=\"far far-apple$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-apple"
+    },
+    "far-apple-alt": {
+        "body": "<${1:i} className=\"far far-apple-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-apple-alt"
     },
     "far-apple-pay": {
         "body": "<${1:i} className=\"far far-apple-pay$2\"></${1:i}>$0",
@@ -464,6 +474,16 @@
         "description": "<i>",
         "prefix": "far-atlas"
     },
+    "far-atom": {
+        "body": "<${1:i} className=\"far far-atom$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-atom"
+    },
+    "far-atom-alt": {
+        "body": "<${1:i} className=\"far far-atom-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-atom-alt"
+    },
     "far-audible": {
         "body": "<${1:i} className=\"far far-audible$2\"></${1:i}>$0",
         "description": "<i>",
@@ -498,6 +518,11 @@
         "body": "<${1:i} className=\"far far-aws$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-aws"
+    },
+    "far-backpack": {
+        "body": "<${1:i} className=\"far far-backpack$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-backpack"
     },
     "far-backspace": {
         "body": "<${1:i} className=\"far far-backspace$2\"></${1:i}>$0",
@@ -659,6 +684,16 @@
         "description": "<i>",
         "prefix": "far-bell"
     },
+    "far-bell-school": {
+        "body": "<${1:i} className=\"far far-bell-school$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bell-school"
+    },
+    "far-bell-school-slash": {
+        "body": "<${1:i} className=\"far far-bell-school-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bell-school-slash"
+    },
     "far-bell-slash": {
         "body": "<${1:i} className=\"far far-bell-slash$2\"></${1:i}>$0",
         "description": "<i>",
@@ -764,6 +799,16 @@
         "description": "<i>",
         "prefix": "far-bomb"
     },
+    "far-bone": {
+        "body": "<${1:i} className=\"far far-bone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bone"
+    },
+    "far-bone-break": {
+        "body": "<${1:i} className=\"far far-bone-break$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bone-break"
+    },
     "far-bong": {
         "body": "<${1:i} className=\"far far-bong$2\"></${1:i}>$0",
         "description": "<i>",
@@ -773,6 +818,11 @@
         "body": "<${1:i} className=\"far far-book$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-book"
+    },
+    "far-book-alt": {
+        "body": "<${1:i} className=\"far far-book-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-book-alt"
     },
     "far-book-heart": {
         "body": "<${1:i} className=\"far far-book-heart$2\"></${1:i}>$0",
@@ -784,10 +834,20 @@
         "description": "<i>",
         "prefix": "far-book-open"
     },
+    "far-book-reader": {
+        "body": "<${1:i} className=\"far far-book-reader$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-book-reader"
+    },
     "far-bookmark": {
         "body": "<${1:i} className=\"far far-bookmark$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-bookmark"
+    },
+    "far-books": {
+        "body": "<${1:i} className=\"far far-books$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-books"
     },
     "far-bowling-ball": {
         "body": "<${1:i} className=\"far far-bowling-ball$2\"></${1:i}>$0",
@@ -864,6 +924,11 @@
         "description": "<i>",
         "prefix": "far-braille"
     },
+    "far-brain": {
+        "body": "<${1:i} className=\"far far-brain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-brain"
+    },
     "far-briefcase": {
         "body": "<${1:i} className=\"far far-briefcase$2\"></${1:i}>$0",
         "description": "<i>",
@@ -938,6 +1003,11 @@
         "body": "<${1:i} className=\"far far-bus-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-bus-alt"
+    },
+    "far-bus-school": {
+        "body": "<${1:i} className=\"far far-bus-school$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bus-school"
     },
     "far-buysellads": {
         "body": "<${1:i} className=\"far far-buysellads$2\"></${1:i}>$0",
@@ -1018,6 +1088,51 @@
         "body": "<${1:i} className=\"far far-car$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-car"
+    },
+    "far-car-alt": {
+        "body": "<${1:i} className=\"far far-car-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-car-alt"
+    },
+    "far-car-battery": {
+        "body": "<${1:i} className=\"far far-car-battery$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-car-battery"
+    },
+    "far-car-bump": {
+        "body": "<${1:i} className=\"far far-car-bump$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-car-bump"
+    },
+    "far-car-crash": {
+        "body": "<${1:i} className=\"far far-car-crash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-car-crash"
+    },
+    "far-car-garage": {
+        "body": "<${1:i} className=\"far far-car-garage$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-car-garage"
+    },
+    "far-car-mechanic": {
+        "body": "<${1:i} className=\"far far-car-mechanic$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-car-mechanic"
+    },
+    "far-car-side": {
+        "body": "<${1:i} className=\"far far-car-side$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-car-side"
+    },
+    "far-car-tilt": {
+        "body": "<${1:i} className=\"far far-car-tilt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-car-tilt"
+    },
+    "far-car-wash": {
+        "body": "<${1:i} className=\"far far-car-wash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-car-wash"
     },
     "far-caret-circle-down": {
         "body": "<${1:i} className=\"far far-caret-circle-down$2\"></${1:i}>$0",
@@ -1158,6 +1273,11 @@
         "body": "<${1:i} className=\"far far-chalkboard-teacher$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-chalkboard-teacher"
+    },
+    "far-charging-station": {
+        "body": "<${1:i} className=\"far far-charging-station$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-charging-station"
     },
     "far-chart-area": {
         "body": "<${1:i} className=\"far far-chart-area$2\"></${1:i}>$0",
@@ -1398,6 +1518,11 @@
         "body": "<${1:i} className=\"far far-clipboard-list$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-clipboard-list"
+    },
+    "far-clipboard-prescription": {
+        "body": "<${1:i} className=\"far far-clipboard-prescription$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-clipboard-prescription"
     },
     "far-clock": {
         "body": "<${1:i} className=\"far far-clock$2\"></${1:i}>$0",
@@ -1648,6 +1773,11 @@
         "body": "<${1:i} className=\"far far-compass$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-compass"
+    },
+    "far-compass-slash": {
+        "body": "<${1:i} className=\"far far-compass-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-compass-slash"
     },
     "far-compress": {
         "body": "<${1:i} className=\"far far-compress$2\"></${1:i}>$0",
@@ -1984,6 +2114,16 @@
         "description": "<i>",
         "prefix": "far-digital-tachograph"
     },
+    "far-diploma": {
+        "body": "<${1:i} className=\"far far-diploma$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-diploma"
+    },
+    "far-directions": {
+        "body": "<${1:i} className=\"far far-directions$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-directions"
+    },
     "far-discord": {
         "body": "<${1:i} className=\"far far-discord$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2008,6 +2148,11 @@
         "body": "<${1:i} className=\"far far-dna$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-dna"
+    },
+    "far-do-not-enter": {
+        "body": "<${1:i} className=\"far far-do-not-enter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-do-not-enter"
     },
     "far-dochub": {
         "body": "<${1:i} className=\"far far-dochub$2\"></${1:i}>$0",
@@ -2089,6 +2234,21 @@
         "description": "<i>",
         "prefix": "far-drafting-compass"
     },
+    "far-draw-circle": {
+        "body": "<${1:i} className=\"far far-draw-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-draw-circle"
+    },
+    "far-draw-polygon": {
+        "body": "<${1:i} className=\"far far-draw-polygon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-draw-polygon"
+    },
+    "far-draw-square": {
+        "body": "<${1:i} className=\"far far-draw-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-draw-square"
+    },
     "far-dribbble": {
         "body": "<${1:i} className=\"far far-dribbble$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2128,6 +2288,11 @@
         "body": "<${1:i} className=\"far far-dyalog$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-dyalog"
+    },
+    "far-ear": {
+        "body": "<${1:i} className=\"far far-ear$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-ear"
     },
     "far-earlybirds": {
         "body": "<${1:i} className=\"far far-earlybirds$2\"></${1:i}>$0",
@@ -2179,6 +2344,11 @@
         "description": "<i>",
         "prefix": "far-ellipsis-v-alt"
     },
+    "far-ello": {
+        "body": "<${1:i} className=\"far far-ello$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-ello"
+    },
     "far-ember": {
         "body": "<${1:i} className=\"far far-ember$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2188,6 +2358,11 @@
         "body": "<${1:i} className=\"far far-empire$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-empire"
+    },
+    "far-engine-warning": {
+        "body": "<${1:i} className=\"far far-engine-warning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-engine-warning"
     },
     "far-envelope": {
         "body": "<${1:i} className=\"far far-envelope$2\"></${1:i}>$0",
@@ -2413,6 +2588,11 @@
         "body": "<${1:i} className=\"far far-file-audio$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-file-audio"
+    },
+    "far-file-certificate": {
+        "body": "<${1:i} className=\"far far-file-certificate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-file-certificate"
     },
     "far-file-check": {
         "body": "<${1:i} className=\"far far-file-check$2\"></${1:i}>$0",
@@ -2784,6 +2964,11 @@
         "description": "<i>",
         "prefix": "far-gas-pump"
     },
+    "far-gas-pump-slash": {
+        "body": "<${1:i} className=\"far far-gas-pump-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-gas-pump-slash"
+    },
     "far-gavel": {
         "body": "<${1:i} className=\"far far-gavel$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2874,6 +3059,11 @@
         "description": "<i>",
         "prefix": "far-glasses"
     },
+    "far-glasses-alt": {
+        "body": "<${1:i} className=\"far far-glasses-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-glasses-alt"
+    },
     "far-glide": {
         "body": "<${1:i} className=\"far far-glide$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2903,6 +3093,11 @@
         "body": "<${1:i} className=\"far far-globe-asia$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-globe-asia"
+    },
+    "far-globe-stand": {
+        "body": "<${1:i} className=\"far far-globe-stand$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-globe-stand"
     },
     "far-gofore": {
         "body": "<${1:i} className=\"far far-gofore$2\"></${1:i}>$0",
@@ -3114,6 +3309,11 @@
         "description": "<i>",
         "prefix": "far-hacker-news-square"
     },
+    "far-hackerrank": {
+        "body": "<${1:i} className=\"far far-hackerrank$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-hackerrank"
+    },
     "far-hand-heart": {
         "body": "<${1:i} className=\"far far-hand-heart$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3278,6 +3478,11 @@
         "body": "<${1:i} className=\"far far-heart-circle$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-heart-circle"
+    },
+    "far-heart-rate": {
+        "body": "<${1:i} className=\"far far-heart-rate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-heart-rate"
     },
     "far-heart-square": {
         "body": "<${1:i} className=\"far far-heart-square$2\"></${1:i}>$0",
@@ -3499,6 +3704,11 @@
         "description": "<i>",
         "prefix": "far-info-square"
     },
+    "far-inhaler": {
+        "body": "<${1:i} className=\"far far-inhaler$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-inhaler"
+    },
     "far-instagram": {
         "body": "<${1:i} className=\"far far-instagram$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3584,6 +3794,11 @@
         "description": "<i>",
         "prefix": "far-jsfiddle"
     },
+    "far-kaggle": {
+        "body": "<${1:i} className=\"far far-kaggle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-kaggle"
+    },
     "far-key": {
         "body": "<${1:i} className=\"far far-key$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3613,6 +3828,11 @@
         "body": "<${1:i} className=\"far far-kickstarter-k$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-kickstarter-k"
+    },
+    "far-kidneys": {
+        "body": "<${1:i} className=\"far far-kidneys$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-kidneys"
     },
     "far-kiss": {
         "body": "<${1:i} className=\"far far-kiss$2\"></${1:i}>$0",
@@ -3654,6 +3874,11 @@
         "description": "<i>",
         "prefix": "far-laptop"
     },
+    "far-laptop-code": {
+        "body": "<${1:i} className=\"far far-laptop-code$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-laptop-code"
+    },
     "far-laravel": {
         "body": "<${1:i} className=\"far far-laravel$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3688,6 +3913,21 @@
         "body": "<${1:i} className=\"far far-laugh-wink$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-laugh-wink"
+    },
+    "far-layer-group": {
+        "body": "<${1:i} className=\"far far-layer-group$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-layer-group"
+    },
+    "far-layer-minus": {
+        "body": "<${1:i} className=\"far far-layer-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-layer-minus"
+    },
+    "far-layer-plus": {
+        "body": "<${1:i} className=\"far far-layer-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-layer-plus"
     },
     "far-leaf": {
         "body": "<${1:i} className=\"far far-leaf$2\"></${1:i}>$0",
@@ -3784,6 +4024,11 @@
         "description": "<i>",
         "prefix": "far-linux"
     },
+    "far-lips": {
+        "body": "<${1:i} className=\"far far-lips$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-lips"
+    },
     "far-lira-sign": {
         "body": "<${1:i} className=\"far far-lira-sign$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3809,10 +4054,25 @@
         "description": "<i>",
         "prefix": "far-list-ul"
     },
+    "far-location": {
+        "body": "<${1:i} className=\"far far-location$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-location"
+    },
     "far-location-arrow": {
         "body": "<${1:i} className=\"far far-location-arrow$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-location-arrow"
+    },
+    "far-location-circle": {
+        "body": "<${1:i} className=\"far far-location-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-location-circle"
+    },
+    "far-location-slash": {
+        "body": "<${1:i} className=\"far far-location-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-location-slash"
     },
     "far-lock": {
         "body": "<${1:i} className=\"far far-lock$2\"></${1:i}>$0",
@@ -3894,6 +4154,11 @@
         "description": "<i>",
         "prefix": "far-luggage-cart"
     },
+    "far-lungs": {
+        "body": "<${1:i} className=\"far far-lungs$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-lungs"
+    },
     "far-lyft": {
         "body": "<${1:i} className=\"far far-lyft$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3954,6 +4219,56 @@
         "description": "<i>",
         "prefix": "far-map-marker-alt"
     },
+    "far-map-marker-alt-slash": {
+        "body": "<${1:i} className=\"far far-map-marker-alt-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-map-marker-alt-slash"
+    },
+    "far-map-marker-check": {
+        "body": "<${1:i} className=\"far far-map-marker-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-map-marker-check"
+    },
+    "far-map-marker-edit": {
+        "body": "<${1:i} className=\"far far-map-marker-edit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-map-marker-edit"
+    },
+    "far-map-marker-exclamation": {
+        "body": "<${1:i} className=\"far far-map-marker-exclamation$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-map-marker-exclamation"
+    },
+    "far-map-marker-minus": {
+        "body": "<${1:i} className=\"far far-map-marker-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-map-marker-minus"
+    },
+    "far-map-marker-plus": {
+        "body": "<${1:i} className=\"far far-map-marker-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-map-marker-plus"
+    },
+    "far-map-marker-question": {
+        "body": "<${1:i} className=\"far far-map-marker-question$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-map-marker-question"
+    },
+    "far-map-marker-slash": {
+        "body": "<${1:i} className=\"far far-map-marker-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-map-marker-slash"
+    },
+    "far-map-marker-smile": {
+        "body": "<${1:i} className=\"far far-map-marker-smile$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-map-marker-smile"
+    },
+    "far-map-marker-times": {
+        "body": "<${1:i} className=\"far far-map-marker-times$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-map-marker-times"
+    },
     "far-map-pin": {
         "body": "<${1:i} className=\"far far-map-pin$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3963,6 +4278,11 @@
         "body": "<${1:i} className=\"far far-map-signs$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-map-signs"
+    },
+    "far-markdown": {
+        "body": "<${1:i} className=\"far far-markdown$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-markdown"
     },
     "far-marker": {
         "body": "<${1:i} className=\"far far-marker$2\"></${1:i}>$0",
@@ -4094,6 +4414,11 @@
         "description": "<i>",
         "prefix": "far-microphone-slash"
     },
+    "far-microscope": {
+        "body": "<${1:i} className=\"far far-microscope$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-microscope"
+    },
     "far-microsoft": {
         "body": "<${1:i} className=\"far far-microsoft$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4199,6 +4524,11 @@
         "description": "<i>",
         "prefix": "far-money-check-alt"
     },
+    "far-monitor-heart-rate": {
+        "body": "<${1:i} className=\"far far-monitor-heart-rate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-monitor-heart-rate"
+    },
     "far-monument": {
         "body": "<${1:i} className=\"far far-monument$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4233,6 +4563,11 @@
         "body": "<${1:i} className=\"far far-napster$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-napster"
+    },
+    "far-neos": {
+        "body": "<${1:i} className=\"far far-neos$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-neos"
     },
     "far-neuter": {
         "body": "<${1:i} className=\"far far-neuter$2\"></${1:i}>$0",
@@ -4313,6 +4648,16 @@
         "body": "<${1:i} className=\"far far-odnoklassniki-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-odnoklassniki-square"
+    },
+    "far-oil-can": {
+        "body": "<${1:i} className=\"far far-oil-can$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-oil-can"
+    },
+    "far-oil-temp": {
+        "body": "<${1:i} className=\"far far-oil-temp$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-oil-temp"
     },
     "far-old-republic": {
         "body": "<${1:i} className=\"far far-old-republic$2\"></${1:i}>$0",
@@ -4419,6 +4764,21 @@
         "description": "<i>",
         "prefix": "far-parking"
     },
+    "far-parking-circle": {
+        "body": "<${1:i} className=\"far far-parking-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-parking-circle"
+    },
+    "far-parking-circle-slash": {
+        "body": "<${1:i} className=\"far far-parking-circle-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-parking-circle-slash"
+    },
+    "far-parking-slash": {
+        "body": "<${1:i} className=\"far far-parking-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-parking-slash"
+    },
     "far-passport": {
         "body": "<${1:i} className=\"far far-passport$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4488,6 +4848,11 @@
         "body": "<${1:i} className=\"far far-pencil-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-pencil-alt"
+    },
+    "far-pencil-paintbrush": {
+        "body": "<${1:i} className=\"far far-pencil-paintbrush$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-pencil-paintbrush"
     },
     "far-pencil-ruler": {
         "body": "<${1:i} className=\"far far-pencil-ruler$2\"></${1:i}>$0",
@@ -4698,6 +5063,11 @@
         "body": "<${1:i} className=\"far far-poo$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-poo"
+    },
+    "far-poop": {
+        "body": "<${1:i} className=\"far far-poop$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-poop"
     },
     "far-portrait": {
         "body": "<${1:i} className=\"far far-portrait$2\"></${1:i}>$0",
@@ -5019,6 +5389,16 @@
         "description": "<i>",
         "prefix": "far-route"
     },
+    "far-route-highway": {
+        "body": "<${1:i} className=\"far far-route-highway$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-route-highway"
+    },
+    "far-route-interstate": {
+        "body": "<${1:i} className=\"far far-route-interstate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-route-interstate"
+    },
     "far-rss": {
         "body": "<${1:i} className=\"far far-rss$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5048,6 +5428,11 @@
         "body": "<${1:i} className=\"far far-ruler-horizontal$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-ruler-horizontal"
+    },
+    "far-ruler-triangle": {
+        "body": "<${1:i} className=\"far far-ruler-triangle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-ruler-triangle"
     },
     "far-ruler-vertical": {
         "body": "<${1:i} className=\"far far-ruler-vertical$2\"></${1:i}>$0",
@@ -5083,6 +5468,16 @@
         "body": "<${1:i} className=\"far far-save$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-save"
+    },
+    "far-scalpel": {
+        "body": "<${1:i} className=\"far far-scalpel$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-scalpel"
+    },
+    "far-scalpel-path": {
+        "body": "<${1:i} className=\"far far-scalpel-path$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-scalpel-path"
     },
     "far-scanner": {
         "body": "<${1:i} className=\"far far-scanner$2\"></${1:i}>$0",
@@ -5168,6 +5563,11 @@
         "body": "<${1:i} className=\"far far-servicestack$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-servicestack"
+    },
+    "far-shapes": {
+        "body": "<${1:i} className=\"far far-shapes$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-shapes"
     },
     "far-share": {
         "body": "<${1:i} className=\"far far-share$2\"></${1:i}>$0",
@@ -5333,6 +5733,11 @@
         "body": "<${1:i} className=\"far far-sith$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-sith"
+    },
+    "far-skeleton": {
+        "body": "<${1:i} className=\"far far-skeleton$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-skeleton"
     },
     "far-skull": {
         "body": "<${1:i} className=\"far far-skull$2\"></${1:i}>$0",
@@ -5584,6 +5989,11 @@
         "description": "<i>",
         "prefix": "far-star-half-alt"
     },
+    "far-star-of-life": {
+        "body": "<${1:i} className=\"far far-star-of-life$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-star-of-life"
+    },
     "far-staylinked": {
         "body": "<${1:i} className=\"far far-staylinked$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5603,6 +6013,11 @@
         "body": "<${1:i} className=\"far far-steam-symbol$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-steam-symbol"
+    },
+    "far-steering-wheel": {
+        "body": "<${1:i} className=\"far far-steering-wheel$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-steering-wheel"
     },
     "far-step-backward": {
         "body": "<${1:i} className=\"far far-step-backward$2\"></${1:i}>$0",
@@ -5628,6 +6043,11 @@
         "body": "<${1:i} className=\"far far-sticky-note$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-sticky-note"
+    },
+    "far-stomach": {
+        "body": "<${1:i} className=\"far far-stomach$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-stomach"
     },
     "far-stop": {
         "body": "<${1:i} className=\"far far-stop$2\"></${1:i}>$0",
@@ -5829,6 +6249,56 @@
         "description": "<i>",
         "prefix": "far-tachometer-alt"
     },
+    "far-tachometer-alt-average": {
+        "body": "<${1:i} className=\"far far-tachometer-alt-average$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tachometer-alt-average"
+    },
+    "far-tachometer-alt-fast": {
+        "body": "<${1:i} className=\"far far-tachometer-alt-fast$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tachometer-alt-fast"
+    },
+    "far-tachometer-alt-fastest": {
+        "body": "<${1:i} className=\"far far-tachometer-alt-fastest$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tachometer-alt-fastest"
+    },
+    "far-tachometer-alt-slow": {
+        "body": "<${1:i} className=\"far far-tachometer-alt-slow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tachometer-alt-slow"
+    },
+    "far-tachometer-alt-slowest": {
+        "body": "<${1:i} className=\"far far-tachometer-alt-slowest$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tachometer-alt-slowest"
+    },
+    "far-tachometer-average": {
+        "body": "<${1:i} className=\"far far-tachometer-average$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tachometer-average"
+    },
+    "far-tachometer-fast": {
+        "body": "<${1:i} className=\"far far-tachometer-fast$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tachometer-fast"
+    },
+    "far-tachometer-fastest": {
+        "body": "<${1:i} className=\"far far-tachometer-fastest$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tachometer-fastest"
+    },
+    "far-tachometer-slow": {
+        "body": "<${1:i} className=\"far far-tachometer-slow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tachometer-slow"
+    },
+    "far-tachometer-slowest": {
+        "body": "<${1:i} className=\"far far-tachometer-slowest$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tachometer-slowest"
+    },
     "far-tag": {
         "body": "<${1:i} className=\"far far-tag$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5858,6 +6328,16 @@
         "body": "<${1:i} className=\"far far-teamspeak$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-teamspeak"
+    },
+    "far-teeth": {
+        "body": "<${1:i} className=\"far far-teeth$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-teeth"
+    },
+    "far-teeth-open": {
+        "body": "<${1:i} className=\"far far-teeth-open$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-teeth-open"
     },
     "far-telegram": {
         "body": "<${1:i} className=\"far far-telegram$2\"></${1:i}>$0",
@@ -5908,6 +6388,11 @@
         "body": "<${1:i} className=\"far far-th-list$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-th-list"
+    },
+    "far-theater-masks": {
+        "body": "<${1:i} className=\"far far-theater-masks$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-theater-masks"
     },
     "far-themeco": {
         "body": "<${1:i} className=\"far far-themeco$2\"></${1:i}>$0",
@@ -6009,6 +6494,26 @@
         "description": "<i>",
         "prefix": "far-tint-slash"
     },
+    "far-tire": {
+        "body": "<${1:i} className=\"far far-tire$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tire"
+    },
+    "far-tire-flat": {
+        "body": "<${1:i} className=\"far far-tire-flat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tire-flat"
+    },
+    "far-tire-pressure-warning": {
+        "body": "<${1:i} className=\"far far-tire-pressure-warning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tire-pressure-warning"
+    },
+    "far-tire-rugged": {
+        "body": "<${1:i} className=\"far far-tire-rugged$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tire-rugged"
+    },
     "far-tired": {
         "body": "<${1:i} className=\"far far-tired$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6034,6 +6539,11 @@
         "description": "<i>",
         "prefix": "far-tooth"
     },
+    "far-toothbrush": {
+        "body": "<${1:i} className=\"far far-toothbrush$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-toothbrush"
+    },
     "far-trade-federation": {
         "body": "<${1:i} className=\"far far-trade-federation$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6043,6 +6553,31 @@
         "body": "<${1:i} className=\"far far-trademark$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-trademark"
+    },
+    "far-traffic-cone": {
+        "body": "<${1:i} className=\"far far-traffic-cone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-traffic-cone"
+    },
+    "far-traffic-light": {
+        "body": "<${1:i} className=\"far far-traffic-light$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-traffic-light"
+    },
+    "far-traffic-light-go": {
+        "body": "<${1:i} className=\"far far-traffic-light-go$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-traffic-light-go"
+    },
+    "far-traffic-light-slow": {
+        "body": "<${1:i} className=\"far far-traffic-light-slow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-traffic-light-slow"
+    },
+    "far-traffic-light-stop": {
+        "body": "<${1:i} className=\"far far-traffic-light-stop$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-traffic-light-stop"
     },
     "far-train": {
         "body": "<${1:i} className=\"far far-train$2\"></${1:i}>$0",
@@ -6124,10 +6659,20 @@
         "description": "<i>",
         "prefix": "far-truck-loading"
     },
+    "far-truck-monster": {
+        "body": "<${1:i} className=\"far far-truck-monster$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-truck-monster"
+    },
     "far-truck-moving": {
         "body": "<${1:i} className=\"far far-truck-moving$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-truck-moving"
+    },
+    "far-truck-pickup": {
+        "body": "<${1:i} className=\"far far-truck-pickup$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-truck-pickup"
     },
     "far-truck-ramp": {
         "body": "<${1:i} className=\"far far-truck-ramp$2\"></${1:i}>$0",
@@ -6389,6 +6934,11 @@
         "description": "<i>",
         "prefix": "far-users"
     },
+    "far-users-class": {
+        "body": "<${1:i} className=\"far far-users-class$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-users-class"
+    },
     "far-users-cog": {
         "body": "<${1:i} className=\"far far-users-cog$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6578,6 +7128,11 @@
         "body": "<${1:i} className=\"far far-watch$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-watch"
+    },
+    "far-watch-fitness": {
+        "body": "<${1:i} className=\"far far-watch-fitness$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-watch-fitness"
     },
     "far-weebly": {
         "body": "<${1:i} className=\"far far-weebly$2\"></${1:i}>$0",
@@ -6793,5 +7348,10 @@
         "body": "<${1:i} className=\"far far-youtube-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-youtube-square"
+    },
+    "far-zhihu": {
+        "body": "<${1:i} className=\"far far-zhihu$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-zhihu"
     }
 }

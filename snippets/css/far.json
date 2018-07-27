@@ -44,6 +44,11 @@
         "description": "content",
         "prefix": "far-affiliatetheme"
     },
+    "far-air-freshener": {
+        "body": "content: '\\\\f5d0';$0",
+        "description": "content",
+        "prefix": "far-air-freshener"
+    },
     "far-alarm-clock": {
         "body": "content: '\\\\f34e';$0",
         "description": "content",
@@ -193,6 +198,11 @@
         "body": "content: '\\\\f179';$0",
         "description": "content",
         "prefix": "far-apple"
+    },
+    "far-apple-alt": {
+        "body": "content: '\\\\f5d1';$0",
+        "description": "content",
+        "prefix": "far-apple-alt"
     },
     "far-apple-pay": {
         "body": "content: '\\\\f415';$0",
@@ -464,6 +474,16 @@
         "description": "content",
         "prefix": "far-atlas"
     },
+    "far-atom": {
+        "body": "content: '\\\\f5d2';$0",
+        "description": "content",
+        "prefix": "far-atom"
+    },
+    "far-atom-alt": {
+        "body": "content: '\\\\f5d3';$0",
+        "description": "content",
+        "prefix": "far-atom-alt"
+    },
     "far-audible": {
         "body": "content: '\\\\f373';$0",
         "description": "content",
@@ -498,6 +518,11 @@
         "body": "content: '\\\\f375';$0",
         "description": "content",
         "prefix": "far-aws"
+    },
+    "far-backpack": {
+        "body": "content: '\\\\f5d4';$0",
+        "description": "content",
+        "prefix": "far-backpack"
     },
     "far-backspace": {
         "body": "content: '\\\\f55a';$0",
@@ -659,6 +684,16 @@
         "description": "content",
         "prefix": "far-bell"
     },
+    "far-bell-school": {
+        "body": "content: '\\\\f5d5';$0",
+        "description": "content",
+        "prefix": "far-bell-school"
+    },
+    "far-bell-school-slash": {
+        "body": "content: '\\\\f5d6';$0",
+        "description": "content",
+        "prefix": "far-bell-school-slash"
+    },
     "far-bell-slash": {
         "body": "content: '\\\\f1f6';$0",
         "description": "content",
@@ -764,6 +799,16 @@
         "description": "content",
         "prefix": "far-bomb"
     },
+    "far-bone": {
+        "body": "content: '\\\\f5d7';$0",
+        "description": "content",
+        "prefix": "far-bone"
+    },
+    "far-bone-break": {
+        "body": "content: '\\\\f5d8';$0",
+        "description": "content",
+        "prefix": "far-bone-break"
+    },
     "far-bong": {
         "body": "content: '\\\\f55c';$0",
         "description": "content",
@@ -773,6 +818,11 @@
         "body": "content: '\\\\f02d';$0",
         "description": "content",
         "prefix": "far-book"
+    },
+    "far-book-alt": {
+        "body": "content: '\\\\f5d9';$0",
+        "description": "content",
+        "prefix": "far-book-alt"
     },
     "far-book-heart": {
         "body": "content: '\\\\f499';$0",
@@ -784,10 +834,20 @@
         "description": "content",
         "prefix": "far-book-open"
     },
+    "far-book-reader": {
+        "body": "content: '\\\\f5da';$0",
+        "description": "content",
+        "prefix": "far-book-reader"
+    },
     "far-bookmark": {
         "body": "content: '\\\\f02e';$0",
         "description": "content",
         "prefix": "far-bookmark"
+    },
+    "far-books": {
+        "body": "content: '\\\\f5db';$0",
+        "description": "content",
+        "prefix": "far-books"
     },
     "far-bowling-ball": {
         "body": "content: '\\\\f436';$0",
@@ -864,6 +924,11 @@
         "description": "content",
         "prefix": "far-braille"
     },
+    "far-brain": {
+        "body": "content: '\\\\f5dc';$0",
+        "description": "content",
+        "prefix": "far-brain"
+    },
     "far-briefcase": {
         "body": "content: '\\\\f0b1';$0",
         "description": "content",
@@ -938,6 +1003,11 @@
         "body": "content: '\\\\f55e';$0",
         "description": "content",
         "prefix": "far-bus-alt"
+    },
+    "far-bus-school": {
+        "body": "content: '\\\\f5dd';$0",
+        "description": "content",
+        "prefix": "far-bus-school"
     },
     "far-buysellads": {
         "body": "content: '\\\\f20d';$0",
@@ -1018,6 +1088,51 @@
         "body": "content: '\\\\f1b9';$0",
         "description": "content",
         "prefix": "far-car"
+    },
+    "far-car-alt": {
+        "body": "content: '\\\\f5de';$0",
+        "description": "content",
+        "prefix": "far-car-alt"
+    },
+    "far-car-battery": {
+        "body": "content: '\\\\f5df';$0",
+        "description": "content",
+        "prefix": "far-car-battery"
+    },
+    "far-car-bump": {
+        "body": "content: '\\\\f5e0';$0",
+        "description": "content",
+        "prefix": "far-car-bump"
+    },
+    "far-car-crash": {
+        "body": "content: '\\\\f5e1';$0",
+        "description": "content",
+        "prefix": "far-car-crash"
+    },
+    "far-car-garage": {
+        "body": "content: '\\\\f5e2';$0",
+        "description": "content",
+        "prefix": "far-car-garage"
+    },
+    "far-car-mechanic": {
+        "body": "content: '\\\\f5e3';$0",
+        "description": "content",
+        "prefix": "far-car-mechanic"
+    },
+    "far-car-side": {
+        "body": "content: '\\\\f5e4';$0",
+        "description": "content",
+        "prefix": "far-car-side"
+    },
+    "far-car-tilt": {
+        "body": "content: '\\\\f5e5';$0",
+        "description": "content",
+        "prefix": "far-car-tilt"
+    },
+    "far-car-wash": {
+        "body": "content: '\\\\f5e6';$0",
+        "description": "content",
+        "prefix": "far-car-wash"
     },
     "far-caret-circle-down": {
         "body": "content: '\\\\f32d';$0",
@@ -1158,6 +1273,11 @@
         "body": "content: '\\\\f51c';$0",
         "description": "content",
         "prefix": "far-chalkboard-teacher"
+    },
+    "far-charging-station": {
+        "body": "content: '\\\\f5e7';$0",
+        "description": "content",
+        "prefix": "far-charging-station"
     },
     "far-chart-area": {
         "body": "content: '\\\\f1fe';$0",
@@ -1398,6 +1518,11 @@
         "body": "content: '\\\\f46d';$0",
         "description": "content",
         "prefix": "far-clipboard-list"
+    },
+    "far-clipboard-prescription": {
+        "body": "content: '\\\\f5e8';$0",
+        "description": "content",
+        "prefix": "far-clipboard-prescription"
     },
     "far-clock": {
         "body": "content: '\\\\f017';$0",
@@ -1648,6 +1773,11 @@
         "body": "content: '\\\\f14e';$0",
         "description": "content",
         "prefix": "far-compass"
+    },
+    "far-compass-slash": {
+        "body": "content: '\\\\f5e9';$0",
+        "description": "content",
+        "prefix": "far-compass-slash"
     },
     "far-compress": {
         "body": "content: '\\\\f066';$0",
@@ -1984,6 +2114,16 @@
         "description": "content",
         "prefix": "far-digital-tachograph"
     },
+    "far-diploma": {
+        "body": "content: '\\\\f5ea';$0",
+        "description": "content",
+        "prefix": "far-diploma"
+    },
+    "far-directions": {
+        "body": "content: '\\\\f5eb';$0",
+        "description": "content",
+        "prefix": "far-directions"
+    },
     "far-discord": {
         "body": "content: '\\\\f392';$0",
         "description": "content",
@@ -2008,6 +2148,11 @@
         "body": "content: '\\\\f471';$0",
         "description": "content",
         "prefix": "far-dna"
+    },
+    "far-do-not-enter": {
+        "body": "content: '\\\\f5ec';$0",
+        "description": "content",
+        "prefix": "far-do-not-enter"
     },
     "far-dochub": {
         "body": "content: '\\\\f394';$0",
@@ -2089,6 +2234,21 @@
         "description": "content",
         "prefix": "far-drafting-compass"
     },
+    "far-draw-circle": {
+        "body": "content: '\\\\f5ed';$0",
+        "description": "content",
+        "prefix": "far-draw-circle"
+    },
+    "far-draw-polygon": {
+        "body": "content: '\\\\f5ee';$0",
+        "description": "content",
+        "prefix": "far-draw-polygon"
+    },
+    "far-draw-square": {
+        "body": "content: '\\\\f5ef';$0",
+        "description": "content",
+        "prefix": "far-draw-square"
+    },
     "far-dribbble": {
         "body": "content: '\\\\f17d';$0",
         "description": "content",
@@ -2128,6 +2288,11 @@
         "body": "content: '\\\\f399';$0",
         "description": "content",
         "prefix": "far-dyalog"
+    },
+    "far-ear": {
+        "body": "content: '\\\\f5f0';$0",
+        "description": "content",
+        "prefix": "far-ear"
     },
     "far-earlybirds": {
         "body": "content: '\\\\f39a';$0",
@@ -2179,6 +2344,11 @@
         "description": "content",
         "prefix": "far-ellipsis-v-alt"
     },
+    "far-ello": {
+        "body": "content: '\\\\f5f1';$0",
+        "description": "content",
+        "prefix": "far-ello"
+    },
     "far-ember": {
         "body": "content: '\\\\f423';$0",
         "description": "content",
@@ -2188,6 +2358,11 @@
         "body": "content: '\\\\f1d1';$0",
         "description": "content",
         "prefix": "far-empire"
+    },
+    "far-engine-warning": {
+        "body": "content: '\\\\f5f2';$0",
+        "description": "content",
+        "prefix": "far-engine-warning"
     },
     "far-envelope": {
         "body": "content: '\\\\f0e0';$0",
@@ -2413,6 +2588,11 @@
         "body": "content: '\\\\f1c7';$0",
         "description": "content",
         "prefix": "far-file-audio"
+    },
+    "far-file-certificate": {
+        "body": "content: '\\\\f5f3';$0",
+        "description": "content",
+        "prefix": "far-file-certificate"
     },
     "far-file-check": {
         "body": "content: '\\\\f316';$0",
@@ -2784,6 +2964,11 @@
         "description": "content",
         "prefix": "far-gas-pump"
     },
+    "far-gas-pump-slash": {
+        "body": "content: '\\\\f5f4';$0",
+        "description": "content",
+        "prefix": "far-gas-pump-slash"
+    },
     "far-gavel": {
         "body": "content: '\\\\f0e3';$0",
         "description": "content",
@@ -2874,6 +3059,11 @@
         "description": "content",
         "prefix": "far-glasses"
     },
+    "far-glasses-alt": {
+        "body": "content: '\\\\f5f5';$0",
+        "description": "content",
+        "prefix": "far-glasses-alt"
+    },
     "far-glide": {
         "body": "content: '\\\\f2a5';$0",
         "description": "content",
@@ -2903,6 +3093,11 @@
         "body": "content: '\\\\f57e';$0",
         "description": "content",
         "prefix": "far-globe-asia"
+    },
+    "far-globe-stand": {
+        "body": "content: '\\\\f5f6';$0",
+        "description": "content",
+        "prefix": "far-globe-stand"
     },
     "far-gofore": {
         "body": "content: '\\\\f3a7';$0",
@@ -3114,6 +3309,11 @@
         "description": "content",
         "prefix": "far-hacker-news-square"
     },
+    "far-hackerrank": {
+        "body": "content: '\\\\f5f7';$0",
+        "description": "content",
+        "prefix": "far-hackerrank"
+    },
     "far-hand-heart": {
         "body": "content: '\\\\f4bc';$0",
         "description": "content",
@@ -3278,6 +3478,11 @@
         "body": "content: '\\\\f4c7';$0",
         "description": "content",
         "prefix": "far-heart-circle"
+    },
+    "far-heart-rate": {
+        "body": "content: '\\\\f5f8';$0",
+        "description": "content",
+        "prefix": "far-heart-rate"
     },
     "far-heart-square": {
         "body": "content: '\\\\f4c8';$0",
@@ -3499,6 +3704,11 @@
         "description": "content",
         "prefix": "far-info-square"
     },
+    "far-inhaler": {
+        "body": "content: '\\\\f5f9';$0",
+        "description": "content",
+        "prefix": "far-inhaler"
+    },
     "far-instagram": {
         "body": "content: '\\\\f16d';$0",
         "description": "content",
@@ -3584,6 +3794,11 @@
         "description": "content",
         "prefix": "far-jsfiddle"
     },
+    "far-kaggle": {
+        "body": "content: '\\\\f5fa';$0",
+        "description": "content",
+        "prefix": "far-kaggle"
+    },
     "far-key": {
         "body": "content: '\\\\f084';$0",
         "description": "content",
@@ -3613,6 +3828,11 @@
         "body": "content: '\\\\f3bc';$0",
         "description": "content",
         "prefix": "far-kickstarter-k"
+    },
+    "far-kidneys": {
+        "body": "content: '\\\\f5fb';$0",
+        "description": "content",
+        "prefix": "far-kidneys"
     },
     "far-kiss": {
         "body": "content: '\\\\f596';$0",
@@ -3654,6 +3874,11 @@
         "description": "content",
         "prefix": "far-laptop"
     },
+    "far-laptop-code": {
+        "body": "content: '\\\\f5fc';$0",
+        "description": "content",
+        "prefix": "far-laptop-code"
+    },
     "far-laravel": {
         "body": "content: '\\\\f3bd';$0",
         "description": "content",
@@ -3688,6 +3913,21 @@
         "body": "content: '\\\\f59c';$0",
         "description": "content",
         "prefix": "far-laugh-wink"
+    },
+    "far-layer-group": {
+        "body": "content: '\\\\f5fd';$0",
+        "description": "content",
+        "prefix": "far-layer-group"
+    },
+    "far-layer-minus": {
+        "body": "content: '\\\\f5fe';$0",
+        "description": "content",
+        "prefix": "far-layer-minus"
+    },
+    "far-layer-plus": {
+        "body": "content: '\\\\f5ff';$0",
+        "description": "content",
+        "prefix": "far-layer-plus"
     },
     "far-leaf": {
         "body": "content: '\\\\f06c';$0",
@@ -3784,6 +4024,11 @@
         "description": "content",
         "prefix": "far-linux"
     },
+    "far-lips": {
+        "body": "content: '\\\\f600';$0",
+        "description": "content",
+        "prefix": "far-lips"
+    },
     "far-lira-sign": {
         "body": "content: '\\\\f195';$0",
         "description": "content",
@@ -3809,10 +4054,25 @@
         "description": "content",
         "prefix": "far-list-ul"
     },
+    "far-location": {
+        "body": "content: '\\\\f601';$0",
+        "description": "content",
+        "prefix": "far-location"
+    },
     "far-location-arrow": {
         "body": "content: '\\\\f124';$0",
         "description": "content",
         "prefix": "far-location-arrow"
+    },
+    "far-location-circle": {
+        "body": "content: '\\\\f602';$0",
+        "description": "content",
+        "prefix": "far-location-circle"
+    },
+    "far-location-slash": {
+        "body": "content: '\\\\f603';$0",
+        "description": "content",
+        "prefix": "far-location-slash"
     },
     "far-lock": {
         "body": "content: '\\\\f023';$0",
@@ -3894,6 +4154,11 @@
         "description": "content",
         "prefix": "far-luggage-cart"
     },
+    "far-lungs": {
+        "body": "content: '\\\\f604';$0",
+        "description": "content",
+        "prefix": "far-lungs"
+    },
     "far-lyft": {
         "body": "content: '\\\\f3c3';$0",
         "description": "content",
@@ -3954,6 +4219,56 @@
         "description": "content",
         "prefix": "far-map-marker-alt"
     },
+    "far-map-marker-alt-slash": {
+        "body": "content: '\\\\f605';$0",
+        "description": "content",
+        "prefix": "far-map-marker-alt-slash"
+    },
+    "far-map-marker-check": {
+        "body": "content: '\\\\f606';$0",
+        "description": "content",
+        "prefix": "far-map-marker-check"
+    },
+    "far-map-marker-edit": {
+        "body": "content: '\\\\f607';$0",
+        "description": "content",
+        "prefix": "far-map-marker-edit"
+    },
+    "far-map-marker-exclamation": {
+        "body": "content: '\\\\f608';$0",
+        "description": "content",
+        "prefix": "far-map-marker-exclamation"
+    },
+    "far-map-marker-minus": {
+        "body": "content: '\\\\f609';$0",
+        "description": "content",
+        "prefix": "far-map-marker-minus"
+    },
+    "far-map-marker-plus": {
+        "body": "content: '\\\\f60a';$0",
+        "description": "content",
+        "prefix": "far-map-marker-plus"
+    },
+    "far-map-marker-question": {
+        "body": "content: '\\\\f60b';$0",
+        "description": "content",
+        "prefix": "far-map-marker-question"
+    },
+    "far-map-marker-slash": {
+        "body": "content: '\\\\f60c';$0",
+        "description": "content",
+        "prefix": "far-map-marker-slash"
+    },
+    "far-map-marker-smile": {
+        "body": "content: '\\\\f60d';$0",
+        "description": "content",
+        "prefix": "far-map-marker-smile"
+    },
+    "far-map-marker-times": {
+        "body": "content: '\\\\f60e';$0",
+        "description": "content",
+        "prefix": "far-map-marker-times"
+    },
     "far-map-pin": {
         "body": "content: '\\\\f276';$0",
         "description": "content",
@@ -3963,6 +4278,11 @@
         "body": "content: '\\\\f277';$0",
         "description": "content",
         "prefix": "far-map-signs"
+    },
+    "far-markdown": {
+        "body": "content: '\\\\f60f';$0",
+        "description": "content",
+        "prefix": "far-markdown"
     },
     "far-marker": {
         "body": "content: '\\\\f5a1';$0",
@@ -4094,6 +4414,11 @@
         "description": "content",
         "prefix": "far-microphone-slash"
     },
+    "far-microscope": {
+        "body": "content: '\\\\f610';$0",
+        "description": "content",
+        "prefix": "far-microscope"
+    },
     "far-microsoft": {
         "body": "content: '\\\\f3ca';$0",
         "description": "content",
@@ -4199,6 +4524,11 @@
         "description": "content",
         "prefix": "far-money-check-alt"
     },
+    "far-monitor-heart-rate": {
+        "body": "content: '\\\\f611';$0",
+        "description": "content",
+        "prefix": "far-monitor-heart-rate"
+    },
     "far-monument": {
         "body": "content: '\\\\f5a6';$0",
         "description": "content",
@@ -4233,6 +4563,11 @@
         "body": "content: '\\\\f3d2';$0",
         "description": "content",
         "prefix": "far-napster"
+    },
+    "far-neos": {
+        "body": "content: '\\\\f612';$0",
+        "description": "content",
+        "prefix": "far-neos"
     },
     "far-neuter": {
         "body": "content: '\\\\f22c';$0",
@@ -4313,6 +4648,16 @@
         "body": "content: '\\\\f264';$0",
         "description": "content",
         "prefix": "far-odnoklassniki-square"
+    },
+    "far-oil-can": {
+        "body": "content: '\\\\f613';$0",
+        "description": "content",
+        "prefix": "far-oil-can"
+    },
+    "far-oil-temp": {
+        "body": "content: '\\\\f614';$0",
+        "description": "content",
+        "prefix": "far-oil-temp"
     },
     "far-old-republic": {
         "body": "content: '\\\\f510';$0",
@@ -4419,6 +4764,21 @@
         "description": "content",
         "prefix": "far-parking"
     },
+    "far-parking-circle": {
+        "body": "content: '\\\\f615';$0",
+        "description": "content",
+        "prefix": "far-parking-circle"
+    },
+    "far-parking-circle-slash": {
+        "body": "content: '\\\\f616';$0",
+        "description": "content",
+        "prefix": "far-parking-circle-slash"
+    },
+    "far-parking-slash": {
+        "body": "content: '\\\\f617';$0",
+        "description": "content",
+        "prefix": "far-parking-slash"
+    },
     "far-passport": {
         "body": "content: '\\\\f5ab';$0",
         "description": "content",
@@ -4488,6 +4848,11 @@
         "body": "content: '\\\\f303';$0",
         "description": "content",
         "prefix": "far-pencil-alt"
+    },
+    "far-pencil-paintbrush": {
+        "body": "content: '\\\\f618';$0",
+        "description": "content",
+        "prefix": "far-pencil-paintbrush"
     },
     "far-pencil-ruler": {
         "body": "content: '\\\\f5ae';$0",
@@ -4698,6 +5063,11 @@
         "body": "content: '\\\\f2fe';$0",
         "description": "content",
         "prefix": "far-poo"
+    },
+    "far-poop": {
+        "body": "content: '\\\\f619';$0",
+        "description": "content",
+        "prefix": "far-poop"
     },
     "far-portrait": {
         "body": "content: '\\\\f3e0';$0",
@@ -5019,6 +5389,16 @@
         "description": "content",
         "prefix": "far-route"
     },
+    "far-route-highway": {
+        "body": "content: '\\\\f61a';$0",
+        "description": "content",
+        "prefix": "far-route-highway"
+    },
+    "far-route-interstate": {
+        "body": "content: '\\\\f61b';$0",
+        "description": "content",
+        "prefix": "far-route-interstate"
+    },
     "far-rss": {
         "body": "content: '\\\\f09e';$0",
         "description": "content",
@@ -5048,6 +5428,11 @@
         "body": "content: '\\\\f547';$0",
         "description": "content",
         "prefix": "far-ruler-horizontal"
+    },
+    "far-ruler-triangle": {
+        "body": "content: '\\\\f61c';$0",
+        "description": "content",
+        "prefix": "far-ruler-triangle"
     },
     "far-ruler-vertical": {
         "body": "content: '\\\\f548';$0",
@@ -5083,6 +5468,16 @@
         "body": "content: '\\\\f0c7';$0",
         "description": "content",
         "prefix": "far-save"
+    },
+    "far-scalpel": {
+        "body": "content: '\\\\f61d';$0",
+        "description": "content",
+        "prefix": "far-scalpel"
+    },
+    "far-scalpel-path": {
+        "body": "content: '\\\\f61e';$0",
+        "description": "content",
+        "prefix": "far-scalpel-path"
     },
     "far-scanner": {
         "body": "content: '\\\\f488';$0",
@@ -5168,6 +5563,11 @@
         "body": "content: '\\\\f3ec';$0",
         "description": "content",
         "prefix": "far-servicestack"
+    },
+    "far-shapes": {
+        "body": "content: '\\\\f61f';$0",
+        "description": "content",
+        "prefix": "far-shapes"
     },
     "far-share": {
         "body": "content: '\\\\f064';$0",
@@ -5333,6 +5733,11 @@
         "body": "content: '\\\\f512';$0",
         "description": "content",
         "prefix": "far-sith"
+    },
+    "far-skeleton": {
+        "body": "content: '\\\\f620';$0",
+        "description": "content",
+        "prefix": "far-skeleton"
     },
     "far-skull": {
         "body": "content: '\\\\f54c';$0",
@@ -5584,6 +5989,11 @@
         "description": "content",
         "prefix": "far-star-half-alt"
     },
+    "far-star-of-life": {
+        "body": "content: '\\\\f621';$0",
+        "description": "content",
+        "prefix": "far-star-of-life"
+    },
     "far-staylinked": {
         "body": "content: '\\\\f3f5';$0",
         "description": "content",
@@ -5603,6 +6013,11 @@
         "body": "content: '\\\\f3f6';$0",
         "description": "content",
         "prefix": "far-steam-symbol"
+    },
+    "far-steering-wheel": {
+        "body": "content: '\\\\f622';$0",
+        "description": "content",
+        "prefix": "far-steering-wheel"
     },
     "far-step-backward": {
         "body": "content: '\\\\f048';$0",
@@ -5628,6 +6043,11 @@
         "body": "content: '\\\\f249';$0",
         "description": "content",
         "prefix": "far-sticky-note"
+    },
+    "far-stomach": {
+        "body": "content: '\\\\f623';$0",
+        "description": "content",
+        "prefix": "far-stomach"
     },
     "far-stop": {
         "body": "content: '\\\\f04d';$0",
@@ -5829,6 +6249,56 @@
         "description": "content",
         "prefix": "far-tachometer-alt"
     },
+    "far-tachometer-alt-average": {
+        "body": "content: '\\\\f624';$0",
+        "description": "content",
+        "prefix": "far-tachometer-alt-average"
+    },
+    "far-tachometer-alt-fast": {
+        "body": "content: '\\\\f625';$0",
+        "description": "content",
+        "prefix": "far-tachometer-alt-fast"
+    },
+    "far-tachometer-alt-fastest": {
+        "body": "content: '\\\\f626';$0",
+        "description": "content",
+        "prefix": "far-tachometer-alt-fastest"
+    },
+    "far-tachometer-alt-slow": {
+        "body": "content: '\\\\f627';$0",
+        "description": "content",
+        "prefix": "far-tachometer-alt-slow"
+    },
+    "far-tachometer-alt-slowest": {
+        "body": "content: '\\\\f628';$0",
+        "description": "content",
+        "prefix": "far-tachometer-alt-slowest"
+    },
+    "far-tachometer-average": {
+        "body": "content: '\\\\f629';$0",
+        "description": "content",
+        "prefix": "far-tachometer-average"
+    },
+    "far-tachometer-fast": {
+        "body": "content: '\\\\f62a';$0",
+        "description": "content",
+        "prefix": "far-tachometer-fast"
+    },
+    "far-tachometer-fastest": {
+        "body": "content: '\\\\f62b';$0",
+        "description": "content",
+        "prefix": "far-tachometer-fastest"
+    },
+    "far-tachometer-slow": {
+        "body": "content: '\\\\f62c';$0",
+        "description": "content",
+        "prefix": "far-tachometer-slow"
+    },
+    "far-tachometer-slowest": {
+        "body": "content: '\\\\f62d';$0",
+        "description": "content",
+        "prefix": "far-tachometer-slowest"
+    },
     "far-tag": {
         "body": "content: '\\\\f02b';$0",
         "description": "content",
@@ -5858,6 +6328,16 @@
         "body": "content: '\\\\f4f9';$0",
         "description": "content",
         "prefix": "far-teamspeak"
+    },
+    "far-teeth": {
+        "body": "content: '\\\\f62e';$0",
+        "description": "content",
+        "prefix": "far-teeth"
+    },
+    "far-teeth-open": {
+        "body": "content: '\\\\f62f';$0",
+        "description": "content",
+        "prefix": "far-teeth-open"
     },
     "far-telegram": {
         "body": "content: '\\\\f2c6';$0",
@@ -5908,6 +6388,11 @@
         "body": "content: '\\\\f00b';$0",
         "description": "content",
         "prefix": "far-th-list"
+    },
+    "far-theater-masks": {
+        "body": "content: '\\\\f630';$0",
+        "description": "content",
+        "prefix": "far-theater-masks"
     },
     "far-themeco": {
         "body": "content: '\\\\f5c6';$0",
@@ -6009,6 +6494,26 @@
         "description": "content",
         "prefix": "far-tint-slash"
     },
+    "far-tire": {
+        "body": "content: '\\\\f631';$0",
+        "description": "content",
+        "prefix": "far-tire"
+    },
+    "far-tire-flat": {
+        "body": "content: '\\\\f632';$0",
+        "description": "content",
+        "prefix": "far-tire-flat"
+    },
+    "far-tire-pressure-warning": {
+        "body": "content: '\\\\f633';$0",
+        "description": "content",
+        "prefix": "far-tire-pressure-warning"
+    },
+    "far-tire-rugged": {
+        "body": "content: '\\\\f634';$0",
+        "description": "content",
+        "prefix": "far-tire-rugged"
+    },
     "far-tired": {
         "body": "content: '\\\\f5c8';$0",
         "description": "content",
@@ -6034,6 +6539,11 @@
         "description": "content",
         "prefix": "far-tooth"
     },
+    "far-toothbrush": {
+        "body": "content: '\\\\f635';$0",
+        "description": "content",
+        "prefix": "far-toothbrush"
+    },
     "far-trade-federation": {
         "body": "content: '\\\\f513';$0",
         "description": "content",
@@ -6043,6 +6553,31 @@
         "body": "content: '\\\\f25c';$0",
         "description": "content",
         "prefix": "far-trademark"
+    },
+    "far-traffic-cone": {
+        "body": "content: '\\\\f636';$0",
+        "description": "content",
+        "prefix": "far-traffic-cone"
+    },
+    "far-traffic-light": {
+        "body": "content: '\\\\f637';$0",
+        "description": "content",
+        "prefix": "far-traffic-light"
+    },
+    "far-traffic-light-go": {
+        "body": "content: '\\\\f638';$0",
+        "description": "content",
+        "prefix": "far-traffic-light-go"
+    },
+    "far-traffic-light-slow": {
+        "body": "content: '\\\\f639';$0",
+        "description": "content",
+        "prefix": "far-traffic-light-slow"
+    },
+    "far-traffic-light-stop": {
+        "body": "content: '\\\\f63a';$0",
+        "description": "content",
+        "prefix": "far-traffic-light-stop"
     },
     "far-train": {
         "body": "content: '\\\\f238';$0",
@@ -6124,10 +6659,20 @@
         "description": "content",
         "prefix": "far-truck-loading"
     },
+    "far-truck-monster": {
+        "body": "content: '\\\\f63b';$0",
+        "description": "content",
+        "prefix": "far-truck-monster"
+    },
     "far-truck-moving": {
         "body": "content: '\\\\f4df';$0",
         "description": "content",
         "prefix": "far-truck-moving"
+    },
+    "far-truck-pickup": {
+        "body": "content: '\\\\f63c';$0",
+        "description": "content",
+        "prefix": "far-truck-pickup"
     },
     "far-truck-ramp": {
         "body": "content: '\\\\f4e0';$0",
@@ -6389,6 +6934,11 @@
         "description": "content",
         "prefix": "far-users"
     },
+    "far-users-class": {
+        "body": "content: '\\\\f63d';$0",
+        "description": "content",
+        "prefix": "far-users-class"
+    },
     "far-users-cog": {
         "body": "content: '\\\\f509';$0",
         "description": "content",
@@ -6578,6 +7128,11 @@
         "body": "content: '\\\\f2e1';$0",
         "description": "content",
         "prefix": "far-watch"
+    },
+    "far-watch-fitness": {
+        "body": "content: '\\\\f63e';$0",
+        "description": "content",
+        "prefix": "far-watch-fitness"
     },
     "far-weebly": {
         "body": "content: '\\\\f5cc';$0",
@@ -6793,5 +7348,10 @@
         "body": "content: '\\\\f431';$0",
         "description": "content",
         "prefix": "far-youtube-square"
+    },
+    "far-zhihu": {
+        "body": "content: '\\\\f63f';$0",
+        "description": "content",
+        "prefix": "far-zhihu"
     }
 }

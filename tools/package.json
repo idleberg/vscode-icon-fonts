@@ -2,6 +2,9 @@
   "name": "icon-completions-builder",
   "version": "0.0.0",
   "private": true,
+  "scripts": {
+    "postinstall": "node build"
+  },
   "dependencies": {
     "css": "^2.2.3",
     "js-yaml": "^3.11.0",
@@ -15,7 +18,7 @@
     "__dashicons": "github:WordPress/dashicons",
     "__devicons": "github:vorillaz/devicons#1.8.0",
     "__el": "github:reduxframework/Elusive-Icons",
-    "__fa": "github:FortAwesome/Font-Awesome-Pro#5.1.0",
+    "__fa": "github:FortAwesome/Font-Awesome-Pro#5.2.0",
     "__fi": "github:zurb/foundation-icons",
     "__fl": "github:Lukas-W/font-logos",
     "__geomicons": "github:jxnblk/geomicons-open#2.0.0",

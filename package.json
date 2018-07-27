@@ -12,6 +12,7 @@
     "scripts": {
         "build": "gulp && cd tools && yarn",
         "postinstall": "node ./node_modules/vscode/bin/install",
+        "postpublish": "rimraf tools/node_modules && vsce package && gulp push --tags",
         "precommit": "npm run test",
         "test": "vscode-linter",
         "vscode:prepublish": "gulp"
@@ -795,6 +796,8 @@
         "gulp-raster": "^0.2.0",
         "gulp-rename": "^1.2.2",
         "husky": "^0.14.3",
+        "rimraf": "^2.6.2",
+        "vsce": "^1.44.0",
         "vscode": "^1.1.2",
         "vscode-linter": "^0.2.1"
     }

@@ -1,10 +1,10 @@
 # Icon Fonts for Visual Studio Code
 
-[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![GitHub](https://img.shields.io/github/release/idleberg/vscode-icon-fonts.svg?style=flat-square)](https://github.com/idleberg/vscode-icon-fonts/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.icon-fonts.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
-[![Travis](https://img.shields.io/travis/idleberg/vscode-icon-fonts.svg?style=flat-square)](https://travis-ci.org/idleberg/vscode-icon-fonts)
-[![David](https://img.shields.io/david/dev/idleberg/vscode-icon-fonts.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-icon-fonts?type=dev)
+[![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
+[![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-icon-fonts)](https://github.com/idleberg/vscode-icon-fonts/releases)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.icon-fonts)](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
+[![Travis](https://flat.badgen.net/travis/idleberg/vscode-icon-fonts)](https://travis-ci.org/idleberg/vscode-icon-fonts)
+[![David](https://flat.badgen.net/david/dev/idleberg/vscode-icon-fonts)](https://david-dm.org/idleberg/vscode-icon-fonts?type=dev)
 
 **Note:** *As of v1.9, this package supports all __Font Awesome v5__ icons. If you need to continue the old __Font Awesome v4__ icons, please install the* [`icon-fonts-legacy`](https://github.com/idleberg/vscode-icon-fonts-legacy) *package via Extension Marketplace!*
 

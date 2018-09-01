@@ -4,6 +4,11 @@
         "description": "content",
         "prefix": "fas-500px"
     },
+    "fas-abacus": {
+        "body": "content: '\\\\f640';$0",
+        "description": "content",
+        "prefix": "fas-abacus"
+    },
     "fas-accessible-icon": {
         "body": "content: '\\\\f368';$0",
         "description": "content",
@@ -13,6 +18,11 @@
         "body": "content: '\\\\f369';$0",
         "description": "content",
         "prefix": "fas-accusoft"
+    },
+    "fas-ad": {
+        "body": "content: '\\\\f641';$0",
+        "description": "content",
+        "prefix": "fas-ad"
     },
     "fas-address-book": {
         "body": "content: '\\\\f2b9';$0",
@@ -79,6 +89,11 @@
         "description": "content",
         "prefix": "fas-align-right"
     },
+    "fas-alipay": {
+        "body": "content: '\\\\f642';$0",
+        "description": "content",
+        "prefix": "fas-alipay"
+    },
     "fas-allergies": {
         "body": "content: '\\\\f461';$0",
         "description": "content",
@@ -108,6 +123,11 @@
         "body": "content: '\\\\f36d';$0",
         "description": "content",
         "prefix": "fas-amilia"
+    },
+    "fas-analytics": {
+        "body": "content: '\\\\f643';$0",
+        "description": "content",
+        "prefix": "fas-analytics"
     },
     "fas-anchor": {
         "body": "content: '\\\\f13d';$0",
@@ -178,6 +198,11 @@
         "body": "content: '\\\\f420';$0",
         "description": "content",
         "prefix": "fas-angular"
+    },
+    "fas-ankh": {
+        "body": "content: '\\\\f644';$0",
+        "description": "content",
+        "prefix": "fas-ankh"
     },
     "fas-app-store": {
         "body": "content: '\\\\f36f';$0",
@@ -544,6 +569,16 @@
         "description": "content",
         "prefix": "fas-badge-check"
     },
+    "fas-badge-dollar": {
+        "body": "content: '\\\\f645';$0",
+        "description": "content",
+        "prefix": "fas-badge-dollar"
+    },
+    "fas-badge-percent": {
+        "body": "content: '\\\\f646';$0",
+        "description": "content",
+        "prefix": "fas-badge-percent"
+    },
     "fas-balance-scale": {
         "body": "content: '\\\\f24e';$0",
         "description": "content",
@@ -703,6 +738,11 @@
         "body": "content: '\\\\f55b';$0",
         "description": "content",
         "prefix": "fas-bezier-curve"
+    },
+    "fas-bible": {
+        "body": "content: '\\\\f647';$0",
+        "description": "content",
+        "prefix": "fas-bible"
     },
     "fas-bicycle": {
         "body": "content: '\\\\f206';$0",
@@ -984,6 +1024,16 @@
         "description": "content",
         "prefix": "fas-bullseye"
     },
+    "fas-bullseye-arrow": {
+        "body": "content: '\\\\f648';$0",
+        "description": "content",
+        "prefix": "fas-bullseye-arrow"
+    },
+    "fas-bullseye-pointer": {
+        "body": "content: '\\\\f649';$0",
+        "description": "content",
+        "prefix": "fas-bullseye-pointer"
+    },
     "fas-burn": {
         "body": "content: '\\\\f46a';$0",
         "description": "content",
@@ -1009,15 +1059,30 @@
         "description": "content",
         "prefix": "fas-bus-school"
     },
+    "fas-business-time": {
+        "body": "content: '\\\\f64a';$0",
+        "description": "content",
+        "prefix": "fas-business-time"
+    },
     "fas-buysellads": {
         "body": "content: '\\\\f20d';$0",
         "description": "content",
         "prefix": "fas-buysellads"
     },
+    "fas-cabinet-filing": {
+        "body": "content: '\\\\f64b';$0",
+        "description": "content",
+        "prefix": "fas-cabinet-filing"
+    },
     "fas-calculator": {
         "body": "content: '\\\\f1ec';$0",
         "description": "content",
         "prefix": "fas-calculator"
+    },
+    "fas-calculator-alt": {
+        "body": "content: '\\\\f64c';$0",
+        "description": "content",
+        "prefix": "fas-calculator-alt"
     },
     "fas-calendar": {
         "body": "content: '\\\\f133';$0",
@@ -1294,10 +1359,20 @@
         "description": "content",
         "prefix": "fas-chart-line"
     },
+    "fas-chart-line-down": {
+        "body": "content: '\\\\f64d';$0",
+        "description": "content",
+        "prefix": "fas-chart-line-down"
+    },
     "fas-chart-pie": {
         "body": "content: '\\\\f200';$0",
         "description": "content",
         "prefix": "fas-chart-pie"
+    },
+    "fas-chart-pie-alt": {
+        "body": "content: '\\\\f64e';$0",
+        "description": "content",
+        "prefix": "fas-chart-pie-alt"
     },
     "fas-check": {
         "body": "content: '\\\\f00c';$0",
@@ -1504,6 +1579,11 @@
         "description": "content",
         "prefix": "fas-circle-notch"
     },
+    "fas-city": {
+        "body": "content: '\\\\f64f';$0",
+        "description": "content",
+        "prefix": "fas-city"
+    },
     "fas-clipboard": {
         "body": "content: '\\\\f328';$0",
         "description": "content",
@@ -1659,6 +1739,11 @@
         "description": "content",
         "prefix": "fas-comment-alt-check"
     },
+    "fas-comment-alt-dollar": {
+        "body": "content: '\\\\f650';$0",
+        "description": "content",
+        "prefix": "fas-comment-alt-dollar"
+    },
     "fas-comment-alt-dots": {
         "body": "content: '\\\\f4a3';$0",
         "description": "content",
@@ -1708,6 +1793,11 @@
         "body": "content: '\\\\f4ac';$0",
         "description": "content",
         "prefix": "fas-comment-check"
+    },
+    "fas-comment-dollar": {
+        "body": "content: '\\\\f651';$0",
+        "description": "content",
+        "prefix": "fas-comment-dollar"
     },
     "fas-comment-dots": {
         "body": "content: '\\\\f4ad';$0",
@@ -1763,6 +1853,16 @@
         "body": "content: '\\\\f4b6';$0",
         "description": "content",
         "prefix": "fas-comments-alt"
+    },
+    "fas-comments-alt-dollar": {
+        "body": "content: '\\\\f652';$0",
+        "description": "content",
+        "prefix": "fas-comments-alt-dollar"
+    },
+    "fas-comments-dollar": {
+        "body": "content: '\\\\f653';$0",
+        "description": "content",
+        "prefix": "fas-comments-dollar"
     },
     "fas-compact-disc": {
         "body": "content: '\\\\f51f';$0",
@@ -1954,6 +2054,11 @@
         "description": "content",
         "prefix": "fas-crop-alt"
     },
+    "fas-cross": {
+        "body": "content: '\\\\f654';$0",
+        "description": "content",
+        "prefix": "fas-cross"
+    },
     "fas-crosshairs": {
         "body": "content: '\\\\f05b';$0",
         "description": "content",
@@ -2053,6 +2158,11 @@
         "body": "content: '\\\\f1bd';$0",
         "description": "content",
         "prefix": "fas-deviantart"
+    },
+    "fas-dharmachakra": {
+        "body": "content: '\\\\f655';$0",
+        "description": "content",
+        "prefix": "fas-dharmachakra"
     },
     "fas-diagnoses": {
         "body": "content: '\\\\f470';$0",
@@ -2359,6 +2469,11 @@
         "description": "content",
         "prefix": "fas-empire"
     },
+    "fas-empty-set": {
+        "body": "content: '\\\\f656';$0",
+        "description": "content",
+        "prefix": "fas-empty-set"
+    },
     "fas-engine-warning": {
         "body": "content: '\\\\f5f2';$0",
         "description": "content",
@@ -2373,6 +2488,16 @@
         "body": "content: '\\\\f2b6';$0",
         "description": "content",
         "prefix": "fas-envelope-open"
+    },
+    "fas-envelope-open-dollar": {
+        "body": "content: '\\\\f657';$0",
+        "description": "content",
+        "prefix": "fas-envelope-open-dollar"
+    },
+    "fas-envelope-open-text": {
+        "body": "content: '\\\\f658';$0",
+        "description": "content",
+        "prefix": "fas-envelope-open-text"
     },
     "fas-envelope-square": {
         "body": "content: '\\\\f199';$0",
@@ -2594,6 +2719,16 @@
         "description": "content",
         "prefix": "fas-file-certificate"
     },
+    "fas-file-chart-line": {
+        "body": "content: '\\\\f659';$0",
+        "description": "content",
+        "prefix": "fas-file-chart-line"
+    },
+    "fas-file-chart-pie": {
+        "body": "content: '\\\\f65a';$0",
+        "description": "content",
+        "prefix": "fas-file-chart-pie"
+    },
     "fas-file-check": {
         "body": "content: '\\\\f316';$0",
         "description": "content",
@@ -2694,6 +2829,11 @@
         "description": "content",
         "prefix": "fas-file-signature"
     },
+    "fas-file-spreadsheet": {
+        "body": "content: '\\\\f65b';$0",
+        "description": "content",
+        "prefix": "fas-file-spreadsheet"
+    },
     "fas-file-times": {
         "body": "content: '\\\\f317';$0",
         "description": "content",
@@ -2703,6 +2843,11 @@
         "body": "content: '\\\\f574';$0",
         "description": "content",
         "prefix": "fas-file-upload"
+    },
+    "fas-file-user": {
+        "body": "content: '\\\\f65c';$0",
+        "description": "content",
+        "prefix": "fas-file-user"
     },
     "fas-file-video": {
         "body": "content: '\\\\f1c8';$0",
@@ -2824,10 +2969,30 @@
         "description": "content",
         "prefix": "fas-folder"
     },
+    "fas-folder-minus": {
+        "body": "content: '\\\\f65d';$0",
+        "description": "content",
+        "prefix": "fas-folder-minus"
+    },
     "fas-folder-open": {
         "body": "content: '\\\\f07c';$0",
         "description": "content",
         "prefix": "fas-folder-open"
+    },
+    "fas-folder-plus": {
+        "body": "content: '\\\\f65e';$0",
+        "description": "content",
+        "prefix": "fas-folder-plus"
+    },
+    "fas-folder-times": {
+        "body": "content: '\\\\f65f';$0",
+        "description": "content",
+        "prefix": "fas-folder-times"
+    },
+    "fas-folders": {
+        "body": "content: '\\\\f660';$0",
+        "description": "content",
+        "prefix": "fas-folders"
     },
     "fas-font": {
         "body": "content: '\\\\f031';$0",
@@ -2939,6 +3104,16 @@
         "description": "content",
         "prefix": "fas-fulcrum"
     },
+    "fas-function": {
+        "body": "content: '\\\\f661';$0",
+        "description": "content",
+        "prefix": "fas-function"
+    },
+    "fas-funnel-dollar": {
+        "body": "content: '\\\\f662';$0",
+        "description": "content",
+        "prefix": "fas-funnel-dollar"
+    },
     "fas-futbol": {
         "body": "content: '\\\\f1e3';$0",
         "description": "content",
@@ -3003,6 +3178,11 @@
         "body": "content: '\\\\f06b';$0",
         "description": "content",
         "prefix": "fas-gift"
+    },
+    "fas-gift-card": {
+        "body": "content: '\\\\f663';$0",
+        "description": "content",
+        "prefix": "fas-gift-card"
     },
     "fas-git": {
         "body": "content: '\\\\f1d3';$0",
@@ -3159,6 +3339,11 @@
         "description": "content",
         "prefix": "fas-google-wallet"
     },
+    "fas-gopuram": {
+        "body": "content: '\\\\f664';$0",
+        "description": "content",
+        "prefix": "fas-gopuram"
+    },
     "fas-graduation-cap": {
         "body": "content: '\\\\f19d';$0",
         "description": "content",
@@ -3314,6 +3499,11 @@
         "description": "content",
         "prefix": "fas-hackerrank"
     },
+    "fas-hamsa": {
+        "body": "content: '\\\\f665';$0",
+        "description": "content",
+        "prefix": "fas-hamsa"
+    },
     "fas-hand-heart": {
         "body": "content: '\\\\f4bc';$0",
         "description": "content",
@@ -3443,6 +3633,11 @@
         "body": "content: '\\\\f292';$0",
         "description": "content",
         "prefix": "fas-hashtag"
+    },
+    "fas-haykal": {
+        "body": "content: '\\\\f666';$0",
+        "description": "content",
+        "prefix": "fas-haykal"
     },
     "fas-hdd": {
         "body": "content: '\\\\f0a0';$0",
@@ -3714,10 +3909,20 @@
         "description": "content",
         "prefix": "fas-instagram"
     },
+    "fas-integral": {
+        "body": "content: '\\\\f667';$0",
+        "description": "content",
+        "prefix": "fas-integral"
+    },
     "fas-internet-explorer": {
         "body": "content: '\\\\f26b';$0",
         "description": "content",
         "prefix": "fas-internet-explorer"
+    },
+    "fas-intersection": {
+        "body": "content: '\\\\f668';$0",
+        "description": "content",
+        "prefix": "fas-intersection"
     },
     "fas-inventory": {
         "body": "content: '\\\\f480';$0",
@@ -3754,6 +3959,11 @@
         "description": "content",
         "prefix": "fas-java"
     },
+    "fas-jedi": {
+        "body": "content: '\\\\f669';$0",
+        "description": "content",
+        "prefix": "fas-jedi"
+    },
     "fas-jedi-order": {
         "body": "content: '\\\\f50e';$0",
         "description": "content",
@@ -3779,6 +3989,11 @@
         "description": "content",
         "prefix": "fas-joomla"
     },
+    "fas-journal-whills": {
+        "body": "content: '\\\\f66a';$0",
+        "description": "content",
+        "prefix": "fas-journal-whills"
+    },
     "fas-js": {
         "body": "content: '\\\\f3b8';$0",
         "description": "content",
@@ -3793,6 +4008,11 @@
         "body": "content: '\\\\f1cc';$0",
         "description": "content",
         "prefix": "fas-jsfiddle"
+    },
+    "fas-kaaba": {
+        "body": "content: '\\\\f66b';$0",
+        "description": "content",
+        "prefix": "fas-kaaba"
     },
     "fas-kaggle": {
         "body": "content: '\\\\f5fa';$0",
@@ -3818,6 +4038,16 @@
         "body": "content: '\\\\f3ba';$0",
         "description": "content",
         "prefix": "fas-keycdn"
+    },
+    "fas-keynote": {
+        "body": "content: '\\\\f66c';$0",
+        "description": "content",
+        "prefix": "fas-keynote"
+    },
+    "fas-khanda": {
+        "body": "content: '\\\\f66d';$0",
+        "description": "content",
+        "prefix": "fas-khanda"
     },
     "fas-kickstarter": {
         "body": "content: '\\\\f3bb';$0",
@@ -3859,10 +4089,20 @@
         "description": "content",
         "prefix": "fas-korvue"
     },
+    "fas-lambda": {
+        "body": "content: '\\\\f66e';$0",
+        "description": "content",
+        "prefix": "fas-lambda"
+    },
     "fas-lamp": {
         "body": "content: '\\\\f4ca';$0",
         "description": "content",
         "prefix": "fas-lamp"
+    },
+    "fas-landmark": {
+        "body": "content: '\\\\f66f';$0",
+        "description": "content",
+        "prefix": "fas-landmark"
     },
     "fas-language": {
         "body": "content: '\\\\f1ab';$0",
@@ -3993,6 +4233,26 @@
         "body": "content: '\\\\f0eb';$0",
         "description": "content",
         "prefix": "fas-lightbulb"
+    },
+    "fas-lightbulb-dollar": {
+        "body": "content: '\\\\f670';$0",
+        "description": "content",
+        "prefix": "fas-lightbulb-dollar"
+    },
+    "fas-lightbulb-exclamation": {
+        "body": "content: '\\\\f671';$0",
+        "description": "content",
+        "prefix": "fas-lightbulb-exclamation"
+    },
+    "fas-lightbulb-on": {
+        "body": "content: '\\\\f672';$0",
+        "description": "content",
+        "prefix": "fas-lightbulb-on"
+    },
+    "fas-lightbulb-slash": {
+        "body": "content: '\\\\f673';$0",
+        "description": "content",
+        "prefix": "fas-lightbulb-slash"
     },
     "fas-line": {
         "body": "content: '\\\\f3c0';$0",
@@ -4179,6 +4439,11 @@
         "description": "content",
         "prefix": "fas-magnet"
     },
+    "fas-mail-bulk": {
+        "body": "content: '\\\\f674';$0",
+        "description": "content",
+        "prefix": "fas-mail-bulk"
+    },
     "fas-mailchimp": {
         "body": "content: '\\\\f59e';$0",
         "description": "content",
@@ -4359,6 +4624,11 @@
         "description": "content",
         "prefix": "fas-meetup"
     },
+    "fas-megaphone": {
+        "body": "content: '\\\\f675';$0",
+        "description": "content",
+        "prefix": "fas-megaphone"
+    },
     "fas-megaport": {
         "body": "content: '\\\\f5a3';$0",
         "description": "content",
@@ -4383,6 +4653,11 @@
         "body": "content: '\\\\f538';$0",
         "description": "content",
         "prefix": "fas-memory"
+    },
+    "fas-menorah": {
+        "body": "content: '\\\\f676';$0",
+        "description": "content",
+        "prefix": "fas-menorah"
     },
     "fas-mercury": {
         "body": "content: '\\\\f223';$0",
@@ -4423,6 +4698,11 @@
         "body": "content: '\\\\f3ca';$0",
         "description": "content",
         "prefix": "fas-microsoft"
+    },
+    "fas-mind-share": {
+        "body": "content: '\\\\f677';$0",
+        "description": "content",
+        "prefix": "fas-mind-share"
     },
     "fas-minus": {
         "body": "content: '\\\\f068';$0",
@@ -4544,6 +4824,11 @@
         "description": "content",
         "prefix": "fas-mortar-pestle"
     },
+    "fas-mosque": {
+        "body": "content: '\\\\f678';$0",
+        "description": "content",
+        "prefix": "fas-mosque"
+    },
     "fas-motorcycle": {
         "body": "content: '\\\\f21c';$0",
         "description": "content",
@@ -4663,6 +4948,16 @@
         "body": "content: '\\\\f510';$0",
         "description": "content",
         "prefix": "fas-old-republic"
+    },
+    "fas-om": {
+        "body": "content: '\\\\f679';$0",
+        "description": "content",
+        "prefix": "fas-om"
+    },
+    "fas-omega": {
+        "body": "content: '\\\\f67a';$0",
+        "description": "content",
+        "prefix": "fas-omega"
     },
     "fas-opencart": {
         "body": "content: '\\\\f23d';$0",
@@ -4784,6 +5079,11 @@
         "description": "content",
         "prefix": "fas-passport"
     },
+    "fas-pastafarianism": {
+        "body": "content: '\\\\f67b';$0",
+        "description": "content",
+        "prefix": "fas-pastafarianism"
+    },
     "fas-paste": {
         "body": "content: '\\\\f0ea';$0",
         "description": "content",
@@ -4813,6 +5113,11 @@
         "body": "content: '\\\\f1ed';$0",
         "description": "content",
         "prefix": "fas-paypal"
+    },
+    "fas-peace": {
+        "body": "content: '\\\\f67c';$0",
+        "description": "content",
+        "prefix": "fas-peace"
     },
     "fas-pen": {
         "body": "content: '\\\\f304';$0",
@@ -4919,6 +5224,11 @@
         "description": "content",
         "prefix": "fas-phone"
     },
+    "fas-phone-office": {
+        "body": "content: '\\\\f67d';$0",
+        "description": "content",
+        "prefix": "fas-phone-office"
+    },
     "fas-phone-plus": {
         "body": "content: '\\\\f4d2';$0",
         "description": "content",
@@ -4943,6 +5253,11 @@
         "body": "content: '\\\\f457';$0",
         "description": "content",
         "prefix": "fas-php"
+    },
+    "fas-pi": {
+        "body": "content: '\\\\f67e';$0",
+        "description": "content",
+        "prefix": "fas-pi"
     },
     "fas-pied-piper": {
         "body": "content: '\\\\f2ae';$0",
@@ -4988,6 +5303,11 @@
         "body": "content: '\\\\f0d3';$0",
         "description": "content",
         "prefix": "fas-pinterest-square"
+    },
+    "fas-place-of-worship": {
+        "body": "content: '\\\\f67f';$0",
+        "description": "content",
+        "prefix": "fas-place-of-worship"
     },
     "fas-plane": {
         "body": "content: '\\\\f072';$0",
@@ -5059,6 +5379,21 @@
         "description": "content",
         "prefix": "fas-podcast"
     },
+    "fas-podium": {
+        "body": "content: '\\\\f680';$0",
+        "description": "content",
+        "prefix": "fas-podium"
+    },
+    "fas-poll": {
+        "body": "content: '\\\\f681';$0",
+        "description": "content",
+        "prefix": "fas-poll"
+    },
+    "fas-poll-h": {
+        "body": "content: '\\\\f682';$0",
+        "description": "content",
+        "prefix": "fas-poll-h"
+    },
     "fas-poo": {
         "body": "content: '\\\\f2fe';$0",
         "description": "content",
@@ -5084,6 +5419,16 @@
         "description": "content",
         "prefix": "fas-power-off"
     },
+    "fas-pray": {
+        "body": "content: '\\\\f683';$0",
+        "description": "content",
+        "prefix": "fas-pray"
+    },
+    "fas-praying-hands": {
+        "body": "content: '\\\\f684';$0",
+        "description": "content",
+        "prefix": "fas-praying-hands"
+    },
     "fas-prescription": {
         "body": "content: '\\\\f5b1';$0",
         "description": "content",
@@ -5099,10 +5444,20 @@
         "description": "content",
         "prefix": "fas-prescription-bottle-alt"
     },
+    "fas-presentation": {
+        "body": "content: '\\\\f685';$0",
+        "description": "content",
+        "prefix": "fas-presentation"
+    },
     "fas-print": {
         "body": "content: '\\\\f02f';$0",
         "description": "content",
         "prefix": "fas-print"
+    },
+    "fas-print-slash": {
+        "body": "content: '\\\\f686';$0",
+        "description": "content",
+        "prefix": "fas-print-slash"
     },
     "fas-procedures": {
         "body": "content: '\\\\f487';$0",
@@ -5183,6 +5538,11 @@
         "body": "content: '\\\\f10e';$0",
         "description": "content",
         "prefix": "fas-quote-right"
+    },
+    "fas-quran": {
+        "body": "content: '\\\\f687';$0",
+        "description": "content",
+        "prefix": "fas-quran"
     },
     "fas-r-project": {
         "body": "content: '\\\\f4f7';$0",
@@ -5524,6 +5884,16 @@
         "description": "content",
         "prefix": "fas-search"
     },
+    "fas-search-dollar": {
+        "body": "content: '\\\\f688';$0",
+        "description": "content",
+        "prefix": "fas-search-dollar"
+    },
+    "fas-search-location": {
+        "body": "content: '\\\\f689';$0",
+        "description": "content",
+        "prefix": "fas-search-location"
+    },
     "fas-search-minus": {
         "body": "content: '\\\\f010';$0",
         "description": "content",
@@ -5664,6 +6034,11 @@
         "description": "content",
         "prefix": "fas-shower"
     },
+    "fas-shredder": {
+        "body": "content: '\\\\f68a';$0",
+        "description": "content",
+        "prefix": "fas-shredder"
+    },
     "fas-shuttle-van": {
         "body": "content: '\\\\f5b6';$0",
         "description": "content",
@@ -5673,6 +6048,11 @@
         "body": "content: '\\\\f45b';$0",
         "description": "content",
         "prefix": "fas-shuttlecock"
+    },
+    "fas-sigma": {
+        "body": "content: '\\\\f68b';$0",
+        "description": "content",
+        "prefix": "fas-sigma"
     },
     "fas-sign": {
         "body": "content: '\\\\f4d9';$0",
@@ -5708,6 +6088,56 @@
         "body": "content: '\\\\f012';$0",
         "description": "content",
         "prefix": "fas-signal"
+    },
+    "fas-signal-1": {
+        "body": "content: '\\\\f68c';$0",
+        "description": "content",
+        "prefix": "fas-signal-1"
+    },
+    "fas-signal-2": {
+        "body": "content: '\\\\f68d';$0",
+        "description": "content",
+        "prefix": "fas-signal-2"
+    },
+    "fas-signal-3": {
+        "body": "content: '\\\\f68e';$0",
+        "description": "content",
+        "prefix": "fas-signal-3"
+    },
+    "fas-signal-4": {
+        "body": "content: '\\\\f68f';$0",
+        "description": "content",
+        "prefix": "fas-signal-4"
+    },
+    "fas-signal-alt": {
+        "body": "content: '\\\\f690';$0",
+        "description": "content",
+        "prefix": "fas-signal-alt"
+    },
+    "fas-signal-alt-1": {
+        "body": "content: '\\\\f691';$0",
+        "description": "content",
+        "prefix": "fas-signal-alt-1"
+    },
+    "fas-signal-alt-2": {
+        "body": "content: '\\\\f692';$0",
+        "description": "content",
+        "prefix": "fas-signal-alt-2"
+    },
+    "fas-signal-alt-3": {
+        "body": "content: '\\\\f693';$0",
+        "description": "content",
+        "prefix": "fas-signal-alt-3"
+    },
+    "fas-signal-alt-slash": {
+        "body": "content: '\\\\f694';$0",
+        "description": "content",
+        "prefix": "fas-signal-alt-slash"
+    },
+    "fas-signal-slash": {
+        "body": "content: '\\\\f695';$0",
+        "description": "content",
+        "prefix": "fas-signal-slash"
     },
     "fas-signature": {
         "body": "content: '\\\\f5b7';$0",
@@ -5839,6 +6269,11 @@
         "description": "content",
         "prefix": "fas-snowflake"
     },
+    "fas-socks": {
+        "body": "content: '\\\\f696';$0",
+        "description": "content",
+        "prefix": "fas-socks"
+    },
     "fas-solar-panel": {
         "body": "content: '\\\\f5ba';$0",
         "description": "content",
@@ -5949,6 +6384,16 @@
         "description": "content",
         "prefix": "fas-square-full"
     },
+    "fas-square-root": {
+        "body": "content: '\\\\f697';$0",
+        "description": "content",
+        "prefix": "fas-square-root"
+    },
+    "fas-square-root-alt": {
+        "body": "content: '\\\\f698';$0",
+        "description": "content",
+        "prefix": "fas-square-root-alt"
+    },
     "fas-squarespace": {
         "body": "content: '\\\\f5be';$0",
         "description": "content",
@@ -5974,6 +6419,11 @@
         "description": "content",
         "prefix": "fas-star"
     },
+    "fas-star-and-crescent": {
+        "body": "content: '\\\\f699';$0",
+        "description": "content",
+        "prefix": "fas-star-and-crescent"
+    },
     "fas-star-exclamation": {
         "body": "content: '\\\\f2f3';$0",
         "description": "content",
@@ -5988,6 +6438,11 @@
         "body": "content: '\\\\f5c0';$0",
         "description": "content",
         "prefix": "fas-star-half-alt"
+    },
+    "fas-star-of-david": {
+        "body": "content: '\\\\f69a';$0",
+        "description": "content",
+        "prefix": "fas-star-of-david"
     },
     "fas-star-of-life": {
         "body": "content: '\\\\f621';$0",
@@ -6184,6 +6639,11 @@
         "description": "content",
         "prefix": "fas-swimming-pool"
     },
+    "fas-synagogue": {
+        "body": "content: '\\\\f69b';$0",
+        "description": "content",
+        "prefix": "fas-synagogue"
+    },
     "fas-sync": {
         "body": "content: '\\\\f021';$0",
         "description": "content",
@@ -6309,6 +6769,11 @@
         "description": "content",
         "prefix": "fas-tags"
     },
+    "fas-tally": {
+        "body": "content: '\\\\f69c';$0",
+        "description": "content",
+        "prefix": "fas-tally"
+    },
     "fas-tape": {
         "body": "content: '\\\\f4db';$0",
         "description": "content",
@@ -6389,6 +6854,11 @@
         "description": "content",
         "prefix": "fas-th-list"
     },
+    "fas-the-red-yeti": {
+        "body": "content: '\\\\f69d';$0",
+        "description": "content",
+        "prefix": "fas-the-red-yeti"
+    },
     "fas-theater-masks": {
         "body": "content: '\\\\f630';$0",
         "description": "content",
@@ -6434,6 +6904,11 @@
         "description": "content",
         "prefix": "fas-thermometer-three-quarters"
     },
+    "fas-theta": {
+        "body": "content: '\\\\f69e';$0",
+        "description": "content",
+        "prefix": "fas-theta"
+    },
     "fas-thumbs-down": {
         "body": "content: '\\\\f165';$0",
         "description": "content",
@@ -6458,6 +6933,11 @@
         "body": "content: '\\\\f3ff';$0",
         "description": "content",
         "prefix": "fas-ticket-alt"
+    },
+    "fas-tilde": {
+        "body": "content: '\\\\f69f';$0",
+        "description": "content",
+        "prefix": "fas-tilde"
     },
     "fas-times": {
         "body": "content: '\\\\f00d';$0",
@@ -6543,6 +7023,16 @@
         "body": "content: '\\\\f635';$0",
         "description": "content",
         "prefix": "fas-toothbrush"
+    },
+    "fas-torah": {
+        "body": "content: '\\\\f6a0';$0",
+        "description": "content",
+        "prefix": "fas-torah"
+    },
+    "fas-torii-gate": {
+        "body": "content: '\\\\f6a1';$0",
+        "description": "content",
+        "prefix": "fas-torii-gate"
     },
     "fas-trade-federation": {
         "body": "content: '\\\\f513';$0",
@@ -6764,6 +7254,11 @@
         "description": "content",
         "prefix": "fas-undo-alt"
     },
+    "fas-union": {
+        "body": "content: '\\\\f6a2';$0",
+        "description": "content",
+        "prefix": "fas-union"
+    },
     "fas-uniregistry": {
         "body": "content: '\\\\f404';$0",
         "description": "content",
@@ -6839,6 +7334,11 @@
         "description": "content",
         "prefix": "fas-user-astronaut"
     },
+    "fas-user-chart": {
+        "body": "content: '\\\\f6a3';$0",
+        "description": "content",
+        "prefix": "fas-user-chart"
+    },
     "fas-user-check": {
         "body": "content: '\\\\f4fc';$0",
         "description": "content",
@@ -6858,6 +7358,11 @@
         "body": "content: '\\\\f4fe';$0",
         "description": "content",
         "prefix": "fas-user-cog"
+    },
+    "fas-user-crown": {
+        "body": "content: '\\\\f6a4';$0",
+        "description": "content",
+        "prefix": "fas-user-crown"
     },
     "fas-user-edit": {
         "body": "content: '\\\\f4ff';$0",
@@ -6944,6 +7449,11 @@
         "description": "content",
         "prefix": "fas-users-cog"
     },
+    "fas-users-crown": {
+        "body": "content: '\\\\f6a5';$0",
+        "description": "content",
+        "prefix": "fas-users-crown"
+    },
     "fas-ussunnah": {
         "body": "content: '\\\\f407';$0",
         "description": "content",
@@ -6978,6 +7488,11 @@
         "body": "content: '\\\\f408';$0",
         "description": "content",
         "prefix": "fas-vaadin"
+    },
+    "fas-value-absolute": {
+        "body": "content: '\\\\f6a6';$0",
+        "description": "content",
+        "prefix": "fas-value-absolute"
     },
     "fas-vector-square": {
         "body": "content: '\\\\f5cb';$0",
@@ -7044,6 +7559,11 @@
         "description": "content",
         "prefix": "fas-video-slash"
     },
+    "fas-vihara": {
+        "body": "content: '\\\\f6a7';$0",
+        "description": "content",
+        "prefix": "fas-vihara"
+    },
     "fas-vimeo": {
         "body": "content: '\\\\f40a';$0",
         "description": "content",
@@ -7079,13 +7599,18 @@
         "description": "content",
         "prefix": "fas-volleyball-ball"
     },
+    "fas-volume": {
+        "body": "content: '\\\\f6a8';$0",
+        "description": "content",
+        "prefix": "fas-volume"
+    },
     "fas-volume-down": {
         "body": "content: '\\\\f027';$0",
         "description": "content",
         "prefix": "fas-volume-down"
     },
     "fas-volume-mute": {
-        "body": "content: '\\\\f2e2';$0",
+        "body": "content: '\\\\f6a9';$0",
         "description": "content",
         "prefix": "fas-volume-mute"
     },
@@ -7093,6 +7618,11 @@
         "body": "content: '\\\\f026';$0",
         "description": "content",
         "prefix": "fas-volume-off"
+    },
+    "fas-volume-slash": {
+        "body": "content: '\\\\f2e2';$0",
+        "description": "content",
+        "prefix": "fas-volume-slash"
     },
     "fas-volume-up": {
         "body": "content: '\\\\f028';$0",
@@ -7188,6 +7718,21 @@
         "body": "content: '\\\\f1eb';$0",
         "description": "content",
         "prefix": "fas-wifi"
+    },
+    "fas-wifi-1": {
+        "body": "content: '\\\\f6aa';$0",
+        "description": "content",
+        "prefix": "fas-wifi-1"
+    },
+    "fas-wifi-2": {
+        "body": "content: '\\\\f6ab';$0",
+        "description": "content",
+        "prefix": "fas-wifi-2"
+    },
+    "fas-wifi-slash": {
+        "body": "content: '\\\\f6ac';$0",
+        "description": "content",
+        "prefix": "fas-wifi-slash"
     },
     "fas-wikipedia-w": {
         "body": "content: '\\\\f266';$0",
@@ -7333,6 +7878,11 @@
         "body": "content: '\\\\f157';$0",
         "description": "content",
         "prefix": "fas-yen-sign"
+    },
+    "fas-yin-yang": {
+        "body": "content: '\\\\f6ad';$0",
+        "description": "content",
+        "prefix": "fas-yin-yang"
     },
     "fas-yoast": {
         "body": "content: '\\\\f2b1';$0",

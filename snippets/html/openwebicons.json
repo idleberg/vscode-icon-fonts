@@ -529,6 +529,26 @@
         "description": "<i>",
         "prefix": "icon-mastodon-simple"
     },
+    "icon-activitypub": {
+        "body": "<${1:i} class=\"icon-activitypub$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "icon-activitypub"
+    },
+    "icon-wapuu": {
+        "body": "<${1:i} class=\"icon-wapuu$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "icon-wapuu"
+    },
+    "icon-micro-blog": {
+        "body": "<${1:i} class=\"icon-micro-blog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "icon-micro-blog"
+    },
+    "icon-indieauth": {
+        "body": "<${1:i} class=\"icon-indieauth$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "icon-indieauth"
+    },
     "icon-apml-colored": {
         "body": "<${1:i} class=\"icon-apml-colored$2\"></${1:i}>$0",
         "description": "<i>",

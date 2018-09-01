@@ -4,6 +4,11 @@
         "description": "<i>",
         "prefix": "fas-500px"
     },
+    "fas-abacus": {
+        "body": "<${1:i} class=\"fas fa-abacus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-abacus"
+    },
     "fas-accessible-icon": {
         "body": "<${1:i} class=\"fas fa-accessible-icon$2\"></${1:i}>$0",
         "description": "<i>",
@@ -13,6 +18,11 @@
         "body": "<${1:i} class=\"fas fa-accusoft$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-accusoft"
+    },
+    "fas-ad": {
+        "body": "<${1:i} class=\"fas fa-ad$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-ad"
     },
     "fas-address-book": {
         "body": "<${1:i} class=\"fas fa-address-book$2\"></${1:i}>$0",
@@ -79,6 +89,11 @@
         "description": "<i>",
         "prefix": "fas-align-right"
     },
+    "fas-alipay": {
+        "body": "<${1:i} class=\"fas fa-alipay$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-alipay"
+    },
     "fas-allergies": {
         "body": "<${1:i} class=\"fas fa-allergies$2\"></${1:i}>$0",
         "description": "<i>",
@@ -108,6 +123,11 @@
         "body": "<${1:i} class=\"fas fa-amilia$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-amilia"
+    },
+    "fas-analytics": {
+        "body": "<${1:i} class=\"fas fa-analytics$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-analytics"
     },
     "fas-anchor": {
         "body": "<${1:i} class=\"fas fa-anchor$2\"></${1:i}>$0",
@@ -178,6 +198,11 @@
         "body": "<${1:i} class=\"fas fa-angular$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-angular"
+    },
+    "fas-ankh": {
+        "body": "<${1:i} class=\"fas fa-ankh$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-ankh"
     },
     "fas-app-store": {
         "body": "<${1:i} class=\"fas fa-app-store$2\"></${1:i}>$0",
@@ -544,6 +569,16 @@
         "description": "<i>",
         "prefix": "fas-badge-check"
     },
+    "fas-badge-dollar": {
+        "body": "<${1:i} class=\"fas fa-badge-dollar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-badge-dollar"
+    },
+    "fas-badge-percent": {
+        "body": "<${1:i} class=\"fas fa-badge-percent$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-badge-percent"
+    },
     "fas-balance-scale": {
         "body": "<${1:i} class=\"fas fa-balance-scale$2\"></${1:i}>$0",
         "description": "<i>",
@@ -703,6 +738,11 @@
         "body": "<${1:i} class=\"fas fa-bezier-curve$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-bezier-curve"
+    },
+    "fas-bible": {
+        "body": "<${1:i} class=\"fas fa-bible$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-bible"
     },
     "fas-bicycle": {
         "body": "<${1:i} class=\"fas fa-bicycle$2\"></${1:i}>$0",
@@ -984,6 +1024,16 @@
         "description": "<i>",
         "prefix": "fas-bullseye"
     },
+    "fas-bullseye-arrow": {
+        "body": "<${1:i} class=\"fas fa-bullseye-arrow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-bullseye-arrow"
+    },
+    "fas-bullseye-pointer": {
+        "body": "<${1:i} class=\"fas fa-bullseye-pointer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-bullseye-pointer"
+    },
     "fas-burn": {
         "body": "<${1:i} class=\"fas fa-burn$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1009,15 +1059,30 @@
         "description": "<i>",
         "prefix": "fas-bus-school"
     },
+    "fas-business-time": {
+        "body": "<${1:i} class=\"fas fa-business-time$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-business-time"
+    },
     "fas-buysellads": {
         "body": "<${1:i} class=\"fas fa-buysellads$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-buysellads"
     },
+    "fas-cabinet-filing": {
+        "body": "<${1:i} class=\"fas fa-cabinet-filing$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-cabinet-filing"
+    },
     "fas-calculator": {
         "body": "<${1:i} class=\"fas fa-calculator$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-calculator"
+    },
+    "fas-calculator-alt": {
+        "body": "<${1:i} class=\"fas fa-calculator-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-calculator-alt"
     },
     "fas-calendar": {
         "body": "<${1:i} class=\"fas fa-calendar$2\"></${1:i}>$0",
@@ -1294,10 +1359,20 @@
         "description": "<i>",
         "prefix": "fas-chart-line"
     },
+    "fas-chart-line-down": {
+        "body": "<${1:i} class=\"fas fa-chart-line-down$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-chart-line-down"
+    },
     "fas-chart-pie": {
         "body": "<${1:i} class=\"fas fa-chart-pie$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-chart-pie"
+    },
+    "fas-chart-pie-alt": {
+        "body": "<${1:i} class=\"fas fa-chart-pie-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-chart-pie-alt"
     },
     "fas-check": {
         "body": "<${1:i} class=\"fas fa-check$2\"></${1:i}>$0",
@@ -1504,6 +1579,11 @@
         "description": "<i>",
         "prefix": "fas-circle-notch"
     },
+    "fas-city": {
+        "body": "<${1:i} class=\"fas fa-city$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-city"
+    },
     "fas-clipboard": {
         "body": "<${1:i} class=\"fas fa-clipboard$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1659,6 +1739,11 @@
         "description": "<i>",
         "prefix": "fas-comment-alt-check"
     },
+    "fas-comment-alt-dollar": {
+        "body": "<${1:i} class=\"fas fa-comment-alt-dollar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-comment-alt-dollar"
+    },
     "fas-comment-alt-dots": {
         "body": "<${1:i} class=\"fas fa-comment-alt-dots$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1708,6 +1793,11 @@
         "body": "<${1:i} class=\"fas fa-comment-check$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-comment-check"
+    },
+    "fas-comment-dollar": {
+        "body": "<${1:i} class=\"fas fa-comment-dollar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-comment-dollar"
     },
     "fas-comment-dots": {
         "body": "<${1:i} class=\"fas fa-comment-dots$2\"></${1:i}>$0",
@@ -1763,6 +1853,16 @@
         "body": "<${1:i} class=\"fas fa-comments-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-comments-alt"
+    },
+    "fas-comments-alt-dollar": {
+        "body": "<${1:i} class=\"fas fa-comments-alt-dollar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-comments-alt-dollar"
+    },
+    "fas-comments-dollar": {
+        "body": "<${1:i} class=\"fas fa-comments-dollar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-comments-dollar"
     },
     "fas-compact-disc": {
         "body": "<${1:i} class=\"fas fa-compact-disc$2\"></${1:i}>$0",
@@ -1954,6 +2054,11 @@
         "description": "<i>",
         "prefix": "fas-crop-alt"
     },
+    "fas-cross": {
+        "body": "<${1:i} class=\"fas fa-cross$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-cross"
+    },
     "fas-crosshairs": {
         "body": "<${1:i} class=\"fas fa-crosshairs$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2053,6 +2158,11 @@
         "body": "<${1:i} class=\"fas fa-deviantart$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-deviantart"
+    },
+    "fas-dharmachakra": {
+        "body": "<${1:i} class=\"fas fa-dharmachakra$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-dharmachakra"
     },
     "fas-diagnoses": {
         "body": "<${1:i} class=\"fas fa-diagnoses$2\"></${1:i}>$0",
@@ -2359,6 +2469,11 @@
         "description": "<i>",
         "prefix": "fas-empire"
     },
+    "fas-empty-set": {
+        "body": "<${1:i} class=\"fas fa-empty-set$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-empty-set"
+    },
     "fas-engine-warning": {
         "body": "<${1:i} class=\"fas fa-engine-warning$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2373,6 +2488,16 @@
         "body": "<${1:i} class=\"fas fa-envelope-open$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-envelope-open"
+    },
+    "fas-envelope-open-dollar": {
+        "body": "<${1:i} class=\"fas fa-envelope-open-dollar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-envelope-open-dollar"
+    },
+    "fas-envelope-open-text": {
+        "body": "<${1:i} class=\"fas fa-envelope-open-text$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-envelope-open-text"
     },
     "fas-envelope-square": {
         "body": "<${1:i} class=\"fas fa-envelope-square$2\"></${1:i}>$0",
@@ -2594,6 +2719,16 @@
         "description": "<i>",
         "prefix": "fas-file-certificate"
     },
+    "fas-file-chart-line": {
+        "body": "<${1:i} class=\"fas fa-file-chart-line$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-file-chart-line"
+    },
+    "fas-file-chart-pie": {
+        "body": "<${1:i} class=\"fas fa-file-chart-pie$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-file-chart-pie"
+    },
     "fas-file-check": {
         "body": "<${1:i} class=\"fas fa-file-check$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2694,6 +2829,11 @@
         "description": "<i>",
         "prefix": "fas-file-signature"
     },
+    "fas-file-spreadsheet": {
+        "body": "<${1:i} class=\"fas fa-file-spreadsheet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-file-spreadsheet"
+    },
     "fas-file-times": {
         "body": "<${1:i} class=\"fas fa-file-times$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2703,6 +2843,11 @@
         "body": "<${1:i} class=\"fas fa-file-upload$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-file-upload"
+    },
+    "fas-file-user": {
+        "body": "<${1:i} class=\"fas fa-file-user$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-file-user"
     },
     "fas-file-video": {
         "body": "<${1:i} class=\"fas fa-file-video$2\"></${1:i}>$0",
@@ -2824,10 +2969,30 @@
         "description": "<i>",
         "prefix": "fas-folder"
     },
+    "fas-folder-minus": {
+        "body": "<${1:i} class=\"fas fa-folder-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-folder-minus"
+    },
     "fas-folder-open": {
         "body": "<${1:i} class=\"fas fa-folder-open$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-folder-open"
+    },
+    "fas-folder-plus": {
+        "body": "<${1:i} class=\"fas fa-folder-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-folder-plus"
+    },
+    "fas-folder-times": {
+        "body": "<${1:i} class=\"fas fa-folder-times$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-folder-times"
+    },
+    "fas-folders": {
+        "body": "<${1:i} class=\"fas fa-folders$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-folders"
     },
     "fas-font": {
         "body": "<${1:i} class=\"fas fa-font$2\"></${1:i}>$0",
@@ -2939,6 +3104,16 @@
         "description": "<i>",
         "prefix": "fas-fulcrum"
     },
+    "fas-function": {
+        "body": "<${1:i} class=\"fas fa-function$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-function"
+    },
+    "fas-funnel-dollar": {
+        "body": "<${1:i} class=\"fas fa-funnel-dollar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-funnel-dollar"
+    },
     "fas-futbol": {
         "body": "<${1:i} class=\"fas fa-futbol$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3003,6 +3178,11 @@
         "body": "<${1:i} class=\"fas fa-gift$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-gift"
+    },
+    "fas-gift-card": {
+        "body": "<${1:i} class=\"fas fa-gift-card$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-gift-card"
     },
     "fas-git": {
         "body": "<${1:i} class=\"fas fa-git$2\"></${1:i}>$0",
@@ -3159,6 +3339,11 @@
         "description": "<i>",
         "prefix": "fas-google-wallet"
     },
+    "fas-gopuram": {
+        "body": "<${1:i} class=\"fas fa-gopuram$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-gopuram"
+    },
     "fas-graduation-cap": {
         "body": "<${1:i} class=\"fas fa-graduation-cap$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3314,6 +3499,11 @@
         "description": "<i>",
         "prefix": "fas-hackerrank"
     },
+    "fas-hamsa": {
+        "body": "<${1:i} class=\"fas fa-hamsa$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-hamsa"
+    },
     "fas-hand-heart": {
         "body": "<${1:i} class=\"fas fa-hand-heart$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3443,6 +3633,11 @@
         "body": "<${1:i} class=\"fas fa-hashtag$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-hashtag"
+    },
+    "fas-haykal": {
+        "body": "<${1:i} class=\"fas fa-haykal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-haykal"
     },
     "fas-hdd": {
         "body": "<${1:i} class=\"fas fa-hdd$2\"></${1:i}>$0",
@@ -3714,10 +3909,20 @@
         "description": "<i>",
         "prefix": "fas-instagram"
     },
+    "fas-integral": {
+        "body": "<${1:i} class=\"fas fa-integral$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-integral"
+    },
     "fas-internet-explorer": {
         "body": "<${1:i} class=\"fas fa-internet-explorer$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-internet-explorer"
+    },
+    "fas-intersection": {
+        "body": "<${1:i} class=\"fas fa-intersection$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-intersection"
     },
     "fas-inventory": {
         "body": "<${1:i} class=\"fas fa-inventory$2\"></${1:i}>$0",
@@ -3754,6 +3959,11 @@
         "description": "<i>",
         "prefix": "fas-java"
     },
+    "fas-jedi": {
+        "body": "<${1:i} class=\"fas fa-jedi$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-jedi"
+    },
     "fas-jedi-order": {
         "body": "<${1:i} class=\"fas fa-jedi-order$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3779,6 +3989,11 @@
         "description": "<i>",
         "prefix": "fas-joomla"
     },
+    "fas-journal-whills": {
+        "body": "<${1:i} class=\"fas fa-journal-whills$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-journal-whills"
+    },
     "fas-js": {
         "body": "<${1:i} class=\"fas fa-js$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3793,6 +4008,11 @@
         "body": "<${1:i} class=\"fas fa-jsfiddle$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-jsfiddle"
+    },
+    "fas-kaaba": {
+        "body": "<${1:i} class=\"fas fa-kaaba$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-kaaba"
     },
     "fas-kaggle": {
         "body": "<${1:i} class=\"fas fa-kaggle$2\"></${1:i}>$0",
@@ -3818,6 +4038,16 @@
         "body": "<${1:i} class=\"fas fa-keycdn$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-keycdn"
+    },
+    "fas-keynote": {
+        "body": "<${1:i} class=\"fas fa-keynote$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-keynote"
+    },
+    "fas-khanda": {
+        "body": "<${1:i} class=\"fas fa-khanda$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-khanda"
     },
     "fas-kickstarter": {
         "body": "<${1:i} class=\"fas fa-kickstarter$2\"></${1:i}>$0",
@@ -3859,10 +4089,20 @@
         "description": "<i>",
         "prefix": "fas-korvue"
     },
+    "fas-lambda": {
+        "body": "<${1:i} class=\"fas fa-lambda$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-lambda"
+    },
     "fas-lamp": {
         "body": "<${1:i} class=\"fas fa-lamp$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-lamp"
+    },
+    "fas-landmark": {
+        "body": "<${1:i} class=\"fas fa-landmark$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-landmark"
     },
     "fas-language": {
         "body": "<${1:i} class=\"fas fa-language$2\"></${1:i}>$0",
@@ -3993,6 +4233,26 @@
         "body": "<${1:i} class=\"fas fa-lightbulb$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-lightbulb"
+    },
+    "fas-lightbulb-dollar": {
+        "body": "<${1:i} class=\"fas fa-lightbulb-dollar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-lightbulb-dollar"
+    },
+    "fas-lightbulb-exclamation": {
+        "body": "<${1:i} class=\"fas fa-lightbulb-exclamation$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-lightbulb-exclamation"
+    },
+    "fas-lightbulb-on": {
+        "body": "<${1:i} class=\"fas fa-lightbulb-on$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-lightbulb-on"
+    },
+    "fas-lightbulb-slash": {
+        "body": "<${1:i} class=\"fas fa-lightbulb-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-lightbulb-slash"
     },
     "fas-line": {
         "body": "<${1:i} class=\"fas fa-line$2\"></${1:i}>$0",
@@ -4179,6 +4439,11 @@
         "description": "<i>",
         "prefix": "fas-magnet"
     },
+    "fas-mail-bulk": {
+        "body": "<${1:i} class=\"fas fa-mail-bulk$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-mail-bulk"
+    },
     "fas-mailchimp": {
         "body": "<${1:i} class=\"fas fa-mailchimp$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4359,6 +4624,11 @@
         "description": "<i>",
         "prefix": "fas-meetup"
     },
+    "fas-megaphone": {
+        "body": "<${1:i} class=\"fas fa-megaphone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-megaphone"
+    },
     "fas-megaport": {
         "body": "<${1:i} class=\"fas fa-megaport$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4383,6 +4653,11 @@
         "body": "<${1:i} class=\"fas fa-memory$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-memory"
+    },
+    "fas-menorah": {
+        "body": "<${1:i} class=\"fas fa-menorah$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-menorah"
     },
     "fas-mercury": {
         "body": "<${1:i} class=\"fas fa-mercury$2\"></${1:i}>$0",
@@ -4423,6 +4698,11 @@
         "body": "<${1:i} class=\"fas fa-microsoft$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-microsoft"
+    },
+    "fas-mind-share": {
+        "body": "<${1:i} class=\"fas fa-mind-share$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-mind-share"
     },
     "fas-minus": {
         "body": "<${1:i} class=\"fas fa-minus$2\"></${1:i}>$0",
@@ -4544,6 +4824,11 @@
         "description": "<i>",
         "prefix": "fas-mortar-pestle"
     },
+    "fas-mosque": {
+        "body": "<${1:i} class=\"fas fa-mosque$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-mosque"
+    },
     "fas-motorcycle": {
         "body": "<${1:i} class=\"fas fa-motorcycle$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4663,6 +4948,16 @@
         "body": "<${1:i} class=\"fas fa-old-republic$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-old-republic"
+    },
+    "fas-om": {
+        "body": "<${1:i} class=\"fas fa-om$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-om"
+    },
+    "fas-omega": {
+        "body": "<${1:i} class=\"fas fa-omega$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-omega"
     },
     "fas-opencart": {
         "body": "<${1:i} class=\"fas fa-opencart$2\"></${1:i}>$0",
@@ -4784,6 +5079,11 @@
         "description": "<i>",
         "prefix": "fas-passport"
     },
+    "fas-pastafarianism": {
+        "body": "<${1:i} class=\"fas fa-pastafarianism$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-pastafarianism"
+    },
     "fas-paste": {
         "body": "<${1:i} class=\"fas fa-paste$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4813,6 +5113,11 @@
         "body": "<${1:i} class=\"fas fa-paypal$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-paypal"
+    },
+    "fas-peace": {
+        "body": "<${1:i} class=\"fas fa-peace$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-peace"
     },
     "fas-pen": {
         "body": "<${1:i} class=\"fas fa-pen$2\"></${1:i}>$0",
@@ -4919,6 +5224,11 @@
         "description": "<i>",
         "prefix": "fas-phone"
     },
+    "fas-phone-office": {
+        "body": "<${1:i} class=\"fas fa-phone-office$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-phone-office"
+    },
     "fas-phone-plus": {
         "body": "<${1:i} class=\"fas fa-phone-plus$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4943,6 +5253,11 @@
         "body": "<${1:i} class=\"fas fa-php$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-php"
+    },
+    "fas-pi": {
+        "body": "<${1:i} class=\"fas fa-pi$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-pi"
     },
     "fas-pied-piper": {
         "body": "<${1:i} class=\"fas fa-pied-piper$2\"></${1:i}>$0",
@@ -4988,6 +5303,11 @@
         "body": "<${1:i} class=\"fas fa-pinterest-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-pinterest-square"
+    },
+    "fas-place-of-worship": {
+        "body": "<${1:i} class=\"fas fa-place-of-worship$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-place-of-worship"
     },
     "fas-plane": {
         "body": "<${1:i} class=\"fas fa-plane$2\"></${1:i}>$0",
@@ -5059,6 +5379,21 @@
         "description": "<i>",
         "prefix": "fas-podcast"
     },
+    "fas-podium": {
+        "body": "<${1:i} class=\"fas fa-podium$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-podium"
+    },
+    "fas-poll": {
+        "body": "<${1:i} class=\"fas fa-poll$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-poll"
+    },
+    "fas-poll-h": {
+        "body": "<${1:i} class=\"fas fa-poll-h$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-poll-h"
+    },
     "fas-poo": {
         "body": "<${1:i} class=\"fas fa-poo$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5084,6 +5419,16 @@
         "description": "<i>",
         "prefix": "fas-power-off"
     },
+    "fas-pray": {
+        "body": "<${1:i} class=\"fas fa-pray$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-pray"
+    },
+    "fas-praying-hands": {
+        "body": "<${1:i} class=\"fas fa-praying-hands$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-praying-hands"
+    },
     "fas-prescription": {
         "body": "<${1:i} class=\"fas fa-prescription$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5099,10 +5444,20 @@
         "description": "<i>",
         "prefix": "fas-prescription-bottle-alt"
     },
+    "fas-presentation": {
+        "body": "<${1:i} class=\"fas fa-presentation$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-presentation"
+    },
     "fas-print": {
         "body": "<${1:i} class=\"fas fa-print$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-print"
+    },
+    "fas-print-slash": {
+        "body": "<${1:i} class=\"fas fa-print-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-print-slash"
     },
     "fas-procedures": {
         "body": "<${1:i} class=\"fas fa-procedures$2\"></${1:i}>$0",
@@ -5183,6 +5538,11 @@
         "body": "<${1:i} class=\"fas fa-quote-right$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-quote-right"
+    },
+    "fas-quran": {
+        "body": "<${1:i} class=\"fas fa-quran$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-quran"
     },
     "fas-r-project": {
         "body": "<${1:i} class=\"fas fa-r-project$2\"></${1:i}>$0",
@@ -5524,6 +5884,16 @@
         "description": "<i>",
         "prefix": "fas-search"
     },
+    "fas-search-dollar": {
+        "body": "<${1:i} class=\"fas fa-search-dollar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-search-dollar"
+    },
+    "fas-search-location": {
+        "body": "<${1:i} class=\"fas fa-search-location$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-search-location"
+    },
     "fas-search-minus": {
         "body": "<${1:i} class=\"fas fa-search-minus$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5664,6 +6034,11 @@
         "description": "<i>",
         "prefix": "fas-shower"
     },
+    "fas-shredder": {
+        "body": "<${1:i} class=\"fas fa-shredder$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-shredder"
+    },
     "fas-shuttle-van": {
         "body": "<${1:i} class=\"fas fa-shuttle-van$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5673,6 +6048,11 @@
         "body": "<${1:i} class=\"fas fa-shuttlecock$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-shuttlecock"
+    },
+    "fas-sigma": {
+        "body": "<${1:i} class=\"fas fa-sigma$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-sigma"
     },
     "fas-sign": {
         "body": "<${1:i} class=\"fas fa-sign$2\"></${1:i}>$0",
@@ -5708,6 +6088,56 @@
         "body": "<${1:i} class=\"fas fa-signal$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-signal"
+    },
+    "fas-signal-1": {
+        "body": "<${1:i} class=\"fas fa-signal-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-signal-1"
+    },
+    "fas-signal-2": {
+        "body": "<${1:i} class=\"fas fa-signal-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-signal-2"
+    },
+    "fas-signal-3": {
+        "body": "<${1:i} class=\"fas fa-signal-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-signal-3"
+    },
+    "fas-signal-4": {
+        "body": "<${1:i} class=\"fas fa-signal-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-signal-4"
+    },
+    "fas-signal-alt": {
+        "body": "<${1:i} class=\"fas fa-signal-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-signal-alt"
+    },
+    "fas-signal-alt-1": {
+        "body": "<${1:i} class=\"fas fa-signal-alt-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-signal-alt-1"
+    },
+    "fas-signal-alt-2": {
+        "body": "<${1:i} class=\"fas fa-signal-alt-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-signal-alt-2"
+    },
+    "fas-signal-alt-3": {
+        "body": "<${1:i} class=\"fas fa-signal-alt-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-signal-alt-3"
+    },
+    "fas-signal-alt-slash": {
+        "body": "<${1:i} class=\"fas fa-signal-alt-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-signal-alt-slash"
+    },
+    "fas-signal-slash": {
+        "body": "<${1:i} class=\"fas fa-signal-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-signal-slash"
     },
     "fas-signature": {
         "body": "<${1:i} class=\"fas fa-signature$2\"></${1:i}>$0",
@@ -5839,6 +6269,11 @@
         "description": "<i>",
         "prefix": "fas-snowflake"
     },
+    "fas-socks": {
+        "body": "<${1:i} class=\"fas fa-socks$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-socks"
+    },
     "fas-solar-panel": {
         "body": "<${1:i} class=\"fas fa-solar-panel$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5949,6 +6384,16 @@
         "description": "<i>",
         "prefix": "fas-square-full"
     },
+    "fas-square-root": {
+        "body": "<${1:i} class=\"fas fa-square-root$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-square-root"
+    },
+    "fas-square-root-alt": {
+        "body": "<${1:i} class=\"fas fa-square-root-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-square-root-alt"
+    },
     "fas-squarespace": {
         "body": "<${1:i} class=\"fas fa-squarespace$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5974,6 +6419,11 @@
         "description": "<i>",
         "prefix": "fas-star"
     },
+    "fas-star-and-crescent": {
+        "body": "<${1:i} class=\"fas fa-star-and-crescent$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-star-and-crescent"
+    },
     "fas-star-exclamation": {
         "body": "<${1:i} class=\"fas fa-star-exclamation$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5988,6 +6438,11 @@
         "body": "<${1:i} class=\"fas fa-star-half-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-star-half-alt"
+    },
+    "fas-star-of-david": {
+        "body": "<${1:i} class=\"fas fa-star-of-david$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-star-of-david"
     },
     "fas-star-of-life": {
         "body": "<${1:i} class=\"fas fa-star-of-life$2\"></${1:i}>$0",
@@ -6184,6 +6639,11 @@
         "description": "<i>",
         "prefix": "fas-swimming-pool"
     },
+    "fas-synagogue": {
+        "body": "<${1:i} class=\"fas fa-synagogue$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-synagogue"
+    },
     "fas-sync": {
         "body": "<${1:i} class=\"fas fa-sync$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6309,6 +6769,11 @@
         "description": "<i>",
         "prefix": "fas-tags"
     },
+    "fas-tally": {
+        "body": "<${1:i} class=\"fas fa-tally$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tally"
+    },
     "fas-tape": {
         "body": "<${1:i} class=\"fas fa-tape$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6389,6 +6854,11 @@
         "description": "<i>",
         "prefix": "fas-th-list"
     },
+    "fas-the-red-yeti": {
+        "body": "<${1:i} class=\"fas fa-the-red-yeti$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-the-red-yeti"
+    },
     "fas-theater-masks": {
         "body": "<${1:i} class=\"fas fa-theater-masks$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6434,6 +6904,11 @@
         "description": "<i>",
         "prefix": "fas-thermometer-three-quarters"
     },
+    "fas-theta": {
+        "body": "<${1:i} class=\"fas fa-theta$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-theta"
+    },
     "fas-thumbs-down": {
         "body": "<${1:i} class=\"fas fa-thumbs-down$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6458,6 +6933,11 @@
         "body": "<${1:i} class=\"fas fa-ticket-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-ticket-alt"
+    },
+    "fas-tilde": {
+        "body": "<${1:i} class=\"fas fa-tilde$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-tilde"
     },
     "fas-times": {
         "body": "<${1:i} class=\"fas fa-times$2\"></${1:i}>$0",
@@ -6543,6 +7023,16 @@
         "body": "<${1:i} class=\"fas fa-toothbrush$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-toothbrush"
+    },
+    "fas-torah": {
+        "body": "<${1:i} class=\"fas fa-torah$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-torah"
+    },
+    "fas-torii-gate": {
+        "body": "<${1:i} class=\"fas fa-torii-gate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-torii-gate"
     },
     "fas-trade-federation": {
         "body": "<${1:i} class=\"fas fa-trade-federation$2\"></${1:i}>$0",
@@ -6764,6 +7254,11 @@
         "description": "<i>",
         "prefix": "fas-undo-alt"
     },
+    "fas-union": {
+        "body": "<${1:i} class=\"fas fa-union$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-union"
+    },
     "fas-uniregistry": {
         "body": "<${1:i} class=\"fas fa-uniregistry$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6839,6 +7334,11 @@
         "description": "<i>",
         "prefix": "fas-user-astronaut"
     },
+    "fas-user-chart": {
+        "body": "<${1:i} class=\"fas fa-user-chart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-user-chart"
+    },
     "fas-user-check": {
         "body": "<${1:i} class=\"fas fa-user-check$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6858,6 +7358,11 @@
         "body": "<${1:i} class=\"fas fa-user-cog$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-user-cog"
+    },
+    "fas-user-crown": {
+        "body": "<${1:i} class=\"fas fa-user-crown$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-user-crown"
     },
     "fas-user-edit": {
         "body": "<${1:i} class=\"fas fa-user-edit$2\"></${1:i}>$0",
@@ -6944,6 +7449,11 @@
         "description": "<i>",
         "prefix": "fas-users-cog"
     },
+    "fas-users-crown": {
+        "body": "<${1:i} class=\"fas fa-users-crown$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-users-crown"
+    },
     "fas-ussunnah": {
         "body": "<${1:i} class=\"fas fa-ussunnah$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6978,6 +7488,11 @@
         "body": "<${1:i} class=\"fas fa-vaadin$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-vaadin"
+    },
+    "fas-value-absolute": {
+        "body": "<${1:i} class=\"fas fa-value-absolute$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-value-absolute"
     },
     "fas-vector-square": {
         "body": "<${1:i} class=\"fas fa-vector-square$2\"></${1:i}>$0",
@@ -7044,6 +7559,11 @@
         "description": "<i>",
         "prefix": "fas-video-slash"
     },
+    "fas-vihara": {
+        "body": "<${1:i} class=\"fas fa-vihara$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-vihara"
+    },
     "fas-vimeo": {
         "body": "<${1:i} class=\"fas fa-vimeo$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7079,6 +7599,11 @@
         "description": "<i>",
         "prefix": "fas-volleyball-ball"
     },
+    "fas-volume": {
+        "body": "<${1:i} class=\"fas fa-volume$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-volume"
+    },
     "fas-volume-down": {
         "body": "<${1:i} class=\"fas fa-volume-down$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7093,6 +7618,11 @@
         "body": "<${1:i} class=\"fas fa-volume-off$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-volume-off"
+    },
+    "fas-volume-slash": {
+        "body": "<${1:i} class=\"fas fa-volume-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-volume-slash"
     },
     "fas-volume-up": {
         "body": "<${1:i} class=\"fas fa-volume-up$2\"></${1:i}>$0",
@@ -7188,6 +7718,21 @@
         "body": "<${1:i} class=\"fas fa-wifi$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-wifi"
+    },
+    "fas-wifi-1": {
+        "body": "<${1:i} class=\"fas fa-wifi-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-wifi-1"
+    },
+    "fas-wifi-2": {
+        "body": "<${1:i} class=\"fas fa-wifi-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-wifi-2"
+    },
+    "fas-wifi-slash": {
+        "body": "<${1:i} class=\"fas fa-wifi-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-wifi-slash"
     },
     "fas-wikipedia-w": {
         "body": "<${1:i} class=\"fas fa-wikipedia-w$2\"></${1:i}>$0",
@@ -7333,6 +7878,11 @@
         "body": "<${1:i} class=\"fas fa-yen-sign$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-yen-sign"
+    },
+    "fas-yin-yang": {
+        "body": "<${1:i} class=\"fas fa-yin-yang$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-yin-yang"
     },
     "fas-yoast": {
         "body": "<${1:i} class=\"fas fa-yoast$2\"></${1:i}>$0",

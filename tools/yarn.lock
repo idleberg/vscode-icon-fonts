@@ -36,15 +36,15 @@
   version "2.0.0"
   resolved "https://codeload.github.com/reduxframework/Elusive-Icons/tar.gz/5ddd9167c8479ec07b78f3ba7150dc4ad32cc7bc"
 
-"__fa@github:FortAwesome/Font-Awesome-Pro#5.2.0":
-  version "5.2.0"
-  resolved "git+ssh://git@github.com/FortAwesome/Font-Awesome-Pro.git#38d24e9b6fdc2181c95311ee2874e1fafdfa1e91"
+"__fa@github:FortAwesome/Font-Awesome-Pro#5.3.1":
+  version "5.3.1"
+  resolved "git+ssh://git@github.com/FortAwesome/Font-Awesome-Pro.git#7c53f137de761811e8fe5c4cf86c04648edf2c3b"
 
 "__fi@github:zurb/foundation-icons":
   version "0.0.0"
   resolved "https://codeload.github.com/zurb/foundation-icons/tar.gz/74f63dc35d569a8b796e86add76a0a535f96f734"
 
-"__fl@github:Lukas-W/font-logos":
+"__fl@github:Lukas-W/font-logos#v0.11":
   version "0.11.0"
   resolved "https://codeload.github.com/Lukas-W/font-logos/tar.gz/aaefe3838321b48a28ca49e6bfbee1abd02cdfd2"
 
@@ -60,9 +60,9 @@
   version "0.0.0"
   resolved "https://codeload.github.com/driftyco/ionicons/tar.gz/ecb4b806831005c25b97ed9089fbb1d7dcc0879c"
 
-"__mdi@github:Templarian/MaterialDesign-Webfont#2.4.85":
-  version "2.4.85"
-  resolved "https://codeload.github.com/Templarian/MaterialDesign-Webfont/tar.gz/4522fb600552363856e57f89adb6ce3c35ae96e2"
+"__mdi@github:Templarian/MaterialDesign-Webfont#2.6.95":
+  version "2.6.95"
+  resolved "https://codeload.github.com/Templarian/MaterialDesign-Webfont/tar.gz/20ce88a96a6a8fb88fc2b46e02bf60a1f715d145"
 
 "__mfg@github:MfgLabs/mfglabs-iconset":
   version "0.0.0"
@@ -80,9 +80,9 @@
   version "0.0.0"
   resolved "https://codeload.github.com/iconic/open-iconic/tar.gz/4e06aec1765b63e01f670c53ed892fe82d56ff15"
 
-"__openwebicons@github:pfefferle/openwebicons#1.4.3":
-  version "1.4.3"
-  resolved "https://codeload.github.com/pfefferle/openwebicons/tar.gz/7f2054a915f7750fab2deb63540dceb7c47a71b9"
+"__openwebicons@github:pfefferle/openwebicons#1.5.0":
+  version "1.5.0"
+  resolved "https://codeload.github.com/pfefferle/openwebicons/tar.gz/bbcffd5b53b6cd6d81289b7b110a9fb8c97acbaf"
 
 "__pf@github:vendocrat/PaymentFont#1.2.5":
   version "1.2.5"

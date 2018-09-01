@@ -1,3 +1,9 @@
+# v2.1.2 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.1.2)
+
+- bump Font Awesome Pro to v5.3.1
+- bump MaterialDesign-Webfont to v2.6.95
+- bump OpenWebIcons v1.5.0
+
 # v2.1.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.1.1)
 
 - bump Font Awesome Pro to v5.2.0

@@ -19,6 +19,16 @@
         "description": "<i>",
         "prefix": "fab-accusoft"
     },
+    "fab-acorn": {
+        "body": "<${1:i} className=\"fab fab-acorn$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-acorn"
+    },
+    "fab-acquisitions-incorporated": {
+        "body": "<${1:i} className=\"fab fab-acquisitions-incorporated$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-acquisitions-incorporated"
+    },
     "fab-ad": {
         "body": "<${1:i} className=\"fab fab-ad$2\"></${1:i}>$0",
         "description": "<i>",
@@ -68,6 +78,11 @@
         "body": "<${1:i} className=\"fab fab-algolia$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-algolia"
+    },
+    "fab-alicorn": {
+        "body": "<${1:i} className=\"fab fab-alicorn$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-alicorn"
     },
     "fab-align-center": {
         "body": "<${1:i} className=\"fab fab-align-center$2\"></${1:i}>$0",
@@ -228,6 +243,11 @@
         "body": "<${1:i} className=\"fab fab-apple-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-apple-alt"
+    },
+    "fab-apple-crate": {
+        "body": "<${1:i} className=\"fab fab-apple-crate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-apple-crate"
     },
     "fab-apple-pay": {
         "body": "<${1:i} className=\"fab fab-apple-pay$2\"></${1:i}>$0",
@@ -544,6 +564,16 @@
         "description": "<i>",
         "prefix": "fab-aws"
     },
+    "fab-axe": {
+        "body": "<${1:i} className=\"fab fab-axe$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-axe"
+    },
+    "fab-axe-battle": {
+        "body": "<${1:i} className=\"fab fab-axe-battle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-axe-battle"
+    },
     "fab-backpack": {
         "body": "<${1:i} className=\"fab fab-backpack$2\"></${1:i}>$0",
         "description": "<i>",
@@ -579,6 +609,11 @@
         "description": "<i>",
         "prefix": "fab-badge-percent"
     },
+    "fab-badger-honey": {
+        "body": "<${1:i} className=\"fab fab-badger-honey$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-badger-honey"
+    },
     "fab-balance-scale": {
         "body": "<${1:i} className=\"fab fab-balance-scale$2\"></${1:i}>$0",
         "description": "<i>",
@@ -593,6 +628,16 @@
         "body": "<${1:i} className=\"fab fab-balance-scale-right$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-balance-scale-right"
+    },
+    "fab-ballot": {
+        "body": "<${1:i} className=\"fab fab-ballot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ballot"
+    },
+    "fab-ballot-check": {
+        "body": "<${1:i} className=\"fab fab-ballot-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ballot-check"
     },
     "fab-ban": {
         "body": "<${1:i} className=\"fab fab-ban$2\"></${1:i}>$0",
@@ -653,6 +698,11 @@
         "body": "<${1:i} className=\"fab fab-basketball-hoop$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-basketball-hoop"
+    },
+    "fab-bat": {
+        "body": "<${1:i} className=\"fab fab-bat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-bat"
     },
     "fab-bath": {
         "body": "<${1:i} className=\"fab fab-bath$2\"></${1:i}>$0",
@@ -799,6 +849,11 @@
         "description": "<i>",
         "prefix": "fab-blender"
     },
+    "fab-blender-phone": {
+        "body": "<${1:i} className=\"fab fab-blender-phone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-blender-phone"
+    },
     "fab-blind": {
         "body": "<${1:i} className=\"fab fab-blind$2\"></${1:i}>$0",
         "description": "<i>",
@@ -864,6 +919,11 @@
         "description": "<i>",
         "prefix": "fab-book-alt"
     },
+    "fab-book-dead": {
+        "body": "<${1:i} className=\"fab fab-book-dead$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-book-dead"
+    },
     "fab-book-heart": {
         "body": "<${1:i} className=\"fab fab-book-heart$2\"></${1:i}>$0",
         "description": "<i>",
@@ -879,6 +939,11 @@
         "description": "<i>",
         "prefix": "fab-book-reader"
     },
+    "fab-book-spells": {
+        "body": "<${1:i} className=\"fab fab-book-spells$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-book-spells"
+    },
     "fab-bookmark": {
         "body": "<${1:i} className=\"fab fab-bookmark$2\"></${1:i}>$0",
         "description": "<i>",
@@ -888,6 +953,16 @@
         "body": "<${1:i} className=\"fab fab-books$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-books"
+    },
+    "fab-booth-curtain": {
+        "body": "<${1:i} className=\"fab fab-booth-curtain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-booth-curtain"
+    },
+    "fab-bow-arrow": {
+        "body": "<${1:i} className=\"fab fab-bow-arrow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-bow-arrow"
     },
     "fab-bowling-ball": {
         "body": "<${1:i} className=\"fab fab-bowling-ball$2\"></${1:i}>$0",
@@ -908,6 +983,11 @@
         "body": "<${1:i} className=\"fab fab-box-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-box-alt"
+    },
+    "fab-box-ballot": {
+        "body": "<${1:i} className=\"fab fab-box-ballot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-box-ballot"
     },
     "fab-box-check": {
         "body": "<${1:i} className=\"fab fab-box-check$2\"></${1:i}>$0",
@@ -1119,6 +1199,11 @@
         "description": "<i>",
         "prefix": "fab-calendar-plus"
     },
+    "fab-calendar-star": {
+        "body": "<${1:i} className=\"fab fab-calendar-star$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-calendar-star"
+    },
     "fab-calendar-times": {
         "body": "<${1:i} className=\"fab fab-calendar-times$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1138,6 +1223,26 @@
         "body": "<${1:i} className=\"fab fab-camera-retro$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-camera-retro"
+    },
+    "fab-campfire": {
+        "body": "<${1:i} className=\"fab fab-campfire$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-campfire"
+    },
+    "fab-campground": {
+        "body": "<${1:i} className=\"fab fab-campground$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-campground"
+    },
+    "fab-candle-holder": {
+        "body": "<${1:i} className=\"fab fab-candle-holder$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-candle-holder"
+    },
+    "fab-candy-corn": {
+        "body": "<${1:i} className=\"fab fab-candy-corn$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-candy-corn"
     },
     "fab-cannabis": {
         "body": "<${1:i} className=\"fab fab-cannabis$2\"></${1:i}>$0",
@@ -1269,6 +1374,16 @@
         "description": "<i>",
         "prefix": "fab-cart-plus"
     },
+    "fab-cat": {
+        "body": "<${1:i} className=\"fab fab-cat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cat"
+    },
+    "fab-cauldron": {
+        "body": "<${1:i} className=\"fab fab-cauldron$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cauldron"
+    },
     "fab-cc-amazon-pay": {
         "body": "<${1:i} className=\"fab fab-cc-amazon-pay$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1328,6 +1443,16 @@
         "body": "<${1:i} className=\"fab fab-certificate$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-certificate"
+    },
+    "fab-chair": {
+        "body": "<${1:i} className=\"fab fab-chair$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-chair"
+    },
+    "fab-chair-office": {
+        "body": "<${1:i} className=\"fab fab-chair-office$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-chair-office"
     },
     "fab-chalkboard": {
         "body": "<${1:i} className=\"fab fab-chalkboard$2\"></${1:i}>$0",
@@ -1584,6 +1709,11 @@
         "description": "<i>",
         "prefix": "fab-city"
     },
+    "fab-claw-marks": {
+        "body": "<${1:i} className=\"fab fab-claw-marks$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-claw-marks"
+    },
     "fab-clipboard": {
         "body": "<${1:i} className=\"fab fab-clipboard$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1598,6 +1728,11 @@
         "body": "<${1:i} className=\"fab fab-clipboard-list$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-clipboard-list"
+    },
+    "fab-clipboard-list-check": {
+        "body": "<${1:i} className=\"fab fab-clipboard-list-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-clipboard-list-check"
     },
     "fab-clipboard-prescription": {
         "body": "<${1:i} className=\"fab fab-clipboard-prescription$2\"></${1:i}>$0",
@@ -1634,6 +1769,76 @@
         "description": "<i>",
         "prefix": "fab-cloud-download-alt"
     },
+    "fab-cloud-drizzle": {
+        "body": "<${1:i} className=\"fab fab-cloud-drizzle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-drizzle"
+    },
+    "fab-cloud-hail": {
+        "body": "<${1:i} className=\"fab fab-cloud-hail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-hail"
+    },
+    "fab-cloud-hail-mixed": {
+        "body": "<${1:i} className=\"fab fab-cloud-hail-mixed$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-hail-mixed"
+    },
+    "fab-cloud-meatball": {
+        "body": "<${1:i} className=\"fab fab-cloud-meatball$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-meatball"
+    },
+    "fab-cloud-moon": {
+        "body": "<${1:i} className=\"fab fab-cloud-moon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-moon"
+    },
+    "fab-cloud-moon-rain": {
+        "body": "<${1:i} className=\"fab fab-cloud-moon-rain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-moon-rain"
+    },
+    "fab-cloud-rain": {
+        "body": "<${1:i} className=\"fab fab-cloud-rain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-rain"
+    },
+    "fab-cloud-rainbow": {
+        "body": "<${1:i} className=\"fab fab-cloud-rainbow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-rainbow"
+    },
+    "fab-cloud-showers": {
+        "body": "<${1:i} className=\"fab fab-cloud-showers$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-showers"
+    },
+    "fab-cloud-showers-heavy": {
+        "body": "<${1:i} className=\"fab fab-cloud-showers-heavy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-showers-heavy"
+    },
+    "fab-cloud-sleet": {
+        "body": "<${1:i} className=\"fab fab-cloud-sleet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-sleet"
+    },
+    "fab-cloud-snow": {
+        "body": "<${1:i} className=\"fab fab-cloud-snow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-snow"
+    },
+    "fab-cloud-sun": {
+        "body": "<${1:i} className=\"fab fab-cloud-sun$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-sun"
+    },
+    "fab-cloud-sun-rain": {
+        "body": "<${1:i} className=\"fab fab-cloud-sun-rain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-sun-rain"
+    },
     "fab-cloud-upload": {
         "body": "<${1:i} className=\"fab fab-cloud-upload$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1643,6 +1848,21 @@
         "body": "<${1:i} className=\"fab fab-cloud-upload-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-cloud-upload-alt"
+    },
+    "fab-clouds": {
+        "body": "<${1:i} className=\"fab fab-clouds$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-clouds"
+    },
+    "fab-clouds-moon": {
+        "body": "<${1:i} className=\"fab fab-clouds-moon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-clouds-moon"
+    },
+    "fab-clouds-sun": {
+        "body": "<${1:i} className=\"fab fab-clouds-sun$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-clouds-sun"
     },
     "fab-cloudscale": {
         "body": "<${1:i} className=\"fab fab-cloudscale$2\"></${1:i}>$0",
@@ -1703,6 +1923,16 @@
         "body": "<${1:i} className=\"fab fab-coffee$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-coffee"
+    },
+    "fab-coffee-togo": {
+        "body": "<${1:i} className=\"fab fab-coffee-togo$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-coffee-togo"
+    },
+    "fab-coffin": {
+        "body": "<${1:i} className=\"fab fab-coffin$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-coffin"
     },
     "fab-cog": {
         "body": "<${1:i} className=\"fab fab-cog$2\"></${1:i}>$0",
@@ -1944,10 +2174,20 @@
         "description": "<i>",
         "prefix": "fab-copyright"
     },
+    "fab-corn": {
+        "body": "<${1:i} className=\"fab fab-corn$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-corn"
+    },
     "fab-couch": {
         "body": "<${1:i} className=\"fab fab-couch$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-couch"
+    },
+    "fab-cow": {
+        "body": "<${1:i} className=\"fab fab-cow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cow"
     },
     "fab-cpanel": {
         "body": "<${1:i} className=\"fab fab-cpanel$2\"></${1:i}>$0",
@@ -2044,6 +2284,11 @@
         "description": "<i>",
         "prefix": "fab-cricket"
     },
+    "fab-critical-role": {
+        "body": "<${1:i} className=\"fab fab-critical-role$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-critical-role"
+    },
     "fab-crop": {
         "body": "<${1:i} className=\"fab fab-crop$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2114,6 +2359,16 @@
         "description": "<i>",
         "prefix": "fab-d-and-d"
     },
+    "fab-d-and-d-beyond": {
+        "body": "<${1:i} className=\"fab fab-d-and-d-beyond$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-d-and-d-beyond"
+    },
+    "fab-dagger": {
+        "body": "<${1:i} className=\"fab fab-dagger$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dagger"
+    },
     "fab-dashcube": {
         "body": "<${1:i} className=\"fab fab-dashcube$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2133,6 +2388,11 @@
         "body": "<${1:i} className=\"fab fab-delicious$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-delicious"
+    },
+    "fab-democrat": {
+        "body": "<${1:i} className=\"fab fab-democrat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-democrat"
     },
     "fab-deploydog": {
         "body": "<${1:i} className=\"fab fab-deploydog$2\"></${1:i}>$0",
@@ -2154,10 +2414,20 @@
         "description": "<i>",
         "prefix": "fab-desktop-alt"
     },
+    "fab-dev": {
+        "body": "<${1:i} className=\"fab fab-dev$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dev"
+    },
     "fab-deviantart": {
         "body": "<${1:i} className=\"fab fab-deviantart$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-deviantart"
+    },
+    "fab-dewpoint": {
+        "body": "<${1:i} className=\"fab fab-dewpoint$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dewpoint"
     },
     "fab-dharmachakra": {
         "body": "<${1:i} className=\"fab fab-dharmachakra$2\"></${1:i}>$0",
@@ -2178,6 +2448,36 @@
         "body": "<${1:i} className=\"fab fab-dice$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-dice"
+    },
+    "fab-dice-d10": {
+        "body": "<${1:i} className=\"fab fab-dice-d10$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dice-d10"
+    },
+    "fab-dice-d12": {
+        "body": "<${1:i} className=\"fab fab-dice-d12$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dice-d12"
+    },
+    "fab-dice-d20": {
+        "body": "<${1:i} className=\"fab fab-dice-d20$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dice-d20"
+    },
+    "fab-dice-d4": {
+        "body": "<${1:i} className=\"fab fab-dice-d4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dice-d4"
+    },
+    "fab-dice-d6": {
+        "body": "<${1:i} className=\"fab fab-dice-d6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dice-d6"
+    },
+    "fab-dice-d8": {
+        "body": "<${1:i} className=\"fab fab-dice-d8$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dice-d8"
     },
     "fab-dice-five": {
         "body": "<${1:i} className=\"fab fab-dice-five$2\"></${1:i}>$0",
@@ -2274,6 +2574,16 @@
         "description": "<i>",
         "prefix": "fab-docker"
     },
+    "fab-dog": {
+        "body": "<${1:i} className=\"fab fab-dog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dog"
+    },
+    "fab-dog-leashed": {
+        "body": "<${1:i} className=\"fab fab-dog-leashed$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dog-leashed"
+    },
     "fab-dollar-sign": {
         "body": "<${1:i} className=\"fab fab-dollar-sign$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2344,6 +2654,11 @@
         "description": "<i>",
         "prefix": "fab-drafting-compass"
     },
+    "fab-dragon": {
+        "body": "<${1:i} className=\"fab fab-dragon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dragon"
+    },
     "fab-draw-circle": {
         "body": "<${1:i} className=\"fab fab-draw-circle$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2384,15 +2699,35 @@
         "description": "<i>",
         "prefix": "fab-drum-steelpan"
     },
+    "fab-drumstick": {
+        "body": "<${1:i} className=\"fab fab-drumstick$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-drumstick"
+    },
+    "fab-drumstick-bite": {
+        "body": "<${1:i} className=\"fab fab-drumstick-bite$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-drumstick-bite"
+    },
     "fab-drupal": {
         "body": "<${1:i} className=\"fab fab-drupal$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-drupal"
     },
+    "fab-duck": {
+        "body": "<${1:i} className=\"fab fab-duck$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-duck"
+    },
     "fab-dumbbell": {
         "body": "<${1:i} className=\"fab fab-dumbbell$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-dumbbell"
+    },
+    "fab-dungeon": {
+        "body": "<${1:i} className=\"fab fab-dungeon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dungeon"
     },
     "fab-dyalog": {
         "body": "<${1:i} className=\"fab fab-dyalog$2\"></${1:i}>$0",
@@ -2414,6 +2749,16 @@
         "description": "<i>",
         "prefix": "fab-ebay"
     },
+    "fab-eclipse": {
+        "body": "<${1:i} className=\"fab fab-eclipse$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-eclipse"
+    },
+    "fab-eclipse-alt": {
+        "body": "<${1:i} className=\"fab fab-eclipse-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-eclipse-alt"
+    },
     "fab-edge": {
         "body": "<${1:i} className=\"fab fab-edge$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2433,6 +2778,11 @@
         "body": "<${1:i} className=\"fab fab-elementor$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-elementor"
+    },
+    "fab-elephant": {
+        "body": "<${1:i} className=\"fab fab-elephant$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-elephant"
     },
     "fab-ellipsis-h": {
         "body": "<${1:i} className=\"fab fab-ellipsis-h$2\"></${1:i}>$0",
@@ -2629,6 +2979,11 @@
         "description": "<i>",
         "prefix": "fab-eye-dropper"
     },
+    "fab-eye-evil": {
+        "body": "<${1:i} className=\"fab fab-eye-evil$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-eye-evil"
+    },
     "fab-eye-slash": {
         "body": "<${1:i} className=\"fab fab-eye-slash$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2653,6 +3008,11 @@
         "body": "<${1:i} className=\"fab fab-facebook-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-facebook-square"
+    },
+    "fab-fantasy-flight-games": {
+        "body": "<${1:i} className=\"fab fab-fantasy-flight-games$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-fantasy-flight-games"
     },
     "fab-fast-backward": {
         "body": "<${1:i} className=\"fab fab-fast-backward$2\"></${1:i}>$0",
@@ -2743,6 +3103,11 @@
         "body": "<${1:i} className=\"fab fab-file-contract$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-file-contract"
+    },
+    "fab-file-csv": {
+        "body": "<${1:i} className=\"fab fab-file-csv$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-file-csv"
     },
     "fab-file-download": {
         "body": "<${1:i} className=\"fab fab-file-download$2\"></${1:i}>$0",
@@ -2899,6 +3264,11 @@
         "description": "<i>",
         "prefix": "fab-fire-extinguisher"
     },
+    "fab-fire-smoke": {
+        "body": "<${1:i} className=\"fab fab-fire-smoke$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-fire-smoke"
+    },
     "fab-firefox": {
         "body": "<${1:i} className=\"fab fab-firefox$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2929,20 +3299,50 @@
         "description": "<i>",
         "prefix": "fab-fish"
     },
+    "fab-fist-raised": {
+        "body": "<${1:i} className=\"fab fab-fist-raised$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-fist-raised"
+    },
     "fab-flag": {
         "body": "<${1:i} className=\"fab fab-flag$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-flag"
+    },
+    "fab-flag-alt": {
+        "body": "<${1:i} className=\"fab fab-flag-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-flag-alt"
     },
     "fab-flag-checkered": {
         "body": "<${1:i} className=\"fab fab-flag-checkered$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-flag-checkered"
     },
+    "fab-flag-usa": {
+        "body": "<${1:i} className=\"fab fab-flag-usa$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-flag-usa"
+    },
+    "fab-flame": {
+        "body": "<${1:i} className=\"fab fab-flame$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-flame"
+    },
     "fab-flask": {
         "body": "<${1:i} className=\"fab fab-flask$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-flask"
+    },
+    "fab-flask-poison": {
+        "body": "<${1:i} className=\"fab fab-flask-poison$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-flask-poison"
+    },
+    "fab-flask-potion": {
+        "body": "<${1:i} className=\"fab fab-flask-potion$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-flask-potion"
     },
     "fab-flickr": {
         "body": "<${1:i} className=\"fab fab-flickr$2\"></${1:i}>$0",
@@ -2963,6 +3363,11 @@
         "body": "<${1:i} className=\"fab fab-fly$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-fly"
+    },
+    "fab-fog": {
+        "body": "<${1:i} className=\"fab fab-fog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-fog"
     },
     "fab-folder": {
         "body": "<${1:i} className=\"fab fab-folder$2\"></${1:i}>$0",
@@ -3173,6 +3578,11 @@
         "body": "<${1:i} className=\"fab fab-gg-circle$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-gg-circle"
+    },
+    "fab-ghost": {
+        "body": "<${1:i} className=\"fab fab-ghost$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ghost"
     },
     "fab-gift": {
         "body": "<${1:i} className=\"fab fab-gift$2\"></${1:i}>$0",
@@ -3499,6 +3909,16 @@
         "description": "<i>",
         "prefix": "fab-hackerrank"
     },
+    "fab-hammer": {
+        "body": "<${1:i} className=\"fab fab-hammer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hammer"
+    },
+    "fab-hammer-war": {
+        "body": "<${1:i} className=\"fab fab-hammer-war$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hammer-war"
+    },
     "fab-hamsa": {
         "body": "<${1:i} className=\"fab fab-hamsa$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3523,6 +3943,11 @@
         "body": "<${1:i} className=\"fab fab-hand-holding-heart$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-hand-holding-heart"
+    },
+    "fab-hand-holding-magic": {
+        "body": "<${1:i} className=\"fab fab-hand-holding-magic$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hand-holding-magic"
     },
     "fab-hand-holding-seedling": {
         "body": "<${1:i} className=\"fab fab-hand-holding-seedling$2\"></${1:i}>$0",
@@ -3629,10 +4054,25 @@
         "description": "<i>",
         "prefix": "fab-handshake-alt"
     },
+    "fab-hanukiah": {
+        "body": "<${1:i} className=\"fab fab-hanukiah$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hanukiah"
+    },
     "fab-hashtag": {
         "body": "<${1:i} className=\"fab fab-hashtag$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-hashtag"
+    },
+    "fab-hat-witch": {
+        "body": "<${1:i} className=\"fab fab-hat-witch$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hat-witch"
+    },
+    "fab-hat-wizard": {
+        "body": "<${1:i} className=\"fab fab-hat-wizard$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hat-wizard"
     },
     "fab-haykal": {
         "body": "<${1:i} className=\"fab fab-haykal$2\"></${1:i}>$0",
@@ -3643,6 +4083,16 @@
         "body": "<${1:i} className=\"fab fab-hdd$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-hdd"
+    },
+    "fab-head-side": {
+        "body": "<${1:i} className=\"fab fab-head-side$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-head-side"
+    },
+    "fab-head-vr": {
+        "body": "<${1:i} className=\"fab fab-head-vr$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-head-vr"
     },
     "fab-heading": {
         "body": "<${1:i} className=\"fab fab-heading$2\"></${1:i}>$0",
@@ -3694,6 +4144,11 @@
         "description": "<i>",
         "prefix": "fab-helicopter"
     },
+    "fab-helmet-battle": {
+        "body": "<${1:i} className=\"fab fab-helmet-battle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-helmet-battle"
+    },
     "fab-hexagon": {
         "body": "<${1:i} className=\"fab fab-hexagon$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3703,6 +4158,16 @@
         "body": "<${1:i} className=\"fab fab-highlighter$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-highlighter"
+    },
+    "fab-hiking": {
+        "body": "<${1:i} className=\"fab fab-hiking$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hiking"
+    },
+    "fab-hippo": {
+        "body": "<${1:i} className=\"fab fab-hippo$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hippo"
     },
     "fab-hips": {
         "body": "<${1:i} className=\"fab fab-hips$2\"></${1:i}>$0",
@@ -3718,6 +4183,11 @@
         "body": "<${1:i} className=\"fab fab-history$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-history"
+    },
+    "fab-hockey-mask": {
+        "body": "<${1:i} className=\"fab fab-hockey-mask$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hockey-mask"
     },
     "fab-hockey-puck": {
         "body": "<${1:i} className=\"fab fab-hockey-puck$2\"></${1:i}>$0",
@@ -3739,6 +4209,11 @@
         "description": "<i>",
         "prefix": "fab-home-heart"
     },
+    "fab-hood-cloak": {
+        "body": "<${1:i} className=\"fab fab-hood-cloak$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hood-cloak"
+    },
     "fab-hooli": {
         "body": "<${1:i} className=\"fab fab-hooli$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3748,6 +4223,11 @@
         "body": "<${1:i} className=\"fab fab-hornbill$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-hornbill"
+    },
+    "fab-horse": {
+        "body": "<${1:i} className=\"fab fab-horse$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-horse"
     },
     "fab-hospital": {
         "body": "<${1:i} className=\"fab fab-hospital$2\"></${1:i}>$0",
@@ -3799,10 +4279,25 @@
         "description": "<i>",
         "prefix": "fab-hourglass-start"
     },
+    "fab-house-damage": {
+        "body": "<${1:i} className=\"fab fab-house-damage$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-house-damage"
+    },
+    "fab-house-flood": {
+        "body": "<${1:i} className=\"fab fab-house-flood$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-house-flood"
+    },
     "fab-houzz": {
         "body": "<${1:i} className=\"fab fab-houzz$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-houzz"
+    },
+    "fab-hryvnia": {
+        "body": "<${1:i} className=\"fab fab-hryvnia$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hryvnia"
     },
     "fab-html5": {
         "body": "<${1:i} className=\"fab fab-html5$2\"></${1:i}>$0",
@@ -3813,6 +4308,16 @@
         "body": "<${1:i} className=\"fab fab-hubspot$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-hubspot"
+    },
+    "fab-humidity": {
+        "body": "<${1:i} className=\"fab fab-humidity$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-humidity"
+    },
+    "fab-hurricane": {
+        "body": "<${1:i} className=\"fab fab-hurricane$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hurricane"
     },
     "fab-i-cursor": {
         "body": "<${1:i} className=\"fab fab-i-cursor$2\"></${1:i}>$0",
@@ -4024,6 +4529,11 @@
         "description": "<i>",
         "prefix": "fab-key"
     },
+    "fab-key-skeleton": {
+        "body": "<${1:i} className=\"fab fab-key-skeleton$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-key-skeleton"
+    },
     "fab-keybase": {
         "body": "<${1:i} className=\"fab fab-keybase$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4079,10 +4589,20 @@
         "description": "<i>",
         "prefix": "fab-kiss-wink-heart"
     },
+    "fab-kite": {
+        "body": "<${1:i} className=\"fab fab-kite$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-kite"
+    },
     "fab-kiwi-bird": {
         "body": "<${1:i} className=\"fab fab-kiwi-bird$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-kiwi-bird"
+    },
+    "fab-knife-kitchen": {
+        "body": "<${1:i} className=\"fab fab-knife-kitchen$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-knife-kitchen"
     },
     "fab-korvue": {
         "body": "<${1:i} className=\"fab fab-korvue$2\"></${1:i}>$0",
@@ -4103,6 +4623,11 @@
         "body": "<${1:i} className=\"fab fab-landmark$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-landmark"
+    },
+    "fab-landmark-alt": {
+        "body": "<${1:i} className=\"fab fab-landmark-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-landmark-alt"
     },
     "fab-language": {
         "body": "<${1:i} className=\"fab fab-language$2\"></${1:i}>$0",
@@ -4178,6 +4703,16 @@
         "body": "<${1:i} className=\"fab fab-leaf-heart$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-leaf-heart"
+    },
+    "fab-leaf-maple": {
+        "body": "<${1:i} className=\"fab fab-leaf-maple$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-leaf-maple"
+    },
+    "fab-leaf-oak": {
+        "body": "<${1:i} className=\"fab fab-leaf-oak$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-leaf-oak"
     },
     "fab-leanpub": {
         "body": "<${1:i} className=\"fab fab-leanpub$2\"></${1:i}>$0",
@@ -4424,6 +4959,11 @@
         "description": "<i>",
         "prefix": "fab-lyft"
     },
+    "fab-mace": {
+        "body": "<${1:i} className=\"fab fab-mace$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mace"
+    },
     "fab-magento": {
         "body": "<${1:i} className=\"fab fab-magento$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4458,6 +4998,11 @@
         "body": "<${1:i} className=\"fab fab-mandalorian$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-mandalorian"
+    },
+    "fab-mandolin": {
+        "body": "<${1:i} className=\"fab fab-mandolin$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mandolin"
     },
     "fab-map": {
         "body": "<${1:i} className=\"fab fab-map$2\"></${1:i}>$0",
@@ -4579,6 +5124,11 @@
         "description": "<i>",
         "prefix": "fab-mars-stroke-v"
     },
+    "fab-mask": {
+        "body": "<${1:i} className=\"fab fab-mask$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mask"
+    },
     "fab-mastodon": {
         "body": "<${1:i} className=\"fab fab-mastodon$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4663,6 +5213,11 @@
         "body": "<${1:i} className=\"fab fab-mercury$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-mercury"
+    },
+    "fab-meteor": {
+        "body": "<${1:i} className=\"fab fab-meteor$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-meteor"
     },
     "fab-microchip": {
         "body": "<${1:i} className=\"fab fab-microchip$2\"></${1:i}>$0",
@@ -4809,6 +5364,11 @@
         "description": "<i>",
         "prefix": "fab-monitor-heart-rate"
     },
+    "fab-monkey": {
+        "body": "<${1:i} className=\"fab fab-monkey$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-monkey"
+    },
     "fab-monument": {
         "body": "<${1:i} className=\"fab fab-monument$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4818,6 +5378,16 @@
         "body": "<${1:i} className=\"fab fab-moon$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-moon"
+    },
+    "fab-moon-cloud": {
+        "body": "<${1:i} className=\"fab fab-moon-cloud$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-moon-cloud"
+    },
+    "fab-moon-stars": {
+        "body": "<${1:i} className=\"fab fab-moon-stars$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-moon-stars"
     },
     "fab-mortar-pestle": {
         "body": "<${1:i} className=\"fab fab-mortar-pestle$2\"></${1:i}>$0",
@@ -4834,6 +5404,16 @@
         "description": "<i>",
         "prefix": "fab-motorcycle"
     },
+    "fab-mountain": {
+        "body": "<${1:i} className=\"fab fab-mountain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mountain"
+    },
+    "fab-mountains": {
+        "body": "<${1:i} className=\"fab fab-mountains$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mountains"
+    },
     "fab-mouse-pointer": {
         "body": "<${1:i} className=\"fab fab-mouse-pointer$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4849,10 +5429,20 @@
         "description": "<i>",
         "prefix": "fab-napster"
     },
+    "fab-narwhal": {
+        "body": "<${1:i} className=\"fab fab-narwhal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-narwhal"
+    },
     "fab-neos": {
         "body": "<${1:i} className=\"fab fab-neos$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-neos"
+    },
+    "fab-network-wired": {
+        "body": "<${1:i} className=\"fab fab-network-wired$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-network-wired"
     },
     "fab-neuter": {
         "body": "<${1:i} className=\"fab fab-neuter$2\"></${1:i}>$0",
@@ -4984,6 +5574,11 @@
         "description": "<i>",
         "prefix": "fab-osi"
     },
+    "fab-otter": {
+        "body": "<${1:i} className=\"fab fab-otter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-otter"
+    },
     "fab-outdent": {
         "body": "<${1:i} className=\"fab fab-outdent$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5109,6 +5704,16 @@
         "description": "<i>",
         "prefix": "fab-paw"
     },
+    "fab-paw-alt": {
+        "body": "<${1:i} className=\"fab fab-paw-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-paw-alt"
+    },
+    "fab-paw-claws": {
+        "body": "<${1:i} className=\"fab fab-paw-claws$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-paw-claws"
+    },
     "fab-paypal": {
         "body": "<${1:i} className=\"fab fab-paypal$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5118,6 +5723,11 @@
         "body": "<${1:i} className=\"fab fab-peace$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-peace"
+    },
+    "fab-pegasus": {
+        "body": "<${1:i} className=\"fab fab-pegasus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-pegasus"
     },
     "fab-pen": {
         "body": "<${1:i} className=\"fab fab-pen$2\"></${1:i}>$0",
@@ -5169,6 +5779,11 @@
         "description": "<i>",
         "prefix": "fab-pennant"
     },
+    "fab-penny-arcade": {
+        "body": "<${1:i} className=\"fab fab-penny-arcade$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-penny-arcade"
+    },
     "fab-people-carry": {
         "body": "<${1:i} className=\"fab fab-people-carry$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5189,6 +5804,11 @@
         "description": "<i>",
         "prefix": "fab-periscope"
     },
+    "fab-person-booth": {
+        "body": "<${1:i} className=\"fab fab-person-booth$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-person-booth"
+    },
     "fab-person-carry": {
         "body": "<${1:i} className=\"fab fab-person-carry$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5203,6 +5823,11 @@
         "body": "<${1:i} className=\"fab fab-person-dolly-empty$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-person-dolly-empty"
+    },
+    "fab-person-sign": {
+        "body": "<${1:i} className=\"fab fab-person-sign$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-person-sign"
     },
     "fab-phabricator": {
         "body": "<${1:i} className=\"fab fab-phabricator$2\"></${1:i}>$0",
@@ -5259,6 +5884,11 @@
         "description": "<i>",
         "prefix": "fab-pi"
     },
+    "fab-pie": {
+        "body": "<${1:i} className=\"fab fab-pie$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-pie"
+    },
     "fab-pied-piper": {
         "body": "<${1:i} className=\"fab fab-pied-piper$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5278,6 +5908,11 @@
         "body": "<${1:i} className=\"fab fab-pied-piper-pp$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-pied-piper-pp"
+    },
+    "fab-pig": {
+        "body": "<${1:i} className=\"fab fab-pig$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-pig"
     },
     "fab-piggy-bank": {
         "body": "<${1:i} className=\"fab fab-piggy-bank$2\"></${1:i}>$0",
@@ -5384,6 +6019,11 @@
         "description": "<i>",
         "prefix": "fab-podium"
     },
+    "fab-podium-star": {
+        "body": "<${1:i} className=\"fab fab-podium-star$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-podium-star"
+    },
     "fab-poll": {
         "body": "<${1:i} className=\"fab fab-poll$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5394,10 +6034,20 @@
         "description": "<i>",
         "prefix": "fab-poll-h"
     },
+    "fab-poll-people": {
+        "body": "<${1:i} className=\"fab fab-poll-people$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-poll-people"
+    },
     "fab-poo": {
         "body": "<${1:i} className=\"fab fab-poo$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-poo"
+    },
+    "fab-poo-storm": {
+        "body": "<${1:i} className=\"fab fab-poo-storm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-poo-storm"
     },
     "fab-poop": {
         "body": "<${1:i} className=\"fab fab-poop$2\"></${1:i}>$0",
@@ -5474,6 +6124,11 @@
         "description": "<i>",
         "prefix": "fab-project-diagram"
     },
+    "fab-pumpkin": {
+        "body": "<${1:i} className=\"fab fab-pumpkin$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-pumpkin"
+    },
     "fab-pushed": {
         "body": "<${1:i} className=\"fab fab-pushed$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5549,10 +6204,35 @@
         "description": "<i>",
         "prefix": "fab-r-project"
     },
+    "fab-rabbit": {
+        "body": "<${1:i} className=\"fab fab-rabbit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-rabbit"
+    },
+    "fab-rabbit-fast": {
+        "body": "<${1:i} className=\"fab fab-rabbit-fast$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-rabbit-fast"
+    },
     "fab-racquet": {
         "body": "<${1:i} className=\"fab fab-racquet$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-racquet"
+    },
+    "fab-rainbow": {
+        "body": "<${1:i} className=\"fab fab-rainbow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-rainbow"
+    },
+    "fab-raindrops": {
+        "body": "<${1:i} className=\"fab fab-raindrops$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-raindrops"
+    },
+    "fab-ram": {
+        "body": "<${1:i} className=\"fab fab-ram$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ram"
     },
     "fab-ramp-loading": {
         "body": "<${1:i} className=\"fab fab-ramp-loading$2\"></${1:i}>$0",
@@ -5573,6 +6253,11 @@
         "body": "<${1:i} className=\"fab fab-react$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-react"
+    },
+    "fab-reacteurope": {
+        "body": "<${1:i} className=\"fab fab-reacteurope$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-reacteurope"
     },
     "fab-readme": {
         "body": "<${1:i} className=\"fab fab-readme$2\"></${1:i}>$0",
@@ -5644,11 +6329,6 @@
         "description": "<i>",
         "prefix": "fab-registered"
     },
-    "fab-rendact": {
-        "body": "<${1:i} className=\"fab fab-rendact$2\"></${1:i}>$0",
-        "description": "<i>",
-        "prefix": "fab-rendact"
-    },
     "fab-renren": {
         "body": "<${1:i} className=\"fab fab-renren$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5689,6 +6369,11 @@
         "description": "<i>",
         "prefix": "fab-replyd"
     },
+    "fab-republican": {
+        "body": "<${1:i} className=\"fab fab-republican$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-republican"
+    },
     "fab-researchgate": {
         "body": "<${1:i} className=\"fab fab-researchgate$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5718,6 +6403,11 @@
         "body": "<${1:i} className=\"fab fab-ribbon$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-ribbon"
+    },
+    "fab-ring": {
+        "body": "<${1:i} className=\"fab fab-ring$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ring"
     },
     "fab-road": {
         "body": "<${1:i} className=\"fab fab-road$2\"></${1:i}>$0",
@@ -5799,6 +6489,11 @@
         "description": "<i>",
         "prefix": "fab-ruler-vertical"
     },
+    "fab-running": {
+        "body": "<${1:i} className=\"fab fab-running$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-running"
+    },
     "fab-rupee-sign": {
         "body": "<${1:i} className=\"fab fab-rupee-sign$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5854,6 +6549,11 @@
         "description": "<i>",
         "prefix": "fab-scanner-touchscreen"
     },
+    "fab-scarecrow": {
+        "body": "<${1:i} className=\"fab fab-scarecrow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-scarecrow"
+    },
     "fab-schlix": {
         "body": "<${1:i} className=\"fab fab-schlix$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5874,10 +6574,25 @@
         "description": "<i>",
         "prefix": "fab-scribd"
     },
+    "fab-scroll": {
+        "body": "<${1:i} className=\"fab fab-scroll$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-scroll"
+    },
+    "fab-scroll-old": {
+        "body": "<${1:i} className=\"fab fab-scroll-old$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-scroll-old"
+    },
     "fab-scrubber": {
         "body": "<${1:i} className=\"fab fab-scrubber$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-scrubber"
+    },
+    "fab-scythe": {
+        "body": "<${1:i} className=\"fab fab-scythe$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-scythe"
     },
     "fab-search": {
         "body": "<${1:i} className=\"fab fab-search$2\"></${1:i}>$0",
@@ -5964,6 +6679,11 @@
         "description": "<i>",
         "prefix": "fab-share-square"
     },
+    "fab-sheep": {
+        "body": "<${1:i} className=\"fab fab-sheep$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sheep"
+    },
     "fab-shekel-sign": {
         "body": "<${1:i} className=\"fab fab-shekel-sign$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5983,6 +6703,11 @@
         "body": "<${1:i} className=\"fab fab-shield-check$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-shield-check"
+    },
+    "fab-shield-cross": {
+        "body": "<${1:i} className=\"fab fab-shield-cross$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-shield-cross"
     },
     "fab-ship": {
         "body": "<${1:i} className=\"fab fab-ship$2\"></${1:i}>$0",
@@ -6028,6 +6753,11 @@
         "body": "<${1:i} className=\"fab fab-shopware$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-shopware"
+    },
+    "fab-shovel": {
+        "body": "<${1:i} className=\"fab fab-shovel$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-shovel"
     },
     "fab-shower": {
         "body": "<${1:i} className=\"fab fab-shower$2\"></${1:i}>$0",
@@ -6174,6 +6904,11 @@
         "description": "<i>",
         "prefix": "fab-skull"
     },
+    "fab-skull-crossbones": {
+        "body": "<${1:i} className=\"fab fab-skull-crossbones$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-skull-crossbones"
+    },
     "fab-skyatlas": {
         "body": "<${1:i} className=\"fab fab-skyatlas$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6193,6 +6928,11 @@
         "body": "<${1:i} className=\"fab fab-slack-hash$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-slack-hash"
+    },
+    "fab-slash": {
+        "body": "<${1:i} className=\"fab fab-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-slash"
     },
     "fab-sliders-h": {
         "body": "<${1:i} className=\"fab fab-sliders-h$2\"></${1:i}>$0",
@@ -6239,6 +6979,16 @@
         "description": "<i>",
         "prefix": "fab-smile-wink"
     },
+    "fab-smog": {
+        "body": "<${1:i} className=\"fab fab-smog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-smog"
+    },
+    "fab-smoke": {
+        "body": "<${1:i} className=\"fab fab-smoke$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-smoke"
+    },
     "fab-smoking": {
         "body": "<${1:i} className=\"fab fab-smoking$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6248,6 +6998,11 @@
         "body": "<${1:i} className=\"fab fab-smoking-ban$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-smoking-ban"
+    },
+    "fab-snake": {
+        "body": "<${1:i} className=\"fab fab-snake$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-snake"
     },
     "fab-snapchat": {
         "body": "<${1:i} className=\"fab fab-snapchat$2\"></${1:i}>$0",
@@ -6263,6 +7018,11 @@
         "body": "<${1:i} className=\"fab fab-snapchat-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-snapchat-square"
+    },
+    "fab-snow-blowing": {
+        "body": "<${1:i} className=\"fab fab-snow-blowing$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-snow-blowing"
     },
     "fab-snowflake": {
         "body": "<${1:i} className=\"fab fab-snowflake$2\"></${1:i}>$0",
@@ -6349,6 +7109,21 @@
         "description": "<i>",
         "prefix": "fab-speakap"
     },
+    "fab-spider": {
+        "body": "<${1:i} className=\"fab fab-spider$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-spider"
+    },
+    "fab-spider-black-widow": {
+        "body": "<${1:i} className=\"fab fab-spider-black-widow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-spider-black-widow"
+    },
+    "fab-spider-web": {
+        "body": "<${1:i} className=\"fab fab-spider-web$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-spider-web"
+    },
     "fab-spinner": {
         "body": "<${1:i} className=\"fab fab-spinner$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6399,6 +7174,11 @@
         "description": "<i>",
         "prefix": "fab-squarespace"
     },
+    "fab-squirrel": {
+        "body": "<${1:i} className=\"fab fab-squirrel$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-squirrel"
+    },
     "fab-stack-exchange": {
         "body": "<${1:i} className=\"fab fab-stack-exchange$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6408,6 +7188,11 @@
         "body": "<${1:i} className=\"fab fab-stack-overflow$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-stack-overflow"
+    },
+    "fab-staff": {
+        "body": "<${1:i} className=\"fab fab-staff$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-staff"
     },
     "fab-stamp": {
         "body": "<${1:i} className=\"fab fab-stamp$2\"></${1:i}>$0",
@@ -6448,6 +7233,11 @@
         "body": "<${1:i} className=\"fab fab-star-of-life$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-star-of-life"
+    },
+    "fab-stars": {
+        "body": "<${1:i} className=\"fab fab-stars$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-stars"
     },
     "fab-staylinked": {
         "body": "<${1:i} className=\"fab fab-staylinked$2\"></${1:i}>$0",
@@ -6604,6 +7394,31 @@
         "description": "<i>",
         "prefix": "fab-sun"
     },
+    "fab-sun-cloud": {
+        "body": "<${1:i} className=\"fab fab-sun-cloud$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sun-cloud"
+    },
+    "fab-sun-dust": {
+        "body": "<${1:i} className=\"fab fab-sun-dust$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sun-dust"
+    },
+    "fab-sun-haze": {
+        "body": "<${1:i} className=\"fab fab-sun-haze$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sun-haze"
+    },
+    "fab-sunrise": {
+        "body": "<${1:i} className=\"fab fab-sunrise$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sunrise"
+    },
+    "fab-sunset": {
+        "body": "<${1:i} className=\"fab fab-sunset$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sunset"
+    },
     "fab-superpowers": {
         "body": "<${1:i} className=\"fab fab-superpowers$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6638,6 +7453,16 @@
         "body": "<${1:i} className=\"fab fab-swimming-pool$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-swimming-pool"
+    },
+    "fab-sword": {
+        "body": "<${1:i} className=\"fab fab-sword$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sword"
+    },
+    "fab-swords": {
+        "body": "<${1:i} className=\"fab fab-swords$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-swords"
     },
     "fab-synagogue": {
         "body": "<${1:i} className=\"fab fab-synagogue$2\"></${1:i}>$0",
@@ -6814,6 +7639,26 @@
         "description": "<i>",
         "prefix": "fab-telegram-plane"
     },
+    "fab-temperature-frigid": {
+        "body": "<${1:i} className=\"fab fab-temperature-frigid$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-temperature-frigid"
+    },
+    "fab-temperature-high": {
+        "body": "<${1:i} className=\"fab fab-temperature-high$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-temperature-high"
+    },
+    "fab-temperature-hot": {
+        "body": "<${1:i} className=\"fab fab-temperature-hot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-temperature-hot"
+    },
+    "fab-temperature-low": {
+        "body": "<${1:i} className=\"fab fab-temperature-low$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-temperature-low"
+    },
     "fab-tencent-weibo": {
         "body": "<${1:i} className=\"fab fab-tencent-weibo$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6909,6 +7754,11 @@
         "description": "<i>",
         "prefix": "fab-theta"
     },
+    "fab-think-peaks": {
+        "body": "<${1:i} className=\"fab fab-think-peaks$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-think-peaks"
+    },
     "fab-thumbs-down": {
         "body": "<${1:i} className=\"fab fab-thumbs-down$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6923,6 +7773,21 @@
         "body": "<${1:i} className=\"fab fab-thumbtack$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-thumbtack"
+    },
+    "fab-thunderstorm": {
+        "body": "<${1:i} className=\"fab fab-thunderstorm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-thunderstorm"
+    },
+    "fab-thunderstorm-moon": {
+        "body": "<${1:i} className=\"fab fab-thunderstorm-moon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-thunderstorm-moon"
+    },
+    "fab-thunderstorm-sun": {
+        "body": "<${1:i} className=\"fab fab-thunderstorm-sun$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-thunderstorm-sun"
     },
     "fab-ticket": {
         "body": "<${1:i} className=\"fab fab-ticket$2\"></${1:i}>$0",
@@ -7009,6 +7874,26 @@
         "description": "<i>",
         "prefix": "fab-toggle-on"
     },
+    "fab-toilet-paper": {
+        "body": "<${1:i} className=\"fab fab-toilet-paper$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-toilet-paper"
+    },
+    "fab-toilet-paper-alt": {
+        "body": "<${1:i} className=\"fab fab-toilet-paper-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-toilet-paper-alt"
+    },
+    "fab-tombstone": {
+        "body": "<${1:i} className=\"fab fab-tombstone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tombstone"
+    },
+    "fab-tombstone-alt": {
+        "body": "<${1:i} className=\"fab fab-tombstone-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tombstone-alt"
+    },
     "fab-toolbox": {
         "body": "<${1:i} className=\"fab fab-toolbox$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7033,6 +7918,16 @@
         "body": "<${1:i} className=\"fab fab-torii-gate$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-torii-gate"
+    },
+    "fab-tornado": {
+        "body": "<${1:i} className=\"fab fab-tornado$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tornado"
+    },
+    "fab-tractor": {
+        "body": "<${1:i} className=\"fab fab-tractor$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tractor"
     },
     "fab-trade-federation": {
         "body": "<${1:i} className=\"fab fab-trade-federation$2\"></${1:i}>$0",
@@ -7094,6 +7989,11 @@
         "description": "<i>",
         "prefix": "fab-trash-alt"
     },
+    "fab-treasure-chest": {
+        "body": "<${1:i} className=\"fab fab-treasure-chest$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-treasure-chest"
+    },
     "fab-tree": {
         "body": "<${1:i} className=\"fab fab-tree$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7103,6 +8003,11 @@
         "body": "<${1:i} className=\"fab fab-tree-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-tree-alt"
+    },
+    "fab-trees": {
+        "body": "<${1:i} className=\"fab fab-trees$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-trees"
     },
     "fab-trello": {
         "body": "<${1:i} className=\"fab fab-trello$2\"></${1:i}>$0",
@@ -7189,6 +8094,16 @@
         "description": "<i>",
         "prefix": "fab-tumblr-square"
     },
+    "fab-turkey": {
+        "body": "<${1:i} className=\"fab fab-turkey$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-turkey"
+    },
+    "fab-turtle": {
+        "body": "<${1:i} className=\"fab fab-turtle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-turtle"
+    },
     "fab-tv": {
         "body": "<${1:i} className=\"fab fab-tv$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7253,6 +8168,11 @@
         "body": "<${1:i} className=\"fab fab-undo-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-undo-alt"
+    },
+    "fab-unicorn": {
+        "body": "<${1:i} className=\"fab fab-unicorn$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-unicorn"
     },
     "fab-union": {
         "body": "<${1:i} className=\"fab fab-union$2\"></${1:i}>$0",
@@ -7378,6 +8298,11 @@
         "body": "<${1:i} className=\"fab fab-user-graduate$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-user-graduate"
+    },
+    "fab-user-injured": {
+        "body": "<${1:i} className=\"fab fab-user-injured$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-user-injured"
     },
     "fab-user-lock": {
         "body": "<${1:i} className=\"fab fab-user-lock$2\"></${1:i}>$0",
@@ -7594,6 +8519,11 @@
         "description": "<i>",
         "prefix": "fab-vnv"
     },
+    "fab-volcano": {
+        "body": "<${1:i} className=\"fab fab-volcano$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-volcano"
+    },
     "fab-volleyball-ball": {
         "body": "<${1:i} className=\"fab fab-volleyball-ball$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7629,6 +8559,21 @@
         "description": "<i>",
         "prefix": "fab-volume-up"
     },
+    "fab-vote-nay": {
+        "body": "<${1:i} className=\"fab fab-vote-nay$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-vote-nay"
+    },
+    "fab-vote-yea": {
+        "body": "<${1:i} className=\"fab fab-vote-yea$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-vote-yea"
+    },
+    "fab-vr-cardboard": {
+        "body": "<${1:i} className=\"fab fab-vr-cardboard$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-vr-cardboard"
+    },
     "fab-vuejs": {
         "body": "<${1:i} className=\"fab fab-vuejs$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7643,6 +8588,16 @@
         "body": "<${1:i} className=\"fab fab-wallet$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-wallet"
+    },
+    "fab-wand": {
+        "body": "<${1:i} className=\"fab fab-wand$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-wand"
+    },
+    "fab-wand-magic": {
+        "body": "<${1:i} className=\"fab fab-wand-magic$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-wand-magic"
     },
     "fab-warehouse": {
         "body": "<${1:i} className=\"fab fab-warehouse$2\"></${1:i}>$0",
@@ -7663,6 +8618,21 @@
         "body": "<${1:i} className=\"fab fab-watch-fitness$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-watch-fitness"
+    },
+    "fab-water": {
+        "body": "<${1:i} className=\"fab fab-water$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-water"
+    },
+    "fab-water-lower": {
+        "body": "<${1:i} className=\"fab fab-water-lower$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-water-lower"
+    },
+    "fab-water-rise": {
+        "body": "<${1:i} className=\"fab fab-water-rise$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-water-rise"
     },
     "fab-weebly": {
         "body": "<${1:i} className=\"fab fab-weebly$2\"></${1:i}>$0",
@@ -7689,6 +8659,11 @@
         "description": "<i>",
         "prefix": "fab-weixin"
     },
+    "fab-whale": {
+        "body": "<${1:i} className=\"fab fab-whale$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-whale"
+    },
     "fab-whatsapp": {
         "body": "<${1:i} className=\"fab fab-whatsapp$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7698,6 +8673,11 @@
         "body": "<${1:i} className=\"fab fab-whatsapp-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-whatsapp-square"
+    },
+    "fab-wheat": {
+        "body": "<${1:i} className=\"fab fab-wheat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-wheat"
     },
     "fab-wheelchair": {
         "body": "<${1:i} className=\"fab fab-wheelchair$2\"></${1:i}>$0",
@@ -7739,6 +8719,16 @@
         "description": "<i>",
         "prefix": "fab-wikipedia-w"
     },
+    "fab-wind": {
+        "body": "<${1:i} className=\"fab fab-wind$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-wind"
+    },
+    "fab-wind-warning": {
+        "body": "<${1:i} className=\"fab fab-wind-warning$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-wind-warning"
+    },
     "fab-window": {
         "body": "<${1:i} className=\"fab fab-window$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7774,6 +8764,16 @@
         "description": "<i>",
         "prefix": "fab-windows"
     },
+    "fab-windsock": {
+        "body": "<${1:i} className=\"fab fab-windsock$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-windsock"
+    },
+    "fab-wine-bottle": {
+        "body": "<${1:i} className=\"fab fab-wine-bottle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-wine-bottle"
+    },
     "fab-wine-glass": {
         "body": "<${1:i} className=\"fab fab-wine-glass$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7788,6 +8788,11 @@
         "body": "<${1:i} className=\"fab fab-wix$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-wix"
+    },
+    "fab-wizards-of-the-coast": {
+        "body": "<${1:i} className=\"fab fab-wizards-of-the-coast$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-wizards-of-the-coast"
     },
     "fab-wolf-pack-battalion": {
         "body": "<${1:i} className=\"fab fab-wolf-pack-battalion$2\"></${1:i}>$0",
@@ -7823,6 +8828,11 @@
         "body": "<${1:i} className=\"fab fab-wpforms$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-wpforms"
+    },
+    "fab-wpressr": {
+        "body": "<${1:i} className=\"fab fab-wpressr$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-wpressr"
     },
     "fab-wrench": {
         "body": "<${1:i} className=\"fab fab-wrench$2\"></${1:i}>$0",

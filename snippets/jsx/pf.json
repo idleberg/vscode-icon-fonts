@@ -149,10 +149,10 @@
         "description": "<span>",
         "prefix": "pf-google-wallet-alt"
     },
-    "pf-gbp": {
-        "body": "<${1:span} className=\"pf pf-gbp\"></${1:span}>$0",
+    "pf-gpb": {
+        "body": "<${1:span} className=\"pf pf-gpb\"></${1:span}>$0",
         "description": "<span>",
-        "prefix": "pf-gbp"
+        "prefix": "pf-gpb"
     },
     "pf-gratipay": {
         "body": "<${1:span} className=\"pf pf-gratipay\"></${1:span}>$0",

@@ -1,3 +1,7 @@
+# v2.1.3 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.1.3)
+
+- bump Font Awesome Pro to v5.5.0
+
 # v2.1.2 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.1.2)
 
 - bump Font Awesome Pro to v5.3.1

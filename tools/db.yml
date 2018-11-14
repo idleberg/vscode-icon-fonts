@@ -93,7 +93,7 @@ fonts:
     after: ''
   replace:
     from: ^fa-
-    to: fab-
+    to: fa-
   tag: i
   options: true
 
@@ -107,7 +107,7 @@ fonts:
     after: :before
   replace:
     from: ^fa-
-    to: far-
+    to: fa-
   classes:
     before: far
     after: ''
@@ -124,7 +124,7 @@ fonts:
     after: :before
   replace:
     from: ^fa-
-    to: fas-
+    to: fa-
   classes:
     before: fas
     after: ''

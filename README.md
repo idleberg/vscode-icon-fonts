@@ -56,34 +56,34 @@ Snippets are limited to the `html`, `css|less|sass|scss|stylus`, `jsx`, `blade` 
 
 ### Prefixes
 
-Prefix           | Icon Font                           | Version | cdnjs | jsDelivr
------------------|-------------------------------------|---------|-------|---------
-`ai`              | [Android Icons][ai]                     | 1.0.0   | 🚫    | 🚫
-`cc`              | [Creative Commons Icon Font][cc]        | 1.2.1   | ✅    | ✅
-`bx`              | [BoxIcons][bx]                          | -       | 🚫    | 🚫
-`dashicons`       | [WordPress Dashicons][dashicons]        | –       | 🚫    | 🚫
-`devicons`        | [Devicons][devicons]                    | 1.8.0   | ✅    | ✅
-`el`              | [Elusive Icons][el]                     | 2.0.0   | 🚫    | 🚫
-`fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.5.0   | ✅    | ✅
-`fi`              | [Foundation Icons][fi]                  | 3.0     | ✅    | ✅
-`fl`              | [Font Logos][fl]                        | 0.11    | 🚫    | 🚫
-`geomicon`        | [Geomicons Open][geomicon]              | 2.0.0   | 🚫    | ✅
-`glyphicon`       | [Bootstrap Glyphicons][glyphicon]       | 3.3.7   | 🚫    | 🚫
-`icono`           | [Icono][icono]                          | 1.3.0   | ✅    | 🚫
-`ion`             | [Ionicons][ion]                         | 2.0.1   | 🚫    | 🚫
-`mdi`             | [Material Design Icons][mdi]            | 2.6.95  | ✅    | 🚫
-`mfg`             | [MFG Labs Iconset][mfg]                 | –       | 🚫    | 🚫
-`mfizz`           | [Font Mfizz][mfizz]                     | 2.4.1   | ✅    | 🚫
-`mio`             | [Material Design Icons (Official)][mio] | 3.0.1   | 🚫    | 🚫
-`octicon`         | [GitHub Octicons][octicon]              | 4.1.0   | 🚫    | 🚫
-`oi`              | [Open Iconic][oi]                       | 1.1.0   | 🚫    | ✅
-`openwebicons`    | [OpenWeb Icons][openwebicons]           | 1.5.0   | ✅    | ✅
-`pf`              | [PaymentFont][pf]                       | 1.2.5   | ✅    | 🚫
-`ratchicon`       | [Ratchicons][ratchicon]                 | 2.0.2   | ✅    | ✅
-`st`              | [Stack Icons][st]                       | 1.0.0   | 🚫    | 🚫
-`typcn`           | [Typicons][typcn]                       | 2.0.7   | 🚫    | 🚫
-`wi`              | [Weather Icons][wi]                     | 2.0.10  | ✅    | 🚫
-`zmdi`            | [Material Design Iconic Font][zmdi]     | 2.2.0   | ✅    | 🚫
+Prefix            | Icon Font                               | Version
+------------------|-----------------------------------------|--------
+`ai`              | [Android Icons][ai]                     | 1.0.0
+`cc`              | [Creative Commons Icon Font][cc]        | 1.2.1
+`bx`              | [BoxIcons][bx]                          | -
+`dashicons`       | [WordPress Dashicons][dashicons]        | –
+`devicons`        | [Devicons][devicons]                    | 1.8.0
+`el`              | [Elusive Icons][el]                     | 2.0.0
+`fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.7.2
+`fi`              | [Foundation Icons][fi]                  | 3.0
+`fl`              | [Font Logos][fl]                        | 0.11
+`geomicon`        | [Geomicons Open][geomicon]              | 2.0.0
+`glyphicon`       | [Bootstrap Glyphicons][glyphicon]       | 3.3.7
+`icono`           | [Icono][icono]                          | 1.3.0
+`ion`             | [Ionicons][ion]                         | 2.0.1
+`mdi`             | [Material Design Icons][mdi]            | 3.4.93
+`mfg`             | [MFG Labs Iconset][mfg]                 | –
+`mfizz`           | [Font Mfizz][mfizz]                     | 2.4.1
+`mio`             | [Material Design Icons (Official)][mio] | 3.0.1
+`octicon`         | [GitHub Octicons][octicon]              | 4.1.0
+`oi`              | [Open Iconic][oi]                       | 1.1.0
+`openwebicons`    | [OpenWeb Icons][openwebicons]           | 1.6.0
+`pf`              | [PaymentFont][pf]                       | 1.2.5
+`ratchicon`       | [Ratchicons][ratchicon]                 | 2.0.2
+`st`              | [Stack Icons][st]                       | 1.0.0
+`typcn`           | [Typicons][typcn]                       | 2.0.7
+`wi`              | [Weather Icons][wi]                     | 2.0.10
+`zmdi`            | [Material Design Iconic Font][zmdi]     | 2.2.0
 
 Several previously supported fonts have been removed and are now available in the [SVG icons](https://github.com/idleberg/vscode-svg-icons) package or the icon fonts [legacy package](https://github.com/idleberg/vscode-icon-fonts-legacy).
 
@@ -92,16 +92,6 @@ Examples:
 * `fa-check`+<kbd>Tab</kbd> completes to `<i class="fa fa-check"></i>`
 * `glyphicon-check`+<kbd>Tab</kbd> completes to `<span class="glyphicon glyphicons-check"></span>`
 * well, you get the idea
-
-### CDNs
-
-If a supported CDN is indicated in the [table](#prefixes) above, you can use the prefixes `cdnjs` or `jsdelivr` to quickly insert a link to the CDN-hosted asset:
-
-Examples:
-
-* `cdnjs-fa`+<kbd>Tab</kbd> completes to a `<link>` tag to the Font Awesome style-sheet
-* `jsdelivr-fa`+<kbd>Tab</kbd> completes to a `<link>` tag to the Font Awesome style-sheet
-* `jsdelivr-geomicon`+<kbd>Tab</kbd> completes to a `<script>` tag to the Geomicons script
 
 ## License
 

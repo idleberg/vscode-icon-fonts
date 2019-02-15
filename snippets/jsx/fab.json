@@ -54,6 +54,11 @@
         "description": "<i>",
         "prefix": "fab-adn"
     },
+    "fab-adobe": {
+        "body": "<${1:i} className=\"fab fa-adobe$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-adobe"
+    },
     "fab-adversal": {
         "body": "<${1:i} className=\"fab fa-adversal$2\"></${1:i}>$0",
         "description": "<i>",
@@ -153,6 +158,11 @@
         "body": "<${1:i} className=\"fab fa-android$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-android"
+    },
+    "fab-angel": {
+        "body": "<${1:i} className=\"fab fa-angel$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-angel"
     },
     "fab-angellist": {
         "body": "<${1:i} className=\"fab fa-angellist$2\"></${1:i}>$0",
@@ -494,6 +504,11 @@
         "description": "<i>",
         "prefix": "fab-arrows-v"
     },
+    "fab-artstation": {
+        "body": "<${1:i} className=\"fab fa-artstation$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-artstation"
+    },
     "fab-assistive-listening-systems": {
         "body": "<${1:i} className=\"fab fa-assistive-listening-systems$2\"></${1:i}>$0",
         "description": "<i>",
@@ -518,6 +533,11 @@
         "body": "<${1:i} className=\"fab fa-atlas$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-atlas"
+    },
+    "fab-atlassian": {
+        "body": "<${1:i} className=\"fab fa-atlassian$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-atlassian"
     },
     "fab-atom": {
         "body": "<${1:i} className=\"fab fa-atom$2\"></${1:i}>$0",
@@ -574,6 +594,16 @@
         "description": "<i>",
         "prefix": "fab-axe-battle"
     },
+    "fab-baby": {
+        "body": "<${1:i} className=\"fab fa-baby$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-baby"
+    },
+    "fab-baby-carriage": {
+        "body": "<${1:i} className=\"fab fa-baby-carriage$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-baby-carriage"
+    },
     "fab-backpack": {
         "body": "<${1:i} className=\"fab fa-backpack$2\"></${1:i}>$0",
         "description": "<i>",
@@ -588,6 +618,11 @@
         "body": "<${1:i} className=\"fab fa-backward$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-backward"
+    },
+    "fab-bacon": {
+        "body": "<${1:i} className=\"fab fa-bacon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-bacon"
     },
     "fab-badge": {
         "body": "<${1:i} className=\"fab fa-badge$2\"></${1:i}>$0",
@@ -628,6 +663,11 @@
         "body": "<${1:i} className=\"fab fa-balance-scale-right$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-balance-scale-right"
+    },
+    "fab-ball-pile": {
+        "body": "<${1:i} className=\"fab fa-ball-pile$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ball-pile"
     },
     "fab-ballot": {
         "body": "<${1:i} className=\"fab fa-ballot$2\"></${1:i}>$0",
@@ -784,6 +824,11 @@
         "description": "<i>",
         "prefix": "fab-bell-slash"
     },
+    "fab-bells": {
+        "body": "<${1:i} className=\"fab fa-bells$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-bells"
+    },
     "fab-bezier-curve": {
         "body": "<${1:i} className=\"fab fa-bezier-curve$2\"></${1:i}>$0",
         "description": "<i>",
@@ -808,6 +853,11 @@
         "body": "<${1:i} className=\"fab fa-binoculars$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-binoculars"
+    },
+    "fab-biohazard": {
+        "body": "<${1:i} className=\"fab fa-biohazard$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-biohazard"
     },
     "fab-birthday-cake": {
         "body": "<${1:i} className=\"fab fa-birthday-cake$2\"></${1:i}>$0",
@@ -858,6 +908,11 @@
         "body": "<${1:i} className=\"fab fa-blind$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-blind"
+    },
+    "fab-blog": {
+        "body": "<${1:i} className=\"fab fa-blog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-blog"
     },
     "fab-blogger": {
         "body": "<${1:i} className=\"fab fa-blogger$2\"></${1:i}>$0",
@@ -929,6 +984,11 @@
         "description": "<i>",
         "prefix": "fab-book-heart"
     },
+    "fab-book-medical": {
+        "body": "<${1:i} className=\"fab fa-book-medical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-book-medical"
+    },
     "fab-book-open": {
         "body": "<${1:i} className=\"fab fa-book-open$2\"></${1:i}>$0",
         "description": "<i>",
@@ -944,6 +1004,11 @@
         "description": "<i>",
         "prefix": "fab-book-spells"
     },
+    "fab-book-user": {
+        "body": "<${1:i} className=\"fab fa-book-user$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-book-user"
+    },
     "fab-bookmark": {
         "body": "<${1:i} className=\"fab fa-bookmark$2\"></${1:i}>$0",
         "description": "<i>",
@@ -953,6 +1018,16 @@
         "body": "<${1:i} className=\"fab fa-books$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-books"
+    },
+    "fab-books-medical": {
+        "body": "<${1:i} className=\"fab fa-books-medical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-books-medical"
+    },
+    "fab-boot": {
+        "body": "<${1:i} className=\"fab fa-boot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-boot"
     },
     "fab-booth-curtain": {
         "body": "<${1:i} className=\"fab fa-booth-curtain$2\"></${1:i}>$0",
@@ -1039,6 +1114,16 @@
         "description": "<i>",
         "prefix": "fab-boxing-glove"
     },
+    "fab-brackets": {
+        "body": "<${1:i} className=\"fab fa-brackets$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-brackets"
+    },
+    "fab-brackets-curly": {
+        "body": "<${1:i} className=\"fab fa-brackets-curly$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-brackets-curly"
+    },
     "fab-braille": {
         "body": "<${1:i} className=\"fab fa-braille$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1048,6 +1133,16 @@
         "body": "<${1:i} className=\"fab fa-brain$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-brain"
+    },
+    "fab-bread-loaf": {
+        "body": "<${1:i} className=\"fab fa-bread-loaf$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-bread-loaf"
+    },
+    "fab-bread-slice": {
+        "body": "<${1:i} className=\"fab fa-bread-slice$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-bread-slice"
     },
     "fab-briefcase": {
         "body": "<${1:i} className=\"fab fa-briefcase$2\"></${1:i}>$0",
@@ -1124,6 +1219,11 @@
         "description": "<i>",
         "prefix": "fab-buromobelexperte"
     },
+    "fab-burrito": {
+        "body": "<${1:i} className=\"fab fa-burrito$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-burrito"
+    },
     "fab-bus": {
         "body": "<${1:i} className=\"fab fa-bus$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1179,6 +1279,11 @@
         "description": "<i>",
         "prefix": "fab-calendar-check"
     },
+    "fab-calendar-day": {
+        "body": "<${1:i} className=\"fab fa-calendar-day$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-calendar-day"
+    },
     "fab-calendar-edit": {
         "body": "<${1:i} className=\"fab fa-calendar-edit$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1209,6 +1314,11 @@
         "description": "<i>",
         "prefix": "fab-calendar-times"
     },
+    "fab-calendar-week": {
+        "body": "<${1:i} className=\"fab fa-calendar-week$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-calendar-week"
+    },
     "fab-camera": {
         "body": "<${1:i} className=\"fab fa-camera$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1234,10 +1344,20 @@
         "description": "<i>",
         "prefix": "fab-campground"
     },
+    "fab-canadian-maple-leaf": {
+        "body": "<${1:i} className=\"fab fa-canadian-maple-leaf$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-canadian-maple-leaf"
+    },
     "fab-candle-holder": {
         "body": "<${1:i} className=\"fab fa-candle-holder$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-candle-holder"
+    },
+    "fab-candy-cane": {
+        "body": "<${1:i} className=\"fab fa-candy-cane$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-candy-cane"
     },
     "fab-candy-corn": {
         "body": "<${1:i} className=\"fab fa-candy-corn$2\"></${1:i}>$0",
@@ -1364,6 +1484,11 @@
         "description": "<i>",
         "prefix": "fab-caret-up"
     },
+    "fab-carrot": {
+        "body": "<${1:i} className=\"fab fa-carrot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-carrot"
+    },
     "fab-cart-arrow-down": {
         "body": "<${1:i} className=\"fab fa-cart-arrow-down$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1373,6 +1498,11 @@
         "body": "<${1:i} className=\"fab fa-cart-plus$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-cart-plus"
+    },
+    "fab-cash-register": {
+        "body": "<${1:i} className=\"fab fa-cash-register$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cash-register"
     },
     "fab-cat": {
         "body": "<${1:i} className=\"fab fa-cat$2\"></${1:i}>$0",
@@ -1439,6 +1569,11 @@
         "description": "<i>",
         "prefix": "fab-centercode"
     },
+    "fab-centos": {
+        "body": "<${1:i} className=\"fab fa-centos$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-centos"
+    },
     "fab-certificate": {
         "body": "<${1:i} className=\"fab fa-certificate$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1489,6 +1624,11 @@
         "description": "<i>",
         "prefix": "fab-chart-line-down"
     },
+    "fab-chart-network": {
+        "body": "<${1:i} className=\"fab fa-chart-network$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-chart-network"
+    },
     "fab-chart-pie": {
         "body": "<${1:i} className=\"fab fa-chart-pie$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1498,6 +1638,11 @@
         "body": "<${1:i} className=\"fab fa-chart-pie-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-chart-pie-alt"
+    },
+    "fab-chart-scatter": {
+        "body": "<${1:i} className=\"fab fa-chart-scatter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-chart-scatter"
     },
     "fab-check": {
         "body": "<${1:i} className=\"fab fa-check$2\"></${1:i}>$0",
@@ -1518,6 +1663,21 @@
         "body": "<${1:i} className=\"fab fa-check-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-check-square"
+    },
+    "fab-cheese": {
+        "body": "<${1:i} className=\"fab fa-cheese$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cheese"
+    },
+    "fab-cheese-swiss": {
+        "body": "<${1:i} className=\"fab fa-cheese-swiss$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cheese-swiss"
+    },
+    "fab-cheeseburger": {
+        "body": "<${1:i} className=\"fab fa-cheeseburger$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cheeseburger"
     },
     "fab-chess": {
         "body": "<${1:i} className=\"fab fa-chess$2\"></${1:i}>$0",
@@ -1684,6 +1844,11 @@
         "description": "<i>",
         "prefix": "fab-child"
     },
+    "fab-chimney": {
+        "body": "<${1:i} className=\"fab fa-chimney$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-chimney"
+    },
     "fab-chrome": {
         "body": "<${1:i} className=\"fab fa-chrome$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1714,6 +1879,11 @@
         "description": "<i>",
         "prefix": "fab-claw-marks"
     },
+    "fab-clinic-medical": {
+        "body": "<${1:i} className=\"fab fa-clinic-medical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-clinic-medical"
+    },
     "fab-clipboard": {
         "body": "<${1:i} className=\"fab fa-clipboard$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1738,6 +1908,11 @@
         "body": "<${1:i} className=\"fab fa-clipboard-prescription$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-clipboard-prescription"
+    },
+    "fab-clipboard-user": {
+        "body": "<${1:i} className=\"fab fa-clipboard-user$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-clipboard-user"
     },
     "fab-clock": {
         "body": "<${1:i} className=\"fab fa-clock$2\"></${1:i}>$0",
@@ -1994,6 +2169,11 @@
         "description": "<i>",
         "prefix": "fab-comment-alt-lines"
     },
+    "fab-comment-alt-medical": {
+        "body": "<${1:i} className=\"fab fa-comment-alt-medical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-comment-alt-medical"
+    },
     "fab-comment-alt-minus": {
         "body": "<${1:i} className=\"fab fa-comment-alt-minus$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2048,6 +2228,11 @@
         "body": "<${1:i} className=\"fab fa-comment-lines$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-comment-lines"
+    },
+    "fab-comment-medical": {
+        "body": "<${1:i} className=\"fab fa-comment-medical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-comment-medical"
     },
     "fab-comment-minus": {
         "body": "<${1:i} className=\"fab fa-comment-minus$2\"></${1:i}>$0",
@@ -2119,6 +2304,11 @@
         "description": "<i>",
         "prefix": "fab-compress-alt"
     },
+    "fab-compress-arrows-alt": {
+        "body": "<${1:i} className=\"fab fa-compress-arrows-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-compress-arrows-alt"
+    },
     "fab-compress-wide": {
         "body": "<${1:i} className=\"fab fa-compress-wide$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2128,6 +2318,11 @@
         "body": "<${1:i} className=\"fab fa-concierge-bell$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-concierge-bell"
+    },
+    "fab-confluence": {
+        "body": "<${1:i} className=\"fab fa-confluence$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-confluence"
     },
     "fab-connectdevelop": {
         "body": "<${1:i} className=\"fab fa-connectdevelop$2\"></${1:i}>$0",
@@ -2289,6 +2484,11 @@
         "description": "<i>",
         "prefix": "fab-critical-role"
     },
+    "fab-croissant": {
+        "body": "<${1:i} className=\"fab fa-croissant$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-croissant"
+    },
     "fab-crop": {
         "body": "<${1:i} className=\"fab fa-crop$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2318,6 +2518,16 @@
         "body": "<${1:i} className=\"fab fa-crown$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-crown"
+    },
+    "fab-crutch": {
+        "body": "<${1:i} className=\"fab fa-crutch$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-crutch"
+    },
+    "fab-crutches": {
+        "body": "<${1:i} className=\"fab fa-crutches$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-crutches"
     },
     "fab-css3": {
         "body": "<${1:i} className=\"fab fa-css3$2\"></${1:i}>$0",
@@ -2384,6 +2594,21 @@
         "description": "<i>",
         "prefix": "fab-deaf"
     },
+    "fab-debug": {
+        "body": "<${1:i} className=\"fab fa-debug$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-debug"
+    },
+    "fab-deer": {
+        "body": "<${1:i} className=\"fab fa-deer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-deer"
+    },
+    "fab-deer-rudolph": {
+        "body": "<${1:i} className=\"fab fa-deer-rudolph$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-deer-rudolph"
+    },
     "fab-delicious": {
         "body": "<${1:i} className=\"fab fa-delicious$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2434,6 +2659,11 @@
         "description": "<i>",
         "prefix": "fab-dharmachakra"
     },
+    "fab-dhl": {
+        "body": "<${1:i} className=\"fab fa-dhl$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dhl"
+    },
     "fab-diagnoses": {
         "body": "<${1:i} className=\"fab fa-diagnoses$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2443,6 +2673,11 @@
         "body": "<${1:i} className=\"fab fa-diamond$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-diamond"
+    },
+    "fab-diaspora": {
+        "body": "<${1:i} className=\"fab fa-diaspora$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-diaspora"
     },
     "fab-dice": {
         "body": "<${1:i} className=\"fab fa-dice$2\"></${1:i}>$0",
@@ -2543,6 +2778,11 @@
         "body": "<${1:i} className=\"fab fa-discourse$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-discourse"
+    },
+    "fab-disease": {
+        "body": "<${1:i} className=\"fab fa-disease$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-disease"
     },
     "fab-divide": {
         "body": "<${1:i} className=\"fab fa-divide$2\"></${1:i}>$0",
@@ -2674,6 +2914,11 @@
         "description": "<i>",
         "prefix": "fab-draw-square"
     },
+    "fab-dreidel": {
+        "body": "<${1:i} className=\"fab fa-dreidel$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dreidel"
+    },
     "fab-dribbble": {
         "body": "<${1:i} className=\"fab fa-dribbble$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2724,6 +2969,16 @@
         "description": "<i>",
         "prefix": "fab-dumbbell"
     },
+    "fab-dumpster": {
+        "body": "<${1:i} className=\"fab fa-dumpster$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dumpster"
+    },
+    "fab-dumpster-fire": {
+        "body": "<${1:i} className=\"fab fa-dumpster-fire$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-dumpster-fire"
+    },
     "fab-dungeon": {
         "body": "<${1:i} className=\"fab fa-dungeon$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2738,6 +2993,11 @@
         "body": "<${1:i} className=\"fab fa-ear$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-ear"
+    },
+    "fab-ear-muffs": {
+        "body": "<${1:i} className=\"fab fa-ear-muffs$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ear-muffs"
     },
     "fab-earlybirds": {
         "body": "<${1:i} className=\"fab fa-earlybirds$2\"></${1:i}>$0",
@@ -2768,6 +3028,16 @@
         "body": "<${1:i} className=\"fab fa-edit$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-edit"
+    },
+    "fab-egg": {
+        "body": "<${1:i} className=\"fab fa-egg$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-egg"
+    },
+    "fab-egg-fried": {
+        "body": "<${1:i} className=\"fab fa-egg-fried$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-egg-fried"
     },
     "fab-eject": {
         "body": "<${1:i} className=\"fab fa-eject$2\"></${1:i}>$0",
@@ -2878,6 +3148,11 @@
         "body": "<${1:i} className=\"fab fa-ethereum$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-ethereum"
+    },
+    "fab-ethernet": {
+        "body": "<${1:i} className=\"fab fa-ethernet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ethernet"
     },
     "fab-etsy": {
         "body": "<${1:i} className=\"fab fa-etsy$2\"></${1:i}>$0",
@@ -3039,6 +3314,16 @@
         "description": "<i>",
         "prefix": "fab-feather-alt"
     },
+    "fab-fedex": {
+        "body": "<${1:i} className=\"fab fa-fedex$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-fedex"
+    },
+    "fab-fedora": {
+        "body": "<${1:i} className=\"fab fa-fedora$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-fedora"
+    },
     "fab-female": {
         "body": "<${1:i} className=\"fab fa-female$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3053,6 +3338,11 @@
         "body": "<${1:i} className=\"fab fa-fighter-jet$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-fighter-jet"
+    },
+    "fab-figma": {
+        "body": "<${1:i} className=\"fab fa-figma$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-figma"
     },
     "fab-file": {
         "body": "<${1:i} className=\"fab fa-file$2\"></${1:i}>$0",
@@ -3224,6 +3514,11 @@
         "description": "<i>",
         "prefix": "fab-file-word"
     },
+    "fab-files-medical": {
+        "body": "<${1:i} className=\"fab fa-files-medical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-files-medical"
+    },
     "fab-fill": {
         "body": "<${1:i} className=\"fab fa-fill$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3259,6 +3554,11 @@
         "description": "<i>",
         "prefix": "fab-fire"
     },
+    "fab-fire-alt": {
+        "body": "<${1:i} className=\"fab fa-fire-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-fire-alt"
+    },
     "fab-fire-extinguisher": {
         "body": "<${1:i} className=\"fab fa-fire-extinguisher$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3273,6 +3573,11 @@
         "body": "<${1:i} className=\"fab fa-firefox$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-firefox"
+    },
+    "fab-fireplace": {
+        "body": "<${1:i} className=\"fab fa-fireplace$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-fireplace"
     },
     "fab-first-aid": {
         "body": "<${1:i} className=\"fab fa-first-aid$2\"></${1:i}>$0",
@@ -3298,6 +3603,11 @@
         "body": "<${1:i} className=\"fab fa-fish$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-fish"
+    },
+    "fab-fish-cooked": {
+        "body": "<${1:i} className=\"fab fa-fish-cooked$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-fish-cooked"
     },
     "fab-fist-raised": {
         "body": "<${1:i} className=\"fab fa-fist-raised$2\"></${1:i}>$0",
@@ -3354,6 +3664,21 @@
         "description": "<i>",
         "prefix": "fab-flipboard"
     },
+    "fab-flower": {
+        "body": "<${1:i} className=\"fab fa-flower$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-flower"
+    },
+    "fab-flower-daffodil": {
+        "body": "<${1:i} className=\"fab fa-flower-daffodil$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-flower-daffodil"
+    },
+    "fab-flower-tulip": {
+        "body": "<${1:i} className=\"fab fa-flower-tulip$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-flower-tulip"
+    },
     "fab-flushed": {
         "body": "<${1:i} className=\"fab fa-flushed$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3393,6 +3718,11 @@
         "body": "<${1:i} className=\"fab fa-folder-times$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-folder-times"
+    },
+    "fab-folder-tree": {
+        "body": "<${1:i} className=\"fab fa-folder-tree$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-folder-tree"
     },
     "fab-folders": {
         "body": "<${1:i} className=\"fab fa-folders$2\"></${1:i}>$0",
@@ -3489,10 +3819,20 @@
         "description": "<i>",
         "prefix": "fab-freebsd"
     },
+    "fab-french-fries": {
+        "body": "<${1:i} className=\"fab fa-french-fries$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-french-fries"
+    },
     "fab-frog": {
         "body": "<${1:i} className=\"fab fa-frog$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-frog"
+    },
+    "fab-frosty-head": {
+        "body": "<${1:i} className=\"fab fa-frosty-head$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-frosty-head"
     },
     "fab-frown": {
         "body": "<${1:i} className=\"fab fa-frown$2\"></${1:i}>$0",
@@ -3594,6 +3934,16 @@
         "description": "<i>",
         "prefix": "fab-gift-card"
     },
+    "fab-gifts": {
+        "body": "<${1:i} className=\"fab fa-gifts$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-gifts"
+    },
+    "fab-gingerbread-man": {
+        "body": "<${1:i} className=\"fab fa-gingerbread-man$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-gingerbread-man"
+    },
     "fab-git": {
         "body": "<${1:i} className=\"fab fa-git$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3634,6 +3984,21 @@
         "description": "<i>",
         "prefix": "fab-gitter"
     },
+    "fab-glass": {
+        "body": "<${1:i} className=\"fab fa-glass$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-glass"
+    },
+    "fab-glass-champagne": {
+        "body": "<${1:i} className=\"fab fa-glass-champagne$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-glass-champagne"
+    },
+    "fab-glass-cheers": {
+        "body": "<${1:i} className=\"fab fa-glass-cheers$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-glass-cheers"
+    },
     "fab-glass-martini": {
         "body": "<${1:i} className=\"fab fa-glass-martini$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3643,6 +4008,16 @@
         "body": "<${1:i} className=\"fab fa-glass-martini-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-glass-martini-alt"
+    },
+    "fab-glass-whiskey": {
+        "body": "<${1:i} className=\"fab fa-glass-whiskey$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-glass-whiskey"
+    },
+    "fab-glass-whiskey-rocks": {
+        "body": "<${1:i} className=\"fab fa-glass-whiskey-rocks$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-glass-whiskey-rocks"
     },
     "fab-glasses": {
         "body": "<${1:i} className=\"fab fa-glasses$2\"></${1:i}>$0",
@@ -3683,6 +4058,16 @@
         "body": "<${1:i} className=\"fab fa-globe-asia$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-globe-asia"
+    },
+    "fab-globe-europe": {
+        "body": "<${1:i} className=\"fab fa-globe-europe$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-globe-europe"
+    },
+    "fab-globe-snow": {
+        "body": "<${1:i} className=\"fab fa-globe-snow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-globe-snow"
     },
     "fab-globe-stand": {
         "body": "<${1:i} className=\"fab fa-globe-stand$2\"></${1:i}>$0",
@@ -3854,6 +4239,16 @@
         "description": "<i>",
         "prefix": "fab-grip-horizontal"
     },
+    "fab-grip-lines": {
+        "body": "<${1:i} className=\"fab fa-grip-lines$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-grip-lines"
+    },
+    "fab-grip-lines-vertical": {
+        "body": "<${1:i} className=\"fab fa-grip-lines-vertical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-grip-lines-vertical"
+    },
     "fab-grip-vertical": {
         "body": "<${1:i} className=\"fab fa-grip-vertical$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3868,6 +4263,11 @@
         "body": "<${1:i} className=\"fab fa-grunt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-grunt"
+    },
+    "fab-guitar": {
+        "body": "<${1:i} className=\"fab fa-guitar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-guitar"
     },
     "fab-gulp": {
         "body": "<${1:i} className=\"fab fa-gulp$2\"></${1:i}>$0",
@@ -3908,6 +4308,11 @@
         "body": "<${1:i} className=\"fab fa-hackerrank$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-hackerrank"
+    },
+    "fab-hamburger": {
+        "body": "<${1:i} className=\"fab fa-hamburger$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hamburger"
     },
     "fab-hammer": {
         "body": "<${1:i} className=\"fab fa-hammer$2\"></${1:i}>$0",
@@ -3968,6 +4373,11 @@
         "body": "<${1:i} className=\"fab fa-hand-lizard$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-hand-lizard"
+    },
+    "fab-hand-middle-finger": {
+        "body": "<${1:i} className=\"fab fa-hand-middle-finger$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hand-middle-finger"
     },
     "fab-hand-paper": {
         "body": "<${1:i} className=\"fab fa-hand-paper$2\"></${1:i}>$0",
@@ -4059,10 +4469,25 @@
         "description": "<i>",
         "prefix": "fab-hanukiah"
     },
+    "fab-hard-hat": {
+        "body": "<${1:i} className=\"fab fa-hard-hat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hard-hat"
+    },
     "fab-hashtag": {
         "body": "<${1:i} className=\"fab fa-hashtag$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-hashtag"
+    },
+    "fab-hat-santa": {
+        "body": "<${1:i} className=\"fab fa-hat-santa$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hat-santa"
+    },
+    "fab-hat-winter": {
+        "body": "<${1:i} className=\"fab fa-hat-winter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hat-winter"
     },
     "fab-hat-witch": {
         "body": "<${1:i} className=\"fab fa-hat-witch$2\"></${1:i}>$0",
@@ -4088,6 +4513,16 @@
         "body": "<${1:i} className=\"fab fa-head-side$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-head-side"
+    },
+    "fab-head-side-brain": {
+        "body": "<${1:i} className=\"fab fa-head-side-brain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-head-side-brain"
+    },
+    "fab-head-side-medical": {
+        "body": "<${1:i} className=\"fab fa-head-side-medical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-head-side-medical"
     },
     "fab-head-vr": {
         "body": "<${1:i} className=\"fab fa-head-vr$2\"></${1:i}>$0",
@@ -4118,6 +4553,11 @@
         "body": "<${1:i} className=\"fab fa-heart$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-heart"
+    },
+    "fab-heart-broken": {
+        "body": "<${1:i} className=\"fab fa-heart-broken$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-heart-broken"
     },
     "fab-heart-circle": {
         "body": "<${1:i} className=\"fab fa-heart-circle$2\"></${1:i}>$0",
@@ -4199,15 +4639,35 @@
         "description": "<i>",
         "prefix": "fab-hockey-sticks"
     },
+    "fab-holly-berry": {
+        "body": "<${1:i} className=\"fab fa-holly-berry$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-holly-berry"
+    },
     "fab-home": {
         "body": "<${1:i} className=\"fab fa-home$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-home"
     },
+    "fab-home-alt": {
+        "body": "<${1:i} className=\"fab fa-home-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-home-alt"
+    },
     "fab-home-heart": {
         "body": "<${1:i} className=\"fab fa-home-heart$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-home-heart"
+    },
+    "fab-home-lg": {
+        "body": "<${1:i} className=\"fab fa-home-lg$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-home-lg"
+    },
+    "fab-home-lg-alt": {
+        "body": "<${1:i} className=\"fab fa-home-lg-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-home-lg-alt"
     },
     "fab-hood-cloak": {
         "body": "<${1:i} className=\"fab fa-hood-cloak$2\"></${1:i}>$0",
@@ -4229,6 +4689,11 @@
         "description": "<i>",
         "prefix": "fab-horse"
     },
+    "fab-horse-head": {
+        "body": "<${1:i} className=\"fab fa-horse-head$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-horse-head"
+    },
     "fab-hospital": {
         "body": "<${1:i} className=\"fab fa-hospital$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4244,10 +4709,25 @@
         "description": "<i>",
         "prefix": "fab-hospital-symbol"
     },
+    "fab-hospital-user": {
+        "body": "<${1:i} className=\"fab fa-hospital-user$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hospital-user"
+    },
+    "fab-hospitals": {
+        "body": "<${1:i} className=\"fab fa-hospitals$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hospitals"
+    },
     "fab-hot-tub": {
         "body": "<${1:i} className=\"fab fa-hot-tub$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-hot-tub"
+    },
+    "fab-hotdog": {
+        "body": "<${1:i} className=\"fab fa-hotdog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hotdog"
     },
     "fab-hotel": {
         "body": "<${1:i} className=\"fab fa-hotel$2\"></${1:i}>$0",
@@ -4324,6 +4804,21 @@
         "description": "<i>",
         "prefix": "fab-i-cursor"
     },
+    "fab-ice-cream": {
+        "body": "<${1:i} className=\"fab fa-ice-cream$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ice-cream"
+    },
+    "fab-ice-skate": {
+        "body": "<${1:i} className=\"fab fa-ice-skate$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ice-skate"
+    },
+    "fab-icicles": {
+        "body": "<${1:i} className=\"fab fa-icicles$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-icicles"
+    },
     "fab-id-badge": {
         "body": "<${1:i} className=\"fab fa-id-badge$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4338,6 +4833,11 @@
         "body": "<${1:i} className=\"fab fa-id-card-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-id-card-alt"
+    },
+    "fab-igloo": {
+        "body": "<${1:i} className=\"fab fa-igloo$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-igloo"
     },
     "fab-image": {
         "body": "<${1:i} className=\"fab fa-image$2\"></${1:i}>$0",
@@ -4419,6 +4919,11 @@
         "description": "<i>",
         "prefix": "fab-integral"
     },
+    "fab-intercom": {
+        "body": "<${1:i} className=\"fab fa-intercom$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-intercom"
+    },
     "fab-internet-explorer": {
         "body": "<${1:i} className=\"fab fa-internet-explorer$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4434,10 +4939,20 @@
         "description": "<i>",
         "prefix": "fab-inventory"
     },
+    "fab-invision": {
+        "body": "<${1:i} className=\"fab fa-invision$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-invision"
+    },
     "fab-ioxhost": {
         "body": "<${1:i} className=\"fab fa-ioxhost$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-ioxhost"
+    },
+    "fab-island-tropical": {
+        "body": "<${1:i} className=\"fab fa-island-tropical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-island-tropical"
     },
     "fab-italic": {
         "body": "<${1:i} className=\"fab fa-italic$2\"></${1:i}>$0",
@@ -4478,6 +4993,11 @@
         "body": "<${1:i} className=\"fab fa-jenkins$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-jenkins"
+    },
+    "fab-jira": {
+        "body": "<${1:i} className=\"fab fa-jira$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-jira"
     },
     "fab-joget": {
         "body": "<${1:i} className=\"fab fa-joget$2\"></${1:i}>$0",
@@ -4644,6 +5164,11 @@
         "description": "<i>",
         "prefix": "fab-laptop-code"
     },
+    "fab-laptop-medical": {
+        "body": "<${1:i} className=\"fab fa-laptop-medical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-laptop-medical"
+    },
     "fab-laravel": {
         "body": "<${1:i} className=\"fab fa-laravel$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4788,6 +5313,11 @@
         "body": "<${1:i} className=\"fab fa-lightbulb-slash$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-lightbulb-slash"
+    },
+    "fab-lights-holiday": {
+        "body": "<${1:i} className=\"fab fa-lights-holiday$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-lights-holiday"
     },
     "fab-line": {
         "body": "<${1:i} className=\"fab fa-line$2\"></${1:i}>$0",
@@ -4984,6 +5514,11 @@
         "description": "<i>",
         "prefix": "fab-mail-bulk"
     },
+    "fab-mailbox": {
+        "body": "<${1:i} className=\"fab fa-mailbox$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mailbox"
+    },
     "fab-mailchimp": {
         "body": "<${1:i} className=\"fab fa-mailchimp$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5139,6 +5674,11 @@
         "description": "<i>",
         "prefix": "fab-maxcdn"
     },
+    "fab-meat": {
+        "body": "<${1:i} className=\"fab fa-meat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-meat"
+    },
     "fab-medal": {
         "body": "<${1:i} className=\"fab fa-medal$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5203,6 +5743,11 @@
         "body": "<${1:i} className=\"fab fa-memory$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-memory"
+    },
+    "fab-mendeley": {
+        "body": "<${1:i} className=\"fab fa-mendeley$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mendeley"
     },
     "fab-menorah": {
         "body": "<${1:i} className=\"fab fa-menorah$2\"></${1:i}>$0",
@@ -5283,6 +5828,16 @@
         "body": "<${1:i} className=\"fab fa-minus-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-minus-square"
+    },
+    "fab-mistletoe": {
+        "body": "<${1:i} className=\"fab fa-mistletoe$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mistletoe"
+    },
+    "fab-mitten": {
+        "body": "<${1:i} className=\"fab fa-mitten$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mitten"
     },
     "fab-mix": {
         "body": "<${1:i} className=\"fab fa-mix$2\"></${1:i}>$0",
@@ -5418,6 +5973,16 @@
         "body": "<${1:i} className=\"fab fa-mouse-pointer$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-mouse-pointer"
+    },
+    "fab-mug-hot": {
+        "body": "<${1:i} className=\"fab fa-mug-hot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mug-hot"
+    },
+    "fab-mug-marshmallows": {
+        "body": "<${1:i} className=\"fab fa-mug-marshmallows$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mug-marshmallows"
     },
     "fab-music": {
         "body": "<${1:i} className=\"fab fa-music$2\"></${1:i}>$0",
@@ -5569,6 +6134,11 @@
         "description": "<i>",
         "prefix": "fab-optin-monster"
     },
+    "fab-ornament": {
+        "body": "<${1:i} className=\"fab fa-ornament$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ornament"
+    },
     "fab-osi": {
         "body": "<${1:i} className=\"fab fa-osi$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5593,6 +6163,11 @@
         "body": "<${1:i} className=\"fab fa-pagelines$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-pagelines"
+    },
+    "fab-pager": {
+        "body": "<${1:i} className=\"fab fa-pager$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-pager"
     },
     "fab-paint-brush": {
         "body": "<${1:i} className=\"fab fa-paint-brush$2\"></${1:i}>$0",
@@ -5789,6 +6364,11 @@
         "description": "<i>",
         "prefix": "fab-people-carry"
     },
+    "fab-pepper-hot": {
+        "body": "<${1:i} className=\"fab fa-pepper-hot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-pepper-hot"
+    },
     "fab-percent": {
         "body": "<${1:i} className=\"fab fa-percent$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5939,6 +6519,16 @@
         "description": "<i>",
         "prefix": "fab-pinterest-square"
     },
+    "fab-pizza": {
+        "body": "<${1:i} className=\"fab fa-pizza$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-pizza"
+    },
+    "fab-pizza-slice": {
+        "body": "<${1:i} className=\"fab fa-pizza-slice$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-pizza-slice"
+    },
     "fab-place-of-worship": {
         "body": "<${1:i} className=\"fab fa-place-of-worship$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6054,6 +6644,11 @@
         "description": "<i>",
         "prefix": "fab-poop"
     },
+    "fab-popcorn": {
+        "body": "<${1:i} className=\"fab fa-popcorn$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-popcorn"
+    },
     "fab-portrait": {
         "body": "<${1:i} className=\"fab fa-portrait$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6103,6 +6698,11 @@
         "body": "<${1:i} className=\"fab fa-print$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-print"
+    },
+    "fab-print-search": {
+        "body": "<${1:i} className=\"fab fa-print-search$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-print-search"
     },
     "fab-print-slash": {
         "body": "<${1:i} className=\"fab fa-print-slash$2\"></${1:i}>$0",
@@ -6219,6 +6819,16 @@
         "description": "<i>",
         "prefix": "fab-racquet"
     },
+    "fab-radiation": {
+        "body": "<${1:i} className=\"fab fa-radiation$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-radiation"
+    },
+    "fab-radiation-alt": {
+        "body": "<${1:i} className=\"fab fa-radiation-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-radiation-alt"
+    },
     "fab-rainbow": {
         "body": "<${1:i} className=\"fab fa-rainbow$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6243,6 +6853,11 @@
         "body": "<${1:i} className=\"fab fa-random$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-random"
+    },
+    "fab-raspberry-pi": {
+        "body": "<${1:i} className=\"fab fa-raspberry-pi$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-raspberry-pi"
     },
     "fab-ravelry": {
         "body": "<${1:i} className=\"fab fa-ravelry$2\"></${1:i}>$0",
@@ -6314,6 +6929,11 @@
         "description": "<i>",
         "prefix": "fab-reddit-square"
     },
+    "fab-redhat": {
+        "body": "<${1:i} className=\"fab fa-redhat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-redhat"
+    },
     "fab-redo": {
         "body": "<${1:i} className=\"fab fa-redo$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6384,6 +7004,11 @@
         "description": "<i>",
         "prefix": "fab-resolving"
     },
+    "fab-restroom": {
+        "body": "<${1:i} className=\"fab fa-restroom$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-restroom"
+    },
     "fab-retweet": {
         "body": "<${1:i} className=\"fab fa-retweet$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6408,6 +7033,11 @@
         "body": "<${1:i} className=\"fab fa-ring$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-ring"
+    },
+    "fab-rings-wedding": {
+        "body": "<${1:i} className=\"fab fa-rings-wedding$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-rings-wedding"
     },
     "fab-road": {
         "body": "<${1:i} className=\"fab fa-road$2\"></${1:i}>$0",
@@ -6499,6 +7129,21 @@
         "description": "<i>",
         "prefix": "fab-rupee-sign"
     },
+    "fab-rv": {
+        "body": "<${1:i} className=\"fab fa-rv$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-rv"
+    },
+    "fab-sack": {
+        "body": "<${1:i} className=\"fab fa-sack$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sack"
+    },
+    "fab-sack-dollar": {
+        "body": "<${1:i} className=\"fab fa-sack-dollar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sack-dollar"
+    },
     "fab-sad-cry": {
         "body": "<${1:i} className=\"fab fa-sad-cry$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6514,10 +7159,35 @@
         "description": "<i>",
         "prefix": "fab-safari"
     },
+    "fab-salad": {
+        "body": "<${1:i} className=\"fab fa-salad$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-salad"
+    },
+    "fab-sandwich": {
+        "body": "<${1:i} className=\"fab fa-sandwich$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sandwich"
+    },
     "fab-sass": {
         "body": "<${1:i} className=\"fab fa-sass$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-sass"
+    },
+    "fab-satellite": {
+        "body": "<${1:i} className=\"fab fa-satellite$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-satellite"
+    },
+    "fab-satellite-dish": {
+        "body": "<${1:i} className=\"fab fa-satellite-dish$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-satellite-dish"
+    },
+    "fab-sausage": {
+        "body": "<${1:i} className=\"fab fa-sausage$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sausage"
     },
     "fab-save": {
         "body": "<${1:i} className=\"fab fa-save$2\"></${1:i}>$0",
@@ -6553,6 +7223,11 @@
         "body": "<${1:i} className=\"fab fa-scarecrow$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-scarecrow"
+    },
+    "fab-scarf": {
+        "body": "<${1:i} className=\"fab fa-scarf$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-scarf"
     },
     "fab-schlix": {
         "body": "<${1:i} className=\"fab fa-schlix$2\"></${1:i}>$0",
@@ -6593,6 +7268,11 @@
         "body": "<${1:i} className=\"fab fa-scythe$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-scythe"
+    },
+    "fab-sd-card": {
+        "body": "<${1:i} className=\"fab fa-sd-card$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sd-card"
     },
     "fab-search": {
         "body": "<${1:i} className=\"fab fa-search$2\"></${1:i}>$0",
@@ -6729,6 +7409,11 @@
         "description": "<i>",
         "prefix": "fab-shirtsinbulk"
     },
+    "fab-shish-kebab": {
+        "body": "<${1:i} className=\"fab fa-shish-kebab$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-shish-kebab"
+    },
     "fab-shoe-prints": {
         "body": "<${1:i} className=\"fab fa-shoe-prints$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6759,6 +7444,11 @@
         "description": "<i>",
         "prefix": "fab-shovel"
     },
+    "fab-shovel-snow": {
+        "body": "<${1:i} className=\"fab fa-shovel-snow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-shovel-snow"
+    },
     "fab-shower": {
         "body": "<${1:i} className=\"fab fa-shower$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6778,6 +7468,11 @@
         "body": "<${1:i} className=\"fab fa-shuttlecock$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-shuttlecock"
+    },
+    "fab-sickle": {
+        "body": "<${1:i} className=\"fab fa-sickle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sickle"
     },
     "fab-sigma": {
         "body": "<${1:i} className=\"fab fa-sigma$2\"></${1:i}>$0",
@@ -6874,6 +7569,11 @@
         "description": "<i>",
         "prefix": "fab-signature"
     },
+    "fab-sim-card": {
+        "body": "<${1:i} className=\"fab fa-sim-card$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sim-card"
+    },
     "fab-simplybuilt": {
         "body": "<${1:i} className=\"fab fa-simplybuilt$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6894,10 +7594,40 @@
         "description": "<i>",
         "prefix": "fab-sith"
     },
+    "fab-skating": {
+        "body": "<${1:i} className=\"fab fa-skating$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-skating"
+    },
     "fab-skeleton": {
         "body": "<${1:i} className=\"fab fa-skeleton$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-skeleton"
+    },
+    "fab-sketch": {
+        "body": "<${1:i} className=\"fab fa-sketch$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sketch"
+    },
+    "fab-ski-jump": {
+        "body": "<${1:i} className=\"fab fa-ski-jump$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ski-jump"
+    },
+    "fab-ski-lift": {
+        "body": "<${1:i} className=\"fab fa-ski-lift$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ski-lift"
+    },
+    "fab-skiing": {
+        "body": "<${1:i} className=\"fab fa-skiing$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-skiing"
+    },
+    "fab-skiing-nordic": {
+        "body": "<${1:i} className=\"fab fa-skiing-nordic$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-skiing-nordic"
     },
     "fab-skull": {
         "body": "<${1:i} className=\"fab fa-skull$2\"></${1:i}>$0",
@@ -6933,6 +7663,16 @@
         "body": "<${1:i} className=\"fab fa-slash$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-slash"
+    },
+    "fab-sledding": {
+        "body": "<${1:i} className=\"fab fa-sledding$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sledding"
+    },
+    "fab-sleigh": {
+        "body": "<${1:i} className=\"fab fa-sleigh$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sleigh"
     },
     "fab-sliders-h": {
         "body": "<${1:i} className=\"fab fa-sliders-h$2\"></${1:i}>$0",
@@ -6999,6 +7739,11 @@
         "description": "<i>",
         "prefix": "fab-smoking-ban"
     },
+    "fab-sms": {
+        "body": "<${1:i} className=\"fab fa-sms$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sms"
+    },
     "fab-snake": {
         "body": "<${1:i} className=\"fab fa-snake$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7024,10 +7769,35 @@
         "description": "<i>",
         "prefix": "fab-snow-blowing"
     },
+    "fab-snowboarding": {
+        "body": "<${1:i} className=\"fab fa-snowboarding$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-snowboarding"
+    },
     "fab-snowflake": {
         "body": "<${1:i} className=\"fab fa-snowflake$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-snowflake"
+    },
+    "fab-snowflakes": {
+        "body": "<${1:i} className=\"fab fa-snowflakes$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-snowflakes"
+    },
+    "fab-snowman": {
+        "body": "<${1:i} className=\"fab fa-snowman$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-snowman"
+    },
+    "fab-snowmobile": {
+        "body": "<${1:i} className=\"fab fa-snowmobile$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-snowmobile"
+    },
+    "fab-snowplow": {
+        "body": "<${1:i} className=\"fab fa-snowplow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-snowplow"
     },
     "fab-socks": {
         "body": "<${1:i} className=\"fab fa-socks$2\"></${1:i}>$0",
@@ -7088,6 +7858,16 @@
         "body": "<${1:i} className=\"fab fa-soundcloud$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-soundcloud"
+    },
+    "fab-soup": {
+        "body": "<${1:i} className=\"fab fa-soup$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-soup"
+    },
+    "fab-sourcetree": {
+        "body": "<${1:i} className=\"fab fa-sourcetree$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sourcetree"
     },
     "fab-spa": {
         "body": "<${1:i} className=\"fab fa-spa$2\"></${1:i}>$0",
@@ -7209,6 +7989,11 @@
         "description": "<i>",
         "prefix": "fab-star-and-crescent"
     },
+    "fab-star-christmas": {
+        "body": "<${1:i} className=\"fab fa-star-christmas$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-star-christmas"
+    },
     "fab-star-exclamation": {
         "body": "<${1:i} className=\"fab fa-star-exclamation$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7243,6 +8028,11 @@
         "body": "<${1:i} className=\"fab fa-staylinked$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-staylinked"
+    },
+    "fab-steak": {
+        "body": "<${1:i} className=\"fab fa-steak$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-steak"
     },
     "fab-steam": {
         "body": "<${1:i} className=\"fab fa-steam$2\"></${1:i}>$0",
@@ -7289,6 +8079,11 @@
         "description": "<i>",
         "prefix": "fab-sticky-note"
     },
+    "fab-stocking": {
+        "body": "<${1:i} className=\"fab fa-stocking$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-stocking"
+    },
     "fab-stomach": {
         "body": "<${1:i} className=\"fab fa-stomach$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7333,6 +8128,11 @@
         "body": "<${1:i} className=\"fab fa-street-view$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-street-view"
+    },
+    "fab-stretcher": {
+        "body": "<${1:i} className=\"fab fa-stretcher$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-stretcher"
     },
     "fab-strikethrough": {
         "body": "<${1:i} className=\"fab fa-strikethrough$2\"></${1:i}>$0",
@@ -7438,6 +8238,11 @@
         "body": "<${1:i} className=\"fab fa-surprise$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-surprise"
+    },
+    "fab-suse": {
+        "body": "<${1:i} className=\"fab fa-suse$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-suse"
     },
     "fab-swatchbook": {
         "body": "<${1:i} className=\"fab fa-swatchbook$2\"></${1:i}>$0",
@@ -7584,6 +8389,11 @@
         "description": "<i>",
         "prefix": "fab-tachometer-slowest"
     },
+    "fab-taco": {
+        "body": "<${1:i} className=\"fab fa-taco$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-taco"
+    },
     "fab-tag": {
         "body": "<${1:i} className=\"fab fa-tag$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7599,6 +8409,11 @@
         "description": "<i>",
         "prefix": "fab-tally"
     },
+    "fab-tanakh": {
+        "body": "<${1:i} className=\"fab fa-tanakh$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tanakh"
+    },
     "fab-tape": {
         "body": "<${1:i} className=\"fab fa-tape$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7608,6 +8423,11 @@
         "body": "<${1:i} className=\"fab fa-tasks$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-tasks"
+    },
+    "fab-tasks-alt": {
+        "body": "<${1:i} className=\"fab fa-tasks-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tasks-alt"
     },
     "fab-taxi": {
         "body": "<${1:i} className=\"fab fa-taxi$2\"></${1:i}>$0",
@@ -7663,6 +8483,11 @@
         "body": "<${1:i} className=\"fab fa-tencent-weibo$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-tencent-weibo"
+    },
+    "fab-tenge": {
+        "body": "<${1:i} className=\"fab fa-tenge$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tenge"
     },
     "fab-tennis-ball": {
         "body": "<${1:i} className=\"fab fa-tennis-ball$2\"></${1:i}>$0",
@@ -7874,6 +8699,11 @@
         "description": "<i>",
         "prefix": "fab-toggle-on"
     },
+    "fab-toilet": {
+        "body": "<${1:i} className=\"fab fa-toilet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-toilet"
+    },
     "fab-toilet-paper": {
         "body": "<${1:i} className=\"fab fa-toilet-paper$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7898,6 +8728,11 @@
         "body": "<${1:i} className=\"fab fa-toolbox$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-toolbox"
+    },
+    "fab-tools": {
+        "body": "<${1:i} className=\"fab fa-tools$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tools"
     },
     "fab-tooth": {
         "body": "<${1:i} className=\"fab fa-tooth$2\"></${1:i}>$0",
@@ -7969,6 +8804,11 @@
         "description": "<i>",
         "prefix": "fab-train"
     },
+    "fab-tram": {
+        "body": "<${1:i} className=\"fab fa-tram$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tram"
+    },
     "fab-transgender": {
         "body": "<${1:i} className=\"fab fa-transgender$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7989,6 +8829,16 @@
         "description": "<i>",
         "prefix": "fab-trash-alt"
     },
+    "fab-trash-restore": {
+        "body": "<${1:i} className=\"fab fa-trash-restore$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-trash-restore"
+    },
+    "fab-trash-restore-alt": {
+        "body": "<${1:i} className=\"fab fa-trash-restore-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-trash-restore-alt"
+    },
     "fab-treasure-chest": {
         "body": "<${1:i} className=\"fab fa-treasure-chest$2\"></${1:i}>$0",
         "description": "<i>",
@@ -8003,6 +8853,26 @@
         "body": "<${1:i} className=\"fab fa-tree-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-tree-alt"
+    },
+    "fab-tree-christmas": {
+        "body": "<${1:i} className=\"fab fa-tree-christmas$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tree-christmas"
+    },
+    "fab-tree-decorated": {
+        "body": "<${1:i} className=\"fab fa-tree-decorated$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tree-decorated"
+    },
+    "fab-tree-large": {
+        "body": "<${1:i} className=\"fab fa-tree-large$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tree-large"
+    },
+    "fab-tree-palm": {
+        "body": "<${1:i} className=\"fab fa-tree-palm$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tree-palm"
     },
     "fab-trees": {
         "body": "<${1:i} className=\"fab fa-trees$2\"></${1:i}>$0",
@@ -8068,6 +8938,11 @@
         "body": "<${1:i} className=\"fab fa-truck-pickup$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-truck-pickup"
+    },
+    "fab-truck-plow": {
+        "body": "<${1:i} className=\"fab fa-truck-plow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-truck-plow"
     },
     "fab-truck-ramp": {
         "body": "<${1:i} className=\"fab fa-truck-ramp$2\"></${1:i}>$0",
@@ -8138,6 +9013,11 @@
         "body": "<${1:i} className=\"fab fa-uber$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-uber"
+    },
+    "fab-ubuntu": {
+        "body": "<${1:i} className=\"fab fa-ubuntu$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ubuntu"
     },
     "fab-uikit": {
         "body": "<${1:i} className=\"fab fa-uikit$2\"></${1:i}>$0",
@@ -8219,6 +9099,11 @@
         "description": "<i>",
         "prefix": "fab-upload"
     },
+    "fab-ups": {
+        "body": "<${1:i} className=\"fab fa-ups$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-ups"
+    },
     "fab-usb": {
         "body": "<${1:i} className=\"fab fa-usb$2\"></${1:i}>$0",
         "description": "<i>",
@@ -8299,6 +9184,16 @@
         "description": "<i>",
         "prefix": "fab-user-graduate"
     },
+    "fab-user-hard-hat": {
+        "body": "<${1:i} className=\"fab fa-user-hard-hat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-user-hard-hat"
+    },
+    "fab-user-headset": {
+        "body": "<${1:i} className=\"fab fa-user-headset$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-user-headset"
+    },
     "fab-user-injured": {
         "body": "<${1:i} className=\"fab fa-user-injured$2\"></${1:i}>$0",
         "description": "<i>",
@@ -8314,6 +9209,11 @@
         "description": "<i>",
         "prefix": "fab-user-md"
     },
+    "fab-user-md-chat": {
+        "body": "<${1:i} className=\"fab fa-user-md-chat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-user-md-chat"
+    },
     "fab-user-minus": {
         "body": "<${1:i} className=\"fab fa-user-minus$2\"></${1:i}>$0",
         "description": "<i>",
@@ -8323,6 +9223,11 @@
         "body": "<${1:i} className=\"fab fa-user-ninja$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-user-ninja"
+    },
+    "fab-user-nurse": {
+        "body": "<${1:i} className=\"fab fa-user-nurse$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-user-nurse"
     },
     "fab-user-plus": {
         "body": "<${1:i} className=\"fab fa-user-plus$2\"></${1:i}>$0",
@@ -8378,6 +9283,16 @@
         "body": "<${1:i} className=\"fab fa-users-crown$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-users-crown"
+    },
+    "fab-users-medical": {
+        "body": "<${1:i} className=\"fab fa-users-medical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-users-medical"
+    },
+    "fab-usps": {
+        "body": "<${1:i} className=\"fab fa-usps$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-usps"
     },
     "fab-ussunnah": {
         "body": "<${1:i} className=\"fab fa-ussunnah$2\"></${1:i}>$0",
@@ -8579,6 +9494,11 @@
         "description": "<i>",
         "prefix": "fab-vuejs"
     },
+    "fab-walker": {
+        "body": "<${1:i} className=\"fab fa-walker$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-walker"
+    },
     "fab-walking": {
         "body": "<${1:i} className=\"fab fa-walking$2\"></${1:i}>$0",
         "description": "<i>",
@@ -8633,6 +9553,16 @@
         "body": "<${1:i} className=\"fab fa-water-rise$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-water-rise"
+    },
+    "fab-webcam": {
+        "body": "<${1:i} className=\"fab fa-webcam$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-webcam"
+    },
+    "fab-webcam-slash": {
+        "body": "<${1:i} className=\"fab fa-webcam-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-webcam-slash"
     },
     "fab-weebly": {
         "body": "<${1:i} className=\"fab fa-weebly$2\"></${1:i}>$0",
@@ -8834,6 +9764,11 @@
         "description": "<i>",
         "prefix": "fab-wpressr"
     },
+    "fab-wreath": {
+        "body": "<${1:i} className=\"fab fa-wreath$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-wreath"
+    },
     "fab-wrench": {
         "body": "<${1:i} className=\"fab fa-wrench$2\"></${1:i}>$0",
         "description": "<i>",
@@ -8878,6 +9813,11 @@
         "body": "<${1:i} className=\"fab fa-yandex-international$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-yandex-international"
+    },
+    "fab-yarn": {
+        "body": "<${1:i} className=\"fab fa-yarn$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-yarn"
     },
     "fab-yelp": {
         "body": "<${1:i} className=\"fab fa-yelp$2\"></${1:i}>$0",

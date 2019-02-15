@@ -524,6 +524,31 @@
         "description": "<i>",
         "prefix": "icon-mastodon"
     },
+    "icon-jsonfeed": {
+        "body": "<${1:i} className=\"icon-jsonfeed$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "icon-jsonfeed"
+    },
+    "icon-pump-io": {
+        "body": "<${1:i} className=\"icon-pump-io$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "icon-pump-io"
+    },
+    "icon-friendica": {
+        "body": "<${1:i} className=\"icon-friendica$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "icon-friendica"
+    },
+    "icon-hubzilla": {
+        "body": "<${1:i} className=\"icon-hubzilla$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "icon-hubzilla"
+    },
+    "icon-fediverse": {
+        "body": "<${1:i} className=\"icon-fediverse$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "icon-fediverse"
+    },
     "icon-mastodon-simple": {
         "body": "<${1:i} className=\"icon-mastodon-simple$2\"></${1:i}>$0",
         "description": "<i>",

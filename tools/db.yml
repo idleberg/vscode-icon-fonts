@@ -84,7 +84,7 @@ fonts:
   slug: fab
   directory: fa
   github: FortAwesome/Font-Awesome-Pro
-  files: web-fonts-with-css/css/fontawesome-all.css
+  files: css/all.css
   pattern:
     before: .fa-
     after: :before
@@ -101,7 +101,7 @@ fonts:
   slug: far
   directory: fa
   github: FortAwesome/Font-Awesome-Pro
-  files: web-fonts-with-css/css/fontawesome-all.css
+  files: css/all.css
   pattern:
     before: .fa-
     after: :before
@@ -118,7 +118,7 @@ fonts:
   slug: fas
   directory: fa
   github: FortAwesome/Font-Awesome-Pro
-  files: web-fonts-with-css/css/fontawesome-all.css
+  files: css/all.css
   pattern:
     before: .fa-
     after: :before

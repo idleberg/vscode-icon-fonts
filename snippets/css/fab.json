@@ -54,6 +54,11 @@
         "description": "content",
         "prefix": "fab-adn"
     },
+    "fab-adobe": {
+        "body": "content: '\\\\f778';$0",
+        "description": "content",
+        "prefix": "fab-adobe"
+    },
     "fab-adversal": {
         "body": "content: '\\\\f36a';$0",
         "description": "content",
@@ -153,6 +158,11 @@
         "body": "content: '\\\\f17b';$0",
         "description": "content",
         "prefix": "fab-android"
+    },
+    "fab-angel": {
+        "body": "content: '\\\\f779';$0",
+        "description": "content",
+        "prefix": "fab-angel"
     },
     "fab-angellist": {
         "body": "content: '\\\\f209';$0",
@@ -494,6 +504,11 @@
         "description": "content",
         "prefix": "fab-arrows-v"
     },
+    "fab-artstation": {
+        "body": "content: '\\\\f77a';$0",
+        "description": "content",
+        "prefix": "fab-artstation"
+    },
     "fab-assistive-listening-systems": {
         "body": "content: '\\\\f2a2';$0",
         "description": "content",
@@ -518,6 +533,11 @@
         "body": "content: '\\\\f558';$0",
         "description": "content",
         "prefix": "fab-atlas"
+    },
+    "fab-atlassian": {
+        "body": "content: '\\\\f77b';$0",
+        "description": "content",
+        "prefix": "fab-atlassian"
     },
     "fab-atom": {
         "body": "content: '\\\\f5d2';$0",
@@ -574,6 +594,16 @@
         "description": "content",
         "prefix": "fab-axe-battle"
     },
+    "fab-baby": {
+        "body": "content: '\\\\f77c';$0",
+        "description": "content",
+        "prefix": "fab-baby"
+    },
+    "fab-baby-carriage": {
+        "body": "content: '\\\\f77d';$0",
+        "description": "content",
+        "prefix": "fab-baby-carriage"
+    },
     "fab-backpack": {
         "body": "content: '\\\\f5d4';$0",
         "description": "content",
@@ -588,6 +618,11 @@
         "body": "content: '\\\\f04a';$0",
         "description": "content",
         "prefix": "fab-backward"
+    },
+    "fab-bacon": {
+        "body": "content: '\\\\f7e5';$0",
+        "description": "content",
+        "prefix": "fab-bacon"
     },
     "fab-badge": {
         "body": "content: '\\\\f335';$0",
@@ -628,6 +663,11 @@
         "body": "content: '\\\\f516';$0",
         "description": "content",
         "prefix": "fab-balance-scale-right"
+    },
+    "fab-ball-pile": {
+        "body": "content: '\\\\f77e';$0",
+        "description": "content",
+        "prefix": "fab-ball-pile"
     },
     "fab-ballot": {
         "body": "content: '\\\\f732';$0",
@@ -784,6 +824,11 @@
         "description": "content",
         "prefix": "fab-bell-slash"
     },
+    "fab-bells": {
+        "body": "content: '\\\\f77f';$0",
+        "description": "content",
+        "prefix": "fab-bells"
+    },
     "fab-bezier-curve": {
         "body": "content: '\\\\f55b';$0",
         "description": "content",
@@ -808,6 +853,11 @@
         "body": "content: '\\\\f1e5';$0",
         "description": "content",
         "prefix": "fab-binoculars"
+    },
+    "fab-biohazard": {
+        "body": "content: '\\\\f780';$0",
+        "description": "content",
+        "prefix": "fab-biohazard"
     },
     "fab-birthday-cake": {
         "body": "content: '\\\\f1fd';$0",
@@ -858,6 +908,11 @@
         "body": "content: '\\\\f29d';$0",
         "description": "content",
         "prefix": "fab-blind"
+    },
+    "fab-blog": {
+        "body": "content: '\\\\f781';$0",
+        "description": "content",
+        "prefix": "fab-blog"
     },
     "fab-blogger": {
         "body": "content: '\\\\f37c';$0",
@@ -929,6 +984,11 @@
         "description": "content",
         "prefix": "fab-book-heart"
     },
+    "fab-book-medical": {
+        "body": "content: '\\\\f7e6';$0",
+        "description": "content",
+        "prefix": "fab-book-medical"
+    },
     "fab-book-open": {
         "body": "content: '\\\\f518';$0",
         "description": "content",
@@ -944,6 +1004,11 @@
         "description": "content",
         "prefix": "fab-book-spells"
     },
+    "fab-book-user": {
+        "body": "content: '\\\\f7e7';$0",
+        "description": "content",
+        "prefix": "fab-book-user"
+    },
     "fab-bookmark": {
         "body": "content: '\\\\f02e';$0",
         "description": "content",
@@ -953,6 +1018,16 @@
         "body": "content: '\\\\f5db';$0",
         "description": "content",
         "prefix": "fab-books"
+    },
+    "fab-books-medical": {
+        "body": "content: '\\\\f7e8';$0",
+        "description": "content",
+        "prefix": "fab-books-medical"
+    },
+    "fab-boot": {
+        "body": "content: '\\\\f782';$0",
+        "description": "content",
+        "prefix": "fab-boot"
     },
     "fab-booth-curtain": {
         "body": "content: '\\\\f734';$0",
@@ -1039,6 +1114,16 @@
         "description": "content",
         "prefix": "fab-boxing-glove"
     },
+    "fab-brackets": {
+        "body": "content: '\\\\f7e9';$0",
+        "description": "content",
+        "prefix": "fab-brackets"
+    },
+    "fab-brackets-curly": {
+        "body": "content: '\\\\f7ea';$0",
+        "description": "content",
+        "prefix": "fab-brackets-curly"
+    },
     "fab-braille": {
         "body": "content: '\\\\f2a1';$0",
         "description": "content",
@@ -1048,6 +1133,16 @@
         "body": "content: '\\\\f5dc';$0",
         "description": "content",
         "prefix": "fab-brain"
+    },
+    "fab-bread-loaf": {
+        "body": "content: '\\\\f7eb';$0",
+        "description": "content",
+        "prefix": "fab-bread-loaf"
+    },
+    "fab-bread-slice": {
+        "body": "content: '\\\\f7ec';$0",
+        "description": "content",
+        "prefix": "fab-bread-slice"
     },
     "fab-briefcase": {
         "body": "content: '\\\\f0b1';$0",
@@ -1124,6 +1219,11 @@
         "description": "content",
         "prefix": "fab-buromobelexperte"
     },
+    "fab-burrito": {
+        "body": "content: '\\\\f7ed';$0",
+        "description": "content",
+        "prefix": "fab-burrito"
+    },
     "fab-bus": {
         "body": "content: '\\\\f207';$0",
         "description": "content",
@@ -1179,6 +1279,11 @@
         "description": "content",
         "prefix": "fab-calendar-check"
     },
+    "fab-calendar-day": {
+        "body": "content: '\\\\f783';$0",
+        "description": "content",
+        "prefix": "fab-calendar-day"
+    },
     "fab-calendar-edit": {
         "body": "content: '\\\\f333';$0",
         "description": "content",
@@ -1209,6 +1314,11 @@
         "description": "content",
         "prefix": "fab-calendar-times"
     },
+    "fab-calendar-week": {
+        "body": "content: '\\\\f784';$0",
+        "description": "content",
+        "prefix": "fab-calendar-week"
+    },
     "fab-camera": {
         "body": "content: '\\\\f030';$0",
         "description": "content",
@@ -1234,10 +1344,20 @@
         "description": "content",
         "prefix": "fab-campground"
     },
+    "fab-canadian-maple-leaf": {
+        "body": "content: '\\\\f785';$0",
+        "description": "content",
+        "prefix": "fab-canadian-maple-leaf"
+    },
     "fab-candle-holder": {
         "body": "content: '\\\\f6bc';$0",
         "description": "content",
         "prefix": "fab-candle-holder"
+    },
+    "fab-candy-cane": {
+        "body": "content: '\\\\f786';$0",
+        "description": "content",
+        "prefix": "fab-candy-cane"
     },
     "fab-candy-corn": {
         "body": "content: '\\\\f6bd';$0",
@@ -1364,6 +1484,11 @@
         "description": "content",
         "prefix": "fab-caret-up"
     },
+    "fab-carrot": {
+        "body": "content: '\\\\f787';$0",
+        "description": "content",
+        "prefix": "fab-carrot"
+    },
     "fab-cart-arrow-down": {
         "body": "content: '\\\\f218';$0",
         "description": "content",
@@ -1373,6 +1498,11 @@
         "body": "content: '\\\\f217';$0",
         "description": "content",
         "prefix": "fab-cart-plus"
+    },
+    "fab-cash-register": {
+        "body": "content: '\\\\f788';$0",
+        "description": "content",
+        "prefix": "fab-cash-register"
     },
     "fab-cat": {
         "body": "content: '\\\\f6be';$0",
@@ -1439,6 +1569,11 @@
         "description": "content",
         "prefix": "fab-centercode"
     },
+    "fab-centos": {
+        "body": "content: '\\\\f789';$0",
+        "description": "content",
+        "prefix": "fab-centos"
+    },
     "fab-certificate": {
         "body": "content: '\\\\f0a3';$0",
         "description": "content",
@@ -1489,6 +1624,11 @@
         "description": "content",
         "prefix": "fab-chart-line-down"
     },
+    "fab-chart-network": {
+        "body": "content: '\\\\f78a';$0",
+        "description": "content",
+        "prefix": "fab-chart-network"
+    },
     "fab-chart-pie": {
         "body": "content: '\\\\f200';$0",
         "description": "content",
@@ -1498,6 +1638,11 @@
         "body": "content: '\\\\f64e';$0",
         "description": "content",
         "prefix": "fab-chart-pie-alt"
+    },
+    "fab-chart-scatter": {
+        "body": "content: '\\\\f7ee';$0",
+        "description": "content",
+        "prefix": "fab-chart-scatter"
     },
     "fab-check": {
         "body": "content: '\\\\f00c';$0",
@@ -1518,6 +1663,21 @@
         "body": "content: '\\\\f14a';$0",
         "description": "content",
         "prefix": "fab-check-square"
+    },
+    "fab-cheese": {
+        "body": "content: '\\\\f7ef';$0",
+        "description": "content",
+        "prefix": "fab-cheese"
+    },
+    "fab-cheese-swiss": {
+        "body": "content: '\\\\f7f0';$0",
+        "description": "content",
+        "prefix": "fab-cheese-swiss"
+    },
+    "fab-cheeseburger": {
+        "body": "content: '\\\\f7f1';$0",
+        "description": "content",
+        "prefix": "fab-cheeseburger"
     },
     "fab-chess": {
         "body": "content: '\\\\f439';$0",
@@ -1684,6 +1844,11 @@
         "description": "content",
         "prefix": "fab-child"
     },
+    "fab-chimney": {
+        "body": "content: '\\\\f78b';$0",
+        "description": "content",
+        "prefix": "fab-chimney"
+    },
     "fab-chrome": {
         "body": "content: '\\\\f268';$0",
         "description": "content",
@@ -1714,6 +1879,11 @@
         "description": "content",
         "prefix": "fab-claw-marks"
     },
+    "fab-clinic-medical": {
+        "body": "content: '\\\\f7f2';$0",
+        "description": "content",
+        "prefix": "fab-clinic-medical"
+    },
     "fab-clipboard": {
         "body": "content: '\\\\f328';$0",
         "description": "content",
@@ -1738,6 +1908,11 @@
         "body": "content: '\\\\f5e8';$0",
         "description": "content",
         "prefix": "fab-clipboard-prescription"
+    },
+    "fab-clipboard-user": {
+        "body": "content: '\\\\f7f3';$0",
+        "description": "content",
+        "prefix": "fab-clipboard-user"
     },
     "fab-clock": {
         "body": "content: '\\\\f017';$0",
@@ -1994,6 +2169,11 @@
         "description": "content",
         "prefix": "fab-comment-alt-lines"
     },
+    "fab-comment-alt-medical": {
+        "body": "content: '\\\\f7f4';$0",
+        "description": "content",
+        "prefix": "fab-comment-alt-medical"
+    },
     "fab-comment-alt-minus": {
         "body": "content: '\\\\f4a7';$0",
         "description": "content",
@@ -2048,6 +2228,11 @@
         "body": "content: '\\\\f4b0';$0",
         "description": "content",
         "prefix": "fab-comment-lines"
+    },
+    "fab-comment-medical": {
+        "body": "content: '\\\\f7f5';$0",
+        "description": "content",
+        "prefix": "fab-comment-medical"
     },
     "fab-comment-minus": {
         "body": "content: '\\\\f4b1';$0",
@@ -2119,6 +2304,11 @@
         "description": "content",
         "prefix": "fab-compress-alt"
     },
+    "fab-compress-arrows-alt": {
+        "body": "content: '\\\\f78c';$0",
+        "description": "content",
+        "prefix": "fab-compress-arrows-alt"
+    },
     "fab-compress-wide": {
         "body": "content: '\\\\f326';$0",
         "description": "content",
@@ -2128,6 +2318,11 @@
         "body": "content: '\\\\f562';$0",
         "description": "content",
         "prefix": "fab-concierge-bell"
+    },
+    "fab-confluence": {
+        "body": "content: '\\\\f78d';$0",
+        "description": "content",
+        "prefix": "fab-confluence"
     },
     "fab-connectdevelop": {
         "body": "content: '\\\\f20e';$0",
@@ -2289,6 +2484,11 @@
         "description": "content",
         "prefix": "fab-critical-role"
     },
+    "fab-croissant": {
+        "body": "content: '\\\\f7f6';$0",
+        "description": "content",
+        "prefix": "fab-croissant"
+    },
     "fab-crop": {
         "body": "content: '\\\\f125';$0",
         "description": "content",
@@ -2318,6 +2518,16 @@
         "body": "content: '\\\\f521';$0",
         "description": "content",
         "prefix": "fab-crown"
+    },
+    "fab-crutch": {
+        "body": "content: '\\\\f7f7';$0",
+        "description": "content",
+        "prefix": "fab-crutch"
+    },
+    "fab-crutches": {
+        "body": "content: '\\\\f7f8';$0",
+        "description": "content",
+        "prefix": "fab-crutches"
     },
     "fab-css3": {
         "body": "content: '\\\\f13c';$0",
@@ -2384,6 +2594,21 @@
         "description": "content",
         "prefix": "fab-deaf"
     },
+    "fab-debug": {
+        "body": "content: '\\\\f7f9';$0",
+        "description": "content",
+        "prefix": "fab-debug"
+    },
+    "fab-deer": {
+        "body": "content: '\\\\f78e';$0",
+        "description": "content",
+        "prefix": "fab-deer"
+    },
+    "fab-deer-rudolph": {
+        "body": "content: '\\\\f78f';$0",
+        "description": "content",
+        "prefix": "fab-deer-rudolph"
+    },
     "fab-delicious": {
         "body": "content: '\\\\f1a5';$0",
         "description": "content",
@@ -2434,6 +2659,11 @@
         "description": "content",
         "prefix": "fab-dharmachakra"
     },
+    "fab-dhl": {
+        "body": "content: '\\\\f790';$0",
+        "description": "content",
+        "prefix": "fab-dhl"
+    },
     "fab-diagnoses": {
         "body": "content: '\\\\f470';$0",
         "description": "content",
@@ -2443,6 +2673,11 @@
         "body": "content: '\\\\f219';$0",
         "description": "content",
         "prefix": "fab-diamond"
+    },
+    "fab-diaspora": {
+        "body": "content: '\\\\f791';$0",
+        "description": "content",
+        "prefix": "fab-diaspora"
     },
     "fab-dice": {
         "body": "content: '\\\\f522';$0",
@@ -2543,6 +2778,11 @@
         "body": "content: '\\\\f393';$0",
         "description": "content",
         "prefix": "fab-discourse"
+    },
+    "fab-disease": {
+        "body": "content: '\\\\f7fa';$0",
+        "description": "content",
+        "prefix": "fab-disease"
     },
     "fab-divide": {
         "body": "content: '\\\\f529';$0",
@@ -2674,6 +2914,11 @@
         "description": "content",
         "prefix": "fab-draw-square"
     },
+    "fab-dreidel": {
+        "body": "content: '\\\\f792';$0",
+        "description": "content",
+        "prefix": "fab-dreidel"
+    },
     "fab-dribbble": {
         "body": "content: '\\\\f17d';$0",
         "description": "content",
@@ -2724,6 +2969,16 @@
         "description": "content",
         "prefix": "fab-dumbbell"
     },
+    "fab-dumpster": {
+        "body": "content: '\\\\f793';$0",
+        "description": "content",
+        "prefix": "fab-dumpster"
+    },
+    "fab-dumpster-fire": {
+        "body": "content: '\\\\f794';$0",
+        "description": "content",
+        "prefix": "fab-dumpster-fire"
+    },
     "fab-dungeon": {
         "body": "content: '\\\\f6d9';$0",
         "description": "content",
@@ -2738,6 +2993,11 @@
         "body": "content: '\\\\f5f0';$0",
         "description": "content",
         "prefix": "fab-ear"
+    },
+    "fab-ear-muffs": {
+        "body": "content: '\\\\f795';$0",
+        "description": "content",
+        "prefix": "fab-ear-muffs"
     },
     "fab-earlybirds": {
         "body": "content: '\\\\f39a';$0",
@@ -2768,6 +3028,16 @@
         "body": "content: '\\\\f044';$0",
         "description": "content",
         "prefix": "fab-edit"
+    },
+    "fab-egg": {
+        "body": "content: '\\\\f7fb';$0",
+        "description": "content",
+        "prefix": "fab-egg"
+    },
+    "fab-egg-fried": {
+        "body": "content: '\\\\f7fc';$0",
+        "description": "content",
+        "prefix": "fab-egg-fried"
     },
     "fab-eject": {
         "body": "content: '\\\\f052';$0",
@@ -2878,6 +3148,11 @@
         "body": "content: '\\\\f42e';$0",
         "description": "content",
         "prefix": "fab-ethereum"
+    },
+    "fab-ethernet": {
+        "body": "content: '\\\\f796';$0",
+        "description": "content",
+        "prefix": "fab-ethernet"
     },
     "fab-etsy": {
         "body": "content: '\\\\f2d7';$0",
@@ -3039,6 +3314,16 @@
         "description": "content",
         "prefix": "fab-feather-alt"
     },
+    "fab-fedex": {
+        "body": "content: '\\\\f797';$0",
+        "description": "content",
+        "prefix": "fab-fedex"
+    },
+    "fab-fedora": {
+        "body": "content: '\\\\f798';$0",
+        "description": "content",
+        "prefix": "fab-fedora"
+    },
     "fab-female": {
         "body": "content: '\\\\f182';$0",
         "description": "content",
@@ -3053,6 +3338,11 @@
         "body": "content: '\\\\f0fb';$0",
         "description": "content",
         "prefix": "fab-fighter-jet"
+    },
+    "fab-figma": {
+        "body": "content: '\\\\f799';$0",
+        "description": "content",
+        "prefix": "fab-figma"
     },
     "fab-file": {
         "body": "content: '\\\\f15b';$0",
@@ -3224,6 +3514,11 @@
         "description": "content",
         "prefix": "fab-file-word"
     },
+    "fab-files-medical": {
+        "body": "content: '\\\\f7fd';$0",
+        "description": "content",
+        "prefix": "fab-files-medical"
+    },
     "fab-fill": {
         "body": "content: '\\\\f575';$0",
         "description": "content",
@@ -3259,6 +3554,11 @@
         "description": "content",
         "prefix": "fab-fire"
     },
+    "fab-fire-alt": {
+        "body": "content: '\\\\f7e4';$0",
+        "description": "content",
+        "prefix": "fab-fire-alt"
+    },
     "fab-fire-extinguisher": {
         "body": "content: '\\\\f134';$0",
         "description": "content",
@@ -3273,6 +3573,11 @@
         "body": "content: '\\\\f269';$0",
         "description": "content",
         "prefix": "fab-firefox"
+    },
+    "fab-fireplace": {
+        "body": "content: '\\\\f79a';$0",
+        "description": "content",
+        "prefix": "fab-fireplace"
     },
     "fab-first-aid": {
         "body": "content: '\\\\f479';$0",
@@ -3298,6 +3603,11 @@
         "body": "content: '\\\\f578';$0",
         "description": "content",
         "prefix": "fab-fish"
+    },
+    "fab-fish-cooked": {
+        "body": "content: '\\\\f7fe';$0",
+        "description": "content",
+        "prefix": "fab-fish-cooked"
     },
     "fab-fist-raised": {
         "body": "content: '\\\\f6de';$0",
@@ -3354,6 +3664,21 @@
         "description": "content",
         "prefix": "fab-flipboard"
     },
+    "fab-flower": {
+        "body": "content: '\\\\f7ff';$0",
+        "description": "content",
+        "prefix": "fab-flower"
+    },
+    "fab-flower-daffodil": {
+        "body": "content: '\\\\f800';$0",
+        "description": "content",
+        "prefix": "fab-flower-daffodil"
+    },
+    "fab-flower-tulip": {
+        "body": "content: '\\\\f801';$0",
+        "description": "content",
+        "prefix": "fab-flower-tulip"
+    },
     "fab-flushed": {
         "body": "content: '\\\\f579';$0",
         "description": "content",
@@ -3393,6 +3718,11 @@
         "body": "content: '\\\\f65f';$0",
         "description": "content",
         "prefix": "fab-folder-times"
+    },
+    "fab-folder-tree": {
+        "body": "content: '\\\\f802';$0",
+        "description": "content",
+        "prefix": "fab-folder-tree"
     },
     "fab-folders": {
         "body": "content: '\\\\f660';$0",
@@ -3489,10 +3819,20 @@
         "description": "content",
         "prefix": "fab-freebsd"
     },
+    "fab-french-fries": {
+        "body": "content: '\\\\f803';$0",
+        "description": "content",
+        "prefix": "fab-french-fries"
+    },
     "fab-frog": {
         "body": "content: '\\\\f52e';$0",
         "description": "content",
         "prefix": "fab-frog"
+    },
+    "fab-frosty-head": {
+        "body": "content: '\\\\f79b';$0",
+        "description": "content",
+        "prefix": "fab-frosty-head"
     },
     "fab-frown": {
         "body": "content: '\\\\f119';$0",
@@ -3594,6 +3934,16 @@
         "description": "content",
         "prefix": "fab-gift-card"
     },
+    "fab-gifts": {
+        "body": "content: '\\\\f79c';$0",
+        "description": "content",
+        "prefix": "fab-gifts"
+    },
+    "fab-gingerbread-man": {
+        "body": "content: '\\\\f79d';$0",
+        "description": "content",
+        "prefix": "fab-gingerbread-man"
+    },
     "fab-git": {
         "body": "content: '\\\\f1d3';$0",
         "description": "content",
@@ -3634,6 +3984,21 @@
         "description": "content",
         "prefix": "fab-gitter"
     },
+    "fab-glass": {
+        "body": "content: '\\\\f804';$0",
+        "description": "content",
+        "prefix": "fab-glass"
+    },
+    "fab-glass-champagne": {
+        "body": "content: '\\\\f79e';$0",
+        "description": "content",
+        "prefix": "fab-glass-champagne"
+    },
+    "fab-glass-cheers": {
+        "body": "content: '\\\\f79f';$0",
+        "description": "content",
+        "prefix": "fab-glass-cheers"
+    },
     "fab-glass-martini": {
         "body": "content: '\\\\f000';$0",
         "description": "content",
@@ -3643,6 +4008,16 @@
         "body": "content: '\\\\f57b';$0",
         "description": "content",
         "prefix": "fab-glass-martini-alt"
+    },
+    "fab-glass-whiskey": {
+        "body": "content: '\\\\f7a0';$0",
+        "description": "content",
+        "prefix": "fab-glass-whiskey"
+    },
+    "fab-glass-whiskey-rocks": {
+        "body": "content: '\\\\f7a1';$0",
+        "description": "content",
+        "prefix": "fab-glass-whiskey-rocks"
     },
     "fab-glasses": {
         "body": "content: '\\\\f530';$0",
@@ -3683,6 +4058,16 @@
         "body": "content: '\\\\f57e';$0",
         "description": "content",
         "prefix": "fab-globe-asia"
+    },
+    "fab-globe-europe": {
+        "body": "content: '\\\\f7a2';$0",
+        "description": "content",
+        "prefix": "fab-globe-europe"
+    },
+    "fab-globe-snow": {
+        "body": "content: '\\\\f7a3';$0",
+        "description": "content",
+        "prefix": "fab-globe-snow"
     },
     "fab-globe-stand": {
         "body": "content: '\\\\f5f6';$0",
@@ -3854,6 +4239,16 @@
         "description": "content",
         "prefix": "fab-grip-horizontal"
     },
+    "fab-grip-lines": {
+        "body": "content: '\\\\f7a4';$0",
+        "description": "content",
+        "prefix": "fab-grip-lines"
+    },
+    "fab-grip-lines-vertical": {
+        "body": "content: '\\\\f7a5';$0",
+        "description": "content",
+        "prefix": "fab-grip-lines-vertical"
+    },
     "fab-grip-vertical": {
         "body": "content: '\\\\f58e';$0",
         "description": "content",
@@ -3868,6 +4263,11 @@
         "body": "content: '\\\\f3ad';$0",
         "description": "content",
         "prefix": "fab-grunt"
+    },
+    "fab-guitar": {
+        "body": "content: '\\\\f7a6';$0",
+        "description": "content",
+        "prefix": "fab-guitar"
     },
     "fab-gulp": {
         "body": "content: '\\\\f3ae';$0",
@@ -3908,6 +4308,11 @@
         "body": "content: '\\\\f5f7';$0",
         "description": "content",
         "prefix": "fab-hackerrank"
+    },
+    "fab-hamburger": {
+        "body": "content: '\\\\f805';$0",
+        "description": "content",
+        "prefix": "fab-hamburger"
     },
     "fab-hammer": {
         "body": "content: '\\\\f6e3';$0",
@@ -3968,6 +4373,11 @@
         "body": "content: '\\\\f258';$0",
         "description": "content",
         "prefix": "fab-hand-lizard"
+    },
+    "fab-hand-middle-finger": {
+        "body": "content: '\\\\f806';$0",
+        "description": "content",
+        "prefix": "fab-hand-middle-finger"
     },
     "fab-hand-paper": {
         "body": "content: '\\\\f256';$0",
@@ -4059,10 +4469,25 @@
         "description": "content",
         "prefix": "fab-hanukiah"
     },
+    "fab-hard-hat": {
+        "body": "content: '\\\\f807';$0",
+        "description": "content",
+        "prefix": "fab-hard-hat"
+    },
     "fab-hashtag": {
         "body": "content: '\\\\f292';$0",
         "description": "content",
         "prefix": "fab-hashtag"
+    },
+    "fab-hat-santa": {
+        "body": "content: '\\\\f7a7';$0",
+        "description": "content",
+        "prefix": "fab-hat-santa"
+    },
+    "fab-hat-winter": {
+        "body": "content: '\\\\f7a8';$0",
+        "description": "content",
+        "prefix": "fab-hat-winter"
     },
     "fab-hat-witch": {
         "body": "content: '\\\\f6e7';$0",
@@ -4088,6 +4513,16 @@
         "body": "content: '\\\\f6e9';$0",
         "description": "content",
         "prefix": "fab-head-side"
+    },
+    "fab-head-side-brain": {
+        "body": "content: '\\\\f808';$0",
+        "description": "content",
+        "prefix": "fab-head-side-brain"
+    },
+    "fab-head-side-medical": {
+        "body": "content: '\\\\f809';$0",
+        "description": "content",
+        "prefix": "fab-head-side-medical"
     },
     "fab-head-vr": {
         "body": "content: '\\\\f6ea';$0",
@@ -4118,6 +4553,11 @@
         "body": "content: '\\\\f004';$0",
         "description": "content",
         "prefix": "fab-heart"
+    },
+    "fab-heart-broken": {
+        "body": "content: '\\\\f7a9';$0",
+        "description": "content",
+        "prefix": "fab-heart-broken"
     },
     "fab-heart-circle": {
         "body": "content: '\\\\f4c7';$0",
@@ -4199,15 +4639,35 @@
         "description": "content",
         "prefix": "fab-hockey-sticks"
     },
+    "fab-holly-berry": {
+        "body": "content: '\\\\f7aa';$0",
+        "description": "content",
+        "prefix": "fab-holly-berry"
+    },
     "fab-home": {
         "body": "content: '\\\\f015';$0",
         "description": "content",
         "prefix": "fab-home"
     },
+    "fab-home-alt": {
+        "body": "content: '\\\\f80a';$0",
+        "description": "content",
+        "prefix": "fab-home-alt"
+    },
     "fab-home-heart": {
         "body": "content: '\\\\f4c9';$0",
         "description": "content",
         "prefix": "fab-home-heart"
+    },
+    "fab-home-lg": {
+        "body": "content: '\\\\f80b';$0",
+        "description": "content",
+        "prefix": "fab-home-lg"
+    },
+    "fab-home-lg-alt": {
+        "body": "content: '\\\\f80c';$0",
+        "description": "content",
+        "prefix": "fab-home-lg-alt"
     },
     "fab-hood-cloak": {
         "body": "content: '\\\\f6ef';$0",
@@ -4229,6 +4689,11 @@
         "description": "content",
         "prefix": "fab-horse"
     },
+    "fab-horse-head": {
+        "body": "content: '\\\\f7ab';$0",
+        "description": "content",
+        "prefix": "fab-horse-head"
+    },
     "fab-hospital": {
         "body": "content: '\\\\f0f8';$0",
         "description": "content",
@@ -4244,10 +4709,25 @@
         "description": "content",
         "prefix": "fab-hospital-symbol"
     },
+    "fab-hospital-user": {
+        "body": "content: '\\\\f80d';$0",
+        "description": "content",
+        "prefix": "fab-hospital-user"
+    },
+    "fab-hospitals": {
+        "body": "content: '\\\\f80e';$0",
+        "description": "content",
+        "prefix": "fab-hospitals"
+    },
     "fab-hot-tub": {
         "body": "content: '\\\\f593';$0",
         "description": "content",
         "prefix": "fab-hot-tub"
+    },
+    "fab-hotdog": {
+        "body": "content: '\\\\f80f';$0",
+        "description": "content",
+        "prefix": "fab-hotdog"
     },
     "fab-hotel": {
         "body": "content: '\\\\f594';$0",
@@ -4324,6 +4804,21 @@
         "description": "content",
         "prefix": "fab-i-cursor"
     },
+    "fab-ice-cream": {
+        "body": "content: '\\\\f810';$0",
+        "description": "content",
+        "prefix": "fab-ice-cream"
+    },
+    "fab-ice-skate": {
+        "body": "content: '\\\\f7ac';$0",
+        "description": "content",
+        "prefix": "fab-ice-skate"
+    },
+    "fab-icicles": {
+        "body": "content: '\\\\f7ad';$0",
+        "description": "content",
+        "prefix": "fab-icicles"
+    },
     "fab-id-badge": {
         "body": "content: '\\\\f2c1';$0",
         "description": "content",
@@ -4338,6 +4833,11 @@
         "body": "content: '\\\\f47f';$0",
         "description": "content",
         "prefix": "fab-id-card-alt"
+    },
+    "fab-igloo": {
+        "body": "content: '\\\\f7ae';$0",
+        "description": "content",
+        "prefix": "fab-igloo"
     },
     "fab-image": {
         "body": "content: '\\\\f03e';$0",
@@ -4419,6 +4919,11 @@
         "description": "content",
         "prefix": "fab-integral"
     },
+    "fab-intercom": {
+        "body": "content: '\\\\f7af';$0",
+        "description": "content",
+        "prefix": "fab-intercom"
+    },
     "fab-internet-explorer": {
         "body": "content: '\\\\f26b';$0",
         "description": "content",
@@ -4434,10 +4939,20 @@
         "description": "content",
         "prefix": "fab-inventory"
     },
+    "fab-invision": {
+        "body": "content: '\\\\f7b0';$0",
+        "description": "content",
+        "prefix": "fab-invision"
+    },
     "fab-ioxhost": {
         "body": "content: '\\\\f208';$0",
         "description": "content",
         "prefix": "fab-ioxhost"
+    },
+    "fab-island-tropical": {
+        "body": "content: '\\\\f811';$0",
+        "description": "content",
+        "prefix": "fab-island-tropical"
     },
     "fab-italic": {
         "body": "content: '\\\\f033';$0",
@@ -4478,6 +4993,11 @@
         "body": "content: '\\\\f3b6';$0",
         "description": "content",
         "prefix": "fab-jenkins"
+    },
+    "fab-jira": {
+        "body": "content: '\\\\f7b1';$0",
+        "description": "content",
+        "prefix": "fab-jira"
     },
     "fab-joget": {
         "body": "content: '\\\\f3b7';$0",
@@ -4644,6 +5164,11 @@
         "description": "content",
         "prefix": "fab-laptop-code"
     },
+    "fab-laptop-medical": {
+        "body": "content: '\\\\f812';$0",
+        "description": "content",
+        "prefix": "fab-laptop-medical"
+    },
     "fab-laravel": {
         "body": "content: '\\\\f3bd';$0",
         "description": "content",
@@ -4788,6 +5313,11 @@
         "body": "content: '\\\\f673';$0",
         "description": "content",
         "prefix": "fab-lightbulb-slash"
+    },
+    "fab-lights-holiday": {
+        "body": "content: '\\\\f7b2';$0",
+        "description": "content",
+        "prefix": "fab-lights-holiday"
     },
     "fab-line": {
         "body": "content: '\\\\f3c0';$0",
@@ -4984,6 +5514,11 @@
         "description": "content",
         "prefix": "fab-mail-bulk"
     },
+    "fab-mailbox": {
+        "body": "content: '\\\\f813';$0",
+        "description": "content",
+        "prefix": "fab-mailbox"
+    },
     "fab-mailchimp": {
         "body": "content: '\\\\f59e';$0",
         "description": "content",
@@ -5139,6 +5674,11 @@
         "description": "content",
         "prefix": "fab-maxcdn"
     },
+    "fab-meat": {
+        "body": "content: '\\\\f814';$0",
+        "description": "content",
+        "prefix": "fab-meat"
+    },
     "fab-medal": {
         "body": "content: '\\\\f5a2';$0",
         "description": "content",
@@ -5203,6 +5743,11 @@
         "body": "content: '\\\\f538';$0",
         "description": "content",
         "prefix": "fab-memory"
+    },
+    "fab-mendeley": {
+        "body": "content: '\\\\f7b3';$0",
+        "description": "content",
+        "prefix": "fab-mendeley"
     },
     "fab-menorah": {
         "body": "content: '\\\\f676';$0",
@@ -5283,6 +5828,16 @@
         "body": "content: '\\\\f146';$0",
         "description": "content",
         "prefix": "fab-minus-square"
+    },
+    "fab-mistletoe": {
+        "body": "content: '\\\\f7b4';$0",
+        "description": "content",
+        "prefix": "fab-mistletoe"
+    },
+    "fab-mitten": {
+        "body": "content: '\\\\f7b5';$0",
+        "description": "content",
+        "prefix": "fab-mitten"
     },
     "fab-mix": {
         "body": "content: '\\\\f3cb';$0",
@@ -5418,6 +5973,16 @@
         "body": "content: '\\\\f245';$0",
         "description": "content",
         "prefix": "fab-mouse-pointer"
+    },
+    "fab-mug-hot": {
+        "body": "content: '\\\\f7b6';$0",
+        "description": "content",
+        "prefix": "fab-mug-hot"
+    },
+    "fab-mug-marshmallows": {
+        "body": "content: '\\\\f7b7';$0",
+        "description": "content",
+        "prefix": "fab-mug-marshmallows"
     },
     "fab-music": {
         "body": "content: '\\\\f001';$0",
@@ -5569,6 +6134,11 @@
         "description": "content",
         "prefix": "fab-optin-monster"
     },
+    "fab-ornament": {
+        "body": "content: '\\\\f7b8';$0",
+        "description": "content",
+        "prefix": "fab-ornament"
+    },
     "fab-osi": {
         "body": "content: '\\\\f41a';$0",
         "description": "content",
@@ -5593,6 +6163,11 @@
         "body": "content: '\\\\f18c';$0",
         "description": "content",
         "prefix": "fab-pagelines"
+    },
+    "fab-pager": {
+        "body": "content: '\\\\f815';$0",
+        "description": "content",
+        "prefix": "fab-pager"
     },
     "fab-paint-brush": {
         "body": "content: '\\\\f1fc';$0",
@@ -5789,6 +6364,11 @@
         "description": "content",
         "prefix": "fab-people-carry"
     },
+    "fab-pepper-hot": {
+        "body": "content: '\\\\f816';$0",
+        "description": "content",
+        "prefix": "fab-pepper-hot"
+    },
     "fab-percent": {
         "body": "content: '\\\\f295';$0",
         "description": "content",
@@ -5939,6 +6519,16 @@
         "description": "content",
         "prefix": "fab-pinterest-square"
     },
+    "fab-pizza": {
+        "body": "content: '\\\\f817';$0",
+        "description": "content",
+        "prefix": "fab-pizza"
+    },
+    "fab-pizza-slice": {
+        "body": "content: '\\\\f818';$0",
+        "description": "content",
+        "prefix": "fab-pizza-slice"
+    },
     "fab-place-of-worship": {
         "body": "content: '\\\\f67f';$0",
         "description": "content",
@@ -6054,6 +6644,11 @@
         "description": "content",
         "prefix": "fab-poop"
     },
+    "fab-popcorn": {
+        "body": "content: '\\\\f819';$0",
+        "description": "content",
+        "prefix": "fab-popcorn"
+    },
     "fab-portrait": {
         "body": "content: '\\\\f3e0';$0",
         "description": "content",
@@ -6103,6 +6698,11 @@
         "body": "content: '\\\\f02f';$0",
         "description": "content",
         "prefix": "fab-print"
+    },
+    "fab-print-search": {
+        "body": "content: '\\\\f81a';$0",
+        "description": "content",
+        "prefix": "fab-print-search"
     },
     "fab-print-slash": {
         "body": "content: '\\\\f686';$0",
@@ -6219,6 +6819,16 @@
         "description": "content",
         "prefix": "fab-racquet"
     },
+    "fab-radiation": {
+        "body": "content: '\\\\f7b9';$0",
+        "description": "content",
+        "prefix": "fab-radiation"
+    },
+    "fab-radiation-alt": {
+        "body": "content: '\\\\f7ba';$0",
+        "description": "content",
+        "prefix": "fab-radiation-alt"
+    },
     "fab-rainbow": {
         "body": "content: '\\\\f75b';$0",
         "description": "content",
@@ -6243,6 +6853,11 @@
         "body": "content: '\\\\f074';$0",
         "description": "content",
         "prefix": "fab-random"
+    },
+    "fab-raspberry-pi": {
+        "body": "content: '\\\\f7bb';$0",
+        "description": "content",
+        "prefix": "fab-raspberry-pi"
     },
     "fab-ravelry": {
         "body": "content: '\\\\f2d9';$0",
@@ -6314,6 +6929,11 @@
         "description": "content",
         "prefix": "fab-reddit-square"
     },
+    "fab-redhat": {
+        "body": "content: '\\\\f7bc';$0",
+        "description": "content",
+        "prefix": "fab-redhat"
+    },
     "fab-redo": {
         "body": "content: '\\\\f01e';$0",
         "description": "content",
@@ -6384,6 +7004,11 @@
         "description": "content",
         "prefix": "fab-resolving"
     },
+    "fab-restroom": {
+        "body": "content: '\\\\f7bd';$0",
+        "description": "content",
+        "prefix": "fab-restroom"
+    },
     "fab-retweet": {
         "body": "content: '\\\\f079';$0",
         "description": "content",
@@ -6408,6 +7033,11 @@
         "body": "content: '\\\\f70b';$0",
         "description": "content",
         "prefix": "fab-ring"
+    },
+    "fab-rings-wedding": {
+        "body": "content: '\\\\f81b';$0",
+        "description": "content",
+        "prefix": "fab-rings-wedding"
     },
     "fab-road": {
         "body": "content: '\\\\f018';$0",
@@ -6499,6 +7129,21 @@
         "description": "content",
         "prefix": "fab-rupee-sign"
     },
+    "fab-rv": {
+        "body": "content: '\\\\f7be';$0",
+        "description": "content",
+        "prefix": "fab-rv"
+    },
+    "fab-sack": {
+        "body": "content: '\\\\f81c';$0",
+        "description": "content",
+        "prefix": "fab-sack"
+    },
+    "fab-sack-dollar": {
+        "body": "content: '\\\\f81d';$0",
+        "description": "content",
+        "prefix": "fab-sack-dollar"
+    },
     "fab-sad-cry": {
         "body": "content: '\\\\f5b3';$0",
         "description": "content",
@@ -6514,10 +7159,35 @@
         "description": "content",
         "prefix": "fab-safari"
     },
+    "fab-salad": {
+        "body": "content: '\\\\f81e';$0",
+        "description": "content",
+        "prefix": "fab-salad"
+    },
+    "fab-sandwich": {
+        "body": "content: '\\\\f81f';$0",
+        "description": "content",
+        "prefix": "fab-sandwich"
+    },
     "fab-sass": {
         "body": "content: '\\\\f41e';$0",
         "description": "content",
         "prefix": "fab-sass"
+    },
+    "fab-satellite": {
+        "body": "content: '\\\\f7bf';$0",
+        "description": "content",
+        "prefix": "fab-satellite"
+    },
+    "fab-satellite-dish": {
+        "body": "content: '\\\\f7c0';$0",
+        "description": "content",
+        "prefix": "fab-satellite-dish"
+    },
+    "fab-sausage": {
+        "body": "content: '\\\\f820';$0",
+        "description": "content",
+        "prefix": "fab-sausage"
     },
     "fab-save": {
         "body": "content: '\\\\f0c7';$0",
@@ -6553,6 +7223,11 @@
         "body": "content: '\\\\f70d';$0",
         "description": "content",
         "prefix": "fab-scarecrow"
+    },
+    "fab-scarf": {
+        "body": "content: '\\\\f7c1';$0",
+        "description": "content",
+        "prefix": "fab-scarf"
     },
     "fab-schlix": {
         "body": "content: '\\\\f3ea';$0",
@@ -6593,6 +7268,11 @@
         "body": "content: '\\\\f710';$0",
         "description": "content",
         "prefix": "fab-scythe"
+    },
+    "fab-sd-card": {
+        "body": "content: '\\\\f7c2';$0",
+        "description": "content",
+        "prefix": "fab-sd-card"
     },
     "fab-search": {
         "body": "content: '\\\\f002';$0",
@@ -6729,6 +7409,11 @@
         "description": "content",
         "prefix": "fab-shirtsinbulk"
     },
+    "fab-shish-kebab": {
+        "body": "content: '\\\\f821';$0",
+        "description": "content",
+        "prefix": "fab-shish-kebab"
+    },
     "fab-shoe-prints": {
         "body": "content: '\\\\f54b';$0",
         "description": "content",
@@ -6759,6 +7444,11 @@
         "description": "content",
         "prefix": "fab-shovel"
     },
+    "fab-shovel-snow": {
+        "body": "content: '\\\\f7c3';$0",
+        "description": "content",
+        "prefix": "fab-shovel-snow"
+    },
     "fab-shower": {
         "body": "content: '\\\\f2cc';$0",
         "description": "content",
@@ -6778,6 +7468,11 @@
         "body": "content: '\\\\f45b';$0",
         "description": "content",
         "prefix": "fab-shuttlecock"
+    },
+    "fab-sickle": {
+        "body": "content: '\\\\f822';$0",
+        "description": "content",
+        "prefix": "fab-sickle"
     },
     "fab-sigma": {
         "body": "content: '\\\\f68b';$0",
@@ -6874,6 +7569,11 @@
         "description": "content",
         "prefix": "fab-signature"
     },
+    "fab-sim-card": {
+        "body": "content: '\\\\f7c4';$0",
+        "description": "content",
+        "prefix": "fab-sim-card"
+    },
     "fab-simplybuilt": {
         "body": "content: '\\\\f215';$0",
         "description": "content",
@@ -6894,10 +7594,40 @@
         "description": "content",
         "prefix": "fab-sith"
     },
+    "fab-skating": {
+        "body": "content: '\\\\f7c5';$0",
+        "description": "content",
+        "prefix": "fab-skating"
+    },
     "fab-skeleton": {
         "body": "content: '\\\\f620';$0",
         "description": "content",
         "prefix": "fab-skeleton"
+    },
+    "fab-sketch": {
+        "body": "content: '\\\\f7c6';$0",
+        "description": "content",
+        "prefix": "fab-sketch"
+    },
+    "fab-ski-jump": {
+        "body": "content: '\\\\f7c7';$0",
+        "description": "content",
+        "prefix": "fab-ski-jump"
+    },
+    "fab-ski-lift": {
+        "body": "content: '\\\\f7c8';$0",
+        "description": "content",
+        "prefix": "fab-ski-lift"
+    },
+    "fab-skiing": {
+        "body": "content: '\\\\f7c9';$0",
+        "description": "content",
+        "prefix": "fab-skiing"
+    },
+    "fab-skiing-nordic": {
+        "body": "content: '\\\\f7ca';$0",
+        "description": "content",
+        "prefix": "fab-skiing-nordic"
     },
     "fab-skull": {
         "body": "content: '\\\\f54c';$0",
@@ -6933,6 +7663,16 @@
         "body": "content: '\\\\f715';$0",
         "description": "content",
         "prefix": "fab-slash"
+    },
+    "fab-sledding": {
+        "body": "content: '\\\\f7cb';$0",
+        "description": "content",
+        "prefix": "fab-sledding"
+    },
+    "fab-sleigh": {
+        "body": "content: '\\\\f7cc';$0",
+        "description": "content",
+        "prefix": "fab-sleigh"
     },
     "fab-sliders-h": {
         "body": "content: '\\\\f1de';$0",
@@ -6999,6 +7739,11 @@
         "description": "content",
         "prefix": "fab-smoking-ban"
     },
+    "fab-sms": {
+        "body": "content: '\\\\f7cd';$0",
+        "description": "content",
+        "prefix": "fab-sms"
+    },
     "fab-snake": {
         "body": "content: '\\\\f716';$0",
         "description": "content",
@@ -7024,10 +7769,35 @@
         "description": "content",
         "prefix": "fab-snow-blowing"
     },
+    "fab-snowboarding": {
+        "body": "content: '\\\\f7ce';$0",
+        "description": "content",
+        "prefix": "fab-snowboarding"
+    },
     "fab-snowflake": {
         "body": "content: '\\\\f2dc';$0",
         "description": "content",
         "prefix": "fab-snowflake"
+    },
+    "fab-snowflakes": {
+        "body": "content: '\\\\f7cf';$0",
+        "description": "content",
+        "prefix": "fab-snowflakes"
+    },
+    "fab-snowman": {
+        "body": "content: '\\\\f7d0';$0",
+        "description": "content",
+        "prefix": "fab-snowman"
+    },
+    "fab-snowmobile": {
+        "body": "content: '\\\\f7d1';$0",
+        "description": "content",
+        "prefix": "fab-snowmobile"
+    },
+    "fab-snowplow": {
+        "body": "content: '\\\\f7d2';$0",
+        "description": "content",
+        "prefix": "fab-snowplow"
     },
     "fab-socks": {
         "body": "content: '\\\\f696';$0",
@@ -7088,6 +7858,16 @@
         "body": "content: '\\\\f1be';$0",
         "description": "content",
         "prefix": "fab-soundcloud"
+    },
+    "fab-soup": {
+        "body": "content: '\\\\f823';$0",
+        "description": "content",
+        "prefix": "fab-soup"
+    },
+    "fab-sourcetree": {
+        "body": "content: '\\\\f7d3';$0",
+        "description": "content",
+        "prefix": "fab-sourcetree"
     },
     "fab-spa": {
         "body": "content: '\\\\f5bb';$0",
@@ -7209,6 +7989,11 @@
         "description": "content",
         "prefix": "fab-star-and-crescent"
     },
+    "fab-star-christmas": {
+        "body": "content: '\\\\f7d4';$0",
+        "description": "content",
+        "prefix": "fab-star-christmas"
+    },
     "fab-star-exclamation": {
         "body": "content: '\\\\f2f3';$0",
         "description": "content",
@@ -7243,6 +8028,11 @@
         "body": "content: '\\\\f3f5';$0",
         "description": "content",
         "prefix": "fab-staylinked"
+    },
+    "fab-steak": {
+        "body": "content: '\\\\f824';$0",
+        "description": "content",
+        "prefix": "fab-steak"
     },
     "fab-steam": {
         "body": "content: '\\\\f1b6';$0",
@@ -7289,6 +8079,11 @@
         "description": "content",
         "prefix": "fab-sticky-note"
     },
+    "fab-stocking": {
+        "body": "content: '\\\\f7d5';$0",
+        "description": "content",
+        "prefix": "fab-stocking"
+    },
     "fab-stomach": {
         "body": "content: '\\\\f623';$0",
         "description": "content",
@@ -7333,6 +8128,11 @@
         "body": "content: '\\\\f21d';$0",
         "description": "content",
         "prefix": "fab-street-view"
+    },
+    "fab-stretcher": {
+        "body": "content: '\\\\f825';$0",
+        "description": "content",
+        "prefix": "fab-stretcher"
     },
     "fab-strikethrough": {
         "body": "content: '\\\\f0cc';$0",
@@ -7438,6 +8238,11 @@
         "body": "content: '\\\\f5c2';$0",
         "description": "content",
         "prefix": "fab-surprise"
+    },
+    "fab-suse": {
+        "body": "content: '\\\\f7d6';$0",
+        "description": "content",
+        "prefix": "fab-suse"
     },
     "fab-swatchbook": {
         "body": "content: '\\\\f5c3';$0",
@@ -7584,6 +8389,11 @@
         "description": "content",
         "prefix": "fab-tachometer-slowest"
     },
+    "fab-taco": {
+        "body": "content: '\\\\f826';$0",
+        "description": "content",
+        "prefix": "fab-taco"
+    },
     "fab-tag": {
         "body": "content: '\\\\f02b';$0",
         "description": "content",
@@ -7599,6 +8409,11 @@
         "description": "content",
         "prefix": "fab-tally"
     },
+    "fab-tanakh": {
+        "body": "content: '\\\\f827';$0",
+        "description": "content",
+        "prefix": "fab-tanakh"
+    },
     "fab-tape": {
         "body": "content: '\\\\f4db';$0",
         "description": "content",
@@ -7608,6 +8423,11 @@
         "body": "content: '\\\\f0ae';$0",
         "description": "content",
         "prefix": "fab-tasks"
+    },
+    "fab-tasks-alt": {
+        "body": "content: '\\\\f828';$0",
+        "description": "content",
+        "prefix": "fab-tasks-alt"
     },
     "fab-taxi": {
         "body": "content: '\\\\f1ba';$0",
@@ -7663,6 +8483,11 @@
         "body": "content: '\\\\f1d5';$0",
         "description": "content",
         "prefix": "fab-tencent-weibo"
+    },
+    "fab-tenge": {
+        "body": "content: '\\\\f7d7';$0",
+        "description": "content",
+        "prefix": "fab-tenge"
     },
     "fab-tennis-ball": {
         "body": "content: '\\\\f45e';$0",
@@ -7874,6 +8699,11 @@
         "description": "content",
         "prefix": "fab-toggle-on"
     },
+    "fab-toilet": {
+        "body": "content: '\\\\f7d8';$0",
+        "description": "content",
+        "prefix": "fab-toilet"
+    },
     "fab-toilet-paper": {
         "body": "content: '\\\\f71e';$0",
         "description": "content",
@@ -7898,6 +8728,11 @@
         "body": "content: '\\\\f552';$0",
         "description": "content",
         "prefix": "fab-toolbox"
+    },
+    "fab-tools": {
+        "body": "content: '\\\\f7d9';$0",
+        "description": "content",
+        "prefix": "fab-tools"
     },
     "fab-tooth": {
         "body": "content: '\\\\f5c9';$0",
@@ -7969,6 +8804,11 @@
         "description": "content",
         "prefix": "fab-train"
     },
+    "fab-tram": {
+        "body": "content: '\\\\f7da';$0",
+        "description": "content",
+        "prefix": "fab-tram"
+    },
     "fab-transgender": {
         "body": "content: '\\\\f224';$0",
         "description": "content",
@@ -7989,6 +8829,16 @@
         "description": "content",
         "prefix": "fab-trash-alt"
     },
+    "fab-trash-restore": {
+        "body": "content: '\\\\f829';$0",
+        "description": "content",
+        "prefix": "fab-trash-restore"
+    },
+    "fab-trash-restore-alt": {
+        "body": "content: '\\\\f82a';$0",
+        "description": "content",
+        "prefix": "fab-trash-restore-alt"
+    },
     "fab-treasure-chest": {
         "body": "content: '\\\\f723';$0",
         "description": "content",
@@ -8003,6 +8853,26 @@
         "body": "content: '\\\\f400';$0",
         "description": "content",
         "prefix": "fab-tree-alt"
+    },
+    "fab-tree-christmas": {
+        "body": "content: '\\\\f7db';$0",
+        "description": "content",
+        "prefix": "fab-tree-christmas"
+    },
+    "fab-tree-decorated": {
+        "body": "content: '\\\\f7dc';$0",
+        "description": "content",
+        "prefix": "fab-tree-decorated"
+    },
+    "fab-tree-large": {
+        "body": "content: '\\\\f7dd';$0",
+        "description": "content",
+        "prefix": "fab-tree-large"
+    },
+    "fab-tree-palm": {
+        "body": "content: '\\\\f82b';$0",
+        "description": "content",
+        "prefix": "fab-tree-palm"
     },
     "fab-trees": {
         "body": "content: '\\\\f724';$0",
@@ -8068,6 +8938,11 @@
         "body": "content: '\\\\f63c';$0",
         "description": "content",
         "prefix": "fab-truck-pickup"
+    },
+    "fab-truck-plow": {
+        "body": "content: '\\\\f7de';$0",
+        "description": "content",
+        "prefix": "fab-truck-plow"
     },
     "fab-truck-ramp": {
         "body": "content: '\\\\f4e0';$0",
@@ -8138,6 +9013,11 @@
         "body": "content: '\\\\f402';$0",
         "description": "content",
         "prefix": "fab-uber"
+    },
+    "fab-ubuntu": {
+        "body": "content: '\\\\f7df';$0",
+        "description": "content",
+        "prefix": "fab-ubuntu"
     },
     "fab-uikit": {
         "body": "content: '\\\\f403';$0",
@@ -8219,6 +9099,11 @@
         "description": "content",
         "prefix": "fab-upload"
     },
+    "fab-ups": {
+        "body": "content: '\\\\f7e0';$0",
+        "description": "content",
+        "prefix": "fab-ups"
+    },
     "fab-usb": {
         "body": "content: '\\\\f287';$0",
         "description": "content",
@@ -8299,6 +9184,16 @@
         "description": "content",
         "prefix": "fab-user-graduate"
     },
+    "fab-user-hard-hat": {
+        "body": "content: '\\\\f82c';$0",
+        "description": "content",
+        "prefix": "fab-user-hard-hat"
+    },
+    "fab-user-headset": {
+        "body": "content: '\\\\f82d';$0",
+        "description": "content",
+        "prefix": "fab-user-headset"
+    },
     "fab-user-injured": {
         "body": "content: '\\\\f728';$0",
         "description": "content",
@@ -8314,6 +9209,11 @@
         "description": "content",
         "prefix": "fab-user-md"
     },
+    "fab-user-md-chat": {
+        "body": "content: '\\\\f82e';$0",
+        "description": "content",
+        "prefix": "fab-user-md-chat"
+    },
     "fab-user-minus": {
         "body": "content: '\\\\f503';$0",
         "description": "content",
@@ -8323,6 +9223,11 @@
         "body": "content: '\\\\f504';$0",
         "description": "content",
         "prefix": "fab-user-ninja"
+    },
+    "fab-user-nurse": {
+        "body": "content: '\\\\f82f';$0",
+        "description": "content",
+        "prefix": "fab-user-nurse"
     },
     "fab-user-plus": {
         "body": "content: '\\\\f234';$0",
@@ -8378,6 +9283,16 @@
         "body": "content: '\\\\f6a5';$0",
         "description": "content",
         "prefix": "fab-users-crown"
+    },
+    "fab-users-medical": {
+        "body": "content: '\\\\f830';$0",
+        "description": "content",
+        "prefix": "fab-users-medical"
+    },
+    "fab-usps": {
+        "body": "content: '\\\\f7e1';$0",
+        "description": "content",
+        "prefix": "fab-usps"
     },
     "fab-ussunnah": {
         "body": "content: '\\\\f407';$0",
@@ -8579,6 +9494,11 @@
         "description": "content",
         "prefix": "fab-vuejs"
     },
+    "fab-walker": {
+        "body": "content: '\\\\f831';$0",
+        "description": "content",
+        "prefix": "fab-walker"
+    },
     "fab-walking": {
         "body": "content: '\\\\f554';$0",
         "description": "content",
@@ -8633,6 +9553,16 @@
         "body": "content: '\\\\f775';$0",
         "description": "content",
         "prefix": "fab-water-rise"
+    },
+    "fab-webcam": {
+        "body": "content: '\\\\f832';$0",
+        "description": "content",
+        "prefix": "fab-webcam"
+    },
+    "fab-webcam-slash": {
+        "body": "content: '\\\\f833';$0",
+        "description": "content",
+        "prefix": "fab-webcam-slash"
     },
     "fab-weebly": {
         "body": "content: '\\\\f5cc';$0",
@@ -8834,6 +9764,11 @@
         "description": "content",
         "prefix": "fab-wpressr"
     },
+    "fab-wreath": {
+        "body": "content: '\\\\f7e2';$0",
+        "description": "content",
+        "prefix": "fab-wreath"
+    },
     "fab-wrench": {
         "body": "content: '\\\\f0ad';$0",
         "description": "content",
@@ -8878,6 +9813,11 @@
         "body": "content: '\\\\f414';$0",
         "description": "content",
         "prefix": "fab-yandex-international"
+    },
+    "fab-yarn": {
+        "body": "content: '\\\\f7e3';$0",
+        "description": "content",
+        "prefix": "fab-yarn"
     },
     "fab-yelp": {
         "body": "content: '\\\\f1e9';$0",

@@ -6,9 +6,9 @@
     "postinstall": "node build"
   },
   "dependencies": {
-    "css": "^2.2.3",
-    "js-yaml": "^3.11.0",
-    "signale": "^1.1.0"
+    "css": "^2.2.4",
+    "js-yaml": "^3.12.1",
+    "signale": "^1.3.0"
   },
   "devDependencies": {
     "__ai": "github:opoloo/androidicons",

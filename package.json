@@ -794,11 +794,11 @@
     "devDependencies": {
         "gulp": "^4.0.0",
         "gulp-raster": "^0.2.0",
-        "gulp-rename": "^1.2.2",
-        "husky": "^0.14.3",
+        "gulp-rename": "^1.4.0",
+        "husky": "^1.1.4",
         "rimraf": "^2.6.2",
-        "vsce": "^1.44.0",
-        "vscode": "^1.1.2",
+        "vsce": "^1.53.0",
+        "vscode": "^1.1.21",
         "vscode-linter": "^0.2.1"
     }
 }

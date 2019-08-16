@@ -317,20 +317,6 @@ fonts:
   tag: span
   options: false
 
-- id: ratchicon
-  slug: ratchicon
-  directory: ratchet
-  github: twbs/ratchet
-  files: dist/css/ratchet.css
-  pattern:
-    before: .icon-
-    after: :before
-  classes:
-    before: 'icon'
-    after: ''
-  tag: span
-  options: false
-
 - id: stackicons
   slug: st
   directory: st

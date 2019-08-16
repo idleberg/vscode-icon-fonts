@@ -78,7 +78,6 @@ Prefix            | Icon Font                               | Version
 `oi`              | [Open Iconic][oi]                       | 1.1.0
 `openwebicons`    | [OpenWeb Icons][openwebicons]           | 1.6.0
 `pf`              | [PaymentFont][pf]                       | 1.2.5
-`ratchicon`       | [Ratchicons][ratchicon]                 | 2.0.2
 `st`              | [Stack Icons][st]                       | 1.0.0
 `typcn`           | [Typicons][typcn]                       | 2.0.7
 `wi`              | [Weather Icons][wi]                     | 2.0.10

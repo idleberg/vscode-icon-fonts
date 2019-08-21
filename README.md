@@ -120,7 +120,6 @@ You are welcome to support this project using [Flattr](https://flattr.com/submit
 [oi]: https://github.com/iconic/open-iconic
 [openwebicons]: https://github.com/pfefferle/openwebicons
 [pf]: https://github.com/vendocrat/PaymentFont
-[ratchicon]: http://github.com/twbs/ratchet
 [st]: https://github.com/parkerbennett/stackicons
 [typcn]: https://github.com/stephenhutchings/typicons.font
 [wi]: https://github.com/erikflowers/weather-icons

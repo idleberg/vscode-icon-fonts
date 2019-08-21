@@ -1,3 +1,12 @@
+# v2.2.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.2.0)
+
+- remove Ratchicons
+- remove legacy completions from manifest
+- bump Font Awesome Pro to v5.10.1
+- bump Material Design Icons to v3.9.96
+- bump OpenWeb Icons to v1.6.1
+- fix Vue scope
+
 # v2.1.5 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.1.5)
 
 - bump Font Awesome Pro to v5.7.2

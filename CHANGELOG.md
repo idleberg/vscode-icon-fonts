@@ -6,6 +6,7 @@
 - bump Material Design Icons to v3.9.96
 - bump OpenWeb Icons to v1.6.1
 - fix Vue scope
+- use Circle CI
 
 # v2.1.5 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.1.5)
 

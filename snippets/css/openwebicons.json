@@ -574,6 +574,11 @@
         "description": "content",
         "prefix": "icon-indieauth"
     },
+    "icon-id4me": {
+        "body": "content: '\\\\';$0",
+        "description": "content",
+        "prefix": "icon-id4me"
+    },
     "icon-apml-colored": {
         "body": "content: '\\\\';$0",
         "description": "content",
@@ -698,5 +703,10 @@
         "body": "content: '\\\\';$0",
         "description": "content",
         "prefix": "icon-mastodon-simple-colored"
+    },
+    "icon-id4me-colored": {
+        "body": "content: '\\\\';$0",
+        "description": "content",
+        "prefix": "icon-id4me-colored"
     }
 }

@@ -74,10 +74,30 @@
         "description": "content",
         "prefix": "fab-air-freshener"
     },
+    "fab-airbnb": {
+        "body": "content: '\\\\f834';$0",
+        "description": "content",
+        "prefix": "fab-airbnb"
+    },
     "fab-alarm-clock": {
         "body": "content: '\\\\f34e';$0",
         "description": "content",
         "prefix": "fab-alarm-clock"
+    },
+    "fab-alarm-exclamation": {
+        "body": "content: '\\\\f843';$0",
+        "description": "content",
+        "prefix": "fab-alarm-exclamation"
+    },
+    "fab-alarm-plus": {
+        "body": "content: '\\\\f844';$0",
+        "description": "content",
+        "prefix": "fab-alarm-plus"
+    },
+    "fab-alarm-snooze": {
+        "body": "content: '\\\\f845';$0",
+        "description": "content",
+        "prefix": "fab-alarm-snooze"
     },
     "fab-algolia": {
         "body": "content: '\\\\f36c';$0",
@@ -108,6 +128,11 @@
         "body": "content: '\\\\f038';$0",
         "description": "content",
         "prefix": "fab-align-right"
+    },
+    "fab-align-slash": {
+        "body": "content: '\\\\f846';$0",
+        "description": "content",
+        "prefix": "fab-align-slash"
     },
     "fab-alipay": {
         "body": "content: '\\\\f642';$0",
@@ -649,6 +674,11 @@
         "description": "content",
         "prefix": "fab-badger-honey"
     },
+    "fab-bags-shopping": {
+        "body": "content: '\\\\f847';$0",
+        "description": "content",
+        "prefix": "fab-bags-shopping"
+    },
     "fab-balance-scale": {
         "body": "content: '\\\\f24e';$0",
         "description": "content",
@@ -784,6 +814,11 @@
         "description": "content",
         "prefix": "fab-battery-three-quarters"
     },
+    "fab-battle-net": {
+        "body": "content: '\\\\f835';$0",
+        "description": "content",
+        "prefix": "fab-battle-net"
+    },
     "fab-bed": {
         "body": "content: '\\\\f236';$0",
         "description": "content",
@@ -808,6 +843,16 @@
         "body": "content: '\\\\f0f3';$0",
         "description": "content",
         "prefix": "fab-bell"
+    },
+    "fab-bell-exclamation": {
+        "body": "content: '\\\\f848';$0",
+        "description": "content",
+        "prefix": "fab-bell-exclamation"
+    },
+    "fab-bell-plus": {
+        "body": "content: '\\\\f849';$0",
+        "description": "content",
+        "prefix": "fab-bell-plus"
     },
     "fab-bell-school": {
         "body": "content: '\\\\f5d5';$0",
@@ -843,6 +888,16 @@
         "body": "content: '\\\\f206';$0",
         "description": "content",
         "prefix": "fab-bicycle"
+    },
+    "fab-biking": {
+        "body": "content: '\\\\f84a';$0",
+        "description": "content",
+        "prefix": "fab-biking"
+    },
+    "fab-biking-mountain": {
+        "body": "content: '\\\\f84b';$0",
+        "description": "content",
+        "prefix": "fab-biking-mountain"
     },
     "fab-bimobject": {
         "body": "content: '\\\\f378';$0",
@@ -1034,6 +1089,71 @@
         "description": "content",
         "prefix": "fab-booth-curtain"
     },
+    "fab-bootstrap": {
+        "body": "content: '\\\\f836';$0",
+        "description": "content",
+        "prefix": "fab-bootstrap"
+    },
+    "fab-border-all": {
+        "body": "content: '\\\\f84c';$0",
+        "description": "content",
+        "prefix": "fab-border-all"
+    },
+    "fab-border-bottom": {
+        "body": "content: '\\\\f84d';$0",
+        "description": "content",
+        "prefix": "fab-border-bottom"
+    },
+    "fab-border-center-h": {
+        "body": "content: '\\\\f89c';$0",
+        "description": "content",
+        "prefix": "fab-border-center-h"
+    },
+    "fab-border-center-v": {
+        "body": "content: '\\\\f89d';$0",
+        "description": "content",
+        "prefix": "fab-border-center-v"
+    },
+    "fab-border-inner": {
+        "body": "content: '\\\\f84e';$0",
+        "description": "content",
+        "prefix": "fab-border-inner"
+    },
+    "fab-border-left": {
+        "body": "content: '\\\\f84f';$0",
+        "description": "content",
+        "prefix": "fab-border-left"
+    },
+    "fab-border-none": {
+        "body": "content: '\\\\f850';$0",
+        "description": "content",
+        "prefix": "fab-border-none"
+    },
+    "fab-border-outer": {
+        "body": "content: '\\\\f851';$0",
+        "description": "content",
+        "prefix": "fab-border-outer"
+    },
+    "fab-border-right": {
+        "body": "content: '\\\\f852';$0",
+        "description": "content",
+        "prefix": "fab-border-right"
+    },
+    "fab-border-style": {
+        "body": "content: '\\\\f853';$0",
+        "description": "content",
+        "prefix": "fab-border-style"
+    },
+    "fab-border-style-alt": {
+        "body": "content: '\\\\f854';$0",
+        "description": "content",
+        "prefix": "fab-border-style-alt"
+    },
+    "fab-border-top": {
+        "body": "content: '\\\\f855';$0",
+        "description": "content",
+        "prefix": "fab-border-top"
+    },
     "fab-bow-arrow": {
         "body": "content: '\\\\f6b9';$0",
         "description": "content",
@@ -1154,6 +1274,16 @@
         "description": "content",
         "prefix": "fab-briefcase-medical"
     },
+    "fab-bring-forward": {
+        "body": "content: '\\\\f856';$0",
+        "description": "content",
+        "prefix": "fab-bring-forward"
+    },
+    "fab-bring-front": {
+        "body": "content: '\\\\f857';$0",
+        "description": "content",
+        "prefix": "fab-bring-front"
+    },
     "fab-broadcast-tower": {
         "body": "content: '\\\\f519';$0",
         "description": "content",
@@ -1178,6 +1308,11 @@
         "body": "content: '\\\\f15a';$0",
         "description": "content",
         "prefix": "fab-btc"
+    },
+    "fab-buffer": {
+        "body": "content: '\\\\f837';$0",
+        "description": "content",
+        "prefix": "fab-buffer"
     },
     "fab-bug": {
         "body": "content: '\\\\f188';$0",
@@ -1208,6 +1343,11 @@
         "body": "content: '\\\\f649';$0",
         "description": "content",
         "prefix": "fab-bullseye-pointer"
+    },
+    "fab-burger-soda": {
+        "body": "content: '\\\\f858';$0",
+        "description": "content",
+        "prefix": "fab-burger-soda"
     },
     "fab-burn": {
         "body": "content: '\\\\f46a';$0",
@@ -1389,10 +1529,20 @@
         "description": "content",
         "prefix": "fab-car-battery"
     },
+    "fab-car-building": {
+        "body": "content: '\\\\f859';$0",
+        "description": "content",
+        "prefix": "fab-car-building"
+    },
     "fab-car-bump": {
         "body": "content: '\\\\f5e0';$0",
         "description": "content",
         "prefix": "fab-car-bump"
+    },
+    "fab-car-bus": {
+        "body": "content: '\\\\f85a';$0",
+        "description": "content",
+        "prefix": "fab-car-bus"
     },
     "fab-car-crash": {
         "body": "content: '\\\\f5e1';$0",
@@ -1488,6 +1638,11 @@
         "body": "content: '\\\\f787';$0",
         "description": "content",
         "prefix": "fab-carrot"
+    },
+    "fab-cars": {
+        "body": "content: '\\\\f85b';$0",
+        "description": "content",
+        "prefix": "fab-cars"
     },
     "fab-cart-arrow-down": {
         "body": "content: '\\\\f218';$0",
@@ -1854,6 +2009,11 @@
         "description": "content",
         "prefix": "fab-chrome"
     },
+    "fab-chromecast": {
+        "body": "content: '\\\\f838';$0",
+        "description": "content",
+        "prefix": "fab-chromecast"
+    },
     "fab-church": {
         "body": "content: '\\\\f51d';$0",
         "description": "content",
@@ -2119,6 +2279,11 @@
         "description": "content",
         "prefix": "fab-cogs"
     },
+    "fab-coin": {
+        "body": "content: '\\\\f85c';$0",
+        "description": "content",
+        "prefix": "fab-coin"
+    },
     "fab-coins": {
         "body": "content: '\\\\f51e';$0",
         "description": "content",
@@ -2329,6 +2494,11 @@
         "description": "content",
         "prefix": "fab-connectdevelop"
     },
+    "fab-construction": {
+        "body": "content: '\\\\f85d';$0",
+        "description": "content",
+        "prefix": "fab-construction"
+    },
     "fab-container-storage": {
         "body": "content: '\\\\f4b7';$0",
         "description": "content",
@@ -2373,6 +2543,11 @@
         "body": "content: '\\\\f6c7';$0",
         "description": "content",
         "prefix": "fab-corn"
+    },
+    "fab-cotton-bureau": {
+        "body": "content: '\\\\f89e';$0",
+        "description": "content",
+        "prefix": "fab-cotton-bureau"
     },
     "fab-couch": {
         "body": "content: '\\\\f4b8';$0",
@@ -2749,6 +2924,11 @@
         "description": "content",
         "prefix": "fab-digg"
     },
+    "fab-digging": {
+        "body": "content: '\\\\f85e';$0",
+        "description": "content",
+        "prefix": "fab-digging"
+    },
     "fab-digital-ocean": {
         "body": "content: '\\\\f391';$0",
         "description": "content",
@@ -2929,6 +3109,16 @@
         "description": "content",
         "prefix": "fab-dribbble-square"
     },
+    "fab-drone": {
+        "body": "content: '\\\\f85f';$0",
+        "description": "content",
+        "prefix": "fab-drone"
+    },
+    "fab-drone-alt": {
+        "body": "content: '\\\\f860';$0",
+        "description": "content",
+        "prefix": "fab-drone-alt"
+    },
     "fab-dropbox": {
         "body": "content: '\\\\f16b';$0",
         "description": "content",
@@ -2958,6 +3148,16 @@
         "body": "content: '\\\\f1a9';$0",
         "description": "content",
         "prefix": "fab-drupal"
+    },
+    "fab-dryer": {
+        "body": "content: '\\\\f861';$0",
+        "description": "content",
+        "prefix": "fab-dryer"
+    },
+    "fab-dryer-alt": {
+        "body": "content: '\\\\f862';$0",
+        "description": "content",
+        "prefix": "fab-dryer-alt"
     },
     "fab-duck": {
         "body": "content: '\\\\f6d8';$0",
@@ -3164,6 +3364,11 @@
         "description": "content",
         "prefix": "fab-euro-sign"
     },
+    "fab-evernote": {
+        "body": "content: '\\\\f839';$0",
+        "description": "content",
+        "prefix": "fab-evernote"
+    },
     "fab-exchange": {
         "body": "content: '\\\\f0ec';$0",
         "description": "content",
@@ -3284,10 +3489,20 @@
         "description": "content",
         "prefix": "fab-facebook-square"
     },
+    "fab-fan": {
+        "body": "content: '\\\\f863';$0",
+        "description": "content",
+        "prefix": "fab-fan"
+    },
     "fab-fantasy-flight-games": {
         "body": "content: '\\\\f6dc';$0",
         "description": "content",
         "prefix": "fab-fantasy-flight-games"
+    },
+    "fab-farm": {
+        "body": "content: '\\\\f864';$0",
+        "description": "content",
+        "prefix": "fab-farm"
     },
     "fab-fast-backward": {
         "body": "content: '\\\\f049';$0",
@@ -3478,6 +3693,11 @@
         "body": "content: '\\\\f572';$0",
         "description": "content",
         "prefix": "fab-file-prescription"
+    },
+    "fab-file-search": {
+        "body": "content: '\\\\f865';$0",
+        "description": "content",
+        "prefix": "fab-file-search"
     },
     "fab-file-signature": {
         "body": "content: '\\\\f573';$0",
@@ -3754,6 +3974,11 @@
         "description": "content",
         "prefix": "fab-font-awesome-logo-full"
     },
+    "fab-font-case": {
+        "body": "content: '\\\\f866';$0",
+        "description": "content",
+        "prefix": "fab-font-case"
+    },
     "fab-fonticons": {
         "body": "content: '\\\\f280';$0",
         "description": "content",
@@ -3874,6 +4099,16 @@
         "description": "content",
         "prefix": "fab-galactic-senate"
     },
+    "fab-game-board": {
+        "body": "content: '\\\\f867';$0",
+        "description": "content",
+        "prefix": "fab-game-board"
+    },
+    "fab-game-board-alt": {
+        "body": "content: '\\\\f868';$0",
+        "description": "content",
+        "prefix": "fab-game-board-alt"
+    },
     "fab-gamepad": {
         "body": "content: '\\\\f11b';$0",
         "description": "content",
@@ -3949,6 +4184,11 @@
         "description": "content",
         "prefix": "fab-git"
     },
+    "fab-git-alt": {
+        "body": "content: '\\\\f841';$0",
+        "description": "content",
+        "prefix": "fab-git-alt"
+    },
     "fab-git-square": {
         "body": "content: '\\\\f1d2';$0",
         "description": "content",
@@ -3998,6 +4238,11 @@
         "body": "content: '\\\\f79f';$0",
         "description": "content",
         "prefix": "fab-glass-cheers"
+    },
+    "fab-glass-citrus": {
+        "body": "content: '\\\\f869';$0",
+        "description": "content",
+        "prefix": "fab-glass-citrus"
     },
     "fab-glass-martini": {
         "body": "content: '\\\\f000';$0",
@@ -4294,6 +4539,11 @@
         "description": "content",
         "prefix": "fab-h3"
     },
+    "fab-h4": {
+        "body": "content: '\\\\f86a';$0",
+        "description": "content",
+        "prefix": "fab-h4"
+    },
     "fab-hacker-news": {
         "body": "content: '\\\\f1d4';$0",
         "description": "content",
@@ -4478,6 +4728,11 @@
         "body": "content: '\\\\f292';$0",
         "description": "content",
         "prefix": "fab-hashtag"
+    },
+    "fab-hat-chef": {
+        "body": "content: '\\\\f86b';$0",
+        "description": "content",
+        "prefix": "fab-hat-chef"
     },
     "fab-hat-santa": {
         "body": "content: '\\\\f7a7';$0",
@@ -4679,6 +4934,11 @@
         "description": "content",
         "prefix": "fab-hooli"
     },
+    "fab-horizontal-rule": {
+        "body": "content: '\\\\f86c';$0",
+        "description": "content",
+        "prefix": "fab-horizontal-rule"
+    },
     "fab-hornbill": {
         "body": "content: '\\\\f592';$0",
         "description": "content",
@@ -4818,6 +5078,16 @@
         "body": "content: '\\\\f7ad';$0",
         "description": "content",
         "prefix": "fab-icicles"
+    },
+    "fab-icons": {
+        "body": "content: '\\\\f86d';$0",
+        "description": "content",
+        "prefix": "fab-icons"
+    },
+    "fab-icons-alt": {
+        "body": "content: '\\\\f86e';$0",
+        "description": "content",
+        "prefix": "fab-icons-alt"
     },
     "fab-id-badge": {
         "body": "content: '\\\\f2c1';$0",
@@ -4959,6 +5229,11 @@
         "description": "content",
         "prefix": "fab-italic"
     },
+    "fab-itch-io": {
+        "body": "content: '\\\\f83a';$0",
+        "description": "content",
+        "prefix": "fab-itch-io"
+    },
     "fab-itunes": {
         "body": "content: '\\\\f3b4';$0",
         "description": "content",
@@ -5043,6 +5318,11 @@
         "body": "content: '\\\\f5fa';$0",
         "description": "content",
         "prefix": "fab-kaggle"
+    },
+    "fab-kerning": {
+        "body": "content: '\\\\f86f';$0",
+        "description": "content",
+        "prefix": "fab-kerning"
     },
     "fab-key": {
         "body": "content: '\\\\f084';$0",
@@ -5323,6 +5603,16 @@
         "body": "content: '\\\\f3c0';$0",
         "description": "content",
         "prefix": "fab-line"
+    },
+    "fab-line-columns": {
+        "body": "content: '\\\\f870';$0",
+        "description": "content",
+        "prefix": "fab-line-columns"
+    },
+    "fab-line-height": {
+        "body": "content: '\\\\f871';$0",
+        "description": "content",
+        "prefix": "fab-line-height"
     },
     "fab-link": {
         "body": "content: '\\\\f0c1';$0",
@@ -5914,6 +6204,16 @@
         "description": "content",
         "prefix": "fab-money-check-alt"
     },
+    "fab-money-check-edit": {
+        "body": "content: '\\\\f872';$0",
+        "description": "content",
+        "prefix": "fab-money-check-edit"
+    },
+    "fab-money-check-edit-alt": {
+        "body": "content: '\\\\f873';$0",
+        "description": "content",
+        "prefix": "fab-money-check-edit-alt"
+    },
     "fab-monitor-heart-rate": {
         "body": "content: '\\\\f611';$0",
         "description": "content",
@@ -5974,6 +6274,11 @@
         "description": "content",
         "prefix": "fab-mouse-pointer"
     },
+    "fab-mug": {
+        "body": "content: '\\\\f874';$0",
+        "description": "content",
+        "prefix": "fab-mug"
+    },
     "fab-mug-hot": {
         "body": "content: '\\\\f7b6';$0",
         "description": "content",
@@ -5983,6 +6288,11 @@
         "body": "content: '\\\\f7b7';$0",
         "description": "content",
         "prefix": "fab-mug-marshmallows"
+    },
+    "fab-mug-tea": {
+        "body": "content: '\\\\f875';$0",
+        "description": "content",
+        "prefix": "fab-mug-tea"
     },
     "fab-music": {
         "body": "content: '\\\\f001';$0",
@@ -6023,11 +6333,6 @@
         "body": "content: '\\\\f5a8';$0",
         "description": "content",
         "prefix": "fab-nimblr"
-    },
-    "fab-nintendo-switch": {
-        "body": "content: '\\\\f418';$0",
-        "description": "content",
-        "prefix": "fab-nintendo-switch"
     },
     "fab-node": {
         "body": "content: '\\\\f419';$0",
@@ -6154,6 +6459,16 @@
         "description": "content",
         "prefix": "fab-outdent"
     },
+    "fab-overline": {
+        "body": "content: '\\\\f876';$0",
+        "description": "content",
+        "prefix": "fab-overline"
+    },
+    "fab-page-break": {
+        "body": "content: '\\\\f877';$0",
+        "description": "content",
+        "prefix": "fab-page-break"
+    },
     "fab-page4": {
         "body": "content: '\\\\f3d7';$0",
         "description": "content",
@@ -6223,6 +6538,11 @@
         "body": "content: '\\\\f1dd';$0",
         "description": "content",
         "prefix": "fab-paragraph"
+    },
+    "fab-paragraph-rtl": {
+        "body": "content: '\\\\f878';$0",
+        "description": "content",
+        "prefix": "fab-paragraph-rtl"
     },
     "fab-parking": {
         "body": "content: '\\\\f540';$0",
@@ -6429,6 +6749,16 @@
         "description": "content",
         "prefix": "fab-phone"
     },
+    "fab-phone-alt": {
+        "body": "content: '\\\\f879';$0",
+        "description": "content",
+        "prefix": "fab-phone-alt"
+    },
+    "fab-phone-laptop": {
+        "body": "content: '\\\\f87a';$0",
+        "description": "content",
+        "prefix": "fab-phone-laptop"
+    },
     "fab-phone-office": {
         "body": "content: '\\\\f67d';$0",
         "description": "content",
@@ -6449,10 +6779,20 @@
         "description": "content",
         "prefix": "fab-phone-square"
     },
+    "fab-phone-square-alt": {
+        "body": "content: '\\\\f87b';$0",
+        "description": "content",
+        "prefix": "fab-phone-square-alt"
+    },
     "fab-phone-volume": {
         "body": "content: '\\\\f2a0';$0",
         "description": "content",
         "prefix": "fab-phone-volume"
+    },
+    "fab-photo-video": {
+        "body": "content: '\\\\f87c';$0",
+        "description": "content",
+        "prefix": "fab-photo-video"
     },
     "fab-php": {
         "body": "content: '\\\\f457';$0",
@@ -6949,6 +7289,11 @@
         "description": "content",
         "prefix": "fab-registered"
     },
+    "fab-remove-format": {
+        "body": "content: '\\\\f87d';$0",
+        "description": "content",
+        "prefix": "fab-remove-format"
+    },
     "fab-renren": {
         "body": "content: '\\\\f18b';$0",
         "description": "content",
@@ -7164,6 +7509,11 @@
         "description": "content",
         "prefix": "fab-salad"
     },
+    "fab-salesforce": {
+        "body": "content: '\\\\f83b';$0",
+        "description": "content",
+        "prefix": "fab-salesforce"
+    },
     "fab-sandwich": {
         "body": "content: '\\\\f81f';$0",
         "description": "content",
@@ -7318,6 +7668,16 @@
         "body": "content: '\\\\f213';$0",
         "description": "content",
         "prefix": "fab-sellsy"
+    },
+    "fab-send-back": {
+        "body": "content: '\\\\f87e';$0",
+        "description": "content",
+        "prefix": "fab-send-back"
+    },
+    "fab-send-backward": {
+        "body": "content: '\\\\f87f';$0",
+        "description": "content",
+        "prefix": "fab-send-backward"
     },
     "fab-server": {
         "body": "content: '\\\\f233';$0",
@@ -7764,6 +8124,11 @@
         "description": "content",
         "prefix": "fab-snapchat-square"
     },
+    "fab-snooze": {
+        "body": "content: '\\\\f880';$0",
+        "description": "content",
+        "prefix": "fab-snooze"
+    },
     "fab-snow-blowing": {
         "body": "content: '\\\\f761';$0",
         "description": "content",
@@ -7819,20 +8184,45 @@
         "description": "content",
         "prefix": "fab-sort-alpha-down"
     },
+    "fab-sort-alpha-down-alt": {
+        "body": "content: '\\\\f881';$0",
+        "description": "content",
+        "prefix": "fab-sort-alpha-down-alt"
+    },
     "fab-sort-alpha-up": {
         "body": "content: '\\\\f15e';$0",
         "description": "content",
         "prefix": "fab-sort-alpha-up"
+    },
+    "fab-sort-alpha-up-alt": {
+        "body": "content: '\\\\f882';$0",
+        "description": "content",
+        "prefix": "fab-sort-alpha-up-alt"
+    },
+    "fab-sort-alt": {
+        "body": "content: '\\\\f883';$0",
+        "description": "content",
+        "prefix": "fab-sort-alt"
     },
     "fab-sort-amount-down": {
         "body": "content: '\\\\f160';$0",
         "description": "content",
         "prefix": "fab-sort-amount-down"
     },
+    "fab-sort-amount-down-alt": {
+        "body": "content: '\\\\f884';$0",
+        "description": "content",
+        "prefix": "fab-sort-amount-down-alt"
+    },
     "fab-sort-amount-up": {
         "body": "content: '\\\\f161';$0",
         "description": "content",
         "prefix": "fab-sort-amount-up"
+    },
+    "fab-sort-amount-up-alt": {
+        "body": "content: '\\\\f885';$0",
+        "description": "content",
+        "prefix": "fab-sort-amount-up-alt"
     },
     "fab-sort-down": {
         "body": "content: '\\\\f0dd';$0",
@@ -7844,10 +8234,60 @@
         "description": "content",
         "prefix": "fab-sort-numeric-down"
     },
+    "fab-sort-numeric-down-alt": {
+        "body": "content: '\\\\f886';$0",
+        "description": "content",
+        "prefix": "fab-sort-numeric-down-alt"
+    },
     "fab-sort-numeric-up": {
         "body": "content: '\\\\f163';$0",
         "description": "content",
         "prefix": "fab-sort-numeric-up"
+    },
+    "fab-sort-numeric-up-alt": {
+        "body": "content: '\\\\f887';$0",
+        "description": "content",
+        "prefix": "fab-sort-numeric-up-alt"
+    },
+    "fab-sort-shapes-down": {
+        "body": "content: '\\\\f888';$0",
+        "description": "content",
+        "prefix": "fab-sort-shapes-down"
+    },
+    "fab-sort-shapes-down-alt": {
+        "body": "content: '\\\\f889';$0",
+        "description": "content",
+        "prefix": "fab-sort-shapes-down-alt"
+    },
+    "fab-sort-shapes-up": {
+        "body": "content: '\\\\f88a';$0",
+        "description": "content",
+        "prefix": "fab-sort-shapes-up"
+    },
+    "fab-sort-shapes-up-alt": {
+        "body": "content: '\\\\f88b';$0",
+        "description": "content",
+        "prefix": "fab-sort-shapes-up-alt"
+    },
+    "fab-sort-size-down": {
+        "body": "content: '\\\\f88c';$0",
+        "description": "content",
+        "prefix": "fab-sort-size-down"
+    },
+    "fab-sort-size-down-alt": {
+        "body": "content: '\\\\f88d';$0",
+        "description": "content",
+        "prefix": "fab-sort-size-down-alt"
+    },
+    "fab-sort-size-up": {
+        "body": "content: '\\\\f88e';$0",
+        "description": "content",
+        "prefix": "fab-sort-size-up"
+    },
+    "fab-sort-size-up-alt": {
+        "body": "content: '\\\\f88f';$0",
+        "description": "content",
+        "prefix": "fab-sort-size-up-alt"
     },
     "fab-sort-up": {
         "body": "content: '\\\\f0de';$0",
@@ -7884,10 +8324,25 @@
         "description": "content",
         "prefix": "fab-spade"
     },
+    "fab-sparkles": {
+        "body": "content: '\\\\f890';$0",
+        "description": "content",
+        "prefix": "fab-sparkles"
+    },
     "fab-speakap": {
         "body": "content: '\\\\f3f3';$0",
         "description": "content",
         "prefix": "fab-speakap"
+    },
+    "fab-speaker-deck": {
+        "body": "content: '\\\\f83c';$0",
+        "description": "content",
+        "prefix": "fab-speaker-deck"
+    },
+    "fab-spell-check": {
+        "body": "content: '\\\\f891';$0",
+        "description": "content",
+        "prefix": "fab-spell-check"
     },
     "fab-spider": {
         "body": "content: '\\\\f717';$0",
@@ -7968,6 +8423,11 @@
         "body": "content: '\\\\f16c';$0",
         "description": "content",
         "prefix": "fab-stack-overflow"
+    },
+    "fab-stackpath": {
+        "body": "content: '\\\\f842';$0",
+        "description": "content",
+        "prefix": "fab-stackpath"
     },
     "fab-staff": {
         "body": "content: '\\\\f71b';$0",
@@ -8209,6 +8669,11 @@
         "description": "content",
         "prefix": "fab-sun-haze"
     },
+    "fab-sunglasses": {
+        "body": "content: '\\\\f892';$0",
+        "description": "content",
+        "prefix": "fab-sunglasses"
+    },
     "fab-sunrise": {
         "body": "content: '\\\\f766';$0",
         "description": "content",
@@ -8268,6 +8733,11 @@
         "body": "content: '\\\\f71d';$0",
         "description": "content",
         "prefix": "fab-swords"
+    },
+    "fab-symfony": {
+        "body": "content: '\\\\f83d';$0",
+        "description": "content",
+        "prefix": "fab-symfony"
     },
     "fab-synagogue": {
         "body": "content: '\\\\f69b';$0",
@@ -8499,10 +8969,20 @@
         "description": "content",
         "prefix": "fab-terminal"
     },
+    "fab-text": {
+        "body": "content: '\\\\f893';$0",
+        "description": "content",
+        "prefix": "fab-text"
+    },
     "fab-text-height": {
         "body": "content: '\\\\f034';$0",
         "description": "content",
         "prefix": "fab-text-height"
+    },
+    "fab-text-size": {
+        "body": "content: '\\\\f894';$0",
+        "description": "content",
+        "prefix": "fab-text-size"
     },
     "fab-text-width": {
         "body": "content: '\\\\f035';$0",
@@ -8838,6 +9318,16 @@
         "body": "content: '\\\\f82a';$0",
         "description": "content",
         "prefix": "fab-trash-restore-alt"
+    },
+    "fab-trash-undo": {
+        "body": "content: '\\\\f895';$0",
+        "description": "content",
+        "prefix": "fab-trash-undo"
+    },
+    "fab-trash-undo-alt": {
+        "body": "content: '\\\\f896';$0",
+        "description": "content",
+        "prefix": "fab-trash-undo-alt"
     },
     "fab-treasure-chest": {
         "body": "content: '\\\\f723';$0",
@@ -9434,6 +9924,11 @@
         "description": "content",
         "prefix": "fab-vnv"
     },
+    "fab-voicemail": {
+        "body": "content: '\\\\f897';$0",
+        "description": "content",
+        "prefix": "fab-voicemail"
+    },
     "fab-volcano": {
         "body": "content: '\\\\f770';$0",
         "description": "content",
@@ -9529,6 +10024,11 @@
         "description": "content",
         "prefix": "fab-warehouse-alt"
     },
+    "fab-washer": {
+        "body": "content: '\\\\f898';$0",
+        "description": "content",
+        "prefix": "fab-washer"
+    },
     "fab-watch": {
         "body": "content: '\\\\f2e1';$0",
         "description": "content",
@@ -9553,6 +10053,26 @@
         "body": "content: '\\\\f775';$0",
         "description": "content",
         "prefix": "fab-water-rise"
+    },
+    "fab-wave-sine": {
+        "body": "content: '\\\\f899';$0",
+        "description": "content",
+        "prefix": "fab-wave-sine"
+    },
+    "fab-wave-square": {
+        "body": "content: '\\\\f83e';$0",
+        "description": "content",
+        "prefix": "fab-wave-square"
+    },
+    "fab-wave-triangle": {
+        "body": "content: '\\\\f89a';$0",
+        "description": "content",
+        "prefix": "fab-wave-triangle"
+    },
+    "fab-waze": {
+        "body": "content: '\\\\f83f';$0",
+        "description": "content",
+        "prefix": "fab-waze"
     },
     "fab-webcam": {
         "body": "content: '\\\\f832';$0",
@@ -9653,6 +10173,11 @@
         "body": "content: '\\\\f72e';$0",
         "description": "content",
         "prefix": "fab-wind"
+    },
+    "fab-wind-turbine": {
+        "body": "content: '\\\\f89b';$0",
+        "description": "content",
+        "prefix": "fab-wind-turbine"
     },
     "fab-wind-warning": {
         "body": "content: '\\\\f776';$0",
@@ -9804,6 +10329,11 @@
         "description": "content",
         "prefix": "fab-yahoo"
     },
+    "fab-yammer": {
+        "body": "content: '\\\\f840';$0",
+        "description": "content",
+        "prefix": "fab-yammer"
+    },
     "fab-yandex": {
         "body": "content: '\\\\f413';$0",
         "description": "content",
@@ -9853,5 +10383,10 @@
         "body": "content: '\\\\f63f';$0",
         "description": "content",
         "prefix": "fab-zhihu"
+    },
+    "fab-swap-opacity .fad": {
+        "body": "content: '\\\\undefined';$0",
+        "description": "content",
+        "prefix": "fab-swap-opacity .fad"
     }
 }

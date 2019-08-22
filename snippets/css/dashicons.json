@@ -189,6 +189,11 @@
         "description": "content",
         "prefix": "dashicons-arrow-up-alt2"
     },
+    "dashicons-arrow-up-duplicate": {
+        "body": "content: '\\\\f143';$0",
+        "description": "content",
+        "prefix": "dashicons-arrow-up-duplicate"
+    },
     "dashicons-arrow-up": {
         "body": "content: '\\\\f142';$0",
         "description": "content",
@@ -225,7 +230,7 @@
         "prefix": "dashicons-buddicons-activity"
     },
     "dashicons-buddicons-bbpress-logo": {
-        "body": "content: '\\\\f12b';$0",
+        "body": "content: '\\\\f477';$0",
         "description": "content",
         "prefix": "dashicons-buddicons-bbpress-logo"
     },
@@ -284,6 +289,16 @@
         "description": "content",
         "prefix": "dashicons-businessman"
     },
+    "dashicons-businessperson": {
+        "body": "content: '\\\\f12e';$0",
+        "description": "content",
+        "prefix": "dashicons-businessperson"
+    },
+    "dashicons-businesswoman": {
+        "body": "content: '\\\\f12f';$0",
+        "description": "content",
+        "prefix": "dashicons-businesswoman"
+    },
     "dashicons-calendar-alt": {
         "body": "content: '\\\\f508';$0",
         "description": "content",
@@ -293,6 +308,11 @@
         "body": "content: '\\\\f145';$0",
         "description": "content",
         "prefix": "dashicons-calendar"
+    },
+    "dashicons-camera-alt": {
+        "body": "content: '\\\\f129';$0",
+        "description": "content",
+        "prefix": "dashicons-camera-alt"
     },
     "dashicons-camera": {
         "body": "content: '\\\\f306';$0",
@@ -348,6 +368,16 @@
         "body": "content: '\\\\f176';$0",
         "description": "content",
         "prefix": "dashicons-cloud"
+    },
+    "dashicons-code-standards": {
+        "body": "content: '\\\\f13a';$0",
+        "description": "content",
+        "prefix": "dashicons-code-standards"
+    },
+    "dashicons-color-picker": {
+        "body": "content: '\\\\f131';$0",
+        "description": "content",
+        "prefix": "dashicons-color-picker"
     },
     "dashicons-controls-back": {
         "body": "content: '\\\\f518';$0",
@@ -414,6 +444,11 @@
         "description": "content",
         "prefix": "dashicons-download"
     },
+    "dashicons-edit-large": {
+        "body": "content: '\\\\f327';$0",
+        "description": "content",
+        "prefix": "dashicons-edit-large"
+    },
     "dashicons-edit": {
         "body": "content: '\\\\f464';$0",
         "description": "content",
@@ -443,6 +478,11 @@
         "body": "content: '\\\\f474';$0",
         "description": "content",
         "prefix": "dashicons-editor-break"
+    },
+    "dashicons-editor-code-duplicate": {
+        "body": "content: '\\\\f494';$0",
+        "description": "content",
+        "prefix": "dashicons-editor-code-duplicate"
     },
     "dashicons-editor-code": {
         "body": "content: '\\\\f475';$0",
@@ -495,9 +535,14 @@
         "prefix": "dashicons-editor-kitchensink"
     },
     "dashicons-editor-ltr": {
-        "body": "content: '\\\\f129';$0",
+        "body": "content: '\\\\f10c';$0",
         "description": "content",
         "prefix": "dashicons-editor-ltr"
+    },
+    "dashicons-editor-ol-rtl": {
+        "body": "content: '\\\\f12c';$0",
+        "description": "content",
+        "prefix": "dashicons-editor-ol-rtl"
     },
     "dashicons-editor-ol": {
         "body": "content: '\\\\f204';$0",
@@ -585,7 +630,7 @@
         "prefix": "dashicons-email-alt"
     },
     "dashicons-email-alt2": {
-        "body": "content: '\\\\f10a';$0",
+        "body": "content: '\\\\f467';$0",
         "description": "content",
         "prefix": "dashicons-email-alt2"
     },
@@ -769,6 +814,11 @@
         "description": "content",
         "prefix": "dashicons-info"
     },
+    "dashicons-instagram": {
+        "body": "content: '\\\\f12d';$0",
+        "description": "content",
+        "prefix": "dashicons-instagram"
+    },
     "dashicons-laptop": {
         "body": "content: '\\\\f547';$0",
         "description": "content",
@@ -803,6 +853,11 @@
         "body": "content: '\\\\f230';$0",
         "description": "content",
         "prefix": "dashicons-location"
+    },
+    "dashicons-lock-duplicate": {
+        "body": "content: '\\\\f315';$0",
+        "description": "content",
+        "prefix": "dashicons-lock-duplicate"
     },
     "dashicons-lock": {
         "body": "content: '\\\\f160';$0",
@@ -865,9 +920,19 @@
         "prefix": "dashicons-megaphone"
     },
     "dashicons-menu-alt": {
-        "body": "content: '\\\\f10b';$0",
+        "body": "content: '\\\\f228';$0",
         "description": "content",
         "prefix": "dashicons-menu-alt"
+    },
+    "dashicons-menu-alt2": {
+        "body": "content: '\\\\f329';$0",
+        "description": "content",
+        "prefix": "dashicons-menu-alt2"
+    },
+    "dashicons-menu-alt3": {
+        "body": "content: '\\\\f349';$0",
+        "description": "content",
+        "prefix": "dashicons-menu-alt3"
     },
     "dashicons-menu": {
         "body": "content: '\\\\f333';$0",
@@ -949,15 +1014,20 @@
         "description": "content",
         "prefix": "dashicons-playlist-video"
     },
+    "dashicons-plugins-checked": {
+        "body": "content: '\\\\f485';$0",
+        "description": "content",
+        "prefix": "dashicons-plugins-checked"
+    },
     "dashicons-plus-alt": {
         "body": "content: '\\\\f502';$0",
         "description": "content",
         "prefix": "dashicons-plus-alt"
     },
-    "dashicons-plus-light": {
-        "body": "content: '\\\\f10c';$0",
+    "dashicons-plus-alt2": {
+        "body": "content: '\\\\f543';$0",
         "description": "content",
-        "prefix": "dashicons-plus-light"
+        "prefix": "dashicons-plus-alt2"
     },
     "dashicons-plus": {
         "body": "content: '\\\\f132';$0",
@@ -1114,6 +1184,11 @@
         "description": "content",
         "prefix": "dashicons-testimonial"
     },
+    "dashicons-text-page": {
+        "body": "content: '\\\\f121';$0",
+        "description": "content",
+        "prefix": "dashicons-text-page"
+    },
     "dashicons-text": {
         "body": "content: '\\\\f478';$0",
         "description": "content",
@@ -1154,6 +1229,11 @@
         "description": "content",
         "prefix": "dashicons-trash"
     },
+    "dashicons-twitter-alt": {
+        "body": "content: '\\\\f302';$0",
+        "description": "content",
+        "prefix": "dashicons-twitter-alt"
+    },
     "dashicons-twitter": {
         "body": "content: '\\\\f301';$0",
         "description": "content",
@@ -1178,6 +1258,11 @@
         "body": "content: '\\\\f528';$0",
         "description": "content",
         "prefix": "dashicons-unlock"
+    },
+    "dashicons-update-alt": {
+        "body": "content: '\\\\f113';$0",
+        "description": "content",
+        "prefix": "dashicons-update-alt"
     },
     "dashicons-update": {
         "body": "content: '\\\\f463';$0",
@@ -1269,19 +1354,39 @@
         "description": "content",
         "prefix": "dashicons-yes"
     },
+    "dashicons-editor-distractionfree": {
+        "body": "content: '\\\\f211';$0",
+        "description": "content",
+        "prefix": "dashicons-editor-distractionfree"
+    },
+    "dashicons-exerpt-view": {
+        "body": "content: '\\\\f164';$0",
+        "description": "content",
+        "prefix": "dashicons-exerpt-view"
+    },
     "dashicons-format-links": {
         "body": "content: '\\\\f103';$0",
         "description": "content",
         "prefix": "dashicons-format-links"
     },
-    "dashicons-welcome-edit-page": {
-        "body": "content: '\\\\f119';$0",
-        "description": "content",
-        "prefix": "dashicons-welcome-edit-page"
-    },
     "dashicons-format-standard": {
         "body": "content: '\\\\f109';$0",
         "description": "content",
         "prefix": "dashicons-format-standard"
+    },
+    "dashicons-post-trash": {
+        "body": "content: '\\\\f182';$0",
+        "description": "content",
+        "prefix": "dashicons-post-trash"
+    },
+    "dashicons-share1": {
+        "body": "content: '\\\\f237';$0",
+        "description": "content",
+        "prefix": "dashicons-share1"
+    },
+    "dashicons-welcome-edit-page": {
+        "body": "content: '\\\\f119';$0",
+        "description": "content",
+        "prefix": "dashicons-welcome-edit-page"
     }
 }

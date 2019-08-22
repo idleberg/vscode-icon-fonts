@@ -1,3 +1,7 @@
+# v2.2.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.2.1)
+
+- fix: build updated snippets
+
 # v2.2.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.2.0)
 
 - remove Ratchicons

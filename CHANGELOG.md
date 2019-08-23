@@ -1,3 +1,7 @@
+# v2.2.2 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.2.2)
+
+- update Boxicons CSS path
+
 # v2.2.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.2.1)
 
 - fix: build updated snippets

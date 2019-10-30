@@ -99,6 +99,16 @@
         "description": "content",
         "prefix": "fas-alarm-snooze"
     },
+    "fas-album": {
+        "body": "content: '\\\\f89f';$0",
+        "description": "content",
+        "prefix": "fas-album"
+    },
+    "fas-album-collection": {
+        "body": "content: '\\\\f8a0';$0",
+        "description": "content",
+        "prefix": "fas-album-collection"
+    },
     "fas-algolia": {
         "body": "content: '\\\\f36c';$0",
         "description": "content",
@@ -168,6 +178,11 @@
         "body": "content: '\\\\f36d';$0",
         "description": "content",
         "prefix": "fas-amilia"
+    },
+    "fas-amp-guitar": {
+        "body": "content: '\\\\f8a1';$0",
+        "description": "content",
+        "prefix": "fas-amp-guitar"
     },
     "fas-analytics": {
         "body": "content: '\\\\f643';$0",
@@ -669,6 +684,11 @@
         "description": "content",
         "prefix": "fas-badge-percent"
     },
+    "fas-badge-sheriff": {
+        "body": "content: '\\\\f8a2';$0",
+        "description": "content",
+        "prefix": "fas-badge-sheriff"
+    },
     "fas-badger-honey": {
         "body": "content: '\\\\f6b4';$0",
         "description": "content",
@@ -723,6 +743,11 @@
         "body": "content: '\\\\f2d5';$0",
         "description": "content",
         "prefix": "fas-bandcamp"
+    },
+    "fas-banjo": {
+        "body": "content: '\\\\f8a3';$0",
+        "description": "content",
+        "prefix": "fas-banjo"
     },
     "fas-barcode": {
         "body": "content: '\\\\f02a';$0",
@@ -873,6 +898,11 @@
         "body": "content: '\\\\f77f';$0",
         "description": "content",
         "prefix": "fas-bells"
+    },
+    "fas-betamax": {
+        "body": "content: '\\\\f8a4';$0",
+        "description": "content",
+        "prefix": "fas-betamax"
     },
     "fas-bezier-curve": {
         "body": "content: '\\\\f55b';$0",
@@ -1078,6 +1108,11 @@
         "body": "content: '\\\\f7e8';$0",
         "description": "content",
         "prefix": "fas-books-medical"
+    },
+    "fas-boombox": {
+        "body": "content: '\\\\f8a5';$0",
+        "description": "content",
+        "prefix": "fas-boombox"
     },
     "fas-boot": {
         "body": "content: '\\\\f782';$0",
@@ -1384,6 +1419,11 @@
         "description": "content",
         "prefix": "fas-business-time"
     },
+    "fas-buy-n-large": {
+        "body": "content: '\\\\f8a6';$0",
+        "description": "content",
+        "prefix": "fas-buy-n-large"
+    },
     "fas-buysellads": {
         "body": "content: '\\\\f20d';$0",
         "description": "content",
@@ -1393,6 +1433,11 @@
         "body": "content: '\\\\f64b';$0",
         "description": "content",
         "prefix": "fas-cabinet-filing"
+    },
+    "fas-cactus": {
+        "body": "content: '\\\\f8a7';$0",
+        "description": "content",
+        "prefix": "fas-cactus"
     },
     "fas-calculator": {
         "body": "content: '\\\\f1ec';$0",
@@ -1459,6 +1504,11 @@
         "description": "content",
         "prefix": "fas-calendar-week"
     },
+    "fas-camcorder": {
+        "body": "content: '\\\\f8a8';$0",
+        "description": "content",
+        "prefix": "fas-camcorder"
+    },
     "fas-camera": {
         "body": "content: '\\\\f030';$0",
         "description": "content",
@@ -1468,6 +1518,16 @@
         "body": "content: '\\\\f332';$0",
         "description": "content",
         "prefix": "fas-camera-alt"
+    },
+    "fas-camera-movie": {
+        "body": "content: '\\\\f8a9';$0",
+        "description": "content",
+        "prefix": "fas-camera-movie"
+    },
+    "fas-camera-polaroid": {
+        "body": "content: '\\\\f8aa';$0",
+        "description": "content",
+        "prefix": "fas-camera-polaroid"
     },
     "fas-camera-retro": {
         "body": "content: '\\\\f083';$0",
@@ -1659,6 +1719,11 @@
         "description": "content",
         "prefix": "fas-cash-register"
     },
+    "fas-cassette-tape": {
+        "body": "content: '\\\\f8ab';$0",
+        "description": "content",
+        "prefix": "fas-cassette-tape"
+    },
     "fas-cat": {
         "body": "content: '\\\\f6be';$0",
         "description": "content",
@@ -1718,6 +1783,11 @@
         "body": "content: '\\\\f1f0';$0",
         "description": "content",
         "prefix": "fas-cc-visa"
+    },
+    "fas-cctv": {
+        "body": "content: '\\\\f8ac';$0",
+        "description": "content",
+        "prefix": "fas-cctv"
     },
     "fas-centercode": {
         "body": "content: '\\\\f380';$0",
@@ -2034,6 +2104,11 @@
         "description": "content",
         "prefix": "fas-city"
     },
+    "fas-clarinet": {
+        "body": "content: '\\\\f8ad';$0",
+        "description": "content",
+        "prefix": "fas-clarinet"
+    },
     "fas-claw-marks": {
         "body": "content: '\\\\f6c2';$0",
         "description": "content",
@@ -2133,6 +2208,11 @@
         "body": "content: '\\\\f73c';$0",
         "description": "content",
         "prefix": "fas-cloud-moon-rain"
+    },
+    "fas-cloud-music": {
+        "body": "content: '\\\\f8ae';$0",
+        "description": "content",
+        "prefix": "fas-cloud-music"
     },
     "fas-cloud-rain": {
         "body": "content: '\\\\f73d';$0",
@@ -2344,6 +2424,11 @@
         "description": "content",
         "prefix": "fas-comment-alt-minus"
     },
+    "fas-comment-alt-music": {
+        "body": "content: '\\\\f8af';$0",
+        "description": "content",
+        "prefix": "fas-comment-alt-music"
+    },
     "fas-comment-alt-plus": {
         "body": "content: '\\\\f4a8';$0",
         "description": "content",
@@ -2403,6 +2488,11 @@
         "body": "content: '\\\\f4b1';$0",
         "description": "content",
         "prefix": "fas-comment-minus"
+    },
+    "fas-comment-music": {
+        "body": "content: '\\\\f8b0';$0",
+        "description": "content",
+        "prefix": "fas-comment-music"
     },
     "fas-comment-plus": {
         "body": "content: '\\\\f4b2';$0",
@@ -2478,6 +2568,16 @@
         "body": "content: '\\\\f326';$0",
         "description": "content",
         "prefix": "fas-compress-wide"
+    },
+    "fas-computer-classic": {
+        "body": "content: '\\\\f8b1';$0",
+        "description": "content",
+        "prefix": "fas-computer-classic"
+    },
+    "fas-computer-speaker": {
+        "body": "content: '\\\\f8b2';$0",
+        "description": "content",
+        "prefix": "fas-computer-speaker"
     },
     "fas-concierge-bell": {
         "body": "content: '\\\\f562';$0",
@@ -2558,6 +2658,16 @@
         "body": "content: '\\\\f6c8';$0",
         "description": "content",
         "prefix": "fas-cow"
+    },
+    "fas-cowbell": {
+        "body": "content: '\\\\f8b3';$0",
+        "description": "content",
+        "prefix": "fas-cowbell"
+    },
+    "fas-cowbell-more": {
+        "body": "content: '\\\\f8b4';$0",
+        "description": "content",
+        "prefix": "fas-cowbell-more"
     },
     "fas-cpanel": {
         "body": "content: '\\\\f388';$0",
@@ -2948,6 +3058,11 @@
         "body": "content: '\\\\f5eb';$0",
         "description": "content",
         "prefix": "fas-directions"
+    },
+    "fas-disc-drive": {
+        "body": "content: '\\\\f8b5';$0",
+        "description": "content",
+        "prefix": "fas-disc-drive"
     },
     "fas-discord": {
         "body": "content: '\\\\f392';$0",
@@ -3674,6 +3789,11 @@
         "description": "content",
         "prefix": "fas-file-minus"
     },
+    "fas-file-music": {
+        "body": "content: '\\\\f8b6';$0",
+        "description": "content",
+        "prefix": "fas-file-music"
+    },
     "fas-file-pdf": {
         "body": "content: '\\\\f1c1';$0",
         "description": "content",
@@ -3758,6 +3878,11 @@
         "body": "content: '\\\\f3a0';$0",
         "description": "content",
         "prefix": "fas-film-alt"
+    },
+    "fas-film-canister": {
+        "body": "content: '\\\\f8b7';$0",
+        "description": "content",
+        "prefix": "fas-film-canister"
     },
     "fas-filter": {
         "body": "content: '\\\\f0b0';$0",
@@ -3859,6 +3984,11 @@
         "description": "content",
         "prefix": "fas-flame"
     },
+    "fas-flashlight": {
+        "body": "content: '\\\\f8b8';$0",
+        "description": "content",
+        "prefix": "fas-flashlight"
+    },
     "fas-flask": {
         "body": "content: '\\\\f0c3';$0",
         "description": "content",
@@ -3903,6 +4033,16 @@
         "body": "content: '\\\\f579';$0",
         "description": "content",
         "prefix": "fas-flushed"
+    },
+    "fas-flute": {
+        "body": "content: '\\\\f8b9';$0",
+        "description": "content",
+        "prefix": "fas-flute"
+    },
+    "fas-flux-capacitor": {
+        "body": "content: '\\\\f8ba';$0",
+        "description": "content",
+        "prefix": "fas-flux-capacitor"
     },
     "fas-fly": {
         "body": "content: '\\\\f417';$0",
@@ -4109,10 +4249,20 @@
         "description": "content",
         "prefix": "fas-game-board-alt"
     },
+    "fas-game-console-handheld": {
+        "body": "content: '\\\\f8bb';$0",
+        "description": "content",
+        "prefix": "fas-game-console-handheld"
+    },
     "fas-gamepad": {
         "body": "content: '\\\\f11b';$0",
         "description": "content",
         "prefix": "fas-gamepad"
+    },
+    "fas-gamepad-alt": {
+        "body": "content: '\\\\f8bc';$0",
+        "description": "content",
+        "prefix": "fas-gamepad-alt"
     },
     "fas-gas-pump": {
         "body": "content: '\\\\f52f';$0",
@@ -4389,6 +4539,11 @@
         "description": "content",
         "prefix": "fas-graduation-cap"
     },
+    "fas-gramophone": {
+        "body": "content: '\\\\f8bd';$0",
+        "description": "content",
+        "prefix": "fas-gramophone"
+    },
     "fas-gratipay": {
         "body": "content: '\\\\f184';$0",
         "description": "content",
@@ -4513,6 +4668,16 @@
         "body": "content: '\\\\f7a6';$0",
         "description": "content",
         "prefix": "fas-guitar"
+    },
+    "fas-guitar-electric": {
+        "body": "content: '\\\\f8be';$0",
+        "description": "content",
+        "prefix": "fas-guitar-electric"
+    },
+    "fas-guitars": {
+        "body": "content: '\\\\f8bf';$0",
+        "description": "content",
+        "prefix": "fas-guitars"
     },
     "fas-gulp": {
         "body": "content: '\\\\f3ae';$0",
@@ -4734,6 +4899,16 @@
         "description": "content",
         "prefix": "fas-hat-chef"
     },
+    "fas-hat-cowboy": {
+        "body": "content: '\\\\f8c0';$0",
+        "description": "content",
+        "prefix": "fas-hat-cowboy"
+    },
+    "fas-hat-cowboy-side": {
+        "body": "content: '\\\\f8c1';$0",
+        "description": "content",
+        "prefix": "fas-hat-cowboy-side"
+    },
     "fas-hat-santa": {
         "body": "content: '\\\\f7a7';$0",
         "description": "content",
@@ -4773,6 +4948,11 @@
         "body": "content: '\\\\f808';$0",
         "description": "content",
         "prefix": "fas-head-side-brain"
+    },
+    "fas-head-side-headphones": {
+        "body": "content: '\\\\f8c2';$0",
+        "description": "content",
+        "prefix": "fas-head-side-headphones"
     },
     "fas-head-side-medical": {
         "body": "content: '\\\\f809';$0",
@@ -4954,6 +5134,11 @@
         "description": "content",
         "prefix": "fas-horse-head"
     },
+    "fas-horse-saddle": {
+        "body": "content: '\\\\f8c3';$0",
+        "description": "content",
+        "prefix": "fas-horse-saddle"
+    },
     "fas-hospital": {
         "body": "content: '\\\\f0f8';$0",
         "description": "content",
@@ -5113,6 +5298,11 @@
         "body": "content: '\\\\f03e';$0",
         "description": "content",
         "prefix": "fas-image"
+    },
+    "fas-image-polaroid": {
+        "body": "content: '\\\\f8c4';$0",
+        "description": "content",
+        "prefix": "fas-image-polaroid"
     },
     "fas-images": {
         "body": "content: '\\\\f302';$0",
@@ -5294,6 +5484,11 @@
         "description": "content",
         "prefix": "fas-journal-whills"
     },
+    "fas-joystick": {
+        "body": "content: '\\\\f8c5';$0",
+        "description": "content",
+        "prefix": "fas-joystick"
+    },
     "fas-js": {
         "body": "content: '\\\\f3b8';$0",
         "description": "content",
@@ -5309,6 +5504,11 @@
         "description": "content",
         "prefix": "fas-jsfiddle"
     },
+    "fas-jug": {
+        "body": "content: '\\\\f8c6';$0",
+        "description": "content",
+        "prefix": "fas-jug"
+    },
     "fas-kaaba": {
         "body": "content: '\\\\f66b';$0",
         "description": "content",
@@ -5318,6 +5518,11 @@
         "body": "content: '\\\\f5fa';$0",
         "description": "content",
         "prefix": "fas-kaggle"
+    },
+    "fas-kazoo": {
+        "body": "content: '\\\\f8c7';$0",
+        "description": "content",
+        "prefix": "fas-kazoo"
     },
     "fas-kerning": {
         "body": "content: '\\\\f86f';$0",
@@ -5453,6 +5658,11 @@
         "body": "content: '\\\\f3bd';$0",
         "description": "content",
         "prefix": "fas-laravel"
+    },
+    "fas-lasso": {
+        "body": "content: '\\\\f8c8';$0",
+        "description": "content",
+        "prefix": "fas-lasso"
     },
     "fas-lastfm": {
         "body": "content: '\\\\f202';$0",
@@ -5658,6 +5868,11 @@
         "body": "content: '\\\\f022';$0",
         "description": "content",
         "prefix": "fas-list-alt"
+    },
+    "fas-list-music": {
+        "body": "content: '\\\\f8c9';$0",
+        "description": "content",
+        "prefix": "fas-list-music"
     },
     "fas-list-ol": {
         "body": "content: '\\\\f0cb';$0",
@@ -5964,6 +6179,11 @@
         "description": "content",
         "prefix": "fas-maxcdn"
     },
+    "fas-mdb": {
+        "body": "content: '\\\\f8ca';$0",
+        "description": "content",
+        "prefix": "fas-mdb"
+    },
     "fas-meat": {
         "body": "content: '\\\\f814';$0",
         "description": "content",
@@ -6078,6 +6298,11 @@
         "body": "content: '\\\\f131';$0",
         "description": "content",
         "prefix": "fas-microphone-slash"
+    },
+    "fas-microphone-stand": {
+        "body": "content: '\\\\f8cb';$0",
+        "description": "content",
+        "prefix": "fas-microphone-stand"
     },
     "fas-microscope": {
         "body": "content: '\\\\f610';$0",
@@ -6269,10 +6494,25 @@
         "description": "content",
         "prefix": "fas-mountains"
     },
+    "fas-mouse": {
+        "body": "content: '\\\\f8cc';$0",
+        "description": "content",
+        "prefix": "fas-mouse"
+    },
+    "fas-mouse-alt": {
+        "body": "content: '\\\\f8cd';$0",
+        "description": "content",
+        "prefix": "fas-mouse-alt"
+    },
     "fas-mouse-pointer": {
         "body": "content: '\\\\f245';$0",
         "description": "content",
         "prefix": "fas-mouse-pointer"
+    },
+    "fas-mp3-player": {
+        "body": "content: '\\\\f8ce';$0",
+        "description": "content",
+        "prefix": "fas-mp3-player"
     },
     "fas-mug": {
         "body": "content: '\\\\f874';$0",
@@ -6298,6 +6538,21 @@
         "body": "content: '\\\\f001';$0",
         "description": "content",
         "prefix": "fas-music"
+    },
+    "fas-music-alt": {
+        "body": "content: '\\\\f8cf';$0",
+        "description": "content",
+        "prefix": "fas-music-alt"
+    },
+    "fas-music-alt-slash": {
+        "body": "content: '\\\\f8d0';$0",
+        "description": "content",
+        "prefix": "fas-music-alt-slash"
+    },
+    "fas-music-slash": {
+        "body": "content: '\\\\f8d1';$0",
+        "description": "content",
+        "prefix": "fas-music-slash"
     },
     "fas-napster": {
         "body": "content: '\\\\f3d2';$0",
@@ -6438,6 +6693,11 @@
         "body": "content: '\\\\f23c';$0",
         "description": "content",
         "prefix": "fas-optin-monster"
+    },
+    "fas-orcid": {
+        "body": "content: '\\\\f8d2';$0",
+        "description": "content",
+        "prefix": "fas-orcid"
     },
     "fas-ornament": {
         "body": "content: '\\\\f7b8';$0",
@@ -6769,6 +7029,11 @@
         "description": "content",
         "prefix": "fas-phone-plus"
     },
+    "fas-phone-rotary": {
+        "body": "content: '\\\\f8d3';$0",
+        "description": "content",
+        "prefix": "fas-phone-rotary"
+    },
     "fas-phone-slash": {
         "body": "content: '\\\\f3dd';$0",
         "description": "content",
@@ -6803,6 +7068,16 @@
         "body": "content: '\\\\f67e';$0",
         "description": "content",
         "prefix": "fas-pi"
+    },
+    "fas-piano": {
+        "body": "content: '\\\\f8d4';$0",
+        "description": "content",
+        "prefix": "fas-piano"
+    },
+    "fas-piano-keyboard": {
+        "body": "content: '\\\\f8d5';$0",
+        "description": "content",
+        "prefix": "fas-piano-keyboard"
     },
     "fas-pie": {
         "body": "content: '\\\\f705';$0",
@@ -7064,6 +7339,11 @@
         "description": "content",
         "prefix": "fas-project-diagram"
     },
+    "fas-projector": {
+        "body": "content: '\\\\f8d6';$0",
+        "description": "content",
+        "prefix": "fas-projector"
+    },
     "fas-pumpkin": {
         "body": "content: '\\\\f707';$0",
         "description": "content",
@@ -7169,6 +7449,16 @@
         "description": "content",
         "prefix": "fas-radiation-alt"
     },
+    "fas-radio": {
+        "body": "content: '\\\\f8d7';$0",
+        "description": "content",
+        "prefix": "fas-radio"
+    },
+    "fas-radio-alt": {
+        "body": "content: '\\\\f8d8';$0",
+        "description": "content",
+        "prefix": "fas-radio-alt"
+    },
     "fas-rainbow": {
         "body": "content: '\\\\f75b';$0",
         "description": "content",
@@ -7228,6 +7518,11 @@
         "body": "content: '\\\\f543';$0",
         "description": "content",
         "prefix": "fas-receipt"
+    },
+    "fas-record-vinyl": {
+        "body": "content: '\\\\f8d9';$0",
+        "description": "content",
+        "prefix": "fas-record-vinyl"
     },
     "fas-rectangle-landscape": {
         "body": "content: '\\\\f2fa';$0",
@@ -7424,6 +7719,11 @@
         "description": "content",
         "prefix": "fas-route-interstate"
     },
+    "fas-router": {
+        "body": "content: '\\\\f8da';$0",
+        "description": "content",
+        "prefix": "fas-router"
+    },
     "fas-rss": {
         "body": "content: '\\\\f09e';$0",
         "description": "content",
@@ -7544,6 +7844,16 @@
         "description": "content",
         "prefix": "fas-save"
     },
+    "fas-sax-hot": {
+        "body": "content: '\\\\f8db';$0",
+        "description": "content",
+        "prefix": "fas-sax-hot"
+    },
+    "fas-saxophone": {
+        "body": "content: '\\\\f8dc';$0",
+        "description": "content",
+        "prefix": "fas-saxophone"
+    },
     "fas-scalpel": {
         "body": "content: '\\\\f61d';$0",
         "description": "content",
@@ -7558,6 +7868,11 @@
         "body": "content: '\\\\f488';$0",
         "description": "content",
         "prefix": "fas-scanner"
+    },
+    "fas-scanner-image": {
+        "body": "content: '\\\\f8f3';$0",
+        "description": "content",
+        "prefix": "fas-scanner-image"
     },
     "fas-scanner-keyboard": {
         "body": "content: '\\\\f489';$0",
@@ -7924,6 +8239,11 @@
         "description": "content",
         "prefix": "fas-signal-slash"
     },
+    "fas-signal-stream": {
+        "body": "content: '\\\\f8dd';$0",
+        "description": "content",
+        "prefix": "fas-signal-stream"
+    },
     "fas-signature": {
         "body": "content: '\\\\f5b7';$0",
         "description": "content",
@@ -7993,6 +8313,11 @@
         "body": "content: '\\\\f54c';$0",
         "description": "content",
         "prefix": "fas-skull"
+    },
+    "fas-skull-cow": {
+        "body": "content: '\\\\f8de';$0",
+        "description": "content",
+        "prefix": "fas-skull-cow"
     },
     "fas-skull-crossbones": {
         "body": "content: '\\\\f714';$0",
@@ -8334,10 +8659,20 @@
         "description": "content",
         "prefix": "fas-speakap"
     },
+    "fas-speaker": {
+        "body": "content: '\\\\f8df';$0",
+        "description": "content",
+        "prefix": "fas-speaker"
+    },
     "fas-speaker-deck": {
         "body": "content: '\\\\f83c';$0",
         "description": "content",
         "prefix": "fas-speaker-deck"
+    },
+    "fas-speakers": {
+        "body": "content: '\\\\f8e0';$0",
+        "description": "content",
+        "prefix": "fas-speakers"
     },
     "fas-spell-check": {
         "body": "content: '\\\\f891';$0",
@@ -8713,6 +9048,11 @@
         "body": "content: '\\\\f5c3';$0",
         "description": "content",
         "prefix": "fas-swatchbook"
+    },
+    "fas-swift": {
+        "body": "content: '\\\\f8e1';$0",
+        "description": "content",
+        "prefix": "fas-swift"
     },
     "fas-swimmer": {
         "body": "content: '\\\\f5c4';$0",
@@ -9379,6 +9719,11 @@
         "description": "content",
         "prefix": "fas-triangle"
     },
+    "fas-triangle-music": {
+        "body": "content: '\\\\f8e2';$0",
+        "description": "content",
+        "prefix": "fas-triangle-music"
+    },
     "fas-tripadvisor": {
         "body": "content: '\\\\f262';$0",
         "description": "content",
@@ -9439,6 +9784,11 @@
         "description": "content",
         "prefix": "fas-truck-ramp"
     },
+    "fas-trumpet": {
+        "body": "content: '\\\\f8e3';$0",
+        "description": "content",
+        "prefix": "fas-trumpet"
+    },
     "fas-tshirt": {
         "body": "content: '\\\\f553';$0",
         "description": "content",
@@ -9464,6 +9814,11 @@
         "description": "content",
         "prefix": "fas-turkey"
     },
+    "fas-turntable": {
+        "body": "content: '\\\\f8e4';$0",
+        "description": "content",
+        "prefix": "fas-turntable"
+    },
     "fas-turtle": {
         "body": "content: '\\\\f726';$0",
         "description": "content",
@@ -9473,6 +9828,16 @@
         "body": "content: '\\\\f26c';$0",
         "description": "content",
         "prefix": "fas-tv"
+    },
+    "fas-tv-alt": {
+        "body": "content: '\\\\f8e5';$0",
+        "description": "content",
+        "prefix": "fas-tv-alt"
+    },
+    "fas-tv-music": {
+        "body": "content: '\\\\f8e6';$0",
+        "description": "content",
+        "prefix": "fas-tv-music"
     },
     "fas-tv-retro": {
         "body": "content: '\\\\f401';$0",
@@ -9494,6 +9859,11 @@
         "description": "content",
         "prefix": "fas-twitter-square"
     },
+    "fas-typewriter": {
+        "body": "content: '\\\\f8e7';$0",
+        "description": "content",
+        "prefix": "fas-typewriter"
+    },
     "fas-typo3": {
         "body": "content: '\\\\f42b';$0",
         "description": "content",
@@ -9513,6 +9883,11 @@
         "body": "content: '\\\\f403';$0",
         "description": "content",
         "prefix": "fas-uikit"
+    },
+    "fas-umbraco": {
+        "body": "content: '\\\\f8e8';$0",
+        "description": "content",
+        "prefix": "fas-umbraco"
     },
     "fas-umbrella": {
         "body": "content: '\\\\f0e9';$0",
@@ -9599,6 +9974,11 @@
         "description": "content",
         "prefix": "fas-usb"
     },
+    "fas-usb-drive": {
+        "body": "content: '\\\\f8e9';$0",
+        "description": "content",
+        "prefix": "fas-usb-drive"
+    },
     "fas-usd-circle": {
         "body": "content: '\\\\f2e8';$0",
         "description": "content",
@@ -9654,6 +10034,11 @@
         "description": "content",
         "prefix": "fas-user-cog"
     },
+    "fas-user-cowboy": {
+        "body": "content: '\\\\f8ea';$0",
+        "description": "content",
+        "prefix": "fas-user-cowboy"
+    },
     "fas-user-crown": {
         "body": "content: '\\\\f6a4';$0",
         "description": "content",
@@ -9708,6 +10093,11 @@
         "body": "content: '\\\\f503';$0",
         "description": "content",
         "prefix": "fas-user-minus"
+    },
+    "fas-user-music": {
+        "body": "content: '\\\\f8eb';$0",
+        "description": "content",
+        "prefix": "fas-user-music"
     },
     "fas-user-ninja": {
         "body": "content: '\\\\f504';$0",
@@ -9844,6 +10234,11 @@
         "description": "content",
         "prefix": "fas-venus-mars"
     },
+    "fas-vhs": {
+        "body": "content: '\\\\f8ec';$0",
+        "description": "content",
+        "prefix": "fas-vhs"
+    },
     "fas-viacoin": {
         "body": "content: '\\\\f237';$0",
         "description": "content",
@@ -9913,6 +10308,11 @@
         "body": "content: '\\\\f1ca';$0",
         "description": "content",
         "prefix": "fas-vine"
+    },
+    "fas-violin": {
+        "body": "content: '\\\\f8ed';$0",
+        "description": "content",
+        "prefix": "fas-violin"
     },
     "fas-vk": {
         "body": "content: '\\\\f189';$0",
@@ -9989,10 +10389,20 @@
         "description": "content",
         "prefix": "fas-vuejs"
     },
+    "fas-wagon-covered": {
+        "body": "content: '\\\\f8ee';$0",
+        "description": "content",
+        "prefix": "fas-wagon-covered"
+    },
     "fas-walker": {
         "body": "content: '\\\\f831';$0",
         "description": "content",
         "prefix": "fas-walker"
+    },
+    "fas-walkie-talkie": {
+        "body": "content: '\\\\f8ef';$0",
+        "description": "content",
+        "prefix": "fas-walkie-talkie"
     },
     "fas-walking": {
         "body": "content: '\\\\f554';$0",
@@ -10034,6 +10444,11 @@
         "description": "content",
         "prefix": "fas-watch"
     },
+    "fas-watch-calculator": {
+        "body": "content: '\\\\f8f0';$0",
+        "description": "content",
+        "prefix": "fas-watch-calculator"
+    },
     "fas-watch-fitness": {
         "body": "content: '\\\\f63e';$0",
         "description": "content",
@@ -10068,6 +10483,16 @@
         "body": "content: '\\\\f89a';$0",
         "description": "content",
         "prefix": "fas-wave-triangle"
+    },
+    "fas-waveform": {
+        "body": "content: '\\\\f8f1';$0",
+        "description": "content",
+        "prefix": "fas-waveform"
+    },
+    "fas-waveform-path": {
+        "body": "content: '\\\\f8f2';$0",
+        "description": "content",
+        "prefix": "fas-waveform-path"
     },
     "fas-waze": {
         "body": "content: '\\\\f83f';$0",

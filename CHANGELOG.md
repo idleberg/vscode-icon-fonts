@@ -1,3 +1,8 @@
+# v2.2.3 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.2.3)
+
+- fix: add missing Elusive Icon class prefix
+- bump Font Awesome Pro to v5.11.2
+
 # v2.2.2 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.2.2)
 
 - update Boxicons CSS path

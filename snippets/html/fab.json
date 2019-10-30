@@ -99,6 +99,16 @@
         "description": "<i>",
         "prefix": "fab-alarm-snooze"
     },
+    "fab-album": {
+        "body": "<${1:i} class=\"fab fa-album$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-album"
+    },
+    "fab-album-collection": {
+        "body": "<${1:i} class=\"fab fa-album-collection$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-album-collection"
+    },
     "fab-algolia": {
         "body": "<${1:i} class=\"fab fa-algolia$2\"></${1:i}>$0",
         "description": "<i>",
@@ -168,6 +178,11 @@
         "body": "<${1:i} class=\"fab fa-amilia$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-amilia"
+    },
+    "fab-amp-guitar": {
+        "body": "<${1:i} class=\"fab fa-amp-guitar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-amp-guitar"
     },
     "fab-analytics": {
         "body": "<${1:i} class=\"fab fa-analytics$2\"></${1:i}>$0",
@@ -669,6 +684,11 @@
         "description": "<i>",
         "prefix": "fab-badge-percent"
     },
+    "fab-badge-sheriff": {
+        "body": "<${1:i} class=\"fab fa-badge-sheriff$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-badge-sheriff"
+    },
     "fab-badger-honey": {
         "body": "<${1:i} class=\"fab fa-badger-honey$2\"></${1:i}>$0",
         "description": "<i>",
@@ -723,6 +743,11 @@
         "body": "<${1:i} class=\"fab fa-bandcamp$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-bandcamp"
+    },
+    "fab-banjo": {
+        "body": "<${1:i} class=\"fab fa-banjo$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-banjo"
     },
     "fab-barcode": {
         "body": "<${1:i} class=\"fab fa-barcode$2\"></${1:i}>$0",
@@ -873,6 +898,11 @@
         "body": "<${1:i} class=\"fab fa-bells$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-bells"
+    },
+    "fab-betamax": {
+        "body": "<${1:i} class=\"fab fa-betamax$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-betamax"
     },
     "fab-bezier-curve": {
         "body": "<${1:i} class=\"fab fa-bezier-curve$2\"></${1:i}>$0",
@@ -1078,6 +1108,11 @@
         "body": "<${1:i} class=\"fab fa-books-medical$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-books-medical"
+    },
+    "fab-boombox": {
+        "body": "<${1:i} class=\"fab fa-boombox$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-boombox"
     },
     "fab-boot": {
         "body": "<${1:i} class=\"fab fa-boot$2\"></${1:i}>$0",
@@ -1384,6 +1419,11 @@
         "description": "<i>",
         "prefix": "fab-business-time"
     },
+    "fab-buy-n-large": {
+        "body": "<${1:i} class=\"fab fa-buy-n-large$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-buy-n-large"
+    },
     "fab-buysellads": {
         "body": "<${1:i} class=\"fab fa-buysellads$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1393,6 +1433,11 @@
         "body": "<${1:i} class=\"fab fa-cabinet-filing$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-cabinet-filing"
+    },
+    "fab-cactus": {
+        "body": "<${1:i} class=\"fab fa-cactus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cactus"
     },
     "fab-calculator": {
         "body": "<${1:i} class=\"fab fa-calculator$2\"></${1:i}>$0",
@@ -1459,6 +1504,11 @@
         "description": "<i>",
         "prefix": "fab-calendar-week"
     },
+    "fab-camcorder": {
+        "body": "<${1:i} class=\"fab fa-camcorder$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-camcorder"
+    },
     "fab-camera": {
         "body": "<${1:i} class=\"fab fa-camera$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1468,6 +1518,16 @@
         "body": "<${1:i} class=\"fab fa-camera-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-camera-alt"
+    },
+    "fab-camera-movie": {
+        "body": "<${1:i} class=\"fab fa-camera-movie$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-camera-movie"
+    },
+    "fab-camera-polaroid": {
+        "body": "<${1:i} class=\"fab fa-camera-polaroid$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-camera-polaroid"
     },
     "fab-camera-retro": {
         "body": "<${1:i} class=\"fab fa-camera-retro$2\"></${1:i}>$0",
@@ -1659,6 +1719,11 @@
         "description": "<i>",
         "prefix": "fab-cash-register"
     },
+    "fab-cassette-tape": {
+        "body": "<${1:i} class=\"fab fa-cassette-tape$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cassette-tape"
+    },
     "fab-cat": {
         "body": "<${1:i} class=\"fab fa-cat$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1718,6 +1783,11 @@
         "body": "<${1:i} class=\"fab fa-cc-visa$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-cc-visa"
+    },
+    "fab-cctv": {
+        "body": "<${1:i} class=\"fab fa-cctv$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cctv"
     },
     "fab-centercode": {
         "body": "<${1:i} class=\"fab fa-centercode$2\"></${1:i}>$0",
@@ -2034,6 +2104,11 @@
         "description": "<i>",
         "prefix": "fab-city"
     },
+    "fab-clarinet": {
+        "body": "<${1:i} class=\"fab fa-clarinet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-clarinet"
+    },
     "fab-claw-marks": {
         "body": "<${1:i} class=\"fab fa-claw-marks$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2133,6 +2208,11 @@
         "body": "<${1:i} class=\"fab fa-cloud-moon-rain$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-cloud-moon-rain"
+    },
+    "fab-cloud-music": {
+        "body": "<${1:i} class=\"fab fa-cloud-music$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloud-music"
     },
     "fab-cloud-rain": {
         "body": "<${1:i} class=\"fab fa-cloud-rain$2\"></${1:i}>$0",
@@ -2344,6 +2424,11 @@
         "description": "<i>",
         "prefix": "fab-comment-alt-minus"
     },
+    "fab-comment-alt-music": {
+        "body": "<${1:i} class=\"fab fa-comment-alt-music$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-comment-alt-music"
+    },
     "fab-comment-alt-plus": {
         "body": "<${1:i} class=\"fab fa-comment-alt-plus$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2403,6 +2488,11 @@
         "body": "<${1:i} class=\"fab fa-comment-minus$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-comment-minus"
+    },
+    "fab-comment-music": {
+        "body": "<${1:i} class=\"fab fa-comment-music$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-comment-music"
     },
     "fab-comment-plus": {
         "body": "<${1:i} class=\"fab fa-comment-plus$2\"></${1:i}>$0",
@@ -2478,6 +2568,16 @@
         "body": "<${1:i} class=\"fab fa-compress-wide$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-compress-wide"
+    },
+    "fab-computer-classic": {
+        "body": "<${1:i} class=\"fab fa-computer-classic$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-computer-classic"
+    },
+    "fab-computer-speaker": {
+        "body": "<${1:i} class=\"fab fa-computer-speaker$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-computer-speaker"
     },
     "fab-concierge-bell": {
         "body": "<${1:i} class=\"fab fa-concierge-bell$2\"></${1:i}>$0",
@@ -2558,6 +2658,16 @@
         "body": "<${1:i} class=\"fab fa-cow$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-cow"
+    },
+    "fab-cowbell": {
+        "body": "<${1:i} class=\"fab fa-cowbell$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cowbell"
+    },
+    "fab-cowbell-more": {
+        "body": "<${1:i} class=\"fab fa-cowbell-more$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cowbell-more"
     },
     "fab-cpanel": {
         "body": "<${1:i} class=\"fab fa-cpanel$2\"></${1:i}>$0",
@@ -2948,6 +3058,11 @@
         "body": "<${1:i} class=\"fab fa-directions$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-directions"
+    },
+    "fab-disc-drive": {
+        "body": "<${1:i} class=\"fab fa-disc-drive$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-disc-drive"
     },
     "fab-discord": {
         "body": "<${1:i} class=\"fab fa-discord$2\"></${1:i}>$0",
@@ -3674,6 +3789,11 @@
         "description": "<i>",
         "prefix": "fab-file-minus"
     },
+    "fab-file-music": {
+        "body": "<${1:i} class=\"fab fa-file-music$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-file-music"
+    },
     "fab-file-pdf": {
         "body": "<${1:i} class=\"fab fa-file-pdf$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3758,6 +3878,11 @@
         "body": "<${1:i} class=\"fab fa-film-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-film-alt"
+    },
+    "fab-film-canister": {
+        "body": "<${1:i} class=\"fab fa-film-canister$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-film-canister"
     },
     "fab-filter": {
         "body": "<${1:i} class=\"fab fa-filter$2\"></${1:i}>$0",
@@ -3859,6 +3984,11 @@
         "description": "<i>",
         "prefix": "fab-flame"
     },
+    "fab-flashlight": {
+        "body": "<${1:i} class=\"fab fa-flashlight$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-flashlight"
+    },
     "fab-flask": {
         "body": "<${1:i} class=\"fab fa-flask$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3903,6 +4033,16 @@
         "body": "<${1:i} class=\"fab fa-flushed$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-flushed"
+    },
+    "fab-flute": {
+        "body": "<${1:i} class=\"fab fa-flute$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-flute"
+    },
+    "fab-flux-capacitor": {
+        "body": "<${1:i} class=\"fab fa-flux-capacitor$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-flux-capacitor"
     },
     "fab-fly": {
         "body": "<${1:i} class=\"fab fa-fly$2\"></${1:i}>$0",
@@ -4109,10 +4249,20 @@
         "description": "<i>",
         "prefix": "fab-game-board-alt"
     },
+    "fab-game-console-handheld": {
+        "body": "<${1:i} class=\"fab fa-game-console-handheld$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-game-console-handheld"
+    },
     "fab-gamepad": {
         "body": "<${1:i} class=\"fab fa-gamepad$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-gamepad"
+    },
+    "fab-gamepad-alt": {
+        "body": "<${1:i} class=\"fab fa-gamepad-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-gamepad-alt"
     },
     "fab-gas-pump": {
         "body": "<${1:i} class=\"fab fa-gas-pump$2\"></${1:i}>$0",
@@ -4389,6 +4539,11 @@
         "description": "<i>",
         "prefix": "fab-graduation-cap"
     },
+    "fab-gramophone": {
+        "body": "<${1:i} class=\"fab fa-gramophone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-gramophone"
+    },
     "fab-gratipay": {
         "body": "<${1:i} class=\"fab fa-gratipay$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4513,6 +4668,16 @@
         "body": "<${1:i} class=\"fab fa-guitar$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-guitar"
+    },
+    "fab-guitar-electric": {
+        "body": "<${1:i} class=\"fab fa-guitar-electric$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-guitar-electric"
+    },
+    "fab-guitars": {
+        "body": "<${1:i} class=\"fab fa-guitars$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-guitars"
     },
     "fab-gulp": {
         "body": "<${1:i} class=\"fab fa-gulp$2\"></${1:i}>$0",
@@ -4734,6 +4899,16 @@
         "description": "<i>",
         "prefix": "fab-hat-chef"
     },
+    "fab-hat-cowboy": {
+        "body": "<${1:i} class=\"fab fa-hat-cowboy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hat-cowboy"
+    },
+    "fab-hat-cowboy-side": {
+        "body": "<${1:i} class=\"fab fa-hat-cowboy-side$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hat-cowboy-side"
+    },
     "fab-hat-santa": {
         "body": "<${1:i} class=\"fab fa-hat-santa$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4773,6 +4948,11 @@
         "body": "<${1:i} class=\"fab fa-head-side-brain$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-head-side-brain"
+    },
+    "fab-head-side-headphones": {
+        "body": "<${1:i} class=\"fab fa-head-side-headphones$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-head-side-headphones"
     },
     "fab-head-side-medical": {
         "body": "<${1:i} class=\"fab fa-head-side-medical$2\"></${1:i}>$0",
@@ -4954,6 +5134,11 @@
         "description": "<i>",
         "prefix": "fab-horse-head"
     },
+    "fab-horse-saddle": {
+        "body": "<${1:i} class=\"fab fa-horse-saddle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-horse-saddle"
+    },
     "fab-hospital": {
         "body": "<${1:i} class=\"fab fa-hospital$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5113,6 +5298,11 @@
         "body": "<${1:i} class=\"fab fa-image$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-image"
+    },
+    "fab-image-polaroid": {
+        "body": "<${1:i} class=\"fab fa-image-polaroid$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-image-polaroid"
     },
     "fab-images": {
         "body": "<${1:i} class=\"fab fa-images$2\"></${1:i}>$0",
@@ -5294,6 +5484,11 @@
         "description": "<i>",
         "prefix": "fab-journal-whills"
     },
+    "fab-joystick": {
+        "body": "<${1:i} class=\"fab fa-joystick$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-joystick"
+    },
     "fab-js": {
         "body": "<${1:i} class=\"fab fa-js$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5309,6 +5504,11 @@
         "description": "<i>",
         "prefix": "fab-jsfiddle"
     },
+    "fab-jug": {
+        "body": "<${1:i} class=\"fab fa-jug$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-jug"
+    },
     "fab-kaaba": {
         "body": "<${1:i} class=\"fab fa-kaaba$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5318,6 +5518,11 @@
         "body": "<${1:i} class=\"fab fa-kaggle$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-kaggle"
+    },
+    "fab-kazoo": {
+        "body": "<${1:i} class=\"fab fa-kazoo$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-kazoo"
     },
     "fab-kerning": {
         "body": "<${1:i} class=\"fab fa-kerning$2\"></${1:i}>$0",
@@ -5453,6 +5658,11 @@
         "body": "<${1:i} class=\"fab fa-laravel$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-laravel"
+    },
+    "fab-lasso": {
+        "body": "<${1:i} class=\"fab fa-lasso$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-lasso"
     },
     "fab-lastfm": {
         "body": "<${1:i} class=\"fab fa-lastfm$2\"></${1:i}>$0",
@@ -5658,6 +5868,11 @@
         "body": "<${1:i} class=\"fab fa-list-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-list-alt"
+    },
+    "fab-list-music": {
+        "body": "<${1:i} class=\"fab fa-list-music$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-list-music"
     },
     "fab-list-ol": {
         "body": "<${1:i} class=\"fab fa-list-ol$2\"></${1:i}>$0",
@@ -5964,6 +6179,11 @@
         "description": "<i>",
         "prefix": "fab-maxcdn"
     },
+    "fab-mdb": {
+        "body": "<${1:i} class=\"fab fa-mdb$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mdb"
+    },
     "fab-meat": {
         "body": "<${1:i} class=\"fab fa-meat$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6078,6 +6298,11 @@
         "body": "<${1:i} class=\"fab fa-microphone-slash$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-microphone-slash"
+    },
+    "fab-microphone-stand": {
+        "body": "<${1:i} class=\"fab fa-microphone-stand$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-microphone-stand"
     },
     "fab-microscope": {
         "body": "<${1:i} class=\"fab fa-microscope$2\"></${1:i}>$0",
@@ -6269,10 +6494,25 @@
         "description": "<i>",
         "prefix": "fab-mountains"
     },
+    "fab-mouse": {
+        "body": "<${1:i} class=\"fab fa-mouse$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mouse"
+    },
+    "fab-mouse-alt": {
+        "body": "<${1:i} class=\"fab fa-mouse-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mouse-alt"
+    },
     "fab-mouse-pointer": {
         "body": "<${1:i} class=\"fab fa-mouse-pointer$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-mouse-pointer"
+    },
+    "fab-mp3-player": {
+        "body": "<${1:i} class=\"fab fa-mp3-player$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-mp3-player"
     },
     "fab-mug": {
         "body": "<${1:i} class=\"fab fa-mug$2\"></${1:i}>$0",
@@ -6298,6 +6538,21 @@
         "body": "<${1:i} class=\"fab fa-music$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-music"
+    },
+    "fab-music-alt": {
+        "body": "<${1:i} class=\"fab fa-music-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-music-alt"
+    },
+    "fab-music-alt-slash": {
+        "body": "<${1:i} class=\"fab fa-music-alt-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-music-alt-slash"
+    },
+    "fab-music-slash": {
+        "body": "<${1:i} class=\"fab fa-music-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-music-slash"
     },
     "fab-napster": {
         "body": "<${1:i} class=\"fab fa-napster$2\"></${1:i}>$0",
@@ -6438,6 +6693,11 @@
         "body": "<${1:i} class=\"fab fa-optin-monster$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-optin-monster"
+    },
+    "fab-orcid": {
+        "body": "<${1:i} class=\"fab fa-orcid$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-orcid"
     },
     "fab-ornament": {
         "body": "<${1:i} class=\"fab fa-ornament$2\"></${1:i}>$0",
@@ -6769,6 +7029,11 @@
         "description": "<i>",
         "prefix": "fab-phone-plus"
     },
+    "fab-phone-rotary": {
+        "body": "<${1:i} class=\"fab fa-phone-rotary$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-phone-rotary"
+    },
     "fab-phone-slash": {
         "body": "<${1:i} class=\"fab fa-phone-slash$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6803,6 +7068,16 @@
         "body": "<${1:i} class=\"fab fa-pi$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-pi"
+    },
+    "fab-piano": {
+        "body": "<${1:i} class=\"fab fa-piano$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-piano"
+    },
+    "fab-piano-keyboard": {
+        "body": "<${1:i} class=\"fab fa-piano-keyboard$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-piano-keyboard"
     },
     "fab-pie": {
         "body": "<${1:i} class=\"fab fa-pie$2\"></${1:i}>$0",
@@ -7064,6 +7339,11 @@
         "description": "<i>",
         "prefix": "fab-project-diagram"
     },
+    "fab-projector": {
+        "body": "<${1:i} class=\"fab fa-projector$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-projector"
+    },
     "fab-pumpkin": {
         "body": "<${1:i} class=\"fab fa-pumpkin$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7169,6 +7449,16 @@
         "description": "<i>",
         "prefix": "fab-radiation-alt"
     },
+    "fab-radio": {
+        "body": "<${1:i} class=\"fab fa-radio$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-radio"
+    },
+    "fab-radio-alt": {
+        "body": "<${1:i} class=\"fab fa-radio-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-radio-alt"
+    },
     "fab-rainbow": {
         "body": "<${1:i} class=\"fab fa-rainbow$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7228,6 +7518,11 @@
         "body": "<${1:i} class=\"fab fa-receipt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-receipt"
+    },
+    "fab-record-vinyl": {
+        "body": "<${1:i} class=\"fab fa-record-vinyl$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-record-vinyl"
     },
     "fab-rectangle-landscape": {
         "body": "<${1:i} class=\"fab fa-rectangle-landscape$2\"></${1:i}>$0",
@@ -7424,6 +7719,11 @@
         "description": "<i>",
         "prefix": "fab-route-interstate"
     },
+    "fab-router": {
+        "body": "<${1:i} class=\"fab fa-router$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-router"
+    },
     "fab-rss": {
         "body": "<${1:i} class=\"fab fa-rss$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7544,6 +7844,16 @@
         "description": "<i>",
         "prefix": "fab-save"
     },
+    "fab-sax-hot": {
+        "body": "<${1:i} class=\"fab fa-sax-hot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-sax-hot"
+    },
+    "fab-saxophone": {
+        "body": "<${1:i} class=\"fab fa-saxophone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-saxophone"
+    },
     "fab-scalpel": {
         "body": "<${1:i} class=\"fab fa-scalpel$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7558,6 +7868,11 @@
         "body": "<${1:i} class=\"fab fa-scanner$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-scanner"
+    },
+    "fab-scanner-image": {
+        "body": "<${1:i} class=\"fab fa-scanner-image$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-scanner-image"
     },
     "fab-scanner-keyboard": {
         "body": "<${1:i} class=\"fab fa-scanner-keyboard$2\"></${1:i}>$0",
@@ -7924,6 +8239,11 @@
         "description": "<i>",
         "prefix": "fab-signal-slash"
     },
+    "fab-signal-stream": {
+        "body": "<${1:i} class=\"fab fa-signal-stream$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-signal-stream"
+    },
     "fab-signature": {
         "body": "<${1:i} class=\"fab fa-signature$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7993,6 +8313,11 @@
         "body": "<${1:i} class=\"fab fa-skull$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-skull"
+    },
+    "fab-skull-cow": {
+        "body": "<${1:i} class=\"fab fa-skull-cow$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-skull-cow"
     },
     "fab-skull-crossbones": {
         "body": "<${1:i} class=\"fab fa-skull-crossbones$2\"></${1:i}>$0",
@@ -8334,10 +8659,20 @@
         "description": "<i>",
         "prefix": "fab-speakap"
     },
+    "fab-speaker": {
+        "body": "<${1:i} class=\"fab fa-speaker$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-speaker"
+    },
     "fab-speaker-deck": {
         "body": "<${1:i} class=\"fab fa-speaker-deck$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-speaker-deck"
+    },
+    "fab-speakers": {
+        "body": "<${1:i} class=\"fab fa-speakers$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-speakers"
     },
     "fab-spell-check": {
         "body": "<${1:i} class=\"fab fa-spell-check$2\"></${1:i}>$0",
@@ -8713,6 +9048,11 @@
         "body": "<${1:i} class=\"fab fa-swatchbook$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-swatchbook"
+    },
+    "fab-swift": {
+        "body": "<${1:i} class=\"fab fa-swift$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-swift"
     },
     "fab-swimmer": {
         "body": "<${1:i} class=\"fab fa-swimmer$2\"></${1:i}>$0",
@@ -9379,6 +9719,11 @@
         "description": "<i>",
         "prefix": "fab-triangle"
     },
+    "fab-triangle-music": {
+        "body": "<${1:i} class=\"fab fa-triangle-music$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-triangle-music"
+    },
     "fab-tripadvisor": {
         "body": "<${1:i} class=\"fab fa-tripadvisor$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9439,6 +9784,11 @@
         "description": "<i>",
         "prefix": "fab-truck-ramp"
     },
+    "fab-trumpet": {
+        "body": "<${1:i} class=\"fab fa-trumpet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-trumpet"
+    },
     "fab-tshirt": {
         "body": "<${1:i} class=\"fab fa-tshirt$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9464,6 +9814,11 @@
         "description": "<i>",
         "prefix": "fab-turkey"
     },
+    "fab-turntable": {
+        "body": "<${1:i} class=\"fab fa-turntable$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-turntable"
+    },
     "fab-turtle": {
         "body": "<${1:i} class=\"fab fa-turtle$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9473,6 +9828,16 @@
         "body": "<${1:i} class=\"fab fa-tv$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-tv"
+    },
+    "fab-tv-alt": {
+        "body": "<${1:i} class=\"fab fa-tv-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tv-alt"
+    },
+    "fab-tv-music": {
+        "body": "<${1:i} class=\"fab fa-tv-music$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tv-music"
     },
     "fab-tv-retro": {
         "body": "<${1:i} class=\"fab fa-tv-retro$2\"></${1:i}>$0",
@@ -9494,6 +9859,11 @@
         "description": "<i>",
         "prefix": "fab-twitter-square"
     },
+    "fab-typewriter": {
+        "body": "<${1:i} class=\"fab fa-typewriter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-typewriter"
+    },
     "fab-typo3": {
         "body": "<${1:i} class=\"fab fa-typo3$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9513,6 +9883,11 @@
         "body": "<${1:i} class=\"fab fa-uikit$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-uikit"
+    },
+    "fab-umbraco": {
+        "body": "<${1:i} class=\"fab fa-umbraco$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-umbraco"
     },
     "fab-umbrella": {
         "body": "<${1:i} class=\"fab fa-umbrella$2\"></${1:i}>$0",
@@ -9599,6 +9974,11 @@
         "description": "<i>",
         "prefix": "fab-usb"
     },
+    "fab-usb-drive": {
+        "body": "<${1:i} class=\"fab fa-usb-drive$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-usb-drive"
+    },
     "fab-usd-circle": {
         "body": "<${1:i} class=\"fab fa-usd-circle$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9654,6 +10034,11 @@
         "description": "<i>",
         "prefix": "fab-user-cog"
     },
+    "fab-user-cowboy": {
+        "body": "<${1:i} class=\"fab fa-user-cowboy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-user-cowboy"
+    },
     "fab-user-crown": {
         "body": "<${1:i} class=\"fab fa-user-crown$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9708,6 +10093,11 @@
         "body": "<${1:i} class=\"fab fa-user-minus$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-user-minus"
+    },
+    "fab-user-music": {
+        "body": "<${1:i} class=\"fab fa-user-music$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-user-music"
     },
     "fab-user-ninja": {
         "body": "<${1:i} class=\"fab fa-user-ninja$2\"></${1:i}>$0",
@@ -9844,6 +10234,11 @@
         "description": "<i>",
         "prefix": "fab-venus-mars"
     },
+    "fab-vhs": {
+        "body": "<${1:i} class=\"fab fa-vhs$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-vhs"
+    },
     "fab-viacoin": {
         "body": "<${1:i} class=\"fab fa-viacoin$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9913,6 +10308,11 @@
         "body": "<${1:i} class=\"fab fa-vine$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-vine"
+    },
+    "fab-violin": {
+        "body": "<${1:i} class=\"fab fa-violin$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-violin"
     },
     "fab-vk": {
         "body": "<${1:i} class=\"fab fa-vk$2\"></${1:i}>$0",
@@ -9989,10 +10389,20 @@
         "description": "<i>",
         "prefix": "fab-vuejs"
     },
+    "fab-wagon-covered": {
+        "body": "<${1:i} class=\"fab fa-wagon-covered$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-wagon-covered"
+    },
     "fab-walker": {
         "body": "<${1:i} class=\"fab fa-walker$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-walker"
+    },
+    "fab-walkie-talkie": {
+        "body": "<${1:i} class=\"fab fa-walkie-talkie$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-walkie-talkie"
     },
     "fab-walking": {
         "body": "<${1:i} class=\"fab fa-walking$2\"></${1:i}>$0",
@@ -10034,6 +10444,11 @@
         "description": "<i>",
         "prefix": "fab-watch"
     },
+    "fab-watch-calculator": {
+        "body": "<${1:i} class=\"fab fa-watch-calculator$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-watch-calculator"
+    },
     "fab-watch-fitness": {
         "body": "<${1:i} class=\"fab fa-watch-fitness$2\"></${1:i}>$0",
         "description": "<i>",
@@ -10068,6 +10483,16 @@
         "body": "<${1:i} class=\"fab fa-wave-triangle$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-wave-triangle"
+    },
+    "fab-waveform": {
+        "body": "<${1:i} class=\"fab fa-waveform$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-waveform"
+    },
+    "fab-waveform-path": {
+        "body": "<${1:i} class=\"fab fa-waveform-path$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-waveform-path"
     },
     "fab-waze": {
         "body": "<${1:i} class=\"fab fa-waze$2\"></${1:i}>$0",

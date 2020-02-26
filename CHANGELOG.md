@@ -1,3 +1,11 @@
+# v2.2.4 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.2.4)
+
+- bump Font Awesome Pro to v5.12.1
+- bump Font Logos to v0.12
+- bump Material Design Icons to v4.9.95
+- bump OpenWeb Icons to v1.6.2
+- update dependencies
+
 # v2.2.3 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.2.3)
 
 - fix: add missing Elusive Icon class prefix

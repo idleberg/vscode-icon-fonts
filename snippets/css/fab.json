@@ -69,6 +69,11 @@
         "description": "content",
         "prefix": "fab-affiliatetheme"
     },
+    "fab-air-conditioner": {
+        "body": "content: '\\\\f8f4';$0",
+        "description": "content",
+        "prefix": "fab-air-conditioner"
+    },
     "fab-air-freshener": {
         "body": "content: '\\\\f5d0';$0",
         "description": "content",
@@ -118,6 +123,16 @@
         "body": "content: '\\\\f6b0';$0",
         "description": "content",
         "prefix": "fab-alicorn"
+    },
+    "fab-alien": {
+        "body": "content: '\\\\f8f5';$0",
+        "description": "content",
+        "prefix": "fab-alien"
+    },
+    "fab-alien-monster": {
+        "body": "content: '\\\\f8f6';$0",
+        "description": "content",
+        "prefix": "fab-alien-monster"
     },
     "fab-align-center": {
         "body": "content: '\\\\f037';$0",
@@ -699,6 +714,11 @@
         "description": "content",
         "prefix": "fab-bags-shopping"
     },
+    "fab-bahai": {
+        "body": "content: '\\\\f666';$0",
+        "description": "content",
+        "prefix": "fab-bahai"
+    },
     "fab-balance-scale": {
         "body": "content: '\\\\f24e';$0",
         "description": "content",
@@ -849,6 +869,21 @@
         "description": "content",
         "prefix": "fab-bed"
     },
+    "fab-bed-alt": {
+        "body": "content: '\\\\f8f7';$0",
+        "description": "content",
+        "prefix": "fab-bed-alt"
+    },
+    "fab-bed-bunk": {
+        "body": "content: '\\\\f8f8';$0",
+        "description": "content",
+        "prefix": "fab-bed-bunk"
+    },
+    "fab-bed-empty": {
+        "body": "content: '\\\\f8f9';$0",
+        "description": "content",
+        "prefix": "fab-bed-empty"
+    },
     "fab-beer": {
         "body": "content: '\\\\f0fc';$0",
         "description": "content",
@@ -873,6 +908,11 @@
         "body": "content: '\\\\f848';$0",
         "description": "content",
         "prefix": "fab-bell-exclamation"
+    },
+    "fab-bell-on": {
+        "body": "content: '\\\\f8fa';$0",
+        "description": "content",
+        "prefix": "fab-bell-on"
     },
     "fab-bell-plus": {
         "body": "content: '\\\\f849';$0",
@@ -993,6 +1033,21 @@
         "body": "content: '\\\\f29d';$0",
         "description": "content",
         "prefix": "fab-blind"
+    },
+    "fab-blinds": {
+        "body": "content: '\\\\f8fb';$0",
+        "description": "content",
+        "prefix": "fab-blinds"
+    },
+    "fab-blinds-open": {
+        "body": "content: '\\\\f8fc';$0",
+        "description": "content",
+        "prefix": "fab-blinds-open"
+    },
+    "fab-blinds-raised": {
+        "body": "content: '\\\\f8fd';$0",
+        "description": "content",
+        "prefix": "fab-blinds-raised"
     },
     "fab-blog": {
         "body": "content: '\\\\f781';$0",
@@ -1519,6 +1574,11 @@
         "description": "content",
         "prefix": "fab-camera-alt"
     },
+    "fab-camera-home": {
+        "body": "content: '\\\\f8fe';$0",
+        "description": "content",
+        "prefix": "fab-camera-home"
+    },
     "fab-camera-movie": {
         "body": "content: '\\\\f8a9';$0",
         "description": "content",
@@ -1634,6 +1694,16 @@
         "description": "content",
         "prefix": "fab-car-wash"
     },
+    "fab-caravan": {
+        "body": "content: '\\\\f8ff';$0",
+        "description": "content",
+        "prefix": "fab-caravan"
+    },
+    "fab-caravan-alt": {
+        "body": "content: '\\\\f900';$0",
+        "description": "content",
+        "prefix": "fab-caravan-alt"
+    },
     "fab-caret-circle-down": {
         "body": "content: '\\\\f32d';$0",
         "description": "content",
@@ -1728,6 +1798,11 @@
         "body": "content: '\\\\f6be';$0",
         "description": "content",
         "prefix": "fab-cat"
+    },
+    "fab-cat-space": {
+        "body": "content: '\\\\f901';$0",
+        "description": "content",
+        "prefix": "fab-cat-space"
     },
     "fab-cauldron": {
         "body": "content: '\\\\f6bf';$0",
@@ -2339,6 +2414,11 @@
         "description": "content",
         "prefix": "fab-coffee"
     },
+    "fab-coffee-pot": {
+        "body": "content: '\\\\f902';$0",
+        "description": "content",
+        "prefix": "fab-coffee-pot"
+    },
     "fab-coffee-togo": {
         "body": "content: '\\\\f6c5';$0",
         "description": "content",
@@ -2348,6 +2428,11 @@
         "body": "content: '\\\\f6c6';$0",
         "description": "content",
         "prefix": "fab-coffin"
+    },
+    "fab-coffin-cross": {
+        "body": "content: '\\\\f951';$0",
+        "description": "content",
+        "prefix": "fab-coffin-cross"
     },
     "fab-cog": {
         "body": "content: '\\\\f013';$0",
@@ -2373,6 +2458,11 @@
         "body": "content: '\\\\f0db';$0",
         "description": "content",
         "prefix": "fab-columns"
+    },
+    "fab-comet": {
+        "body": "content: '\\\\f903';$0",
+        "description": "content",
+        "prefix": "fab-comet"
     },
     "fab-comment": {
         "body": "content: '\\\\f075';$0",
@@ -2863,6 +2953,11 @@
         "body": "content: '\\\\f6cb';$0",
         "description": "content",
         "prefix": "fab-dagger"
+    },
+    "fab-dailymotion": {
+        "body": "content: '\\\\f952';$0",
+        "description": "content",
+        "prefix": "fab-dailymotion"
     },
     "fab-dashcube": {
         "body": "content: '\\\\f210';$0",
@@ -3609,6 +3704,11 @@
         "description": "content",
         "prefix": "fab-fan"
     },
+    "fab-fan-table": {
+        "body": "content: '\\\\f904';$0",
+        "description": "content",
+        "prefix": "fab-fan-table"
+    },
     "fab-fantasy-flight-games": {
         "body": "content: '\\\\f6dc';$0",
         "description": "content",
@@ -3628,6 +3728,16 @@
         "body": "content: '\\\\f050';$0",
         "description": "content",
         "prefix": "fab-fast-forward"
+    },
+    "fab-faucet": {
+        "body": "content: '\\\\f905';$0",
+        "description": "content",
+        "prefix": "fab-faucet"
+    },
+    "fab-faucet-drip": {
+        "body": "content: '\\\\f906';$0",
+        "description": "content",
+        "prefix": "fab-faucet-drip"
     },
     "fab-fax": {
         "body": "content: '\\\\f1ac';$0",
@@ -3919,6 +4029,11 @@
         "description": "content",
         "prefix": "fab-firefox"
     },
+    "fab-firefox-browser": {
+        "body": "content: '\\\\f907';$0",
+        "description": "content",
+        "prefix": "fab-firefox-browser"
+    },
     "fab-fireplace": {
         "body": "content: '\\\\f79a';$0",
         "description": "content",
@@ -4059,6 +4174,11 @@
         "description": "content",
         "prefix": "fab-folder"
     },
+    "fab-folder-download": {
+        "body": "content: '\\\\f953';$0",
+        "description": "content",
+        "prefix": "fab-folder-download"
+    },
     "fab-folder-minus": {
         "body": "content: '\\\\f65d';$0",
         "description": "content",
@@ -4083,6 +4203,11 @@
         "body": "content: '\\\\f802';$0",
         "description": "content",
         "prefix": "fab-folder-tree"
+    },
+    "fab-folder-upload": {
+        "body": "content: '\\\\f954';$0",
+        "description": "content",
+        "prefix": "fab-folder-upload"
     },
     "fab-folders": {
         "body": "content: '\\\\f660';$0",
@@ -4239,6 +4364,11 @@
         "description": "content",
         "prefix": "fab-galactic-senate"
     },
+    "fab-galaxy": {
+        "body": "content: '\\\\f908';$0",
+        "description": "content",
+        "prefix": "fab-galaxy"
+    },
     "fab-game-board": {
         "body": "content: '\\\\f867';$0",
         "description": "content",
@@ -4263,6 +4393,21 @@
         "body": "content: '\\\\f8bc';$0",
         "description": "content",
         "prefix": "fab-gamepad-alt"
+    },
+    "fab-garage": {
+        "body": "content: '\\\\f909';$0",
+        "description": "content",
+        "prefix": "fab-garage"
+    },
+    "fab-garage-car": {
+        "body": "content: '\\\\f90a';$0",
+        "description": "content",
+        "prefix": "fab-garage-car"
+    },
+    "fab-garage-open": {
+        "body": "content: '\\\\f90b';$0",
+        "description": "content",
+        "prefix": "fab-garage-open"
     },
     "fab-gas-pump": {
         "body": "content: '\\\\f52f';$0",
@@ -4929,11 +5074,6 @@
         "description": "content",
         "prefix": "fab-hat-wizard"
     },
-    "fab-haykal": {
-        "body": "content: '\\\\f666';$0",
-        "description": "content",
-        "prefix": "fab-haykal"
-    },
     "fab-hdd": {
         "body": "content: '\\\\f0a0';$0",
         "description": "content",
@@ -5013,6 +5153,11 @@
         "body": "content: '\\\\f21e';$0",
         "description": "content",
         "prefix": "fab-heartbeat"
+    },
+    "fab-heat": {
+        "body": "content: '\\\\f90c';$0",
+        "description": "content",
+        "prefix": "fab-heat"
     },
     "fab-helicopter": {
         "body": "content: '\\\\f533';$0",
@@ -5204,15 +5349,45 @@
         "description": "content",
         "prefix": "fab-hourglass-start"
     },
+    "fab-house": {
+        "body": "content: '\\\\f90d';$0",
+        "description": "content",
+        "prefix": "fab-house"
+    },
     "fab-house-damage": {
         "body": "content: '\\\\f6f1';$0",
         "description": "content",
         "prefix": "fab-house-damage"
     },
+    "fab-house-day": {
+        "body": "content: '\\\\f90e';$0",
+        "description": "content",
+        "prefix": "fab-house-day"
+    },
     "fab-house-flood": {
         "body": "content: '\\\\f74f';$0",
         "description": "content",
         "prefix": "fab-house-flood"
+    },
+    "fab-house-leave": {
+        "body": "content: '\\\\f90f';$0",
+        "description": "content",
+        "prefix": "fab-house-leave"
+    },
+    "fab-house-night": {
+        "body": "content: '\\\\f910';$0",
+        "description": "content",
+        "prefix": "fab-house-night"
+    },
+    "fab-house-return": {
+        "body": "content: '\\\\f911';$0",
+        "description": "content",
+        "prefix": "fab-house-return"
+    },
+    "fab-house-signal": {
+        "body": "content: '\\\\f912';$0",
+        "description": "content",
+        "prefix": "fab-house-signal"
     },
     "fab-houzz": {
         "body": "content: '\\\\f27c';$0",
@@ -5288,6 +5463,11 @@
         "body": "content: '\\\\f47f';$0",
         "description": "content",
         "prefix": "fab-id-card-alt"
+    },
+    "fab-ideal": {
+        "body": "content: '\\\\f913';$0",
+        "description": "content",
+        "prefix": "fab-ideal"
     },
     "fab-igloo": {
         "body": "content: '\\\\f7ae';$0",
@@ -5373,6 +5553,11 @@
         "body": "content: '\\\\f16d';$0",
         "description": "content",
         "prefix": "fab-instagram"
+    },
+    "fab-instagram-square": {
+        "body": "content: '\\\\f955';$0",
+        "description": "content",
+        "prefix": "fab-instagram-square"
     },
     "fab-integral": {
         "body": "content: '\\\\f667';$0",
@@ -5624,6 +5809,16 @@
         "description": "content",
         "prefix": "fab-lamp"
     },
+    "fab-lamp-desk": {
+        "body": "content: '\\\\f914';$0",
+        "description": "content",
+        "prefix": "fab-lamp-desk"
+    },
+    "fab-lamp-floor": {
+        "body": "content: '\\\\f915';$0",
+        "description": "content",
+        "prefix": "fab-lamp-floor"
+    },
     "fab-landmark": {
         "body": "content: '\\\\f66f';$0",
         "description": "content",
@@ -5778,6 +5973,26 @@
         "body": "content: '\\\\f1cd';$0",
         "description": "content",
         "prefix": "fab-life-ring"
+    },
+    "fab-light-ceiling": {
+        "body": "content: '\\\\f916';$0",
+        "description": "content",
+        "prefix": "fab-light-ceiling"
+    },
+    "fab-light-switch": {
+        "body": "content: '\\\\f917';$0",
+        "description": "content",
+        "prefix": "fab-light-switch"
+    },
+    "fab-light-switch-off": {
+        "body": "content: '\\\\f918';$0",
+        "description": "content",
+        "prefix": "fab-light-switch-off"
+    },
+    "fab-light-switch-on": {
+        "body": "content: '\\\\f919';$0",
+        "description": "content",
+        "prefix": "fab-light-switch-on"
     },
     "fab-lightbulb": {
         "body": "content: '\\\\f0eb';$0",
@@ -6274,6 +6489,11 @@
         "description": "content",
         "prefix": "fab-meteor"
     },
+    "fab-microblog": {
+        "body": "content: '\\\\f91a';$0",
+        "description": "content",
+        "prefix": "fab-microblog"
+    },
     "fab-microchip": {
         "body": "content: '\\\\f2db';$0",
         "description": "content",
@@ -6313,6 +6533,11 @@
         "body": "content: '\\\\f3ca';$0",
         "description": "content",
         "prefix": "fab-microsoft"
+    },
+    "fab-microwave": {
+        "body": "content: '\\\\f91b';$0",
+        "description": "content",
+        "prefix": "fab-microwave"
     },
     "fab-mind-share": {
         "body": "content: '\\\\f677';$0",
@@ -6363,6 +6588,11 @@
         "body": "content: '\\\\f289';$0",
         "description": "content",
         "prefix": "fab-mixcloud"
+    },
+    "fab-mixer": {
+        "body": "content: '\\\\f956';$0",
+        "description": "content",
+        "prefix": "fab-mixer"
     },
     "fab-mizuni": {
         "body": "content: '\\\\f3cc';$0",
@@ -6718,6 +6948,16 @@
         "body": "content: '\\\\f03b';$0",
         "description": "content",
         "prefix": "fab-outdent"
+    },
+    "fab-outlet": {
+        "body": "content: '\\\\f91c';$0",
+        "description": "content",
+        "prefix": "fab-outlet"
+    },
+    "fab-oven": {
+        "body": "content: '\\\\f91d';$0",
+        "description": "content",
+        "prefix": "fab-oven"
     },
     "fab-overline": {
         "body": "content: '\\\\f876';$0",
@@ -7104,6 +7344,11 @@
         "description": "content",
         "prefix": "fab-pied-piper-pp"
     },
+    "fab-pied-piper-square": {
+        "body": "content: '\\\\f91e';$0",
+        "description": "content",
+        "prefix": "fab-pied-piper-square"
+    },
     "fab-pig": {
         "body": "content: '\\\\f706';$0",
         "description": "content",
@@ -7169,6 +7414,16 @@
         "description": "content",
         "prefix": "fab-plane-departure"
     },
+    "fab-planet-moon": {
+        "body": "content: '\\\\f91f';$0",
+        "description": "content",
+        "prefix": "fab-planet-moon"
+    },
+    "fab-planet-ringed": {
+        "body": "content: '\\\\f920';$0",
+        "description": "content",
+        "prefix": "fab-planet-ringed"
+    },
     "fab-play": {
         "body": "content: '\\\\f04b';$0",
         "description": "content",
@@ -7229,6 +7484,11 @@
         "description": "content",
         "prefix": "fab-podium-star"
     },
+    "fab-police-box": {
+        "body": "content: '\\\\f921';$0",
+        "description": "content",
+        "prefix": "fab-police-box"
+    },
     "fab-poll": {
         "body": "content: '\\\\f681';$0",
         "description": "content",
@@ -7263,6 +7523,16 @@
         "body": "content: '\\\\f819';$0",
         "description": "content",
         "prefix": "fab-popcorn"
+    },
+    "fab-portal-enter": {
+        "body": "content: '\\\\f922';$0",
+        "description": "content",
+        "prefix": "fab-portal-enter"
+    },
+    "fab-portal-exit": {
+        "body": "content: '\\\\f923';$0",
+        "description": "content",
+        "prefix": "fab-portal-exit"
     },
     "fab-portrait": {
         "body": "content: '\\\\f3e0';$0",
@@ -7439,6 +7709,11 @@
         "description": "content",
         "prefix": "fab-racquet"
     },
+    "fab-radar": {
+        "body": "content: '\\\\f924';$0",
+        "description": "content",
+        "prefix": "fab-radar"
+    },
     "fab-radiation": {
         "body": "content: '\\\\f7b9';$0",
         "description": "content",
@@ -7493,6 +7768,11 @@
         "body": "content: '\\\\f2d9';$0",
         "description": "content",
         "prefix": "fab-ravelry"
+    },
+    "fab-raygun": {
+        "body": "content: '\\\\f925';$0",
+        "description": "content",
+        "prefix": "fab-raygun"
     },
     "fab-react": {
         "body": "content: '\\\\f41b';$0",
@@ -7578,6 +7858,11 @@
         "body": "content: '\\\\f2f9';$0",
         "description": "content",
         "prefix": "fab-redo-alt"
+    },
+    "fab-refrigerator": {
+        "body": "content: '\\\\f926';$0",
+        "description": "content",
+        "prefix": "fab-refrigerator"
     },
     "fab-registered": {
         "body": "content: '\\\\f25d';$0",
@@ -7693,6 +7978,11 @@
         "body": "content: '\\\\f135';$0",
         "description": "content",
         "prefix": "fab-rocket"
+    },
+    "fab-rocket-launch": {
+        "body": "content: '\\\\f927';$0",
+        "description": "content",
+        "prefix": "fab-rocket-launch"
     },
     "fab-rocketchat": {
         "body": "content: '\\\\f3e8';$0",
@@ -7994,6 +8284,31 @@
         "description": "content",
         "prefix": "fab-send-backward"
     },
+    "fab-sensor": {
+        "body": "content: '\\\\f928';$0",
+        "description": "content",
+        "prefix": "fab-sensor"
+    },
+    "fab-sensor-alert": {
+        "body": "content: '\\\\f929';$0",
+        "description": "content",
+        "prefix": "fab-sensor-alert"
+    },
+    "fab-sensor-fire": {
+        "body": "content: '\\\\f92a';$0",
+        "description": "content",
+        "prefix": "fab-sensor-fire"
+    },
+    "fab-sensor-on": {
+        "body": "content: '\\\\f92b';$0",
+        "description": "content",
+        "prefix": "fab-sensor-on"
+    },
+    "fab-sensor-smoke": {
+        "body": "content: '\\\\f92c';$0",
+        "description": "content",
+        "prefix": "fab-sensor-smoke"
+    },
     "fab-server": {
         "body": "content: '\\\\f233';$0",
         "description": "content",
@@ -8093,6 +8408,11 @@
         "body": "content: '\\\\f54b';$0",
         "description": "content",
         "prefix": "fab-shoe-prints"
+    },
+    "fab-shopify": {
+        "body": "content: '\\\\f957';$0",
+        "description": "content",
+        "prefix": "fab-shopify"
     },
     "fab-shopping-bag": {
         "body": "content: '\\\\f290';$0",
@@ -8258,6 +8578,16 @@
         "body": "content: '\\\\f215';$0",
         "description": "content",
         "prefix": "fab-simplybuilt"
+    },
+    "fab-siren": {
+        "body": "content: '\\\\f92d';$0",
+        "description": "content",
+        "prefix": "fab-siren"
+    },
+    "fab-siren-on": {
+        "body": "content: '\\\\f92e';$0",
+        "description": "content",
+        "prefix": "fab-siren-on"
     },
     "fab-sistrix": {
         "body": "content: '\\\\f3ee';$0",
@@ -8499,6 +8829,11 @@
         "description": "content",
         "prefix": "fab-solar-panel"
     },
+    "fab-solar-system": {
+        "body": "content: '\\\\f92f';$0",
+        "description": "content",
+        "prefix": "fab-solar-system"
+    },
     "fab-sort": {
         "body": "content: '\\\\f0dc';$0",
         "description": "content",
@@ -8548,6 +8883,21 @@
         "body": "content: '\\\\f885';$0",
         "description": "content",
         "prefix": "fab-sort-amount-up-alt"
+    },
+    "fab-sort-circle": {
+        "body": "content: '\\\\f930';$0",
+        "description": "content",
+        "prefix": "fab-sort-circle"
+    },
+    "fab-sort-circle-down": {
+        "body": "content: '\\\\f931';$0",
+        "description": "content",
+        "prefix": "fab-sort-circle-down"
+    },
+    "fab-sort-circle-up": {
+        "body": "content: '\\\\f932';$0",
+        "description": "content",
+        "prefix": "fab-sort-circle-up"
     },
     "fab-sort-down": {
         "body": "content: '\\\\f0dd';$0",
@@ -8644,6 +8994,16 @@
         "description": "content",
         "prefix": "fab-space-shuttle"
     },
+    "fab-space-station-moon": {
+        "body": "content: '\\\\f933';$0",
+        "description": "content",
+        "prefix": "fab-space-station-moon"
+    },
+    "fab-space-station-moon-alt": {
+        "body": "content: '\\\\f934';$0",
+        "description": "content",
+        "prefix": "fab-space-station-moon-alt"
+    },
     "fab-spade": {
         "body": "content: '\\\\f2f4';$0",
         "description": "content",
@@ -8718,6 +9078,11 @@
         "body": "content: '\\\\f5bd';$0",
         "description": "content",
         "prefix": "fab-spray-can"
+    },
+    "fab-sprinkler": {
+        "body": "content: '\\\\f935';$0",
+        "description": "content",
+        "prefix": "fab-sprinkler"
     },
     "fab-square": {
         "body": "content: '\\\\f0c8';$0",
@@ -8814,10 +9179,35 @@
         "description": "content",
         "prefix": "fab-star-of-life"
     },
+    "fab-star-shooting": {
+        "body": "content: '\\\\f936';$0",
+        "description": "content",
+        "prefix": "fab-star-shooting"
+    },
+    "fab-starfighter": {
+        "body": "content: '\\\\f937';$0",
+        "description": "content",
+        "prefix": "fab-starfighter"
+    },
+    "fab-starfighter-alt": {
+        "body": "content: '\\\\f938';$0",
+        "description": "content",
+        "prefix": "fab-starfighter-alt"
+    },
     "fab-stars": {
         "body": "content: '\\\\f762';$0",
         "description": "content",
         "prefix": "fab-stars"
+    },
+    "fab-starship": {
+        "body": "content: '\\\\f939';$0",
+        "description": "content",
+        "prefix": "fab-starship"
+    },
+    "fab-starship-freighter": {
+        "body": "content: '\\\\f93a';$0",
+        "description": "content",
+        "prefix": "fab-starship-freighter"
     },
     "fab-staylinked": {
         "body": "content: '\\\\f3f5';$0",
@@ -9069,10 +9459,25 @@
         "description": "content",
         "prefix": "fab-sword"
     },
+    "fab-sword-laser": {
+        "body": "content: '\\\\f93b';$0",
+        "description": "content",
+        "prefix": "fab-sword-laser"
+    },
+    "fab-sword-laser-alt": {
+        "body": "content: '\\\\f93c';$0",
+        "description": "content",
+        "prefix": "fab-sword-laser-alt"
+    },
     "fab-swords": {
         "body": "content: '\\\\f71d';$0",
         "description": "content",
         "prefix": "fab-swords"
+    },
+    "fab-swords-laser": {
+        "body": "content: '\\\\f93d';$0",
+        "description": "content",
+        "prefix": "fab-swords-laser"
     },
     "fab-symfony": {
         "body": "content: '\\\\f83d';$0",
@@ -9269,6 +9674,16 @@
         "description": "content",
         "prefix": "fab-telegram-plane"
     },
+    "fab-telescope": {
+        "body": "content: '\\\\f93e';$0",
+        "description": "content",
+        "prefix": "fab-telescope"
+    },
+    "fab-temperature-down": {
+        "body": "content: '\\\\f93f';$0",
+        "description": "content",
+        "prefix": "fab-temperature-down"
+    },
     "fab-temperature-frigid": {
         "body": "content: '\\\\f768';$0",
         "description": "content",
@@ -9288,6 +9703,11 @@
         "body": "content: '\\\\f76b';$0",
         "description": "content",
         "prefix": "fab-temperature-low"
+    },
+    "fab-temperature-up": {
+        "body": "content: '\\\\f940';$0",
+        "description": "content",
+        "prefix": "fab-temperature-up"
     },
     "fab-tencent-weibo": {
         "body": "content: '\\\\f1d5';$0",
@@ -9619,6 +10039,11 @@
         "description": "content",
         "prefix": "fab-traffic-light-stop"
     },
+    "fab-trailer": {
+        "body": "content: '\\\\f941';$0",
+        "description": "content",
+        "prefix": "fab-trailer"
+    },
     "fab-train": {
         "body": "content: '\\\\f238';$0",
         "description": "content",
@@ -9638,6 +10063,31 @@
         "body": "content: '\\\\f225';$0",
         "description": "content",
         "prefix": "fab-transgender-alt"
+    },
+    "fab-transporter": {
+        "body": "content: '\\\\f942';$0",
+        "description": "content",
+        "prefix": "fab-transporter"
+    },
+    "fab-transporter-1": {
+        "body": "content: '\\\\f943';$0",
+        "description": "content",
+        "prefix": "fab-transporter-1"
+    },
+    "fab-transporter-2": {
+        "body": "content: '\\\\f944';$0",
+        "description": "content",
+        "prefix": "fab-transporter-2"
+    },
+    "fab-transporter-3": {
+        "body": "content: '\\\\f945';$0",
+        "description": "content",
+        "prefix": "fab-transporter-3"
+    },
+    "fab-transporter-empty": {
+        "body": "content: '\\\\f946';$0",
+        "description": "content",
+        "prefix": "fab-transporter-empty"
     },
     "fab-trash": {
         "body": "content: '\\\\f1f8';$0",
@@ -9879,6 +10329,16 @@
         "description": "content",
         "prefix": "fab-ubuntu"
     },
+    "fab-ufo": {
+        "body": "content: '\\\\f947';$0",
+        "description": "content",
+        "prefix": "fab-ufo"
+    },
+    "fab-ufo-beam": {
+        "body": "content: '\\\\f948';$0",
+        "description": "content",
+        "prefix": "fab-ufo-beam"
+    },
     "fab-uikit": {
         "body": "content: '\\\\f403';$0",
         "description": "content",
@@ -9928,6 +10388,11 @@
         "body": "content: '\\\\f404';$0",
         "description": "content",
         "prefix": "fab-uniregistry"
+    },
+    "fab-unity": {
+        "body": "content: '\\\\f949';$0",
+        "description": "content",
+        "prefix": "fab-unity"
     },
     "fab-universal-access": {
         "body": "content: '\\\\f29a';$0",
@@ -9993,6 +10458,11 @@
         "body": "content: '\\\\f007';$0",
         "description": "content",
         "prefix": "fab-user"
+    },
+    "fab-user-alien": {
+        "body": "content: '\\\\f94a';$0",
+        "description": "content",
+        "prefix": "fab-user-alien"
     },
     "fab-user-alt": {
         "body": "content: '\\\\f406';$0",
@@ -10114,6 +10584,11 @@
         "description": "content",
         "prefix": "fab-user-plus"
     },
+    "fab-user-robot": {
+        "body": "content: '\\\\f94b';$0",
+        "description": "content",
+        "prefix": "fab-user-robot"
+    },
     "fab-user-secret": {
         "body": "content: '\\\\f21b';$0",
         "description": "content",
@@ -10143,6 +10618,16 @@
         "body": "content: '\\\\f235';$0",
         "description": "content",
         "prefix": "fab-user-times"
+    },
+    "fab-user-unlock": {
+        "body": "content: '\\\\f958';$0",
+        "description": "content",
+        "prefix": "fab-user-unlock"
+    },
+    "fab-user-visor": {
+        "body": "content: '\\\\f94c';$0",
+        "description": "content",
+        "prefix": "fab-user-visor"
     },
     "fab-users": {
         "body": "content: '\\\\f0c0';$0",
@@ -10208,6 +10693,16 @@
         "body": "content: '\\\\f408';$0",
         "description": "content",
         "prefix": "fab-vaadin"
+    },
+    "fab-vacuum": {
+        "body": "content: '\\\\f94d';$0",
+        "description": "content",
+        "prefix": "fab-vacuum"
+    },
+    "fab-vacuum-robot": {
+        "body": "content: '\\\\f94e';$0",
+        "description": "content",
+        "prefix": "fab-vacuum-robot"
     },
     "fab-value-absolute": {
         "body": "content: '\\\\f6a6';$0",
@@ -10623,6 +11118,16 @@
         "body": "content: '\\\\f410';$0",
         "description": "content",
         "prefix": "fab-window-close"
+    },
+    "fab-window-frame": {
+        "body": "content: '\\\\f94f';$0",
+        "description": "content",
+        "prefix": "fab-window-frame"
+    },
+    "fab-window-frame-open": {
+        "body": "content: '\\\\f950';$0",
+        "description": "content",
+        "prefix": "fab-window-frame-open"
     },
     "fab-window-maximize": {
         "body": "content: '\\\\f2d0';$0",

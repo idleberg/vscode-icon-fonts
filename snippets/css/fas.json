@@ -69,6 +69,11 @@
         "description": "content",
         "prefix": "fas-affiliatetheme"
     },
+    "fas-air-conditioner": {
+        "body": "content: '\\\\f8f4';$0",
+        "description": "content",
+        "prefix": "fas-air-conditioner"
+    },
     "fas-air-freshener": {
         "body": "content: '\\\\f5d0';$0",
         "description": "content",
@@ -118,6 +123,16 @@
         "body": "content: '\\\\f6b0';$0",
         "description": "content",
         "prefix": "fas-alicorn"
+    },
+    "fas-alien": {
+        "body": "content: '\\\\f8f5';$0",
+        "description": "content",
+        "prefix": "fas-alien"
+    },
+    "fas-alien-monster": {
+        "body": "content: '\\\\f8f6';$0",
+        "description": "content",
+        "prefix": "fas-alien-monster"
     },
     "fas-align-center": {
         "body": "content: '\\\\f037';$0",
@@ -699,6 +714,11 @@
         "description": "content",
         "prefix": "fas-bags-shopping"
     },
+    "fas-bahai": {
+        "body": "content: '\\\\f666';$0",
+        "description": "content",
+        "prefix": "fas-bahai"
+    },
     "fas-balance-scale": {
         "body": "content: '\\\\f24e';$0",
         "description": "content",
@@ -849,6 +869,21 @@
         "description": "content",
         "prefix": "fas-bed"
     },
+    "fas-bed-alt": {
+        "body": "content: '\\\\f8f7';$0",
+        "description": "content",
+        "prefix": "fas-bed-alt"
+    },
+    "fas-bed-bunk": {
+        "body": "content: '\\\\f8f8';$0",
+        "description": "content",
+        "prefix": "fas-bed-bunk"
+    },
+    "fas-bed-empty": {
+        "body": "content: '\\\\f8f9';$0",
+        "description": "content",
+        "prefix": "fas-bed-empty"
+    },
     "fas-beer": {
         "body": "content: '\\\\f0fc';$0",
         "description": "content",
@@ -873,6 +908,11 @@
         "body": "content: '\\\\f848';$0",
         "description": "content",
         "prefix": "fas-bell-exclamation"
+    },
+    "fas-bell-on": {
+        "body": "content: '\\\\f8fa';$0",
+        "description": "content",
+        "prefix": "fas-bell-on"
     },
     "fas-bell-plus": {
         "body": "content: '\\\\f849';$0",
@@ -993,6 +1033,21 @@
         "body": "content: '\\\\f29d';$0",
         "description": "content",
         "prefix": "fas-blind"
+    },
+    "fas-blinds": {
+        "body": "content: '\\\\f8fb';$0",
+        "description": "content",
+        "prefix": "fas-blinds"
+    },
+    "fas-blinds-open": {
+        "body": "content: '\\\\f8fc';$0",
+        "description": "content",
+        "prefix": "fas-blinds-open"
+    },
+    "fas-blinds-raised": {
+        "body": "content: '\\\\f8fd';$0",
+        "description": "content",
+        "prefix": "fas-blinds-raised"
     },
     "fas-blog": {
         "body": "content: '\\\\f781';$0",
@@ -1519,6 +1574,11 @@
         "description": "content",
         "prefix": "fas-camera-alt"
     },
+    "fas-camera-home": {
+        "body": "content: '\\\\f8fe';$0",
+        "description": "content",
+        "prefix": "fas-camera-home"
+    },
     "fas-camera-movie": {
         "body": "content: '\\\\f8a9';$0",
         "description": "content",
@@ -1634,6 +1694,16 @@
         "description": "content",
         "prefix": "fas-car-wash"
     },
+    "fas-caravan": {
+        "body": "content: '\\\\f8ff';$0",
+        "description": "content",
+        "prefix": "fas-caravan"
+    },
+    "fas-caravan-alt": {
+        "body": "content: '\\\\f900';$0",
+        "description": "content",
+        "prefix": "fas-caravan-alt"
+    },
     "fas-caret-circle-down": {
         "body": "content: '\\\\f32d';$0",
         "description": "content",
@@ -1728,6 +1798,11 @@
         "body": "content: '\\\\f6be';$0",
         "description": "content",
         "prefix": "fas-cat"
+    },
+    "fas-cat-space": {
+        "body": "content: '\\\\f901';$0",
+        "description": "content",
+        "prefix": "fas-cat-space"
     },
     "fas-cauldron": {
         "body": "content: '\\\\f6bf';$0",
@@ -2339,6 +2414,11 @@
         "description": "content",
         "prefix": "fas-coffee"
     },
+    "fas-coffee-pot": {
+        "body": "content: '\\\\f902';$0",
+        "description": "content",
+        "prefix": "fas-coffee-pot"
+    },
     "fas-coffee-togo": {
         "body": "content: '\\\\f6c5';$0",
         "description": "content",
@@ -2348,6 +2428,11 @@
         "body": "content: '\\\\f6c6';$0",
         "description": "content",
         "prefix": "fas-coffin"
+    },
+    "fas-coffin-cross": {
+        "body": "content: '\\\\f951';$0",
+        "description": "content",
+        "prefix": "fas-coffin-cross"
     },
     "fas-cog": {
         "body": "content: '\\\\f013';$0",
@@ -2373,6 +2458,11 @@
         "body": "content: '\\\\f0db';$0",
         "description": "content",
         "prefix": "fas-columns"
+    },
+    "fas-comet": {
+        "body": "content: '\\\\f903';$0",
+        "description": "content",
+        "prefix": "fas-comet"
     },
     "fas-comment": {
         "body": "content: '\\\\f075';$0",
@@ -2863,6 +2953,11 @@
         "body": "content: '\\\\f6cb';$0",
         "description": "content",
         "prefix": "fas-dagger"
+    },
+    "fas-dailymotion": {
+        "body": "content: '\\\\f952';$0",
+        "description": "content",
+        "prefix": "fas-dailymotion"
     },
     "fas-dashcube": {
         "body": "content: '\\\\f210';$0",
@@ -3609,6 +3704,11 @@
         "description": "content",
         "prefix": "fas-fan"
     },
+    "fas-fan-table": {
+        "body": "content: '\\\\f904';$0",
+        "description": "content",
+        "prefix": "fas-fan-table"
+    },
     "fas-fantasy-flight-games": {
         "body": "content: '\\\\f6dc';$0",
         "description": "content",
@@ -3628,6 +3728,16 @@
         "body": "content: '\\\\f050';$0",
         "description": "content",
         "prefix": "fas-fast-forward"
+    },
+    "fas-faucet": {
+        "body": "content: '\\\\f905';$0",
+        "description": "content",
+        "prefix": "fas-faucet"
+    },
+    "fas-faucet-drip": {
+        "body": "content: '\\\\f906';$0",
+        "description": "content",
+        "prefix": "fas-faucet-drip"
     },
     "fas-fax": {
         "body": "content: '\\\\f1ac';$0",
@@ -3919,6 +4029,11 @@
         "description": "content",
         "prefix": "fas-firefox"
     },
+    "fas-firefox-browser": {
+        "body": "content: '\\\\f907';$0",
+        "description": "content",
+        "prefix": "fas-firefox-browser"
+    },
     "fas-fireplace": {
         "body": "content: '\\\\f79a';$0",
         "description": "content",
@@ -4059,6 +4174,11 @@
         "description": "content",
         "prefix": "fas-folder"
     },
+    "fas-folder-download": {
+        "body": "content: '\\\\f953';$0",
+        "description": "content",
+        "prefix": "fas-folder-download"
+    },
     "fas-folder-minus": {
         "body": "content: '\\\\f65d';$0",
         "description": "content",
@@ -4083,6 +4203,11 @@
         "body": "content: '\\\\f802';$0",
         "description": "content",
         "prefix": "fas-folder-tree"
+    },
+    "fas-folder-upload": {
+        "body": "content: '\\\\f954';$0",
+        "description": "content",
+        "prefix": "fas-folder-upload"
     },
     "fas-folders": {
         "body": "content: '\\\\f660';$0",
@@ -4239,6 +4364,11 @@
         "description": "content",
         "prefix": "fas-galactic-senate"
     },
+    "fas-galaxy": {
+        "body": "content: '\\\\f908';$0",
+        "description": "content",
+        "prefix": "fas-galaxy"
+    },
     "fas-game-board": {
         "body": "content: '\\\\f867';$0",
         "description": "content",
@@ -4263,6 +4393,21 @@
         "body": "content: '\\\\f8bc';$0",
         "description": "content",
         "prefix": "fas-gamepad-alt"
+    },
+    "fas-garage": {
+        "body": "content: '\\\\f909';$0",
+        "description": "content",
+        "prefix": "fas-garage"
+    },
+    "fas-garage-car": {
+        "body": "content: '\\\\f90a';$0",
+        "description": "content",
+        "prefix": "fas-garage-car"
+    },
+    "fas-garage-open": {
+        "body": "content: '\\\\f90b';$0",
+        "description": "content",
+        "prefix": "fas-garage-open"
     },
     "fas-gas-pump": {
         "body": "content: '\\\\f52f';$0",
@@ -4929,11 +5074,6 @@
         "description": "content",
         "prefix": "fas-hat-wizard"
     },
-    "fas-haykal": {
-        "body": "content: '\\\\f666';$0",
-        "description": "content",
-        "prefix": "fas-haykal"
-    },
     "fas-hdd": {
         "body": "content: '\\\\f0a0';$0",
         "description": "content",
@@ -5013,6 +5153,11 @@
         "body": "content: '\\\\f21e';$0",
         "description": "content",
         "prefix": "fas-heartbeat"
+    },
+    "fas-heat": {
+        "body": "content: '\\\\f90c';$0",
+        "description": "content",
+        "prefix": "fas-heat"
     },
     "fas-helicopter": {
         "body": "content: '\\\\f533';$0",
@@ -5204,15 +5349,45 @@
         "description": "content",
         "prefix": "fas-hourglass-start"
     },
+    "fas-house": {
+        "body": "content: '\\\\f90d';$0",
+        "description": "content",
+        "prefix": "fas-house"
+    },
     "fas-house-damage": {
         "body": "content: '\\\\f6f1';$0",
         "description": "content",
         "prefix": "fas-house-damage"
     },
+    "fas-house-day": {
+        "body": "content: '\\\\f90e';$0",
+        "description": "content",
+        "prefix": "fas-house-day"
+    },
     "fas-house-flood": {
         "body": "content: '\\\\f74f';$0",
         "description": "content",
         "prefix": "fas-house-flood"
+    },
+    "fas-house-leave": {
+        "body": "content: '\\\\f90f';$0",
+        "description": "content",
+        "prefix": "fas-house-leave"
+    },
+    "fas-house-night": {
+        "body": "content: '\\\\f910';$0",
+        "description": "content",
+        "prefix": "fas-house-night"
+    },
+    "fas-house-return": {
+        "body": "content: '\\\\f911';$0",
+        "description": "content",
+        "prefix": "fas-house-return"
+    },
+    "fas-house-signal": {
+        "body": "content: '\\\\f912';$0",
+        "description": "content",
+        "prefix": "fas-house-signal"
     },
     "fas-houzz": {
         "body": "content: '\\\\f27c';$0",
@@ -5288,6 +5463,11 @@
         "body": "content: '\\\\f47f';$0",
         "description": "content",
         "prefix": "fas-id-card-alt"
+    },
+    "fas-ideal": {
+        "body": "content: '\\\\f913';$0",
+        "description": "content",
+        "prefix": "fas-ideal"
     },
     "fas-igloo": {
         "body": "content: '\\\\f7ae';$0",
@@ -5373,6 +5553,11 @@
         "body": "content: '\\\\f16d';$0",
         "description": "content",
         "prefix": "fas-instagram"
+    },
+    "fas-instagram-square": {
+        "body": "content: '\\\\f955';$0",
+        "description": "content",
+        "prefix": "fas-instagram-square"
     },
     "fas-integral": {
         "body": "content: '\\\\f667';$0",
@@ -5624,6 +5809,16 @@
         "description": "content",
         "prefix": "fas-lamp"
     },
+    "fas-lamp-desk": {
+        "body": "content: '\\\\f914';$0",
+        "description": "content",
+        "prefix": "fas-lamp-desk"
+    },
+    "fas-lamp-floor": {
+        "body": "content: '\\\\f915';$0",
+        "description": "content",
+        "prefix": "fas-lamp-floor"
+    },
     "fas-landmark": {
         "body": "content: '\\\\f66f';$0",
         "description": "content",
@@ -5778,6 +5973,26 @@
         "body": "content: '\\\\f1cd';$0",
         "description": "content",
         "prefix": "fas-life-ring"
+    },
+    "fas-light-ceiling": {
+        "body": "content: '\\\\f916';$0",
+        "description": "content",
+        "prefix": "fas-light-ceiling"
+    },
+    "fas-light-switch": {
+        "body": "content: '\\\\f917';$0",
+        "description": "content",
+        "prefix": "fas-light-switch"
+    },
+    "fas-light-switch-off": {
+        "body": "content: '\\\\f918';$0",
+        "description": "content",
+        "prefix": "fas-light-switch-off"
+    },
+    "fas-light-switch-on": {
+        "body": "content: '\\\\f919';$0",
+        "description": "content",
+        "prefix": "fas-light-switch-on"
     },
     "fas-lightbulb": {
         "body": "content: '\\\\f0eb';$0",
@@ -6274,6 +6489,11 @@
         "description": "content",
         "prefix": "fas-meteor"
     },
+    "fas-microblog": {
+        "body": "content: '\\\\f91a';$0",
+        "description": "content",
+        "prefix": "fas-microblog"
+    },
     "fas-microchip": {
         "body": "content: '\\\\f2db';$0",
         "description": "content",
@@ -6313,6 +6533,11 @@
         "body": "content: '\\\\f3ca';$0",
         "description": "content",
         "prefix": "fas-microsoft"
+    },
+    "fas-microwave": {
+        "body": "content: '\\\\f91b';$0",
+        "description": "content",
+        "prefix": "fas-microwave"
     },
     "fas-mind-share": {
         "body": "content: '\\\\f677';$0",
@@ -6363,6 +6588,11 @@
         "body": "content: '\\\\f289';$0",
         "description": "content",
         "prefix": "fas-mixcloud"
+    },
+    "fas-mixer": {
+        "body": "content: '\\\\f956';$0",
+        "description": "content",
+        "prefix": "fas-mixer"
     },
     "fas-mizuni": {
         "body": "content: '\\\\f3cc';$0",
@@ -6718,6 +6948,16 @@
         "body": "content: '\\\\f03b';$0",
         "description": "content",
         "prefix": "fas-outdent"
+    },
+    "fas-outlet": {
+        "body": "content: '\\\\f91c';$0",
+        "description": "content",
+        "prefix": "fas-outlet"
+    },
+    "fas-oven": {
+        "body": "content: '\\\\f91d';$0",
+        "description": "content",
+        "prefix": "fas-oven"
     },
     "fas-overline": {
         "body": "content: '\\\\f876';$0",
@@ -7104,6 +7344,11 @@
         "description": "content",
         "prefix": "fas-pied-piper-pp"
     },
+    "fas-pied-piper-square": {
+        "body": "content: '\\\\f91e';$0",
+        "description": "content",
+        "prefix": "fas-pied-piper-square"
+    },
     "fas-pig": {
         "body": "content: '\\\\f706';$0",
         "description": "content",
@@ -7169,6 +7414,16 @@
         "description": "content",
         "prefix": "fas-plane-departure"
     },
+    "fas-planet-moon": {
+        "body": "content: '\\\\f91f';$0",
+        "description": "content",
+        "prefix": "fas-planet-moon"
+    },
+    "fas-planet-ringed": {
+        "body": "content: '\\\\f920';$0",
+        "description": "content",
+        "prefix": "fas-planet-ringed"
+    },
     "fas-play": {
         "body": "content: '\\\\f04b';$0",
         "description": "content",
@@ -7229,6 +7484,11 @@
         "description": "content",
         "prefix": "fas-podium-star"
     },
+    "fas-police-box": {
+        "body": "content: '\\\\f921';$0",
+        "description": "content",
+        "prefix": "fas-police-box"
+    },
     "fas-poll": {
         "body": "content: '\\\\f681';$0",
         "description": "content",
@@ -7263,6 +7523,16 @@
         "body": "content: '\\\\f819';$0",
         "description": "content",
         "prefix": "fas-popcorn"
+    },
+    "fas-portal-enter": {
+        "body": "content: '\\\\f922';$0",
+        "description": "content",
+        "prefix": "fas-portal-enter"
+    },
+    "fas-portal-exit": {
+        "body": "content: '\\\\f923';$0",
+        "description": "content",
+        "prefix": "fas-portal-exit"
     },
     "fas-portrait": {
         "body": "content: '\\\\f3e0';$0",
@@ -7439,6 +7709,11 @@
         "description": "content",
         "prefix": "fas-racquet"
     },
+    "fas-radar": {
+        "body": "content: '\\\\f924';$0",
+        "description": "content",
+        "prefix": "fas-radar"
+    },
     "fas-radiation": {
         "body": "content: '\\\\f7b9';$0",
         "description": "content",
@@ -7493,6 +7768,11 @@
         "body": "content: '\\\\f2d9';$0",
         "description": "content",
         "prefix": "fas-ravelry"
+    },
+    "fas-raygun": {
+        "body": "content: '\\\\f925';$0",
+        "description": "content",
+        "prefix": "fas-raygun"
     },
     "fas-react": {
         "body": "content: '\\\\f41b';$0",
@@ -7578,6 +7858,11 @@
         "body": "content: '\\\\f2f9';$0",
         "description": "content",
         "prefix": "fas-redo-alt"
+    },
+    "fas-refrigerator": {
+        "body": "content: '\\\\f926';$0",
+        "description": "content",
+        "prefix": "fas-refrigerator"
     },
     "fas-registered": {
         "body": "content: '\\\\f25d';$0",
@@ -7693,6 +7978,11 @@
         "body": "content: '\\\\f135';$0",
         "description": "content",
         "prefix": "fas-rocket"
+    },
+    "fas-rocket-launch": {
+        "body": "content: '\\\\f927';$0",
+        "description": "content",
+        "prefix": "fas-rocket-launch"
     },
     "fas-rocketchat": {
         "body": "content: '\\\\f3e8';$0",
@@ -7994,6 +8284,31 @@
         "description": "content",
         "prefix": "fas-send-backward"
     },
+    "fas-sensor": {
+        "body": "content: '\\\\f928';$0",
+        "description": "content",
+        "prefix": "fas-sensor"
+    },
+    "fas-sensor-alert": {
+        "body": "content: '\\\\f929';$0",
+        "description": "content",
+        "prefix": "fas-sensor-alert"
+    },
+    "fas-sensor-fire": {
+        "body": "content: '\\\\f92a';$0",
+        "description": "content",
+        "prefix": "fas-sensor-fire"
+    },
+    "fas-sensor-on": {
+        "body": "content: '\\\\f92b';$0",
+        "description": "content",
+        "prefix": "fas-sensor-on"
+    },
+    "fas-sensor-smoke": {
+        "body": "content: '\\\\f92c';$0",
+        "description": "content",
+        "prefix": "fas-sensor-smoke"
+    },
     "fas-server": {
         "body": "content: '\\\\f233';$0",
         "description": "content",
@@ -8093,6 +8408,11 @@
         "body": "content: '\\\\f54b';$0",
         "description": "content",
         "prefix": "fas-shoe-prints"
+    },
+    "fas-shopify": {
+        "body": "content: '\\\\f957';$0",
+        "description": "content",
+        "prefix": "fas-shopify"
     },
     "fas-shopping-bag": {
         "body": "content: '\\\\f290';$0",
@@ -8258,6 +8578,16 @@
         "body": "content: '\\\\f215';$0",
         "description": "content",
         "prefix": "fas-simplybuilt"
+    },
+    "fas-siren": {
+        "body": "content: '\\\\f92d';$0",
+        "description": "content",
+        "prefix": "fas-siren"
+    },
+    "fas-siren-on": {
+        "body": "content: '\\\\f92e';$0",
+        "description": "content",
+        "prefix": "fas-siren-on"
     },
     "fas-sistrix": {
         "body": "content: '\\\\f3ee';$0",
@@ -8499,6 +8829,11 @@
         "description": "content",
         "prefix": "fas-solar-panel"
     },
+    "fas-solar-system": {
+        "body": "content: '\\\\f92f';$0",
+        "description": "content",
+        "prefix": "fas-solar-system"
+    },
     "fas-sort": {
         "body": "content: '\\\\f0dc';$0",
         "description": "content",
@@ -8548,6 +8883,21 @@
         "body": "content: '\\\\f885';$0",
         "description": "content",
         "prefix": "fas-sort-amount-up-alt"
+    },
+    "fas-sort-circle": {
+        "body": "content: '\\\\f930';$0",
+        "description": "content",
+        "prefix": "fas-sort-circle"
+    },
+    "fas-sort-circle-down": {
+        "body": "content: '\\\\f931';$0",
+        "description": "content",
+        "prefix": "fas-sort-circle-down"
+    },
+    "fas-sort-circle-up": {
+        "body": "content: '\\\\f932';$0",
+        "description": "content",
+        "prefix": "fas-sort-circle-up"
     },
     "fas-sort-down": {
         "body": "content: '\\\\f0dd';$0",
@@ -8644,6 +8994,16 @@
         "description": "content",
         "prefix": "fas-space-shuttle"
     },
+    "fas-space-station-moon": {
+        "body": "content: '\\\\f933';$0",
+        "description": "content",
+        "prefix": "fas-space-station-moon"
+    },
+    "fas-space-station-moon-alt": {
+        "body": "content: '\\\\f934';$0",
+        "description": "content",
+        "prefix": "fas-space-station-moon-alt"
+    },
     "fas-spade": {
         "body": "content: '\\\\f2f4';$0",
         "description": "content",
@@ -8718,6 +9078,11 @@
         "body": "content: '\\\\f5bd';$0",
         "description": "content",
         "prefix": "fas-spray-can"
+    },
+    "fas-sprinkler": {
+        "body": "content: '\\\\f935';$0",
+        "description": "content",
+        "prefix": "fas-sprinkler"
     },
     "fas-square": {
         "body": "content: '\\\\f0c8';$0",
@@ -8814,10 +9179,35 @@
         "description": "content",
         "prefix": "fas-star-of-life"
     },
+    "fas-star-shooting": {
+        "body": "content: '\\\\f936';$0",
+        "description": "content",
+        "prefix": "fas-star-shooting"
+    },
+    "fas-starfighter": {
+        "body": "content: '\\\\f937';$0",
+        "description": "content",
+        "prefix": "fas-starfighter"
+    },
+    "fas-starfighter-alt": {
+        "body": "content: '\\\\f938';$0",
+        "description": "content",
+        "prefix": "fas-starfighter-alt"
+    },
     "fas-stars": {
         "body": "content: '\\\\f762';$0",
         "description": "content",
         "prefix": "fas-stars"
+    },
+    "fas-starship": {
+        "body": "content: '\\\\f939';$0",
+        "description": "content",
+        "prefix": "fas-starship"
+    },
+    "fas-starship-freighter": {
+        "body": "content: '\\\\f93a';$0",
+        "description": "content",
+        "prefix": "fas-starship-freighter"
     },
     "fas-staylinked": {
         "body": "content: '\\\\f3f5';$0",
@@ -9069,10 +9459,25 @@
         "description": "content",
         "prefix": "fas-sword"
     },
+    "fas-sword-laser": {
+        "body": "content: '\\\\f93b';$0",
+        "description": "content",
+        "prefix": "fas-sword-laser"
+    },
+    "fas-sword-laser-alt": {
+        "body": "content: '\\\\f93c';$0",
+        "description": "content",
+        "prefix": "fas-sword-laser-alt"
+    },
     "fas-swords": {
         "body": "content: '\\\\f71d';$0",
         "description": "content",
         "prefix": "fas-swords"
+    },
+    "fas-swords-laser": {
+        "body": "content: '\\\\f93d';$0",
+        "description": "content",
+        "prefix": "fas-swords-laser"
     },
     "fas-symfony": {
         "body": "content: '\\\\f83d';$0",
@@ -9269,6 +9674,16 @@
         "description": "content",
         "prefix": "fas-telegram-plane"
     },
+    "fas-telescope": {
+        "body": "content: '\\\\f93e';$0",
+        "description": "content",
+        "prefix": "fas-telescope"
+    },
+    "fas-temperature-down": {
+        "body": "content: '\\\\f93f';$0",
+        "description": "content",
+        "prefix": "fas-temperature-down"
+    },
     "fas-temperature-frigid": {
         "body": "content: '\\\\f768';$0",
         "description": "content",
@@ -9288,6 +9703,11 @@
         "body": "content: '\\\\f76b';$0",
         "description": "content",
         "prefix": "fas-temperature-low"
+    },
+    "fas-temperature-up": {
+        "body": "content: '\\\\f940';$0",
+        "description": "content",
+        "prefix": "fas-temperature-up"
     },
     "fas-tencent-weibo": {
         "body": "content: '\\\\f1d5';$0",
@@ -9619,6 +10039,11 @@
         "description": "content",
         "prefix": "fas-traffic-light-stop"
     },
+    "fas-trailer": {
+        "body": "content: '\\\\f941';$0",
+        "description": "content",
+        "prefix": "fas-trailer"
+    },
     "fas-train": {
         "body": "content: '\\\\f238';$0",
         "description": "content",
@@ -9638,6 +10063,31 @@
         "body": "content: '\\\\f225';$0",
         "description": "content",
         "prefix": "fas-transgender-alt"
+    },
+    "fas-transporter": {
+        "body": "content: '\\\\f942';$0",
+        "description": "content",
+        "prefix": "fas-transporter"
+    },
+    "fas-transporter-1": {
+        "body": "content: '\\\\f943';$0",
+        "description": "content",
+        "prefix": "fas-transporter-1"
+    },
+    "fas-transporter-2": {
+        "body": "content: '\\\\f944';$0",
+        "description": "content",
+        "prefix": "fas-transporter-2"
+    },
+    "fas-transporter-3": {
+        "body": "content: '\\\\f945';$0",
+        "description": "content",
+        "prefix": "fas-transporter-3"
+    },
+    "fas-transporter-empty": {
+        "body": "content: '\\\\f946';$0",
+        "description": "content",
+        "prefix": "fas-transporter-empty"
     },
     "fas-trash": {
         "body": "content: '\\\\f1f8';$0",
@@ -9879,6 +10329,16 @@
         "description": "content",
         "prefix": "fas-ubuntu"
     },
+    "fas-ufo": {
+        "body": "content: '\\\\f947';$0",
+        "description": "content",
+        "prefix": "fas-ufo"
+    },
+    "fas-ufo-beam": {
+        "body": "content: '\\\\f948';$0",
+        "description": "content",
+        "prefix": "fas-ufo-beam"
+    },
     "fas-uikit": {
         "body": "content: '\\\\f403';$0",
         "description": "content",
@@ -9928,6 +10388,11 @@
         "body": "content: '\\\\f404';$0",
         "description": "content",
         "prefix": "fas-uniregistry"
+    },
+    "fas-unity": {
+        "body": "content: '\\\\f949';$0",
+        "description": "content",
+        "prefix": "fas-unity"
     },
     "fas-universal-access": {
         "body": "content: '\\\\f29a';$0",
@@ -9993,6 +10458,11 @@
         "body": "content: '\\\\f007';$0",
         "description": "content",
         "prefix": "fas-user"
+    },
+    "fas-user-alien": {
+        "body": "content: '\\\\f94a';$0",
+        "description": "content",
+        "prefix": "fas-user-alien"
     },
     "fas-user-alt": {
         "body": "content: '\\\\f406';$0",
@@ -10114,6 +10584,11 @@
         "description": "content",
         "prefix": "fas-user-plus"
     },
+    "fas-user-robot": {
+        "body": "content: '\\\\f94b';$0",
+        "description": "content",
+        "prefix": "fas-user-robot"
+    },
     "fas-user-secret": {
         "body": "content: '\\\\f21b';$0",
         "description": "content",
@@ -10143,6 +10618,16 @@
         "body": "content: '\\\\f235';$0",
         "description": "content",
         "prefix": "fas-user-times"
+    },
+    "fas-user-unlock": {
+        "body": "content: '\\\\f958';$0",
+        "description": "content",
+        "prefix": "fas-user-unlock"
+    },
+    "fas-user-visor": {
+        "body": "content: '\\\\f94c';$0",
+        "description": "content",
+        "prefix": "fas-user-visor"
     },
     "fas-users": {
         "body": "content: '\\\\f0c0';$0",
@@ -10208,6 +10693,16 @@
         "body": "content: '\\\\f408';$0",
         "description": "content",
         "prefix": "fas-vaadin"
+    },
+    "fas-vacuum": {
+        "body": "content: '\\\\f94d';$0",
+        "description": "content",
+        "prefix": "fas-vacuum"
+    },
+    "fas-vacuum-robot": {
+        "body": "content: '\\\\f94e';$0",
+        "description": "content",
+        "prefix": "fas-vacuum-robot"
     },
     "fas-value-absolute": {
         "body": "content: '\\\\f6a6';$0",
@@ -10623,6 +11118,16 @@
         "body": "content: '\\\\f410';$0",
         "description": "content",
         "prefix": "fas-window-close"
+    },
+    "fas-window-frame": {
+        "body": "content: '\\\\f94f';$0",
+        "description": "content",
+        "prefix": "fas-window-frame"
+    },
+    "fas-window-frame-open": {
+        "body": "content: '\\\\f950';$0",
+        "description": "content",
+        "prefix": "fas-window-frame-open"
     },
     "fas-window-maximize": {
         "body": "content: '\\\\f2d0';$0",

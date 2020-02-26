@@ -158,5 +158,10 @@
         "body": "content: '\\\\f11c';$0",
         "description": "content",
         "prefix": "fl-ubuntu-inverse"
+    },
+    "fl-void": {
+        "body": "content: '\\\\f120';$0",
+        "description": "content",
+        "prefix": "fl-void"
     }
 }

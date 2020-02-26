@@ -69,6 +69,11 @@
         "description": "content",
         "prefix": "far-affiliatetheme"
     },
+    "far-air-conditioner": {
+        "body": "content: '\\\\f8f4';$0",
+        "description": "content",
+        "prefix": "far-air-conditioner"
+    },
     "far-air-freshener": {
         "body": "content: '\\\\f5d0';$0",
         "description": "content",
@@ -118,6 +123,16 @@
         "body": "content: '\\\\f6b0';$0",
         "description": "content",
         "prefix": "far-alicorn"
+    },
+    "far-alien": {
+        "body": "content: '\\\\f8f5';$0",
+        "description": "content",
+        "prefix": "far-alien"
+    },
+    "far-alien-monster": {
+        "body": "content: '\\\\f8f6';$0",
+        "description": "content",
+        "prefix": "far-alien-monster"
     },
     "far-align-center": {
         "body": "content: '\\\\f037';$0",
@@ -699,6 +714,11 @@
         "description": "content",
         "prefix": "far-bags-shopping"
     },
+    "far-bahai": {
+        "body": "content: '\\\\f666';$0",
+        "description": "content",
+        "prefix": "far-bahai"
+    },
     "far-balance-scale": {
         "body": "content: '\\\\f24e';$0",
         "description": "content",
@@ -849,6 +869,21 @@
         "description": "content",
         "prefix": "far-bed"
     },
+    "far-bed-alt": {
+        "body": "content: '\\\\f8f7';$0",
+        "description": "content",
+        "prefix": "far-bed-alt"
+    },
+    "far-bed-bunk": {
+        "body": "content: '\\\\f8f8';$0",
+        "description": "content",
+        "prefix": "far-bed-bunk"
+    },
+    "far-bed-empty": {
+        "body": "content: '\\\\f8f9';$0",
+        "description": "content",
+        "prefix": "far-bed-empty"
+    },
     "far-beer": {
         "body": "content: '\\\\f0fc';$0",
         "description": "content",
@@ -873,6 +908,11 @@
         "body": "content: '\\\\f848';$0",
         "description": "content",
         "prefix": "far-bell-exclamation"
+    },
+    "far-bell-on": {
+        "body": "content: '\\\\f8fa';$0",
+        "description": "content",
+        "prefix": "far-bell-on"
     },
     "far-bell-plus": {
         "body": "content: '\\\\f849';$0",
@@ -993,6 +1033,21 @@
         "body": "content: '\\\\f29d';$0",
         "description": "content",
         "prefix": "far-blind"
+    },
+    "far-blinds": {
+        "body": "content: '\\\\f8fb';$0",
+        "description": "content",
+        "prefix": "far-blinds"
+    },
+    "far-blinds-open": {
+        "body": "content: '\\\\f8fc';$0",
+        "description": "content",
+        "prefix": "far-blinds-open"
+    },
+    "far-blinds-raised": {
+        "body": "content: '\\\\f8fd';$0",
+        "description": "content",
+        "prefix": "far-blinds-raised"
     },
     "far-blog": {
         "body": "content: '\\\\f781';$0",
@@ -1519,6 +1574,11 @@
         "description": "content",
         "prefix": "far-camera-alt"
     },
+    "far-camera-home": {
+        "body": "content: '\\\\f8fe';$0",
+        "description": "content",
+        "prefix": "far-camera-home"
+    },
     "far-camera-movie": {
         "body": "content: '\\\\f8a9';$0",
         "description": "content",
@@ -1634,6 +1694,16 @@
         "description": "content",
         "prefix": "far-car-wash"
     },
+    "far-caravan": {
+        "body": "content: '\\\\f8ff';$0",
+        "description": "content",
+        "prefix": "far-caravan"
+    },
+    "far-caravan-alt": {
+        "body": "content: '\\\\f900';$0",
+        "description": "content",
+        "prefix": "far-caravan-alt"
+    },
     "far-caret-circle-down": {
         "body": "content: '\\\\f32d';$0",
         "description": "content",
@@ -1728,6 +1798,11 @@
         "body": "content: '\\\\f6be';$0",
         "description": "content",
         "prefix": "far-cat"
+    },
+    "far-cat-space": {
+        "body": "content: '\\\\f901';$0",
+        "description": "content",
+        "prefix": "far-cat-space"
     },
     "far-cauldron": {
         "body": "content: '\\\\f6bf';$0",
@@ -2339,6 +2414,11 @@
         "description": "content",
         "prefix": "far-coffee"
     },
+    "far-coffee-pot": {
+        "body": "content: '\\\\f902';$0",
+        "description": "content",
+        "prefix": "far-coffee-pot"
+    },
     "far-coffee-togo": {
         "body": "content: '\\\\f6c5';$0",
         "description": "content",
@@ -2348,6 +2428,11 @@
         "body": "content: '\\\\f6c6';$0",
         "description": "content",
         "prefix": "far-coffin"
+    },
+    "far-coffin-cross": {
+        "body": "content: '\\\\f951';$0",
+        "description": "content",
+        "prefix": "far-coffin-cross"
     },
     "far-cog": {
         "body": "content: '\\\\f013';$0",
@@ -2373,6 +2458,11 @@
         "body": "content: '\\\\f0db';$0",
         "description": "content",
         "prefix": "far-columns"
+    },
+    "far-comet": {
+        "body": "content: '\\\\f903';$0",
+        "description": "content",
+        "prefix": "far-comet"
     },
     "far-comment": {
         "body": "content: '\\\\f075';$0",
@@ -2863,6 +2953,11 @@
         "body": "content: '\\\\f6cb';$0",
         "description": "content",
         "prefix": "far-dagger"
+    },
+    "far-dailymotion": {
+        "body": "content: '\\\\f952';$0",
+        "description": "content",
+        "prefix": "far-dailymotion"
     },
     "far-dashcube": {
         "body": "content: '\\\\f210';$0",
@@ -3609,6 +3704,11 @@
         "description": "content",
         "prefix": "far-fan"
     },
+    "far-fan-table": {
+        "body": "content: '\\\\f904';$0",
+        "description": "content",
+        "prefix": "far-fan-table"
+    },
     "far-fantasy-flight-games": {
         "body": "content: '\\\\f6dc';$0",
         "description": "content",
@@ -3628,6 +3728,16 @@
         "body": "content: '\\\\f050';$0",
         "description": "content",
         "prefix": "far-fast-forward"
+    },
+    "far-faucet": {
+        "body": "content: '\\\\f905';$0",
+        "description": "content",
+        "prefix": "far-faucet"
+    },
+    "far-faucet-drip": {
+        "body": "content: '\\\\f906';$0",
+        "description": "content",
+        "prefix": "far-faucet-drip"
     },
     "far-fax": {
         "body": "content: '\\\\f1ac';$0",
@@ -3919,6 +4029,11 @@
         "description": "content",
         "prefix": "far-firefox"
     },
+    "far-firefox-browser": {
+        "body": "content: '\\\\f907';$0",
+        "description": "content",
+        "prefix": "far-firefox-browser"
+    },
     "far-fireplace": {
         "body": "content: '\\\\f79a';$0",
         "description": "content",
@@ -4059,6 +4174,11 @@
         "description": "content",
         "prefix": "far-folder"
     },
+    "far-folder-download": {
+        "body": "content: '\\\\f953';$0",
+        "description": "content",
+        "prefix": "far-folder-download"
+    },
     "far-folder-minus": {
         "body": "content: '\\\\f65d';$0",
         "description": "content",
@@ -4083,6 +4203,11 @@
         "body": "content: '\\\\f802';$0",
         "description": "content",
         "prefix": "far-folder-tree"
+    },
+    "far-folder-upload": {
+        "body": "content: '\\\\f954';$0",
+        "description": "content",
+        "prefix": "far-folder-upload"
     },
     "far-folders": {
         "body": "content: '\\\\f660';$0",
@@ -4239,6 +4364,11 @@
         "description": "content",
         "prefix": "far-galactic-senate"
     },
+    "far-galaxy": {
+        "body": "content: '\\\\f908';$0",
+        "description": "content",
+        "prefix": "far-galaxy"
+    },
     "far-game-board": {
         "body": "content: '\\\\f867';$0",
         "description": "content",
@@ -4263,6 +4393,21 @@
         "body": "content: '\\\\f8bc';$0",
         "description": "content",
         "prefix": "far-gamepad-alt"
+    },
+    "far-garage": {
+        "body": "content: '\\\\f909';$0",
+        "description": "content",
+        "prefix": "far-garage"
+    },
+    "far-garage-car": {
+        "body": "content: '\\\\f90a';$0",
+        "description": "content",
+        "prefix": "far-garage-car"
+    },
+    "far-garage-open": {
+        "body": "content: '\\\\f90b';$0",
+        "description": "content",
+        "prefix": "far-garage-open"
     },
     "far-gas-pump": {
         "body": "content: '\\\\f52f';$0",
@@ -4929,11 +5074,6 @@
         "description": "content",
         "prefix": "far-hat-wizard"
     },
-    "far-haykal": {
-        "body": "content: '\\\\f666';$0",
-        "description": "content",
-        "prefix": "far-haykal"
-    },
     "far-hdd": {
         "body": "content: '\\\\f0a0';$0",
         "description": "content",
@@ -5013,6 +5153,11 @@
         "body": "content: '\\\\f21e';$0",
         "description": "content",
         "prefix": "far-heartbeat"
+    },
+    "far-heat": {
+        "body": "content: '\\\\f90c';$0",
+        "description": "content",
+        "prefix": "far-heat"
     },
     "far-helicopter": {
         "body": "content: '\\\\f533';$0",
@@ -5204,15 +5349,45 @@
         "description": "content",
         "prefix": "far-hourglass-start"
     },
+    "far-house": {
+        "body": "content: '\\\\f90d';$0",
+        "description": "content",
+        "prefix": "far-house"
+    },
     "far-house-damage": {
         "body": "content: '\\\\f6f1';$0",
         "description": "content",
         "prefix": "far-house-damage"
     },
+    "far-house-day": {
+        "body": "content: '\\\\f90e';$0",
+        "description": "content",
+        "prefix": "far-house-day"
+    },
     "far-house-flood": {
         "body": "content: '\\\\f74f';$0",
         "description": "content",
         "prefix": "far-house-flood"
+    },
+    "far-house-leave": {
+        "body": "content: '\\\\f90f';$0",
+        "description": "content",
+        "prefix": "far-house-leave"
+    },
+    "far-house-night": {
+        "body": "content: '\\\\f910';$0",
+        "description": "content",
+        "prefix": "far-house-night"
+    },
+    "far-house-return": {
+        "body": "content: '\\\\f911';$0",
+        "description": "content",
+        "prefix": "far-house-return"
+    },
+    "far-house-signal": {
+        "body": "content: '\\\\f912';$0",
+        "description": "content",
+        "prefix": "far-house-signal"
     },
     "far-houzz": {
         "body": "content: '\\\\f27c';$0",
@@ -5288,6 +5463,11 @@
         "body": "content: '\\\\f47f';$0",
         "description": "content",
         "prefix": "far-id-card-alt"
+    },
+    "far-ideal": {
+        "body": "content: '\\\\f913';$0",
+        "description": "content",
+        "prefix": "far-ideal"
     },
     "far-igloo": {
         "body": "content: '\\\\f7ae';$0",
@@ -5373,6 +5553,11 @@
         "body": "content: '\\\\f16d';$0",
         "description": "content",
         "prefix": "far-instagram"
+    },
+    "far-instagram-square": {
+        "body": "content: '\\\\f955';$0",
+        "description": "content",
+        "prefix": "far-instagram-square"
     },
     "far-integral": {
         "body": "content: '\\\\f667';$0",
@@ -5624,6 +5809,16 @@
         "description": "content",
         "prefix": "far-lamp"
     },
+    "far-lamp-desk": {
+        "body": "content: '\\\\f914';$0",
+        "description": "content",
+        "prefix": "far-lamp-desk"
+    },
+    "far-lamp-floor": {
+        "body": "content: '\\\\f915';$0",
+        "description": "content",
+        "prefix": "far-lamp-floor"
+    },
     "far-landmark": {
         "body": "content: '\\\\f66f';$0",
         "description": "content",
@@ -5778,6 +5973,26 @@
         "body": "content: '\\\\f1cd';$0",
         "description": "content",
         "prefix": "far-life-ring"
+    },
+    "far-light-ceiling": {
+        "body": "content: '\\\\f916';$0",
+        "description": "content",
+        "prefix": "far-light-ceiling"
+    },
+    "far-light-switch": {
+        "body": "content: '\\\\f917';$0",
+        "description": "content",
+        "prefix": "far-light-switch"
+    },
+    "far-light-switch-off": {
+        "body": "content: '\\\\f918';$0",
+        "description": "content",
+        "prefix": "far-light-switch-off"
+    },
+    "far-light-switch-on": {
+        "body": "content: '\\\\f919';$0",
+        "description": "content",
+        "prefix": "far-light-switch-on"
     },
     "far-lightbulb": {
         "body": "content: '\\\\f0eb';$0",
@@ -6274,6 +6489,11 @@
         "description": "content",
         "prefix": "far-meteor"
     },
+    "far-microblog": {
+        "body": "content: '\\\\f91a';$0",
+        "description": "content",
+        "prefix": "far-microblog"
+    },
     "far-microchip": {
         "body": "content: '\\\\f2db';$0",
         "description": "content",
@@ -6313,6 +6533,11 @@
         "body": "content: '\\\\f3ca';$0",
         "description": "content",
         "prefix": "far-microsoft"
+    },
+    "far-microwave": {
+        "body": "content: '\\\\f91b';$0",
+        "description": "content",
+        "prefix": "far-microwave"
     },
     "far-mind-share": {
         "body": "content: '\\\\f677';$0",
@@ -6363,6 +6588,11 @@
         "body": "content: '\\\\f289';$0",
         "description": "content",
         "prefix": "far-mixcloud"
+    },
+    "far-mixer": {
+        "body": "content: '\\\\f956';$0",
+        "description": "content",
+        "prefix": "far-mixer"
     },
     "far-mizuni": {
         "body": "content: '\\\\f3cc';$0",
@@ -6718,6 +6948,16 @@
         "body": "content: '\\\\f03b';$0",
         "description": "content",
         "prefix": "far-outdent"
+    },
+    "far-outlet": {
+        "body": "content: '\\\\f91c';$0",
+        "description": "content",
+        "prefix": "far-outlet"
+    },
+    "far-oven": {
+        "body": "content: '\\\\f91d';$0",
+        "description": "content",
+        "prefix": "far-oven"
     },
     "far-overline": {
         "body": "content: '\\\\f876';$0",
@@ -7104,6 +7344,11 @@
         "description": "content",
         "prefix": "far-pied-piper-pp"
     },
+    "far-pied-piper-square": {
+        "body": "content: '\\\\f91e';$0",
+        "description": "content",
+        "prefix": "far-pied-piper-square"
+    },
     "far-pig": {
         "body": "content: '\\\\f706';$0",
         "description": "content",
@@ -7169,6 +7414,16 @@
         "description": "content",
         "prefix": "far-plane-departure"
     },
+    "far-planet-moon": {
+        "body": "content: '\\\\f91f';$0",
+        "description": "content",
+        "prefix": "far-planet-moon"
+    },
+    "far-planet-ringed": {
+        "body": "content: '\\\\f920';$0",
+        "description": "content",
+        "prefix": "far-planet-ringed"
+    },
     "far-play": {
         "body": "content: '\\\\f04b';$0",
         "description": "content",
@@ -7229,6 +7484,11 @@
         "description": "content",
         "prefix": "far-podium-star"
     },
+    "far-police-box": {
+        "body": "content: '\\\\f921';$0",
+        "description": "content",
+        "prefix": "far-police-box"
+    },
     "far-poll": {
         "body": "content: '\\\\f681';$0",
         "description": "content",
@@ -7263,6 +7523,16 @@
         "body": "content: '\\\\f819';$0",
         "description": "content",
         "prefix": "far-popcorn"
+    },
+    "far-portal-enter": {
+        "body": "content: '\\\\f922';$0",
+        "description": "content",
+        "prefix": "far-portal-enter"
+    },
+    "far-portal-exit": {
+        "body": "content: '\\\\f923';$0",
+        "description": "content",
+        "prefix": "far-portal-exit"
     },
     "far-portrait": {
         "body": "content: '\\\\f3e0';$0",
@@ -7439,6 +7709,11 @@
         "description": "content",
         "prefix": "far-racquet"
     },
+    "far-radar": {
+        "body": "content: '\\\\f924';$0",
+        "description": "content",
+        "prefix": "far-radar"
+    },
     "far-radiation": {
         "body": "content: '\\\\f7b9';$0",
         "description": "content",
@@ -7493,6 +7768,11 @@
         "body": "content: '\\\\f2d9';$0",
         "description": "content",
         "prefix": "far-ravelry"
+    },
+    "far-raygun": {
+        "body": "content: '\\\\f925';$0",
+        "description": "content",
+        "prefix": "far-raygun"
     },
     "far-react": {
         "body": "content: '\\\\f41b';$0",
@@ -7578,6 +7858,11 @@
         "body": "content: '\\\\f2f9';$0",
         "description": "content",
         "prefix": "far-redo-alt"
+    },
+    "far-refrigerator": {
+        "body": "content: '\\\\f926';$0",
+        "description": "content",
+        "prefix": "far-refrigerator"
     },
     "far-registered": {
         "body": "content: '\\\\f25d';$0",
@@ -7693,6 +7978,11 @@
         "body": "content: '\\\\f135';$0",
         "description": "content",
         "prefix": "far-rocket"
+    },
+    "far-rocket-launch": {
+        "body": "content: '\\\\f927';$0",
+        "description": "content",
+        "prefix": "far-rocket-launch"
     },
     "far-rocketchat": {
         "body": "content: '\\\\f3e8';$0",
@@ -7994,6 +8284,31 @@
         "description": "content",
         "prefix": "far-send-backward"
     },
+    "far-sensor": {
+        "body": "content: '\\\\f928';$0",
+        "description": "content",
+        "prefix": "far-sensor"
+    },
+    "far-sensor-alert": {
+        "body": "content: '\\\\f929';$0",
+        "description": "content",
+        "prefix": "far-sensor-alert"
+    },
+    "far-sensor-fire": {
+        "body": "content: '\\\\f92a';$0",
+        "description": "content",
+        "prefix": "far-sensor-fire"
+    },
+    "far-sensor-on": {
+        "body": "content: '\\\\f92b';$0",
+        "description": "content",
+        "prefix": "far-sensor-on"
+    },
+    "far-sensor-smoke": {
+        "body": "content: '\\\\f92c';$0",
+        "description": "content",
+        "prefix": "far-sensor-smoke"
+    },
     "far-server": {
         "body": "content: '\\\\f233';$0",
         "description": "content",
@@ -8093,6 +8408,11 @@
         "body": "content: '\\\\f54b';$0",
         "description": "content",
         "prefix": "far-shoe-prints"
+    },
+    "far-shopify": {
+        "body": "content: '\\\\f957';$0",
+        "description": "content",
+        "prefix": "far-shopify"
     },
     "far-shopping-bag": {
         "body": "content: '\\\\f290';$0",
@@ -8258,6 +8578,16 @@
         "body": "content: '\\\\f215';$0",
         "description": "content",
         "prefix": "far-simplybuilt"
+    },
+    "far-siren": {
+        "body": "content: '\\\\f92d';$0",
+        "description": "content",
+        "prefix": "far-siren"
+    },
+    "far-siren-on": {
+        "body": "content: '\\\\f92e';$0",
+        "description": "content",
+        "prefix": "far-siren-on"
     },
     "far-sistrix": {
         "body": "content: '\\\\f3ee';$0",
@@ -8499,6 +8829,11 @@
         "description": "content",
         "prefix": "far-solar-panel"
     },
+    "far-solar-system": {
+        "body": "content: '\\\\f92f';$0",
+        "description": "content",
+        "prefix": "far-solar-system"
+    },
     "far-sort": {
         "body": "content: '\\\\f0dc';$0",
         "description": "content",
@@ -8548,6 +8883,21 @@
         "body": "content: '\\\\f885';$0",
         "description": "content",
         "prefix": "far-sort-amount-up-alt"
+    },
+    "far-sort-circle": {
+        "body": "content: '\\\\f930';$0",
+        "description": "content",
+        "prefix": "far-sort-circle"
+    },
+    "far-sort-circle-down": {
+        "body": "content: '\\\\f931';$0",
+        "description": "content",
+        "prefix": "far-sort-circle-down"
+    },
+    "far-sort-circle-up": {
+        "body": "content: '\\\\f932';$0",
+        "description": "content",
+        "prefix": "far-sort-circle-up"
     },
     "far-sort-down": {
         "body": "content: '\\\\f0dd';$0",
@@ -8644,6 +8994,16 @@
         "description": "content",
         "prefix": "far-space-shuttle"
     },
+    "far-space-station-moon": {
+        "body": "content: '\\\\f933';$0",
+        "description": "content",
+        "prefix": "far-space-station-moon"
+    },
+    "far-space-station-moon-alt": {
+        "body": "content: '\\\\f934';$0",
+        "description": "content",
+        "prefix": "far-space-station-moon-alt"
+    },
     "far-spade": {
         "body": "content: '\\\\f2f4';$0",
         "description": "content",
@@ -8718,6 +9078,11 @@
         "body": "content: '\\\\f5bd';$0",
         "description": "content",
         "prefix": "far-spray-can"
+    },
+    "far-sprinkler": {
+        "body": "content: '\\\\f935';$0",
+        "description": "content",
+        "prefix": "far-sprinkler"
     },
     "far-square": {
         "body": "content: '\\\\f0c8';$0",
@@ -8814,10 +9179,35 @@
         "description": "content",
         "prefix": "far-star-of-life"
     },
+    "far-star-shooting": {
+        "body": "content: '\\\\f936';$0",
+        "description": "content",
+        "prefix": "far-star-shooting"
+    },
+    "far-starfighter": {
+        "body": "content: '\\\\f937';$0",
+        "description": "content",
+        "prefix": "far-starfighter"
+    },
+    "far-starfighter-alt": {
+        "body": "content: '\\\\f938';$0",
+        "description": "content",
+        "prefix": "far-starfighter-alt"
+    },
     "far-stars": {
         "body": "content: '\\\\f762';$0",
         "description": "content",
         "prefix": "far-stars"
+    },
+    "far-starship": {
+        "body": "content: '\\\\f939';$0",
+        "description": "content",
+        "prefix": "far-starship"
+    },
+    "far-starship-freighter": {
+        "body": "content: '\\\\f93a';$0",
+        "description": "content",
+        "prefix": "far-starship-freighter"
     },
     "far-staylinked": {
         "body": "content: '\\\\f3f5';$0",
@@ -9069,10 +9459,25 @@
         "description": "content",
         "prefix": "far-sword"
     },
+    "far-sword-laser": {
+        "body": "content: '\\\\f93b';$0",
+        "description": "content",
+        "prefix": "far-sword-laser"
+    },
+    "far-sword-laser-alt": {
+        "body": "content: '\\\\f93c';$0",
+        "description": "content",
+        "prefix": "far-sword-laser-alt"
+    },
     "far-swords": {
         "body": "content: '\\\\f71d';$0",
         "description": "content",
         "prefix": "far-swords"
+    },
+    "far-swords-laser": {
+        "body": "content: '\\\\f93d';$0",
+        "description": "content",
+        "prefix": "far-swords-laser"
     },
     "far-symfony": {
         "body": "content: '\\\\f83d';$0",
@@ -9269,6 +9674,16 @@
         "description": "content",
         "prefix": "far-telegram-plane"
     },
+    "far-telescope": {
+        "body": "content: '\\\\f93e';$0",
+        "description": "content",
+        "prefix": "far-telescope"
+    },
+    "far-temperature-down": {
+        "body": "content: '\\\\f93f';$0",
+        "description": "content",
+        "prefix": "far-temperature-down"
+    },
     "far-temperature-frigid": {
         "body": "content: '\\\\f768';$0",
         "description": "content",
@@ -9288,6 +9703,11 @@
         "body": "content: '\\\\f76b';$0",
         "description": "content",
         "prefix": "far-temperature-low"
+    },
+    "far-temperature-up": {
+        "body": "content: '\\\\f940';$0",
+        "description": "content",
+        "prefix": "far-temperature-up"
     },
     "far-tencent-weibo": {
         "body": "content: '\\\\f1d5';$0",
@@ -9619,6 +10039,11 @@
         "description": "content",
         "prefix": "far-traffic-light-stop"
     },
+    "far-trailer": {
+        "body": "content: '\\\\f941';$0",
+        "description": "content",
+        "prefix": "far-trailer"
+    },
     "far-train": {
         "body": "content: '\\\\f238';$0",
         "description": "content",
@@ -9638,6 +10063,31 @@
         "body": "content: '\\\\f225';$0",
         "description": "content",
         "prefix": "far-transgender-alt"
+    },
+    "far-transporter": {
+        "body": "content: '\\\\f942';$0",
+        "description": "content",
+        "prefix": "far-transporter"
+    },
+    "far-transporter-1": {
+        "body": "content: '\\\\f943';$0",
+        "description": "content",
+        "prefix": "far-transporter-1"
+    },
+    "far-transporter-2": {
+        "body": "content: '\\\\f944';$0",
+        "description": "content",
+        "prefix": "far-transporter-2"
+    },
+    "far-transporter-3": {
+        "body": "content: '\\\\f945';$0",
+        "description": "content",
+        "prefix": "far-transporter-3"
+    },
+    "far-transporter-empty": {
+        "body": "content: '\\\\f946';$0",
+        "description": "content",
+        "prefix": "far-transporter-empty"
     },
     "far-trash": {
         "body": "content: '\\\\f1f8';$0",
@@ -9879,6 +10329,16 @@
         "description": "content",
         "prefix": "far-ubuntu"
     },
+    "far-ufo": {
+        "body": "content: '\\\\f947';$0",
+        "description": "content",
+        "prefix": "far-ufo"
+    },
+    "far-ufo-beam": {
+        "body": "content: '\\\\f948';$0",
+        "description": "content",
+        "prefix": "far-ufo-beam"
+    },
     "far-uikit": {
         "body": "content: '\\\\f403';$0",
         "description": "content",
@@ -9928,6 +10388,11 @@
         "body": "content: '\\\\f404';$0",
         "description": "content",
         "prefix": "far-uniregistry"
+    },
+    "far-unity": {
+        "body": "content: '\\\\f949';$0",
+        "description": "content",
+        "prefix": "far-unity"
     },
     "far-universal-access": {
         "body": "content: '\\\\f29a';$0",
@@ -9993,6 +10458,11 @@
         "body": "content: '\\\\f007';$0",
         "description": "content",
         "prefix": "far-user"
+    },
+    "far-user-alien": {
+        "body": "content: '\\\\f94a';$0",
+        "description": "content",
+        "prefix": "far-user-alien"
     },
     "far-user-alt": {
         "body": "content: '\\\\f406';$0",
@@ -10114,6 +10584,11 @@
         "description": "content",
         "prefix": "far-user-plus"
     },
+    "far-user-robot": {
+        "body": "content: '\\\\f94b';$0",
+        "description": "content",
+        "prefix": "far-user-robot"
+    },
     "far-user-secret": {
         "body": "content: '\\\\f21b';$0",
         "description": "content",
@@ -10143,6 +10618,16 @@
         "body": "content: '\\\\f235';$0",
         "description": "content",
         "prefix": "far-user-times"
+    },
+    "far-user-unlock": {
+        "body": "content: '\\\\f958';$0",
+        "description": "content",
+        "prefix": "far-user-unlock"
+    },
+    "far-user-visor": {
+        "body": "content: '\\\\f94c';$0",
+        "description": "content",
+        "prefix": "far-user-visor"
     },
     "far-users": {
         "body": "content: '\\\\f0c0';$0",
@@ -10208,6 +10693,16 @@
         "body": "content: '\\\\f408';$0",
         "description": "content",
         "prefix": "far-vaadin"
+    },
+    "far-vacuum": {
+        "body": "content: '\\\\f94d';$0",
+        "description": "content",
+        "prefix": "far-vacuum"
+    },
+    "far-vacuum-robot": {
+        "body": "content: '\\\\f94e';$0",
+        "description": "content",
+        "prefix": "far-vacuum-robot"
     },
     "far-value-absolute": {
         "body": "content: '\\\\f6a6';$0",
@@ -10623,6 +11118,16 @@
         "body": "content: '\\\\f410';$0",
         "description": "content",
         "prefix": "far-window-close"
+    },
+    "far-window-frame": {
+        "body": "content: '\\\\f94f';$0",
+        "description": "content",
+        "prefix": "far-window-frame"
+    },
+    "far-window-frame-open": {
+        "body": "content: '\\\\f950';$0",
+        "description": "content",
+        "prefix": "far-window-frame-open"
     },
     "far-window-maximize": {
         "body": "content: '\\\\f2d0';$0",

@@ -69,6 +69,11 @@
         "description": "<i>",
         "prefix": "far-affiliatetheme"
     },
+    "far-air-conditioner": {
+        "body": "<${1:i} className=\"far fa-air-conditioner$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-air-conditioner"
+    },
     "far-air-freshener": {
         "body": "<${1:i} className=\"far fa-air-freshener$2\"></${1:i}>$0",
         "description": "<i>",
@@ -118,6 +123,16 @@
         "body": "<${1:i} className=\"far fa-alicorn$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-alicorn"
+    },
+    "far-alien": {
+        "body": "<${1:i} className=\"far fa-alien$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-alien"
+    },
+    "far-alien-monster": {
+        "body": "<${1:i} className=\"far fa-alien-monster$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-alien-monster"
     },
     "far-align-center": {
         "body": "<${1:i} className=\"far fa-align-center$2\"></${1:i}>$0",
@@ -699,6 +714,11 @@
         "description": "<i>",
         "prefix": "far-bags-shopping"
     },
+    "far-bahai": {
+        "body": "<${1:i} className=\"far fa-bahai$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bahai"
+    },
     "far-balance-scale": {
         "body": "<${1:i} className=\"far fa-balance-scale$2\"></${1:i}>$0",
         "description": "<i>",
@@ -849,6 +869,21 @@
         "description": "<i>",
         "prefix": "far-bed"
     },
+    "far-bed-alt": {
+        "body": "<${1:i} className=\"far fa-bed-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bed-alt"
+    },
+    "far-bed-bunk": {
+        "body": "<${1:i} className=\"far fa-bed-bunk$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bed-bunk"
+    },
+    "far-bed-empty": {
+        "body": "<${1:i} className=\"far fa-bed-empty$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bed-empty"
+    },
     "far-beer": {
         "body": "<${1:i} className=\"far fa-beer$2\"></${1:i}>$0",
         "description": "<i>",
@@ -873,6 +908,11 @@
         "body": "<${1:i} className=\"far fa-bell-exclamation$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-bell-exclamation"
+    },
+    "far-bell-on": {
+        "body": "<${1:i} className=\"far fa-bell-on$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-bell-on"
     },
     "far-bell-plus": {
         "body": "<${1:i} className=\"far fa-bell-plus$2\"></${1:i}>$0",
@@ -993,6 +1033,21 @@
         "body": "<${1:i} className=\"far fa-blind$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-blind"
+    },
+    "far-blinds": {
+        "body": "<${1:i} className=\"far fa-blinds$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-blinds"
+    },
+    "far-blinds-open": {
+        "body": "<${1:i} className=\"far fa-blinds-open$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-blinds-open"
+    },
+    "far-blinds-raised": {
+        "body": "<${1:i} className=\"far fa-blinds-raised$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-blinds-raised"
     },
     "far-blog": {
         "body": "<${1:i} className=\"far fa-blog$2\"></${1:i}>$0",
@@ -1519,6 +1574,11 @@
         "description": "<i>",
         "prefix": "far-camera-alt"
     },
+    "far-camera-home": {
+        "body": "<${1:i} className=\"far fa-camera-home$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-camera-home"
+    },
     "far-camera-movie": {
         "body": "<${1:i} className=\"far fa-camera-movie$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1634,6 +1694,16 @@
         "description": "<i>",
         "prefix": "far-car-wash"
     },
+    "far-caravan": {
+        "body": "<${1:i} className=\"far fa-caravan$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-caravan"
+    },
+    "far-caravan-alt": {
+        "body": "<${1:i} className=\"far fa-caravan-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-caravan-alt"
+    },
     "far-caret-circle-down": {
         "body": "<${1:i} className=\"far fa-caret-circle-down$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1728,6 +1798,11 @@
         "body": "<${1:i} className=\"far fa-cat$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-cat"
+    },
+    "far-cat-space": {
+        "body": "<${1:i} className=\"far fa-cat-space$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-cat-space"
     },
     "far-cauldron": {
         "body": "<${1:i} className=\"far fa-cauldron$2\"></${1:i}>$0",
@@ -2339,6 +2414,11 @@
         "description": "<i>",
         "prefix": "far-coffee"
     },
+    "far-coffee-pot": {
+        "body": "<${1:i} className=\"far fa-coffee-pot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-coffee-pot"
+    },
     "far-coffee-togo": {
         "body": "<${1:i} className=\"far fa-coffee-togo$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2348,6 +2428,11 @@
         "body": "<${1:i} className=\"far fa-coffin$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-coffin"
+    },
+    "far-coffin-cross": {
+        "body": "<${1:i} className=\"far fa-coffin-cross$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-coffin-cross"
     },
     "far-cog": {
         "body": "<${1:i} className=\"far fa-cog$2\"></${1:i}>$0",
@@ -2373,6 +2458,11 @@
         "body": "<${1:i} className=\"far fa-columns$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-columns"
+    },
+    "far-comet": {
+        "body": "<${1:i} className=\"far fa-comet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-comet"
     },
     "far-comment": {
         "body": "<${1:i} className=\"far fa-comment$2\"></${1:i}>$0",
@@ -2863,6 +2953,11 @@
         "body": "<${1:i} className=\"far fa-dagger$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-dagger"
+    },
+    "far-dailymotion": {
+        "body": "<${1:i} className=\"far fa-dailymotion$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-dailymotion"
     },
     "far-dashcube": {
         "body": "<${1:i} className=\"far fa-dashcube$2\"></${1:i}>$0",
@@ -3609,6 +3704,11 @@
         "description": "<i>",
         "prefix": "far-fan"
     },
+    "far-fan-table": {
+        "body": "<${1:i} className=\"far fa-fan-table$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-fan-table"
+    },
     "far-fantasy-flight-games": {
         "body": "<${1:i} className=\"far fa-fantasy-flight-games$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3628,6 +3728,16 @@
         "body": "<${1:i} className=\"far fa-fast-forward$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-fast-forward"
+    },
+    "far-faucet": {
+        "body": "<${1:i} className=\"far fa-faucet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-faucet"
+    },
+    "far-faucet-drip": {
+        "body": "<${1:i} className=\"far fa-faucet-drip$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-faucet-drip"
     },
     "far-fax": {
         "body": "<${1:i} className=\"far fa-fax$2\"></${1:i}>$0",
@@ -3919,6 +4029,11 @@
         "description": "<i>",
         "prefix": "far-firefox"
     },
+    "far-firefox-browser": {
+        "body": "<${1:i} className=\"far fa-firefox-browser$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-firefox-browser"
+    },
     "far-fireplace": {
         "body": "<${1:i} className=\"far fa-fireplace$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4059,6 +4174,11 @@
         "description": "<i>",
         "prefix": "far-folder"
     },
+    "far-folder-download": {
+        "body": "<${1:i} className=\"far fa-folder-download$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-folder-download"
+    },
     "far-folder-minus": {
         "body": "<${1:i} className=\"far fa-folder-minus$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4083,6 +4203,11 @@
         "body": "<${1:i} className=\"far fa-folder-tree$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-folder-tree"
+    },
+    "far-folder-upload": {
+        "body": "<${1:i} className=\"far fa-folder-upload$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-folder-upload"
     },
     "far-folders": {
         "body": "<${1:i} className=\"far fa-folders$2\"></${1:i}>$0",
@@ -4239,6 +4364,11 @@
         "description": "<i>",
         "prefix": "far-galactic-senate"
     },
+    "far-galaxy": {
+        "body": "<${1:i} className=\"far fa-galaxy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-galaxy"
+    },
     "far-game-board": {
         "body": "<${1:i} className=\"far fa-game-board$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4263,6 +4393,21 @@
         "body": "<${1:i} className=\"far fa-gamepad-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-gamepad-alt"
+    },
+    "far-garage": {
+        "body": "<${1:i} className=\"far fa-garage$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-garage"
+    },
+    "far-garage-car": {
+        "body": "<${1:i} className=\"far fa-garage-car$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-garage-car"
+    },
+    "far-garage-open": {
+        "body": "<${1:i} className=\"far fa-garage-open$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-garage-open"
     },
     "far-gas-pump": {
         "body": "<${1:i} className=\"far fa-gas-pump$2\"></${1:i}>$0",
@@ -4929,11 +5074,6 @@
         "description": "<i>",
         "prefix": "far-hat-wizard"
     },
-    "far-haykal": {
-        "body": "<${1:i} className=\"far fa-haykal$2\"></${1:i}>$0",
-        "description": "<i>",
-        "prefix": "far-haykal"
-    },
     "far-hdd": {
         "body": "<${1:i} className=\"far fa-hdd$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5013,6 +5153,11 @@
         "body": "<${1:i} className=\"far fa-heartbeat$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-heartbeat"
+    },
+    "far-heat": {
+        "body": "<${1:i} className=\"far fa-heat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-heat"
     },
     "far-helicopter": {
         "body": "<${1:i} className=\"far fa-helicopter$2\"></${1:i}>$0",
@@ -5204,15 +5349,45 @@
         "description": "<i>",
         "prefix": "far-hourglass-start"
     },
+    "far-house": {
+        "body": "<${1:i} className=\"far fa-house$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-house"
+    },
     "far-house-damage": {
         "body": "<${1:i} className=\"far fa-house-damage$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-house-damage"
     },
+    "far-house-day": {
+        "body": "<${1:i} className=\"far fa-house-day$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-house-day"
+    },
     "far-house-flood": {
         "body": "<${1:i} className=\"far fa-house-flood$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-house-flood"
+    },
+    "far-house-leave": {
+        "body": "<${1:i} className=\"far fa-house-leave$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-house-leave"
+    },
+    "far-house-night": {
+        "body": "<${1:i} className=\"far fa-house-night$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-house-night"
+    },
+    "far-house-return": {
+        "body": "<${1:i} className=\"far fa-house-return$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-house-return"
+    },
+    "far-house-signal": {
+        "body": "<${1:i} className=\"far fa-house-signal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-house-signal"
     },
     "far-houzz": {
         "body": "<${1:i} className=\"far fa-houzz$2\"></${1:i}>$0",
@@ -5288,6 +5463,11 @@
         "body": "<${1:i} className=\"far fa-id-card-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-id-card-alt"
+    },
+    "far-ideal": {
+        "body": "<${1:i} className=\"far fa-ideal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-ideal"
     },
     "far-igloo": {
         "body": "<${1:i} className=\"far fa-igloo$2\"></${1:i}>$0",
@@ -5373,6 +5553,11 @@
         "body": "<${1:i} className=\"far fa-instagram$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-instagram"
+    },
+    "far-instagram-square": {
+        "body": "<${1:i} className=\"far fa-instagram-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-instagram-square"
     },
     "far-integral": {
         "body": "<${1:i} className=\"far fa-integral$2\"></${1:i}>$0",
@@ -5624,6 +5809,16 @@
         "description": "<i>",
         "prefix": "far-lamp"
     },
+    "far-lamp-desk": {
+        "body": "<${1:i} className=\"far fa-lamp-desk$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-lamp-desk"
+    },
+    "far-lamp-floor": {
+        "body": "<${1:i} className=\"far fa-lamp-floor$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-lamp-floor"
+    },
     "far-landmark": {
         "body": "<${1:i} className=\"far fa-landmark$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5778,6 +5973,26 @@
         "body": "<${1:i} className=\"far fa-life-ring$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-life-ring"
+    },
+    "far-light-ceiling": {
+        "body": "<${1:i} className=\"far fa-light-ceiling$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-light-ceiling"
+    },
+    "far-light-switch": {
+        "body": "<${1:i} className=\"far fa-light-switch$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-light-switch"
+    },
+    "far-light-switch-off": {
+        "body": "<${1:i} className=\"far fa-light-switch-off$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-light-switch-off"
+    },
+    "far-light-switch-on": {
+        "body": "<${1:i} className=\"far fa-light-switch-on$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-light-switch-on"
     },
     "far-lightbulb": {
         "body": "<${1:i} className=\"far fa-lightbulb$2\"></${1:i}>$0",
@@ -6274,6 +6489,11 @@
         "description": "<i>",
         "prefix": "far-meteor"
     },
+    "far-microblog": {
+        "body": "<${1:i} className=\"far fa-microblog$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-microblog"
+    },
     "far-microchip": {
         "body": "<${1:i} className=\"far fa-microchip$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6313,6 +6533,11 @@
         "body": "<${1:i} className=\"far fa-microsoft$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-microsoft"
+    },
+    "far-microwave": {
+        "body": "<${1:i} className=\"far fa-microwave$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-microwave"
     },
     "far-mind-share": {
         "body": "<${1:i} className=\"far fa-mind-share$2\"></${1:i}>$0",
@@ -6363,6 +6588,11 @@
         "body": "<${1:i} className=\"far fa-mixcloud$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-mixcloud"
+    },
+    "far-mixer": {
+        "body": "<${1:i} className=\"far fa-mixer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-mixer"
     },
     "far-mizuni": {
         "body": "<${1:i} className=\"far fa-mizuni$2\"></${1:i}>$0",
@@ -6718,6 +6948,16 @@
         "body": "<${1:i} className=\"far fa-outdent$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-outdent"
+    },
+    "far-outlet": {
+        "body": "<${1:i} className=\"far fa-outlet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-outlet"
+    },
+    "far-oven": {
+        "body": "<${1:i} className=\"far fa-oven$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-oven"
     },
     "far-overline": {
         "body": "<${1:i} className=\"far fa-overline$2\"></${1:i}>$0",
@@ -7104,6 +7344,11 @@
         "description": "<i>",
         "prefix": "far-pied-piper-pp"
     },
+    "far-pied-piper-square": {
+        "body": "<${1:i} className=\"far fa-pied-piper-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-pied-piper-square"
+    },
     "far-pig": {
         "body": "<${1:i} className=\"far fa-pig$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7169,6 +7414,16 @@
         "description": "<i>",
         "prefix": "far-plane-departure"
     },
+    "far-planet-moon": {
+        "body": "<${1:i} className=\"far fa-planet-moon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-planet-moon"
+    },
+    "far-planet-ringed": {
+        "body": "<${1:i} className=\"far fa-planet-ringed$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-planet-ringed"
+    },
     "far-play": {
         "body": "<${1:i} className=\"far fa-play$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7229,6 +7484,11 @@
         "description": "<i>",
         "prefix": "far-podium-star"
     },
+    "far-police-box": {
+        "body": "<${1:i} className=\"far fa-police-box$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-police-box"
+    },
     "far-poll": {
         "body": "<${1:i} className=\"far fa-poll$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7263,6 +7523,16 @@
         "body": "<${1:i} className=\"far fa-popcorn$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-popcorn"
+    },
+    "far-portal-enter": {
+        "body": "<${1:i} className=\"far fa-portal-enter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-portal-enter"
+    },
+    "far-portal-exit": {
+        "body": "<${1:i} className=\"far fa-portal-exit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-portal-exit"
     },
     "far-portrait": {
         "body": "<${1:i} className=\"far fa-portrait$2\"></${1:i}>$0",
@@ -7439,6 +7709,11 @@
         "description": "<i>",
         "prefix": "far-racquet"
     },
+    "far-radar": {
+        "body": "<${1:i} className=\"far fa-radar$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-radar"
+    },
     "far-radiation": {
         "body": "<${1:i} className=\"far fa-radiation$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7493,6 +7768,11 @@
         "body": "<${1:i} className=\"far fa-ravelry$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-ravelry"
+    },
+    "far-raygun": {
+        "body": "<${1:i} className=\"far fa-raygun$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-raygun"
     },
     "far-react": {
         "body": "<${1:i} className=\"far fa-react$2\"></${1:i}>$0",
@@ -7578,6 +7858,11 @@
         "body": "<${1:i} className=\"far fa-redo-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-redo-alt"
+    },
+    "far-refrigerator": {
+        "body": "<${1:i} className=\"far fa-refrigerator$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-refrigerator"
     },
     "far-registered": {
         "body": "<${1:i} className=\"far fa-registered$2\"></${1:i}>$0",
@@ -7693,6 +7978,11 @@
         "body": "<${1:i} className=\"far fa-rocket$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-rocket"
+    },
+    "far-rocket-launch": {
+        "body": "<${1:i} className=\"far fa-rocket-launch$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-rocket-launch"
     },
     "far-rocketchat": {
         "body": "<${1:i} className=\"far fa-rocketchat$2\"></${1:i}>$0",
@@ -7994,6 +8284,31 @@
         "description": "<i>",
         "prefix": "far-send-backward"
     },
+    "far-sensor": {
+        "body": "<${1:i} className=\"far fa-sensor$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sensor"
+    },
+    "far-sensor-alert": {
+        "body": "<${1:i} className=\"far fa-sensor-alert$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sensor-alert"
+    },
+    "far-sensor-fire": {
+        "body": "<${1:i} className=\"far fa-sensor-fire$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sensor-fire"
+    },
+    "far-sensor-on": {
+        "body": "<${1:i} className=\"far fa-sensor-on$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sensor-on"
+    },
+    "far-sensor-smoke": {
+        "body": "<${1:i} className=\"far fa-sensor-smoke$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sensor-smoke"
+    },
     "far-server": {
         "body": "<${1:i} className=\"far fa-server$2\"></${1:i}>$0",
         "description": "<i>",
@@ -8093,6 +8408,11 @@
         "body": "<${1:i} className=\"far fa-shoe-prints$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-shoe-prints"
+    },
+    "far-shopify": {
+        "body": "<${1:i} className=\"far fa-shopify$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-shopify"
     },
     "far-shopping-bag": {
         "body": "<${1:i} className=\"far fa-shopping-bag$2\"></${1:i}>$0",
@@ -8258,6 +8578,16 @@
         "body": "<${1:i} className=\"far fa-simplybuilt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-simplybuilt"
+    },
+    "far-siren": {
+        "body": "<${1:i} className=\"far fa-siren$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-siren"
+    },
+    "far-siren-on": {
+        "body": "<${1:i} className=\"far fa-siren-on$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-siren-on"
     },
     "far-sistrix": {
         "body": "<${1:i} className=\"far fa-sistrix$2\"></${1:i}>$0",
@@ -8499,6 +8829,11 @@
         "description": "<i>",
         "prefix": "far-solar-panel"
     },
+    "far-solar-system": {
+        "body": "<${1:i} className=\"far fa-solar-system$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-solar-system"
+    },
     "far-sort": {
         "body": "<${1:i} className=\"far fa-sort$2\"></${1:i}>$0",
         "description": "<i>",
@@ -8548,6 +8883,21 @@
         "body": "<${1:i} className=\"far fa-sort-amount-up-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-sort-amount-up-alt"
+    },
+    "far-sort-circle": {
+        "body": "<${1:i} className=\"far fa-sort-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sort-circle"
+    },
+    "far-sort-circle-down": {
+        "body": "<${1:i} className=\"far fa-sort-circle-down$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sort-circle-down"
+    },
+    "far-sort-circle-up": {
+        "body": "<${1:i} className=\"far fa-sort-circle-up$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sort-circle-up"
     },
     "far-sort-down": {
         "body": "<${1:i} className=\"far fa-sort-down$2\"></${1:i}>$0",
@@ -8644,6 +8994,16 @@
         "description": "<i>",
         "prefix": "far-space-shuttle"
     },
+    "far-space-station-moon": {
+        "body": "<${1:i} className=\"far fa-space-station-moon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-space-station-moon"
+    },
+    "far-space-station-moon-alt": {
+        "body": "<${1:i} className=\"far fa-space-station-moon-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-space-station-moon-alt"
+    },
     "far-spade": {
         "body": "<${1:i} className=\"far fa-spade$2\"></${1:i}>$0",
         "description": "<i>",
@@ -8718,6 +9078,11 @@
         "body": "<${1:i} className=\"far fa-spray-can$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-spray-can"
+    },
+    "far-sprinkler": {
+        "body": "<${1:i} className=\"far fa-sprinkler$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sprinkler"
     },
     "far-square": {
         "body": "<${1:i} className=\"far fa-square$2\"></${1:i}>$0",
@@ -8814,10 +9179,35 @@
         "description": "<i>",
         "prefix": "far-star-of-life"
     },
+    "far-star-shooting": {
+        "body": "<${1:i} className=\"far fa-star-shooting$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-star-shooting"
+    },
+    "far-starfighter": {
+        "body": "<${1:i} className=\"far fa-starfighter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-starfighter"
+    },
+    "far-starfighter-alt": {
+        "body": "<${1:i} className=\"far fa-starfighter-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-starfighter-alt"
+    },
     "far-stars": {
         "body": "<${1:i} className=\"far fa-stars$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-stars"
+    },
+    "far-starship": {
+        "body": "<${1:i} className=\"far fa-starship$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-starship"
+    },
+    "far-starship-freighter": {
+        "body": "<${1:i} className=\"far fa-starship-freighter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-starship-freighter"
     },
     "far-staylinked": {
         "body": "<${1:i} className=\"far fa-staylinked$2\"></${1:i}>$0",
@@ -9069,10 +9459,25 @@
         "description": "<i>",
         "prefix": "far-sword"
     },
+    "far-sword-laser": {
+        "body": "<${1:i} className=\"far fa-sword-laser$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sword-laser"
+    },
+    "far-sword-laser-alt": {
+        "body": "<${1:i} className=\"far fa-sword-laser-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-sword-laser-alt"
+    },
     "far-swords": {
         "body": "<${1:i} className=\"far fa-swords$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-swords"
+    },
+    "far-swords-laser": {
+        "body": "<${1:i} className=\"far fa-swords-laser$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-swords-laser"
     },
     "far-symfony": {
         "body": "<${1:i} className=\"far fa-symfony$2\"></${1:i}>$0",
@@ -9269,6 +9674,16 @@
         "description": "<i>",
         "prefix": "far-telegram-plane"
     },
+    "far-telescope": {
+        "body": "<${1:i} className=\"far fa-telescope$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-telescope"
+    },
+    "far-temperature-down": {
+        "body": "<${1:i} className=\"far fa-temperature-down$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-temperature-down"
+    },
     "far-temperature-frigid": {
         "body": "<${1:i} className=\"far fa-temperature-frigid$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9288,6 +9703,11 @@
         "body": "<${1:i} className=\"far fa-temperature-low$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-temperature-low"
+    },
+    "far-temperature-up": {
+        "body": "<${1:i} className=\"far fa-temperature-up$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-temperature-up"
     },
     "far-tencent-weibo": {
         "body": "<${1:i} className=\"far fa-tencent-weibo$2\"></${1:i}>$0",
@@ -9619,6 +10039,11 @@
         "description": "<i>",
         "prefix": "far-traffic-light-stop"
     },
+    "far-trailer": {
+        "body": "<${1:i} className=\"far fa-trailer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-trailer"
+    },
     "far-train": {
         "body": "<${1:i} className=\"far fa-train$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9638,6 +10063,31 @@
         "body": "<${1:i} className=\"far fa-transgender-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-transgender-alt"
+    },
+    "far-transporter": {
+        "body": "<${1:i} className=\"far fa-transporter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-transporter"
+    },
+    "far-transporter-1": {
+        "body": "<${1:i} className=\"far fa-transporter-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-transporter-1"
+    },
+    "far-transporter-2": {
+        "body": "<${1:i} className=\"far fa-transporter-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-transporter-2"
+    },
+    "far-transporter-3": {
+        "body": "<${1:i} className=\"far fa-transporter-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-transporter-3"
+    },
+    "far-transporter-empty": {
+        "body": "<${1:i} className=\"far fa-transporter-empty$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-transporter-empty"
     },
     "far-trash": {
         "body": "<${1:i} className=\"far fa-trash$2\"></${1:i}>$0",
@@ -9879,6 +10329,16 @@
         "description": "<i>",
         "prefix": "far-ubuntu"
     },
+    "far-ufo": {
+        "body": "<${1:i} className=\"far fa-ufo$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-ufo"
+    },
+    "far-ufo-beam": {
+        "body": "<${1:i} className=\"far fa-ufo-beam$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-ufo-beam"
+    },
     "far-uikit": {
         "body": "<${1:i} className=\"far fa-uikit$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9928,6 +10388,11 @@
         "body": "<${1:i} className=\"far fa-uniregistry$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-uniregistry"
+    },
+    "far-unity": {
+        "body": "<${1:i} className=\"far fa-unity$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-unity"
     },
     "far-universal-access": {
         "body": "<${1:i} className=\"far fa-universal-access$2\"></${1:i}>$0",
@@ -9993,6 +10458,11 @@
         "body": "<${1:i} className=\"far fa-user$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-user"
+    },
+    "far-user-alien": {
+        "body": "<${1:i} className=\"far fa-user-alien$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-user-alien"
     },
     "far-user-alt": {
         "body": "<${1:i} className=\"far fa-user-alt$2\"></${1:i}>$0",
@@ -10114,6 +10584,11 @@
         "description": "<i>",
         "prefix": "far-user-plus"
     },
+    "far-user-robot": {
+        "body": "<${1:i} className=\"far fa-user-robot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-user-robot"
+    },
     "far-user-secret": {
         "body": "<${1:i} className=\"far fa-user-secret$2\"></${1:i}>$0",
         "description": "<i>",
@@ -10143,6 +10618,16 @@
         "body": "<${1:i} className=\"far fa-user-times$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-user-times"
+    },
+    "far-user-unlock": {
+        "body": "<${1:i} className=\"far fa-user-unlock$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-user-unlock"
+    },
+    "far-user-visor": {
+        "body": "<${1:i} className=\"far fa-user-visor$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-user-visor"
     },
     "far-users": {
         "body": "<${1:i} className=\"far fa-users$2\"></${1:i}>$0",
@@ -10208,6 +10693,16 @@
         "body": "<${1:i} className=\"far fa-vaadin$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-vaadin"
+    },
+    "far-vacuum": {
+        "body": "<${1:i} className=\"far fa-vacuum$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-vacuum"
+    },
+    "far-vacuum-robot": {
+        "body": "<${1:i} className=\"far fa-vacuum-robot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-vacuum-robot"
     },
     "far-value-absolute": {
         "body": "<${1:i} className=\"far fa-value-absolute$2\"></${1:i}>$0",
@@ -10623,6 +11118,16 @@
         "body": "<${1:i} className=\"far fa-window-close$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-window-close"
+    },
+    "far-window-frame": {
+        "body": "<${1:i} className=\"far fa-window-frame$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-window-frame"
+    },
+    "far-window-frame-open": {
+        "body": "<${1:i} className=\"far fa-window-frame-open$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-window-frame-open"
     },
     "far-window-maximize": {
         "body": "<${1:i} className=\"far fa-window-maximize$2\"></${1:i}>$0",

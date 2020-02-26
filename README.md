@@ -5,8 +5,6 @@
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.icon-fonts.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 [![CircleCI](https://flat.badgen.net/circleci/github/idleberg/vscode-icon-fonts)](https://circleci.com/gh/idleberg/vscode-icon-fonts)
 
-**Note:** *As of v1.9, this package supports all __Font Awesome v5__ icons. If you need to continue the old __Font Awesome v4__ icons, please install the* [`icon-fonts-legacy`](https://github.com/idleberg/vscode-icon-fonts-legacy) *package via Extension Marketplace!*
-
 Snippets for a variety of icon fonts ([see details](https://github.com/idleberg/vscode-icon-fonts#prefixes)).
 
 This package is also available for [Atom](https://github.com/idleberg/atom-icon-fonts) and [Sublime Text](https://github.com/idleberg/sublime-icon-fonts).

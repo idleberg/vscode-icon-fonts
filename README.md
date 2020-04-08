@@ -19,14 +19,26 @@ This package is also available for [Atom](https://github.com/idleberg/atom-icon-
 
 Launch Quick Open, paste the following command, and press <kbd>Enter</kbd>
 
-`ext install icon-fonts`
+`ext install idleberg.icon-fonts`
+
+### CLI
+
+With [shell commands](https://code.visualstudio.com/docs/editor/command-line) installed, you can use the following command to install the extension:
+
+`$ code --install-extension idleberg.icon-fonts`
 
 ### Packaged Extension
 
-Download the package extension from the the [release page](https://github.com/idleberg/vscode-icon-fonts/releases) and install it from the command-line:
+Download the packaged extension from the the [release page](https://github.com/idleberg/vscode-icon-fonts/releases) and install it from the command-line:
 
 ```bash
-$ code --install-extension icon-font-*.vsix
+$ code --install-extension path/to/icon-fonts-*.vsix
+```
+
+Alternatively, you can download the packaged extension from the [Open VSX Registry](https://open-vsx.org/) or using the [`ovsx`](https://www.npmjs.com/package/ovsx) command-line tool:
+
+```bash
+$ ovsx get idleberg.icon-fonts
 ```
 
 ### Clone Repository

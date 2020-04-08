@@ -326,14 +326,6 @@
             },
             {
                 "language": "blade",
-                "path": "./snippets/html/__cdnjs.json"
-            },
-            {
-                "language": "blade",
-                "path": "./snippets/html/__jsdelivr.json"
-            },
-            {
-                "language": "blade",
                 "path": "./snippets/html/ai.json"
             },
             {
@@ -526,14 +518,6 @@
             },
             {
                 "language": "javascriptreact",
-                "path": "./snippets/html/__cdnjs.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/html/__jsdelivr.json"
-            },
-            {
-                "language": "javascriptreact",
                 "path": "./snippets/jsx/ai.json"
             },
             {
@@ -639,14 +623,6 @@
             {
                 "language": "javascriptreact",
                 "path": "./snippets/jsx/zmdi.json"
-            },
-            {
-                "language": "vue-html",
-                "path": "./snippets/html/__cdnjs.json"
-            },
-            {
-                "language": "vue-html",
-                "path": "./snippets/html/__jsdelivr.json"
             },
             {
                 "language": "vue-html",

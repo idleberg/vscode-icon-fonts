@@ -679,6 +679,16 @@
         "description": "content",
         "prefix": "fas-bacon"
     },
+    "fas-bacteria": {
+        "body": "content: '\\\\f959';$0",
+        "description": "content",
+        "prefix": "fas-bacteria"
+    },
+    "fas-bacterium": {
+        "body": "content: '\\\\f95a';$0",
+        "description": "content",
+        "prefix": "fas-bacterium"
+    },
     "fas-badge": {
         "body": "content: '\\\\f335';$0",
         "description": "content",
@@ -1298,6 +1308,11 @@
         "body": "content: '\\\\f49e';$0",
         "description": "content",
         "prefix": "fas-box-open"
+    },
+    "fas-box-tissue": {
+        "body": "content: '\\\\f95b';$0",
+        "description": "content",
+        "prefix": "fas-box-tissue"
     },
     "fas-box-up": {
         "body": "content: '\\\\f49f';$0",
@@ -4914,6 +4929,11 @@
         "description": "content",
         "prefix": "fas-hand-holding-magic"
     },
+    "fas-hand-holding-medical": {
+        "body": "content: '\\\\f95c';$0",
+        "description": "content",
+        "prefix": "fas-hand-holding-medical"
+    },
     "fas-hand-holding-seedling": {
         "body": "content: '\\\\f4bf';$0",
         "description": "content",
@@ -4989,6 +5009,11 @@
         "description": "content",
         "prefix": "fas-hand-scissors"
     },
+    "fas-hand-sparkles": {
+        "body": "content: '\\\\f95d';$0",
+        "description": "content",
+        "prefix": "fas-hand-sparkles"
+    },
     "fas-hand-spock": {
         "body": "content: '\\\\f259';$0",
         "description": "content",
@@ -5014,6 +5039,11 @@
         "description": "content",
         "prefix": "fas-hands-usd"
     },
+    "fas-hands-wash": {
+        "body": "content: '\\\\f95e';$0",
+        "description": "content",
+        "prefix": "fas-hands-wash"
+    },
     "fas-handshake": {
         "body": "content: '\\\\f2b5';$0",
         "description": "content",
@@ -5023,6 +5053,16 @@
         "body": "content: '\\\\f4c6';$0",
         "description": "content",
         "prefix": "fas-handshake-alt"
+    },
+    "fas-handshake-alt-slash": {
+        "body": "content: '\\\\f95f';$0",
+        "description": "content",
+        "prefix": "fas-handshake-alt-slash"
+    },
+    "fas-handshake-slash": {
+        "body": "content: '\\\\f960';$0",
+        "description": "content",
+        "prefix": "fas-handshake-slash"
     },
     "fas-hanukiah": {
         "body": "content: '\\\\f6e6';$0",
@@ -5089,15 +5129,35 @@
         "description": "content",
         "prefix": "fas-head-side-brain"
     },
+    "fas-head-side-cough": {
+        "body": "content: '\\\\f961';$0",
+        "description": "content",
+        "prefix": "fas-head-side-cough"
+    },
+    "fas-head-side-cough-slash": {
+        "body": "content: '\\\\f962';$0",
+        "description": "content",
+        "prefix": "fas-head-side-cough-slash"
+    },
     "fas-head-side-headphones": {
         "body": "content: '\\\\f8c2';$0",
         "description": "content",
         "prefix": "fas-head-side-headphones"
     },
+    "fas-head-side-mask": {
+        "body": "content: '\\\\f963';$0",
+        "description": "content",
+        "prefix": "fas-head-side-mask"
+    },
     "fas-head-side-medical": {
         "body": "content: '\\\\f809';$0",
         "description": "content",
         "prefix": "fas-head-side-medical"
+    },
+    "fas-head-side-virus": {
+        "body": "content: '\\\\f964';$0",
+        "description": "content",
+        "prefix": "fas-head-side-virus"
     },
     "fas-head-vr": {
         "body": "content: '\\\\f6ea';$0",
@@ -5388,6 +5448,11 @@
         "body": "content: '\\\\f912';$0",
         "description": "content",
         "prefix": "fas-house-signal"
+    },
+    "fas-house-user": {
+        "body": "content: '\\\\f965';$0",
+        "description": "content",
+        "prefix": "fas-house-user"
     },
     "fas-houzz": {
         "body": "content: '\\\\f27c';$0",
@@ -5844,6 +5909,11 @@
         "description": "content",
         "prefix": "fas-laptop-code"
     },
+    "fas-laptop-house": {
+        "body": "content: '\\\\f966';$0",
+        "description": "content",
+        "prefix": "fas-laptop-house"
+    },
     "fas-laptop-medical": {
         "body": "content: '\\\\f812';$0",
         "description": "content",
@@ -6203,6 +6273,11 @@
         "body": "content: '\\\\f604';$0",
         "description": "content",
         "prefix": "fas-lungs"
+    },
+    "fas-lungs-virus": {
+        "body": "content: '\\\\f967';$0",
+        "description": "content",
+        "prefix": "fas-lungs-virus"
     },
     "fas-lyft": {
         "body": "content: '\\\\f3c3';$0",
@@ -7179,6 +7254,11 @@
         "description": "content",
         "prefix": "fas-penny-arcade"
     },
+    "fas-people-arrows": {
+        "body": "content: '\\\\f968';$0",
+        "description": "content",
+        "prefix": "fas-people-arrows"
+    },
     "fas-people-carry": {
         "body": "content: '\\\\f4ce';$0",
         "description": "content",
@@ -7414,6 +7494,11 @@
         "description": "content",
         "prefix": "fas-plane-departure"
     },
+    "fas-plane-slash": {
+        "body": "content: '\\\\f969';$0",
+        "description": "content",
+        "prefix": "fas-plane-slash"
+    },
     "fas-planet-moon": {
         "body": "content: '\\\\f91f';$0",
         "description": "content",
@@ -7613,6 +7698,16 @@
         "body": "content: '\\\\f8d6';$0",
         "description": "content",
         "prefix": "fas-projector"
+    },
+    "fas-pump-medical": {
+        "body": "content: '\\\\f96a';$0",
+        "description": "content",
+        "prefix": "fas-pump-medical"
+    },
+    "fas-pump-soap": {
+        "body": "content: '\\\\f96b';$0",
+        "description": "content",
+        "prefix": "fas-pump-soap"
     },
     "fas-pumpkin": {
         "body": "content: '\\\\f707';$0",
@@ -8379,6 +8474,11 @@
         "description": "content",
         "prefix": "fas-shield-cross"
     },
+    "fas-shield-virus": {
+        "body": "content: '\\\\f96c';$0",
+        "description": "content",
+        "prefix": "fas-shield-virus"
+    },
     "fas-ship": {
         "body": "content: '\\\\f21a';$0",
         "description": "content",
@@ -8578,6 +8678,11 @@
         "body": "content: '\\\\f215';$0",
         "description": "content",
         "prefix": "fas-simplybuilt"
+    },
+    "fas-sink": {
+        "body": "content: '\\\\f96d';$0",
+        "description": "content",
+        "prefix": "fas-sink"
     },
     "fas-siren": {
         "body": "content: '\\\\f92d';$0",
@@ -8818,6 +8923,11 @@
         "body": "content: '\\\\f7d2';$0",
         "description": "content",
         "prefix": "fas-snowplow"
+    },
+    "fas-soap": {
+        "body": "content: '\\\\f96e';$0",
+        "description": "content",
+        "prefix": "fas-soap"
     },
     "fas-socks": {
         "body": "content: '\\\\f696';$0",
@@ -9289,6 +9399,11 @@
         "description": "content",
         "prefix": "fas-stopwatch"
     },
+    "fas-stopwatch-20": {
+        "body": "content: '\\\\f96f';$0",
+        "description": "content",
+        "prefix": "fas-stopwatch-20"
+    },
     "fas-store": {
         "body": "content: '\\\\f54e';$0",
         "description": "content",
@@ -9298,6 +9413,16 @@
         "body": "content: '\\\\f54f';$0",
         "description": "content",
         "prefix": "fas-store-alt"
+    },
+    "fas-store-alt-slash": {
+        "body": "content: '\\\\f970';$0",
+        "description": "content",
+        "prefix": "fas-store-alt-slash"
+    },
+    "fas-store-slash": {
+        "body": "content: '\\\\f971';$0",
+        "description": "content",
+        "prefix": "fas-store-slash"
     },
     "fas-strava": {
         "body": "content: '\\\\f428';$0",
@@ -9953,6 +10078,11 @@
         "body": "content: '\\\\f71f';$0",
         "description": "content",
         "prefix": "fas-toilet-paper-alt"
+    },
+    "fas-toilet-paper-slash": {
+        "body": "content: '\\\\f972';$0",
+        "description": "content",
+        "prefix": "fas-toilet-paper-slash"
     },
     "fas-tombstone": {
         "body": "content: '\\\\f720';$0",
@@ -10654,6 +10784,11 @@
         "description": "content",
         "prefix": "fas-users-medical"
     },
+    "fas-users-slash": {
+        "body": "content: '\\\\f973';$0",
+        "description": "content",
+        "prefix": "fas-users-slash"
+    },
     "fas-usps": {
         "body": "content: '\\\\f7e1';$0",
         "description": "content",
@@ -10808,6 +10943,21 @@
         "body": "content: '\\\\f8ed';$0",
         "description": "content",
         "prefix": "fas-violin"
+    },
+    "fas-virus": {
+        "body": "content: '\\\\f974';$0",
+        "description": "content",
+        "prefix": "fas-virus"
+    },
+    "fas-virus-slash": {
+        "body": "content: '\\\\f975';$0",
+        "description": "content",
+        "prefix": "fas-virus-slash"
+    },
+    "fas-viruses": {
+        "body": "content: '\\\\f976';$0",
+        "description": "content",
+        "prefix": "fas-viruses"
     },
     "fas-vk": {
         "body": "content: '\\\\f189';$0",

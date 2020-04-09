@@ -679,6 +679,16 @@
         "description": "<i>",
         "prefix": "fas-bacon"
     },
+    "fas-bacteria": {
+        "body": "<${1:i} class=\"fas fa-bacteria$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-bacteria"
+    },
+    "fas-bacterium": {
+        "body": "<${1:i} class=\"fas fa-bacterium$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-bacterium"
+    },
     "fas-badge": {
         "body": "<${1:i} class=\"fas fa-badge$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1298,6 +1308,11 @@
         "body": "<${1:i} class=\"fas fa-box-open$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-box-open"
+    },
+    "fas-box-tissue": {
+        "body": "<${1:i} class=\"fas fa-box-tissue$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-box-tissue"
     },
     "fas-box-up": {
         "body": "<${1:i} class=\"fas fa-box-up$2\"></${1:i}>$0",
@@ -4914,6 +4929,11 @@
         "description": "<i>",
         "prefix": "fas-hand-holding-magic"
     },
+    "fas-hand-holding-medical": {
+        "body": "<${1:i} class=\"fas fa-hand-holding-medical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-hand-holding-medical"
+    },
     "fas-hand-holding-seedling": {
         "body": "<${1:i} class=\"fas fa-hand-holding-seedling$2\"></${1:i}>$0",
         "description": "<i>",
@@ -4989,6 +5009,11 @@
         "description": "<i>",
         "prefix": "fas-hand-scissors"
     },
+    "fas-hand-sparkles": {
+        "body": "<${1:i} class=\"fas fa-hand-sparkles$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-hand-sparkles"
+    },
     "fas-hand-spock": {
         "body": "<${1:i} class=\"fas fa-hand-spock$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5014,6 +5039,11 @@
         "description": "<i>",
         "prefix": "fas-hands-usd"
     },
+    "fas-hands-wash": {
+        "body": "<${1:i} class=\"fas fa-hands-wash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-hands-wash"
+    },
     "fas-handshake": {
         "body": "<${1:i} class=\"fas fa-handshake$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5023,6 +5053,16 @@
         "body": "<${1:i} class=\"fas fa-handshake-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-handshake-alt"
+    },
+    "fas-handshake-alt-slash": {
+        "body": "<${1:i} class=\"fas fa-handshake-alt-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-handshake-alt-slash"
+    },
+    "fas-handshake-slash": {
+        "body": "<${1:i} class=\"fas fa-handshake-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-handshake-slash"
     },
     "fas-hanukiah": {
         "body": "<${1:i} class=\"fas fa-hanukiah$2\"></${1:i}>$0",
@@ -5089,15 +5129,35 @@
         "description": "<i>",
         "prefix": "fas-head-side-brain"
     },
+    "fas-head-side-cough": {
+        "body": "<${1:i} class=\"fas fa-head-side-cough$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-head-side-cough"
+    },
+    "fas-head-side-cough-slash": {
+        "body": "<${1:i} class=\"fas fa-head-side-cough-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-head-side-cough-slash"
+    },
     "fas-head-side-headphones": {
         "body": "<${1:i} class=\"fas fa-head-side-headphones$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-head-side-headphones"
     },
+    "fas-head-side-mask": {
+        "body": "<${1:i} class=\"fas fa-head-side-mask$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-head-side-mask"
+    },
     "fas-head-side-medical": {
         "body": "<${1:i} class=\"fas fa-head-side-medical$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-head-side-medical"
+    },
+    "fas-head-side-virus": {
+        "body": "<${1:i} class=\"fas fa-head-side-virus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-head-side-virus"
     },
     "fas-head-vr": {
         "body": "<${1:i} class=\"fas fa-head-vr$2\"></${1:i}>$0",
@@ -5388,6 +5448,11 @@
         "body": "<${1:i} class=\"fas fa-house-signal$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-house-signal"
+    },
+    "fas-house-user": {
+        "body": "<${1:i} class=\"fas fa-house-user$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-house-user"
     },
     "fas-houzz": {
         "body": "<${1:i} class=\"fas fa-houzz$2\"></${1:i}>$0",
@@ -5844,6 +5909,11 @@
         "description": "<i>",
         "prefix": "fas-laptop-code"
     },
+    "fas-laptop-house": {
+        "body": "<${1:i} class=\"fas fa-laptop-house$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-laptop-house"
+    },
     "fas-laptop-medical": {
         "body": "<${1:i} class=\"fas fa-laptop-medical$2\"></${1:i}>$0",
         "description": "<i>",
@@ -6203,6 +6273,11 @@
         "body": "<${1:i} class=\"fas fa-lungs$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-lungs"
+    },
+    "fas-lungs-virus": {
+        "body": "<${1:i} class=\"fas fa-lungs-virus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-lungs-virus"
     },
     "fas-lyft": {
         "body": "<${1:i} class=\"fas fa-lyft$2\"></${1:i}>$0",
@@ -7179,6 +7254,11 @@
         "description": "<i>",
         "prefix": "fas-penny-arcade"
     },
+    "fas-people-arrows": {
+        "body": "<${1:i} class=\"fas fa-people-arrows$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-people-arrows"
+    },
     "fas-people-carry": {
         "body": "<${1:i} class=\"fas fa-people-carry$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7414,6 +7494,11 @@
         "description": "<i>",
         "prefix": "fas-plane-departure"
     },
+    "fas-plane-slash": {
+        "body": "<${1:i} class=\"fas fa-plane-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-plane-slash"
+    },
     "fas-planet-moon": {
         "body": "<${1:i} class=\"fas fa-planet-moon$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7613,6 +7698,16 @@
         "body": "<${1:i} class=\"fas fa-projector$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-projector"
+    },
+    "fas-pump-medical": {
+        "body": "<${1:i} class=\"fas fa-pump-medical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-pump-medical"
+    },
+    "fas-pump-soap": {
+        "body": "<${1:i} class=\"fas fa-pump-soap$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-pump-soap"
     },
     "fas-pumpkin": {
         "body": "<${1:i} class=\"fas fa-pumpkin$2\"></${1:i}>$0",
@@ -8379,6 +8474,11 @@
         "description": "<i>",
         "prefix": "fas-shield-cross"
     },
+    "fas-shield-virus": {
+        "body": "<${1:i} class=\"fas fa-shield-virus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-shield-virus"
+    },
     "fas-ship": {
         "body": "<${1:i} class=\"fas fa-ship$2\"></${1:i}>$0",
         "description": "<i>",
@@ -8578,6 +8678,11 @@
         "body": "<${1:i} class=\"fas fa-simplybuilt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-simplybuilt"
+    },
+    "fas-sink": {
+        "body": "<${1:i} class=\"fas fa-sink$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-sink"
     },
     "fas-siren": {
         "body": "<${1:i} class=\"fas fa-siren$2\"></${1:i}>$0",
@@ -8818,6 +8923,11 @@
         "body": "<${1:i} class=\"fas fa-snowplow$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-snowplow"
+    },
+    "fas-soap": {
+        "body": "<${1:i} class=\"fas fa-soap$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-soap"
     },
     "fas-socks": {
         "body": "<${1:i} class=\"fas fa-socks$2\"></${1:i}>$0",
@@ -9289,6 +9399,11 @@
         "description": "<i>",
         "prefix": "fas-stopwatch"
     },
+    "fas-stopwatch-20": {
+        "body": "<${1:i} class=\"fas fa-stopwatch-20$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-stopwatch-20"
+    },
     "fas-store": {
         "body": "<${1:i} class=\"fas fa-store$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9298,6 +9413,16 @@
         "body": "<${1:i} class=\"fas fa-store-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-store-alt"
+    },
+    "fas-store-alt-slash": {
+        "body": "<${1:i} class=\"fas fa-store-alt-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-store-alt-slash"
+    },
+    "fas-store-slash": {
+        "body": "<${1:i} class=\"fas fa-store-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-store-slash"
     },
     "fas-strava": {
         "body": "<${1:i} class=\"fas fa-strava$2\"></${1:i}>$0",
@@ -9953,6 +10078,11 @@
         "body": "<${1:i} class=\"fas fa-toilet-paper-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-toilet-paper-alt"
+    },
+    "fas-toilet-paper-slash": {
+        "body": "<${1:i} class=\"fas fa-toilet-paper-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-toilet-paper-slash"
     },
     "fas-tombstone": {
         "body": "<${1:i} class=\"fas fa-tombstone$2\"></${1:i}>$0",
@@ -10654,6 +10784,11 @@
         "description": "<i>",
         "prefix": "fas-users-medical"
     },
+    "fas-users-slash": {
+        "body": "<${1:i} class=\"fas fa-users-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-users-slash"
+    },
     "fas-usps": {
         "body": "<${1:i} class=\"fas fa-usps$2\"></${1:i}>$0",
         "description": "<i>",
@@ -10808,6 +10943,21 @@
         "body": "<${1:i} class=\"fas fa-violin$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fas-violin"
+    },
+    "fas-virus": {
+        "body": "<${1:i} class=\"fas fa-virus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-virus"
+    },
+    "fas-virus-slash": {
+        "body": "<${1:i} class=\"fas fa-virus-slash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-virus-slash"
+    },
+    "fas-viruses": {
+        "body": "<${1:i} class=\"fas fa-viruses$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fas-viruses"
     },
     "fas-vk": {
         "body": "<${1:i} class=\"fas fa-vk$2\"></${1:i}>$0",

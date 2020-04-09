@@ -1,3 +1,8 @@
+# v2.2.5 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.2.5)
+
+- bump Font Awesome Pro to v5.13.0
+- bump Material Design Icons to v5.0.45
+
 # v2.2.4 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.2.4)
 
 - bump Font Awesome Pro to v5.12.1

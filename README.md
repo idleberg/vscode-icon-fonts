@@ -93,7 +93,7 @@ Snippets are limited to the `html`, `css|less|sass|scss|stylus`, `jsx`, `blade` 
 | `wi`              | [Weather Icons][wi]                     | 2.0.10  |
 | `zmdi`            | [Material Design Iconic Font][zmdi]     | 2.2.0   |
 
-Several previously supported fonts have been removed and are now available in the [SVG icons](https://github.com/idleberg/vscode-svg-icons) package or the icon fonts [legacy package](https://github.com/idleberg/vscode-icon-fonts-legacy).
+⚠️ Several previously supported fonts have been removed and are now available in the [SVG icons](https://github.com/idleberg/vscode-svg-icons) package or the icon fonts [legacy package](https://github.com/idleberg/vscode-icon-fonts-legacy).
 
 Examples:
 

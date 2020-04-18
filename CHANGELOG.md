@@ -1,3 +1,7 @@
+# v2.3.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.3.0)
+
+- add Svelte support
+
 # v2.2.5 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.2.5)
 
 - bump Font Awesome Pro to v5.13.0

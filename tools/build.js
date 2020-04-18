@@ -91,7 +91,7 @@ const writeCSS = (font, data) => {
 
 const write = (font, data, type = 'html') => {
     const output = {};
-    const scope = (type === 'jsx') ? '.source.js.jsx' : '.text.html';
+    const scope = (type === 'jsx') ? '.source.js.jsx' : '.source.svelte, .text.html';
 
     data.forEach( element => {
         const classProp = (type === 'jsx') ? 'className' : 'class';

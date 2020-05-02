@@ -2364,6 +2364,11 @@
         "description": "content",
         "prefix": "mdi-axis-arrow:"
     },
+    "mdi-axis-arrow-info:": {
+        "body": "content: '\\\\F140E';$0",
+        "description": "content",
+        "prefix": "mdi-axis-arrow-info:"
+    },
     "mdi-axis-arrow-lock:": {
         "body": "content: '\\\\F0D4A';$0",
         "description": "content",
@@ -2458,6 +2463,11 @@
         "body": "content: '\\\\F0F3A';$0",
         "description": "content",
         "prefix": "mdi-baby-bottle-outline:"
+    },
+    "mdi-baby-buggy:": {
+        "body": "content: '\\\\F13E0';$0",
+        "description": "content",
+        "prefix": "mdi-baby-buggy:"
     },
     "mdi-baby-carriage:": {
         "body": "content: '\\\\F068F';$0",
@@ -3244,6 +3254,11 @@
         "description": "content",
         "prefix": "mdi-bee-flower:"
     },
+    "mdi-beehive-off-outline:": {
+        "body": "content: '\\\\F13ED';$0",
+        "description": "content",
+        "prefix": "mdi-beehive-off-outline:"
+    },
     "mdi-beehive-outline:": {
         "body": "content: '\\\\F10CE';$0",
         "description": "content",
@@ -3274,6 +3289,16 @@
         "description": "content",
         "prefix": "mdi-bell-alert-outline:"
     },
+    "mdi-bell-cancel:": {
+        "body": "content: '\\\\F13E7';$0",
+        "description": "content",
+        "prefix": "mdi-bell-cancel:"
+    },
+    "mdi-bell-cancel-outline:": {
+        "body": "content: '\\\\F13E8';$0",
+        "description": "content",
+        "prefix": "mdi-bell-cancel-outline:"
+    },
     "mdi-bell-check:": {
         "body": "content: '\\\\F11E5';$0",
         "description": "content",
@@ -3293,6 +3318,16 @@
         "body": "content: '\\\\F0D5B';$0",
         "description": "content",
         "prefix": "mdi-bell-circle-outline:"
+    },
+    "mdi-bell-minus:": {
+        "body": "content: '\\\\F13E9';$0",
+        "description": "content",
+        "prefix": "mdi-bell-minus:"
+    },
+    "mdi-bell-minus-outline:": {
+        "body": "content: '\\\\F13EA';$0",
+        "description": "content",
+        "prefix": "mdi-bell-minus-outline:"
     },
     "mdi-bell-off:": {
         "body": "content: '\\\\F009B';$0",
@@ -3318,6 +3353,16 @@
         "body": "content: '\\\\F0A92';$0",
         "description": "content",
         "prefix": "mdi-bell-plus-outline:"
+    },
+    "mdi-bell-remove:": {
+        "body": "content: '\\\\F13EB';$0",
+        "description": "content",
+        "prefix": "mdi-bell-remove:"
+    },
+    "mdi-bell-remove-outline:": {
+        "body": "content: '\\\\F13EC';$0",
+        "description": "content",
+        "prefix": "mdi-bell-remove-outline:"
     },
     "mdi-bell-ring:": {
         "body": "content: '\\\\F009E';$0",
@@ -4219,6 +4264,16 @@
         "description": "content",
         "prefix": "mdi-brush:"
     },
+    "mdi-bucket:": {
+        "body": "content: '\\\\F1415';$0",
+        "description": "content",
+        "prefix": "mdi-bucket:"
+    },
+    "mdi-bucket-outline:": {
+        "body": "content: '\\\\F1416';$0",
+        "description": "content",
+        "prefix": "mdi-bucket-outline:"
+    },
     "mdi-buddhism:": {
         "body": "content: '\\\\F094B';$0",
         "description": "content",
@@ -4904,6 +4959,11 @@
         "description": "content",
         "prefix": "mdi-car-clutch:"
     },
+    "mdi-car-cog:": {
+        "body": "content: '\\\\F13CC';$0",
+        "description": "content",
+        "prefix": "mdi-car-cog:"
+    },
     "mdi-car-connected:": {
         "body": "content: '\\\\F010D';$0",
         "description": "content",
@@ -5028,6 +5088,11 @@
         "body": "content: '\\\\F0FA6';$0",
         "description": "content",
         "prefix": "mdi-car-seat-heater:"
+    },
+    "mdi-car-settings:": {
+        "body": "content: '\\\\F13CD';$0",
+        "description": "content",
+        "prefix": "mdi-car-settings:"
     },
     "mdi-car-shift-pattern:": {
         "body": "content: '\\\\F0F40';$0",
@@ -5699,10 +5764,30 @@
         "description": "content",
         "prefix": "mdi-chat-alert-outline:"
     },
+    "mdi-chat-minus:": {
+        "body": "content: '\\\\F1410';$0",
+        "description": "content",
+        "prefix": "mdi-chat-minus:"
+    },
+    "mdi-chat-minus-outline:": {
+        "body": "content: '\\\\F1413';$0",
+        "description": "content",
+        "prefix": "mdi-chat-minus-outline:"
+    },
     "mdi-chat-outline:": {
         "body": "content: '\\\\F0EDE';$0",
         "description": "content",
         "prefix": "mdi-chat-outline:"
+    },
+    "mdi-chat-plus:": {
+        "body": "content: '\\\\F140F';$0",
+        "description": "content",
+        "prefix": "mdi-chat-plus:"
+    },
+    "mdi-chat-plus-outline:": {
+        "body": "content: '\\\\F1412';$0",
+        "description": "content",
+        "prefix": "mdi-chat-plus-outline:"
     },
     "mdi-chat-processing:": {
         "body": "content: '\\\\F0B7B';$0",
@@ -5713,6 +5798,16 @@
         "body": "content: '\\\\F12CA';$0",
         "description": "content",
         "prefix": "mdi-chat-processing-outline:"
+    },
+    "mdi-chat-remove:": {
+        "body": "content: '\\\\F1411';$0",
+        "description": "content",
+        "prefix": "mdi-chat-remove:"
+    },
+    "mdi-chat-remove-outline:": {
+        "body": "content: '\\\\F1414';$0",
+        "description": "content",
+        "prefix": "mdi-chat-remove-outline:"
     },
     "mdi-chat-sleep:": {
         "body": "content: '\\\\F12D1';$0",
@@ -5918,6 +6013,11 @@
         "body": "content: '\\\\F12B9';$0",
         "description": "content",
         "prefix": "mdi-cheese:"
+    },
+    "mdi-cheese-off:": {
+        "body": "content: '\\\\F13EE';$0",
+        "description": "content",
+        "prefix": "mdi-cheese-off:"
     },
     "mdi-chef-hat:": {
         "body": "content: '\\\\F0B7C';$0",
@@ -6889,6 +6989,16 @@
         "description": "content",
         "prefix": "mdi-cog-counterclockwise:"
     },
+    "mdi-cog-off:": {
+        "body": "content: '\\\\F13CE';$0",
+        "description": "content",
+        "prefix": "mdi-cog-off:"
+    },
+    "mdi-cog-off-outline:": {
+        "body": "content: '\\\\F13CF';$0",
+        "description": "content",
+        "prefix": "mdi-cog-off-outline:"
+    },
     "mdi-cog-outline:": {
         "body": "content: '\\\\F08BB';$0",
         "description": "content",
@@ -7354,6 +7464,11 @@
         "description": "content",
         "prefix": "mdi-corn:"
     },
+    "mdi-corn-off:": {
+        "body": "content: '\\\\F13EF';$0",
+        "description": "content",
+        "prefix": "mdi-corn-off:"
+    },
     "mdi-counter:": {
         "body": "content: '\\\\F0199';$0",
         "description": "content",
@@ -7393,6 +7508,16 @@
         "body": "content: '\\\\F0FEF';$0",
         "description": "content",
         "prefix": "mdi-credit-card:"
+    },
+    "mdi-credit-card-check:": {
+        "body": "content: '\\\\F13D0';$0",
+        "description": "content",
+        "prefix": "mdi-credit-card-check:"
+    },
+    "mdi-credit-card-check-outline:": {
+        "body": "content: '\\\\F13D1';$0",
+        "description": "content",
+        "prefix": "mdi-credit-card-check-outline:"
     },
     "mdi-credit-card-clock:": {
         "body": "content: '\\\\F0EE1';$0",
@@ -8784,15 +8909,45 @@
         "description": "content",
         "prefix": "mdi-earth-box:"
     },
+    "mdi-earth-box-minus:": {
+        "body": "content: '\\\\F1407';$0",
+        "description": "content",
+        "prefix": "mdi-earth-box-minus:"
+    },
     "mdi-earth-box-off:": {
         "body": "content: '\\\\F06CE';$0",
         "description": "content",
         "prefix": "mdi-earth-box-off:"
     },
+    "mdi-earth-box-plus:": {
+        "body": "content: '\\\\F1406';$0",
+        "description": "content",
+        "prefix": "mdi-earth-box-plus:"
+    },
+    "mdi-earth-box-remove:": {
+        "body": "content: '\\\\F1408';$0",
+        "description": "content",
+        "prefix": "mdi-earth-box-remove:"
+    },
+    "mdi-earth-minus:": {
+        "body": "content: '\\\\F1404';$0",
+        "description": "content",
+        "prefix": "mdi-earth-minus:"
+    },
     "mdi-earth-off:": {
         "body": "content: '\\\\F01E8';$0",
         "description": "content",
         "prefix": "mdi-earth-off:"
+    },
+    "mdi-earth-plus:": {
+        "body": "content: '\\\\F1403';$0",
+        "description": "content",
+        "prefix": "mdi-earth-plus:"
+    },
+    "mdi-earth-remove:": {
+        "body": "content: '\\\\F1405';$0",
+        "description": "content",
+        "prefix": "mdi-earth-remove:"
     },
     "mdi-egg:": {
         "body": "content: '\\\\F0AAF';$0",
@@ -8803,6 +8958,21 @@
         "body": "content: '\\\\F0AB0';$0",
         "description": "content",
         "prefix": "mdi-egg-easter:"
+    },
+    "mdi-egg-off:": {
+        "body": "content: '\\\\F13F0';$0",
+        "description": "content",
+        "prefix": "mdi-egg-off:"
+    },
+    "mdi-egg-off-outline:": {
+        "body": "content: '\\\\F13F1';$0",
+        "description": "content",
+        "prefix": "mdi-egg-off-outline:"
+    },
+    "mdi-egg-outline:": {
+        "body": "content: '\\\\F13F2';$0",
+        "description": "content",
+        "prefix": "mdi-egg-outline:"
     },
     "mdi-eight-track:": {
         "body": "content: '\\\\F09EA';$0",
@@ -8953,6 +9123,16 @@
         "body": "content: '\\\\F0FB1';$0",
         "description": "content",
         "prefix": "mdi-email-newsletter:"
+    },
+    "mdi-email-off:": {
+        "body": "content: '\\\\F13E3';$0",
+        "description": "content",
+        "prefix": "mdi-email-off:"
+    },
+    "mdi-email-off-outline:": {
+        "body": "content: '\\\\F13E4';$0",
+        "description": "content",
+        "prefix": "mdi-email-off-outline:"
     },
     "mdi-email-open:": {
         "body": "content: '\\\\F01EF';$0",
@@ -9468,6 +9648,26 @@
         "body": "content: '\\\\F020A';$0",
         "description": "content",
         "prefix": "mdi-eyedropper:"
+    },
+    "mdi-eyedropper-minus:": {
+        "body": "content: '\\\\F13DD';$0",
+        "description": "content",
+        "prefix": "mdi-eyedropper-minus:"
+    },
+    "mdi-eyedropper-off:": {
+        "body": "content: '\\\\F13DF';$0",
+        "description": "content",
+        "prefix": "mdi-eyedropper-off:"
+    },
+    "mdi-eyedropper-plus:": {
+        "body": "content: '\\\\F13DC';$0",
+        "description": "content",
+        "prefix": "mdi-eyedropper-plus:"
+    },
+    "mdi-eyedropper-remove:": {
+        "body": "content: '\\\\F13DE';$0",
+        "description": "content",
+        "prefix": "mdi-eyedropper-remove:"
     },
     "mdi-eyedropper-variant:": {
         "body": "content: '\\\\F020B';$0",
@@ -10139,6 +10339,11 @@
         "description": "content",
         "prefix": "mdi-file-tree:"
     },
+    "mdi-file-tree-outline:": {
+        "body": "content: '\\\\F13D2';$0",
+        "description": "content",
+        "prefix": "mdi-file-tree-outline:"
+    },
     "mdi-file-undo:": {
         "body": "content: '\\\\F08DC';$0",
         "description": "content",
@@ -10364,6 +10569,11 @@
         "description": "content",
         "prefix": "mdi-fish:"
     },
+    "mdi-fish-off:": {
+        "body": "content: '\\\\F13F3';$0",
+        "description": "content",
+        "prefix": "mdi-fish-off:"
+    },
     "mdi-fishbowl:": {
         "body": "content: '\\\\F0EF3';$0",
         "description": "content",
@@ -10519,6 +10729,16 @@
         "description": "content",
         "prefix": "mdi-flask-empty-minus-outline:"
     },
+    "mdi-flask-empty-off:": {
+        "body": "content: '\\\\F13F4';$0",
+        "description": "content",
+        "prefix": "mdi-flask-empty-off:"
+    },
+    "mdi-flask-empty-off-outline:": {
+        "body": "content: '\\\\F13F5';$0",
+        "description": "content",
+        "prefix": "mdi-flask-empty-off-outline:"
+    },
     "mdi-flask-empty-outline:": {
         "body": "content: '\\\\F0095';$0",
         "description": "content",
@@ -10553,6 +10773,16 @@
         "body": "content: '\\\\F1241';$0",
         "description": "content",
         "prefix": "mdi-flask-minus-outline:"
+    },
+    "mdi-flask-off:": {
+        "body": "content: '\\\\F13F6';$0",
+        "description": "content",
+        "prefix": "mdi-flask-off:"
+    },
+    "mdi-flask-off-outline:": {
+        "body": "content: '\\\\F13F7';$0",
+        "description": "content",
+        "prefix": "mdi-flask-off-outline:"
     },
     "mdi-flask-outline:": {
         "body": "content: '\\\\F0096';$0",
@@ -10969,6 +11199,16 @@
         "description": "content",
         "prefix": "mdi-folder-star:"
     },
+    "mdi-folder-star-multiple:": {
+        "body": "content: '\\\\F13D3';$0",
+        "description": "content",
+        "prefix": "mdi-folder-star-multiple:"
+    },
+    "mdi-folder-star-multiple-outline:": {
+        "body": "content: '\\\\F13D4';$0",
+        "description": "content",
+        "prefix": "mdi-folder-star-multiple-outline:"
+    },
     "mdi-folder-star-outline:": {
         "body": "content: '\\\\F0B9F';$0",
         "description": "content",
@@ -11074,6 +11314,11 @@
         "description": "content",
         "prefix": "mdi-food-variant:"
     },
+    "mdi-food-variant-off:": {
+        "body": "content: '\\\\F13E5';$0",
+        "description": "content",
+        "prefix": "mdi-food-variant-off:"
+    },
     "mdi-foot-print:": {
         "body": "content: '\\\\F0F52';$0",
         "description": "content",
@@ -11098,6 +11343,36 @@
         "body": "content: '\\\\F07C9';$0",
         "description": "content",
         "prefix": "mdi-forklift:"
+    },
+    "mdi-form-dropdown:": {
+        "body": "content: '\\\\F1400';$0",
+        "description": "content",
+        "prefix": "mdi-form-dropdown:"
+    },
+    "mdi-form-select:": {
+        "body": "content: '\\\\F1401';$0",
+        "description": "content",
+        "prefix": "mdi-form-select:"
+    },
+    "mdi-form-textarea:": {
+        "body": "content: '\\\\F1095';$0",
+        "description": "content",
+        "prefix": "mdi-form-textarea:"
+    },
+    "mdi-form-textbox:": {
+        "body": "content: '\\\\F060E';$0",
+        "description": "content",
+        "prefix": "mdi-form-textbox:"
+    },
+    "mdi-form-textbox-lock:": {
+        "body": "content: '\\\\F135D';$0",
+        "description": "content",
+        "prefix": "mdi-form-textbox-lock:"
+    },
+    "mdi-form-textbox-password:": {
+        "body": "content: '\\\\F07F5';$0",
+        "description": "content",
+        "prefix": "mdi-form-textbox-password:"
     },
     "mdi-format-align-bottom:": {
         "body": "content: '\\\\F0753';$0",
@@ -11674,10 +11949,20 @@
         "description": "content",
         "prefix": "mdi-fruit-cherries:"
     },
+    "mdi-fruit-cherries-off:": {
+        "body": "content: '\\\\F13F8';$0",
+        "description": "content",
+        "prefix": "mdi-fruit-cherries-off:"
+    },
     "mdi-fruit-citrus:": {
         "body": "content: '\\\\F1043';$0",
         "description": "content",
         "prefix": "mdi-fruit-citrus:"
+    },
+    "mdi-fruit-citrus-off:": {
+        "body": "content: '\\\\F13F9';$0",
+        "description": "content",
+        "prefix": "mdi-fruit-citrus-off:"
     },
     "mdi-fruit-grapes:": {
         "body": "content: '\\\\F1044';$0",
@@ -11898,6 +12183,16 @@
         "body": "content: '\\\\F0298';$0",
         "description": "content",
         "prefix": "mdi-gas-station:"
+    },
+    "mdi-gas-station-off:": {
+        "body": "content: '\\\\F1409';$0",
+        "description": "content",
+        "prefix": "mdi-gas-station-off:"
+    },
+    "mdi-gas-station-off-outline:": {
+        "body": "content: '\\\\F140A';$0",
+        "description": "content",
+        "prefix": "mdi-gas-station-off-outline:"
     },
     "mdi-gas-station-outline:": {
         "body": "content: '\\\\F0EB8';$0",
@@ -13264,6 +13559,11 @@
         "description": "content",
         "prefix": "mdi-home-minus:"
     },
+    "mdi-home-minus-outline:": {
+        "body": "content: '\\\\F13D5';$0",
+        "description": "content",
+        "prefix": "mdi-home-minus-outline:"
+    },
     "mdi-home-modern:": {
         "body": "content: '\\\\F02DD';$0",
         "description": "content",
@@ -13279,10 +13579,20 @@
         "description": "content",
         "prefix": "mdi-home-plus:"
     },
+    "mdi-home-plus-outline:": {
+        "body": "content: '\\\\F13D6';$0",
+        "description": "content",
+        "prefix": "mdi-home-plus-outline:"
+    },
     "mdi-home-remove:": {
         "body": "content: '\\\\F1247';$0",
         "description": "content",
         "prefix": "mdi-home-remove:"
+    },
+    "mdi-home-remove-outline:": {
+        "body": "content: '\\\\F13D7';$0",
+        "description": "content",
+        "prefix": "mdi-home-remove-outline:"
     },
     "mdi-home-roof:": {
         "body": "content: '\\\\F112B';$0",
@@ -13704,6 +14014,11 @@
         "description": "content",
         "prefix": "mdi-image-frame:"
     },
+    "mdi-image-minus:": {
+        "body": "content: '\\\\F1419';$0",
+        "description": "content",
+        "prefix": "mdi-image-minus:"
+    },
     "mdi-image-move:": {
         "body": "content: '\\\\F09F8';$0",
         "description": "content",
@@ -13738,6 +14053,11 @@
         "body": "content: '\\\\F087C';$0",
         "description": "content",
         "prefix": "mdi-image-plus:"
+    },
+    "mdi-image-remove:": {
+        "body": "content: '\\\\F1418';$0",
+        "description": "content",
+        "prefix": "mdi-image-remove:"
     },
     "mdi-image-search:": {
         "body": "content: '\\\\F0977';$0",
@@ -14758,6 +15078,16 @@
         "body": "content: '\\\\F0A00';$0",
         "description": "content",
         "prefix": "mdi-lighthouse-on:"
+    },
+    "mdi-lightning-bolt:": {
+        "body": "content: '\\\\F140B';$0",
+        "description": "content",
+        "prefix": "mdi-lightning-bolt:"
+    },
+    "mdi-lightning-bolt-outline:": {
+        "body": "content: '\\\\F140C';$0",
+        "description": "content",
+        "prefix": "mdi-lightning-bolt-outline:"
     },
     "mdi-link:": {
         "body": "content: '\\\\F0337';$0",
@@ -16289,6 +16619,16 @@
         "description": "content",
         "prefix": "mdi-mushroom:"
     },
+    "mdi-mushroom-off:": {
+        "body": "content: '\\\\F13FA';$0",
+        "description": "content",
+        "prefix": "mdi-mushroom-off:"
+    },
+    "mdi-mushroom-off-outline:": {
+        "body": "content: '\\\\F13FB';$0",
+        "description": "content",
+        "prefix": "mdi-mushroom-off-outline:"
+    },
     "mdi-mushroom-outline:": {
         "body": "content: '\\\\F07E0';$0",
         "description": "content",
@@ -17529,6 +17869,11 @@
         "description": "content",
         "prefix": "mdi-page-previous-outline:"
     },
+    "mdi-pail:": {
+        "body": "content: '\\\\F1417';$0",
+        "description": "content",
+        "prefix": "mdi-pail:"
+    },
     "mdi-palette:": {
         "body": "content: '\\\\F03D8';$0",
         "description": "content",
@@ -18364,6 +18709,11 @@
         "description": "content",
         "prefix": "mdi-play-box-multiple:"
     },
+    "mdi-play-box-multiple-outline:": {
+        "body": "content: '\\\\F13E6';$0",
+        "description": "content",
+        "prefix": "mdi-play-box-multiple-outline:"
+    },
     "mdi-play-box-outline:": {
         "body": "content: '\\\\F040B';$0",
         "description": "content",
@@ -18938,6 +19288,11 @@
         "body": "content: '\\\\F0430';$0",
         "description": "content",
         "prefix": "mdi-pulse:"
+    },
+    "mdi-pump:": {
+        "body": "content: '\\\\F1402';$0",
+        "description": "content",
+        "prefix": "mdi-pump:"
     },
     "mdi-pumpkin:": {
         "body": "content: '\\\\F0BBF';$0",
@@ -19869,6 +20224,11 @@
         "description": "content",
         "prefix": "mdi-scale-off:"
     },
+    "mdi-scan-helper:": {
+        "body": "content: '\\\\F13D8';$0",
+        "description": "content",
+        "prefix": "mdi-scan-helper:"
+    },
     "mdi-scanner:": {
         "body": "content: '\\\\F06AB';$0",
         "description": "content",
@@ -20074,6 +20434,16 @@
         "description": "content",
         "prefix": "mdi-seed:"
     },
+    "mdi-seed-off:": {
+        "body": "content: '\\\\F13FD';$0",
+        "description": "content",
+        "prefix": "mdi-seed-off:"
+    },
+    "mdi-seed-off-outline:": {
+        "body": "content: '\\\\F13FE';$0",
+        "description": "content",
+        "prefix": "mdi-seed-off-outline:"
+    },
     "mdi-seed-outline:": {
         "body": "content: '\\\\F0E63';$0",
         "description": "content",
@@ -20174,15 +20544,15 @@
         "description": "content",
         "prefix": "mdi-selection-marker:"
     },
+    "mdi-selection-multiple:": {
+        "body": "content: '\\\\F1285';$0",
+        "description": "content",
+        "prefix": "mdi-selection-multiple:"
+    },
     "mdi-selection-multiple-marker:": {
         "body": "content: '\\\\F1284';$0",
         "description": "content",
         "prefix": "mdi-selection-multiple-marker:"
-    },
-    "mdi-selection-mutliple:": {
-        "body": "content: '\\\\F1285';$0",
-        "description": "content",
-        "prefix": "mdi-selection-mutliple:"
     },
     "mdi-selection-off:": {
         "body": "content: '\\\\F0777';$0",
@@ -20473,6 +20843,16 @@
         "body": "content: '\\\\F0ECD';$0",
         "description": "content",
         "prefix": "mdi-shield-alert-outline:"
+    },
+    "mdi-shield-bug:": {
+        "body": "content: '\\\\F13DA';$0",
+        "description": "content",
+        "prefix": "mdi-shield-bug:"
+    },
+    "mdi-shield-bug-outline:": {
+        "body": "content: '\\\\F13DB';$0",
+        "description": "content",
+        "prefix": "mdi-shield-bug-outline:"
     },
     "mdi-shield-car:": {
         "body": "content: '\\\\F0F83';$0",
@@ -21169,6 +21549,11 @@
         "description": "content",
         "prefix": "mdi-smoking-off:"
     },
+    "mdi-smoking-pipe:": {
+        "body": "content: '\\\\F140D';$0",
+        "description": "content",
+        "prefix": "mdi-smoking-pipe:"
+    },
     "mdi-snapchat:": {
         "body": "content: '\\\\F04B6';$0",
         "description": "content",
@@ -21433,6 +21818,11 @@
         "body": "content: '\\\\F07EE';$0",
         "description": "content",
         "prefix": "mdi-soy-sauce:"
+    },
+    "mdi-soy-sauce-off:": {
+        "body": "content: '\\\\F13FC';$0",
+        "description": "content",
+        "prefix": "mdi-soy-sauce-off:"
     },
     "mdi-spa:": {
         "body": "content: '\\\\F0CD1';$0",
@@ -22174,15 +22564,65 @@
         "description": "content",
         "prefix": "mdi-table:"
     },
+    "mdi-table-account:": {
+        "body": "content: '\\\\F13B9';$0",
+        "description": "content",
+        "prefix": "mdi-table-account:"
+    },
+    "mdi-table-alert:": {
+        "body": "content: '\\\\F13BA';$0",
+        "description": "content",
+        "prefix": "mdi-table-alert:"
+    },
+    "mdi-table-arrow-down:": {
+        "body": "content: '\\\\F13BB';$0",
+        "description": "content",
+        "prefix": "mdi-table-arrow-down:"
+    },
+    "mdi-table-arrow-left:": {
+        "body": "content: '\\\\F13BC';$0",
+        "description": "content",
+        "prefix": "mdi-table-arrow-left:"
+    },
+    "mdi-table-arrow-right:": {
+        "body": "content: '\\\\F13BD';$0",
+        "description": "content",
+        "prefix": "mdi-table-arrow-right:"
+    },
+    "mdi-table-arrow-up:": {
+        "body": "content: '\\\\F13BE';$0",
+        "description": "content",
+        "prefix": "mdi-table-arrow-up:"
+    },
     "mdi-table-border:": {
         "body": "content: '\\\\F0A18';$0",
         "description": "content",
         "prefix": "mdi-table-border:"
     },
+    "mdi-table-cancel:": {
+        "body": "content: '\\\\F13BF';$0",
+        "description": "content",
+        "prefix": "mdi-table-cancel:"
+    },
     "mdi-table-chair:": {
         "body": "content: '\\\\F1061';$0",
         "description": "content",
         "prefix": "mdi-table-chair:"
+    },
+    "mdi-table-check:": {
+        "body": "content: '\\\\F13C0';$0",
+        "description": "content",
+        "prefix": "mdi-table-check:"
+    },
+    "mdi-table-clock:": {
+        "body": "content: '\\\\F13C1';$0",
+        "description": "content",
+        "prefix": "mdi-table-clock:"
+    },
+    "mdi-table-cog:": {
+        "body": "content: '\\\\F13C2';$0",
+        "description": "content",
+        "prefix": "mdi-table-cog:"
     },
     "mdi-table-column:": {
         "body": "content: '\\\\F0835';$0",
@@ -22219,6 +22659,11 @@
         "description": "content",
         "prefix": "mdi-table-eye:"
     },
+    "mdi-table-eye-off:": {
+        "body": "content: '\\\\F13C3';$0",
+        "description": "content",
+        "prefix": "mdi-table-eye-off:"
+    },
     "mdi-table-furniture:": {
         "body": "content: '\\\\F05BC';$0",
         "description": "content",
@@ -22233,6 +22678,16 @@
         "body": "content: '\\\\F121E';$0",
         "description": "content",
         "prefix": "mdi-table-headers-eye-off:"
+    },
+    "mdi-table-heart:": {
+        "body": "content: '\\\\F13C4';$0",
+        "description": "content",
+        "prefix": "mdi-table-heart:"
+    },
+    "mdi-table-key:": {
+        "body": "content: '\\\\F13C5';$0",
+        "description": "content",
+        "prefix": "mdi-table-key:"
     },
     "mdi-table-large:": {
         "body": "content: '\\\\F04F1';$0",
@@ -22249,15 +22704,40 @@
         "description": "content",
         "prefix": "mdi-table-large-remove:"
     },
+    "mdi-table-lock:": {
+        "body": "content: '\\\\F13C6';$0",
+        "description": "content",
+        "prefix": "mdi-table-lock:"
+    },
     "mdi-table-merge-cells:": {
         "body": "content: '\\\\F09A6';$0",
         "description": "content",
         "prefix": "mdi-table-merge-cells:"
     },
+    "mdi-table-minus:": {
+        "body": "content: '\\\\F13C7';$0",
+        "description": "content",
+        "prefix": "mdi-table-minus:"
+    },
+    "mdi-table-multiple:": {
+        "body": "content: '\\\\F13C8';$0",
+        "description": "content",
+        "prefix": "mdi-table-multiple:"
+    },
+    "mdi-table-network:": {
+        "body": "content: '\\\\F13C9';$0",
+        "description": "content",
+        "prefix": "mdi-table-network:"
+    },
     "mdi-table-of-contents:": {
         "body": "content: '\\\\F0836';$0",
         "description": "content",
         "prefix": "mdi-table-of-contents:"
+    },
+    "mdi-table-off:": {
+        "body": "content: '\\\\F13CA';$0",
+        "description": "content",
+        "prefix": "mdi-table-off:"
     },
     "mdi-table-plus:": {
         "body": "content: '\\\\F0A75';$0",
@@ -22308,6 +22788,11 @@
         "body": "content: '\\\\F0838';$0",
         "description": "content",
         "prefix": "mdi-table-settings:"
+    },
+    "mdi-table-star:": {
+        "body": "content: '\\\\F13CB';$0",
+        "description": "content",
+        "prefix": "mdi-table-star:"
     },
     "mdi-table-sync:": {
         "body": "content: '\\\\F13A1';$0",
@@ -22433,6 +22918,11 @@
         "body": "content: '\\\\F04FD';$0",
         "description": "content",
         "prefix": "mdi-tag-text-outline:"
+    },
+    "mdi-tailwind:": {
+        "body": "content: '\\\\F13FF';$0",
+        "description": "content",
+        "prefix": "mdi-tailwind:"
     },
     "mdi-tank:": {
         "body": "content: '\\\\F0D3A';$0",
@@ -22689,6 +23179,11 @@
         "description": "content",
         "prefix": "mdi-text-recognition:"
     },
+    "mdi-text-search:": {
+        "body": "content: '\\\\F13B8';$0",
+        "description": "content",
+        "prefix": "mdi-text-search:"
+    },
     "mdi-text-shadow:": {
         "body": "content: '\\\\F0669';$0",
         "description": "content",
@@ -22713,26 +23208,6 @@
         "body": "content: '\\\\F050B';$0",
         "description": "content",
         "prefix": "mdi-text-to-speech-off:"
-    },
-    "mdi-textarea:": {
-        "body": "content: '\\\\F1095';$0",
-        "description": "content",
-        "prefix": "mdi-textarea:"
-    },
-    "mdi-textbox:": {
-        "body": "content: '\\\\F060E';$0",
-        "description": "content",
-        "prefix": "mdi-textbox:"
-    },
-    "mdi-textbox-lock:": {
-        "body": "content: '\\\\F135D';$0",
-        "description": "content",
-        "prefix": "mdi-textbox-lock:"
-    },
-    "mdi-textbox-password:": {
-        "body": "content: '\\\\F07F5';$0",
-        "description": "content",
-        "prefix": "mdi-textbox-password:"
     },
     "mdi-texture:": {
         "body": "content: '\\\\F050C';$0",
@@ -23659,6 +24134,16 @@
         "description": "content",
         "prefix": "mdi-umbrella-closed:"
     },
+    "mdi-umbrella-closed-outline:": {
+        "body": "content: '\\\\F13E2';$0",
+        "description": "content",
+        "prefix": "mdi-umbrella-closed-outline:"
+    },
+    "mdi-umbrella-closed-variant:": {
+        "body": "content: '\\\\F13E1';$0",
+        "description": "content",
+        "prefix": "mdi-umbrella-closed-variant:"
+    },
     "mdi-umbrella-outline:": {
         "body": "content: '\\\\F054B';$0",
         "description": "content",
@@ -23994,6 +24479,11 @@
         "description": "content",
         "prefix": "mdi-video-3d:"
     },
+    "mdi-video-3d-off:": {
+        "body": "content: '\\\\F13D9';$0",
+        "description": "content",
+        "prefix": "mdi-video-3d-off:"
+    },
     "mdi-video-3d-variant:": {
         "body": "content: '\\\\F0ED1';$0",
         "description": "content",
@@ -24268,6 +24758,16 @@
         "body": "content: '\\\\F0894';$0",
         "description": "content",
         "prefix": "mdi-virtual-reality:"
+    },
+    "mdi-virus:": {
+        "body": "content: '\\\\F13B6';$0",
+        "description": "content",
+        "prefix": "mdi-virus:"
+    },
+    "mdi-virus-outline:": {
+        "body": "content: '\\\\F13B7';$0",
+        "description": "content",
+        "prefix": "mdi-virus-outline:"
     },
     "mdi-vk:": {
         "body": "content: '\\\\F0579';$0",

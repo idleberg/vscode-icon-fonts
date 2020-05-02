@@ -1,8 +1,8 @@
 *.vsix
+**/yarn.lock
 bower_components/
 node_modules/
 npm-debug.log*
-yarn.lock
 todo.md
 tools/node_modules
 vendor/

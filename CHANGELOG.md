@@ -1,3 +1,7 @@
+# v2.3.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.3.1)
+
+- bump Material Design Icons to v5.1.45
+
 # v2.3.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.3.0)
 
 - add Svelte support

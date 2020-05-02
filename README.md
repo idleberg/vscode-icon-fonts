@@ -80,7 +80,7 @@ Snippets are limited to the `html`, `css|less|sass|scss|stylus`, `jsx`, `blade` 
 | `glyphicon`       | [Bootstrap Glyphicons][glyphicon]       | 3.3.7   |
 | `icono`           | [Icono][icono]                          | 1.3.0   |
 | `ion`             | [Ionicons][ion]                         | 2.0.1   |
-| `mdi`             | [Material Design Icons][mdi]            | 5.0.45  |
+| `mdi`             | [Material Design Icons][mdi]            | 5.1.45  |
 | `mfg`             | [MFG Labs Iconset][mfg]                 | –       |
 | `mfizz`           | [Font Mfizz][mfizz]                     | 2.4.1   |
 | `mio`             | [Material Design Icons (Official)][mio] | 3.0.1   |

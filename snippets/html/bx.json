@@ -1,4 +1,9 @@
 {
+    "bx-abacus": {
+        "body": "<${1:i} class=\"bx bx-abacus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-abacus"
+    },
     "bx-accessibility": {
         "body": "<${1:i} class=\"bx bx-accessibility$2\"></${1:i}>$0",
         "description": "<i>",
@@ -24,10 +29,20 @@
         "description": "<i>",
         "prefix": "bx-alarm-add"
     },
+    "bx-alarm-exclamation": {
+        "body": "<${1:i} class=\"bx bx-alarm-exclamation$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-alarm-exclamation"
+    },
     "bx-alarm-off": {
         "body": "<${1:i} class=\"bx bx-alarm-off$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-alarm-off"
+    },
+    "bx-alarm-snooze": {
+        "body": "<${1:i} class=\"bx bx-alarm-snooze$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-alarm-snooze"
     },
     "bx-album": {
         "body": "<${1:i} class=\"bx bx-album$2\"></${1:i}>$0",
@@ -74,6 +89,11 @@
         "description": "<i>",
         "prefix": "bx-aperture"
     },
+    "bx-arch": {
+        "body": "<${1:i} class=\"bx bx-arch$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-arch"
+    },
     "bx-archive": {
         "body": "<${1:i} class=\"bx bx-archive$2\"></${1:i}>$0",
         "description": "<i>",
@@ -99,10 +119,55 @@
         "description": "<i>",
         "prefix": "bx-arrow-back"
     },
+    "bx-arrow-from-bottom": {
+        "body": "<${1:i} class=\"bx bx-arrow-from-bottom$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-arrow-from-bottom"
+    },
+    "bx-arrow-from-left": {
+        "body": "<${1:i} class=\"bx bx-arrow-from-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-arrow-from-left"
+    },
+    "bx-arrow-from-right": {
+        "body": "<${1:i} class=\"bx bx-arrow-from-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-arrow-from-right"
+    },
+    "bx-arrow-from-top": {
+        "body": "<${1:i} class=\"bx bx-arrow-from-top$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-arrow-from-top"
+    },
+    "bx-arrow-to-bottom": {
+        "body": "<${1:i} class=\"bx bx-arrow-to-bottom$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-arrow-to-bottom"
+    },
+    "bx-arrow-to-left": {
+        "body": "<${1:i} class=\"bx bx-arrow-to-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-arrow-to-left"
+    },
+    "bx-arrow-to-right": {
+        "body": "<${1:i} class=\"bx bx-arrow-to-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-arrow-to-right"
+    },
+    "bx-arrow-to-top": {
+        "body": "<${1:i} class=\"bx bx-arrow-to-top$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-arrow-to-top"
+    },
     "bx-at": {
         "body": "<${1:i} class=\"bx bx-at$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-at"
+    },
+    "bx-atom": {
+        "body": "<${1:i} class=\"bx bx-atom$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-atom"
     },
     "bx-award": {
         "body": "<${1:i} class=\"bx bx-award$2\"></${1:i}>$0",
@@ -154,6 +219,16 @@
         "description": "<i>",
         "prefix": "bx-barcode"
     },
+    "bx-barcode-reader": {
+        "body": "<${1:i} class=\"bx bx-barcode-reader$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-barcode-reader"
+    },
+    "bx-baseball": {
+        "body": "<${1:i} class=\"bx bx-baseball$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-baseball"
+    },
     "bx-basket": {
         "body": "<${1:i} class=\"bx bx-basket$2\"></${1:i}>$0",
         "description": "<i>",
@@ -179,6 +254,16 @@
         "description": "<i>",
         "prefix": "bx-bed"
     },
+    "bx-been-here": {
+        "body": "<${1:i} class=\"bx bx-been-here$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-been-here"
+    },
+    "bx-beer": {
+        "body": "<${1:i} class=\"bx bx-beer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-beer"
+    },
     "bx-bell": {
         "body": "<${1:i} class=\"bx bx-bell$2\"></${1:i}>$0",
         "description": "<i>",
@@ -199,10 +284,20 @@
         "description": "<i>",
         "prefix": "bx-bell-plus"
     },
+    "bx-bible": {
+        "body": "<${1:i} class=\"bx bx-bible$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bible"
+    },
     "bx-bitcoin": {
         "body": "<${1:i} class=\"bx bx-bitcoin$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-bitcoin"
+    },
+    "bx-blanket": {
+        "body": "<${1:i} class=\"bx bx-blanket$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-blanket"
     },
     "bx-block": {
         "body": "<${1:i} class=\"bx bx-block$2\"></${1:i}>$0",
@@ -229,10 +324,35 @@
         "description": "<i>",
         "prefix": "bx-bolt-circle"
     },
+    "bx-bomb": {
+        "body": "<${1:i} class=\"bx bx-bomb$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bomb"
+    },
+    "bx-bone": {
+        "body": "<${1:i} class=\"bx bx-bone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bone"
+    },
+    "bx-bong": {
+        "body": "<${1:i} class=\"bx bx-bong$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bong"
+    },
     "bx-book": {
         "body": "<${1:i} class=\"bx bx-book$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-book"
+    },
+    "bx-book-add": {
+        "body": "<${1:i} class=\"bx bx-book-add$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-book-add"
+    },
+    "bx-book-alt": {
+        "body": "<${1:i} class=\"bx bx-book-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-book-alt"
     },
     "bx-book-bookmark": {
         "body": "<${1:i} class=\"bx bx-book-bookmark$2\"></${1:i}>$0",
@@ -243,6 +363,11 @@
         "body": "<${1:i} class=\"bx bx-book-content$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-book-content"
+    },
+    "bx-book-heart": {
+        "body": "<${1:i} class=\"bx bx-book-heart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-book-heart"
     },
     "bx-bookmark": {
         "body": "<${1:i} class=\"bx bx-bookmark$2\"></${1:i}>$0",
@@ -269,6 +394,11 @@
         "description": "<i>",
         "prefix": "bx-book-open"
     },
+    "bx-book-reader": {
+        "body": "<${1:i} class=\"bx bx-book-reader$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-book-reader"
+    },
     "bx-border-all": {
         "body": "<${1:i} class=\"bx bx-border-all$2\"></${1:i}>$0",
         "description": "<i>",
@@ -279,10 +409,25 @@
         "description": "<i>",
         "prefix": "bx-border-bottom"
     },
+    "bx-border-inner": {
+        "body": "<${1:i} class=\"bx bx-border-inner$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-border-inner"
+    },
     "bx-border-left": {
         "body": "<${1:i} class=\"bx bx-border-left$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-border-left"
+    },
+    "bx-border-none": {
+        "body": "<${1:i} class=\"bx bx-border-none$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-border-none"
+    },
+    "bx-border-outer": {
+        "body": "<${1:i} class=\"bx bx-border-outer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-border-outer"
     },
     "bx-border-radius": {
         "body": "<${1:i} class=\"bx bx-border-radius$2\"></${1:i}>$0",
@@ -313,6 +458,21 @@
         "body": "<${1:i} class=\"bx bx-box$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-box"
+    },
+    "bx-bracket": {
+        "body": "<${1:i} class=\"bx bx-bracket$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bracket"
+    },
+    "bx-braille": {
+        "body": "<${1:i} class=\"bx bx-braille$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-braille"
+    },
+    "bx-brain": {
+        "body": "<${1:i} class=\"bx bx-brain$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-brain"
     },
     "bx-briefcase": {
         "body": "<${1:i} class=\"bx bx-briefcase$2\"></${1:i}>$0",
@@ -399,6 +559,16 @@
         "description": "<i>",
         "prefix": "bx-bus"
     },
+    "bx-bus-school": {
+        "body": "<${1:i} class=\"bx bx-bus-school$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bus-school"
+    },
+    "bx-cabinet": {
+        "body": "<${1:i} class=\"bx bx-cabinet$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cabinet"
+    },
     "bx-cake": {
         "body": "<${1:i} class=\"bx bx-cake$2\"></${1:i}>$0",
         "description": "<i>",
@@ -424,10 +594,25 @@
         "description": "<i>",
         "prefix": "bx-calendar-check"
     },
+    "bx-calendar-edit": {
+        "body": "<${1:i} class=\"bx bx-calendar-edit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-calendar-edit"
+    },
     "bx-calendar-event": {
         "body": "<${1:i} class=\"bx bx-calendar-event$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-calendar-event"
+    },
+    "bx-calendar-exclamation": {
+        "body": "<${1:i} class=\"bx bx-calendar-exclamation$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-calendar-exclamation"
+    },
+    "bx-calendar-heart": {
+        "body": "<${1:i} class=\"bx bx-calendar-heart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-calendar-heart"
     },
     "bx-calendar-minus": {
         "body": "<${1:i} class=\"bx bx-calendar-minus$2\"></${1:i}>$0",
@@ -439,6 +624,16 @@
         "description": "<i>",
         "prefix": "bx-calendar-plus"
     },
+    "bx-calendar-star": {
+        "body": "<${1:i} class=\"bx bx-calendar-star$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-calendar-star"
+    },
+    "bx-calendar-week": {
+        "body": "<${1:i} class=\"bx bx-calendar-week$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-calendar-week"
+    },
     "bx-calendar-x": {
         "body": "<${1:i} class=\"bx bx-calendar-x$2\"></${1:i}>$0",
         "description": "<i>",
@@ -449,10 +644,25 @@
         "description": "<i>",
         "prefix": "bx-camera"
     },
+    "bx-camera-home": {
+        "body": "<${1:i} class=\"bx bx-camera-home$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-camera-home"
+    },
+    "bx-camera-movie": {
+        "body": "<${1:i} class=\"bx bx-camera-movie$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-camera-movie"
+    },
     "bx-camera-off": {
         "body": "<${1:i} class=\"bx bx-camera-off$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-camera-off"
+    },
+    "bx-capsule": {
+        "body": "<${1:i} class=\"bx bx-capsule$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-capsule"
     },
     "bx-captions": {
         "body": "<${1:i} class=\"bx bx-captions$2\"></${1:i}>$0",
@@ -474,20 +684,60 @@
         "description": "<i>",
         "prefix": "bx-caret-down"
     },
+    "bx-caret-down-circle": {
+        "body": "<${1:i} class=\"bx bx-caret-down-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-caret-down-circle"
+    },
+    "bx-caret-down-square": {
+        "body": "<${1:i} class=\"bx bx-caret-down-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-caret-down-square"
+    },
     "bx-caret-left": {
         "body": "<${1:i} class=\"bx bx-caret-left$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-caret-left"
+    },
+    "bx-caret-left-circle": {
+        "body": "<${1:i} class=\"bx bx-caret-left-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-caret-left-circle"
+    },
+    "bx-caret-left-square": {
+        "body": "<${1:i} class=\"bx bx-caret-left-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-caret-left-square"
     },
     "bx-caret-right": {
         "body": "<${1:i} class=\"bx bx-caret-right$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-caret-right"
     },
+    "bx-caret-right-circle": {
+        "body": "<${1:i} class=\"bx bx-caret-right-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-caret-right-circle"
+    },
+    "bx-caret-right-square": {
+        "body": "<${1:i} class=\"bx bx-caret-right-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-caret-right-square"
+    },
     "bx-caret-up": {
         "body": "<${1:i} class=\"bx bx-caret-up$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-caret-up"
+    },
+    "bx-caret-up-circle": {
+        "body": "<${1:i} class=\"bx bx-caret-up-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-caret-up-circle"
+    },
+    "bx-caret-up-square": {
+        "body": "<${1:i} class=\"bx bx-caret-up-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-caret-up-square"
     },
     "bx-carousel": {
         "body": "<${1:i} class=\"bx bx-carousel$2\"></${1:i}>$0",
@@ -509,10 +759,20 @@
         "description": "<i>",
         "prefix": "bx-cast"
     },
+    "bx-cctv": {
+        "body": "<${1:i} class=\"bx bx-cctv$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cctv"
+    },
     "bx-certification": {
         "body": "<${1:i} class=\"bx bx-certification$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-certification"
+    },
+    "bx-chair": {
+        "body": "<${1:i} class=\"bx bx-chair$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chair"
     },
     "bx-chalkboard": {
         "body": "<${1:i} class=\"bx bx-chalkboard$2\"></${1:i}>$0",
@@ -574,15 +834,45 @@
         "description": "<i>",
         "prefix": "bx-chevron-down"
     },
+    "bx-chevron-down-circle": {
+        "body": "<${1:i} class=\"bx bx-chevron-down-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevron-down-circle"
+    },
+    "bx-chevron-down-square": {
+        "body": "<${1:i} class=\"bx bx-chevron-down-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevron-down-square"
+    },
     "bx-chevron-left": {
         "body": "<${1:i} class=\"bx bx-chevron-left$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-chevron-left"
     },
+    "bx-chevron-left-circle": {
+        "body": "<${1:i} class=\"bx bx-chevron-left-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevron-left-circle"
+    },
+    "bx-chevron-left-square": {
+        "body": "<${1:i} class=\"bx bx-chevron-left-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevron-left-square"
+    },
     "bx-chevron-right": {
         "body": "<${1:i} class=\"bx bx-chevron-right$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-chevron-right"
+    },
+    "bx-chevron-right-circle": {
+        "body": "<${1:i} class=\"bx bx-chevron-right-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevron-right-circle"
+    },
+    "bx-chevron-right-square": {
+        "body": "<${1:i} class=\"bx bx-chevron-right-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevron-right-square"
     },
     "bx-chevrons-down": {
         "body": "<${1:i} class=\"bx bx-chevrons-down$2\"></${1:i}>$0",
@@ -609,10 +899,25 @@
         "description": "<i>",
         "prefix": "bx-chevron-up"
     },
+    "bx-chevron-up-circle": {
+        "body": "<${1:i} class=\"bx bx-chevron-up-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevron-up-circle"
+    },
+    "bx-chevron-up-square": {
+        "body": "<${1:i} class=\"bx bx-chevron-up-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-chevron-up-square"
+    },
     "bx-chip": {
         "body": "<${1:i} class=\"bx bx-chip$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-chip"
+    },
+    "bx-church": {
+        "body": "<${1:i} class=\"bx bx-church$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-church"
     },
     "bx-circle": {
         "body": "<${1:i} class=\"bx bx-circle$2\"></${1:i}>$0",
@@ -699,10 +1004,25 @@
         "description": "<i>",
         "prefix": "bx-coffee"
     },
+    "bx-coffee-togo": {
+        "body": "<${1:i} class=\"bx bx-coffee-togo$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-coffee-togo"
+    },
     "bx-cog": {
         "body": "<${1:i} class=\"bx bx-cog$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-cog"
+    },
+    "bx-coin": {
+        "body": "<${1:i} class=\"bx bx-coin$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-coin"
+    },
+    "bx-coin-stack": {
+        "body": "<${1:i} class=\"bx bx-coin-stack$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-coin-stack"
     },
     "bx-collapse": {
         "body": "<${1:i} class=\"bx bx-collapse$2\"></${1:i}>$0",
@@ -713,6 +1033,11 @@
         "body": "<${1:i} class=\"bx bx-collection$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-collection"
+    },
+    "bx-color-fill": {
+        "body": "<${1:i} class=\"bx bx-color-fill$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-color-fill"
     },
     "bx-columns": {
         "body": "<${1:i} class=\"bx bx-columns$2\"></${1:i}>$0",
@@ -729,10 +1054,45 @@
         "description": "<i>",
         "prefix": "bx-comment"
     },
+    "bx-comment-add": {
+        "body": "<${1:i} class=\"bx bx-comment-add$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-comment-add"
+    },
+    "bx-comment-check": {
+        "body": "<${1:i} class=\"bx bx-comment-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-comment-check"
+    },
+    "bx-comment-detail": {
+        "body": "<${1:i} class=\"bx bx-comment-detail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-comment-detail"
+    },
     "bx-comment-dots": {
         "body": "<${1:i} class=\"bx bx-comment-dots$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-comment-dots"
+    },
+    "bx-comment-edit": {
+        "body": "<${1:i} class=\"bx bx-comment-edit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-comment-edit"
+    },
+    "bx-comment-error": {
+        "body": "<${1:i} class=\"bx bx-comment-error$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-comment-error"
+    },
+    "bx-comment-minus": {
+        "body": "<${1:i} class=\"bx bx-comment-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-comment-minus"
+    },
+    "bx-comment-x": {
+        "body": "<${1:i} class=\"bx bx-comment-x$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-comment-x"
     },
     "bx-compass": {
         "body": "<${1:i} class=\"bx bx-compass$2\"></${1:i}>$0",
@@ -748,6 +1108,11 @@
         "body": "<${1:i} class=\"bx bx-conversation$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-conversation"
+    },
+    "bx-cookie": {
+        "body": "<${1:i} class=\"bx bx-cookie$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cookie"
     },
     "bx-cool": {
         "body": "<${1:i} class=\"bx bx-cool$2\"></${1:i}>$0",
@@ -779,6 +1144,11 @@
         "description": "<i>",
         "prefix": "bx-credit-card-alt"
     },
+    "bx-credit-card-front": {
+        "body": "<${1:i} class=\"bx bx-credit-card-front$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-credit-card-front"
+    },
     "bx-crop": {
         "body": "<${1:i} class=\"bx bx-crop$2\"></${1:i}>$0",
         "description": "<i>",
@@ -808,6 +1178,11 @@
         "body": "<${1:i} class=\"bx bx-cuboid$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-cuboid"
+    },
+    "bx-current-location": {
+        "body": "<${1:i} class=\"bx bx-current-location$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-current-location"
     },
     "bx-customize": {
         "body": "<${1:i} class=\"bx bx-customize$2\"></${1:i}>$0",
@@ -863,6 +1238,36 @@
         "body": "<${1:i} class=\"bx bx-diamond$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-diamond"
+    },
+    "bx-dice-1": {
+        "body": "<${1:i} class=\"bx bx-dice-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dice-1"
+    },
+    "bx-dice-2": {
+        "body": "<${1:i} class=\"bx bx-dice-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dice-2"
+    },
+    "bx-dice-3": {
+        "body": "<${1:i} class=\"bx bx-dice-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dice-3"
+    },
+    "bx-dice-4": {
+        "body": "<${1:i} class=\"bx bx-dice-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dice-4"
+    },
+    "bx-dice-5": {
+        "body": "<${1:i} class=\"bx bx-dice-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dice-5"
+    },
+    "bx-dice-6": {
+        "body": "<${1:i} class=\"bx bx-dice-6$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-dice-6"
     },
     "bx-directions": {
         "body": "<${1:i} class=\"bx bx-directions$2\"></${1:i}>$0",
@@ -924,6 +1329,21 @@
         "description": "<i>",
         "prefix": "bx-dollar-circle"
     },
+    "bx-donate-blood": {
+        "body": "<${1:i} class=\"bx bx-donate-blood$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-donate-blood"
+    },
+    "bx-donate-heart": {
+        "body": "<${1:i} class=\"bx bx-donate-heart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-donate-heart"
+    },
+    "bx-door-open": {
+        "body": "<${1:i} class=\"bx bx-door-open$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-door-open"
+    },
     "bx-dots-horizontal": {
         "body": "<${1:i} class=\"bx bx-dots-horizontal$2\"></${1:i}>$0",
         "description": "<i>",
@@ -974,6 +1394,11 @@
         "description": "<i>",
         "prefix": "bx-downvote"
     },
+    "bx-drink": {
+        "body": "<${1:i} class=\"bx bx-drink$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-drink"
+    },
     "bx-droplet": {
         "body": "<${1:i} class=\"bx bx-droplet$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1004,10 +1429,20 @@
         "description": "<i>",
         "prefix": "bx-envelope"
     },
+    "bx-envelope-open": {
+        "body": "<${1:i} class=\"bx bx-envelope-open$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-envelope-open"
+    },
     "bx-equalizer": {
         "body": "<${1:i} class=\"bx bx-equalizer$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-equalizer"
+    },
+    "bx-eraser": {
+        "body": "<${1:i} class=\"bx bx-eraser$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-eraser"
     },
     "bx-error": {
         "body": "<${1:i} class=\"bx bx-error$2\"></${1:i}>$0",
@@ -1028,6 +1463,11 @@
         "body": "<${1:i} class=\"bx bx-euro$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-euro"
+    },
+    "bx-exclude": {
+        "body": "<${1:i} class=\"bx bx-exclude$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-exclude"
     },
     "bx-exit": {
         "body": "<${1:i} class=\"bx bx-exit$2\"></${1:i}>$0",
@@ -1194,6 +1634,11 @@
         "description": "<i>",
         "prefix": "bx-fullscreen"
     },
+    "bx-game": {
+        "body": "<${1:i} class=\"bx bx-game$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-game"
+    },
     "bx-gas-pump": {
         "body": "<${1:i} class=\"bx bx-gas-pump$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1238,6 +1683,16 @@
         "body": "<${1:i} class=\"bx bx-git-repo-forked$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-git-repo-forked"
+    },
+    "bx-glasses": {
+        "body": "<${1:i} class=\"bx bx-glasses$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-glasses"
+    },
+    "bx-glasses-alt": {
+        "body": "<${1:i} class=\"bx bx-glasses-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-glasses-alt"
     },
     "bx-globe": {
         "body": "<${1:i} class=\"bx bx-globe$2\"></${1:i}>$0",
@@ -1334,6 +1789,16 @@
         "description": "<i>",
         "prefix": "bx-heart"
     },
+    "bx-heart-circle": {
+        "body": "<${1:i} class=\"bx bx-heart-circle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-heart-circle"
+    },
+    "bx-heart-square": {
+        "body": "<${1:i} class=\"bx bx-heart-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-heart-square"
+    },
     "bx-help-circle": {
         "body": "<${1:i} class=\"bx bx-help-circle$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1373,6 +1838,16 @@
         "body": "<${1:i} class=\"bx bx-home-circle$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-home-circle"
+    },
+    "bx-home-heart": {
+        "body": "<${1:i} class=\"bx bx-home-heart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-home-heart"
+    },
+    "bx-home-smile": {
+        "body": "<${1:i} class=\"bx bx-home-smile$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-home-smile"
     },
     "bx-horizontal-center": {
         "body": "<${1:i} class=\"bx bx-horizontal-center$2\"></${1:i}>$0",
@@ -1429,6 +1904,16 @@
         "description": "<i>",
         "prefix": "bx-info-circle"
     },
+    "bx-info-square": {
+        "body": "<${1:i} class=\"bx bx-info-square$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-info-square"
+    },
+    "bx-intersect": {
+        "body": "<${1:i} class=\"bx bx-intersect$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-intersect"
+    },
     "bx-italic": {
         "body": "<${1:i} class=\"bx bx-italic$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1484,6 +1969,16 @@
         "description": "<i>",
         "prefix": "bx-layer"
     },
+    "bx-layer-minus": {
+        "body": "<${1:i} class=\"bx bx-layer-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-layer-minus"
+    },
+    "bx-layer-plus": {
+        "body": "<${1:i} class=\"bx bx-layer-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-layer-plus"
+    },
     "bx-layout": {
         "body": "<${1:i} class=\"bx bx-layout$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1528,6 +2023,11 @@
         "body": "<${1:i} class=\"bx bx-line-chart$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-line-chart"
+    },
+    "bx-line-chart-down": {
+        "body": "<${1:i} class=\"bx bx-line-chart-down$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-line-chart-down"
     },
     "bx-link": {
         "body": "<${1:i} class=\"bx bx-link$2\"></${1:i}>$0",
@@ -1589,6 +2089,11 @@
         "description": "<i>",
         "prefix": "bx-loader-circle"
     },
+    "bx-location-plus": {
+        "body": "<${1:i} class=\"bx bx-location-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-location-plus"
+    },
     "bx-lock": {
         "body": "<${1:i} class=\"bx bx-lock$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1629,6 +2134,11 @@
         "description": "<i>",
         "prefix": "bx-log-out-circle"
     },
+    "bx-low-vision": {
+        "body": "<${1:i} class=\"bx bx-low-vision$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-low-vision"
+    },
     "bx-magnet": {
         "body": "<${1:i} class=\"bx bx-magnet$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1663,6 +2173,16 @@
         "body": "<${1:i} class=\"bx bx-map-pin$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-map-pin"
+    },
+    "bx-mask": {
+        "body": "<${1:i} class=\"bx bx-mask$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-mask"
+    },
+    "bx-medal": {
+        "body": "<${1:i} class=\"bx bx-medal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-medal"
     },
     "bx-meh": {
         "body": "<${1:i} class=\"bx bx-meh$2\"></${1:i}>$0",
@@ -1699,45 +2219,200 @@
         "description": "<i>",
         "prefix": "bx-menu-alt-right"
     },
+    "bx-merge": {
+        "body": "<${1:i} class=\"bx bx-merge$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-merge"
+    },
     "bx-message": {
         "body": "<${1:i} class=\"bx bx-message$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-message"
+    },
+    "bx-message-add": {
+        "body": "<${1:i} class=\"bx bx-message-add$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-add"
     },
     "bx-message-alt": {
         "body": "<${1:i} class=\"bx bx-message-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-message-alt"
     },
+    "bx-message-alt-add": {
+        "body": "<${1:i} class=\"bx bx-message-alt-add$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-alt-add"
+    },
+    "bx-message-alt-check": {
+        "body": "<${1:i} class=\"bx bx-message-alt-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-alt-check"
+    },
+    "bx-message-alt-detail": {
+        "body": "<${1:i} class=\"bx bx-message-alt-detail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-alt-detail"
+    },
     "bx-message-alt-dots": {
         "body": "<${1:i} class=\"bx bx-message-alt-dots$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-message-alt-dots"
+    },
+    "bx-message-alt-edit": {
+        "body": "<${1:i} class=\"bx bx-message-alt-edit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-alt-edit"
+    },
+    "bx-message-alt-error": {
+        "body": "<${1:i} class=\"bx bx-message-alt-error$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-alt-error"
+    },
+    "bx-message-alt-minus": {
+        "body": "<${1:i} class=\"bx bx-message-alt-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-alt-minus"
+    },
+    "bx-message-alt-x": {
+        "body": "<${1:i} class=\"bx bx-message-alt-x$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-alt-x"
+    },
+    "bx-message-check": {
+        "body": "<${1:i} class=\"bx bx-message-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-check"
+    },
+    "bx-message-detail": {
+        "body": "<${1:i} class=\"bx bx-message-detail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-detail"
     },
     "bx-message-dots": {
         "body": "<${1:i} class=\"bx bx-message-dots$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-message-dots"
     },
+    "bx-message-edit": {
+        "body": "<${1:i} class=\"bx bx-message-edit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-edit"
+    },
+    "bx-message-error": {
+        "body": "<${1:i} class=\"bx bx-message-error$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-error"
+    },
+    "bx-message-minus": {
+        "body": "<${1:i} class=\"bx bx-message-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-minus"
+    },
     "bx-message-rounded": {
         "body": "<${1:i} class=\"bx bx-message-rounded$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-message-rounded"
+    },
+    "bx-message-rounded-add": {
+        "body": "<${1:i} class=\"bx bx-message-rounded-add$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-rounded-add"
+    },
+    "bx-message-rounded-check": {
+        "body": "<${1:i} class=\"bx bx-message-rounded-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-rounded-check"
+    },
+    "bx-message-rounded-detail": {
+        "body": "<${1:i} class=\"bx bx-message-rounded-detail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-rounded-detail"
     },
     "bx-message-rounded-dots": {
         "body": "<${1:i} class=\"bx bx-message-rounded-dots$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-message-rounded-dots"
     },
+    "bx-message-rounded-edit": {
+        "body": "<${1:i} class=\"bx bx-message-rounded-edit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-rounded-edit"
+    },
+    "bx-message-rounded-error": {
+        "body": "<${1:i} class=\"bx bx-message-rounded-error$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-rounded-error"
+    },
+    "bx-message-rounded-minus": {
+        "body": "<${1:i} class=\"bx bx-message-rounded-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-rounded-minus"
+    },
+    "bx-message-rounded-x": {
+        "body": "<${1:i} class=\"bx bx-message-rounded-x$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-rounded-x"
+    },
     "bx-message-square": {
         "body": "<${1:i} class=\"bx bx-message-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-message-square"
     },
+    "bx-message-square-add": {
+        "body": "<${1:i} class=\"bx bx-message-square-add$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-square-add"
+    },
+    "bx-message-square-check": {
+        "body": "<${1:i} class=\"bx bx-message-square-check$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-square-check"
+    },
+    "bx-message-square-detail": {
+        "body": "<${1:i} class=\"bx bx-message-square-detail$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-square-detail"
+    },
     "bx-message-square-dots": {
         "body": "<${1:i} class=\"bx bx-message-square-dots$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-message-square-dots"
+    },
+    "bx-message-square-edit": {
+        "body": "<${1:i} class=\"bx bx-message-square-edit$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-square-edit"
+    },
+    "bx-message-square-error": {
+        "body": "<${1:i} class=\"bx bx-message-square-error$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-square-error"
+    },
+    "bx-message-square-minus": {
+        "body": "<${1:i} class=\"bx bx-message-square-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-square-minus"
+    },
+    "bx-message-square-x": {
+        "body": "<${1:i} class=\"bx bx-message-square-x$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-square-x"
+    },
+    "bx-message-x": {
+        "body": "<${1:i} class=\"bx bx-message-x$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-message-x"
+    },
+    "bx-meteor": {
+        "body": "<${1:i} class=\"bx bx-meteor$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-meteor"
+    },
+    "bx-microchip": {
+        "body": "<${1:i} class=\"bx bx-microchip$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-microchip"
     },
     "bx-microphone": {
         "body": "<${1:i} class=\"bx bx-microphone$2\"></${1:i}>$0",
@@ -1754,10 +2429,20 @@
         "description": "<i>",
         "prefix": "bx-minus"
     },
+    "bx-minus-back": {
+        "body": "<${1:i} class=\"bx bx-minus-back$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-minus-back"
+    },
     "bx-minus-circle": {
         "body": "<${1:i} class=\"bx bx-minus-circle$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-minus-circle"
+    },
+    "bx-minus-front": {
+        "body": "<${1:i} class=\"bx bx-minus-front$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-minus-front"
     },
     "bx-mobile": {
         "body": "<${1:i} class=\"bx bx-mobile$2\"></${1:i}>$0",
@@ -1829,6 +2514,11 @@
         "description": "<i>",
         "prefix": "bx-navigation"
     },
+    "bx-network-chart": {
+        "body": "<${1:i} class=\"bx bx-network-chart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-network-chart"
+    },
     "bx-news": {
         "body": "<${1:i} class=\"bx bx-news$2\"></${1:i}>$0",
         "description": "<i>",
@@ -1858,6 +2548,11 @@
         "body": "<${1:i} class=\"bx bx-notification-off$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-notification-off"
+    },
+    "bx-outline": {
+        "body": "<${1:i} class=\"bx bx-outline$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-outline"
     },
     "bx-package": {
         "body": "<${1:i} class=\"bx bx-package$2\"></${1:i}>$0",
@@ -1999,6 +2694,11 @@
         "description": "<i>",
         "prefix": "bx-plus-medical"
     },
+    "bx-pointer": {
+        "body": "<${1:i} class=\"bx bx-pointer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-pointer"
+    },
     "bx-poll": {
         "body": "<${1:i} class=\"bx bx-poll$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2079,10 +2779,20 @@
         "description": "<i>",
         "prefix": "bx-rectangle"
     },
+    "bx-recycle": {
+        "body": "<${1:i} class=\"bx bx-recycle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-recycle"
+    },
     "bx-redo": {
         "body": "<${1:i} class=\"bx bx-redo$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-redo"
+    },
+    "bx-refresh": {
+        "body": "<${1:i} class=\"bx bx-refresh$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-refresh"
     },
     "bx-rename": {
         "body": "<${1:i} class=\"bx bx-rename$2\"></${1:i}>$0",
@@ -2214,6 +2924,11 @@
         "description": "<i>",
         "prefix": "bx-save"
     },
+    "bx-scan": {
+        "body": "<${1:i} class=\"bx bx-scan$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-scan"
+    },
     "bx-screenshot": {
         "body": "<${1:i} class=\"bx bx-screenshot$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2259,6 +2974,11 @@
         "description": "<i>",
         "prefix": "bx-shape-circle"
     },
+    "bx-shape-polygon": {
+        "body": "<${1:i} class=\"bx bx-shape-polygon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-shape-polygon"
+    },
     "bx-shape-square": {
         "body": "<${1:i} class=\"bx bx-shape-square$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2303,6 +3023,11 @@
         "body": "<${1:i} class=\"bx bx-shield-quarter$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-shield-quarter"
+    },
+    "bx-shield-x": {
+        "body": "<${1:i} class=\"bx bx-shield-x$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-shield-x"
     },
     "bx-shocked": {
         "body": "<${1:i} class=\"bx bx-shocked$2\"></${1:i}>$0",
@@ -2419,6 +3144,11 @@
         "description": "<i>",
         "prefix": "bx-space-bar"
     },
+    "bx-spray-can": {
+        "body": "<${1:i} class=\"bx bx-spray-can$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-spray-can"
+    },
     "bx-spreadsheet": {
         "body": "<${1:i} class=\"bx bx-spreadsheet$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2529,6 +3259,11 @@
         "description": "<i>",
         "prefix": "bx-table"
     },
+    "bx-tachometer": {
+        "body": "<${1:i} class=\"bx bx-tachometer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-tachometer"
+    },
     "bx-tag": {
         "body": "<${1:i} class=\"bx bx-tag$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2543,6 +3278,11 @@
         "body": "<${1:i} class=\"bx bx-task$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-task"
+    },
+    "bx-task-x": {
+        "body": "<${1:i} class=\"bx bx-task-x$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-task-x"
     },
     "bx-taxi": {
         "body": "<${1:i} class=\"bx bx-taxi$2\"></${1:i}>$0",
@@ -2604,6 +3344,11 @@
         "description": "<i>",
         "prefix": "bx-tone"
     },
+    "bx-traffic-cone": {
+        "body": "<${1:i} class=\"bx bx-traffic-cone$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-traffic-cone"
+    },
     "bx-train": {
         "body": "<${1:i} class=\"bx bx-train$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2639,6 +3384,11 @@
         "description": "<i>",
         "prefix": "bx-trending-up"
     },
+    "bx-trim": {
+        "body": "<${1:i} class=\"bx bx-trim$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-trim"
+    },
     "bx-trophy": {
         "body": "<${1:i} class=\"bx bx-trophy$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2658,6 +3408,11 @@
         "body": "<${1:i} class=\"bx bx-undo$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-undo"
+    },
+    "bx-unite": {
+        "body": "<${1:i} class=\"bx bx-unite$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-unite"
     },
     "bx-unlink": {
         "body": "<${1:i} class=\"bx bx-unlink$2\"></${1:i}>$0",
@@ -2739,10 +3494,20 @@
         "description": "<i>",
         "prefix": "bx-user-x"
     },
+    "bx-vector": {
+        "body": "<${1:i} class=\"bx bx-vector$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-vector"
+    },
     "bx-vertical-center": {
         "body": "<${1:i} class=\"bx bx-vertical-center$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-vertical-center"
+    },
+    "bx-vial": {
+        "body": "<${1:i} class=\"bx bx-vial$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-vial"
     },
     "bx-video": {
         "body": "<${1:i} class=\"bx bx-video$2\"></${1:i}>$0",
@@ -2809,10 +3574,30 @@
         "description": "<i>",
         "prefix": "bx-water"
     },
+    "bx-webcam": {
+        "body": "<${1:i} class=\"bx bx-webcam$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-webcam"
+    },
     "bx-wifi": {
         "body": "<${1:i} class=\"bx bx-wifi$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-wifi"
+    },
+    "bx-wifi-0": {
+        "body": "<${1:i} class=\"bx bx-wifi-0$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-wifi-0"
+    },
+    "bx-wifi-1": {
+        "body": "<${1:i} class=\"bx bx-wifi-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-wifi-1"
+    },
+    "bx-wifi-2": {
+        "body": "<${1:i} class=\"bx bx-wifi-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-wifi-2"
     },
     "bx-wifi-off": {
         "body": "<${1:i} class=\"bx bx-wifi-off$2\"></${1:i}>$0",
@@ -2829,6 +3614,11 @@
         "description": "<i>",
         "prefix": "bx-window"
     },
+    "bx-window-alt": {
+        "body": "<${1:i} class=\"bx bx-window-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-window-alt"
+    },
     "bx-window-close": {
         "body": "<${1:i} class=\"bx bx-window-close$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2843,6 +3633,11 @@
         "body": "<${1:i} class=\"bx bx-windows$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-windows"
+    },
+    "bx-wine": {
+        "body": "<${1:i} class=\"bx bx-wine$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-wine"
     },
     "bx-wink-smile": {
         "body": "<${1:i} class=\"bx bx-wink-smile$2\"></${1:i}>$0",

@@ -3004,6 +3004,11 @@
         "description": "<i>",
         "prefix": "fab-deer-rudolph"
     },
+    "fab-deezer": {
+        "body": "<${1:i} className=\"fab fa-deezer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-deezer"
+    },
     "fab-delicious": {
         "body": "<${1:i} className=\"fab fa-delicious$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3448,6 +3453,11 @@
         "body": "<${1:i} className=\"fab fa-edge$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-edge"
+    },
+    "fab-edge-legacy": {
+        "body": "<${1:i} className=\"fab fa-edge-legacy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-edge-legacy"
     },
     "fab-edit": {
         "body": "<${1:i} className=\"fab fa-edit$2\"></${1:i}>$0",
@@ -4663,6 +4673,11 @@
         "body": "<${1:i} className=\"fab fa-google-drive$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-google-drive"
+    },
+    "fab-google-pay": {
+        "body": "<${1:i} className=\"fab fa-google-pay$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-google-pay"
     },
     "fab-google-play": {
         "body": "<${1:i} className=\"fab fa-google-play$2\"></${1:i}>$0",
@@ -8159,6 +8174,11 @@
         "description": "<i>",
         "prefix": "fab-rupee-sign"
     },
+    "fab-rust": {
+        "body": "<${1:i} className=\"fab fa-rust$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-rust"
+    },
     "fab-rv": {
         "body": "<${1:i} className=\"fab fa-rv$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9989,6 +10009,11 @@
         "description": "<i>",
         "prefix": "fab-ticket-alt"
     },
+    "fab-tiktok": {
+        "body": "<${1:i} className=\"fab fa-tiktok$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-tiktok"
+    },
     "fab-tilde": {
         "body": "<${1:i} className=\"fab fa-tilde$2\"></${1:i}>$0",
         "description": "<i>",
@@ -10548,6 +10573,11 @@
         "body": "<${1:i} className=\"fab fa-unlock-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-unlock-alt"
+    },
+    "fab-unsplash": {
+        "body": "<${1:i} className=\"fab fa-unsplash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-unsplash"
     },
     "fab-untappd": {
         "body": "<${1:i} className=\"fab fa-untappd$2\"></${1:i}>$0",

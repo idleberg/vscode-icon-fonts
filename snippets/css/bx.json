@@ -1,2896 +1,3691 @@
 {
+    "bx-abacus": {
+        "body": "content: '\\\\e971';$0",
+        "description": "content",
+        "prefix": "bx-abacus"
+    },
     "bx-accessibility": {
-        "body": "content: '\\\\e970';$0",
+        "body": "content: '\\\\e972';$0",
         "description": "content",
         "prefix": "bx-accessibility"
     },
     "bx-add-to-queue": {
-        "body": "content: '\\\\e971';$0",
+        "body": "content: '\\\\e973';$0",
         "description": "content",
         "prefix": "bx-add-to-queue"
     },
     "bx-adjust": {
-        "body": "content: '\\\\e972';$0",
+        "body": "content: '\\\\e974';$0",
         "description": "content",
         "prefix": "bx-adjust"
     },
     "bx-alarm": {
-        "body": "content: '\\\\e973';$0",
+        "body": "content: '\\\\e975';$0",
         "description": "content",
         "prefix": "bx-alarm"
     },
     "bx-alarm-add": {
-        "body": "content: '\\\\e974';$0",
+        "body": "content: '\\\\e976';$0",
         "description": "content",
         "prefix": "bx-alarm-add"
     },
+    "bx-alarm-exclamation": {
+        "body": "content: '\\\\e977';$0",
+        "description": "content",
+        "prefix": "bx-alarm-exclamation"
+    },
     "bx-alarm-off": {
-        "body": "content: '\\\\e975';$0",
+        "body": "content: '\\\\e978';$0",
         "description": "content",
         "prefix": "bx-alarm-off"
     },
+    "bx-alarm-snooze": {
+        "body": "content: '\\\\e979';$0",
+        "description": "content",
+        "prefix": "bx-alarm-snooze"
+    },
     "bx-album": {
-        "body": "content: '\\\\e976';$0",
+        "body": "content: '\\\\e97a';$0",
         "description": "content",
         "prefix": "bx-album"
     },
     "bx-align-justify": {
-        "body": "content: '\\\\e977';$0",
+        "body": "content: '\\\\e97b';$0",
         "description": "content",
         "prefix": "bx-align-justify"
     },
     "bx-align-left": {
-        "body": "content: '\\\\e978';$0",
+        "body": "content: '\\\\e97c';$0",
         "description": "content",
         "prefix": "bx-align-left"
     },
     "bx-align-middle": {
-        "body": "content: '\\\\e979';$0",
+        "body": "content: '\\\\e97d';$0",
         "description": "content",
         "prefix": "bx-align-middle"
     },
     "bx-align-right": {
-        "body": "content: '\\\\e97a';$0",
+        "body": "content: '\\\\e97e';$0",
         "description": "content",
         "prefix": "bx-align-right"
     },
     "bx-analyse": {
-        "body": "content: '\\\\e97b';$0",
+        "body": "content: '\\\\e97f';$0",
         "description": "content",
         "prefix": "bx-analyse"
     },
     "bx-anchor": {
-        "body": "content: '\\\\e97c';$0",
+        "body": "content: '\\\\e980';$0",
         "description": "content",
         "prefix": "bx-anchor"
     },
     "bx-angry": {
-        "body": "content: '\\\\e97d';$0",
+        "body": "content: '\\\\e981';$0",
         "description": "content",
         "prefix": "bx-angry"
     },
     "bx-aperture": {
-        "body": "content: '\\\\e97e';$0",
+        "body": "content: '\\\\e982';$0",
         "description": "content",
         "prefix": "bx-aperture"
     },
+    "bx-arch": {
+        "body": "content: '\\\\e983';$0",
+        "description": "content",
+        "prefix": "bx-arch"
+    },
     "bx-archive": {
-        "body": "content: '\\\\e97f';$0",
+        "body": "content: '\\\\e984';$0",
         "description": "content",
         "prefix": "bx-archive"
     },
     "bx-archive-in": {
-        "body": "content: '\\\\e980';$0",
+        "body": "content: '\\\\e985';$0",
         "description": "content",
         "prefix": "bx-archive-in"
     },
     "bx-archive-out": {
-        "body": "content: '\\\\e981';$0",
+        "body": "content: '\\\\e986';$0",
         "description": "content",
         "prefix": "bx-archive-out"
     },
     "bx-area": {
-        "body": "content: '\\\\e982';$0",
+        "body": "content: '\\\\e987';$0",
         "description": "content",
         "prefix": "bx-area"
     },
     "bx-arrow-back": {
-        "body": "content: '\\\\e983';$0",
+        "body": "content: '\\\\e988';$0",
         "description": "content",
         "prefix": "bx-arrow-back"
     },
+    "bx-arrow-from-bottom": {
+        "body": "content: '\\\\e989';$0",
+        "description": "content",
+        "prefix": "bx-arrow-from-bottom"
+    },
+    "bx-arrow-from-left": {
+        "body": "content: '\\\\e98a';$0",
+        "description": "content",
+        "prefix": "bx-arrow-from-left"
+    },
+    "bx-arrow-from-right": {
+        "body": "content: '\\\\e98b';$0",
+        "description": "content",
+        "prefix": "bx-arrow-from-right"
+    },
+    "bx-arrow-from-top": {
+        "body": "content: '\\\\e98c';$0",
+        "description": "content",
+        "prefix": "bx-arrow-from-top"
+    },
+    "bx-arrow-to-bottom": {
+        "body": "content: '\\\\e98d';$0",
+        "description": "content",
+        "prefix": "bx-arrow-to-bottom"
+    },
+    "bx-arrow-to-left": {
+        "body": "content: '\\\\e98e';$0",
+        "description": "content",
+        "prefix": "bx-arrow-to-left"
+    },
+    "bx-arrow-to-right": {
+        "body": "content: '\\\\e98f';$0",
+        "description": "content",
+        "prefix": "bx-arrow-to-right"
+    },
+    "bx-arrow-to-top": {
+        "body": "content: '\\\\e990';$0",
+        "description": "content",
+        "prefix": "bx-arrow-to-top"
+    },
     "bx-at": {
-        "body": "content: '\\\\e984';$0",
+        "body": "content: '\\\\e991';$0",
         "description": "content",
         "prefix": "bx-at"
     },
+    "bx-atom": {
+        "body": "content: '\\\\e992';$0",
+        "description": "content",
+        "prefix": "bx-atom"
+    },
     "bx-award": {
-        "body": "content: '\\\\e985';$0",
+        "body": "content: '\\\\e993';$0",
         "description": "content",
         "prefix": "bx-award"
     },
     "bx-badge": {
-        "body": "content: '\\\\e986';$0",
+        "body": "content: '\\\\e994';$0",
         "description": "content",
         "prefix": "bx-badge"
     },
     "bx-badge-check": {
-        "body": "content: '\\\\e987';$0",
+        "body": "content: '\\\\e995';$0",
         "description": "content",
         "prefix": "bx-badge-check"
     },
     "bx-ball": {
-        "body": "content: '\\\\e988';$0",
+        "body": "content: '\\\\e996';$0",
         "description": "content",
         "prefix": "bx-ball"
     },
     "bx-band-aid": {
-        "body": "content: '\\\\e989';$0",
+        "body": "content: '\\\\e997';$0",
         "description": "content",
         "prefix": "bx-band-aid"
     },
     "bx-bar-chart": {
-        "body": "content: '\\\\e98a';$0",
+        "body": "content: '\\\\e998';$0",
         "description": "content",
         "prefix": "bx-bar-chart"
     },
     "bx-bar-chart-alt": {
-        "body": "content: '\\\\e98b';$0",
+        "body": "content: '\\\\e999';$0",
         "description": "content",
         "prefix": "bx-bar-chart-alt"
     },
     "bx-bar-chart-alt-2": {
-        "body": "content: '\\\\e98c';$0",
+        "body": "content: '\\\\e99a';$0",
         "description": "content",
         "prefix": "bx-bar-chart-alt-2"
     },
     "bx-bar-chart-square": {
-        "body": "content: '\\\\e98d';$0",
+        "body": "content: '\\\\e99b';$0",
         "description": "content",
         "prefix": "bx-bar-chart-square"
     },
     "bx-barcode": {
-        "body": "content: '\\\\e98e';$0",
+        "body": "content: '\\\\e99c';$0",
         "description": "content",
         "prefix": "bx-barcode"
     },
+    "bx-barcode-reader": {
+        "body": "content: '\\\\e99d';$0",
+        "description": "content",
+        "prefix": "bx-barcode-reader"
+    },
+    "bx-baseball": {
+        "body": "content: '\\\\e99e';$0",
+        "description": "content",
+        "prefix": "bx-baseball"
+    },
     "bx-basket": {
-        "body": "content: '\\\\e98f';$0",
+        "body": "content: '\\\\e99f';$0",
         "description": "content",
         "prefix": "bx-basket"
     },
     "bx-basketball": {
-        "body": "content: '\\\\e990';$0",
+        "body": "content: '\\\\e9a0';$0",
         "description": "content",
         "prefix": "bx-basketball"
     },
     "bx-bath": {
-        "body": "content: '\\\\e991';$0",
+        "body": "content: '\\\\e9a1';$0",
         "description": "content",
         "prefix": "bx-bath"
     },
     "bx-battery": {
-        "body": "content: '\\\\e992';$0",
+        "body": "content: '\\\\e9a2';$0",
         "description": "content",
         "prefix": "bx-battery"
     },
     "bx-bed": {
-        "body": "content: '\\\\e993';$0",
+        "body": "content: '\\\\e9a3';$0",
         "description": "content",
         "prefix": "bx-bed"
     },
+    "bx-been-here": {
+        "body": "content: '\\\\e9a4';$0",
+        "description": "content",
+        "prefix": "bx-been-here"
+    },
+    "bx-beer": {
+        "body": "content: '\\\\e9a5';$0",
+        "description": "content",
+        "prefix": "bx-beer"
+    },
     "bx-bell": {
-        "body": "content: '\\\\e994';$0",
+        "body": "content: '\\\\e9a6';$0",
         "description": "content",
         "prefix": "bx-bell"
     },
     "bx-bell-minus": {
-        "body": "content: '\\\\e995';$0",
+        "body": "content: '\\\\e9a7';$0",
         "description": "content",
         "prefix": "bx-bell-minus"
     },
     "bx-bell-off": {
-        "body": "content: '\\\\e996';$0",
+        "body": "content: '\\\\e9a8';$0",
         "description": "content",
         "prefix": "bx-bell-off"
     },
     "bx-bell-plus": {
-        "body": "content: '\\\\e997';$0",
+        "body": "content: '\\\\e9a9';$0",
         "description": "content",
         "prefix": "bx-bell-plus"
     },
+    "bx-bible": {
+        "body": "content: '\\\\e9aa';$0",
+        "description": "content",
+        "prefix": "bx-bible"
+    },
     "bx-bitcoin": {
-        "body": "content: '\\\\e998';$0",
+        "body": "content: '\\\\e9ab';$0",
         "description": "content",
         "prefix": "bx-bitcoin"
     },
+    "bx-blanket": {
+        "body": "content: '\\\\e9ac';$0",
+        "description": "content",
+        "prefix": "bx-blanket"
+    },
     "bx-block": {
-        "body": "content: '\\\\e999';$0",
+        "body": "content: '\\\\e9ad';$0",
         "description": "content",
         "prefix": "bx-block"
     },
     "bx-bluetooth": {
-        "body": "content: '\\\\e99a';$0",
+        "body": "content: '\\\\e9ae';$0",
         "description": "content",
         "prefix": "bx-bluetooth"
     },
     "bx-body": {
-        "body": "content: '\\\\e99b';$0",
+        "body": "content: '\\\\e9af';$0",
         "description": "content",
         "prefix": "bx-body"
     },
     "bx-bold": {
-        "body": "content: '\\\\e99c';$0",
+        "body": "content: '\\\\e9b0';$0",
         "description": "content",
         "prefix": "bx-bold"
     },
     "bx-bolt-circle": {
-        "body": "content: '\\\\e99d';$0",
+        "body": "content: '\\\\e9b1';$0",
         "description": "content",
         "prefix": "bx-bolt-circle"
     },
+    "bx-bomb": {
+        "body": "content: '\\\\e9b2';$0",
+        "description": "content",
+        "prefix": "bx-bomb"
+    },
+    "bx-bone": {
+        "body": "content: '\\\\e9b3';$0",
+        "description": "content",
+        "prefix": "bx-bone"
+    },
+    "bx-bong": {
+        "body": "content: '\\\\e9b4';$0",
+        "description": "content",
+        "prefix": "bx-bong"
+    },
     "bx-book": {
-        "body": "content: '\\\\e99e';$0",
+        "body": "content: '\\\\e9b5';$0",
         "description": "content",
         "prefix": "bx-book"
     },
+    "bx-book-add": {
+        "body": "content: '\\\\e9b6';$0",
+        "description": "content",
+        "prefix": "bx-book-add"
+    },
+    "bx-book-alt": {
+        "body": "content: '\\\\e9b7';$0",
+        "description": "content",
+        "prefix": "bx-book-alt"
+    },
     "bx-book-bookmark": {
-        "body": "content: '\\\\e99f';$0",
+        "body": "content: '\\\\e9b8';$0",
         "description": "content",
         "prefix": "bx-book-bookmark"
     },
     "bx-book-content": {
-        "body": "content: '\\\\e9a0';$0",
+        "body": "content: '\\\\e9b9';$0",
         "description": "content",
         "prefix": "bx-book-content"
     },
+    "bx-book-heart": {
+        "body": "content: '\\\\e9ba';$0",
+        "description": "content",
+        "prefix": "bx-book-heart"
+    },
     "bx-bookmark": {
-        "body": "content: '\\\\e9a1';$0",
+        "body": "content: '\\\\e9bb';$0",
         "description": "content",
         "prefix": "bx-bookmark"
     },
     "bx-bookmark-minus": {
-        "body": "content: '\\\\e9a2';$0",
+        "body": "content: '\\\\e9bc';$0",
         "description": "content",
         "prefix": "bx-bookmark-minus"
     },
     "bx-bookmark-plus": {
-        "body": "content: '\\\\e9a3';$0",
+        "body": "content: '\\\\e9bd';$0",
         "description": "content",
         "prefix": "bx-bookmark-plus"
     },
     "bx-bookmarks": {
-        "body": "content: '\\\\e9a4';$0",
+        "body": "content: '\\\\e9be';$0",
         "description": "content",
         "prefix": "bx-bookmarks"
     },
     "bx-book-open": {
-        "body": "content: '\\\\e9a5';$0",
+        "body": "content: '\\\\e9bf';$0",
         "description": "content",
         "prefix": "bx-book-open"
     },
+    "bx-book-reader": {
+        "body": "content: '\\\\e9c0';$0",
+        "description": "content",
+        "prefix": "bx-book-reader"
+    },
     "bx-border-all": {
-        "body": "content: '\\\\e9a6';$0",
+        "body": "content: '\\\\e9c1';$0",
         "description": "content",
         "prefix": "bx-border-all"
     },
     "bx-border-bottom": {
-        "body": "content: '\\\\e9a7';$0",
+        "body": "content: '\\\\e9c2';$0",
         "description": "content",
         "prefix": "bx-border-bottom"
     },
+    "bx-border-inner": {
+        "body": "content: '\\\\e9c3';$0",
+        "description": "content",
+        "prefix": "bx-border-inner"
+    },
     "bx-border-left": {
-        "body": "content: '\\\\e9a8';$0",
+        "body": "content: '\\\\e9c4';$0",
         "description": "content",
         "prefix": "bx-border-left"
     },
+    "bx-border-none": {
+        "body": "content: '\\\\e9c5';$0",
+        "description": "content",
+        "prefix": "bx-border-none"
+    },
+    "bx-border-outer": {
+        "body": "content: '\\\\e9c6';$0",
+        "description": "content",
+        "prefix": "bx-border-outer"
+    },
     "bx-border-radius": {
-        "body": "content: '\\\\e9a9';$0",
+        "body": "content: '\\\\e9c7';$0",
         "description": "content",
         "prefix": "bx-border-radius"
     },
     "bx-border-right": {
-        "body": "content: '\\\\e9aa';$0",
+        "body": "content: '\\\\e9c8';$0",
         "description": "content",
         "prefix": "bx-border-right"
     },
     "bx-border-top": {
-        "body": "content: '\\\\e9ab';$0",
+        "body": "content: '\\\\e9c9';$0",
         "description": "content",
         "prefix": "bx-border-top"
     },
     "bx-bot": {
-        "body": "content: '\\\\e9ac';$0",
+        "body": "content: '\\\\e9ca';$0",
         "description": "content",
         "prefix": "bx-bot"
     },
     "bx-bowling-ball": {
-        "body": "content: '\\\\e9ad';$0",
+        "body": "content: '\\\\e9cb';$0",
         "description": "content",
         "prefix": "bx-bowling-ball"
     },
     "bx-box": {
-        "body": "content: '\\\\e9ae';$0",
+        "body": "content: '\\\\e9cc';$0",
         "description": "content",
         "prefix": "bx-box"
     },
+    "bx-bracket": {
+        "body": "content: '\\\\e9cd';$0",
+        "description": "content",
+        "prefix": "bx-bracket"
+    },
+    "bx-braille": {
+        "body": "content: '\\\\e9ce';$0",
+        "description": "content",
+        "prefix": "bx-braille"
+    },
+    "bx-brain": {
+        "body": "content: '\\\\e9cf';$0",
+        "description": "content",
+        "prefix": "bx-brain"
+    },
     "bx-briefcase": {
-        "body": "content: '\\\\e9af';$0",
+        "body": "content: '\\\\e9d0';$0",
         "description": "content",
         "prefix": "bx-briefcase"
     },
     "bx-briefcase-alt": {
-        "body": "content: '\\\\e9b0';$0",
+        "body": "content: '\\\\e9d1';$0",
         "description": "content",
         "prefix": "bx-briefcase-alt"
     },
     "bx-briefcase-alt-2": {
-        "body": "content: '\\\\e9b1';$0",
+        "body": "content: '\\\\e9d2';$0",
         "description": "content",
         "prefix": "bx-briefcase-alt-2"
     },
     "bx-brightness": {
-        "body": "content: '\\\\e9b2';$0",
+        "body": "content: '\\\\e9d3';$0",
         "description": "content",
         "prefix": "bx-brightness"
     },
     "bx-brightness-half": {
-        "body": "content: '\\\\e9b3';$0",
+        "body": "content: '\\\\e9d4';$0",
         "description": "content",
         "prefix": "bx-brightness-half"
     },
     "bx-broadcast": {
-        "body": "content: '\\\\e9b4';$0",
+        "body": "content: '\\\\e9d5';$0",
         "description": "content",
         "prefix": "bx-broadcast"
     },
     "bx-brush": {
-        "body": "content: '\\\\e9b5';$0",
+        "body": "content: '\\\\e9d6';$0",
         "description": "content",
         "prefix": "bx-brush"
     },
     "bx-brush-alt": {
-        "body": "content: '\\\\e9b6';$0",
+        "body": "content: '\\\\e9d7';$0",
         "description": "content",
         "prefix": "bx-brush-alt"
     },
     "bx-bug": {
-        "body": "content: '\\\\e9b7';$0",
+        "body": "content: '\\\\e9d8';$0",
         "description": "content",
         "prefix": "bx-bug"
     },
     "bx-bug-alt": {
-        "body": "content: '\\\\e9b8';$0",
+        "body": "content: '\\\\e9d9';$0",
         "description": "content",
         "prefix": "bx-bug-alt"
     },
     "bx-building": {
-        "body": "content: '\\\\e9b9';$0",
+        "body": "content: '\\\\e9da';$0",
         "description": "content",
         "prefix": "bx-building"
     },
     "bx-building-house": {
-        "body": "content: '\\\\e9ba';$0",
+        "body": "content: '\\\\e9db';$0",
         "description": "content",
         "prefix": "bx-building-house"
     },
     "bx-buildings": {
-        "body": "content: '\\\\e9bb';$0",
+        "body": "content: '\\\\e9dc';$0",
         "description": "content",
         "prefix": "bx-buildings"
     },
     "bx-bulb": {
-        "body": "content: '\\\\e9bc';$0",
+        "body": "content: '\\\\e9dd';$0",
         "description": "content",
         "prefix": "bx-bulb"
     },
     "bx-bullseye": {
-        "body": "content: '\\\\e9bd';$0",
+        "body": "content: '\\\\e9de';$0",
         "description": "content",
         "prefix": "bx-bullseye"
     },
     "bx-buoy": {
-        "body": "content: '\\\\e9be';$0",
+        "body": "content: '\\\\e9df';$0",
         "description": "content",
         "prefix": "bx-buoy"
     },
     "bx-bus": {
-        "body": "content: '\\\\e9bf';$0",
+        "body": "content: '\\\\e9e0';$0",
         "description": "content",
         "prefix": "bx-bus"
     },
+    "bx-bus-school": {
+        "body": "content: '\\\\e9e1';$0",
+        "description": "content",
+        "prefix": "bx-bus-school"
+    },
+    "bx-cabinet": {
+        "body": "content: '\\\\e9e2';$0",
+        "description": "content",
+        "prefix": "bx-cabinet"
+    },
     "bx-cake": {
-        "body": "content: '\\\\e9c0';$0",
+        "body": "content: '\\\\e9e3';$0",
         "description": "content",
         "prefix": "bx-cake"
     },
     "bx-calculator": {
-        "body": "content: '\\\\e9c1';$0",
+        "body": "content: '\\\\e9e4';$0",
         "description": "content",
         "prefix": "bx-calculator"
     },
     "bx-calendar": {
-        "body": "content: '\\\\e9c2';$0",
+        "body": "content: '\\\\e9e5';$0",
         "description": "content",
         "prefix": "bx-calendar"
     },
     "bx-calendar-alt": {
-        "body": "content: '\\\\e9c3';$0",
+        "body": "content: '\\\\e9e6';$0",
         "description": "content",
         "prefix": "bx-calendar-alt"
     },
     "bx-calendar-check": {
-        "body": "content: '\\\\e9c4';$0",
+        "body": "content: '\\\\e9e7';$0",
         "description": "content",
         "prefix": "bx-calendar-check"
     },
+    "bx-calendar-edit": {
+        "body": "content: '\\\\e9e8';$0",
+        "description": "content",
+        "prefix": "bx-calendar-edit"
+    },
     "bx-calendar-event": {
-        "body": "content: '\\\\e9c5';$0",
+        "body": "content: '\\\\e9e9';$0",
         "description": "content",
         "prefix": "bx-calendar-event"
     },
+    "bx-calendar-exclamation": {
+        "body": "content: '\\\\e9ea';$0",
+        "description": "content",
+        "prefix": "bx-calendar-exclamation"
+    },
+    "bx-calendar-heart": {
+        "body": "content: '\\\\e9eb';$0",
+        "description": "content",
+        "prefix": "bx-calendar-heart"
+    },
     "bx-calendar-minus": {
-        "body": "content: '\\\\e9c6';$0",
+        "body": "content: '\\\\e9ec';$0",
         "description": "content",
         "prefix": "bx-calendar-minus"
     },
     "bx-calendar-plus": {
-        "body": "content: '\\\\e9c7';$0",
+        "body": "content: '\\\\e9ed';$0",
         "description": "content",
         "prefix": "bx-calendar-plus"
     },
+    "bx-calendar-star": {
+        "body": "content: '\\\\e9ee';$0",
+        "description": "content",
+        "prefix": "bx-calendar-star"
+    },
+    "bx-calendar-week": {
+        "body": "content: '\\\\e9ef';$0",
+        "description": "content",
+        "prefix": "bx-calendar-week"
+    },
     "bx-calendar-x": {
-        "body": "content: '\\\\e9c8';$0",
+        "body": "content: '\\\\e9f0';$0",
         "description": "content",
         "prefix": "bx-calendar-x"
     },
     "bx-camera": {
-        "body": "content: '\\\\e9c9';$0",
+        "body": "content: '\\\\e9f1';$0",
         "description": "content",
         "prefix": "bx-camera"
     },
+    "bx-camera-home": {
+        "body": "content: '\\\\e9f2';$0",
+        "description": "content",
+        "prefix": "bx-camera-home"
+    },
+    "bx-camera-movie": {
+        "body": "content: '\\\\e9f3';$0",
+        "description": "content",
+        "prefix": "bx-camera-movie"
+    },
     "bx-camera-off": {
-        "body": "content: '\\\\e9ca';$0",
+        "body": "content: '\\\\e9f4';$0",
         "description": "content",
         "prefix": "bx-camera-off"
     },
+    "bx-capsule": {
+        "body": "content: '\\\\e9f5';$0",
+        "description": "content",
+        "prefix": "bx-capsule"
+    },
     "bx-captions": {
-        "body": "content: '\\\\e9cb';$0",
+        "body": "content: '\\\\e9f6';$0",
         "description": "content",
         "prefix": "bx-captions"
     },
     "bx-car": {
-        "body": "content: '\\\\e9cc';$0",
+        "body": "content: '\\\\e9f7';$0",
         "description": "content",
         "prefix": "bx-car"
     },
     "bx-card": {
-        "body": "content: '\\\\e9cd';$0",
+        "body": "content: '\\\\e9f8';$0",
         "description": "content",
         "prefix": "bx-card"
     },
     "bx-caret-down": {
-        "body": "content: '\\\\e9ce';$0",
+        "body": "content: '\\\\e9f9';$0",
         "description": "content",
         "prefix": "bx-caret-down"
     },
+    "bx-caret-down-circle": {
+        "body": "content: '\\\\e9fa';$0",
+        "description": "content",
+        "prefix": "bx-caret-down-circle"
+    },
+    "bx-caret-down-square": {
+        "body": "content: '\\\\e9fb';$0",
+        "description": "content",
+        "prefix": "bx-caret-down-square"
+    },
     "bx-caret-left": {
-        "body": "content: '\\\\e9cf';$0",
+        "body": "content: '\\\\e9fc';$0",
         "description": "content",
         "prefix": "bx-caret-left"
     },
+    "bx-caret-left-circle": {
+        "body": "content: '\\\\e9fd';$0",
+        "description": "content",
+        "prefix": "bx-caret-left-circle"
+    },
+    "bx-caret-left-square": {
+        "body": "content: '\\\\e9fe';$0",
+        "description": "content",
+        "prefix": "bx-caret-left-square"
+    },
     "bx-caret-right": {
-        "body": "content: '\\\\e9d0';$0",
+        "body": "content: '\\\\e9ff';$0",
         "description": "content",
         "prefix": "bx-caret-right"
     },
+    "bx-caret-right-circle": {
+        "body": "content: '\\\\ea00';$0",
+        "description": "content",
+        "prefix": "bx-caret-right-circle"
+    },
+    "bx-caret-right-square": {
+        "body": "content: '\\\\ea01';$0",
+        "description": "content",
+        "prefix": "bx-caret-right-square"
+    },
     "bx-caret-up": {
-        "body": "content: '\\\\e9d1';$0",
+        "body": "content: '\\\\ea02';$0",
         "description": "content",
         "prefix": "bx-caret-up"
     },
+    "bx-caret-up-circle": {
+        "body": "content: '\\\\ea03';$0",
+        "description": "content",
+        "prefix": "bx-caret-up-circle"
+    },
+    "bx-caret-up-square": {
+        "body": "content: '\\\\ea04';$0",
+        "description": "content",
+        "prefix": "bx-caret-up-square"
+    },
     "bx-carousel": {
-        "body": "content: '\\\\e9d2';$0",
+        "body": "content: '\\\\ea05';$0",
         "description": "content",
         "prefix": "bx-carousel"
     },
     "bx-cart": {
-        "body": "content: '\\\\e9d3';$0",
+        "body": "content: '\\\\ea06';$0",
         "description": "content",
         "prefix": "bx-cart"
     },
     "bx-cart-alt": {
-        "body": "content: '\\\\e9d4';$0",
+        "body": "content: '\\\\ea07';$0",
         "description": "content",
         "prefix": "bx-cart-alt"
     },
     "bx-cast": {
-        "body": "content: '\\\\e9d5';$0",
+        "body": "content: '\\\\ea08';$0",
         "description": "content",
         "prefix": "bx-cast"
     },
+    "bx-cctv": {
+        "body": "content: '\\\\ea09';$0",
+        "description": "content",
+        "prefix": "bx-cctv"
+    },
     "bx-certification": {
-        "body": "content: '\\\\e9d6';$0",
+        "body": "content: '\\\\ea0a';$0",
         "description": "content",
         "prefix": "bx-certification"
     },
+    "bx-chair": {
+        "body": "content: '\\\\ea0b';$0",
+        "description": "content",
+        "prefix": "bx-chair"
+    },
     "bx-chalkboard": {
-        "body": "content: '\\\\e9d7';$0",
+        "body": "content: '\\\\ea0c';$0",
         "description": "content",
         "prefix": "bx-chalkboard"
     },
     "bx-chart": {
-        "body": "content: '\\\\e9d8';$0",
+        "body": "content: '\\\\ea0d';$0",
         "description": "content",
         "prefix": "bx-chart"
     },
     "bx-chat": {
-        "body": "content: '\\\\e9d9';$0",
+        "body": "content: '\\\\ea0e';$0",
         "description": "content",
         "prefix": "bx-chat"
     },
     "bx-check": {
-        "body": "content: '\\\\e9da';$0",
+        "body": "content: '\\\\ea0f';$0",
         "description": "content",
         "prefix": "bx-check"
     },
     "bx-checkbox": {
-        "body": "content: '\\\\e9db';$0",
+        "body": "content: '\\\\ea10';$0",
         "description": "content",
         "prefix": "bx-checkbox"
     },
     "bx-checkbox-checked": {
-        "body": "content: '\\\\e9dc';$0",
+        "body": "content: '\\\\ea11';$0",
         "description": "content",
         "prefix": "bx-checkbox-checked"
     },
     "bx-checkbox-square": {
-        "body": "content: '\\\\e9dd';$0",
+        "body": "content: '\\\\ea12';$0",
         "description": "content",
         "prefix": "bx-checkbox-square"
     },
     "bx-check-circle": {
-        "body": "content: '\\\\e9de';$0",
+        "body": "content: '\\\\ea13';$0",
         "description": "content",
         "prefix": "bx-check-circle"
     },
     "bx-check-double": {
-        "body": "content: '\\\\e9df';$0",
+        "body": "content: '\\\\ea14';$0",
         "description": "content",
         "prefix": "bx-check-double"
     },
     "bx-check-shield": {
-        "body": "content: '\\\\e9e0';$0",
+        "body": "content: '\\\\ea15';$0",
         "description": "content",
         "prefix": "bx-check-shield"
     },
     "bx-check-square": {
-        "body": "content: '\\\\e9e1';$0",
+        "body": "content: '\\\\ea16';$0",
         "description": "content",
         "prefix": "bx-check-square"
     },
     "bx-chevron-down": {
-        "body": "content: '\\\\e9e2';$0",
+        "body": "content: '\\\\ea17';$0",
         "description": "content",
         "prefix": "bx-chevron-down"
     },
+    "bx-chevron-down-circle": {
+        "body": "content: '\\\\ea18';$0",
+        "description": "content",
+        "prefix": "bx-chevron-down-circle"
+    },
+    "bx-chevron-down-square": {
+        "body": "content: '\\\\ea19';$0",
+        "description": "content",
+        "prefix": "bx-chevron-down-square"
+    },
     "bx-chevron-left": {
-        "body": "content: '\\\\e9e3';$0",
+        "body": "content: '\\\\ea1a';$0",
         "description": "content",
         "prefix": "bx-chevron-left"
     },
+    "bx-chevron-left-circle": {
+        "body": "content: '\\\\ea1b';$0",
+        "description": "content",
+        "prefix": "bx-chevron-left-circle"
+    },
+    "bx-chevron-left-square": {
+        "body": "content: '\\\\ea1c';$0",
+        "description": "content",
+        "prefix": "bx-chevron-left-square"
+    },
     "bx-chevron-right": {
-        "body": "content: '\\\\e9e4';$0",
+        "body": "content: '\\\\ea1d';$0",
         "description": "content",
         "prefix": "bx-chevron-right"
     },
+    "bx-chevron-right-circle": {
+        "body": "content: '\\\\ea1e';$0",
+        "description": "content",
+        "prefix": "bx-chevron-right-circle"
+    },
+    "bx-chevron-right-square": {
+        "body": "content: '\\\\ea1f';$0",
+        "description": "content",
+        "prefix": "bx-chevron-right-square"
+    },
     "bx-chevrons-down": {
-        "body": "content: '\\\\e9e5';$0",
+        "body": "content: '\\\\ea20';$0",
         "description": "content",
         "prefix": "bx-chevrons-down"
     },
     "bx-chevrons-left": {
-        "body": "content: '\\\\e9e6';$0",
+        "body": "content: '\\\\ea21';$0",
         "description": "content",
         "prefix": "bx-chevrons-left"
     },
     "bx-chevrons-right": {
-        "body": "content: '\\\\e9e7';$0",
+        "body": "content: '\\\\ea22';$0",
         "description": "content",
         "prefix": "bx-chevrons-right"
     },
     "bx-chevrons-up": {
-        "body": "content: '\\\\e9e8';$0",
+        "body": "content: '\\\\ea23';$0",
         "description": "content",
         "prefix": "bx-chevrons-up"
     },
     "bx-chevron-up": {
-        "body": "content: '\\\\e9e9';$0",
+        "body": "content: '\\\\ea24';$0",
         "description": "content",
         "prefix": "bx-chevron-up"
     },
+    "bx-chevron-up-circle": {
+        "body": "content: '\\\\ea25';$0",
+        "description": "content",
+        "prefix": "bx-chevron-up-circle"
+    },
+    "bx-chevron-up-square": {
+        "body": "content: '\\\\ea26';$0",
+        "description": "content",
+        "prefix": "bx-chevron-up-square"
+    },
     "bx-chip": {
-        "body": "content: '\\\\e9ea';$0",
+        "body": "content: '\\\\ea27';$0",
         "description": "content",
         "prefix": "bx-chip"
     },
+    "bx-church": {
+        "body": "content: '\\\\ea28';$0",
+        "description": "content",
+        "prefix": "bx-church"
+    },
     "bx-circle": {
-        "body": "content: '\\\\e9eb';$0",
+        "body": "content: '\\\\ea29';$0",
         "description": "content",
         "prefix": "bx-circle"
     },
     "bx-clinic": {
-        "body": "content: '\\\\e9ec';$0",
+        "body": "content: '\\\\ea2a';$0",
         "description": "content",
         "prefix": "bx-clinic"
     },
     "bx-clipboard": {
-        "body": "content: '\\\\e9ed';$0",
+        "body": "content: '\\\\ea2b';$0",
         "description": "content",
         "prefix": "bx-clipboard"
     },
     "bx-closet": {
-        "body": "content: '\\\\e9ee';$0",
+        "body": "content: '\\\\ea2c';$0",
         "description": "content",
         "prefix": "bx-closet"
     },
     "bx-cloud": {
-        "body": "content: '\\\\e9ef';$0",
+        "body": "content: '\\\\ea2d';$0",
         "description": "content",
         "prefix": "bx-cloud"
     },
     "bx-cloud-download": {
-        "body": "content: '\\\\e9f0';$0",
+        "body": "content: '\\\\ea2e';$0",
         "description": "content",
         "prefix": "bx-cloud-download"
     },
     "bx-cloud-drizzle": {
-        "body": "content: '\\\\e9f1';$0",
+        "body": "content: '\\\\ea2f';$0",
         "description": "content",
         "prefix": "bx-cloud-drizzle"
     },
     "bx-cloud-lightning": {
-        "body": "content: '\\\\e9f2';$0",
+        "body": "content: '\\\\ea30';$0",
         "description": "content",
         "prefix": "bx-cloud-lightning"
     },
     "bx-cloud-light-rain": {
-        "body": "content: '\\\\e9f3';$0",
+        "body": "content: '\\\\ea31';$0",
         "description": "content",
         "prefix": "bx-cloud-light-rain"
     },
     "bx-cloud-rain": {
-        "body": "content: '\\\\e9f4';$0",
+        "body": "content: '\\\\ea32';$0",
         "description": "content",
         "prefix": "bx-cloud-rain"
     },
     "bx-cloud-snow": {
-        "body": "content: '\\\\e9f5';$0",
+        "body": "content: '\\\\ea33';$0",
         "description": "content",
         "prefix": "bx-cloud-snow"
     },
     "bx-cloud-upload": {
-        "body": "content: '\\\\e9f6';$0",
+        "body": "content: '\\\\ea34';$0",
         "description": "content",
         "prefix": "bx-cloud-upload"
     },
     "bx-code": {
-        "body": "content: '\\\\e9f7';$0",
+        "body": "content: '\\\\ea35';$0",
         "description": "content",
         "prefix": "bx-code"
     },
     "bx-code-alt": {
-        "body": "content: '\\\\e9f8';$0",
+        "body": "content: '\\\\ea36';$0",
         "description": "content",
         "prefix": "bx-code-alt"
     },
     "bx-code-block": {
-        "body": "content: '\\\\e9f9';$0",
+        "body": "content: '\\\\ea37';$0",
         "description": "content",
         "prefix": "bx-code-block"
     },
     "bx-code-curly": {
-        "body": "content: '\\\\e9fa';$0",
+        "body": "content: '\\\\ea38';$0",
         "description": "content",
         "prefix": "bx-code-curly"
     },
     "bx-coffee": {
-        "body": "content: '\\\\e9fb';$0",
+        "body": "content: '\\\\ea39';$0",
         "description": "content",
         "prefix": "bx-coffee"
     },
+    "bx-coffee-togo": {
+        "body": "content: '\\\\ea3a';$0",
+        "description": "content",
+        "prefix": "bx-coffee-togo"
+    },
     "bx-cog": {
-        "body": "content: '\\\\e9fc';$0",
+        "body": "content: '\\\\ea3b';$0",
         "description": "content",
         "prefix": "bx-cog"
     },
+    "bx-coin": {
+        "body": "content: '\\\\ea3c';$0",
+        "description": "content",
+        "prefix": "bx-coin"
+    },
+    "bx-coin-stack": {
+        "body": "content: '\\\\ea3d';$0",
+        "description": "content",
+        "prefix": "bx-coin-stack"
+    },
     "bx-collapse": {
-        "body": "content: '\\\\e9fd';$0",
+        "body": "content: '\\\\ea3e';$0",
         "description": "content",
         "prefix": "bx-collapse"
     },
     "bx-collection": {
-        "body": "content: '\\\\e9fe';$0",
+        "body": "content: '\\\\ea3f';$0",
         "description": "content",
         "prefix": "bx-collection"
     },
+    "bx-color-fill": {
+        "body": "content: '\\\\ea40';$0",
+        "description": "content",
+        "prefix": "bx-color-fill"
+    },
     "bx-columns": {
-        "body": "content: '\\\\e9ff';$0",
+        "body": "content: '\\\\ea41';$0",
         "description": "content",
         "prefix": "bx-columns"
     },
     "bx-command": {
-        "body": "content: '\\\\ea00';$0",
+        "body": "content: '\\\\ea42';$0",
         "description": "content",
         "prefix": "bx-command"
     },
     "bx-comment": {
-        "body": "content: '\\\\ea01';$0",
+        "body": "content: '\\\\ea43';$0",
         "description": "content",
         "prefix": "bx-comment"
     },
+    "bx-comment-add": {
+        "body": "content: '\\\\ea44';$0",
+        "description": "content",
+        "prefix": "bx-comment-add"
+    },
+    "bx-comment-check": {
+        "body": "content: '\\\\ea45';$0",
+        "description": "content",
+        "prefix": "bx-comment-check"
+    },
+    "bx-comment-detail": {
+        "body": "content: '\\\\ea46';$0",
+        "description": "content",
+        "prefix": "bx-comment-detail"
+    },
     "bx-comment-dots": {
-        "body": "content: '\\\\ea02';$0",
+        "body": "content: '\\\\ea47';$0",
         "description": "content",
         "prefix": "bx-comment-dots"
     },
+    "bx-comment-edit": {
+        "body": "content: '\\\\ea48';$0",
+        "description": "content",
+        "prefix": "bx-comment-edit"
+    },
+    "bx-comment-error": {
+        "body": "content: '\\\\ea49';$0",
+        "description": "content",
+        "prefix": "bx-comment-error"
+    },
+    "bx-comment-minus": {
+        "body": "content: '\\\\ea4a';$0",
+        "description": "content",
+        "prefix": "bx-comment-minus"
+    },
+    "bx-comment-x": {
+        "body": "content: '\\\\ea4b';$0",
+        "description": "content",
+        "prefix": "bx-comment-x"
+    },
     "bx-compass": {
-        "body": "content: '\\\\ea03';$0",
+        "body": "content: '\\\\ea4c';$0",
         "description": "content",
         "prefix": "bx-compass"
     },
     "bx-confused": {
-        "body": "content: '\\\\ea04';$0",
+        "body": "content: '\\\\ea4d';$0",
         "description": "content",
         "prefix": "bx-confused"
     },
     "bx-conversation": {
-        "body": "content: '\\\\ea05';$0",
+        "body": "content: '\\\\ea4e';$0",
         "description": "content",
         "prefix": "bx-conversation"
     },
+    "bx-cookie": {
+        "body": "content: '\\\\ea4f';$0",
+        "description": "content",
+        "prefix": "bx-cookie"
+    },
     "bx-cool": {
-        "body": "content: '\\\\ea06';$0",
+        "body": "content: '\\\\ea50';$0",
         "description": "content",
         "prefix": "bx-cool"
     },
     "bx-copy": {
-        "body": "content: '\\\\ea07';$0",
+        "body": "content: '\\\\ea51';$0",
         "description": "content",
         "prefix": "bx-copy"
     },
     "bx-copy-alt": {
-        "body": "content: '\\\\ea08';$0",
+        "body": "content: '\\\\ea52';$0",
         "description": "content",
         "prefix": "bx-copy-alt"
     },
     "bx-copyright": {
-        "body": "content: '\\\\ea09';$0",
+        "body": "content: '\\\\ea53';$0",
         "description": "content",
         "prefix": "bx-copyright"
     },
     "bx-credit-card": {
-        "body": "content: '\\\\ea0a';$0",
+        "body": "content: '\\\\ea54';$0",
         "description": "content",
         "prefix": "bx-credit-card"
     },
     "bx-credit-card-alt": {
-        "body": "content: '\\\\ea0b';$0",
+        "body": "content: '\\\\ea55';$0",
         "description": "content",
         "prefix": "bx-credit-card-alt"
     },
+    "bx-credit-card-front": {
+        "body": "content: '\\\\ea56';$0",
+        "description": "content",
+        "prefix": "bx-credit-card-front"
+    },
     "bx-crop": {
-        "body": "content: '\\\\ea0c';$0",
+        "body": "content: '\\\\ea57';$0",
         "description": "content",
         "prefix": "bx-crop"
     },
     "bx-crosshair": {
-        "body": "content: '\\\\ea0d';$0",
+        "body": "content: '\\\\ea58';$0",
         "description": "content",
         "prefix": "bx-crosshair"
     },
     "bx-crown": {
-        "body": "content: '\\\\ea0e';$0",
+        "body": "content: '\\\\ea59';$0",
         "description": "content",
         "prefix": "bx-crown"
     },
     "bx-cube": {
-        "body": "content: '\\\\ea0f';$0",
+        "body": "content: '\\\\ea5a';$0",
         "description": "content",
         "prefix": "bx-cube"
     },
     "bx-cube-alt": {
-        "body": "content: '\\\\ea10';$0",
+        "body": "content: '\\\\ea5b';$0",
         "description": "content",
         "prefix": "bx-cube-alt"
     },
     "bx-cuboid": {
-        "body": "content: '\\\\ea11';$0",
+        "body": "content: '\\\\ea5c';$0",
         "description": "content",
         "prefix": "bx-cuboid"
     },
+    "bx-current-location": {
+        "body": "content: '\\\\ea5d';$0",
+        "description": "content",
+        "prefix": "bx-current-location"
+    },
     "bx-customize": {
-        "body": "content: '\\\\ea12';$0",
+        "body": "content: '\\\\ea5e';$0",
         "description": "content",
         "prefix": "bx-customize"
     },
     "bx-cut": {
-        "body": "content: '\\\\ea13';$0",
+        "body": "content: '\\\\ea5f';$0",
         "description": "content",
         "prefix": "bx-cut"
     },
     "bx-cycling": {
-        "body": "content: '\\\\ea14';$0",
+        "body": "content: '\\\\ea60';$0",
         "description": "content",
         "prefix": "bx-cycling"
     },
     "bx-cylinder": {
-        "body": "content: '\\\\ea15';$0",
+        "body": "content: '\\\\ea61';$0",
         "description": "content",
         "prefix": "bx-cylinder"
     },
     "bx-data": {
-        "body": "content: '\\\\ea16';$0",
+        "body": "content: '\\\\ea62';$0",
         "description": "content",
         "prefix": "bx-data"
     },
     "bx-desktop": {
-        "body": "content: '\\\\ea17';$0",
+        "body": "content: '\\\\ea63';$0",
         "description": "content",
         "prefix": "bx-desktop"
     },
     "bx-detail": {
-        "body": "content: '\\\\ea18';$0",
+        "body": "content: '\\\\ea64';$0",
         "description": "content",
         "prefix": "bx-detail"
     },
     "bx-devices": {
-        "body": "content: '\\\\ea19';$0",
+        "body": "content: '\\\\ea65';$0",
         "description": "content",
         "prefix": "bx-devices"
     },
     "bx-dialpad": {
-        "body": "content: '\\\\ea1a';$0",
+        "body": "content: '\\\\ea66';$0",
         "description": "content",
         "prefix": "bx-dialpad"
     },
     "bx-dialpad-alt": {
-        "body": "content: '\\\\ea1b';$0",
+        "body": "content: '\\\\ea67';$0",
         "description": "content",
         "prefix": "bx-dialpad-alt"
     },
     "bx-diamond": {
-        "body": "content: '\\\\ea1c';$0",
+        "body": "content: '\\\\ea68';$0",
         "description": "content",
         "prefix": "bx-diamond"
     },
+    "bx-dice-1": {
+        "body": "content: '\\\\ea69';$0",
+        "description": "content",
+        "prefix": "bx-dice-1"
+    },
+    "bx-dice-2": {
+        "body": "content: '\\\\ea6a';$0",
+        "description": "content",
+        "prefix": "bx-dice-2"
+    },
+    "bx-dice-3": {
+        "body": "content: '\\\\ea6b';$0",
+        "description": "content",
+        "prefix": "bx-dice-3"
+    },
+    "bx-dice-4": {
+        "body": "content: '\\\\ea6c';$0",
+        "description": "content",
+        "prefix": "bx-dice-4"
+    },
+    "bx-dice-5": {
+        "body": "content: '\\\\ea6d';$0",
+        "description": "content",
+        "prefix": "bx-dice-5"
+    },
+    "bx-dice-6": {
+        "body": "content: '\\\\ea6e';$0",
+        "description": "content",
+        "prefix": "bx-dice-6"
+    },
     "bx-directions": {
-        "body": "content: '\\\\ea1d';$0",
+        "body": "content: '\\\\ea6f';$0",
         "description": "content",
         "prefix": "bx-directions"
     },
     "bx-disc": {
-        "body": "content: '\\\\ea1e';$0",
+        "body": "content: '\\\\ea70';$0",
         "description": "content",
         "prefix": "bx-disc"
     },
     "bx-dish": {
-        "body": "content: '\\\\ea1f';$0",
+        "body": "content: '\\\\ea71';$0",
         "description": "content",
         "prefix": "bx-dish"
     },
     "bx-dislike": {
-        "body": "content: '\\\\ea20';$0",
+        "body": "content: '\\\\ea72';$0",
         "description": "content",
         "prefix": "bx-dislike"
     },
     "bx-dizzy": {
-        "body": "content: '\\\\ea21';$0",
+        "body": "content: '\\\\ea73';$0",
         "description": "content",
         "prefix": "bx-dizzy"
     },
     "bx-dna": {
-        "body": "content: '\\\\ea22';$0",
+        "body": "content: '\\\\ea74';$0",
         "description": "content",
         "prefix": "bx-dna"
     },
     "bx-dock-bottom": {
-        "body": "content: '\\\\ea23';$0",
+        "body": "content: '\\\\ea75';$0",
         "description": "content",
         "prefix": "bx-dock-bottom"
     },
     "bx-dock-left": {
-        "body": "content: '\\\\ea24';$0",
+        "body": "content: '\\\\ea76';$0",
         "description": "content",
         "prefix": "bx-dock-left"
     },
     "bx-dock-right": {
-        "body": "content: '\\\\ea25';$0",
+        "body": "content: '\\\\ea77';$0",
         "description": "content",
         "prefix": "bx-dock-right"
     },
     "bx-dock-top": {
-        "body": "content: '\\\\ea26';$0",
+        "body": "content: '\\\\ea78';$0",
         "description": "content",
         "prefix": "bx-dock-top"
     },
     "bx-dollar": {
-        "body": "content: '\\\\ea27';$0",
+        "body": "content: '\\\\ea79';$0",
         "description": "content",
         "prefix": "bx-dollar"
     },
     "bx-dollar-circle": {
-        "body": "content: '\\\\ea28';$0",
+        "body": "content: '\\\\ea7a';$0",
         "description": "content",
         "prefix": "bx-dollar-circle"
     },
+    "bx-donate-blood": {
+        "body": "content: '\\\\ea7b';$0",
+        "description": "content",
+        "prefix": "bx-donate-blood"
+    },
+    "bx-donate-heart": {
+        "body": "content: '\\\\ea7c';$0",
+        "description": "content",
+        "prefix": "bx-donate-heart"
+    },
+    "bx-door-open": {
+        "body": "content: '\\\\ea7d';$0",
+        "description": "content",
+        "prefix": "bx-door-open"
+    },
     "bx-dots-horizontal": {
-        "body": "content: '\\\\ea29';$0",
+        "body": "content: '\\\\ea7e';$0",
         "description": "content",
         "prefix": "bx-dots-horizontal"
     },
     "bx-dots-horizontal-rounded": {
-        "body": "content: '\\\\ea2a';$0",
+        "body": "content: '\\\\ea7f';$0",
         "description": "content",
         "prefix": "bx-dots-horizontal-rounded"
     },
     "bx-dots-vertical": {
-        "body": "content: '\\\\ea2b';$0",
+        "body": "content: '\\\\ea80';$0",
         "description": "content",
         "prefix": "bx-dots-vertical"
     },
     "bx-dots-vertical-rounded": {
-        "body": "content: '\\\\ea2c';$0",
+        "body": "content: '\\\\ea81';$0",
         "description": "content",
         "prefix": "bx-dots-vertical-rounded"
     },
     "bx-doughnut-chart": {
-        "body": "content: '\\\\ea2d';$0",
+        "body": "content: '\\\\ea82';$0",
         "description": "content",
         "prefix": "bx-doughnut-chart"
     },
     "bx-down-arrow": {
-        "body": "content: '\\\\ea2e';$0",
+        "body": "content: '\\\\ea83';$0",
         "description": "content",
         "prefix": "bx-down-arrow"
     },
     "bx-down-arrow-alt": {
-        "body": "content: '\\\\ea2f';$0",
+        "body": "content: '\\\\ea84';$0",
         "description": "content",
         "prefix": "bx-down-arrow-alt"
     },
     "bx-down-arrow-circle": {
-        "body": "content: '\\\\ea30';$0",
+        "body": "content: '\\\\ea85';$0",
         "description": "content",
         "prefix": "bx-down-arrow-circle"
     },
     "bx-download": {
-        "body": "content: '\\\\ea31';$0",
+        "body": "content: '\\\\ea86';$0",
         "description": "content",
         "prefix": "bx-download"
     },
     "bx-downvote": {
-        "body": "content: '\\\\ea32';$0",
+        "body": "content: '\\\\ea87';$0",
         "description": "content",
         "prefix": "bx-downvote"
     },
+    "bx-drink": {
+        "body": "content: '\\\\ea88';$0",
+        "description": "content",
+        "prefix": "bx-drink"
+    },
     "bx-droplet": {
-        "body": "content: '\\\\ea33';$0",
+        "body": "content: '\\\\ea89';$0",
         "description": "content",
         "prefix": "bx-droplet"
     },
     "bx-dumbbell": {
-        "body": "content: '\\\\ea34';$0",
+        "body": "content: '\\\\ea8a';$0",
         "description": "content",
         "prefix": "bx-dumbbell"
     },
     "bx-duplicate": {
-        "body": "content: '\\\\ea35';$0",
+        "body": "content: '\\\\ea8b';$0",
         "description": "content",
         "prefix": "bx-duplicate"
     },
     "bx-edit": {
-        "body": "content: '\\\\ea36';$0",
+        "body": "content: '\\\\ea8c';$0",
         "description": "content",
         "prefix": "bx-edit"
     },
     "bx-edit-alt": {
-        "body": "content: '\\\\ea37';$0",
+        "body": "content: '\\\\ea8d';$0",
         "description": "content",
         "prefix": "bx-edit-alt"
     },
     "bx-envelope": {
-        "body": "content: '\\\\ea38';$0",
+        "body": "content: '\\\\ea8e';$0",
         "description": "content",
         "prefix": "bx-envelope"
     },
+    "bx-envelope-open": {
+        "body": "content: '\\\\ea8f';$0",
+        "description": "content",
+        "prefix": "bx-envelope-open"
+    },
     "bx-equalizer": {
-        "body": "content: '\\\\ea39';$0",
+        "body": "content: '\\\\ea90';$0",
         "description": "content",
         "prefix": "bx-equalizer"
     },
+    "bx-eraser": {
+        "body": "content: '\\\\ea91';$0",
+        "description": "content",
+        "prefix": "bx-eraser"
+    },
     "bx-error": {
-        "body": "content: '\\\\ea3a';$0",
+        "body": "content: '\\\\ea92';$0",
         "description": "content",
         "prefix": "bx-error"
     },
     "bx-error-alt": {
-        "body": "content: '\\\\ea3b';$0",
+        "body": "content: '\\\\ea93';$0",
         "description": "content",
         "prefix": "bx-error-alt"
     },
     "bx-error-circle": {
-        "body": "content: '\\\\ea3c';$0",
+        "body": "content: '\\\\ea94';$0",
         "description": "content",
         "prefix": "bx-error-circle"
     },
     "bx-euro": {
-        "body": "content: '\\\\ea3d';$0",
+        "body": "content: '\\\\ea95';$0",
         "description": "content",
         "prefix": "bx-euro"
     },
+    "bx-exclude": {
+        "body": "content: '\\\\ea96';$0",
+        "description": "content",
+        "prefix": "bx-exclude"
+    },
     "bx-exit": {
-        "body": "content: '\\\\ea3e';$0",
+        "body": "content: '\\\\ea97';$0",
         "description": "content",
         "prefix": "bx-exit"
     },
     "bx-exit-fullscreen": {
-        "body": "content: '\\\\ea3f';$0",
+        "body": "content: '\\\\ea98';$0",
         "description": "content",
         "prefix": "bx-exit-fullscreen"
     },
     "bx-expand": {
-        "body": "content: '\\\\ea40';$0",
+        "body": "content: '\\\\ea99';$0",
         "description": "content",
         "prefix": "bx-expand"
     },
     "bx-export": {
-        "body": "content: '\\\\ea41';$0",
+        "body": "content: '\\\\ea9a';$0",
         "description": "content",
         "prefix": "bx-export"
     },
     "bx-extension": {
-        "body": "content: '\\\\ea42';$0",
+        "body": "content: '\\\\ea9b';$0",
         "description": "content",
         "prefix": "bx-extension"
     },
     "bx-face": {
-        "body": "content: '\\\\ea43';$0",
+        "body": "content: '\\\\ea9c';$0",
         "description": "content",
         "prefix": "bx-face"
     },
     "bx-fast-forward": {
-        "body": "content: '\\\\ea44';$0",
+        "body": "content: '\\\\ea9d';$0",
         "description": "content",
         "prefix": "bx-fast-forward"
     },
     "bx-fast-forward-circle": {
-        "body": "content: '\\\\ea45';$0",
+        "body": "content: '\\\\ea9e';$0",
         "description": "content",
         "prefix": "bx-fast-forward-circle"
     },
     "bx-female": {
-        "body": "content: '\\\\ea46';$0",
+        "body": "content: '\\\\ea9f';$0",
         "description": "content",
         "prefix": "bx-female"
     },
     "bx-female-sign": {
-        "body": "content: '\\\\ea47';$0",
+        "body": "content: '\\\\eaa0';$0",
         "description": "content",
         "prefix": "bx-female-sign"
     },
     "bx-file": {
-        "body": "content: '\\\\ea48';$0",
+        "body": "content: '\\\\eaa1';$0",
         "description": "content",
         "prefix": "bx-file"
     },
     "bx-file-blank": {
-        "body": "content: '\\\\ea49';$0",
+        "body": "content: '\\\\eaa2';$0",
         "description": "content",
         "prefix": "bx-file-blank"
     },
     "bx-file-find": {
-        "body": "content: '\\\\ea4a';$0",
+        "body": "content: '\\\\eaa3';$0",
         "description": "content",
         "prefix": "bx-file-find"
     },
     "bx-film": {
-        "body": "content: '\\\\ea4b';$0",
+        "body": "content: '\\\\eaa4';$0",
         "description": "content",
         "prefix": "bx-film"
     },
     "bx-filter": {
-        "body": "content: '\\\\ea4c';$0",
+        "body": "content: '\\\\eaa5';$0",
         "description": "content",
         "prefix": "bx-filter"
     },
     "bx-filter-alt": {
-        "body": "content: '\\\\ea4d';$0",
+        "body": "content: '\\\\eaa6';$0",
         "description": "content",
         "prefix": "bx-filter-alt"
     },
     "bx-fingerprint": {
-        "body": "content: '\\\\ea4e';$0",
+        "body": "content: '\\\\eaa7';$0",
         "description": "content",
         "prefix": "bx-fingerprint"
     },
     "bx-first-aid": {
-        "body": "content: '\\\\ea4f';$0",
+        "body": "content: '\\\\eaa8';$0",
         "description": "content",
         "prefix": "bx-first-aid"
     },
     "bx-first-page": {
-        "body": "content: '\\\\ea50';$0",
+        "body": "content: '\\\\eaa9';$0",
         "description": "content",
         "prefix": "bx-first-page"
     },
     "bx-flag": {
-        "body": "content: '\\\\ea51';$0",
+        "body": "content: '\\\\eaaa';$0",
         "description": "content",
         "prefix": "bx-flag"
     },
     "bx-folder": {
-        "body": "content: '\\\\ea52';$0",
+        "body": "content: '\\\\eaab';$0",
         "description": "content",
         "prefix": "bx-folder"
     },
     "bx-folder-minus": {
-        "body": "content: '\\\\ea53';$0",
+        "body": "content: '\\\\eaac';$0",
         "description": "content",
         "prefix": "bx-folder-minus"
     },
     "bx-folder-open": {
-        "body": "content: '\\\\ea54';$0",
+        "body": "content: '\\\\eaad';$0",
         "description": "content",
         "prefix": "bx-folder-open"
     },
     "bx-folder-plus": {
-        "body": "content: '\\\\ea55';$0",
+        "body": "content: '\\\\eaae';$0",
         "description": "content",
         "prefix": "bx-folder-plus"
     },
     "bx-font": {
-        "body": "content: '\\\\ea56';$0",
+        "body": "content: '\\\\eaaf';$0",
         "description": "content",
         "prefix": "bx-font"
     },
     "bx-font-color": {
-        "body": "content: '\\\\ea57';$0",
+        "body": "content: '\\\\eab0';$0",
         "description": "content",
         "prefix": "bx-font-color"
     },
     "bx-font-family": {
-        "body": "content: '\\\\ea58';$0",
+        "body": "content: '\\\\eab1';$0",
         "description": "content",
         "prefix": "bx-font-family"
     },
     "bx-font-size": {
-        "body": "content: '\\\\ea59';$0",
+        "body": "content: '\\\\eab2';$0",
         "description": "content",
         "prefix": "bx-font-size"
     },
     "bx-food-menu": {
-        "body": "content: '\\\\ea5a';$0",
+        "body": "content: '\\\\eab3';$0",
         "description": "content",
         "prefix": "bx-food-menu"
     },
     "bx-food-tag": {
-        "body": "content: '\\\\ea5b';$0",
+        "body": "content: '\\\\eab4';$0",
         "description": "content",
         "prefix": "bx-food-tag"
     },
     "bx-football": {
-        "body": "content: '\\\\ea5c';$0",
+        "body": "content: '\\\\eab5';$0",
         "description": "content",
         "prefix": "bx-football"
     },
     "bx-fridge": {
-        "body": "content: '\\\\ea5d';$0",
+        "body": "content: '\\\\eab6';$0",
         "description": "content",
         "prefix": "bx-fridge"
     },
     "bx-fullscreen": {
-        "body": "content: '\\\\ea5e';$0",
+        "body": "content: '\\\\eab7';$0",
         "description": "content",
         "prefix": "bx-fullscreen"
     },
+    "bx-game": {
+        "body": "content: '\\\\eab8';$0",
+        "description": "content",
+        "prefix": "bx-game"
+    },
     "bx-gas-pump": {
-        "body": "content: '\\\\ea5f';$0",
+        "body": "content: '\\\\eab9';$0",
         "description": "content",
         "prefix": "bx-gas-pump"
     },
     "bx-ghost": {
-        "body": "content: '\\\\ea60';$0",
+        "body": "content: '\\\\eaba';$0",
         "description": "content",
         "prefix": "bx-ghost"
     },
     "bx-gift": {
-        "body": "content: '\\\\ea61';$0",
+        "body": "content: '\\\\eabb';$0",
         "description": "content",
         "prefix": "bx-gift"
     },
     "bx-git-branch": {
-        "body": "content: '\\\\ea62';$0",
+        "body": "content: '\\\\eabc';$0",
         "description": "content",
         "prefix": "bx-git-branch"
     },
     "bx-git-commit": {
-        "body": "content: '\\\\ea63';$0",
+        "body": "content: '\\\\eabd';$0",
         "description": "content",
         "prefix": "bx-git-commit"
     },
     "bx-git-compare": {
-        "body": "content: '\\\\ea64';$0",
+        "body": "content: '\\\\eabe';$0",
         "description": "content",
         "prefix": "bx-git-compare"
     },
     "bx-git-merge": {
-        "body": "content: '\\\\ea65';$0",
+        "body": "content: '\\\\eabf';$0",
         "description": "content",
         "prefix": "bx-git-merge"
     },
     "bx-git-pull-request": {
-        "body": "content: '\\\\ea66';$0",
+        "body": "content: '\\\\eac0';$0",
         "description": "content",
         "prefix": "bx-git-pull-request"
     },
     "bx-git-repo-forked": {
-        "body": "content: '\\\\ea67';$0",
+        "body": "content: '\\\\eac1';$0",
         "description": "content",
         "prefix": "bx-git-repo-forked"
     },
+    "bx-glasses": {
+        "body": "content: '\\\\eac2';$0",
+        "description": "content",
+        "prefix": "bx-glasses"
+    },
+    "bx-glasses-alt": {
+        "body": "content: '\\\\eac3';$0",
+        "description": "content",
+        "prefix": "bx-glasses-alt"
+    },
     "bx-globe": {
-        "body": "content: '\\\\ea68';$0",
+        "body": "content: '\\\\eac4';$0",
         "description": "content",
         "prefix": "bx-globe"
     },
     "bx-globe-alt": {
-        "body": "content: '\\\\ea69';$0",
+        "body": "content: '\\\\eac5';$0",
         "description": "content",
         "prefix": "bx-globe-alt"
     },
     "bx-grid": {
-        "body": "content: '\\\\ea6a';$0",
+        "body": "content: '\\\\eac6';$0",
         "description": "content",
         "prefix": "bx-grid"
     },
     "bx-grid-alt": {
-        "body": "content: '\\\\ea6b';$0",
+        "body": "content: '\\\\eac7';$0",
         "description": "content",
         "prefix": "bx-grid-alt"
     },
     "bx-grid-horizontal": {
-        "body": "content: '\\\\ea6c';$0",
+        "body": "content: '\\\\eac8';$0",
         "description": "content",
         "prefix": "bx-grid-horizontal"
     },
     "bx-grid-small": {
-        "body": "content: '\\\\ea6d';$0",
+        "body": "content: '\\\\eac9';$0",
         "description": "content",
         "prefix": "bx-grid-small"
     },
     "bx-grid-vertical": {
-        "body": "content: '\\\\ea6e';$0",
+        "body": "content: '\\\\eaca';$0",
         "description": "content",
         "prefix": "bx-grid-vertical"
     },
     "bx-group": {
-        "body": "content: '\\\\ea6f';$0",
+        "body": "content: '\\\\eacb';$0",
         "description": "content",
         "prefix": "bx-group"
     },
     "bx-handicap": {
-        "body": "content: '\\\\ea70';$0",
+        "body": "content: '\\\\eacc';$0",
         "description": "content",
         "prefix": "bx-handicap"
     },
     "bx-happy": {
-        "body": "content: '\\\\ea71';$0",
+        "body": "content: '\\\\eacd';$0",
         "description": "content",
         "prefix": "bx-happy"
     },
     "bx-happy-alt": {
-        "body": "content: '\\\\ea72';$0",
+        "body": "content: '\\\\eace';$0",
         "description": "content",
         "prefix": "bx-happy-alt"
     },
     "bx-happy-beaming": {
-        "body": "content: '\\\\ea73';$0",
+        "body": "content: '\\\\eacf';$0",
         "description": "content",
         "prefix": "bx-happy-beaming"
     },
     "bx-happy-heart-eyes": {
-        "body": "content: '\\\\ea74';$0",
+        "body": "content: '\\\\ead0';$0",
         "description": "content",
         "prefix": "bx-happy-heart-eyes"
     },
     "bx-hash": {
-        "body": "content: '\\\\ea75';$0",
+        "body": "content: '\\\\ead1';$0",
         "description": "content",
         "prefix": "bx-hash"
     },
     "bx-hdd": {
-        "body": "content: '\\\\ea76';$0",
+        "body": "content: '\\\\ead2';$0",
         "description": "content",
         "prefix": "bx-hdd"
     },
     "bx-heading": {
-        "body": "content: '\\\\ea77';$0",
+        "body": "content: '\\\\ead3';$0",
         "description": "content",
         "prefix": "bx-heading"
     },
     "bx-headphone": {
-        "body": "content: '\\\\ea78';$0",
+        "body": "content: '\\\\ead4';$0",
         "description": "content",
         "prefix": "bx-headphone"
     },
     "bx-health": {
-        "body": "content: '\\\\ea79';$0",
+        "body": "content: '\\\\ead5';$0",
         "description": "content",
         "prefix": "bx-health"
     },
     "bx-heart": {
-        "body": "content: '\\\\ea7a';$0",
+        "body": "content: '\\\\ead6';$0",
         "description": "content",
         "prefix": "bx-heart"
     },
+    "bx-heart-circle": {
+        "body": "content: '\\\\ead7';$0",
+        "description": "content",
+        "prefix": "bx-heart-circle"
+    },
+    "bx-heart-square": {
+        "body": "content: '\\\\ead8';$0",
+        "description": "content",
+        "prefix": "bx-heart-square"
+    },
     "bx-help-circle": {
-        "body": "content: '\\\\ea7b';$0",
+        "body": "content: '\\\\ead9';$0",
         "description": "content",
         "prefix": "bx-help-circle"
     },
     "bx-hide": {
-        "body": "content: '\\\\ea7c';$0",
+        "body": "content: '\\\\eada';$0",
         "description": "content",
         "prefix": "bx-hide"
     },
     "bx-highlight": {
-        "body": "content: '\\\\ea7d';$0",
+        "body": "content: '\\\\eadb';$0",
         "description": "content",
         "prefix": "bx-highlight"
     },
     "bx-history": {
-        "body": "content: '\\\\ea7e';$0",
+        "body": "content: '\\\\eadc';$0",
         "description": "content",
         "prefix": "bx-history"
     },
     "bx-hive": {
-        "body": "content: '\\\\ea7f';$0",
+        "body": "content: '\\\\eadd';$0",
         "description": "content",
         "prefix": "bx-hive"
     },
     "bx-home": {
-        "body": "content: '\\\\ea80';$0",
+        "body": "content: '\\\\eade';$0",
         "description": "content",
         "prefix": "bx-home"
     },
     "bx-home-alt": {
-        "body": "content: '\\\\ea81';$0",
+        "body": "content: '\\\\eadf';$0",
         "description": "content",
         "prefix": "bx-home-alt"
     },
     "bx-home-circle": {
-        "body": "content: '\\\\ea82';$0",
+        "body": "content: '\\\\eae0';$0",
         "description": "content",
         "prefix": "bx-home-circle"
     },
+    "bx-home-heart": {
+        "body": "content: '\\\\eae1';$0",
+        "description": "content",
+        "prefix": "bx-home-heart"
+    },
+    "bx-home-smile": {
+        "body": "content: '\\\\eae2';$0",
+        "description": "content",
+        "prefix": "bx-home-smile"
+    },
     "bx-horizontal-center": {
-        "body": "content: '\\\\ea83';$0",
+        "body": "content: '\\\\eae3';$0",
         "description": "content",
         "prefix": "bx-horizontal-center"
     },
     "bx-hotel": {
-        "body": "content: '\\\\ea84';$0",
+        "body": "content: '\\\\eae4';$0",
         "description": "content",
         "prefix": "bx-hotel"
     },
     "bx-hourglass": {
-        "body": "content: '\\\\ea85';$0",
+        "body": "content: '\\\\eae5';$0",
         "description": "content",
         "prefix": "bx-hourglass"
     },
     "bx-id-card": {
-        "body": "content: '\\\\ea86';$0",
+        "body": "content: '\\\\eae6';$0",
         "description": "content",
         "prefix": "bx-id-card"
     },
     "bx-image": {
-        "body": "content: '\\\\ea87';$0",
+        "body": "content: '\\\\eae7';$0",
         "description": "content",
         "prefix": "bx-image"
     },
     "bx-image-add": {
-        "body": "content: '\\\\ea88';$0",
+        "body": "content: '\\\\eae8';$0",
         "description": "content",
         "prefix": "bx-image-add"
     },
     "bx-image-alt": {
-        "body": "content: '\\\\ea89';$0",
+        "body": "content: '\\\\eae9';$0",
         "description": "content",
         "prefix": "bx-image-alt"
     },
     "bx-images": {
-        "body": "content: '\\\\ea8a';$0",
+        "body": "content: '\\\\eaea';$0",
         "description": "content",
         "prefix": "bx-images"
     },
     "bx-import": {
-        "body": "content: '\\\\ea8b';$0",
+        "body": "content: '\\\\eaeb';$0",
         "description": "content",
         "prefix": "bx-import"
     },
     "bx-infinite": {
-        "body": "content: '\\\\ea8c';$0",
+        "body": "content: '\\\\eaec';$0",
         "description": "content",
         "prefix": "bx-infinite"
     },
     "bx-info-circle": {
-        "body": "content: '\\\\ea8d';$0",
+        "body": "content: '\\\\eaed';$0",
         "description": "content",
         "prefix": "bx-info-circle"
     },
+    "bx-info-square": {
+        "body": "content: '\\\\eaee';$0",
+        "description": "content",
+        "prefix": "bx-info-square"
+    },
+    "bx-intersect": {
+        "body": "content: '\\\\eaef';$0",
+        "description": "content",
+        "prefix": "bx-intersect"
+    },
     "bx-italic": {
-        "body": "content: '\\\\ea8e';$0",
+        "body": "content: '\\\\eaf0';$0",
         "description": "content",
         "prefix": "bx-italic"
     },
     "bx-joystick": {
-        "body": "content: '\\\\ea8f';$0",
+        "body": "content: '\\\\eaf1';$0",
         "description": "content",
         "prefix": "bx-joystick"
     },
     "bx-joystick-alt": {
-        "body": "content: '\\\\ea90';$0",
+        "body": "content: '\\\\eaf2';$0",
         "description": "content",
         "prefix": "bx-joystick-alt"
     },
     "bx-joystick-button": {
-        "body": "content: '\\\\ea91';$0",
+        "body": "content: '\\\\eaf3';$0",
         "description": "content",
         "prefix": "bx-joystick-button"
     },
     "bx-key": {
-        "body": "content: '\\\\ea92';$0",
+        "body": "content: '\\\\eaf4';$0",
         "description": "content",
         "prefix": "bx-key"
     },
     "bx-label": {
-        "body": "content: '\\\\ea93';$0",
+        "body": "content: '\\\\eaf5';$0",
         "description": "content",
         "prefix": "bx-label"
     },
     "bx-landscape": {
-        "body": "content: '\\\\ea94';$0",
+        "body": "content: '\\\\eaf6';$0",
         "description": "content",
         "prefix": "bx-landscape"
     },
     "bx-laptop": {
-        "body": "content: '\\\\ea95';$0",
+        "body": "content: '\\\\eaf7';$0",
         "description": "content",
         "prefix": "bx-laptop"
     },
     "bx-last-page": {
-        "body": "content: '\\\\ea96';$0",
+        "body": "content: '\\\\eaf8';$0",
         "description": "content",
         "prefix": "bx-last-page"
     },
     "bx-laugh": {
-        "body": "content: '\\\\ea97';$0",
+        "body": "content: '\\\\eaf9';$0",
         "description": "content",
         "prefix": "bx-laugh"
     },
     "bx-layer": {
-        "body": "content: '\\\\ea98';$0",
+        "body": "content: '\\\\eafa';$0",
         "description": "content",
         "prefix": "bx-layer"
     },
+    "bx-layer-minus": {
+        "body": "content: '\\\\eafb';$0",
+        "description": "content",
+        "prefix": "bx-layer-minus"
+    },
+    "bx-layer-plus": {
+        "body": "content: '\\\\eafc';$0",
+        "description": "content",
+        "prefix": "bx-layer-plus"
+    },
     "bx-layout": {
-        "body": "content: '\\\\ea99';$0",
+        "body": "content: '\\\\eafd';$0",
         "description": "content",
         "prefix": "bx-layout"
     },
     "bx-left-arrow": {
-        "body": "content: '\\\\ea9a';$0",
+        "body": "content: '\\\\eafe';$0",
         "description": "content",
         "prefix": "bx-left-arrow"
     },
     "bx-left-arrow-alt": {
-        "body": "content: '\\\\ea9b';$0",
+        "body": "content: '\\\\eaff';$0",
         "description": "content",
         "prefix": "bx-left-arrow-alt"
     },
     "bx-left-arrow-circle": {
-        "body": "content: '\\\\ea9c';$0",
+        "body": "content: '\\\\eb00';$0",
         "description": "content",
         "prefix": "bx-left-arrow-circle"
     },
     "bx-left-down-arrow-circle": {
-        "body": "content: '\\\\ea9d';$0",
+        "body": "content: '\\\\eb01';$0",
         "description": "content",
         "prefix": "bx-left-down-arrow-circle"
     },
     "bx-left-indent": {
-        "body": "content: '\\\\ea9e';$0",
+        "body": "content: '\\\\eb02';$0",
         "description": "content",
         "prefix": "bx-left-indent"
     },
     "bx-left-top-arrow-circle": {
-        "body": "content: '\\\\ea9f';$0",
+        "body": "content: '\\\\eb03';$0",
         "description": "content",
         "prefix": "bx-left-top-arrow-circle"
     },
     "bx-like": {
-        "body": "content: '\\\\eaa0';$0",
+        "body": "content: '\\\\eb04';$0",
         "description": "content",
         "prefix": "bx-like"
     },
     "bx-line-chart": {
-        "body": "content: '\\\\eaa1';$0",
+        "body": "content: '\\\\eb05';$0",
         "description": "content",
         "prefix": "bx-line-chart"
     },
+    "bx-line-chart-down": {
+        "body": "content: '\\\\eb06';$0",
+        "description": "content",
+        "prefix": "bx-line-chart-down"
+    },
     "bx-link": {
-        "body": "content: '\\\\eaa2';$0",
+        "body": "content: '\\\\eb07';$0",
         "description": "content",
         "prefix": "bx-link"
     },
     "bx-link-alt": {
-        "body": "content: '\\\\eaa3';$0",
+        "body": "content: '\\\\eb08';$0",
         "description": "content",
         "prefix": "bx-link-alt"
     },
     "bx-link-external": {
-        "body": "content: '\\\\eaa4';$0",
+        "body": "content: '\\\\eb09';$0",
         "description": "content",
         "prefix": "bx-link-external"
     },
     "bx-lira": {
-        "body": "content: '\\\\eaa5';$0",
+        "body": "content: '\\\\eb0a';$0",
         "description": "content",
         "prefix": "bx-lira"
     },
     "bx-list-check": {
-        "body": "content: '\\\\eaa6';$0",
+        "body": "content: '\\\\eb0b';$0",
         "description": "content",
         "prefix": "bx-list-check"
     },
     "bx-list-minus": {
-        "body": "content: '\\\\eaa7';$0",
+        "body": "content: '\\\\eb0c';$0",
         "description": "content",
         "prefix": "bx-list-minus"
     },
     "bx-list-ol": {
-        "body": "content: '\\\\eaa8';$0",
+        "body": "content: '\\\\eb0d';$0",
         "description": "content",
         "prefix": "bx-list-ol"
     },
     "bx-list-plus": {
-        "body": "content: '\\\\eaa9';$0",
+        "body": "content: '\\\\eb0e';$0",
         "description": "content",
         "prefix": "bx-list-plus"
     },
     "bx-list-ul": {
-        "body": "content: '\\\\eaaa';$0",
+        "body": "content: '\\\\eb0f';$0",
         "description": "content",
         "prefix": "bx-list-ul"
     },
     "bx-loader": {
-        "body": "content: '\\\\eaab';$0",
+        "body": "content: '\\\\eb10';$0",
         "description": "content",
         "prefix": "bx-loader"
     },
     "bx-loader-alt": {
-        "body": "content: '\\\\eaac';$0",
+        "body": "content: '\\\\eb11';$0",
         "description": "content",
         "prefix": "bx-loader-alt"
     },
     "bx-loader-circle": {
-        "body": "content: '\\\\eaad';$0",
+        "body": "content: '\\\\eb12';$0",
         "description": "content",
         "prefix": "bx-loader-circle"
     },
+    "bx-location-plus": {
+        "body": "content: '\\\\eb13';$0",
+        "description": "content",
+        "prefix": "bx-location-plus"
+    },
     "bx-lock": {
-        "body": "content: '\\\\eaae';$0",
+        "body": "content: '\\\\eb14';$0",
         "description": "content",
         "prefix": "bx-lock"
     },
     "bx-lock-alt": {
-        "body": "content: '\\\\eaaf';$0",
+        "body": "content: '\\\\eb15';$0",
         "description": "content",
         "prefix": "bx-lock-alt"
     },
     "bx-lock-open": {
-        "body": "content: '\\\\eab0';$0",
+        "body": "content: '\\\\eb16';$0",
         "description": "content",
         "prefix": "bx-lock-open"
     },
     "bx-lock-open-alt": {
-        "body": "content: '\\\\eab1';$0",
+        "body": "content: '\\\\eb17';$0",
         "description": "content",
         "prefix": "bx-lock-open-alt"
     },
     "bx-log-in": {
-        "body": "content: '\\\\eab2';$0",
+        "body": "content: '\\\\eb18';$0",
         "description": "content",
         "prefix": "bx-log-in"
     },
     "bx-log-in-circle": {
-        "body": "content: '\\\\eab3';$0",
+        "body": "content: '\\\\eb19';$0",
         "description": "content",
         "prefix": "bx-log-in-circle"
     },
     "bx-log-out": {
-        "body": "content: '\\\\eab4';$0",
+        "body": "content: '\\\\eb1a';$0",
         "description": "content",
         "prefix": "bx-log-out"
     },
     "bx-log-out-circle": {
-        "body": "content: '\\\\eab5';$0",
+        "body": "content: '\\\\eb1b';$0",
         "description": "content",
         "prefix": "bx-log-out-circle"
     },
+    "bx-low-vision": {
+        "body": "content: '\\\\eb1c';$0",
+        "description": "content",
+        "prefix": "bx-low-vision"
+    },
     "bx-magnet": {
-        "body": "content: '\\\\eab6';$0",
+        "body": "content: '\\\\eb1d';$0",
         "description": "content",
         "prefix": "bx-magnet"
     },
     "bx-mail-send": {
-        "body": "content: '\\\\eab7';$0",
+        "body": "content: '\\\\eb1e';$0",
         "description": "content",
         "prefix": "bx-mail-send"
     },
     "bx-male": {
-        "body": "content: '\\\\eab8';$0",
+        "body": "content: '\\\\eb1f';$0",
         "description": "content",
         "prefix": "bx-male"
     },
     "bx-male-sign": {
-        "body": "content: '\\\\eab9';$0",
+        "body": "content: '\\\\eb20';$0",
         "description": "content",
         "prefix": "bx-male-sign"
     },
     "bx-map": {
-        "body": "content: '\\\\eaba';$0",
+        "body": "content: '\\\\eb21';$0",
         "description": "content",
         "prefix": "bx-map"
     },
     "bx-map-alt": {
-        "body": "content: '\\\\eabb';$0",
+        "body": "content: '\\\\eb22';$0",
         "description": "content",
         "prefix": "bx-map-alt"
     },
     "bx-map-pin": {
-        "body": "content: '\\\\eabc';$0",
+        "body": "content: '\\\\eb23';$0",
         "description": "content",
         "prefix": "bx-map-pin"
     },
+    "bx-mask": {
+        "body": "content: '\\\\eb24';$0",
+        "description": "content",
+        "prefix": "bx-mask"
+    },
+    "bx-medal": {
+        "body": "content: '\\\\eb25';$0",
+        "description": "content",
+        "prefix": "bx-medal"
+    },
     "bx-meh": {
-        "body": "content: '\\\\eabd';$0",
+        "body": "content: '\\\\eb26';$0",
         "description": "content",
         "prefix": "bx-meh"
     },
     "bx-meh-alt": {
-        "body": "content: '\\\\eabe';$0",
+        "body": "content: '\\\\eb27';$0",
         "description": "content",
         "prefix": "bx-meh-alt"
     },
     "bx-meh-blank": {
-        "body": "content: '\\\\eabf';$0",
+        "body": "content: '\\\\eb28';$0",
         "description": "content",
         "prefix": "bx-meh-blank"
     },
     "bx-memory-card": {
-        "body": "content: '\\\\eac0';$0",
+        "body": "content: '\\\\eb29';$0",
         "description": "content",
         "prefix": "bx-memory-card"
     },
     "bx-menu": {
-        "body": "content: '\\\\eac1';$0",
+        "body": "content: '\\\\eb2a';$0",
         "description": "content",
         "prefix": "bx-menu"
     },
     "bx-menu-alt-left": {
-        "body": "content: '\\\\eac2';$0",
+        "body": "content: '\\\\eb2b';$0",
         "description": "content",
         "prefix": "bx-menu-alt-left"
     },
     "bx-menu-alt-right": {
-        "body": "content: '\\\\eac3';$0",
+        "body": "content: '\\\\eb2c';$0",
         "description": "content",
         "prefix": "bx-menu-alt-right"
     },
+    "bx-merge": {
+        "body": "content: '\\\\eb2d';$0",
+        "description": "content",
+        "prefix": "bx-merge"
+    },
     "bx-message": {
-        "body": "content: '\\\\eac4';$0",
+        "body": "content: '\\\\eb2e';$0",
         "description": "content",
         "prefix": "bx-message"
     },
+    "bx-message-add": {
+        "body": "content: '\\\\eb2f';$0",
+        "description": "content",
+        "prefix": "bx-message-add"
+    },
     "bx-message-alt": {
-        "body": "content: '\\\\eac5';$0",
+        "body": "content: '\\\\eb30';$0",
         "description": "content",
         "prefix": "bx-message-alt"
     },
+    "bx-message-alt-add": {
+        "body": "content: '\\\\eb31';$0",
+        "description": "content",
+        "prefix": "bx-message-alt-add"
+    },
+    "bx-message-alt-check": {
+        "body": "content: '\\\\eb32';$0",
+        "description": "content",
+        "prefix": "bx-message-alt-check"
+    },
+    "bx-message-alt-detail": {
+        "body": "content: '\\\\eb33';$0",
+        "description": "content",
+        "prefix": "bx-message-alt-detail"
+    },
     "bx-message-alt-dots": {
-        "body": "content: '\\\\eac6';$0",
+        "body": "content: '\\\\eb34';$0",
         "description": "content",
         "prefix": "bx-message-alt-dots"
     },
+    "bx-message-alt-edit": {
+        "body": "content: '\\\\eb35';$0",
+        "description": "content",
+        "prefix": "bx-message-alt-edit"
+    },
+    "bx-message-alt-error": {
+        "body": "content: '\\\\eb36';$0",
+        "description": "content",
+        "prefix": "bx-message-alt-error"
+    },
+    "bx-message-alt-minus": {
+        "body": "content: '\\\\eb37';$0",
+        "description": "content",
+        "prefix": "bx-message-alt-minus"
+    },
+    "bx-message-alt-x": {
+        "body": "content: '\\\\eb38';$0",
+        "description": "content",
+        "prefix": "bx-message-alt-x"
+    },
+    "bx-message-check": {
+        "body": "content: '\\\\eb39';$0",
+        "description": "content",
+        "prefix": "bx-message-check"
+    },
+    "bx-message-detail": {
+        "body": "content: '\\\\eb3a';$0",
+        "description": "content",
+        "prefix": "bx-message-detail"
+    },
     "bx-message-dots": {
-        "body": "content: '\\\\eac7';$0",
+        "body": "content: '\\\\eb3b';$0",
         "description": "content",
         "prefix": "bx-message-dots"
     },
+    "bx-message-edit": {
+        "body": "content: '\\\\eb3c';$0",
+        "description": "content",
+        "prefix": "bx-message-edit"
+    },
+    "bx-message-error": {
+        "body": "content: '\\\\eb3d';$0",
+        "description": "content",
+        "prefix": "bx-message-error"
+    },
+    "bx-message-minus": {
+        "body": "content: '\\\\eb3e';$0",
+        "description": "content",
+        "prefix": "bx-message-minus"
+    },
     "bx-message-rounded": {
-        "body": "content: '\\\\eac8';$0",
+        "body": "content: '\\\\eb3f';$0",
         "description": "content",
         "prefix": "bx-message-rounded"
     },
+    "bx-message-rounded-add": {
+        "body": "content: '\\\\eb40';$0",
+        "description": "content",
+        "prefix": "bx-message-rounded-add"
+    },
+    "bx-message-rounded-check": {
+        "body": "content: '\\\\eb41';$0",
+        "description": "content",
+        "prefix": "bx-message-rounded-check"
+    },
+    "bx-message-rounded-detail": {
+        "body": "content: '\\\\eb42';$0",
+        "description": "content",
+        "prefix": "bx-message-rounded-detail"
+    },
     "bx-message-rounded-dots": {
-        "body": "content: '\\\\eac9';$0",
+        "body": "content: '\\\\eb43';$0",
         "description": "content",
         "prefix": "bx-message-rounded-dots"
     },
+    "bx-message-rounded-edit": {
+        "body": "content: '\\\\eb44';$0",
+        "description": "content",
+        "prefix": "bx-message-rounded-edit"
+    },
+    "bx-message-rounded-error": {
+        "body": "content: '\\\\eb45';$0",
+        "description": "content",
+        "prefix": "bx-message-rounded-error"
+    },
+    "bx-message-rounded-minus": {
+        "body": "content: '\\\\eb46';$0",
+        "description": "content",
+        "prefix": "bx-message-rounded-minus"
+    },
+    "bx-message-rounded-x": {
+        "body": "content: '\\\\eb47';$0",
+        "description": "content",
+        "prefix": "bx-message-rounded-x"
+    },
     "bx-message-square": {
-        "body": "content: '\\\\eaca';$0",
+        "body": "content: '\\\\eb48';$0",
         "description": "content",
         "prefix": "bx-message-square"
     },
+    "bx-message-square-add": {
+        "body": "content: '\\\\eb49';$0",
+        "description": "content",
+        "prefix": "bx-message-square-add"
+    },
+    "bx-message-square-check": {
+        "body": "content: '\\\\eb4a';$0",
+        "description": "content",
+        "prefix": "bx-message-square-check"
+    },
+    "bx-message-square-detail": {
+        "body": "content: '\\\\eb4b';$0",
+        "description": "content",
+        "prefix": "bx-message-square-detail"
+    },
     "bx-message-square-dots": {
-        "body": "content: '\\\\eacb';$0",
+        "body": "content: '\\\\eb4c';$0",
         "description": "content",
         "prefix": "bx-message-square-dots"
     },
+    "bx-message-square-edit": {
+        "body": "content: '\\\\eb4d';$0",
+        "description": "content",
+        "prefix": "bx-message-square-edit"
+    },
+    "bx-message-square-error": {
+        "body": "content: '\\\\eb4e';$0",
+        "description": "content",
+        "prefix": "bx-message-square-error"
+    },
+    "bx-message-square-minus": {
+        "body": "content: '\\\\eb4f';$0",
+        "description": "content",
+        "prefix": "bx-message-square-minus"
+    },
+    "bx-message-square-x": {
+        "body": "content: '\\\\eb50';$0",
+        "description": "content",
+        "prefix": "bx-message-square-x"
+    },
+    "bx-message-x": {
+        "body": "content: '\\\\eb51';$0",
+        "description": "content",
+        "prefix": "bx-message-x"
+    },
+    "bx-meteor": {
+        "body": "content: '\\\\eb52';$0",
+        "description": "content",
+        "prefix": "bx-meteor"
+    },
+    "bx-microchip": {
+        "body": "content: '\\\\eb53';$0",
+        "description": "content",
+        "prefix": "bx-microchip"
+    },
     "bx-microphone": {
-        "body": "content: '\\\\eacc';$0",
+        "body": "content: '\\\\eb54';$0",
         "description": "content",
         "prefix": "bx-microphone"
     },
     "bx-microphone-off": {
-        "body": "content: '\\\\eacd';$0",
+        "body": "content: '\\\\eb55';$0",
         "description": "content",
         "prefix": "bx-microphone-off"
     },
     "bx-minus": {
-        "body": "content: '\\\\eace';$0",
+        "body": "content: '\\\\eb56';$0",
         "description": "content",
         "prefix": "bx-minus"
     },
+    "bx-minus-back": {
+        "body": "content: '\\\\eb57';$0",
+        "description": "content",
+        "prefix": "bx-minus-back"
+    },
     "bx-minus-circle": {
-        "body": "content: '\\\\eacf';$0",
+        "body": "content: '\\\\eb58';$0",
         "description": "content",
         "prefix": "bx-minus-circle"
     },
+    "bx-minus-front": {
+        "body": "content: '\\\\eb59';$0",
+        "description": "content",
+        "prefix": "bx-minus-front"
+    },
     "bx-mobile": {
-        "body": "content: '\\\\ead0';$0",
+        "body": "content: '\\\\eb5a';$0",
         "description": "content",
         "prefix": "bx-mobile"
     },
     "bx-mobile-alt": {
-        "body": "content: '\\\\ead1';$0",
+        "body": "content: '\\\\eb5b';$0",
         "description": "content",
         "prefix": "bx-mobile-alt"
     },
     "bx-mobile-landscape": {
-        "body": "content: '\\\\ead2';$0",
+        "body": "content: '\\\\eb5c';$0",
         "description": "content",
         "prefix": "bx-mobile-landscape"
     },
     "bx-mobile-vibration": {
-        "body": "content: '\\\\ead3';$0",
+        "body": "content: '\\\\eb5d';$0",
         "description": "content",
         "prefix": "bx-mobile-vibration"
     },
     "bx-money": {
-        "body": "content: '\\\\ead4';$0",
+        "body": "content: '\\\\eb5e';$0",
         "description": "content",
         "prefix": "bx-money"
     },
     "bx-moon": {
-        "body": "content: '\\\\ead5';$0",
+        "body": "content: '\\\\eb5f';$0",
         "description": "content",
         "prefix": "bx-moon"
     },
     "bx-mouse": {
-        "body": "content: '\\\\ead6';$0",
+        "body": "content: '\\\\eb60';$0",
         "description": "content",
         "prefix": "bx-mouse"
     },
     "bx-mouse-alt": {
-        "body": "content: '\\\\ead7';$0",
+        "body": "content: '\\\\eb61';$0",
         "description": "content",
         "prefix": "bx-mouse-alt"
     },
     "bx-move": {
-        "body": "content: '\\\\ead8';$0",
+        "body": "content: '\\\\eb62';$0",
         "description": "content",
         "prefix": "bx-move"
     },
     "bx-move-horizontal": {
-        "body": "content: '\\\\ead9';$0",
+        "body": "content: '\\\\eb63';$0",
         "description": "content",
         "prefix": "bx-move-horizontal"
     },
     "bx-move-vertical": {
-        "body": "content: '\\\\eada';$0",
+        "body": "content: '\\\\eb64';$0",
         "description": "content",
         "prefix": "bx-move-vertical"
     },
     "bx-movie": {
-        "body": "content: '\\\\eadb';$0",
+        "body": "content: '\\\\eb65';$0",
         "description": "content",
         "prefix": "bx-movie"
     },
     "bx-music": {
-        "body": "content: '\\\\eadc';$0",
+        "body": "content: '\\\\eb66';$0",
         "description": "content",
         "prefix": "bx-music"
     },
     "bx-navigation": {
-        "body": "content: '\\\\eadd';$0",
+        "body": "content: '\\\\eb67';$0",
         "description": "content",
         "prefix": "bx-navigation"
     },
+    "bx-network-chart": {
+        "body": "content: '\\\\eb68';$0",
+        "description": "content",
+        "prefix": "bx-network-chart"
+    },
     "bx-news": {
-        "body": "content: '\\\\eade';$0",
+        "body": "content: '\\\\eb69';$0",
         "description": "content",
         "prefix": "bx-news"
     },
     "bx-no-entry": {
-        "body": "content: '\\\\eadf';$0",
+        "body": "content: '\\\\eb6a';$0",
         "description": "content",
         "prefix": "bx-no-entry"
     },
     "bx-note": {
-        "body": "content: '\\\\eae0';$0",
+        "body": "content: '\\\\eb6b';$0",
         "description": "content",
         "prefix": "bx-note"
     },
     "bx-notepad": {
-        "body": "content: '\\\\eae1';$0",
+        "body": "content: '\\\\eb6c';$0",
         "description": "content",
         "prefix": "bx-notepad"
     },
     "bx-notification": {
-        "body": "content: '\\\\eae2';$0",
+        "body": "content: '\\\\eb6d';$0",
         "description": "content",
         "prefix": "bx-notification"
     },
     "bx-notification-off": {
-        "body": "content: '\\\\eae3';$0",
+        "body": "content: '\\\\eb6e';$0",
         "description": "content",
         "prefix": "bx-notification-off"
     },
+    "bx-outline": {
+        "body": "content: '\\\\eb6f';$0",
+        "description": "content",
+        "prefix": "bx-outline"
+    },
     "bx-package": {
-        "body": "content: '\\\\eae4';$0",
+        "body": "content: '\\\\eb70';$0",
         "description": "content",
         "prefix": "bx-package"
     },
     "bx-paint": {
-        "body": "content: '\\\\eae5';$0",
+        "body": "content: '\\\\eb71';$0",
         "description": "content",
         "prefix": "bx-paint"
     },
     "bx-paint-roll": {
-        "body": "content: '\\\\eae6';$0",
+        "body": "content: '\\\\eb72';$0",
         "description": "content",
         "prefix": "bx-paint-roll"
     },
     "bx-palette": {
-        "body": "content: '\\\\eae7';$0",
+        "body": "content: '\\\\eb73';$0",
         "description": "content",
         "prefix": "bx-palette"
     },
     "bx-paperclip": {
-        "body": "content: '\\\\eae8';$0",
+        "body": "content: '\\\\eb74';$0",
         "description": "content",
         "prefix": "bx-paperclip"
     },
     "bx-paper-plane": {
-        "body": "content: '\\\\eae9';$0",
+        "body": "content: '\\\\eb75';$0",
         "description": "content",
         "prefix": "bx-paper-plane"
     },
     "bx-paragraph": {
-        "body": "content: '\\\\eaea';$0",
+        "body": "content: '\\\\eb76';$0",
         "description": "content",
         "prefix": "bx-paragraph"
     },
     "bx-paste": {
-        "body": "content: '\\\\eaeb';$0",
+        "body": "content: '\\\\eb77';$0",
         "description": "content",
         "prefix": "bx-paste"
     },
     "bx-pause": {
-        "body": "content: '\\\\eaec';$0",
+        "body": "content: '\\\\eb78';$0",
         "description": "content",
         "prefix": "bx-pause"
     },
     "bx-pause-circle": {
-        "body": "content: '\\\\eaed';$0",
+        "body": "content: '\\\\eb79';$0",
         "description": "content",
         "prefix": "bx-pause-circle"
     },
     "bx-pen": {
-        "body": "content: '\\\\eaee';$0",
+        "body": "content: '\\\\eb7a';$0",
         "description": "content",
         "prefix": "bx-pen"
     },
     "bx-pencil": {
-        "body": "content: '\\\\eaef';$0",
+        "body": "content: '\\\\eb7b';$0",
         "description": "content",
         "prefix": "bx-pencil"
     },
     "bx-phone": {
-        "body": "content: '\\\\eaf0';$0",
+        "body": "content: '\\\\eb7c';$0",
         "description": "content",
         "prefix": "bx-phone"
     },
     "bx-phone-call": {
-        "body": "content: '\\\\eaf1';$0",
+        "body": "content: '\\\\eb7d';$0",
         "description": "content",
         "prefix": "bx-phone-call"
     },
     "bx-phone-incoming": {
-        "body": "content: '\\\\eaf2';$0",
+        "body": "content: '\\\\eb7e';$0",
         "description": "content",
         "prefix": "bx-phone-incoming"
     },
     "bx-phone-outgoing": {
-        "body": "content: '\\\\eaf3';$0",
+        "body": "content: '\\\\eb7f';$0",
         "description": "content",
         "prefix": "bx-phone-outgoing"
     },
     "bx-photo-album": {
-        "body": "content: '\\\\eaf4';$0",
+        "body": "content: '\\\\eb80';$0",
         "description": "content",
         "prefix": "bx-photo-album"
     },
     "bx-pie-chart": {
-        "body": "content: '\\\\eaf5';$0",
+        "body": "content: '\\\\eb81';$0",
         "description": "content",
         "prefix": "bx-pie-chart"
     },
     "bx-pie-chart-alt": {
-        "body": "content: '\\\\eaf6';$0",
+        "body": "content: '\\\\eb82';$0",
         "description": "content",
         "prefix": "bx-pie-chart-alt"
     },
     "bx-pie-chart-alt-2": {
-        "body": "content: '\\\\eaf7';$0",
+        "body": "content: '\\\\eb83';$0",
         "description": "content",
         "prefix": "bx-pie-chart-alt-2"
     },
     "bx-pin": {
-        "body": "content: '\\\\eaf8';$0",
+        "body": "content: '\\\\eb84';$0",
         "description": "content",
         "prefix": "bx-pin"
     },
     "bx-planet": {
-        "body": "content: '\\\\eaf9';$0",
+        "body": "content: '\\\\eb85';$0",
         "description": "content",
         "prefix": "bx-planet"
     },
     "bx-play": {
-        "body": "content: '\\\\eafa';$0",
+        "body": "content: '\\\\eb86';$0",
         "description": "content",
         "prefix": "bx-play"
     },
     "bx-play-circle": {
-        "body": "content: '\\\\eafb';$0",
+        "body": "content: '\\\\eb87';$0",
         "description": "content",
         "prefix": "bx-play-circle"
     },
     "bx-plug": {
-        "body": "content: '\\\\eafc';$0",
+        "body": "content: '\\\\eb88';$0",
         "description": "content",
         "prefix": "bx-plug"
     },
     "bx-plus": {
-        "body": "content: '\\\\eafd';$0",
+        "body": "content: '\\\\eb89';$0",
         "description": "content",
         "prefix": "bx-plus"
     },
     "bx-plus-circle": {
-        "body": "content: '\\\\eafe';$0",
+        "body": "content: '\\\\eb8a';$0",
         "description": "content",
         "prefix": "bx-plus-circle"
     },
     "bx-plus-medical": {
-        "body": "content: '\\\\eaff';$0",
+        "body": "content: '\\\\eb8b';$0",
         "description": "content",
         "prefix": "bx-plus-medical"
     },
+    "bx-pointer": {
+        "body": "content: '\\\\eb8c';$0",
+        "description": "content",
+        "prefix": "bx-pointer"
+    },
     "bx-poll": {
-        "body": "content: '\\\\eb00';$0",
+        "body": "content: '\\\\eb8d';$0",
         "description": "content",
         "prefix": "bx-poll"
     },
     "bx-polygon": {
-        "body": "content: '\\\\eb01';$0",
+        "body": "content: '\\\\eb8e';$0",
         "description": "content",
         "prefix": "bx-polygon"
     },
     "bx-pound": {
-        "body": "content: '\\\\eb02';$0",
+        "body": "content: '\\\\eb8f';$0",
         "description": "content",
         "prefix": "bx-pound"
     },
     "bx-power-off": {
-        "body": "content: '\\\\eb03';$0",
+        "body": "content: '\\\\eb90';$0",
         "description": "content",
         "prefix": "bx-power-off"
     },
     "bx-printer": {
-        "body": "content: '\\\\eb04';$0",
+        "body": "content: '\\\\eb91';$0",
         "description": "content",
         "prefix": "bx-printer"
     },
     "bx-pulse": {
-        "body": "content: '\\\\eb05';$0",
+        "body": "content: '\\\\eb92';$0",
         "description": "content",
         "prefix": "bx-pulse"
     },
     "bx-purchase-tag": {
-        "body": "content: '\\\\eb06';$0",
+        "body": "content: '\\\\eb93';$0",
         "description": "content",
         "prefix": "bx-purchase-tag"
     },
     "bx-purchase-tag-alt": {
-        "body": "content: '\\\\eb07';$0",
+        "body": "content: '\\\\eb94';$0",
         "description": "content",
         "prefix": "bx-purchase-tag-alt"
     },
     "bx-pyramid": {
-        "body": "content: '\\\\eb08';$0",
+        "body": "content: '\\\\eb95';$0",
         "description": "content",
         "prefix": "bx-pyramid"
     },
     "bx-question-mark": {
-        "body": "content: '\\\\eb09';$0",
+        "body": "content: '\\\\eb96';$0",
         "description": "content",
         "prefix": "bx-question-mark"
     },
     "bx-radar": {
-        "body": "content: '\\\\eb0a';$0",
+        "body": "content: '\\\\eb97';$0",
         "description": "content",
         "prefix": "bx-radar"
     },
     "bx-radio": {
-        "body": "content: '\\\\eb0b';$0",
+        "body": "content: '\\\\eb98';$0",
         "description": "content",
         "prefix": "bx-radio"
     },
     "bx-radio-circle": {
-        "body": "content: '\\\\eb0c';$0",
+        "body": "content: '\\\\eb99';$0",
         "description": "content",
         "prefix": "bx-radio-circle"
     },
     "bx-radio-circle-marked": {
-        "body": "content: '\\\\eb0d';$0",
+        "body": "content: '\\\\eb9a';$0",
         "description": "content",
         "prefix": "bx-radio-circle-marked"
     },
     "bx-receipt": {
-        "body": "content: '\\\\eb0e';$0",
+        "body": "content: '\\\\eb9b';$0",
         "description": "content",
         "prefix": "bx-receipt"
     },
     "bx-rectangle": {
-        "body": "content: '\\\\eb0f';$0",
+        "body": "content: '\\\\eb9c';$0",
         "description": "content",
         "prefix": "bx-rectangle"
     },
+    "bx-recycle": {
+        "body": "content: '\\\\eb9d';$0",
+        "description": "content",
+        "prefix": "bx-recycle"
+    },
     "bx-redo": {
-        "body": "content: '\\\\eb10';$0",
+        "body": "content: '\\\\eb9e';$0",
         "description": "content",
         "prefix": "bx-redo"
     },
+    "bx-refresh": {
+        "body": "content: '\\\\eb9f';$0",
+        "description": "content",
+        "prefix": "bx-refresh"
+    },
     "bx-rename": {
-        "body": "content: '\\\\eb11';$0",
+        "body": "content: '\\\\eba0';$0",
         "description": "content",
         "prefix": "bx-rename"
     },
     "bx-repeat": {
-        "body": "content: '\\\\eb12';$0",
+        "body": "content: '\\\\eba1';$0",
         "description": "content",
         "prefix": "bx-repeat"
     },
     "bx-reply": {
-        "body": "content: '\\\\eb13';$0",
+        "body": "content: '\\\\eba2';$0",
         "description": "content",
         "prefix": "bx-reply"
     },
     "bx-reply-all": {
-        "body": "content: '\\\\eb14';$0",
+        "body": "content: '\\\\eba3';$0",
         "description": "content",
         "prefix": "bx-reply-all"
     },
     "bx-repost": {
-        "body": "content: '\\\\eb15';$0",
+        "body": "content: '\\\\eba4';$0",
         "description": "content",
         "prefix": "bx-repost"
     },
     "bx-reset": {
-        "body": "content: '\\\\eb16';$0",
+        "body": "content: '\\\\eba5';$0",
         "description": "content",
         "prefix": "bx-reset"
     },
     "bx-restaurant": {
-        "body": "content: '\\\\eb17';$0",
+        "body": "content: '\\\\eba6';$0",
         "description": "content",
         "prefix": "bx-restaurant"
     },
     "bx-revision": {
-        "body": "content: '\\\\eb18';$0",
+        "body": "content: '\\\\eba7';$0",
         "description": "content",
         "prefix": "bx-revision"
     },
     "bx-rewind": {
-        "body": "content: '\\\\eb19';$0",
+        "body": "content: '\\\\eba8';$0",
         "description": "content",
         "prefix": "bx-rewind"
     },
     "bx-rewind-circle": {
-        "body": "content: '\\\\eb1a';$0",
+        "body": "content: '\\\\eba9';$0",
         "description": "content",
         "prefix": "bx-rewind-circle"
     },
     "bx-right-arrow": {
-        "body": "content: '\\\\eb1b';$0",
+        "body": "content: '\\\\ebaa';$0",
         "description": "content",
         "prefix": "bx-right-arrow"
     },
     "bx-right-arrow-alt": {
-        "body": "content: '\\\\eb1c';$0",
+        "body": "content: '\\\\ebab';$0",
         "description": "content",
         "prefix": "bx-right-arrow-alt"
     },
     "bx-right-arrow-circle": {
-        "body": "content: '\\\\eb1d';$0",
+        "body": "content: '\\\\ebac';$0",
         "description": "content",
         "prefix": "bx-right-arrow-circle"
     },
     "bx-right-down-arrow-circle": {
-        "body": "content: '\\\\eb1e';$0",
+        "body": "content: '\\\\ebad';$0",
         "description": "content",
         "prefix": "bx-right-down-arrow-circle"
     },
     "bx-right-indent": {
-        "body": "content: '\\\\eb1f';$0",
+        "body": "content: '\\\\ebae';$0",
         "description": "content",
         "prefix": "bx-right-indent"
     },
     "bx-right-top-arrow-circle": {
-        "body": "content: '\\\\eb20';$0",
+        "body": "content: '\\\\ebaf';$0",
         "description": "content",
         "prefix": "bx-right-top-arrow-circle"
     },
     "bx-rocket": {
-        "body": "content: '\\\\eb21';$0",
+        "body": "content: '\\\\ebb0';$0",
         "description": "content",
         "prefix": "bx-rocket"
     },
     "bx-rotate-left": {
-        "body": "content: '\\\\eb22';$0",
+        "body": "content: '\\\\ebb1';$0",
         "description": "content",
         "prefix": "bx-rotate-left"
     },
     "bx-rotate-right": {
-        "body": "content: '\\\\eb23';$0",
+        "body": "content: '\\\\ebb2';$0",
         "description": "content",
         "prefix": "bx-rotate-right"
     },
     "bx-rss": {
-        "body": "content: '\\\\eb24';$0",
+        "body": "content: '\\\\ebb3';$0",
         "description": "content",
         "prefix": "bx-rss"
     },
     "bx-ruble": {
-        "body": "content: '\\\\eb25';$0",
+        "body": "content: '\\\\ebb4';$0",
         "description": "content",
         "prefix": "bx-ruble"
     },
     "bx-ruler": {
-        "body": "content: '\\\\eb26';$0",
+        "body": "content: '\\\\ebb5';$0",
         "description": "content",
         "prefix": "bx-ruler"
     },
     "bx-run": {
-        "body": "content: '\\\\eb27';$0",
+        "body": "content: '\\\\ebb6';$0",
         "description": "content",
         "prefix": "bx-run"
     },
     "bx-rupee": {
-        "body": "content: '\\\\eb28';$0",
+        "body": "content: '\\\\ebb7';$0",
         "description": "content",
         "prefix": "bx-rupee"
     },
     "bx-sad": {
-        "body": "content: '\\\\eb29';$0",
+        "body": "content: '\\\\ebb8';$0",
         "description": "content",
         "prefix": "bx-sad"
     },
     "bx-save": {
-        "body": "content: '\\\\eb2a';$0",
+        "body": "content: '\\\\ebb9';$0",
         "description": "content",
         "prefix": "bx-save"
     },
+    "bx-scan": {
+        "body": "content: '\\\\ebba';$0",
+        "description": "content",
+        "prefix": "bx-scan"
+    },
     "bx-screenshot": {
-        "body": "content: '\\\\eb2b';$0",
+        "body": "content: '\\\\ebbb';$0",
         "description": "content",
         "prefix": "bx-screenshot"
     },
     "bx-search": {
-        "body": "content: '\\\\eb2c';$0",
+        "body": "content: '\\\\ebbc';$0",
         "description": "content",
         "prefix": "bx-search"
     },
     "bx-search-alt": {
-        "body": "content: '\\\\eb2d';$0",
+        "body": "content: '\\\\ebbd';$0",
         "description": "content",
         "prefix": "bx-search-alt"
     },
     "bx-search-alt-2": {
-        "body": "content: '\\\\eb2e';$0",
+        "body": "content: '\\\\ebbe';$0",
         "description": "content",
         "prefix": "bx-search-alt-2"
     },
     "bx-selection": {
-        "body": "content: '\\\\eb2f';$0",
+        "body": "content: '\\\\ebbf';$0",
         "description": "content",
         "prefix": "bx-selection"
     },
     "bx-select-multiple": {
-        "body": "content: '\\\\eb30';$0",
+        "body": "content: '\\\\ebc0';$0",
         "description": "content",
         "prefix": "bx-select-multiple"
     },
     "bx-send": {
-        "body": "content: '\\\\eb31';$0",
+        "body": "content: '\\\\ebc1';$0",
         "description": "content",
         "prefix": "bx-send"
     },
     "bx-server": {
-        "body": "content: '\\\\eb32';$0",
+        "body": "content: '\\\\ebc2';$0",
         "description": "content",
         "prefix": "bx-server"
     },
     "bx-shape-circle": {
-        "body": "content: '\\\\eb33';$0",
+        "body": "content: '\\\\ebc3';$0",
         "description": "content",
         "prefix": "bx-shape-circle"
     },
+    "bx-shape-polygon": {
+        "body": "content: '\\\\ebc4';$0",
+        "description": "content",
+        "prefix": "bx-shape-polygon"
+    },
     "bx-shape-square": {
-        "body": "content: '\\\\eb34';$0",
+        "body": "content: '\\\\ebc5';$0",
         "description": "content",
         "prefix": "bx-shape-square"
     },
     "bx-shape-triangle": {
-        "body": "content: '\\\\eb35';$0",
+        "body": "content: '\\\\ebc6';$0",
         "description": "content",
         "prefix": "bx-shape-triangle"
     },
     "bx-share": {
-        "body": "content: '\\\\eb36';$0",
+        "body": "content: '\\\\ebc7';$0",
         "description": "content",
         "prefix": "bx-share"
     },
     "bx-share-alt": {
-        "body": "content: '\\\\eb37';$0",
+        "body": "content: '\\\\ebc8';$0",
         "description": "content",
         "prefix": "bx-share-alt"
     },
     "bx-shekel": {
-        "body": "content: '\\\\eb38';$0",
+        "body": "content: '\\\\ebc9';$0",
         "description": "content",
         "prefix": "bx-shekel"
     },
     "bx-shield": {
-        "body": "content: '\\\\eb39';$0",
+        "body": "content: '\\\\ebca';$0",
         "description": "content",
         "prefix": "bx-shield"
     },
     "bx-shield-alt": {
-        "body": "content: '\\\\eb3a';$0",
+        "body": "content: '\\\\ebcb';$0",
         "description": "content",
         "prefix": "bx-shield-alt"
     },
     "bx-shield-alt-2": {
-        "body": "content: '\\\\eb3b';$0",
+        "body": "content: '\\\\ebcc';$0",
         "description": "content",
         "prefix": "bx-shield-alt-2"
     },
     "bx-shield-quarter": {
-        "body": "content: '\\\\eb3c';$0",
+        "body": "content: '\\\\ebcd';$0",
         "description": "content",
         "prefix": "bx-shield-quarter"
     },
+    "bx-shield-x": {
+        "body": "content: '\\\\ebce';$0",
+        "description": "content",
+        "prefix": "bx-shield-x"
+    },
     "bx-shocked": {
-        "body": "content: '\\\\eb3d';$0",
+        "body": "content: '\\\\ebcf';$0",
         "description": "content",
         "prefix": "bx-shocked"
     },
     "bx-shopping-bag": {
-        "body": "content: '\\\\eb3e';$0",
+        "body": "content: '\\\\ebd0';$0",
         "description": "content",
         "prefix": "bx-shopping-bag"
     },
     "bx-show": {
-        "body": "content: '\\\\eb3f';$0",
+        "body": "content: '\\\\ebd1';$0",
         "description": "content",
         "prefix": "bx-show"
     },
     "bx-show-alt": {
-        "body": "content: '\\\\eb40';$0",
+        "body": "content: '\\\\ebd2';$0",
         "description": "content",
         "prefix": "bx-show-alt"
     },
     "bx-shuffle": {
-        "body": "content: '\\\\eb41';$0",
+        "body": "content: '\\\\ebd3';$0",
         "description": "content",
         "prefix": "bx-shuffle"
     },
     "bx-sidebar": {
-        "body": "content: '\\\\eb42';$0",
+        "body": "content: '\\\\ebd4';$0",
         "description": "content",
         "prefix": "bx-sidebar"
     },
     "bx-sitemap": {
-        "body": "content: '\\\\eb43';$0",
+        "body": "content: '\\\\ebd5';$0",
         "description": "content",
         "prefix": "bx-sitemap"
     },
     "bx-skip-next": {
-        "body": "content: '\\\\eb44';$0",
+        "body": "content: '\\\\ebd6';$0",
         "description": "content",
         "prefix": "bx-skip-next"
     },
     "bx-skip-next-circle": {
-        "body": "content: '\\\\eb45';$0",
+        "body": "content: '\\\\ebd7';$0",
         "description": "content",
         "prefix": "bx-skip-next-circle"
     },
     "bx-skip-previous": {
-        "body": "content: '\\\\eb46';$0",
+        "body": "content: '\\\\ebd8';$0",
         "description": "content",
         "prefix": "bx-skip-previous"
     },
     "bx-skip-previous-circle": {
-        "body": "content: '\\\\eb47';$0",
+        "body": "content: '\\\\ebd9';$0",
         "description": "content",
         "prefix": "bx-skip-previous-circle"
     },
     "bx-sleepy": {
-        "body": "content: '\\\\eb48';$0",
+        "body": "content: '\\\\ebda';$0",
         "description": "content",
         "prefix": "bx-sleepy"
     },
     "bx-slider": {
-        "body": "content: '\\\\eb49';$0",
+        "body": "content: '\\\\ebdb';$0",
         "description": "content",
         "prefix": "bx-slider"
     },
     "bx-slider-alt": {
-        "body": "content: '\\\\eb4a';$0",
+        "body": "content: '\\\\ebdc';$0",
         "description": "content",
         "prefix": "bx-slider-alt"
     },
     "bx-slideshow": {
-        "body": "content: '\\\\eb4b';$0",
+        "body": "content: '\\\\ebdd';$0",
         "description": "content",
         "prefix": "bx-slideshow"
     },
     "bx-smile": {
-        "body": "content: '\\\\eb4c';$0",
+        "body": "content: '\\\\ebde';$0",
         "description": "content",
         "prefix": "bx-smile"
     },
     "bx-sort": {
-        "body": "content: '\\\\eb4d';$0",
+        "body": "content: '\\\\ebdf';$0",
         "description": "content",
         "prefix": "bx-sort"
     },
     "bx-sort-a-z": {
-        "body": "content: '\\\\eb4e';$0",
+        "body": "content: '\\\\ebe0';$0",
         "description": "content",
         "prefix": "bx-sort-a-z"
     },
     "bx-sort-down": {
-        "body": "content: '\\\\eb4f';$0",
+        "body": "content: '\\\\ebe1';$0",
         "description": "content",
         "prefix": "bx-sort-down"
     },
     "bx-sort-up": {
-        "body": "content: '\\\\eb50';$0",
+        "body": "content: '\\\\ebe2';$0",
         "description": "content",
         "prefix": "bx-sort-up"
     },
     "bx-sort-z-a": {
-        "body": "content: '\\\\eb51';$0",
+        "body": "content: '\\\\ebe3';$0",
         "description": "content",
         "prefix": "bx-sort-z-a"
     },
     "bx-spa": {
-        "body": "content: '\\\\eb52';$0",
+        "body": "content: '\\\\ebe4';$0",
         "description": "content",
         "prefix": "bx-spa"
     },
     "bx-space-bar": {
-        "body": "content: '\\\\eb53';$0",
+        "body": "content: '\\\\ebe5';$0",
         "description": "content",
         "prefix": "bx-space-bar"
     },
+    "bx-spray-can": {
+        "body": "content: '\\\\ebe6';$0",
+        "description": "content",
+        "prefix": "bx-spray-can"
+    },
     "bx-spreadsheet": {
-        "body": "content: '\\\\eb54';$0",
+        "body": "content: '\\\\ebe7';$0",
         "description": "content",
         "prefix": "bx-spreadsheet"
     },
     "bx-square": {
-        "body": "content: '\\\\eb55';$0",
+        "body": "content: '\\\\ebe8';$0",
         "description": "content",
         "prefix": "bx-square"
     },
     "bx-square-rounded": {
-        "body": "content: '\\\\eb56';$0",
+        "body": "content: '\\\\ebe9';$0",
         "description": "content",
         "prefix": "bx-square-rounded"
     },
     "bx-star": {
-        "body": "content: '\\\\eb57';$0",
+        "body": "content: '\\\\ebea';$0",
         "description": "content",
         "prefix": "bx-star"
     },
     "bx-station": {
-        "body": "content: '\\\\eb58';$0",
+        "body": "content: '\\\\ebeb';$0",
         "description": "content",
         "prefix": "bx-station"
     },
     "bx-stats": {
-        "body": "content: '\\\\eb59';$0",
+        "body": "content: '\\\\ebec';$0",
         "description": "content",
         "prefix": "bx-stats"
     },
     "bx-sticker": {
-        "body": "content: '\\\\eb5a';$0",
+        "body": "content: '\\\\ebed';$0",
         "description": "content",
         "prefix": "bx-sticker"
     },
     "bx-stop": {
-        "body": "content: '\\\\eb5b';$0",
+        "body": "content: '\\\\ebee';$0",
         "description": "content",
         "prefix": "bx-stop"
     },
     "bx-stop-circle": {
-        "body": "content: '\\\\eb5c';$0",
+        "body": "content: '\\\\ebef';$0",
         "description": "content",
         "prefix": "bx-stop-circle"
     },
     "bx-stopwatch": {
-        "body": "content: '\\\\eb5d';$0",
+        "body": "content: '\\\\ebf0';$0",
         "description": "content",
         "prefix": "bx-stopwatch"
     },
     "bx-store": {
-        "body": "content: '\\\\eb5e';$0",
+        "body": "content: '\\\\ebf1';$0",
         "description": "content",
         "prefix": "bx-store"
     },
     "bx-store-alt": {
-        "body": "content: '\\\\eb5f';$0",
+        "body": "content: '\\\\ebf2';$0",
         "description": "content",
         "prefix": "bx-store-alt"
     },
     "bx-street-view": {
-        "body": "content: '\\\\eb60';$0",
+        "body": "content: '\\\\ebf3';$0",
         "description": "content",
         "prefix": "bx-street-view"
     },
     "bx-strikethrough": {
-        "body": "content: '\\\\eb61';$0",
+        "body": "content: '\\\\ebf4';$0",
         "description": "content",
         "prefix": "bx-strikethrough"
     },
     "bx-subdirectory-left": {
-        "body": "content: '\\\\eb62';$0",
+        "body": "content: '\\\\ebf5';$0",
         "description": "content",
         "prefix": "bx-subdirectory-left"
     },
     "bx-subdirectory-right": {
-        "body": "content: '\\\\eb63';$0",
+        "body": "content: '\\\\ebf6';$0",
         "description": "content",
         "prefix": "bx-subdirectory-right"
     },
     "bx-sun": {
-        "body": "content: '\\\\eb64';$0",
+        "body": "content: '\\\\ebf7';$0",
         "description": "content",
         "prefix": "bx-sun"
     },
     "bx-support": {
-        "body": "content: '\\\\eb65';$0",
+        "body": "content: '\\\\ebf8';$0",
         "description": "content",
         "prefix": "bx-support"
     },
     "bx-swim": {
-        "body": "content: '\\\\eb66';$0",
+        "body": "content: '\\\\ebf9';$0",
         "description": "content",
         "prefix": "bx-swim"
     },
     "bx-sync": {
-        "body": "content: '\\\\eb67';$0",
+        "body": "content: '\\\\ebfa';$0",
         "description": "content",
         "prefix": "bx-sync"
     },
     "bx-tab": {
-        "body": "content: '\\\\eb68';$0",
+        "body": "content: '\\\\ebfb';$0",
         "description": "content",
         "prefix": "bx-tab"
     },
     "bx-table": {
-        "body": "content: '\\\\eb69';$0",
+        "body": "content: '\\\\ebfc';$0",
         "description": "content",
         "prefix": "bx-table"
     },
+    "bx-tachometer": {
+        "body": "content: '\\\\ebfd';$0",
+        "description": "content",
+        "prefix": "bx-tachometer"
+    },
     "bx-tag": {
-        "body": "content: '\\\\eb6a';$0",
+        "body": "content: '\\\\ebfe';$0",
         "description": "content",
         "prefix": "bx-tag"
     },
     "bx-target-lock": {
-        "body": "content: '\\\\eb6b';$0",
+        "body": "content: '\\\\ebff';$0",
         "description": "content",
         "prefix": "bx-target-lock"
     },
     "bx-task": {
-        "body": "content: '\\\\eb6c';$0",
+        "body": "content: '\\\\ec00';$0",
         "description": "content",
         "prefix": "bx-task"
     },
+    "bx-task-x": {
+        "body": "content: '\\\\ec01';$0",
+        "description": "content",
+        "prefix": "bx-task-x"
+    },
     "bx-taxi": {
-        "body": "content: '\\\\eb6d';$0",
+        "body": "content: '\\\\ec02';$0",
         "description": "content",
         "prefix": "bx-taxi"
     },
     "bx-tennis-ball": {
-        "body": "content: '\\\\eb6e';$0",
+        "body": "content: '\\\\ec03';$0",
         "description": "content",
         "prefix": "bx-tennis-ball"
     },
     "bx-terminal": {
-        "body": "content: '\\\\eb6f';$0",
+        "body": "content: '\\\\ec04';$0",
         "description": "content",
         "prefix": "bx-terminal"
     },
     "bx-test-tube": {
-        "body": "content: '\\\\eb70';$0",
+        "body": "content: '\\\\ec05';$0",
         "description": "content",
         "prefix": "bx-test-tube"
     },
     "bx-text": {
-        "body": "content: '\\\\eb71';$0",
+        "body": "content: '\\\\ec06';$0",
         "description": "content",
         "prefix": "bx-text"
     },
     "bx-time": {
-        "body": "content: '\\\\eb72';$0",
+        "body": "content: '\\\\ec07';$0",
         "description": "content",
         "prefix": "bx-time"
     },
     "bx-time-five": {
-        "body": "content: '\\\\eb73';$0",
+        "body": "content: '\\\\ec08';$0",
         "description": "content",
         "prefix": "bx-time-five"
     },
     "bx-timer": {
-        "body": "content: '\\\\eb74';$0",
+        "body": "content: '\\\\ec09';$0",
         "description": "content",
         "prefix": "bx-timer"
     },
     "bx-tired": {
-        "body": "content: '\\\\eb75';$0",
+        "body": "content: '\\\\ec0a';$0",
         "description": "content",
         "prefix": "bx-tired"
     },
     "bx-toggle-left": {
-        "body": "content: '\\\\eb76';$0",
+        "body": "content: '\\\\ec0b';$0",
         "description": "content",
         "prefix": "bx-toggle-left"
     },
     "bx-toggle-right": {
-        "body": "content: '\\\\eb77';$0",
+        "body": "content: '\\\\ec0c';$0",
         "description": "content",
         "prefix": "bx-toggle-right"
     },
     "bx-tone": {
-        "body": "content: '\\\\eb78';$0",
+        "body": "content: '\\\\ec0d';$0",
         "description": "content",
         "prefix": "bx-tone"
     },
+    "bx-traffic-cone": {
+        "body": "content: '\\\\ec0e';$0",
+        "description": "content",
+        "prefix": "bx-traffic-cone"
+    },
     "bx-train": {
-        "body": "content: '\\\\eb79';$0",
+        "body": "content: '\\\\ec0f';$0",
         "description": "content",
         "prefix": "bx-train"
     },
     "bx-transfer": {
-        "body": "content: '\\\\eb7a';$0",
+        "body": "content: '\\\\ec10';$0",
         "description": "content",
         "prefix": "bx-transfer"
     },
     "bx-transfer-alt": {
-        "body": "content: '\\\\eb7b';$0",
+        "body": "content: '\\\\ec11';$0",
         "description": "content",
         "prefix": "bx-transfer-alt"
     },
     "bx-trash": {
-        "body": "content: '\\\\eb7c';$0",
+        "body": "content: '\\\\ec12';$0",
         "description": "content",
         "prefix": "bx-trash"
     },
     "bx-trash-alt": {
-        "body": "content: '\\\\eb7d';$0",
+        "body": "content: '\\\\ec13';$0",
         "description": "content",
         "prefix": "bx-trash-alt"
     },
     "bx-trending-down": {
-        "body": "content: '\\\\eb7e';$0",
+        "body": "content: '\\\\ec14';$0",
         "description": "content",
         "prefix": "bx-trending-down"
     },
     "bx-trending-up": {
-        "body": "content: '\\\\eb7f';$0",
+        "body": "content: '\\\\ec15';$0",
         "description": "content",
         "prefix": "bx-trending-up"
     },
+    "bx-trim": {
+        "body": "content: '\\\\ec16';$0",
+        "description": "content",
+        "prefix": "bx-trim"
+    },
     "bx-trophy": {
-        "body": "content: '\\\\eb80';$0",
+        "body": "content: '\\\\ec17';$0",
         "description": "content",
         "prefix": "bx-trophy"
     },
     "bx-tv": {
-        "body": "content: '\\\\eb81';$0",
+        "body": "content: '\\\\ec18';$0",
         "description": "content",
         "prefix": "bx-tv"
     },
     "bx-underline": {
-        "body": "content: '\\\\eb82';$0",
+        "body": "content: '\\\\ec19';$0",
         "description": "content",
         "prefix": "bx-underline"
     },
     "bx-undo": {
-        "body": "content: '\\\\eb83';$0",
+        "body": "content: '\\\\ec1a';$0",
         "description": "content",
         "prefix": "bx-undo"
     },
+    "bx-unite": {
+        "body": "content: '\\\\ec1b';$0",
+        "description": "content",
+        "prefix": "bx-unite"
+    },
     "bx-unlink": {
-        "body": "content: '\\\\eb84';$0",
+        "body": "content: '\\\\ec1c';$0",
         "description": "content",
         "prefix": "bx-unlink"
     },
     "bx-up-arrow": {
-        "body": "content: '\\\\eb85';$0",
+        "body": "content: '\\\\ec1d';$0",
         "description": "content",
         "prefix": "bx-up-arrow"
     },
     "bx-up-arrow-alt": {
-        "body": "content: '\\\\eb86';$0",
+        "body": "content: '\\\\ec1e';$0",
         "description": "content",
         "prefix": "bx-up-arrow-alt"
     },
     "bx-up-arrow-circle": {
-        "body": "content: '\\\\eb87';$0",
+        "body": "content: '\\\\ec1f';$0",
         "description": "content",
         "prefix": "bx-up-arrow-circle"
     },
     "bx-upload": {
-        "body": "content: '\\\\eb88';$0",
+        "body": "content: '\\\\ec20';$0",
         "description": "content",
         "prefix": "bx-upload"
     },
     "bx-upside-down": {
-        "body": "content: '\\\\eb89';$0",
+        "body": "content: '\\\\ec21';$0",
         "description": "content",
         "prefix": "bx-upside-down"
     },
     "bx-upvote": {
-        "body": "content: '\\\\eb8a';$0",
+        "body": "content: '\\\\ec22';$0",
         "description": "content",
         "prefix": "bx-upvote"
     },
     "bx-usb": {
-        "body": "content: '\\\\eb8b';$0",
+        "body": "content: '\\\\ec23';$0",
         "description": "content",
         "prefix": "bx-usb"
     },
     "bx-user": {
-        "body": "content: '\\\\eb8c';$0",
+        "body": "content: '\\\\ec24';$0",
         "description": "content",
         "prefix": "bx-user"
     },
     "bx-user-check": {
-        "body": "content: '\\\\eb8d';$0",
+        "body": "content: '\\\\ec25';$0",
         "description": "content",
         "prefix": "bx-user-check"
     },
     "bx-user-circle": {
-        "body": "content: '\\\\eb8e';$0",
+        "body": "content: '\\\\ec26';$0",
         "description": "content",
         "prefix": "bx-user-circle"
     },
     "bx-user-minus": {
-        "body": "content: '\\\\eb8f';$0",
+        "body": "content: '\\\\ec27';$0",
         "description": "content",
         "prefix": "bx-user-minus"
     },
     "bx-user-pin": {
-        "body": "content: '\\\\eb90';$0",
+        "body": "content: '\\\\ec28';$0",
         "description": "content",
         "prefix": "bx-user-pin"
     },
     "bx-user-plus": {
-        "body": "content: '\\\\eb91';$0",
+        "body": "content: '\\\\ec29';$0",
         "description": "content",
         "prefix": "bx-user-plus"
     },
     "bx-user-voice": {
-        "body": "content: '\\\\eb92';$0",
+        "body": "content: '\\\\ec2a';$0",
         "description": "content",
         "prefix": "bx-user-voice"
     },
     "bx-user-x": {
-        "body": "content: '\\\\eb93';$0",
+        "body": "content: '\\\\ec2b';$0",
         "description": "content",
         "prefix": "bx-user-x"
     },
+    "bx-vector": {
+        "body": "content: '\\\\ec2c';$0",
+        "description": "content",
+        "prefix": "bx-vector"
+    },
     "bx-vertical-center": {
-        "body": "content: '\\\\eb94';$0",
+        "body": "content: '\\\\ec2d';$0",
         "description": "content",
         "prefix": "bx-vertical-center"
     },
+    "bx-vial": {
+        "body": "content: '\\\\ec2e';$0",
+        "description": "content",
+        "prefix": "bx-vial"
+    },
     "bx-video": {
-        "body": "content: '\\\\eb95';$0",
+        "body": "content: '\\\\ec2f';$0",
         "description": "content",
         "prefix": "bx-video"
     },
     "bx-video-off": {
-        "body": "content: '\\\\eb96';$0",
+        "body": "content: '\\\\ec30';$0",
         "description": "content",
         "prefix": "bx-video-off"
     },
     "bx-video-plus": {
-        "body": "content: '\\\\eb97';$0",
+        "body": "content: '\\\\ec31';$0",
         "description": "content",
         "prefix": "bx-video-plus"
     },
     "bx-video-recording": {
-        "body": "content: '\\\\eb98';$0",
+        "body": "content: '\\\\ec32';$0",
         "description": "content",
         "prefix": "bx-video-recording"
     },
     "bx-voicemail": {
-        "body": "content: '\\\\eb99';$0",
+        "body": "content: '\\\\ec33';$0",
         "description": "content",
         "prefix": "bx-voicemail"
     },
     "bx-volume": {
-        "body": "content: '\\\\eb9a';$0",
+        "body": "content: '\\\\ec34';$0",
         "description": "content",
         "prefix": "bx-volume"
     },
     "bx-volume-full": {
-        "body": "content: '\\\\eb9b';$0",
+        "body": "content: '\\\\ec35';$0",
         "description": "content",
         "prefix": "bx-volume-full"
     },
     "bx-volume-low": {
-        "body": "content: '\\\\eb9c';$0",
+        "body": "content: '\\\\ec36';$0",
         "description": "content",
         "prefix": "bx-volume-low"
     },
     "bx-volume-mute": {
-        "body": "content: '\\\\eb9d';$0",
+        "body": "content: '\\\\ec37';$0",
         "description": "content",
         "prefix": "bx-volume-mute"
     },
     "bx-walk": {
-        "body": "content: '\\\\eb9e';$0",
+        "body": "content: '\\\\ec38';$0",
         "description": "content",
         "prefix": "bx-walk"
     },
     "bx-wallet": {
-        "body": "content: '\\\\eb9f';$0",
+        "body": "content: '\\\\ec39';$0",
         "description": "content",
         "prefix": "bx-wallet"
     },
     "bx-wallet-alt": {
-        "body": "content: '\\\\eba0';$0",
+        "body": "content: '\\\\ec3a';$0",
         "description": "content",
         "prefix": "bx-wallet-alt"
     },
     "bx-water": {
-        "body": "content: '\\\\eba1';$0",
+        "body": "content: '\\\\ec3b';$0",
         "description": "content",
         "prefix": "bx-water"
     },
+    "bx-webcam": {
+        "body": "content: '\\\\ec3c';$0",
+        "description": "content",
+        "prefix": "bx-webcam"
+    },
     "bx-wifi": {
-        "body": "content: '\\\\eba2';$0",
+        "body": "content: '\\\\ec3d';$0",
         "description": "content",
         "prefix": "bx-wifi"
     },
+    "bx-wifi-0": {
+        "body": "content: '\\\\ec3e';$0",
+        "description": "content",
+        "prefix": "bx-wifi-0"
+    },
+    "bx-wifi-1": {
+        "body": "content: '\\\\ec3f';$0",
+        "description": "content",
+        "prefix": "bx-wifi-1"
+    },
+    "bx-wifi-2": {
+        "body": "content: '\\\\ec40';$0",
+        "description": "content",
+        "prefix": "bx-wifi-2"
+    },
     "bx-wifi-off": {
-        "body": "content: '\\\\eba3';$0",
+        "body": "content: '\\\\ec41';$0",
         "description": "content",
         "prefix": "bx-wifi-off"
     },
     "bx-wind": {
-        "body": "content: '\\\\eba4';$0",
+        "body": "content: '\\\\ec42';$0",
         "description": "content",
         "prefix": "bx-wind"
     },
     "bx-window": {
-        "body": "content: '\\\\eba5';$0",
+        "body": "content: '\\\\ec43';$0",
         "description": "content",
         "prefix": "bx-window"
     },
+    "bx-window-alt": {
+        "body": "content: '\\\\ec44';$0",
+        "description": "content",
+        "prefix": "bx-window-alt"
+    },
     "bx-window-close": {
-        "body": "content: '\\\\eba6';$0",
+        "body": "content: '\\\\ec45';$0",
         "description": "content",
         "prefix": "bx-window-close"
     },
     "bx-window-open": {
-        "body": "content: '\\\\eba7';$0",
+        "body": "content: '\\\\ec46';$0",
         "description": "content",
         "prefix": "bx-window-open"
     },
     "bx-windows": {
-        "body": "content: '\\\\eba8';$0",
+        "body": "content: '\\\\ec47';$0",
         "description": "content",
         "prefix": "bx-windows"
     },
+    "bx-wine": {
+        "body": "content: '\\\\ec48';$0",
+        "description": "content",
+        "prefix": "bx-wine"
+    },
     "bx-wink-smile": {
-        "body": "content: '\\\\eba9';$0",
+        "body": "content: '\\\\ec49';$0",
         "description": "content",
         "prefix": "bx-wink-smile"
     },
     "bx-wink-tongue": {
-        "body": "content: '\\\\ebaa';$0",
+        "body": "content: '\\\\ec4a';$0",
         "description": "content",
         "prefix": "bx-wink-tongue"
     },
     "bx-won": {
-        "body": "content: '\\\\ebab';$0",
+        "body": "content: '\\\\ec4b';$0",
         "description": "content",
         "prefix": "bx-won"
     },
     "bx-world": {
-        "body": "content: '\\\\ebac';$0",
+        "body": "content: '\\\\ec4c';$0",
         "description": "content",
         "prefix": "bx-world"
     },
     "bx-wrench": {
-        "body": "content: '\\\\ebad';$0",
+        "body": "content: '\\\\ec4d';$0",
         "description": "content",
         "prefix": "bx-wrench"
     },
     "bx-x": {
-        "body": "content: '\\\\ebae';$0",
+        "body": "content: '\\\\ec4e';$0",
         "description": "content",
         "prefix": "bx-x"
     },
     "bx-x-circle": {
-        "body": "content: '\\\\ebaf';$0",
+        "body": "content: '\\\\ec4f';$0",
         "description": "content",
         "prefix": "bx-x-circle"
     },
     "bx-yen": {
-        "body": "content: '\\\\ebb0';$0",
+        "body": "content: '\\\\ec50';$0",
         "description": "content",
         "prefix": "bx-yen"
     },
     "bx-zoom-in": {
-        "body": "content: '\\\\ebb1';$0",
+        "body": "content: '\\\\ec51';$0",
         "description": "content",
         "prefix": "bx-zoom-in"
     },
     "bx-zoom-out": {
-        "body": "content: '\\\\ebb2';$0",
+        "body": "content: '\\\\ec52';$0",
         "description": "content",
         "prefix": "bx-zoom-out"
     }

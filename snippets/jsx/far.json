@@ -3004,6 +3004,11 @@
         "description": "<i>",
         "prefix": "far-deer-rudolph"
     },
+    "far-deezer": {
+        "body": "<${1:i} className=\"far fa-deezer$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-deezer"
+    },
     "far-delicious": {
         "body": "<${1:i} className=\"far fa-delicious$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3448,6 +3453,11 @@
         "body": "<${1:i} className=\"far fa-edge$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-edge"
+    },
+    "far-edge-legacy": {
+        "body": "<${1:i} className=\"far fa-edge-legacy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-edge-legacy"
     },
     "far-edit": {
         "body": "<${1:i} className=\"far fa-edit$2\"></${1:i}>$0",
@@ -4663,6 +4673,11 @@
         "body": "<${1:i} className=\"far fa-google-drive$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-google-drive"
+    },
+    "far-google-pay": {
+        "body": "<${1:i} className=\"far fa-google-pay$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-google-pay"
     },
     "far-google-play": {
         "body": "<${1:i} className=\"far fa-google-play$2\"></${1:i}>$0",
@@ -8159,6 +8174,11 @@
         "description": "<i>",
         "prefix": "far-rupee-sign"
     },
+    "far-rust": {
+        "body": "<${1:i} className=\"far fa-rust$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-rust"
+    },
     "far-rv": {
         "body": "<${1:i} className=\"far fa-rv$2\"></${1:i}>$0",
         "description": "<i>",
@@ -9989,6 +10009,11 @@
         "description": "<i>",
         "prefix": "far-ticket-alt"
     },
+    "far-tiktok": {
+        "body": "<${1:i} className=\"far fa-tiktok$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-tiktok"
+    },
     "far-tilde": {
         "body": "<${1:i} className=\"far fa-tilde$2\"></${1:i}>$0",
         "description": "<i>",
@@ -10548,6 +10573,11 @@
         "body": "<${1:i} className=\"far fa-unlock-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "far-unlock-alt"
+    },
+    "far-unsplash": {
+        "body": "<${1:i} className=\"far fa-unsplash$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "far-unsplash"
     },
     "far-untappd": {
         "body": "<${1:i} className=\"far fa-untappd$2\"></${1:i}>$0",

@@ -1,3 +1,7 @@
+# v2.4.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.4.0)
+
+- add RemixIcon support
+
 # v2.3.2 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.3.2)
 
 - bump Font Awesome to v5.14.0

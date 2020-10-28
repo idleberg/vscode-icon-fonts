@@ -99,11 +99,6 @@
         "description": "content",
         "prefix": "dashicons-admin-users"
     },
-    "dashicons-airplane": {
-        "body": "content: '\\\\f15f';$0",
-        "description": "content",
-        "prefix": "dashicons-airplane"
-    },
     "dashicons-album": {
         "body": "content: '\\\\f514';$0",
         "description": "content",
@@ -113,11 +108,6 @@
         "body": "content: '\\\\f134';$0",
         "description": "content",
         "prefix": "dashicons-align-center"
-    },
-    "dashicons-align-full-width": {
-        "body": "content: '\\\\f114';$0",
-        "description": "content",
-        "prefix": "dashicons-align-full-width"
     },
     "dashicons-align-left": {
         "body": "content: '\\\\f135';$0",
@@ -129,30 +119,10 @@
         "description": "content",
         "prefix": "dashicons-align-none"
     },
-    "dashicons-align-pull-left": {
-        "body": "content: '\\\\f10a';$0",
-        "description": "content",
-        "prefix": "dashicons-align-pull-left"
-    },
-    "dashicons-align-pull-right": {
-        "body": "content: '\\\\f10b';$0",
-        "description": "content",
-        "prefix": "dashicons-align-pull-right"
-    },
     "dashicons-align-right": {
         "body": "content: '\\\\f136';$0",
         "description": "content",
         "prefix": "dashicons-align-right"
-    },
-    "dashicons-align-wide": {
-        "body": "content: '\\\\f11b';$0",
-        "description": "content",
-        "prefix": "dashicons-align-wide"
-    },
-    "dashicons-amazon": {
-        "body": "content: '\\\\f162';$0",
-        "description": "content",
-        "prefix": "dashicons-amazon"
     },
     "dashicons-analytics": {
         "body": "content: '\\\\f183';$0",
@@ -244,26 +214,6 @@
         "description": "content",
         "prefix": "dashicons-backup"
     },
-    "dashicons-bank": {
-        "body": "content: '\\\\f16a';$0",
-        "description": "content",
-        "prefix": "dashicons-bank"
-    },
-    "dashicons-beer": {
-        "body": "content: '\\\\f16c';$0",
-        "description": "content",
-        "prefix": "dashicons-beer"
-    },
-    "dashicons-bell": {
-        "body": "content: '\\\\f16d';$0",
-        "description": "content",
-        "prefix": "dashicons-bell"
-    },
-    "dashicons-block-default": {
-        "body": "content: '\\\\f12b';$0",
-        "description": "content",
-        "prefix": "dashicons-block-default"
-    },
     "dashicons-book-alt": {
         "body": "content: '\\\\f331';$0",
         "description": "content",
@@ -349,16 +299,6 @@
         "description": "content",
         "prefix": "dashicons-businesswoman"
     },
-    "dashicons-button": {
-        "body": "content: '\\\\f11a';$0",
-        "description": "content",
-        "prefix": "dashicons-button"
-    },
-    "dashicons-calculator": {
-        "body": "content: '\\\\f16e';$0",
-        "description": "content",
-        "prefix": "dashicons-calculator"
-    },
     "dashicons-calendar-alt": {
         "body": "content: '\\\\f508';$0",
         "description": "content",
@@ -378,11 +318,6 @@
         "body": "content: '\\\\f306';$0",
         "description": "content",
         "prefix": "dashicons-camera"
-    },
-    "dashicons-car": {
-        "body": "content: '\\\\f16b';$0",
-        "description": "content",
-        "prefix": "dashicons-car"
     },
     "dashicons-carrot": {
         "body": "content: '\\\\f511';$0",
@@ -429,16 +364,6 @@
         "description": "content",
         "prefix": "dashicons-clock"
     },
-    "dashicons-cloud-saved": {
-        "body": "content: '\\\\f137';$0",
-        "description": "content",
-        "prefix": "dashicons-cloud-saved"
-    },
-    "dashicons-cloud-upload": {
-        "body": "content: '\\\\f13b';$0",
-        "description": "content",
-        "prefix": "dashicons-cloud-upload"
-    },
     "dashicons-cloud": {
         "body": "content: '\\\\f176';$0",
         "description": "content",
@@ -449,20 +374,10 @@
         "description": "content",
         "prefix": "dashicons-code-standards"
     },
-    "dashicons-coffee": {
-        "body": "content: '\\\\f16f';$0",
-        "description": "content",
-        "prefix": "dashicons-coffee"
-    },
     "dashicons-color-picker": {
         "body": "content: '\\\\f131';$0",
         "description": "content",
         "prefix": "dashicons-color-picker"
-    },
-    "dashicons-columns": {
-        "body": "content: '\\\\f13c';$0",
-        "description": "content",
-        "prefix": "dashicons-columns"
     },
     "dashicons-controls-back": {
         "body": "content: '\\\\f518';$0",
@@ -509,45 +424,10 @@
         "description": "content",
         "prefix": "dashicons-controls-volumeon"
     },
-    "dashicons-cover-image": {
-        "body": "content: '\\\\f13d';$0",
-        "description": "content",
-        "prefix": "dashicons-cover-image"
-    },
     "dashicons-dashboard": {
         "body": "content: '\\\\f226';$0",
         "description": "content",
         "prefix": "dashicons-dashboard"
-    },
-    "dashicons-database-add": {
-        "body": "content: '\\\\f170';$0",
-        "description": "content",
-        "prefix": "dashicons-database-add"
-    },
-    "dashicons-database-export": {
-        "body": "content: '\\\\f17a';$0",
-        "description": "content",
-        "prefix": "dashicons-database-export"
-    },
-    "dashicons-database-import": {
-        "body": "content: '\\\\f17b';$0",
-        "description": "content",
-        "prefix": "dashicons-database-import"
-    },
-    "dashicons-database-remove": {
-        "body": "content: '\\\\f17c';$0",
-        "description": "content",
-        "prefix": "dashicons-database-remove"
-    },
-    "dashicons-database-view": {
-        "body": "content: '\\\\f17d';$0",
-        "description": "content",
-        "prefix": "dashicons-database-view"
-    },
-    "dashicons-database": {
-        "body": "content: '\\\\f17e';$0",
-        "description": "content",
-        "prefix": "dashicons-database"
     },
     "dashicons-desktop": {
         "body": "content: '\\\\f472';$0",
@@ -564,20 +444,10 @@
         "description": "content",
         "prefix": "dashicons-download"
     },
-    "dashicons-drumstick": {
-        "body": "content: '\\\\f17f';$0",
-        "description": "content",
-        "prefix": "dashicons-drumstick"
-    },
     "dashicons-edit-large": {
         "body": "content: '\\\\f327';$0",
         "description": "content",
         "prefix": "dashicons-edit-large"
-    },
-    "dashicons-edit-page": {
-        "body": "content: '\\\\f186';$0",
-        "description": "content",
-        "prefix": "dashicons-edit-page"
     },
     "dashicons-edit": {
         "body": "content: '\\\\f464';$0",
@@ -754,11 +624,6 @@
         "description": "content",
         "prefix": "dashicons-editor-video"
     },
-    "dashicons-ellipsis": {
-        "body": "content: '\\\\f11c';$0",
-        "description": "content",
-        "prefix": "dashicons-ellipsis"
-    },
     "dashicons-email-alt": {
         "body": "content: '\\\\f466';$0",
         "description": "content",
@@ -774,40 +639,10 @@
         "description": "content",
         "prefix": "dashicons-email"
     },
-    "dashicons-embed-audio": {
-        "body": "content: '\\\\f13e';$0",
-        "description": "content",
-        "prefix": "dashicons-embed-audio"
-    },
-    "dashicons-embed-generic": {
-        "body": "content: '\\\\f13f';$0",
-        "description": "content",
-        "prefix": "dashicons-embed-generic"
-    },
-    "dashicons-embed-photo": {
-        "body": "content: '\\\\f144';$0",
-        "description": "content",
-        "prefix": "dashicons-embed-photo"
-    },
-    "dashicons-embed-post": {
-        "body": "content: '\\\\f146';$0",
-        "description": "content",
-        "prefix": "dashicons-embed-post"
-    },
-    "dashicons-embed-video": {
-        "body": "content: '\\\\f149';$0",
-        "description": "content",
-        "prefix": "dashicons-embed-video"
-    },
     "dashicons-excerpt-view": {
         "body": "content: '\\\\f164';$0",
         "description": "content",
         "prefix": "dashicons-excerpt-view"
-    },
-    "dashicons-exit": {
-        "body": "content: '\\\\f14a';$0",
-        "description": "content",
-        "prefix": "dashicons-exit"
     },
     "dashicons-external": {
         "body": "content: '\\\\f504';$0",
@@ -838,11 +673,6 @@
         "body": "content: '\\\\f227';$0",
         "description": "content",
         "prefix": "dashicons-flag"
-    },
-    "dashicons-food": {
-        "body": "content: '\\\\f187';$0",
-        "description": "content",
-        "prefix": "dashicons-food"
     },
     "dashicons-format-aside": {
         "body": "content: '\\\\f123';$0",
@@ -889,26 +719,6 @@
         "description": "content",
         "prefix": "dashicons-forms"
     },
-    "dashicons-fullscreen-alt": {
-        "body": "content: '\\\\f188';$0",
-        "description": "content",
-        "prefix": "dashicons-fullscreen-alt"
-    },
-    "dashicons-fullscreen-exit-alt": {
-        "body": "content: '\\\\f189';$0",
-        "description": "content",
-        "prefix": "dashicons-fullscreen-exit-alt"
-    },
-    "dashicons-games": {
-        "body": "content: '\\\\f18a';$0",
-        "description": "content",
-        "prefix": "dashicons-games"
-    },
-    "dashicons-google": {
-        "body": "content: '\\\\f18b';$0",
-        "description": "content",
-        "prefix": "dashicons-google"
-    },
     "dashicons-googleplus": {
         "body": "content: '\\\\f462';$0",
         "description": "content",
@@ -929,11 +739,6 @@
         "description": "content",
         "prefix": "dashicons-hammer"
     },
-    "dashicons-heading": {
-        "body": "content: '\\\\f10e';$0",
-        "description": "content",
-        "prefix": "dashicons-heading"
-    },
     "dashicons-heart": {
         "body": "content: '\\\\f487';$0",
         "description": "content",
@@ -943,16 +748,6 @@
         "body": "content: '\\\\f530';$0",
         "description": "content",
         "prefix": "dashicons-hidden"
-    },
-    "dashicons-hourglass": {
-        "body": "content: '\\\\f18c';$0",
-        "description": "content",
-        "prefix": "dashicons-hourglass"
-    },
-    "dashicons-html": {
-        "body": "content: '\\\\f14b';$0",
-        "description": "content",
-        "prefix": "dashicons-html"
     },
     "dashicons-id-alt": {
         "body": "content: '\\\\f337';$0",
@@ -1014,30 +809,10 @@
         "description": "content",
         "prefix": "dashicons-index-card"
     },
-    "dashicons-info-outline": {
-        "body": "content: '\\\\f14c';$0",
-        "description": "content",
-        "prefix": "dashicons-info-outline"
-    },
     "dashicons-info": {
         "body": "content: '\\\\f348';$0",
         "description": "content",
         "prefix": "dashicons-info"
-    },
-    "dashicons-insert-after": {
-        "body": "content: '\\\\f14d';$0",
-        "description": "content",
-        "prefix": "dashicons-insert-after"
-    },
-    "dashicons-insert-before": {
-        "body": "content: '\\\\f14e';$0",
-        "description": "content",
-        "prefix": "dashicons-insert-before"
-    },
-    "dashicons-insert": {
-        "body": "content: '\\\\f10f';$0",
-        "description": "content",
-        "prefix": "dashicons-insert"
     },
     "dashicons-instagram": {
         "body": "content: '\\\\f12d';$0",
@@ -1063,11 +838,6 @@
         "body": "content: '\\\\f339';$0",
         "description": "content",
         "prefix": "dashicons-lightbulb"
-    },
-    "dashicons-linkedin": {
-        "body": "content: '\\\\f18d';$0",
-        "description": "content",
-        "prefix": "dashicons-linkedin"
     },
     "dashicons-list-view": {
         "body": "content: '\\\\f163';$0",
@@ -1184,11 +954,6 @@
         "description": "content",
         "prefix": "dashicons-minus"
     },
-    "dashicons-money-alt": {
-        "body": "content: '\\\\f18e';$0",
-        "description": "content",
-        "prefix": "dashicons-money-alt"
-    },
     "dashicons-money": {
         "body": "content: '\\\\f526';$0",
         "description": "content",
@@ -1219,11 +984,6 @@
         "description": "content",
         "prefix": "dashicons-no"
     },
-    "dashicons-open-folder": {
-        "body": "content: '\\\\f18f';$0",
-        "description": "content",
-        "prefix": "dashicons-open-folder"
-    },
     "dashicons-palmtree": {
         "body": "content: '\\\\f527';$0",
         "description": "content",
@@ -1234,30 +994,15 @@
         "description": "content",
         "prefix": "dashicons-paperclip"
     },
-    "dashicons-pdf": {
-        "body": "content: '\\\\f190';$0",
-        "description": "content",
-        "prefix": "dashicons-pdf"
-    },
     "dashicons-performance": {
         "body": "content: '\\\\f311';$0",
         "description": "content",
         "prefix": "dashicons-performance"
     },
-    "dashicons-pets": {
-        "body": "content: '\\\\f191';$0",
-        "description": "content",
-        "prefix": "dashicons-pets"
-    },
     "dashicons-phone": {
         "body": "content: '\\\\f525';$0",
         "description": "content",
         "prefix": "dashicons-phone"
-    },
-    "dashicons-pinterest": {
-        "body": "content: '\\\\f192';$0",
-        "description": "content",
-        "prefix": "dashicons-pinterest"
     },
     "dashicons-playlist-audio": {
         "body": "content: '\\\\f492';$0",
@@ -1289,11 +1034,6 @@
         "description": "content",
         "prefix": "dashicons-plus"
     },
-    "dashicons-podio": {
-        "body": "content: '\\\\f19c';$0",
-        "description": "content",
-        "prefix": "dashicons-podio"
-    },
     "dashicons-portfolio": {
         "body": "content: '\\\\f322';$0",
         "description": "content",
@@ -1309,16 +1049,6 @@
         "description": "content",
         "prefix": "dashicons-pressthis"
     },
-    "dashicons-printer": {
-        "body": "content: '\\\\f193';$0",
-        "description": "content",
-        "prefix": "dashicons-printer"
-    },
-    "dashicons-privacy": {
-        "body": "content: '\\\\f194';$0",
-        "description": "content",
-        "prefix": "dashicons-privacy"
-    },
     "dashicons-products": {
         "body": "content: '\\\\f312';$0",
         "description": "content",
@@ -1329,20 +1059,10 @@
         "description": "content",
         "prefix": "dashicons-randomize"
     },
-    "dashicons-reddit": {
-        "body": "content: '\\\\f195';$0",
-        "description": "content",
-        "prefix": "dashicons-reddit"
-    },
     "dashicons-redo": {
         "body": "content: '\\\\f172';$0",
         "description": "content",
         "prefix": "dashicons-redo"
-    },
-    "dashicons-remove": {
-        "body": "content: '\\\\f14f';$0",
-        "description": "content",
-        "prefix": "dashicons-remove"
     },
     "dashicons-rest-api": {
         "body": "content: '\\\\f124';$0",
@@ -1353,11 +1073,6 @@
         "body": "content: '\\\\f303';$0",
         "description": "content",
         "prefix": "dashicons-rss"
-    },
-    "dashicons-saved": {
-        "body": "content: '\\\\f15e';$0",
-        "description": "content",
-        "prefix": "dashicons-saved"
     },
     "dashicons-schedule": {
         "body": "content: '\\\\f489';$0",
@@ -1399,11 +1114,6 @@
         "description": "content",
         "prefix": "dashicons-shield"
     },
-    "dashicons-shortcode": {
-        "body": "content: '\\\\f150';$0",
-        "description": "content",
-        "prefix": "dashicons-shortcode"
-    },
     "dashicons-slides": {
         "body": "content: '\\\\f181';$0",
         "description": "content",
@@ -1429,11 +1139,6 @@
         "description": "content",
         "prefix": "dashicons-sos"
     },
-    "dashicons-spotify": {
-        "body": "content: '\\\\f196';$0",
-        "description": "content",
-        "prefix": "dashicons-spotify"
-    },
     "dashicons-star-empty": {
         "body": "content: '\\\\f154';$0",
         "description": "content",
@@ -1458,46 +1163,6 @@
         "body": "content: '\\\\f513';$0",
         "description": "content",
         "prefix": "dashicons-store"
-    },
-    "dashicons-superhero-alt": {
-        "body": "content: '\\\\f197';$0",
-        "description": "content",
-        "prefix": "dashicons-superhero-alt"
-    },
-    "dashicons-superhero": {
-        "body": "content: '\\\\f198';$0",
-        "description": "content",
-        "prefix": "dashicons-superhero"
-    },
-    "dashicons-table-col-after": {
-        "body": "content: '\\\\f151';$0",
-        "description": "content",
-        "prefix": "dashicons-table-col-after"
-    },
-    "dashicons-table-col-before": {
-        "body": "content: '\\\\f152';$0",
-        "description": "content",
-        "prefix": "dashicons-table-col-before"
-    },
-    "dashicons-table-col-delete": {
-        "body": "content: '\\\\f15a';$0",
-        "description": "content",
-        "prefix": "dashicons-table-col-delete"
-    },
-    "dashicons-table-row-after": {
-        "body": "content: '\\\\f15b';$0",
-        "description": "content",
-        "prefix": "dashicons-table-row-after"
-    },
-    "dashicons-table-row-before": {
-        "body": "content: '\\\\f15c';$0",
-        "description": "content",
-        "prefix": "dashicons-table-row-before"
-    },
-    "dashicons-table-row-delete": {
-        "body": "content: '\\\\f15d';$0",
-        "description": "content",
-        "prefix": "dashicons-table-row-delete"
     },
     "dashicons-tablet": {
         "body": "content: '\\\\f471';$0",
@@ -1563,11 +1228,6 @@
         "body": "content: '\\\\f182';$0",
         "description": "content",
         "prefix": "dashicons-trash"
-    },
-    "dashicons-twitch": {
-        "body": "content: '\\\\f199';$0",
-        "description": "content",
-        "prefix": "dashicons-twitch"
     },
     "dashicons-twitter-alt": {
         "body": "content: '\\\\f302';$0",
@@ -1674,11 +1334,6 @@
         "description": "content",
         "prefix": "dashicons-welcome-write-blog"
     },
-    "dashicons-whatsapp": {
-        "body": "content: '\\\\f19a';$0",
-        "description": "content",
-        "prefix": "dashicons-whatsapp"
-    },
     "dashicons-wordpress-alt": {
         "body": "content: '\\\\f324';$0",
         "description": "content",
@@ -1689,11 +1344,6 @@
         "description": "content",
         "prefix": "dashicons-wordpress"
     },
-    "dashicons-xing": {
-        "body": "content: '\\\\f19d';$0",
-        "description": "content",
-        "prefix": "dashicons-xing"
-    },
     "dashicons-yes-alt": {
         "body": "content: '\\\\f12a';$0",
         "description": "content",
@@ -1703,11 +1353,6 @@
         "body": "content: '\\\\f147';$0",
         "description": "content",
         "prefix": "dashicons-yes"
-    },
-    "dashicons-youtube": {
-        "body": "content: '\\\\f19b';$0",
-        "description": "content",
-        "prefix": "dashicons-youtube"
     },
     "dashicons-editor-distractionfree": {
         "body": "content: '\\\\f211';$0",

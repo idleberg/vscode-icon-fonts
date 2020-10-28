@@ -320,6 +320,20 @@ fonts:
   tag: span
   options: false
 
+- id: remixicon
+  slug: ri
+  directory: remixicon
+  github: Remix-Design/remixicon
+  files: fonts/remixicon.css
+  pattern:
+    before: .ri-
+    after: :before
+  classes:
+    before: ''
+    after: ''
+  tag: i
+  options: true
+
 - id: stackicons
   slug: st
   directory: st

@@ -54,11 +54,6 @@
         "description": "content",
         "prefix": "fas-adn"
     },
-    "fas-adobe": {
-        "body": "content: '\\\\f778';$0",
-        "description": "content",
-        "prefix": "fas-adobe"
-    },
     "fas-adversal": {
         "body": "content: '\\\\f36a';$0",
         "description": "content",
@@ -2353,6 +2348,11 @@
         "body": "content: '\\\\f382';$0",
         "description": "content",
         "prefix": "fas-cloud-upload-alt"
+    },
+    "fas-cloudflare": {
+        "body": "content: '\\\\e07d';$0",
+        "description": "content",
+        "prefix": "fas-cloudflare"
     },
     "fas-clouds": {
         "body": "content: '\\\\f744';$0",
@@ -4839,6 +4839,11 @@
         "description": "content",
         "prefix": "fas-grunt"
     },
+    "fas-guilded": {
+        "body": "content: '\\\\e07e';$0",
+        "description": "content",
+        "prefix": "fas-guilded"
+    },
     "fas-guitar": {
         "body": "content: '\\\\f7a6';$0",
         "description": "content",
@@ -5279,6 +5284,11 @@
         "description": "content",
         "prefix": "fas-history"
     },
+    "fas-hive": {
+        "body": "content: '\\\\e07f';$0",
+        "description": "content",
+        "prefix": "fas-hive"
+    },
     "fas-hockey-mask": {
         "body": "content: '\\\\f6ee';$0",
         "description": "content",
@@ -5629,6 +5639,11 @@
         "description": "content",
         "prefix": "fas-inhaler"
     },
+    "fas-innosoft": {
+        "body": "content: '\\\\e080';$0",
+        "description": "content",
+        "prefix": "fas-innosoft"
+    },
     "fas-instagram": {
         "body": "content: '\\\\f16d';$0",
         "description": "content",
@@ -5638,6 +5653,11 @@
         "body": "content: '\\\\e055';$0",
         "description": "content",
         "prefix": "fas-instagram-square"
+    },
+    "fas-instalod": {
+        "body": "content: '\\\\e081';$0",
+        "description": "content",
+        "prefix": "fas-instalod"
     },
     "fas-integral": {
         "body": "content: '\\\\f667';$0",
@@ -6959,6 +6979,11 @@
         "description": "content",
         "prefix": "fas-octagon"
     },
+    "fas-octopus-deploy": {
+        "body": "content: '\\\\e082';$0",
+        "description": "content",
+        "prefix": "fas-octopus-deploy"
+    },
     "fas-odnoklassniki": {
         "body": "content: '\\\\f263';$0",
         "description": "content",
@@ -7283,6 +7308,11 @@
         "body": "content: '\\\\f816';$0",
         "description": "content",
         "prefix": "fas-pepper-hot"
+    },
+    "fas-perbyte": {
+        "body": "content: '\\\\e083';$0",
+        "description": "content",
+        "prefix": "fas-perbyte"
     },
     "fas-percent": {
         "body": "content: '\\\\f295';$0",
@@ -10514,6 +10544,11 @@
         "description": "content",
         "prefix": "fas-umbrella-beach"
     },
+    "fas-uncharted": {
+        "body": "content: '\\\\e084';$0",
+        "description": "content",
+        "prefix": "fas-uncharted"
+    },
     "fas-underline": {
         "body": "content: '\\\\f0cd';$0",
         "description": "content",
@@ -10894,6 +10929,16 @@
         "description": "content",
         "prefix": "fas-venus-mars"
     },
+    "fas-vest": {
+        "body": "content: '\\\\e085';$0",
+        "description": "content",
+        "prefix": "fas-vest"
+    },
+    "fas-vest-patches": {
+        "body": "content: '\\\\e086';$0",
+        "description": "content",
+        "prefix": "fas-vest-patches"
+    },
     "fas-vhs": {
         "body": "content: '\\\\f8ec';$0",
         "description": "content",
@@ -11129,6 +11174,11 @@
         "description": "content",
         "prefix": "fas-watch-fitness"
     },
+    "fas-watchman-monitoring": {
+        "body": "content: '\\\\e087';$0",
+        "description": "content",
+        "prefix": "fas-watchman-monitoring"
+    },
     "fas-water": {
         "body": "content: '\\\\f773';$0",
         "description": "content",
@@ -11358,6 +11408,11 @@
         "body": "content: '\\\\f730';$0",
         "description": "content",
         "prefix": "fas-wizards-of-the-coast"
+    },
+    "fas-wodu": {
+        "body": "content: '\\\\e088';$0",
+        "description": "content",
+        "prefix": "fas-wodu"
     },
     "fas-wolf-pack-battalion": {
         "body": "content: '\\\\f514';$0",

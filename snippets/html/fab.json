@@ -54,11 +54,6 @@
         "description": "<i>",
         "prefix": "fab-adn"
     },
-    "fab-adobe": {
-        "body": "<${1:i} class=\"fab fa-adobe$2\"></${1:i}>$0",
-        "description": "<i>",
-        "prefix": "fab-adobe"
-    },
     "fab-adversal": {
         "body": "<${1:i} class=\"fab fa-adversal$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2353,6 +2348,11 @@
         "body": "<${1:i} class=\"fab fa-cloud-upload-alt$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-cloud-upload-alt"
+    },
+    "fab-cloudflare": {
+        "body": "<${1:i} class=\"fab fa-cloudflare$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-cloudflare"
     },
     "fab-clouds": {
         "body": "<${1:i} class=\"fab fa-clouds$2\"></${1:i}>$0",
@@ -4839,6 +4839,11 @@
         "description": "<i>",
         "prefix": "fab-grunt"
     },
+    "fab-guilded": {
+        "body": "<${1:i} class=\"fab fa-guilded$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-guilded"
+    },
     "fab-guitar": {
         "body": "<${1:i} class=\"fab fa-guitar$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5279,6 +5284,11 @@
         "description": "<i>",
         "prefix": "fab-history"
     },
+    "fab-hive": {
+        "body": "<${1:i} class=\"fab fa-hive$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-hive"
+    },
     "fab-hockey-mask": {
         "body": "<${1:i} class=\"fab fa-hockey-mask$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5629,6 +5639,11 @@
         "description": "<i>",
         "prefix": "fab-inhaler"
     },
+    "fab-innosoft": {
+        "body": "<${1:i} class=\"fab fa-innosoft$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-innosoft"
+    },
     "fab-instagram": {
         "body": "<${1:i} class=\"fab fa-instagram$2\"></${1:i}>$0",
         "description": "<i>",
@@ -5638,6 +5653,11 @@
         "body": "<${1:i} class=\"fab fa-instagram-square$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-instagram-square"
+    },
+    "fab-instalod": {
+        "body": "<${1:i} class=\"fab fa-instalod$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-instalod"
     },
     "fab-integral": {
         "body": "<${1:i} class=\"fab fa-integral$2\"></${1:i}>$0",
@@ -6959,6 +6979,11 @@
         "description": "<i>",
         "prefix": "fab-octagon"
     },
+    "fab-octopus-deploy": {
+        "body": "<${1:i} class=\"fab fa-octopus-deploy$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-octopus-deploy"
+    },
     "fab-odnoklassniki": {
         "body": "<${1:i} class=\"fab fa-odnoklassniki$2\"></${1:i}>$0",
         "description": "<i>",
@@ -7283,6 +7308,11 @@
         "body": "<${1:i} class=\"fab fa-pepper-hot$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-pepper-hot"
+    },
+    "fab-perbyte": {
+        "body": "<${1:i} class=\"fab fa-perbyte$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-perbyte"
     },
     "fab-percent": {
         "body": "<${1:i} class=\"fab fa-percent$2\"></${1:i}>$0",
@@ -10514,6 +10544,11 @@
         "description": "<i>",
         "prefix": "fab-umbrella-beach"
     },
+    "fab-uncharted": {
+        "body": "<${1:i} class=\"fab fa-uncharted$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-uncharted"
+    },
     "fab-underline": {
         "body": "<${1:i} class=\"fab fa-underline$2\"></${1:i}>$0",
         "description": "<i>",
@@ -10894,6 +10929,16 @@
         "description": "<i>",
         "prefix": "fab-venus-mars"
     },
+    "fab-vest": {
+        "body": "<${1:i} class=\"fab fa-vest$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-vest"
+    },
+    "fab-vest-patches": {
+        "body": "<${1:i} class=\"fab fa-vest-patches$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-vest-patches"
+    },
     "fab-vhs": {
         "body": "<${1:i} class=\"fab fa-vhs$2\"></${1:i}>$0",
         "description": "<i>",
@@ -11129,6 +11174,11 @@
         "description": "<i>",
         "prefix": "fab-watch-fitness"
     },
+    "fab-watchman-monitoring": {
+        "body": "<${1:i} class=\"fab fa-watchman-monitoring$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-watchman-monitoring"
+    },
     "fab-water": {
         "body": "<${1:i} class=\"fab fa-water$2\"></${1:i}>$0",
         "description": "<i>",
@@ -11358,6 +11408,11 @@
         "body": "<${1:i} class=\"fab fa-wizards-of-the-coast$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "fab-wizards-of-the-coast"
+    },
+    "fab-wodu": {
+        "body": "<${1:i} class=\"fab fa-wodu$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "fab-wodu"
     },
     "fab-wolf-pack-battalion": {
         "body": "<${1:i} class=\"fab fa-wolf-pack-battalion$2\"></${1:i}>$0",

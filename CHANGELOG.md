@@ -1,3 +1,13 @@
+# v2.5.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.5.0)
+
+- move Foundation Icons to [legacy package](https://github.com/idleberg/vscode-icon-fonts-legacy)
+- move Geomicons to [legacy package](https://github.com/idleberg/vscode-icon-fonts-legacy)
+- bump Font Awesome to v5.15.3
+- bump Material Design Icons to 5.9.55
+- bump Typicons to 2.1.1
+- bump Weather Icons to 2.0.12
+- update linting scripts
+
 # v2.4.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/2.4.0)
 
 - add RemixIcon support

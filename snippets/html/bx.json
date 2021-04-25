@@ -374,6 +374,26 @@
         "description": "<i>",
         "prefix": "bx-bookmark"
     },
+    "bx-bookmark-alt": {
+        "body": "<${1:i} class=\"bx bx-bookmark-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bookmark-alt"
+    },
+    "bx-bookmark-alt-minus": {
+        "body": "<${1:i} class=\"bx bx-bookmark-alt-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bookmark-alt-minus"
+    },
+    "bx-bookmark-alt-plus": {
+        "body": "<${1:i} class=\"bx bx-bookmark-alt-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bookmark-alt-plus"
+    },
+    "bx-bookmark-heart": {
+        "body": "<${1:i} class=\"bx bx-bookmark-heart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bookmark-heart"
+    },
     "bx-bookmark-minus": {
         "body": "<${1:i} class=\"bx bx-bookmark-minus$2\"></${1:i}>$0",
         "description": "<i>",
@@ -758,6 +778,16 @@
         "body": "<${1:i} class=\"bx bx-cast$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-cast"
+    },
+    "bx-category": {
+        "body": "<${1:i} class=\"bx bx-category$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-category"
+    },
+    "bx-category-alt": {
+        "body": "<${1:i} class=\"bx bx-category-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-category-alt"
     },
     "bx-cctv": {
         "body": "<${1:i} class=\"bx bx-cctv$2\"></${1:i}>$0",
@@ -1484,6 +1514,11 @@
         "description": "<i>",
         "prefix": "bx-expand"
     },
+    "bx-expand-alt": {
+        "body": "<${1:i} class=\"bx bx-expand-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-expand-alt"
+    },
     "bx-export": {
         "body": "<${1:i} class=\"bx bx-export$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2014,6 +2049,11 @@
         "description": "<i>",
         "prefix": "bx-left-top-arrow-circle"
     },
+    "bx-library": {
+        "body": "<${1:i} class=\"bx bx-library$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-library"
+    },
     "bx-like": {
         "body": "<${1:i} class=\"bx bx-like$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2503,6 +2543,11 @@
         "body": "<${1:i} class=\"bx bx-movie$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-movie"
+    },
+    "bx-movie-play": {
+        "body": "<${1:i} class=\"bx bx-movie-play$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-movie-play"
     },
     "bx-music": {
         "body": "<${1:i} class=\"bx bx-music$2\"></${1:i}>$0",
@@ -3114,6 +3159,11 @@
         "description": "<i>",
         "prefix": "bx-sort"
     },
+    "bx-sort-alt-2": {
+        "body": "<${1:i} class=\"bx bx-sort-alt-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-sort-alt-2"
+    },
     "bx-sort-a-z": {
         "body": "<${1:i} class=\"bx bx-sort-a-z$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3269,6 +3319,11 @@
         "description": "<i>",
         "prefix": "bx-tag"
     },
+    "bx-tag-alt": {
+        "body": "<${1:i} class=\"bx bx-tag-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-tag-alt"
+    },
     "bx-target-lock": {
         "body": "<${1:i} class=\"bx bx-target-lock$2\"></${1:i}>$0",
         "description": "<i>",
@@ -3388,6 +3443,11 @@
         "body": "<${1:i} class=\"bx bx-trim$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-trim"
+    },
+    "bx-trip": {
+        "body": "<${1:i} class=\"bx bx-trip$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-trip"
     },
     "bx-trophy": {
         "body": "<${1:i} class=\"bx bx-trophy$2\"></${1:i}>$0",

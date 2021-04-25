@@ -54,11 +54,6 @@
         "description": "content",
         "prefix": "far-adn"
     },
-    "far-adobe": {
-        "body": "content: '\\\\f778';$0",
-        "description": "content",
-        "prefix": "far-adobe"
-    },
     "far-adversal": {
         "body": "content: '\\\\f36a';$0",
         "description": "content",
@@ -2353,6 +2348,11 @@
         "body": "content: '\\\\f382';$0",
         "description": "content",
         "prefix": "far-cloud-upload-alt"
+    },
+    "far-cloudflare": {
+        "body": "content: '\\\\e07d';$0",
+        "description": "content",
+        "prefix": "far-cloudflare"
     },
     "far-clouds": {
         "body": "content: '\\\\f744';$0",
@@ -4839,6 +4839,11 @@
         "description": "content",
         "prefix": "far-grunt"
     },
+    "far-guilded": {
+        "body": "content: '\\\\e07e';$0",
+        "description": "content",
+        "prefix": "far-guilded"
+    },
     "far-guitar": {
         "body": "content: '\\\\f7a6';$0",
         "description": "content",
@@ -5279,6 +5284,11 @@
         "description": "content",
         "prefix": "far-history"
     },
+    "far-hive": {
+        "body": "content: '\\\\e07f';$0",
+        "description": "content",
+        "prefix": "far-hive"
+    },
     "far-hockey-mask": {
         "body": "content: '\\\\f6ee';$0",
         "description": "content",
@@ -5629,6 +5639,11 @@
         "description": "content",
         "prefix": "far-inhaler"
     },
+    "far-innosoft": {
+        "body": "content: '\\\\e080';$0",
+        "description": "content",
+        "prefix": "far-innosoft"
+    },
     "far-instagram": {
         "body": "content: '\\\\f16d';$0",
         "description": "content",
@@ -5638,6 +5653,11 @@
         "body": "content: '\\\\e055';$0",
         "description": "content",
         "prefix": "far-instagram-square"
+    },
+    "far-instalod": {
+        "body": "content: '\\\\e081';$0",
+        "description": "content",
+        "prefix": "far-instalod"
     },
     "far-integral": {
         "body": "content: '\\\\f667';$0",
@@ -6959,6 +6979,11 @@
         "description": "content",
         "prefix": "far-octagon"
     },
+    "far-octopus-deploy": {
+        "body": "content: '\\\\e082';$0",
+        "description": "content",
+        "prefix": "far-octopus-deploy"
+    },
     "far-odnoklassniki": {
         "body": "content: '\\\\f263';$0",
         "description": "content",
@@ -7283,6 +7308,11 @@
         "body": "content: '\\\\f816';$0",
         "description": "content",
         "prefix": "far-pepper-hot"
+    },
+    "far-perbyte": {
+        "body": "content: '\\\\e083';$0",
+        "description": "content",
+        "prefix": "far-perbyte"
     },
     "far-percent": {
         "body": "content: '\\\\f295';$0",
@@ -10514,6 +10544,11 @@
         "description": "content",
         "prefix": "far-umbrella-beach"
     },
+    "far-uncharted": {
+        "body": "content: '\\\\e084';$0",
+        "description": "content",
+        "prefix": "far-uncharted"
+    },
     "far-underline": {
         "body": "content: '\\\\f0cd';$0",
         "description": "content",
@@ -10894,6 +10929,16 @@
         "description": "content",
         "prefix": "far-venus-mars"
     },
+    "far-vest": {
+        "body": "content: '\\\\e085';$0",
+        "description": "content",
+        "prefix": "far-vest"
+    },
+    "far-vest-patches": {
+        "body": "content: '\\\\e086';$0",
+        "description": "content",
+        "prefix": "far-vest-patches"
+    },
     "far-vhs": {
         "body": "content: '\\\\f8ec';$0",
         "description": "content",
@@ -11129,6 +11174,11 @@
         "description": "content",
         "prefix": "far-watch-fitness"
     },
+    "far-watchman-monitoring": {
+        "body": "content: '\\\\e087';$0",
+        "description": "content",
+        "prefix": "far-watchman-monitoring"
+    },
     "far-water": {
         "body": "content: '\\\\f773';$0",
         "description": "content",
@@ -11358,6 +11408,11 @@
         "body": "content: '\\\\f730';$0",
         "description": "content",
         "prefix": "far-wizards-of-the-coast"
+    },
+    "far-wodu": {
+        "body": "content: '\\\\e088';$0",
+        "description": "content",
+        "prefix": "far-wodu"
     },
     "far-wolf-pack-battalion": {
         "body": "content: '\\\\f514';$0",

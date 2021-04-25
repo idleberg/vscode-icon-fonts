@@ -1,3 +1,7 @@
+# v2.5.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/v2.5.1)
+
+- fix linting script
+
 # v2.5.0 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/v2.5.0)
 
 - move Foundation Icons to [legacy package](https://github.com/idleberg/vscode-icon-fonts-legacy)

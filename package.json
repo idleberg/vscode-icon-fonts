@@ -11,7 +11,7 @@
     },
     "scripts": {
         "build": "gulp && cd tools && yarn",
-        "lint": "jsonlint snippets/*.json --quiet",
+        "lint": "jsonlint snippets/**/*.json --quiet",
         "postinstall": "node ./node_modules/vscode/bin/install",
         "postpublish": "rimraf tools/node_modules && vsce package && gulp push --tags",
         "test": "npm run lint",

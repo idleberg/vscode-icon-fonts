@@ -1,3 +1,7 @@
+# v2.5.2 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/v2.5.2)
+
+- remove legacy icons from package
+
 # v2.5.1 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/v2.5.1)
 
 - fix linting script

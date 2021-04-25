@@ -2,7 +2,7 @@
     "name": "icon-fonts",
     "displayName": "Icon Fonts",
     "description": "Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!",
-    "version": "2.4.0",
+    "version": "2.5.0",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
@@ -881,13 +881,13 @@
     },
     "husky": {
         "hooks": {
-          "pre-commit": "lint-staged"
+            "pre-commit": "lint-staged"
         }
-      },
-      "lint-staged": {
+    },
+    "lint-staged": {
         "*.json": "jsonlint --quiet"
-      },
-      "volta": {
+    },
+    "volta": {
         "node": "14.16.1"
-      }
+    }
 }

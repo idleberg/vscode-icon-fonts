@@ -1,3 +1,8 @@
+# v2.5.3 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/v2.5.3)
+
+- bump Font Icons to v0.18
+- upgrade husky
+
 # v2.5.2 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/v2.5.2)
 
 - remove legacy icons from package

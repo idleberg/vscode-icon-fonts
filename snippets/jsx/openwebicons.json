@@ -574,6 +574,11 @@
         "description": "<i>",
         "prefix": "icon-indieauth"
     },
+    "icon-freesoftware": {
+        "body": "<${1:i} className=\"icon-freesoftware$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "icon-freesoftware"
+    },
     "icon-id4me": {
         "body": "<${1:i} className=\"icon-id4me$2\"></${1:i}>$0",
         "description": "<i>",

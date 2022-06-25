@@ -1,3 +1,9 @@
+# v2.5.4 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/v2.5.4)
+
+- bump Material Design Icons to v6.7.96
+- replace JSON linter
+- update dependencies
+
 # v2.5.3 [#](https://github.com/idleberg/vscode-icon-fonts/releases/tag/v2.5.3)
 
 - bump Font Icons to v0.18

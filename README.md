@@ -78,7 +78,7 @@ Snippets are limited to the `html`, `css|less|sass|scss|stylus`, `jsx`, `blade` 
 | `glyphicon`       | [Bootstrap Glyphicons][glyphicon]       | 3.3.7   |
 | `icono`           | [Icono][icono]                          | 1.3.0   |
 | `ion`             | [Ionicons][ion]                         | 2.0.1   |
-| `mdi`             | [Material Design Icons][mdi]            | 5.9.55  |
+| `mdi`             | [Material Design Icons][mdi]            | 6.7.96  |
 | `mfg`             | [MFG Labs Iconset][mfg]                 | –       |
 | `mfizz`           | [Font Mfizz][mfizz]                     | 2.4.1   |
 | `mio`             | [Material Design Icons (Official)][mio] | 3.0.1   |
@@ -88,7 +88,7 @@ Snippets are limited to the `html`, `css|less|sass|scss|stylus`, `jsx`, `blade` 
 | `pf`              | [PaymentFont][pf]                       | 1.2.5   |
 | `ri`              | [RemixIcon][ri]                         | 2.5.0   |
 | `st`              | [Stack Icons][st]                       | 1.0.0   |
-| `typcn`           | [Typicons][typcn]                       | 2.1.1   |
+| `typcn`           | [Typicons][typcn]                       | 2.1.2   |
 | `wi`              | [Weather Icons][wi]                     | 2.0.12  |
 | `zmdi`            | [Material Design Iconic Font][zmdi]     | 2.2.0   |
 

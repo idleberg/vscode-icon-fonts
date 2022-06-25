@@ -11,7 +11,7 @@
     },
     "scripts": {
         "build": "gulp && cd tools && yarn",
-        "lint": "eslint ./snippets/*.json --ignore-path .gitignore",
+        "lint": "eslint ./snippets/**/*.json --ignore-path .gitignore",
         "postpublish": "rimraf tools/node_modules && vsce package && gulp push --tags",
         "test": "npm run lint",
         "vscode:prepublish": "gulp",

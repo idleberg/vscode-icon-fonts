@@ -1,4 +1,289 @@
 {
+    "bx-child": {
+        "body": "<${1:i} class=\"bx bx-child$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-child"
+    },
+    "bx-horizontal-left": {
+        "body": "<${1:i} class=\"bx bx-horizontal-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-horizontal-left"
+    },
+    "bx-horizontal-right": {
+        "body": "<${1:i} class=\"bx bx-horizontal-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-horizontal-right"
+    },
+    "bx-objects-horizontal-center": {
+        "body": "<${1:i} class=\"bx bx-objects-horizontal-center$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-objects-horizontal-center"
+    },
+    "bx-objects-horizontal-left": {
+        "body": "<${1:i} class=\"bx bx-objects-horizontal-left$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-objects-horizontal-left"
+    },
+    "bx-objects-horizontal-right": {
+        "body": "<${1:i} class=\"bx bx-objects-horizontal-right$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-objects-horizontal-right"
+    },
+    "bx-objects-vertical-bottom": {
+        "body": "<${1:i} class=\"bx bx-objects-vertical-bottom$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-objects-vertical-bottom"
+    },
+    "bx-objects-vertical-center": {
+        "body": "<${1:i} class=\"bx bx-objects-vertical-center$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-objects-vertical-center"
+    },
+    "bx-objects-vertical-top": {
+        "body": "<${1:i} class=\"bx bx-objects-vertical-top$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-objects-vertical-top"
+    },
+    "bx-rfid": {
+        "body": "<${1:i} class=\"bx bx-rfid$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-rfid"
+    },
+    "bx-shield-minus": {
+        "body": "<${1:i} class=\"bx bx-shield-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-shield-minus"
+    },
+    "bx-shield-plus": {
+        "body": "<${1:i} class=\"bx bx-shield-plus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-shield-plus"
+    },
+    "bx-shower": {
+        "body": "<${1:i} class=\"bx bx-shower$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-shower"
+    },
+    "bx-sushi": {
+        "body": "<${1:i} class=\"bx bx-sushi$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-sushi"
+    },
+    "bx-universal-access": {
+        "body": "<${1:i} class=\"bx bx-universal-access$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-universal-access"
+    },
+    "bx-vertical-bottom": {
+        "body": "<${1:i} class=\"bx bx-vertical-bottom$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-vertical-bottom"
+    },
+    "bx-vertical-top": {
+        "body": "<${1:i} class=\"bx bx-vertical-top$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-vertical-top"
+    },
+    "bx-reflect-horizontal": {
+        "body": "<${1:i} class=\"bx bx-reflect-horizontal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-reflect-horizontal"
+    },
+    "bx-reflect-vertical": {
+        "body": "<${1:i} class=\"bx bx-reflect-vertical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-reflect-vertical"
+    },
+    "bx-color": {
+        "body": "<${1:i} class=\"bx bx-color$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-color"
+    },
+    "bx-home-alt-2": {
+        "body": "<${1:i} class=\"bx bx-home-alt-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-home-alt-2"
+    },
+    "bx-hard-hat": {
+        "body": "<${1:i} class=\"bx bx-hard-hat$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-hard-hat"
+    },
+    "bx-cheese": {
+        "body": "<${1:i} class=\"bx bx-cheese$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cheese"
+    },
+    "bx-cart-add": {
+        "body": "<${1:i} class=\"bx bx-cart-add$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cart-add"
+    },
+    "bx-cart-download": {
+        "body": "<${1:i} class=\"bx bx-cart-download$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cart-download"
+    },
+    "bx-no-signal": {
+        "body": "<${1:i} class=\"bx bx-no-signal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-no-signal"
+    },
+    "bx-signal-1": {
+        "body": "<${1:i} class=\"bx bx-signal-1$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-signal-1"
+    },
+    "bx-signal-2": {
+        "body": "<${1:i} class=\"bx bx-signal-2$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-signal-2"
+    },
+    "bx-signal-3": {
+        "body": "<${1:i} class=\"bx bx-signal-3$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-signal-3"
+    },
+    "bx-signal-4": {
+        "body": "<${1:i} class=\"bx bx-signal-4$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-signal-4"
+    },
+    "bx-signal-5": {
+        "body": "<${1:i} class=\"bx bx-signal-5$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-signal-5"
+    },
+    "bx-lemon": {
+        "body": "<${1:i} class=\"bx bx-lemon$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-lemon"
+    },
+    "bx-cricket-ball": {
+        "body": "<${1:i} class=\"bx bx-cricket-ball$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cricket-ball"
+    },
+    "bx-baguette": {
+        "body": "<${1:i} class=\"bx bx-baguette$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-baguette"
+    },
+    "bx-bowl-hot": {
+        "body": "<${1:i} class=\"bx bx-bowl-hot$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bowl-hot"
+    },
+    "bx-bowl-rice": {
+        "body": "<${1:i} class=\"bx bx-bowl-rice$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-bowl-rice"
+    },
+    "bx-cable-car": {
+        "body": "<${1:i} class=\"bx bx-cable-car$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cable-car"
+    },
+    "bx-candles": {
+        "body": "<${1:i} class=\"bx bx-candles$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-candles"
+    },
+    "bx-circle-half": {
+        "body": "<${1:i} class=\"bx bx-circle-half$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-circle-half"
+    },
+    "bx-circle-quarter": {
+        "body": "<${1:i} class=\"bx bx-circle-quarter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-circle-quarter"
+    },
+    "bx-circle-three-quarter": {
+        "body": "<${1:i} class=\"bx bx-circle-three-quarter$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-circle-three-quarter"
+    },
+    "bx-cross": {
+        "body": "<${1:i} class=\"bx bx-cross$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-cross"
+    },
+    "bx-fork": {
+        "body": "<${1:i} class=\"bx bx-fork$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-fork"
+    },
+    "bx-knife": {
+        "body": "<${1:i} class=\"bx bx-knife$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-knife"
+    },
+    "bx-money-withdraw": {
+        "body": "<${1:i} class=\"bx bx-money-withdraw$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-money-withdraw"
+    },
+    "bx-popsicle": {
+        "body": "<${1:i} class=\"bx bx-popsicle$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-popsicle"
+    },
+    "bx-scatter-chart": {
+        "body": "<${1:i} class=\"bx bx-scatter-chart$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-scatter-chart"
+    },
+    "bx-male-female": {
+        "body": "<${1:i} class=\"bx bx-male-female$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-male-female"
+    },
+    "bx-collapse-alt": {
+        "body": "<${1:i} class=\"bx bx-collapse-alt$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-collapse-alt"
+    },
+    "bx-collapse-horizontal": {
+        "body": "<${1:i} class=\"bx bx-collapse-horizontal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-collapse-horizontal"
+    },
+    "bx-collapse-vertical": {
+        "body": "<${1:i} class=\"bx bx-collapse-vertical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-collapse-vertical"
+    },
+    "bx-expand-horizontal": {
+        "body": "<${1:i} class=\"bx bx-expand-horizontal$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-expand-horizontal"
+    },
+    "bx-expand-vertical": {
+        "body": "<${1:i} class=\"bx bx-expand-vertical$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-expand-vertical"
+    },
+    "bx-injection": {
+        "body": "<${1:i} class=\"bx bx-injection$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-injection"
+    },
+    "bx-leaf": {
+        "body": "<${1:i} class=\"bx bx-leaf$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-leaf"
+    },
+    "bx-math": {
+        "body": "<${1:i} class=\"bx bx-math$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-math"
+    },
+    "bx-party": {
+        "body": "<${1:i} class=\"bx bx-party$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-party"
+    },
     "bx-abacus": {
         "body": "<${1:i} class=\"bx bx-abacus$2\"></${1:i}>$0",
         "description": "<i>",
@@ -833,6 +1118,11 @@
         "body": "<${1:i} class=\"bx bx-checkbox-checked$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-checkbox-checked"
+    },
+    "bx-checkbox-minus": {
+        "body": "<${1:i} class=\"bx bx-checkbox-minus$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-checkbox-minus"
     },
     "bx-checkbox-square": {
         "body": "<${1:i} class=\"bx bx-checkbox-square$2\"></${1:i}>$0",
@@ -2674,6 +2964,11 @@
         "description": "<i>",
         "prefix": "bx-phone-incoming"
     },
+    "bx-phone-off": {
+        "body": "<${1:i} class=\"bx bx-phone-off$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-phone-off"
+    },
     "bx-phone-outgoing": {
         "body": "<${1:i} class=\"bx bx-phone-outgoing$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2739,6 +3034,11 @@
         "description": "<i>",
         "prefix": "bx-plus-medical"
     },
+    "bx-podcast": {
+        "body": "<${1:i} class=\"bx bx-podcast$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-podcast"
+    },
     "bx-pointer": {
         "body": "<${1:i} class=\"bx bx-pointer$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2789,6 +3089,16 @@
         "description": "<i>",
         "prefix": "bx-pyramid"
     },
+    "bx-qr": {
+        "body": "<${1:i} class=\"bx bx-qr$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-qr"
+    },
+    "bx-qr-scan": {
+        "body": "<${1:i} class=\"bx bx-qr-scan$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-qr-scan"
+    },
     "bx-question-mark": {
         "body": "<${1:i} class=\"bx bx-question-mark$2\"></${1:i}>$0",
         "description": "<i>",
@@ -2838,6 +3148,11 @@
         "body": "<${1:i} class=\"bx bx-refresh$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-refresh"
+    },
+    "bx-registered": {
+        "body": "<${1:i} class=\"bx bx-registered$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-registered"
     },
     "bx-rename": {
         "body": "<${1:i} class=\"bx bx-rename$2\"></${1:i}>$0",
@@ -3193,6 +3508,11 @@
         "body": "<${1:i} class=\"bx bx-space-bar$2\"></${1:i}>$0",
         "description": "<i>",
         "prefix": "bx-space-bar"
+    },
+    "bx-speaker": {
+        "body": "<${1:i} class=\"bx bx-speaker$2\"></${1:i}>$0",
+        "description": "<i>",
+        "prefix": "bx-speaker"
     },
     "bx-spray-can": {
         "body": "<${1:i} class=\"bx bx-spray-can$2\"></${1:i}>$0",

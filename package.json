@@ -31,7 +31,7 @@
     "bugs": {
         "url": "https://github.com/idleberg/vscode-icon-fonts/issues"
     },
-    "icon": "images/logo.png",
+    "icon": "resources/logo.png",
     "galleryBanner": {
         "color": "#303030",
         "theme": "dark"
@@ -834,7 +834,7 @@
         "eslint": "^8.18.0",
         "eslint-plugin-json": "^3.1.0",
         "gulp": "^4.0.2",
-        "gulp-raster": "^0.2.0",
+        "gulp-raster-update": "^0.2.0",
         "gulp-rename": "^2.0.0",
         "husky": "^8.0.1",
         "lint-staged": "^15.2.0",

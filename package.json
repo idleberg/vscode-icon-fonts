@@ -79,10 +79,6 @@
             },
             {
                 "language": "css",
-                "path": "./snippets/css/fi.json"
-            },
-            {
-                "language": "css",
                 "path": "./snippets/css/fl.json"
             },
             {
@@ -175,10 +171,6 @@
             },
             {
                 "language": "html",
-                "path": "./snippets/html/fi.json"
-            },
-            {
-                "language": "html",
                 "path": "./snippets/html/fl.json"
             },
             {
@@ -276,10 +268,6 @@
             {
                 "language": "less",
                 "path": "./snippets/css/fas.json"
-            },
-            {
-                "language": "less",
-                "path": "./snippets/css/fi.json"
             },
             {
                 "language": "less",
@@ -375,10 +363,6 @@
             },
             {
                 "language": "blade",
-                "path": "./snippets/html/fi.json"
-            },
-            {
-                "language": "blade",
                 "path": "./snippets/html/fl.json"
             },
             {
@@ -476,10 +460,6 @@
             {
                 "language": "scss",
                 "path": "./snippets/css/fas.json"
-            },
-            {
-                "language": "scss",
-                "path": "./snippets/css/fi.json"
             },
             {
                 "language": "scss",
@@ -575,15 +555,7 @@
             },
             {
                 "language": "javascriptreact",
-                "path": "./snippets/jsx/fi.json"
-            },
-            {
-                "language": "javascriptreact",
                 "path": "./snippets/jsx/fl.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/jsx/geomicon.json"
             },
             {
                 "language": "javascriptreact",
@@ -687,10 +659,6 @@
             },
             {
                 "language": "vue-html",
-                "path": "./snippets/html/fi.json"
-            },
-            {
-                "language": "vue-html",
                 "path": "./snippets/html/fl.json"
             },
             {
@@ -792,10 +760,6 @@
             {
                 "language": "svelte",
                 "path": "./snippets/html/fas.json"
-            },
-            {
-                "language": "svelte",
-                "path": "./snippets/html/fi.json"
             },
             {
                 "language": "svelte",

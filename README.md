@@ -1,9 +1,9 @@
 # Icon Fonts for Visual Studio Code
 
-[![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
-[![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-icon-fonts)](https://github.com/idleberg/vscode-icon-fonts/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.icon-fonts.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
-[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/vscode-icon-fonts)](https://circleci.com/gh/idleberg/vscode-icon-fonts)
+[![Version](https://img.shields.io/github/v/release/idleberg/vscode-icon-fonts?style=for-the-badge)](https://github.com/idleberg/vscode-icon-fonts/releases)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/idleberg.icon-fonts?style=for-the-badge&label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/idleberg/icon-fonts?style=for-the-badge&label=Open%20VSX)](https://open-vsx.org/extension/idleberg/icon-fonts)
+[![Build](https://img.shields.io/github/actions/workflow/status/idleberg/vscode-icon-fonts/default.yml?style=for-the-badge)](https://github.com/idleberg/vscode-icon-fonts/actions)
 
 Snippets for a variety of icon fonts ([see details](https://github.com/idleberg/vscode-icon-fonts#prefixes)).
 

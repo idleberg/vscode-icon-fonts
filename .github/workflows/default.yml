@@ -1,0 +1,70 @@
+name: CI
+
+on:
+  push:
+    branches:
+    - main
+    paths:
+    - '.github/**'
+    - 'resources/**'
+    - 'src/**'
+    - 'types/**'
+    - 'package.json'
+    - 'pnpm-lock.yaml'
+  pull_request:
+    branches:
+    - main
+    paths:
+      - '.github/**'
+      - 'resources/**'
+      - 'src/**'
+      - 'types/**'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+  workflow_dispatch:
+
+jobs:
+  default:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        node-version: ['lts/*', '*']
+        os: [ubuntu-latest]
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - uses: pnpm/action-setup@v2.0.1
+        name: Install pnpm
+        id: pnpm-install
+        with:
+          version: 8
+          run_install: false
+
+      - name: Get pnpm store directory
+        id: pnpm-cache
+        run: |
+          echo "::set-output name=pnpm_cache_dir::$(pnpm store path)"
+
+      - uses: actions/cache@v3
+        name: Setup pnpm cache
+        with:
+          path: ${{ steps.pnpm-cache.outputs.pnpm_cache_dir }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile --strict-peer-dependencies
+
+      - name: Lint Source
+        run: pnpm run --if-present lint
+
+      - name: Build Source
+        run: pnpm run --if-present build

@@ -77,7 +77,6 @@ Snippets are limited to the `html`, `css|less|sass|scss|stylus`, `jsx`, `blade` 
 | `fl`              | [Font Logos][fl]                        | 0.18    |
 | `glyphicon`       | [Bootstrap Glyphicons][glyphicon]       | 3.3.7   |
 | `icono`           | [Icono][icono]                          | 1.3.0   |
-| `ion`             | [Ionicons][ion]                         | 2.0.1   |
 | `mdi`             | [Material Design Icons][mdi]            | 6.7.96  |
 | `mfg`             | [MFG Labs Iconset][mfg]                 | –       |
 | `mfizz`           | [Font Mfizz][mfizz]                     | 2.4.1   |
@@ -114,7 +113,6 @@ This work is licensed under [The MIT License](https://opensource.org/licenses/MI
 [fl]: https://github.com/Lukas-W/font-linux
 [glyphicon]: https://github.com/twbs/bootstrap/tree/v3.3.7
 [icono]: https://github.com/saeedalipoor/icono
-[ion]: https://github.com/driftyco/ionicons
 [mdi]: https://github.com/Templarian/MaterialDesign-Webfont
 [mfg]: https://github.com/MfgLabs/mfglabs-iconset
 [mfizz]: https://github.com/fizzed/font-mfizz

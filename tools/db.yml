@@ -181,19 +181,19 @@ fonts:
     tag: span
     options: false
 
-  - id: ionicons
-    slug: ion
-    directory: ion
-    github: driftyco/ionicons
-    files: css/ionicons.css
-    pattern:
-      before: .ion-
-      after: :before
-    classes:
-      before: ''
-      after: ''
-    tag: i
-    options: false
+  # - id: ionicons
+  #   slug: ion
+  #   directory: ion
+  #   github: driftyco/ionicons
+  #   files: css/ionicons.css
+  #   pattern:
+  #     before: .ion-
+  #     after: :before
+  #   classes:
+  #     before: ''
+  #     after: ''
+  #   tag: i
+  #   options: false
 
   - id: icono
     slug: icono
